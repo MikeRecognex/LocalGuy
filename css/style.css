@@ -618,6 +618,58 @@ a.wikilink:hover {
   color: white;
 }
 
+/* === Hero — Space Invader === */
+.hero-invader {
+  text-align: center;
+  padding: 2.5rem 0 2rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.invader-grid {
+  display: inline-grid;
+  grid-template-columns: repeat(11, 1fr);
+  gap: clamp(2px, 0.4vw, 4px);
+  margin: 0 auto 1.25rem;
+}
+
+.invader-grid span {
+  width: clamp(8px, 2vw, 16px);
+  height: clamp(8px, 2vw, 16px);
+  border-radius: 2px;
+}
+
+.invader-grid .px {
+  background: var(--color-accent);
+  animation: invader-glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes invader-glow {
+  0% { opacity: 0.85; }
+  100% { opacity: 1; }
+}
+
+.hero-text {
+  font-family: var(--font-mono);
+  font-size: clamp(1.6rem, 5vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  color: var(--color-text);
+  margin: 0;
+}
+
+/* === Footer Links === */
+footer p:last-child a {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+footer p:last-child a:hover {
+  color: var(--color-text);
+}
+
 /* === Search Button === */
 .search-btn {
   background: none;
@@ -759,7 +811,8 @@ a.wikilink:hover {
 /* === Print === */
 @media print {
   .search-overlay,
-  .search-btn {
+  .search-btn,
+  .hero-invader {
     display: none !important;
   }
   body {
