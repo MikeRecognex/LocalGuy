@@ -1,7 +1,7 @@
 ---
-title: ""
+title: Google LangExtract
 date: 2026-02-08
-description: ""
+description: A language identification library from Google
 tags:
   - bookmark
 status: published
