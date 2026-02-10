@@ -76,6 +76,7 @@ module.exports = function (eleventyConfig) {
   // Passthrough copy
   eleventyConfig.addPassthroughCopy("content/assets");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("js");
 
   // --- Collections ---
 

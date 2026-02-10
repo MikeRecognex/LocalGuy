@@ -4,7 +4,7 @@
   "description": "Obsidian-first IndieWeb publishing stack",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
-    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site",
     "clean": "rm -rf _site"
   },
   "keywords": [],
@@ -16,5 +16,8 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "markdown-it-obsidian-callouts": "^0.3.3",
     "markdown-it-wikilinks": "^1.4.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
   }
 }

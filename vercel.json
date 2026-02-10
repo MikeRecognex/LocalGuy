@@ -1,5 +1,5 @@
 {
-  "buildCommand": "ELEVENTY_ENV=production npx @11ty/eleventy",
+  "buildCommand": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site",
   "outputDirectory": "_site",
   "framework": null
 }
