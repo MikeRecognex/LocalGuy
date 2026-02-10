@@ -1,9 +1,9 @@
 ---
-title: "This Is a Draft"
+title: This Is a Draft
 date: 2026-02-06
-description: "This post should only appear in dev mode, not in production builds."
+description: This post should only appear in dev mode, not in production builds.
 tags:
-  - test
+  - bookmark
 status: draft
 ---
 
