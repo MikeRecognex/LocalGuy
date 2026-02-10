@@ -47,9 +47,9 @@ module.exports = function (eleventyConfig) {
       language: "en",
       title: "LocalGuy",
       subtitle: "A local-first publishing pipeline.",
-      base: "https://localguy.example.com/",
+      base: "https://localguy-theta.vercel.app/",
       author: {
-        name: "Your Name",
+        name: "Mike Doyle",
       },
     },
   });
@@ -66,9 +66,9 @@ module.exports = function (eleventyConfig) {
       language: "en",
       title: "LocalGuy",
       subtitle: "A local-first publishing pipeline.",
-      base: "https://localguy.example.com/",
+      base: "https://localguy-theta.vercel.app/",
       author: {
-        name: "Your Name",
+        name: "Mike Doyle",
       },
     },
   });

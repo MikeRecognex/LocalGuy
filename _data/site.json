@@ -1,11 +1,11 @@
 {
   "name": "LocalGuy",
-  "url": "https://localguy.example.com",
-  "author": "Your Name",
+  "url": "https://localguy-theta.vercel.app",
+  "author": "Mike Doyle",
   "description": "A local-first publishing pipeline. Obsidian → Eleventy → Vercel.",
   "language": "en",
   "giscus": {
-    "repo": "OWNER/localguy",
+    "repo": "MikeRecognex/LocalGuy",
     "repoId": "",
     "category": "Comments",
     "categoryId": ""
