@@ -1,0 +1,10 @@
+<header>
+  <nav>
+    <a href="/" class="site-name">{{ site.name }}</a>
+    <ul>
+      <li><a href="/posts/"{% if page.url == "/posts/" %} aria-current="page"{% endif %}>Posts</a></li>
+      <li><a href="/notes/"{% if page.url == "/notes/" %} aria-current="page"{% endif %}>Notes</a></li>
+      <li><a href="/about/"{% if page.url == "/about/" %} aria-current="page"{% endif %}>About</a></li>
+    </ul>
+  </nav>
+</header>

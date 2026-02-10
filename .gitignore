@@ -1,0 +1,6 @@
+_site/
+node_modules/
+.obsidian/
+_private/
+.DS_Store
+.vercel

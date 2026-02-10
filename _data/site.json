@@ -1,0 +1,13 @@
+{
+  "name": "LocalGuy",
+  "url": "https://localguy.example.com",
+  "author": "Your Name",
+  "description": "A local-first publishing pipeline. Obsidian → Eleventy → Vercel.",
+  "language": "en",
+  "giscus": {
+    "repo": "OWNER/localguy",
+    "repoId": "",
+    "category": "Comments",
+    "categoryId": ""
+  }
+}

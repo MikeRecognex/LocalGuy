@@ -1,0 +1,20 @@
+{
+  "name": "localguy",
+  "version": "1.0.0",
+  "description": "Obsidian-first IndieWeb publishing stack",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
+    "clean": "rm -rf _site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+    "markdown-it-obsidian-callouts": "^0.3.3",
+    "markdown-it-wikilinks": "^1.4.0"
+  }
+}
