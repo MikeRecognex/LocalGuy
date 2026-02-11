@@ -1,6 +1,6 @@
 {
-  "name": "LocalGuy",
-  "url": "https://localguy-theta.vercel.app",
+  "name": "LocalFTW",
+  "url": "https://lftw.dev",
   "author": "Mike Doyle",
   "description": "A local-first publishing pipeline. Obsidian → Eleventy → Vercel.",
   "language": "en",

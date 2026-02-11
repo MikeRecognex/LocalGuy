@@ -10,7 +10,6 @@ tags:
   - on-device
 status: draft
 ---
-
 Samsung has published details about Arm's Scalable Matrix Extension 2 (SME2) technology, which significantly enhances CPU capabilities for on-device AI workloads. This development is particularly important for local LLM deployment as it enables more efficient matrix operations directly on ARM CPUs, potentially reducing the need for dedicated AI accelerators in many use cases.
 
 The SME2 technology introduces improved matrix multiplication units and enhanced data movement capabilities that are crucial for transformer-based models. For practitioners running local LLMs, this could mean better performance on ARM-based devices like Apple Silicon Macs, Android phones, and ARM servers without requiring additional hardware investments.

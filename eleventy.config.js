@@ -45,9 +45,9 @@ module.exports = function (eleventyConfig) {
     },
     metadata: {
       language: "en",
-      title: "LocalGuy",
+      title: "LocalFTW",
       subtitle: "A local-first publishing pipeline.",
-      base: "https://localguy-theta.vercel.app/",
+      base: "https://lftw.dev/",
       author: {
         name: "Mike Doyle",
       },
@@ -64,9 +64,9 @@ module.exports = function (eleventyConfig) {
     },
     metadata: {
       language: "en",
-      title: "LocalGuy",
+      title: "LocalFTW",
       subtitle: "A local-first publishing pipeline.",
-      base: "https://localguy-theta.vercel.app/",
+      base: "https://lftw.dev/",
       author: {
         name: "Mike Doyle",
       },
@@ -77,6 +77,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("content/assets");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy({ "favicon.svg": "favicon.svg" });
 
   // --- Collections ---
 
