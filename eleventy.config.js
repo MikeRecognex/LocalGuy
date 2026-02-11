@@ -83,7 +83,7 @@ module.exports = function (eleventyConfig) {
   // Published posts — feeds and listing pages
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("content/posts/*.md")
+      .getFilteredByGlob("content/posts/**/*.md")
       .filter((item) => item.data.status === "published")
       .sort((a, b) => b.date - a.date);
   });
@@ -92,7 +92,7 @@ module.exports = function (eleventyConfig) {
   // Drafts excluded in production, shown in dev
   eleventyConfig.addCollection("allPosts", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("content/posts/*.md")
+      .getFilteredByGlob("content/posts/**/*.md")
       .filter((item) => {
         if (process.env.ELEVENTY_ENV === "production") {
           return item.data.status !== "draft";
@@ -178,7 +178,7 @@ module.exports = function (eleventyConfig) {
     const required = ["title", "date", "description", "tags", "status"];
     const validStatuses = ["draft", "published", "archived"];
 
-    const posts = collectionApi.getFilteredByGlob("content/posts/*.md");
+    const posts = collectionApi.getFilteredByGlob("content/posts/**/*.md");
     for (const post of posts) {
       for (const field of required) {
         if (post.data[field] === undefined || post.data[field] === null || post.data[field] === "") {
