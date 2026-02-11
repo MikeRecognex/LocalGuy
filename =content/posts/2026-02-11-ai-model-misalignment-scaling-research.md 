@@ -1,0 +1,22 @@
+=---
+title: "Research on AI Misalignment Scaling with Model Intelligence"
+date: 2026-02-11
+description: "New research paper examines how misalignment issues scale with increasing model intelligence, providing insights for safer deployment of powerful local models."
+tags:
+  - daily-digest
+  - research
+  - safety
+  - alignment
+  - model-scaling
+status: draft
+---
+
+A new research paper titled "The Hot Mess of AI: How Does Misalignment Scale with Model Intelligence" provides critical insights into how alignment challenges evolve as models become more capable. This research is particularly relevant for practitioners deploying increasingly powerful local models.
+
+The paper examines whether misalignment issues become more severe or more manageable as models scale up in capability. Understanding these dynamics is crucial for local deployment scenarios where users have direct control over model behavior and safety measures, but may lack the extensive safety infrastructure of major AI labs.
+
+For local LLM practitioners, this research offers important considerations for deploying larger, more capable models in production environments. The findings could inform best practices for monitoring and constraining local model behavior, especially in sensitive applications. [Access the full paper](https://arxiv.org/abs/2601.23045).
+
+---
+*Source: [Hacker News](https://arxiv.org/abs/2601.23045) · Relevance: 5/10*
+    
