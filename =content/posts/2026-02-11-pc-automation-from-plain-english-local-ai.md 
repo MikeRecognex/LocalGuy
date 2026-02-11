@@ -1,0 +1,22 @@
+=---
+title: "Local PC Automation from Plain English Commands"
+date: 2026-02-11
+description: "New open-source tool enables users to create and run PC automations using plain English commands, powered by local AI models for privacy-focused workflow automation."
+tags:
+  - daily-digest
+  - automation
+  - open-source
+  - privacy
+  - local-inference
+status: draft
+---
+
+A new open-source project has emerged that allows users to create complex PC automations using natural language commands, with the AI processing happening entirely locally. This represents an interesting application of local LLMs for practical desktop productivity tasks.
+
+The tool demonstrates how local language models can be effectively used for intent recognition and task planning in desktop environments, without sending sensitive automation commands or screen content to cloud services. This privacy-first approach is particularly relevant for business users who need to automate workflows involving confidential data.
+
+For local LLM practitioners, this project showcases a practical application beyond chatbots and text generation, highlighting how smaller models can be fine-tuned or prompted for specific automation tasks. The approach could inspire similar applications in other domains where privacy and local processing are priorities. [Join the discussion](https://news.ycombinator.com/item?id=46973540).
+
+---
+*Source: [Hacker News](https://news.ycombinator.com/item?id=46973540) · Relevance: 6/10*
+    
