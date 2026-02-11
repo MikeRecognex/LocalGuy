@@ -1,0 +1,22 @@
+=---
+title: "The Hidden Infrastructure Costs of AI Coding Agents"
+date: 2026-02-11
+description: "Analysis reveals that the primary costs of running AI coding agents come from infrastructure and tooling rather than the AI models themselves, with implications for local deployment strategies."
+tags:
+  - daily-digest
+  - agents
+  - deployment
+  - cost-analysis
+  - infrastructure
+status: draft
+---
+
+CodeRabbit's analysis of AI coding agent deployment costs reveals a counterintuitive finding: the majority of operational expenses come from infrastructure, tooling, and orchestration rather than the AI inference itself. This has significant implications for teams considering local deployment of coding agents.
+
+The research shows that while model inference costs are often the focus of optimization efforts, the real cost drivers include sandbox environments, code execution infrastructure, security isolation, and coordination between multiple tools. For local deployments, this means that hardware costs for running the LLM may be just a fraction of the total system requirements.
+
+This insight is particularly valuable for organizations evaluating whether to deploy coding agents locally versus using cloud services. The infrastructure complexity suggests that local deployment requires careful consideration of the full stack, not just model serving capabilities. [View the detailed cost breakdown](https://www.coderabbit.ai/ja/blog/the-hidden-cost-of-ai-coding-agents-isnt-from-ai-at-all).
+
+---
+*Source: [Hacker News](https://www.coderabbit.ai/ja/blog/the-hidden-cost-of-ai-coding-agents-isnt-from-ai-at-all) · Relevance: 6/10*
+    
