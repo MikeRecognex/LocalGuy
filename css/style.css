@@ -473,31 +473,6 @@ article > footer a {
   font-size: 0.85rem;
 }
 
-/* === Notes === */
-.note {
-  max-width: 36rem;
-}
-
-.note .e-content {
-  font-size: 1.05rem;
-}
-
-.note > footer {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-/* === Notes index === */
-.notes-feed li {
-  padding: 1.5rem 0;
-}
-
-.notes-feed li div {
-  margin: 0.5rem 0;
-}
-
 /* === 404 === */
 .not-found {
   text-align: center;

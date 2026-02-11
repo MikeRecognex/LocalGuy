@@ -103,14 +103,6 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
-  // Notes (published only)
-  eleventyConfig.addCollection("notes", function (collectionApi) {
-    return collectionApi
-      .getFilteredByGlob("content/notes/*.md")
-      .filter((item) => item.data.status === "published")
-      .sort((a, b) => b.date - a.date);
-  });
-
   // --- Filters ---
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
