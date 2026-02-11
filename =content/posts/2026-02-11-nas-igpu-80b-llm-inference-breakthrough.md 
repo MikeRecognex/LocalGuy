@@ -1,0 +1,22 @@
+=---
+title: "NAS Runs 80B LLM at 18 tok/s Using Only Integrated GPU"
+date: 2026-02-11
+description: "A practitioner demonstrates running an 80B parameter LLM on a NAS system's integrated GPU achieving 18 tokens per second, proving that large model inference is possible without discrete graphics cards."
+tags:
+  - daily-digest
+  - hardware
+  - inference
+  - igpu
+  - benchmark
+status: draft
+---
+
+A community member has achieved an impressive milestone by successfully running an 80B parameter LLM on their NAS system using only the integrated GPU, reaching 18 tokens per second inference speed. This demonstration challenges conventional wisdom about hardware requirements for large model inference and opens up new possibilities for dual-purpose systems.
+
+The achievement is particularly significant for practitioners looking to maximize hardware utilization without investing in separate systems for storage and AI workloads. By proving that modern integrated GPUs can handle substantial inference workloads, this setup could inspire more efficient and cost-effective deployment strategies for home labs and small businesses.
+
+While the implementer notes they're still optimizing the system, the current performance already demonstrates the viability of consolidated hardware approaches. This could be especially valuable for users who want to run powerful LLMs but face constraints around space, power consumption, or budget. Follow the optimization journey and implementation details in the [original discussion thread](https://www.reddit.com/r/LocalLLaMA/comments/1r1lkfw/my_nas_runs_an_80b_llm_at_18_toks_on_its_igpu_no/).
+
+---
+*Source: [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1r1lkfw/my_nas_runs_an_80b_llm_at_18_toks_on_its_igpu_no/) · Relevance: 8/10*
+    
