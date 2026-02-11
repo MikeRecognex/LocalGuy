@@ -1,14 +1,13 @@
 ---
-title: "Mistral AI Debugs Critical Memory Leak in vLLM Inference Engine"
+title: Mistral AI Debugs Critical Memory Leak in vLLM Inference Engine
 date: 2026-02-11
-description: "Mistral AI's engineering team shares their process for identifying and fixing a significant memory leak in vLLM that was affecting production deployments."
+description: Mistral AI's engineering team shares their process for identifying and fixing a significant memory leak in vLLM that was affecting production deployments.
 tags:
-  - daily-digest
   - vllm
   - memory-optimization
   - debugging
   - performance
-status: draft
+status: published
 ---
 
 Mistral AI has published a detailed technical post about debugging a critical memory leak in vLLM, one of the most popular inference engines for local LLM deployment. The issue was causing gradual memory accumulation during long-running inference sessions, eventually leading to out-of-memory errors and server crashes in production environments.

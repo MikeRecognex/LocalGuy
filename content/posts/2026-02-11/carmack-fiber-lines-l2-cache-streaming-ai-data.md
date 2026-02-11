@@ -1,14 +1,13 @@
 ---
-title: "Carmack Proposes Using Long Fiber Lines as L2 Cache for Streaming AI Data"
+title: Carmack Proposes Using Long Fiber Lines as L2 Cache for Streaming AI Data
 date: 2026-02-11
-description: "John Carmack explores using fiber optic lines as an alternative to DRAM for streaming AI data, potentially revolutionizing memory architecture for large model inference."
+description: John Carmack explores using fiber optic lines as an alternative to DRAM for streaming AI data, potentially revolutionizing memory architecture for large model inference.
 tags:
-  - daily-digest
   - hardware
   - memory-optimization
   - inference
   - architecture
-status: draft
+status: published
 ---
 
 John Carmack has proposed an innovative approach to AI memory architecture by suggesting the use of long fiber optic lines as L2 cache for streaming AI data, presenting a potential alternative to traditional DRAM solutions. This concept could address one of the most significant bottlenecks in local LLM deployment: memory bandwidth and capacity limitations that constrain model size and inference speed.

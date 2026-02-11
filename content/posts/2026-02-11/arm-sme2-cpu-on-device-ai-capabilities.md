@@ -1,14 +1,13 @@
 ---
-title: "Arm SME2 Technology Expands CPU Capabilities for On-Device AI"
+title: Arm SME2 Technology Expands CPU Capabilities for On-Device AI
 date: 2026-02-11
-description: "Samsung and Arm announce SME2 technology that significantly enhances CPU performance for local AI inference, potentially reducing reliance on dedicated AI accelerators."
+description: Samsung and Arm announce SME2 technology that significantly enhances CPU performance for local AI inference, potentially reducing reliance on dedicated AI accelerators.
 tags:
-  - daily-digest
   - hardware
   - cpu-inference
   - arm
   - on-device
-status: draft
+status: published
 ---
 
 Samsung has announced new CPU capabilities powered by Arm's SME2 (Scalable Matrix Extension 2) technology that significantly enhance on-device AI performance. This development represents a major step forward for local LLM deployment by enabling more efficient matrix operations directly on CPU cores, potentially reducing the need for dedicated AI accelerators in many use cases.

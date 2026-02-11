@@ -1,9 +1,8 @@
 ---
-title: "Developer Switches from Ollama and LM Studio to llama.cpp for Better Performance"
+title: Developer Switches from Ollama and LM Studio to llama.cpp for Better Performance
 date: 2026-02-11
-description: "A detailed comparison reveals why switching to raw llama.cpp can provide better control and performance for local LLM deployment compared to popular GUI tools."
+description: A detailed comparison reveals why switching to raw llama.cpp can provide better control and performance for local LLM deployment compared to popular GUI tools.
 tags:
-  - daily-digest
   - llama-cpp
   - ollama
   - performance
