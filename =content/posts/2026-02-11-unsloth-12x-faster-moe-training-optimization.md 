@@ -1,0 +1,22 @@
+=---
+title: "Unsloth Achieves 12x Faster MoE Training with 30% Memory Reduction"
+date: 2026-02-11
+description: "Unsloth has released custom Triton kernels that enable 12x faster Mixture of Experts training while using 35% less VRAM and supporting 6x longer context lengths, making MoE accessible for consumer hardware."
+tags:
+  - daily-digest
+  - fine-tuning
+  - memory-optimization
+  - moe
+  - hardware
+status: draft
+---
+
+Unsloth has announced a breakthrough in Mixture of Experts (MoE) training efficiency, delivering 12x faster training speeds while reducing VRAM requirements by over 35%. The improvements are achieved through custom Triton kernels and mathematical optimizations that maintain accuracy while dramatically improving resource utilization. Most importantly for local practitioners, the optimizations enable MoE training on consumer hardware with less than 15GB VRAM.
+
+This development makes sophisticated MoE architectures accessible to individual researchers and small teams who previously couldn't afford the computational resources required for such models. The ability to train MoE models locally with significantly reduced memory requirements could democratize access to these powerful architectures that have shown superior performance per parameter.
+
+The optimizations also support 6x longer context lengths, addressing one of the key limitations in local fine-tuning workflows. You can explore the implementation and start experimenting with the new capabilities through the [Unsloth GitHub repository](https://github.com/unslothai/unsloth).
+
+---
+*Source: [r/LocalLLaMA](https://i.redd.it/ee2jwnijvoig1.png) · Relevance: 9/10*
+    
