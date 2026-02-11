@@ -6,6 +6,7 @@
   <title>{% if title %}{{ title }} — {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
   <meta name="description" content="{{ description or site.description }}">
   {% include "partials/meta.njk" %}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="/feed.xml">
   <link rel="alternate" type="application/json" title="{{ site.name }}" href="/feed.json">
   <link rel="stylesheet" href="/css/style.css">
@@ -20,5 +21,6 @@
   {% include "partials/footer.njk" %}
   {% include "partials/search.njk" %}
   <script type="module" src="/js/search.js"></script>
+  {% if page.url == "/bookmarks/" %}<script type="module" src="/js/bookmarks.js"></script>{% endif %}
 </body>
 </html>

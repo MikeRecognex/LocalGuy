@@ -808,11 +808,70 @@ footer p:last-child a:hover {
   border: 0;
 }
 
+/* === Bookmarks === */
+.btn-github {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 0.6rem 1.2rem;
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text);
+  text-decoration: none;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.btn-github:hover {
+  border-color: var(--color-muted);
+  background: var(--color-bg);
+  text-decoration: none;
+}
+
+.btn-github:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.btn-github svg {
+  flex-shrink: 0;
+}
+
+.bookmarks-signout {
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-left: 0.5rem;
+}
+
+.bookmark-reactions {
+  display: inline-block;
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+  letter-spacing: 0.1em;
+}
+
+.bookmarks-error {
+  color: #d32f2f;
+}
+
+@media (prefers-color-scheme: dark) {
+  .bookmarks-error {
+    color: #ef5350;
+  }
+}
+
 /* === Print === */
 @media print {
   .search-overlay,
   .search-btn,
-  .hero-invader {
+  .hero-invader,
+  .btn-github,
+  .bookmarks-signout {
     display: none !important;
   }
   body {
