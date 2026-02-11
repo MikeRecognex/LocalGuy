@@ -1,0 +1,46 @@
+name: Submit a Post
+description: Suggest a post for LocalFTW
+title: "[Submission] "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a post to LocalFTW! Fill in the details below and we'll review it.
+  - type: input
+    id: title
+    attributes:
+      label: Post Title
+      placeholder: "e.g. Running Llama 3 on a Raspberry Pi 5"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Summary
+      description: A one or two sentence summary of the post.
+      placeholder: "Brief description that will appear in post listings..."
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags.
+      placeholder: "e.g. local-llm, hardware, inference"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Link to the original article, repo, or discussion.
+      placeholder: "https://..."
+  - type: textarea
+    id: content
+    attributes:
+      label: Post Content
+      description: The full post in Markdown. Include analysis, context, and why this matters for the local AI community.
+      placeholder: "Write your post here..."
+    validations:
+      required: true

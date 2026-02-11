@@ -130,6 +130,65 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
+  // Posts from the last N days (minimum 3 posts as fallback)
+  eleventyConfig.addFilter("recentDays", (posts, days) => {
+    const cutoff = new Date();
+    cutoff.setHours(0, 0, 0, 0);
+    cutoff.setDate(cutoff.getDate() - days);
+    const recent = posts.filter((p) => p.date >= cutoff);
+    return recent.length >= 3 ? recent : posts.slice(0, 3);
+  });
+
+  // Posts older than N days
+  eleventyConfig.addFilter("olderThanDays", (posts, days) => {
+    const cutoff = new Date();
+    cutoff.setHours(0, 0, 0, 0);
+    cutoff.setDate(cutoff.getDate() - days);
+    return posts.filter((p) => p.date < cutoff);
+  });
+
+  // Group posts into [ { label: "11 February 2026", posts: [...] }, ... ]
+  eleventyConfig.addFilter("groupByDate", (posts) => {
+    const groups = [];
+    let current = null;
+    for (const post of posts) {
+      const label = new Date(post.date).toLocaleDateString("en-GB", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      });
+      if (!current || current.label !== label) {
+        current = { label, date: post.date, posts: [] };
+        groups.push(current);
+      }
+      current.posts.push(post);
+    }
+    return groups;
+  });
+
+  // Tag cloud: returns [ { tag, count, weight } ] sorted by count descending
+  // weight is 1–5 based on relative frequency
+  eleventyConfig.addFilter("tagCloud", (posts) => {
+    const counts = {};
+    for (const post of posts) {
+      for (const tag of post.data.tags || []) {
+        counts[tag] = (counts[tag] || 0) + 1;
+      }
+    }
+    const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts"]);
+    const tags = Object.entries(counts)
+      .filter(([tag]) => !exclude.has(tag))
+      .map(([tag, count]) => ({ tag, count }))
+      .sort((a, b) => b.count - a.count);
+    if (!tags.length) return [];
+    const max = tags[0].count;
+    const min = tags[tags.length - 1].count;
+    for (const t of tags) {
+      t.weight = min === max ? 3 : Math.ceil(((t.count - min) / (max - min)) * 4) + 1;
+    }
+    return tags;
+  });
+
   // Strip YYYY-MM-DD- prefix from slugs for cleaner permalinks
   eleventyConfig.addFilter("removeDatePrefix", (slug) => {
     return slug.replace(/^\d{4}-\d{2}-\d{2}-/, "");
