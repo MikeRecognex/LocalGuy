@@ -1,14 +1,13 @@
 ---
-title: "ByteDance Releases Seedance 2.0 AI Development Platform"
+title: ByteDance Releases Seedance 2.0 AI Development Platform
 date: 2026-02-12
-description: "ByteDance has launched Seedance 2.0, an updated AI development platform that may include new capabilities for model deployment and inference optimization."
+description: ByteDance has launched Seedance 2.0, an updated AI development platform that may include new capabilities for model deployment and inference optimization.
 tags:
-  - daily-digest
   - platform
   - deployment
   - open-source
   - framework
-status: draft
+status: published
 ---
 
 ByteDance has released Seedance 2.0, an updated version of their AI development platform. While details are still emerging, this platform update could potentially offer new tools and frameworks relevant to local LLM deployment and optimization.

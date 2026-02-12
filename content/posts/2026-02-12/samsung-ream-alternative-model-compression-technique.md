@@ -1,14 +1,13 @@
 ---
 title: "Samsung's REAM: Alternative Model Compression Technique"
 date: 2026-02-12
-description: "Samsung introduces REAM as a less damaging alternative to traditional REAP model compression methods used by other companies, potentially offering better performance preservation during model shrinking."
+description: Samsung introduces REAM as a less damaging alternative to traditional REAP model compression methods used by other companies, potentially offering better performance preservation during model shrinking.
 tags:
-  - daily-digest
   - compression
   - quantisation
   - samsung
   - optimization
-status: draft
+status: published
 ---
 
 Samsung has introduced REAM (REActivation Mapping), a novel approach to model compression that aims to be less damaging than traditional REAP (REActivation Pruning) methods. While companies like Cerebras have used REAP techniques on models like Kimi-Linear, DeepSeek v3.2, GLM 4.X, MiniMax M2, and Qwen3, Samsung's approach promises to preserve more of the original model's capabilities during the compression process.

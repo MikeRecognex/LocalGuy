@@ -1,14 +1,13 @@
 ---
-title: "New Header-Only C++ Benchmark Tool for Predictive Models on Raw Binary Streams"
+title: New Header-Only C++ Benchmark Tool for Predictive Models on Raw Binary Streams
 date: 2026-02-12
-description: "A lightweight C++ benchmarking framework has been released specifically for testing predictive models on raw binary streams, offering potential benefits for local LLM inference optimization."
+description: A lightweight C++ benchmarking framework has been released specifically for testing predictive models on raw binary streams, offering potential benefits for local LLM inference optimization.
 tags:
-  - daily-digest
   - benchmark
   - cpp
   - performance
   - inference
-status: draft
+status: published
 ---
 
 A new header-only C++ benchmarking tool called AGITB has been released for evaluating predictive models on raw binary streams. This lightweight framework could be particularly useful for developers working on local LLM inference optimization, allowing them to benchmark different quantization schemes and model architectures directly on binary data.

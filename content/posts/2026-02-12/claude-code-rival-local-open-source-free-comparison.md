@@ -1,16 +1,14 @@
 ---
-title: "I Tried a Claude Code Rival That's Local, Open Source, and Completely Free"
+title: I Tried a Claude Code Rival That's Local, Open Source, and Completely Free
 date: 2026-02-12
-description: "Hands-on comparison of a local, open-source alternative to Claude's coding capabilities, demonstrating competitive performance for code generation tasks."
+description: Hands-on comparison of a local, open-source alternative to Claude's coding capabilities, demonstrating competitive performance for code generation tasks.
 tags:
-  - daily-digest
   - open-source
   - coding
   - benchmark
   - local
-status: draft
+status: published
 ---
-
 A comprehensive hands-on evaluation reveals that local, open-source alternatives to Claude's coding capabilities are reaching competitive performance levels. The testing demonstrates that developers can now run sophisticated code generation models entirely offline, without sacrificing significant quality.
 
 This development is significant for practitioners who require code assistance while maintaining data privacy and avoiding API costs. The local alternative offers comparable code completion, debugging, and explanation capabilities while running entirely on consumer hardware.

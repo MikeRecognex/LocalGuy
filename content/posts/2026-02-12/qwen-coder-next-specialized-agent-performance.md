@@ -1,14 +1,13 @@
 ---
-title: "Qwen Coder Next Shows Specialized Agent Performance"
+title: Qwen Coder Next Shows Specialized Agent Performance
 date: 2026-02-12
-description: "Community testing reveals Qwen Coder Next excels at agent work and research tasks rather than pure code generation, showing strong performance in planning, technical writing, and information gathering despite its coding-focused name."
+description: Community testing reveals Qwen Coder Next excels at agent work and research tasks rather than pure code generation, showing strong performance in planning, technical writing, and information gathering despite its coding-focused name.
 tags:
-  - daily-digest
   - qwen
   - agents
   - coding
   - benchmark
-status: draft
+status: published
 ---
 
 Community testing of Qwen Coder Next has revealed an interesting performance profile that diverges from expectations based on its name. While the model shows mediocre performance at pure code generation tasks, users report excellent capabilities in planning, technical writing, and general agent work, with particularly strong performance in research and information synthesis tasks.
