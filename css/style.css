@@ -633,6 +633,14 @@ a.wikilink:hover {
   margin: 0;
 }
 
+.hero-tagline {
+  font-family: var(--font-heading);
+  font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+  font-weight: 700;
+  color: var(--color-muted);
+  margin: 0.5rem 0 0;
+}
+
 /* === Footer Links === */
 footer p:last-child a {
   font-size: 0.85rem;
