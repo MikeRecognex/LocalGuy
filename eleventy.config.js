@@ -89,6 +89,14 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Published guides — evergreen tutorials
+  eleventyConfig.addCollection("guides", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("content/guides/*.md")
+      .filter((item) => item.data.status === "published")
+      .sort((a, b) => (b.data.updated || b.date) - (a.data.updated || a.date));
+  });
+
   // All built posts — includes archived (URL preservation)
   // Drafts excluded in production, shown in dev
   eleventyConfig.addCollection("allPosts", function (collectionApi) {
@@ -167,7 +175,7 @@ module.exports = function (eleventyConfig) {
         counts[tag] = (counts[tag] || 0) + 1;
       }
     }
-    const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts"]);
+    const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts", "guides"]);
     const tags = Object.entries(counts)
       .filter(([tag]) => !exclude.has(tag))
       .map(([tag, count]) => ({ tag, count }))
@@ -179,6 +187,20 @@ module.exports = function (eleventyConfig) {
       t.weight = min === max ? 3 : Math.ceil(((t.count - min) / (max - min)) * 4) + 1;
     }
     return tags;
+  });
+
+  eleventyConfig.addFilter("byCategory", (items, category) => {
+    return items.filter((item) => item.data.category === category);
+  });
+
+  eleventyConfig.addFilter("categoryName", (slug) => {
+    const names = {
+      "getting-started": "Getting Started",
+      "hardware": "Hardware",
+      "models": "Models",
+      "deployment": "Deployment",
+    };
+    return names[slug] || slug;
   });
 
   // Strip YYYY-MM-DD- prefix from slugs for cleaner permalinks

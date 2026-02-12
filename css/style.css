@@ -892,6 +892,79 @@ footer p:last-child a:hover {
   }
 }
 
+/* === Guides === */
+.guide-meta {
+  font-family: var(--font-heading);
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.guide-meta-inline {
+  font-family: var(--font-heading);
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+}
+
+.difficulty-badge {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  background: var(--color-surface);
+}
+
+.difficulty-beginner {
+  color: #1a8917;
+}
+
+.difficulty-intermediate {
+  color: #b8860b;
+}
+
+.difficulty-advanced {
+  color: #c62828;
+}
+
+@media (prefers-color-scheme: dark) {
+  .difficulty-beginner {
+    color: #4caf50;
+  }
+
+  .difficulty-intermediate {
+    color: #ffc107;
+  }
+
+  .difficulty-advanced {
+    color: #ef5350;
+  }
+}
+
+.guide-edit-link {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+}
+
+.guide-edit-link a {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+}
+
+.guide-edit-link a:hover {
+  color: var(--color-text);
+}
+
 /* === Print === */
 @media print {
   .search-overlay,

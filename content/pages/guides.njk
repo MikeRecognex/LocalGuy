@@ -1,0 +1,31 @@
+---
+title: Guides
+layout: layouts/base.njk
+permalink: /guides/
+description: Step-by-step tutorials for running AI locally.
+---
+
+<h1>Guides</h1>
+<p>Step-by-step tutorials for running AI locally. <a href="https://github.com/MikeRecognex/LocalGuy">Contribute a guide on GitHub</a>.</p>
+
+{% set allGuides = collections.guides %}
+{% set categories = ["getting-started", "hardware", "models", "deployment"] %}
+
+{% for cat in categories %}
+  {% set catGuides = allGuides | byCategory(cat) %}
+  {% if catGuides.length %}
+  <h2>{{ cat | categoryName }}</h2>
+  <ul class="post-list">
+    {% for guide in catGuides %}
+    <li>
+      <a href="{{ guide.url }}">{{ guide.data.title }}</a>
+      <span class="difficulty-badge difficulty-{{ guide.data.difficulty | default('beginner') }}">{{ guide.data.difficulty | default("beginner") }}</span>
+      <span class="guide-meta-inline">{{ guide.data.timeEstimate }}</span>
+      {% if guide.data.description %}
+      <p class="summary">{{ guide.data.description }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}
