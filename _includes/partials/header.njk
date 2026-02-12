@@ -2,6 +2,7 @@
   <nav>
     <a href="/" class="site-name">{{ site.name }}</a>
     <ul>
+      <li><a href="/start-here/"{% if page.url == "/start-here/" %} aria-current="page"{% endif %}>Start Here</a></li>
       <li><a href="/posts/"{% if page.url == "/posts/" %} aria-current="page"{% endif %}>All Posts</a></li>
 <li><a href="/contribute/"{% if page.url == "/contribute/" %} aria-current="page"{% endif %}>Contribute</a></li>
       <li><a href="/about/"{% if page.url == "/about/" %} aria-current="page"{% endif %}>About</a></li>
