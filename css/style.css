@@ -892,6 +892,33 @@ footer p:last-child a:hover {
   }
 }
 
+/* === Join In (homepage CTA) === */
+.join-in {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2.5rem;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.5rem;
+}
+
+.join-in li {
+  margin: 0;
+}
+
+.join-in a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.join-in a:hover {
+  text-decoration: underline;
+}
+
 /* === Guides === */
 .guide-meta {
   font-family: var(--font-heading);

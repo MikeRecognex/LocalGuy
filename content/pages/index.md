@@ -18,6 +18,12 @@ permalink: /
   <p class="hero-text">LOCAL FTW</p>
 </div>
 
+<ul class="join-in">
+  <li><a href="/bookmarks/">Bookmark</a> stories with reactions via GitHub</li>
+  <li><a href="/contribute/">Comment</a> on any post — no account needed to read</li>
+  <li>Write your own <a href="/contribute/">posts</a> or <a href="/guides/">guides</a></li>
+</ul>
+
 {% if collections.posts.length %}
 ## Recent Posts
 
