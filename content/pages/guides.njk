@@ -6,7 +6,21 @@ description: Step-by-step tutorials for running AI locally.
 ---
 
 <h1>Guides</h1>
-<p>Step-by-step tutorials for running AI locally. <a href="https://github.com/MikeRecognex/LocalGuy">Contribute a guide on GitHub</a>.</p>
+{% set guideTemplate %}---
+title: "Your Guide Title"
+date: {{ "" }}
+description: "A short summary of what this guide covers."
+tags:
+  - example-tag
+status: published
+category: getting-started
+difficulty: beginner
+timeEstimate: "15 min"
+---
+
+Write your guide content here.
+{% endset %}
+<p>Step-by-step tutorials for running AI locally. <a href="https://github.com/MikeRecognex/LocalGuy/new/main/content/guides/?filename=my-guide.md&value={{ guideTemplate | urlencode }}" target="_blank" rel="noopener">Contribute a guide on GitHub</a>.</p>
 
 {% set allGuides = collections.guides %}
 {% set categories = ["getting-started", "hardware", "models", "deployment"] %}
