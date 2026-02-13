@@ -1,5 +1,5 @@
 ---
-title: Why Local?
+title: Why Local
 layout: layouts/page.njk
 permalink: /why-local/
 ---
