@@ -7,7 +7,7 @@ tags:
   - memory-optimization
   - debugging
   - performance
-status:
+status: published
 ---
 Mistral AI's engineering team has published a detailed technical post-mortem of debugging a critical memory leak in vLLM, one of the most popular inference engines for local LLM deployment. The investigation reveals sophisticated memory management issues that can severely impact long-running inference servers.
 
