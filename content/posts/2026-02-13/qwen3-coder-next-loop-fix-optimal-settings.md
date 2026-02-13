@@ -1,14 +1,14 @@
 ---
-title: "Optimal llama.cpp Settings Found for Qwen3 Coder Next Loop Issues"
+title: Optimal llama.cpp Settings Found for Qwen3 Coder Next Loop Issues
 date: 2026-02-13
-description: "Community discovers optimal llama.cpp configuration to fix repetitive loop problems in Qwen3-Coder-Next models, improving practical deployment reliability."
+description: Community discovers optimal llama.cpp configuration to fix repetitive loop problems in Qwen3-Coder-Next models, improving practical deployment reliability.
 tags:
   - daily-digest
   - llama-cpp
   - configuration
   - coding
   - troubleshooting
-status: draft
+status: published
 ---
 
 A community member has identified optimal llama.cpp settings to resolve the persistent repetitive loop issues plaguing Qwen3-Coder-Next models. After extensive testing, they've discovered [specific configuration parameters](https://www.reddit.com/r/LocalLLaMA/comments/1r3aod7/qwen3_coder_next_loop_fix/) that significantly improve the model's reliability for coding tasks.

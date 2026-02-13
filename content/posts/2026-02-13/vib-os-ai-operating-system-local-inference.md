@@ -1,14 +1,13 @@
 ---
-title: "First Vibecoded AI Operating System for Local Deployment"
+title: First Vibecoded AI Operating System for Local Deployment
 date: 2026-02-13
-description: "New experimental AI-powered operating system designed for local inference and edge computing applications."
+description: New experimental AI-powered operating system designed for local inference and edge computing applications.
 tags:
-  - daily-digest
   - operating-system
   - edge-inference
   - experimental
   - open-source
-status: draft
+status: published
 ---
 
 The vib-OS project introduces an experimental approach to AI-powered operating systems, potentially revolutionizing how we think about local AI deployment at the system level. This "vibecoded" OS appears to integrate AI capabilities directly into the operating system layer, which could enable more efficient resource management and inference optimization.

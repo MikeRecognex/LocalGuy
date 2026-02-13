@@ -1,14 +1,13 @@
 ---
 title: "Switching From Ollama and LM Studio to llama.cpp: Performance Benefits"
 date: 2026-02-13
-description: "A detailed comparison shows why switching from user-friendly tools like Ollama and LM Studio to direct llama.cpp usage can provide significant performance improvements for local LLM deployment."
+description: A detailed comparison shows why switching from user-friendly tools like Ollama and LM Studio to direct llama.cpp usage can provide significant performance improvements for local LLM deployment.
 tags:
-  - daily-digest
   - llama-cpp
   - ollama
   - lm-studio
   - performance
-status: draft
+status: published
 ---
 
 While tools like Ollama and LM Studio provide user-friendly interfaces for running local LLMs, a growing number of practitioners are discovering significant performance benefits by switching to direct llama.cpp usage. This detailed comparison explores the trade-offs between convenience and performance in local LLM deployment strategies.
