@@ -8,7 +8,7 @@ tags:
   - security
   - self-hosted
   - edge-inference
-status: draft
+status: published
 ---
 
 This security discussion highlights an important architectural principle in local LLM deployment: tools designed for self-hosting should remain fully decoupled from cloud infrastructure and public credential sharing. Open Claw's design philosophy reinforces why local deployment matters—sensitive operations involving private data, API keys, and internal workflows should run entirely within controlled environments.

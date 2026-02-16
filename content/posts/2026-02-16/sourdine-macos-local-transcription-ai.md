@@ -1,14 +1,14 @@
 ---
 title: "Sourdine: Open-Source macOS App for 100% Local AI Transcription"
 date: 2026-02-16
-description: "Sourdine is a new open-source macOS application that performs meeting transcription entirely on-device using local AI models, eliminating the need to send audio to cloud services."
+description: Sourdine is a new open-source macOS application that performs meeting transcription entirely on-device using local AI models, eliminating the need to send audio to cloud services.
 tags:
   - daily-digest
   - open-source
   - edge-inference
   - macos
   - speech-recognition
-status: draft
+status: published
 ---
 
 Sourdine represents a practical breakthrough for users seeking privacy-preserving AI applications on macOS. By running transcription models entirely locally, the application avoids the latency and privacy concerns associated with cloud-based transcription services. This approach is particularly valuable for professionals handling sensitive conversations who need real-time or near-real-time transcription without uploading audio data to third-party servers.
