@@ -1,14 +1,13 @@
 ---
-title: "Open-Source Models Now Comprise 4 of Top 5 Most-Used Endpoints on OpenRouter"
+title: Open-Source Models Now Comprise 4 of Top 5 Most-Used Endpoints on OpenRouter
 date: 2026-02-17
-description: "Recent OpenRouter usage statistics show that open-source models have overtaken proprietary offerings, with four of the five most-used model endpoints now being open-source implementations. This shift validates the maturity and cost-effectiveness of local and self-hosted deployments."
+description: Recent OpenRouter usage statistics show that open-source models have overtaken proprietary offerings, with four of the five most-used model endpoints now being open-source implementations. This shift validates the maturity and cost-effectiveness of local and self-hosted deployments.
 tags:
-  - daily-digest
   - open-source
   - benchmark
   - adoption
   - cost-optimization
-status: draft
+status: published
 ---
 
 The shift toward open-source model dominance on OpenRouter signals a fundamental change in the LLM market: practitioners are voting with their inference requests for models they can own, modify, and self-host. When four of the top five most-used endpoints are open-source, it reflects both quality parity with proprietary models and significant cost savings, since users can run these models locally rather than paying per-request API fees.

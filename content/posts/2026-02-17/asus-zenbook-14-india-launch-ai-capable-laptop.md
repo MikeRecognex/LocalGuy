@@ -1,14 +1,13 @@
 ---
-title: "ASUS Zenbook 14 Launches in India with AI-Capable Hardware, Starting at Rs 1,15,990"
+title: ASUS Zenbook 14 Launches in India with AI-Capable Hardware, Starting at Rs 1,15,990
 date: 2026-02-17
-description: "ASUS introduces the Zenbook 14 in the Indian market with processors optimized for local AI inference, making capable on-device LLM deployment accessible to a broader geographic audience at competitive pricing. The launch reflects growing demand for edge AI capabilities in emerging markets."
+description: ASUS introduces the Zenbook 14 in the Indian market with processors optimized for local AI inference, making capable on-device LLM deployment accessible to a broader geographic audience at competitive pricing. The launch reflects growing demand for edge AI capabilities in emerging markets.
 tags:
-  - daily-digest
   - hardware
   - emerging-markets
   - on-device
   - performance
-status: draft
+status: published
 ---
 
 ASUS has launched the Zenbook 14 in the Indian market, pricing models starting at Rs 1,15,990 with configurations designed to support local AI inference workloads. The strategic pricing and regional availability represent an important development in democratizing edge AI capabilities beyond traditional technology hubs, bringing practical LLM deployment within reach for developers and professionals in emerging markets.

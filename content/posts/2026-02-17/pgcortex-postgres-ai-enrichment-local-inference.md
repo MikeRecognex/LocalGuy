@@ -1,14 +1,13 @@
 ---
 title: "Show HN: PgCortex – AI enrichment per Postgres row, zero transaction blocking"
 date: 2026-02-17
-description: "Novel tool integrating local AI inference directly into PostgreSQL for per-row data enrichment without blocking transactions, enabling efficient batch processing of LLM operations."
+description: Novel tool integrating local AI inference directly into PostgreSQL for per-row data enrichment without blocking transactions, enabling efficient batch processing of LLM operations.
 tags:
-  - daily-digest
   - tools
   - database-integration
   - inference-optimization
   - postgres
-status: draft
+status: published
 ---
 
 PgCortex represents an innovative approach to integrating local LLM inference into data pipelines. By embedding AI enrichment directly at the database layer, it solves a fundamental problem: how to scale LLM operations across millions of records without blocking transactions or managing complex external queues.

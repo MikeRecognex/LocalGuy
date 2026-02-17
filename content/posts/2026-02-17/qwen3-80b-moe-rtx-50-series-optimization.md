@@ -1,14 +1,14 @@
 ---
-title: "Qwen3-Next 80B MoE Achieves 39 Tokens/Second on RTX 5070/5060 Ti Dual-GPU Setup"
+title: Qwen3-Next 80B MoE Achieves 39 Tokens/Second on RTX 5070/5060 Ti Dual-GPU Setup
 date: 2026-02-17
-description: "A community member has optimised Qwen3-Next 80B mixture-of-experts to run at 39 tokens/second on dual RTX 50-series GPUs with 32GB total VRAM, sharing previously undiscovered configuration solutions for consumer-grade hardware."
+description: A community member has optimised Qwen3-Next 80B mixture-of-experts to run at 39 tokens/second on dual RTX 50-series GPUs with 32GB total VRAM, sharing previously undiscovered configuration solutions for consumer-grade hardware.
 tags:
   - daily-digest
   - qwen
   - moe
   - optimization
   - hardware
-status: draft
+status: published
 ---
 
 This hands-on optimization demonstrates the practical viability of running large mixture-of-experts models on current consumer GPUs through careful configuration. Achieving 39 tokens/second on a RTX 5070 Ti + 5060 Ti setup (32GB VRAM total) is genuinely useful inference speed for real-time applications like coding assistants or interactive chatbots, while remaining accessible to individual practitioners and small teams.

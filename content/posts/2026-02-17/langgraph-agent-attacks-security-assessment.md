@@ -1,14 +1,13 @@
 ---
-title: "I attacked my own LangGraph agent system. All 6 attacks worked"
+title: I attacked my own LangGraph agent system. All 6 attacks worked
 date: 2026-02-17
-description: "Security analysis of LangGraph-based AI agent systems, demonstrating multiple attack vectors against locally-deployed agentic systems and their implications for production deployments."
+description: Security analysis of LangGraph-based AI agent systems, demonstrating multiple attack vectors against locally-deployed agentic systems and their implications for production deployments.
 tags:
-  - daily-digest
   - agents
   - security
   - langgraph
   - best-practices
-status: draft
+status: published
 ---
 
 This detailed security assessment reveals fundamental vulnerabilities in LangGraph-based agent systems—a popular framework for building autonomous AI workflows. The fact that all six attack attempts succeeded indicates systemic security gaps in how agentic systems handle user input, function calling, and state management.

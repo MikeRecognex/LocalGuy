@@ -1,11 +1,9 @@
 ---
-title: Why Local
+title: "Why Run AI Locally?"
+description: "A beginner's guide to running AI models locally — privacy, cost, control and how to get started."
 layout: layouts/page.njk
 permalink: /why-local/
 ---
-
-# **Why Run AI Locally?**
-  
 
 New to Local AI? This page will get you oriented.
 

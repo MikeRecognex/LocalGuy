@@ -15,7 +15,7 @@ permalink: /
     <span class="px"></span><span></span><span class="px"></span><span></span><span></span><span></span><span></span><span></span><span class="px"></span><span></span><span class="px"></span>
     <span></span><span></span><span></span><span class="px"></span><span class="px"></span><span></span><span class="px"></span><span class="px"></span><span></span><span></span><span></span>
   </div>
-  <p class="hero-text">LOCAL FTW</p>
+  <h1 class="hero-text">LOCAL FTW</h1>
   <p class="hero-tagline">News, guides and discovery for the local LLM community.</p>
 </div>
 

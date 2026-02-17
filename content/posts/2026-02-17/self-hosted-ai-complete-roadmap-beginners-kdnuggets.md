@@ -1,14 +1,13 @@
 ---
 title: "Self-Hosted AI: A Complete Roadmap for Beginners"
 date: 2026-02-17
-description: "KDnuggets publishes a comprehensive guide for deploying and running AI models locally, covering essential concepts, tools, and best practices for self-hosted inference. This resource serves as a practical entry point for developers new to local LLM deployment."
+description: KDnuggets publishes a comprehensive guide for deploying and running AI models locally, covering essential concepts, tools, and best practices for self-hosted inference. This resource serves as a practical entry point for developers new to local LLM deployment.
 tags:
-  - daily-digest
   - self-hosted
   - tutorial
   - deployment
   - beginners
-status: draft
+status: published
 ---
 
 KDnuggets has released a foundational roadmap for implementing self-hosted AI systems, targeting practitioners who are new to local model deployment. The guide covers the critical path from understanding core concepts through practical implementation, making it an invaluable resource for teams transitioning from cloud-based AI solutions to on-premise infrastructure.

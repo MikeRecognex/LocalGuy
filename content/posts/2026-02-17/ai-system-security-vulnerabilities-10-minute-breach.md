@@ -1,14 +1,13 @@
 ---
-title: "I broke into my own AI system in 10 minutes. I built it"
+title: I broke into my own AI system in 10 minutes. I built it
 date: 2026-02-17
-description: "Security researcher demonstrates critical vulnerabilities in self-built AI systems, highlighting the importance of hardening locally-deployed models against common attack vectors."
+description: Security researcher demonstrates critical vulnerabilities in self-built AI systems, highlighting the importance of hardening locally-deployed models against common attack vectors.
 tags:
-  - daily-digest
   - security
   - agents
   - deployment
   - best-practices
-status: draft
+status: published
 ---
 
 This post underscores a critical blind spot for developers running AI systems locally: security vulnerabilities in custom implementations. When you control the entire stack—from model selection to API design—it's easy to introduce exploitable weaknesses that compromise the system within minutes.

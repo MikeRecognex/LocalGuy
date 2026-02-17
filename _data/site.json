@@ -2,8 +2,9 @@
   "name": "LocalFTW",
   "url": "https://lftw.dev",
   "author": "Mike Doyle",
-  "description": "A local-first publishing pipeline. Obsidian → Eleventy → Vercel.",
+  "description": "News, guides and discovery for the local AI and LLM community.",
   "language": "en",
+  "twitterHandle": "@googleschmoogle",
   "giscus": {
     "repo": "MikeRecognex/LocalGuy",
     "repoId": "R_kgDORM75fA",
