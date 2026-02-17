@@ -3,7 +3,6 @@ title: "WinClaw: Windows-Native AI Assistant with Office Automation"
 date: 2026-02-13
 description: New open-source Windows-native AI assistant enables local deployment with Office automation capabilities and extensible skills framework.
 tags:
-  - daily-digest
   - windows
   - local-deployment
   - open-source

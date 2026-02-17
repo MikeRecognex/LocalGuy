@@ -3,7 +3,6 @@ title: "Building a RAG Pipeline on 2M+ Pages: EpsteinFiles-RAG Project"
 date: 2026-02-11
 description: A developer demonstrates building a large-scale RAG (Retrieval-Augmented Generation) pipeline processing over 2 million pages, showcasing advanced techniques for local document processing and retrieval optimization.
 tags:
-  - daily-digest
   - rag
   - document-processing
   - optimization

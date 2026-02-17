@@ -1,9 +1,8 @@
 ---
-title: "GPT-OSS 120B Uncensored Model Released in Native MXFP4 Precision"
+title: GPT-OSS 120B Uncensored Model Released in Native MXFP4 Precision
 date: 2026-02-14
-description: "An uncensored version of GPT-OSS 120B has been released featuring native MXFP4 precision training, offering 117B parameters with MoE architecture for efficient local deployment."
+description: An uncensored version of GPT-OSS 120B has been released featuring native MXFP4 precision training, offering 117B parameters with MoE architecture for efficient local deployment.
 tags:
-  - daily-digest
   - open-source
   - moe
   - quantization

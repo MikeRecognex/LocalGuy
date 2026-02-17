@@ -3,7 +3,6 @@ title: GitHub Announces Support for Open Source AI Project Maintainers
 date: 2026-02-13
 description: GitHub outlines new initiatives to support maintainers of open source projects, potentially benefiting local LLM framework developers and tool creators.
 tags:
-  - daily-digest
   - open-source
   - maintainers
   - community

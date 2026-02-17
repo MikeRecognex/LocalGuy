@@ -3,7 +3,6 @@ title: "Ming-flash-omni-2.0: 100B MoE Omni-Modal Model Released"
 date: 2026-02-13
 description: Ant Group releases Ming-flash-omni-2.0, a 100B MoE model with 6B active parameters supporting unified speech, SFX, music generation alongside image, text, and video processing.
 tags:
-  - daily-digest
   - multimodal
   - moe
   - open-source

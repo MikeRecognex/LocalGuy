@@ -1,9 +1,8 @@
 ---
 title: "Switching From Ollama And LM Studio To llama.cpp: A Performance Comparison"
 date: 2026-02-14
-description: "Detailed user experience comparing popular local LLM tools, highlighting the performance and flexibility advantages of using llama.cpp directly over GUI-based solutions."
+description: Detailed user experience comparing popular local LLM tools, highlighting the performance and flexibility advantages of using llama.cpp directly over GUI-based solutions.
 tags:
-  - daily-digest
   - llama-cpp
   - ollama
   - benchmark

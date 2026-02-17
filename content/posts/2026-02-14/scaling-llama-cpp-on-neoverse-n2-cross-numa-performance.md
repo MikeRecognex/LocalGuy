@@ -1,9 +1,8 @@
 ---
 title: "Scaling llama.cpp On Neoverse N2: Solving Cross-NUMA Performance Issues"
 date: 2026-02-14
-description: "Deep dive into optimizing llama.cpp performance on ARM Neoverse N2 processors, addressing critical NUMA topology challenges for better local inference scaling."
+description: Deep dive into optimizing llama.cpp performance on ARM Neoverse N2 processors, addressing critical NUMA topology challenges for better local inference scaling.
 tags:
-  - daily-digest
   - llama-cpp
   - hardware
   - performance

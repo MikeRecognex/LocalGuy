@@ -3,7 +3,6 @@ title: "MiniMax M2.5: 230B Parameter MoE Model Coming to HuggingFace"
 date: 2026-02-13
 description: MiniMax officially confirms open-source release of M2.5, a 230B parameter MoE model with only 10B active parameters, showing impressive SWE-Bench performance at 80.2%.
 tags:
-  - daily-digest
   - open-source
   - moe
   - benchmark

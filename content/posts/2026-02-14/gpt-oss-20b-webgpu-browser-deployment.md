@@ -1,9 +1,8 @@
 ---
-title: "GPT-OSS 20B Now Runs 100% Locally in Browser via WebGPU"
+title: GPT-OSS 20B Now Runs 100% Locally in Browser via WebGPU
 date: 2026-02-14
-description: "GPT-OSS 20B can now run entirely in web browsers using WebGPU acceleration through Transformers.js v4 and ONNX Runtime Web, enabling client-side AI without server dependencies."
+description: GPT-OSS 20B can now run entirely in web browsers using WebGPU acceleration through Transformers.js v4 and ONNX Runtime Web, enabling client-side AI without server dependencies.
 tags:
-  - daily-digest
   - webgpu
   - browser-deployment
   - transformers-js

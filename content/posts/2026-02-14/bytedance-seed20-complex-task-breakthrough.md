@@ -1,9 +1,8 @@
 ---
-title: "ByteDance Releases Seed2.0 LLM with Complex Real-World Task Improvements"
+title: ByteDance Releases Seed2.0 LLM with Complex Real-World Task Improvements
 date: 2026-02-14
-description: "ByteDance announces Seed2.0, an updated language model claiming breakthrough performance on complex real-world tasks, though local deployment details remain unclear."
+description: ByteDance announces Seed2.0, an updated language model claiming breakthrough performance on complex real-world tasks, though local deployment details remain unclear.
 tags:
-  - daily-digest
   - model-release
   - bytedance
   - multimodal
