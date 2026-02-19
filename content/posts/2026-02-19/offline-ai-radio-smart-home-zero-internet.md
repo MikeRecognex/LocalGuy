@@ -1,14 +1,13 @@
 ---
 title: "Complete Offline AI System: Voice Control and Smart Home via Local LLM and Radio Without Internet"
 date: 2026-02-19
-description: "A developer in Ukraine built a fully offline AI assistant using a Mac mini, local LLMs, and a $30 radio module, enabling smart home control and voice messaging without internet connectivity during power outages."
+description: A developer in Ukraine built a fully offline AI assistant using a Mac mini, local LLMs, and a $30 radio module, enabling smart home control and voice messaging without internet connectivity during power outages.
 tags:
-  - daily-digest
   - offline-deployment
   - edge-inference
   - voice-control
   - practical-application
-status: draft
+status: published
 ---
 
 One developer has demonstrated the true power of local LLMs by building a complete offline AI system that operates without internet connectivity. Using a Mac mini, local language models, and a inexpensive $30 radio module, they've created voice-controlled smart home automation and radio-based messaging that functions during power outages and network failures—a critical capability for areas experiencing frequent infrastructure disruptions.

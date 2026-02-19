@@ -1,14 +1,13 @@
 ---
-title: "Can We Leverage AI/LLMs for Self-Learning?"
+title: Can We Leverage AI/LLMs for Self-Learning?
 date: 2026-02-18
-description: "An exploration of using local LLMs as personalized learning tools, examining effective strategies for self-directed education and knowledge retention with on-device models."
+description: An exploration of using local LLMs as personalized learning tools, examining effective strategies for self-directed education and knowledge retention with on-device models.
 tags:
-  - daily-digest
   - fine-tuning
   - memory-optimization
   - use-cases
   - education
-status: draft
+status: published
 ---
 
 Local LLMs present unique opportunities for personalized learning systems that operate entirely on-device, preserving privacy and reducing latency compared to cloud-based alternatives. Running dedicated models for educational purposes allows for fine-tuning on domain-specific materials and building long-term memory of learning progress without relying on external services.

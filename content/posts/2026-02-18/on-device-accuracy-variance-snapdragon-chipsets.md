@@ -1,14 +1,13 @@
 ---
-title: "Same INT8 Model Shows 93% to 71% Accuracy Variance Across Snapdragon Chipsets"
+title: Same INT8 Model Shows 93% to 71% Accuracy Variance Across Snapdragon Chipsets
 date: 2026-02-18
-description: "Testing reveals significant accuracy variance (93% to 71%) when deploying identical INT8 models across different Snapdragon SoCs, highlighting critical mobile deployment considerations."
+description: Testing reveals significant accuracy variance (93% to 71%) when deploying identical INT8 models across different Snapdragon SoCs, highlighting critical mobile deployment considerations.
 tags:
-  - daily-digest
   - quantisation
   - hardware
   - mobile-deployment
   - benchmark
-status: draft
+status: published
 ---
 
 A detailed [accuracy testing study across five Snapdragon SoCs](https://www.reddit.com/r/LocalLLaMA/comments/1r7s5nh/we_tested_the_same_int8_model_on_5_snapdragon/) reveals critical findings: the same INT8 quantized model and ONNX export produce dramatically different results depending on the target chipset, ranging from 91.8% on Snapdragon 8 Gen 3 down to 71% on older variants. This variance occurs despite identical model weights and quantization scheme.

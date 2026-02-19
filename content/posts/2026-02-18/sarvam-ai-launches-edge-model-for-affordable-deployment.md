@@ -1,14 +1,14 @@
 ---
-title: "Sarvam AI Launches Edge Model to Challenge Major AI Players with Local-First Approach"
+title: Sarvam AI Launches Edge Model to Challenge Major AI Players with Local-First Approach
 date: 2026-02-18
-description: "Sarvam AI has released an Edge model designed specifically for affordable, on-device inference, positioning itself as a competitive alternative to cloud-based AI from Google and OpenAI."
+description: Sarvam AI has released an Edge model designed specifically for affordable, on-device inference, positioning itself as a competitive alternative to cloud-based AI from Google and OpenAI.
 tags:
   - daily-digest
   - open-source
   - edge-inference
   - india
   - affordability
-status: draft
+status: published
 ---
 
 Sarvam AI's new Edge model represents a strategic push toward democratizing local LLM inference, particularly in emerging markets like India. By targeting affordability and on-device deployment as core design principles, Sarvam AI is directly challenging the cloud-dependent model of major AI labs. The Edge model's architecture is optimized for low-resource environments, making it viable for deployment on modest hardware without requiring expensive cloud infrastructure or API subscriptions.

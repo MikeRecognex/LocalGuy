@@ -1,14 +1,13 @@
 ---
 title: "Ask HN: How Do You Debug Multi-Step AI Workflows When the Output Is Wrong?"
 date: 2026-02-18
-description: "A community discussion on debugging strategies for complex multi-step AI workflows running locally, covering techniques for identifying failures and improving inference reliability."
+description: A community discussion on debugging strategies for complex multi-step AI workflows running locally, covering techniques for identifying failures and improving inference reliability.
 tags:
-  - daily-digest
   - debugging
   - workflow-optimization
   - best-practices
   - agents
-status: draft
+status: published
 ---
 
 Debugging multi-step AI workflows is one of the most challenging aspects of deploying local LLMs, especially when chaining multiple inference calls or building complex agentic systems. This Hacker News discussion captures community approaches to identifying where workflows fail—whether in prompt engineering, model selection, or pipeline architecture.

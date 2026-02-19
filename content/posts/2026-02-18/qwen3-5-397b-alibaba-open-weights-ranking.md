@@ -3,12 +3,11 @@ title: "Alibaba's Qwen3.5-397B Achieves #3 Position in Open Weights Model Rankin
 date: 2026-02-18
 description: "Alibaba's newly released Qwen3.5-397B mixture-of-experts model ranks #3 in the Artificial Analysis Intelligence Index among open-weight models, offering a powerful option for large-scale local deployment."
 tags:
-  - daily-digest
   - open-source
   - model-release
   - moe
   - benchmark
-status: draft
+status: published
 ---
 
 Alibaba has released Qwen3.5-397B-A17B, an open-weight mixture-of-experts model that [ranks #3 in the Artificial Analysis Intelligence Index](https://i.redd.it/b5eytfmy33kg1.jpeg) among open models, competing directly with frontier closed-source alternatives. As a 397B parameter model with selective activation (MoE architecture), this release provides a high-performance option for organizations capable of hosting large-scale local inference infrastructure.

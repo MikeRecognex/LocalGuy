@@ -1,14 +1,14 @@
 ---
-title: "Why My Country's AI Scene Is Built on Sand"
+title: Why My Country's AI Scene Is Built on Sand
 date: 2026-02-18
-description: "A critical perspective on regional AI development highlighting gaps in infrastructure, local model development, and self-hosting capabilities."
+description: A critical perspective on regional AI development highlighting gaps in infrastructure, local model development, and self-hosting capabilities.
 tags:
   - daily-digest
   - open-source
   - infrastructure
   - deployment
   - best-practices
-status: draft
+status: published
 ---
 
 This perspective piece addresses critical gaps in local AI infrastructure and development ecosystems, emphasizing the importance of self-hosted and locally-deployable solutions for regions lacking reliable cloud connectivity or facing data sovereignty concerns. The discussion raises important questions about over-reliance on closed-source cloud platforms and the necessity for robust open-source alternatives.

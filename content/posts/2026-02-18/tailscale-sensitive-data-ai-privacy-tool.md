@@ -1,14 +1,14 @@
 ---
-title: "Tailscale Releases New Tool to Prevent Sensitive Data Leakage to Cloud AI Services"
+title: Tailscale Releases New Tool to Prevent Sensitive Data Leakage to Cloud AI Services
 date: 2026-02-18
-description: "Tailscale has developed a tool designed to ensure organizations can keep sensitive data local while preventing accidental exposure to cloud AI APIs, reinforcing the security case for local inference."
+description: Tailscale has developed a tool designed to ensure organizations can keep sensitive data local while preventing accidental exposure to cloud AI APIs, reinforcing the security case for local inference.
 tags:
   - daily-digest
   - privacy
   - security
   - data-protection
   - edge-inference
-status: draft
+status: published
 ---
 
 Tailscale's new privacy tool addresses a critical operational challenge for enterprises: preventing sensitive data from inadvertently being sent to cloud AI APIs. In many organizations, developers or workflows accidentally route confidential information (PII, financial records, proprietary documents) to OpenAI, Claude, or other cloud services. Tailscale's solution provides guardrails to enforce data locality policies, making it significantly safer to adopt AI capabilities without compromising compliance or privacy posture.

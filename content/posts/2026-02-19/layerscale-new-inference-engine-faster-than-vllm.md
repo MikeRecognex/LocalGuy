@@ -1,14 +1,14 @@
 ---
-title: "LayerScale Launches Inference Engine Faster Than vLLM, SGLang, and TRT-LLM"
+title: LayerScale Launches Inference Engine Faster Than vLLM, SGLang, and TRT-LLM
 date: 2026-02-19
-description: "A new inference engine claims to outperform established LLM serving platforms including vLLM, SGLang, and TensorRT-LLM. This breakthrough in inference speed could significantly improve local LLM deployment efficiency."
+description: A new inference engine claims to outperform established LLM serving platforms including vLLM, SGLang, and TensorRT-LLM. This breakthrough in inference speed could significantly improve local LLM deployment efficiency.
 tags:
   - daily-digest
   - inference-optimization
   - benchmark
   - performance
   - open-source
-status: draft
+status: published
 ---
 
 LayerScale has announced a new inference engine that demonstrates superior performance compared to vLLM, SGLang, and TensorRT-LLM—three of the most widely-used LLM serving frameworks in the community. For local LLM practitioners, inference speed is critical: faster token generation directly translates to lower latency, reduced memory overhead, and better responsiveness for real-world applications.

@@ -1,14 +1,13 @@
 ---
-title: "Cloudflare Releases Agents SDK v0.5.0 with Rust-Powered Infire Engine for Edge Inference"
+title: Cloudflare Releases Agents SDK v0.5.0 with Rust-Powered Infire Engine for Edge Inference
 date: 2026-02-18
-description: "Cloudflare has upgraded its Agents SDK to v0.5.0, featuring a new Rust-based Infire engine that delivers optimized edge inference performance with improved latency and throughput."
+description: Cloudflare has upgraded its Agents SDK to v0.5.0, featuring a new Rust-based Infire engine that delivers optimized edge inference performance with improved latency and throughput.
 tags:
-  - daily-digest
   - edge-inference
   - cloudflare-workers
   - rust
   - performance-optimization
-status: draft
+status: published
 ---
 
 Cloudflare's Agents SDK v0.5.0 brings significant performance improvements for edge-based LLM inference through its new Rust-powered Infire engine. Rewriting the @cloudflare/ai-chat component in Rust enables faster token generation, reduced memory overhead, and better latency characteristics—all critical factors for real-time AI applications running at the edge. This update makes Cloudflare Workers a more viable platform for deploying lightweight language models globally across their distributed network.
