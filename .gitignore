@@ -7,3 +7,4 @@ _private/
 .env
 .env.*
 .claude/
+.mcp.json
