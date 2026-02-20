@@ -3,10 +3,9 @@ title: "Clipthesis: Free Local App for Video Tagging and Search Across Drives"
 date: 2026-02-19
 description: Clipthesis is a new free, local application that uses AI to tag and enable full-text search across video files stored on user drives. This represents practical local AI deployment for media management.
 tags:
-  - local-deployment
-  - open-source
-  - vision
-  - application
+  - edge-deployment
+  - privacy
+  - security
 status: published
 ---
 Clipthesis demonstrates a compelling real-world use case for local LLMs and vision models: intelligent video management and search. By running inference locally on a user's machine, the application can analyze video content, generate semantic tags, and enable searching across a video library without uploading sensitive content to cloud services.

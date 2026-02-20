@@ -3,10 +3,10 @@ title: "Microsoft MarkItDown: Document Preprocessing Tool for LLMs"
 date: 2026-02-12
 description: Microsoft releases MarkItDown, a tool that converts various document formats (PDF, HTML, DOCX, PPTX, XLSX, EPUB) to markdown while also supporting audio transcription, YouTube links, and OCR for images.
 tags:
-  - preprocessing
+  - markitdown
   - microsoft
-  - markdown
-  - open-source
+  - rag
+  - voice
 status: published
 ---
 Microsoft has released MarkItDown, a comprehensive document processing tool designed to convert various file formats into markdown suitable for LLM consumption. The tool supports a wide range of formats including PDF, HTML, DOCX, PPTX, XLSX, EPUB, and Outlook messages, making it valuable for preprocessing documents before feeding them to local LLMs.

@@ -1,11 +1,9 @@
 ---
-title: High Bandwidth Flash Memory Could Alleviate VRAM Constraints in Local LLM Inference
+title: "High Bandwidth Flash Memory Could Alleviate VRAM Constraints in Local LLM Inference"
 date: 2026-02-17
 description: A technical discussion explores how high-bandwidth flash (HBF) storage could supplement GPU VRAM for local inference, potentially enabling 256GB+ effective memory pools from consumer hardware at 10x lower cost than traditional VRAM.
 tags:
-  - hardware
-  - memory-optimization
-  - storage
+  - vllm
 status: published
 ---
 

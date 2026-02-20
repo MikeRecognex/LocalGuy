@@ -1,12 +1,12 @@
 ---
 title: "Security Alert: Open Claw Designed for Self-Hosting, Stop Sharing Credentials"
 date: 2026-02-16
-description: "A critical reminder about Open Claw's architecture: the tool is explicitly designed for self-hosted deployment, and users should stop sharing private credentials or running it on shared services."
+description: A critical reminder about Open Claw's architecture: the tool is explicitly designed for self-hosted deployment, and users should stop sharing private credentials or running it on shared services.
 tags:
-  - open-source
+  - agents
+  - privacy
   - security
   - self-hosted
-  - edge-inference
 status: published
 ---
 

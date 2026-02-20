@@ -1,10 +1,10 @@
 ---
-title: Mihup and Qualcomm Collaborate to Advance Secure On-Device Voice AI for BFSI
+title: "Mihup and Qualcomm Collaborate to Advance Secure On-Device Voice AI for BFSI"
 date: 2026-02-19
 description: Qualcomm and Mihup partner to develop on-device voice AI solutions for banking and financial services, emphasizing security and privacy through local processing.
 tags:
-  - voice-ai
-  - edge-inference
+  - edge-deployment
+  - privacy
   - qualcomm
   - security
 status: published

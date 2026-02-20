@@ -1,12 +1,12 @@
 ---
-title: OpenClaw with vLLM Running for Free on AMD Developer Cloud
+title: "OpenClaw with vLLM Running for Free on AMD Developer Cloud"
 date: 2026-02-12
 description: AMD launches free cloud access to run OpenClaw and vLLM inference workloads, providing developers with no-cost GPU resources for local LLM development.
 tags:
-  - vllm
   - amd
-  - cloud
+  - benchmarks
   - openclaw
+  - vllm
 status: published
 ---
 

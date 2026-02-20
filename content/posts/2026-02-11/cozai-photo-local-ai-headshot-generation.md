@@ -1,12 +1,10 @@
 ---
-title: Developer Creates Custom Local AI Headshot Generator After Commercial Solutions Fail
+title: "Developer Creates Custom Local AI Headshot Generator After Commercial Solutions Fail"
 date: 2026-02-11
 description: Frustrated with fake-looking commercial AI headshots, a developer spent two weeks building their own local solution, demonstrating the advantages of custom local AI deployment.
 tags:
-  - image-generation
-  - custom-models
-  - local-deployment
   - fine-tuning
+  - privacy
 status: draft
 ---
 

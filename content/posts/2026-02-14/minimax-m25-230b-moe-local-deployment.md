@@ -1,12 +1,18 @@
 ---
-title: MiniMax-M2.5 230B MoE Model Released with GGUF Support for Local Deployment
+title: "MiniMax-M2.5 230B MoE Model Released with GGUF Support for Local Deployment"
 date: 2026-02-14
 description: MiniMax-M2.5, a 230B parameter mixture-of-experts model, is now available in GGUF format for local deployment with impressive performance benchmarks on consumer hardware.
 tags:
-  - open-source
-  - gguf
+  - benchmarks
+  - edge-deployment
+  - llama
+  - llama-cpp
+  - lm-studio
+  - minimax
+  - minimax-m25
   - moe
-  - benchmark
+  - privacy
+  - quantisation
 status: draft
 ---
 

@@ -1,12 +1,15 @@
 ---
-title: MiniMax Releases M2.5 Model with SOTA Coding and Agent Capabilities
+title: "MiniMax Releases M2.5 Model with SOTA Coding and Agent Capabilities"
 date: 2026-02-14
 description: MiniMax announces M2.5, a new language model claiming state-of-the-art performance in coding tasks and agent applications, designed specifically for agent frameworks.
 tags:
-  - model-release
-  - coding
   - agents
-  - open-source
+  - llama
+  - llama-cpp
+  - minimax
+  - minimax-m25
+  - ollama
+  - quantisation
 status: draft
 ---
 

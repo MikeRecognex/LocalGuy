@@ -3,10 +3,14 @@ title: "Ask HN: What is the best bang for buck budget AI coding?"
 date: 2026-02-17
 description: Community discussion on cost-effective AI coding solutions, likely covering locally-runnable models and self-hosted alternatives to expensive cloud APIs.
 tags:
-  - budget
-  - coding-assistants
-  - local-deployment
-  - cost-optimization
+  - coding
+  - edge-deployment
+  - llama
+  - mistral
+  - open-source
+  - privacy
+  - quantisation
+  - self-hosted
 status: published
 ---
 This discussion addresses a critical concern for developers adopting AI tools: finding cost-effective solutions without relying on expensive cloud APIs. Budget-conscious practitioners are actively seeking locally-runnable coding assistants and self-hosted alternatives that don't require subscription costs or API fees.

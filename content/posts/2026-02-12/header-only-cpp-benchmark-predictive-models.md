@@ -1,12 +1,12 @@
 ---
-title: New Header-Only C++ Benchmark Tool for Predictive Models on Raw Binary Streams
+title: "New Header-Only C++ Benchmark Tool for Predictive Models on Raw Binary Streams"
 date: 2026-02-12
 description: A lightweight C++ benchmarking framework has been released specifically for testing predictive models on raw binary streams, offering potential benefits for local LLM inference optimization.
 tags:
-  - benchmark
-  - cpp
-  - performance
-  - inference
+  - benchmarks
+  - llama
+  - llama-cpp
+  - quantisation
 status: published
 ---
 

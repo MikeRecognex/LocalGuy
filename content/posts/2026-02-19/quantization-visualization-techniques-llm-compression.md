@@ -1,12 +1,12 @@
 ---
-title: Enhanced Quantization Visualization Methods for Understanding LLM Compression Trade-offs
+title: "Enhanced Quantization Visualization Methods for Understanding LLM Compression Trade-offs"
 date: 2026-02-19
 description: Community members have developed improved visualization techniques for quantization methods, providing clearer insights into how different compression strategies affect model performance and inference characteristics.
 tags:
-  - quantization
-  - visualization
-  - model-compression
-  - benchmark
+  - benchmarks
+  - llama
+  - llama-cpp
+  - quantisation
 status: published
 ---
 

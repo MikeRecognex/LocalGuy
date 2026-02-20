@@ -1,12 +1,12 @@
 ---
-title: DeepSeek Launches Model Update with 1M Context Window
+title: "DeepSeek Launches Model Update with 1M Context Window"
 date: 2026-02-11
 description: DeepSeek has updated their model to support 1 million token context windows with a knowledge cutoff of May 2025, currently in grayscale testing phase with potential for local deployment.
 tags:
-  - deepseek
   - context-window
-  - model-update
+  - deepseek
   - open-source
+  - self-hosted
 status: published
 ---
 

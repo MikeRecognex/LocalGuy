@@ -1,12 +1,12 @@
 ---
-title: Can We Leverage AI/LLMs for Self-Learning?
+title: "Can We Leverage AI/LLMs for Self-Learning?"
 date: 2026-02-18
 description: An exploration of using local LLMs as personalized learning tools, examining effective strategies for self-directed education and knowledge retention with on-device models.
 tags:
+  - coding
+  - edge-deployment
   - fine-tuning
-  - memory-optimization
-  - use-cases
-  - education
+  - privacy
 status: published
 ---
 

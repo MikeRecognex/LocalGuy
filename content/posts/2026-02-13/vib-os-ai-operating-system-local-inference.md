@@ -1,12 +1,8 @@
 ---
-title: First Vibecoded AI Operating System for Local Deployment
+title: "First Vibecoded AI Operating System for Local Deployment"
 date: 2026-02-13
 description: New experimental AI-powered operating system designed for local inference and edge computing applications.
 tags:
-  - operating-system
-  - edge-inference
-  - experimental
-  - open-source
 status: published
 ---
 

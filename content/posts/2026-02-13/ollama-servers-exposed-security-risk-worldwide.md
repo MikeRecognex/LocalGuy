@@ -1,12 +1,10 @@
 ---
-title: 175,000 Publicly Exposed Ollama AI Servers Discovered Across 130 Countries
+title: "175,000 Publicly Exposed Ollama AI Servers Discovered Across 130 Countries"
 date: 2026-02-13
 description: Security researchers found over 175,000 Ollama installations with no authentication exposed to the internet, creating significant security risks for local LLM deployments worldwide.
 tags:
   - ollama
   - security
-  - deployment
-  - misconfiguration
 status: published
 ---
 A comprehensive security scan has revealed that over 175,000 Ollama servers are publicly accessible without any authentication, spanning 130 countries worldwide. This massive exposure represents a significant security risk for organizations and individuals running local LLM deployments, as these servers can be accessed and potentially abused by anyone on the internet.

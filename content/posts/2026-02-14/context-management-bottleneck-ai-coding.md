@@ -1,12 +1,13 @@
 ---
-title: Context Management Identified as Real Bottleneck in AI-Assisted Coding
+title: "Context Management Identified as Real Bottleneck in AI-Assisted Coding"
 date: 2026-02-14
 description: Discussion highlights how context window limitations and management, rather than model capabilities, represent the primary challenge for local AI coding assistants.
 tags:
-  - context-window
   - coding
-  - local-deployment
-  - performance
+  - context-window
+  - llama
+  - llama-cpp
+  - ollama
 status: draft
 ---
 

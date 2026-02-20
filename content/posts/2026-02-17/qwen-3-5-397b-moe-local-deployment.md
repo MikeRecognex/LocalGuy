@@ -1,12 +1,17 @@
 ---
-title: Qwen 3.5-397B-A17B Now Available for Local Inference with Aggressive Quantisation
+title: "Qwen 3.5-397B-A17B Now Available for Local Inference with Aggressive Quantisation"
 date: 2026-02-17
 description: Alibaba's Qwen 3.5-397B mixture-of-experts model is now available on HuggingFace with multiple quantisation options, including a 113GB IQ2_XS variant that fits on consumer hardware. Early benchmarks show performance competitive with Gemini 3 Pro and GPT-5.2 on spatial reasoning tasks.
 tags:
-  - qwen
+  - alibaba
+  - benchmarks
+  - gemini
+  - hugging-face
+  - llama
+  - llama-cpp
   - moe
   - quantisation
-  - benchmark
+  - qwen
 status: published
 ---
 
