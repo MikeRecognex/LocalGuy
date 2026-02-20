@@ -3,12 +3,10 @@ title: "Cohere Releases Tiny Aya: Efficient 3.3B Multilingual Model for 70+ Lang
 date: 2026-02-17
 description: Cohere Labs has released Tiny Aya, a 3.35 billion parameter open-weights model optimized for multilingual inference across 70+ languages including lower-resourced ones. The compact size makes it viable for on-device deployment on modest hardware.
 tags:
-  - cohere
-  - edge-deployment
-  - fine-tuning
   - open-source
-  - tiny-aya
-  - training
+  - multilingual
+  - edge-inference
+  - model-release
 status: published
 ---
 

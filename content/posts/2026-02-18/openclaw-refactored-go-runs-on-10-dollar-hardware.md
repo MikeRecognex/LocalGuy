@@ -1,9 +1,12 @@
 ---
-title: "OpenClaw Refactored in Go, Runs on $10 Hardware"
+title: OpenClaw Refactored in Go, Runs on $10 Hardware
 date: 2026-02-18
 description: OpenClaw has been refactored in Go and now runs efficiently on extremely cheap hardware, making local AI inference accessible on budget-constrained edge devices.
 tags:
-  - openclaw
+  - hardware
+  - edge-inference
+  - open-source
+  - optimization
 status: published
 ---
 

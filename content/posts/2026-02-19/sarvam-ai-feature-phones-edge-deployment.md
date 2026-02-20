@@ -1,12 +1,12 @@
 ---
-title: "Sarvam Brings AI to Feature Phones, Cars, and Smart Glasses"
+title: Sarvam Brings AI to Feature Phones, Cars, and Smart Glasses
 date: 2026-02-19
 description: Sarvam AI demonstrates practical on-device AI deployment on ultra-resource-constrained devices, from feature phones to automotive and wearable platforms.
 tags:
-  - distillation
-  - edge-deployment
-  - model-compression
+  - edge-inference
+  - mobile
   - quantisation
+  - lightweight-models
 status: published
 ---
 

@@ -1,16 +1,12 @@
 ---
-title: "Local Vision-Language Models for Document OCR and PII Detection in Privacy-Critical Workflows"
+title: Local Vision-Language Models for Document OCR and PII Detection in Privacy-Critical Workflows
 date: 2026-02-19
 description: A developer has published an open-source application using local Qwen VLMs for document OCR with bounding box detection, enabling privacy-preserving PII detection and redaction without cloud services.
 tags:
-  - alibaba
-  - memory-optimisation
-  - multimodal
-  - ollama
-  - open-source
+  - vlm
+  - ocr
   - privacy
-  - quantisation
-  - qwen
+  - document-processing
 status: published
 ---
 

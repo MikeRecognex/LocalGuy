@@ -5,7 +5,8 @@ description: New tool providing security scanning and governance checks for AI a
 tags:
   - agents
   - security
-  - self-hosted
+  - tools
+  - governance
 status: published
 ---
 

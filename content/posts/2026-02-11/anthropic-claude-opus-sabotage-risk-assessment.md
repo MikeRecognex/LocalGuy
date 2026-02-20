@@ -1,10 +1,12 @@
 ---
-title: "Anthropic Releases Claude Opus 4.6 Sabotage Risk Assessment"
+title: Anthropic Releases Claude Opus 4.6 Sabotage Risk Assessment
 date: 2026-02-11
 description: New technical report from Anthropic examines potential sabotage risks in Claude Opus 4.6, providing insights into AI safety considerations for local deployment.
 tags:
+  - claude
+  - ai-safety
+  - risk-assessment
   - anthropic
-  - open-source
 status: published
 ---
 

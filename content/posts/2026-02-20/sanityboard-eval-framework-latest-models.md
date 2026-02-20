@@ -1,18 +1,13 @@
 ---
 title: "SanityBoard Adds 27 New Model Evaluations Including Qwen 3.5 Plus, GLM 5, and Gemini 3.1 Pro"
 date: 2026-02-20
-description: SanityBoard, a comprehensive LLM evaluation framework, has added 27 new benchmark results including evaluations of Qwen 3.5 Plus, GLM 5, Gemini 3.1 Pro, Sonnet 4.6, and three new open-source agents. The framework provides practical comparison metrics for practitioners selecting models for local deployment.
+description: "SanityBoard, a comprehensive LLM evaluation framework, has added 27 new benchmark results including evaluations of Qwen 3.5 Plus, GLM 5, Gemini 3.1 Pro, Sonnet 4.6, and three new open-source agents. The framework provides practical comparison metrics for practitioners selecting models for local deployment."
 tags:
-  - agents
-  - alibaba
-  - benchmarks
   - daily-digest
-  - edge-deployment
-  - gemini
-  - glm
+  - benchmarks
+  - evaluation
+  - model-comparison
   - open-source
-  - qwen
-  - zhipu
 status: draft
 ---
 

@@ -1,9 +1,13 @@
 ---
 title: "TemplateFlow – Build AI Workflows, Not Prompts"
 date: 2026-02-20
-description: TemplateFlow introduces a workflow-based approach to local LLM deployment, moving beyond simple prompt engineering to structured, reproducible AI pipelines. This framework simplifies complex multi-step inference tasks.
+description: "TemplateFlow introduces a workflow-based approach to local LLM deployment, moving beyond simple prompt engineering to structured, reproducible AI pipelines. This framework simplifies complex multi-step inference tasks."
 tags:
   - daily-digest
+  - open-source
+  - agents
+  - workflow-automation
+  - local-deployment
 status: draft
 ---
 

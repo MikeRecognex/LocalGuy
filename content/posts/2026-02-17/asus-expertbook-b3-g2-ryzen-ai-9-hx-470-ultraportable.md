@@ -1,11 +1,12 @@
 ---
-title: "Asus ExpertBook B3 G2 Laptop Features Ryzen AI 9 HX 470 CPU in 1.41kg Ultraportable Form Factor"
+title: Asus ExpertBook B3 G2 Laptop Features Ryzen AI 9 HX 470 CPU in 1.41kg Ultraportable Form Factor
 date: 2026-02-17
 description: ASUS launches the ExpertBook B3 G2, an ultralight laptop featuring AMD's Ryzen AI 9 HX 470 processor, delivering significant local AI inference capabilities in a portable 1.41kg package. This hardware development enables practical on-device LLM deployment for mobile professionals.
 tags:
-  - amd
-  - asus
-  - edge-deployment
+  - hardware
+  - amd-ryzen-ai
+  - edge-inference
+  - performance
 status: published
 ---
 

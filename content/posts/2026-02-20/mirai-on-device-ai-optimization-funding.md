@@ -1,13 +1,13 @@
 ---
 title: "Mirai Secures $10M to Optimize On-Device AI Amid Cloud Cost Surge"
 date: 2026-02-20
-description: Mirai, founded by creators of Reface and Prisma, raises $10M Series A funding to advance on-device AI inference optimization, addressing the market shift toward edge computing and away from cloud-dependent models.
+description: "Mirai, founded by creators of Reface and Prisma, raises $10M Series A funding to advance on-device AI inference optimization, addressing the market shift toward edge computing and away from cloud-dependent models."
 tags:
-  - distillation
-  - edge-deployment
-  - privacy
-  - quantisation
-  - self-hosted
+  - daily-digest
+  - hardware
+  - optimization
+  - edge-inference
+  - funding
 status: draft
 ---
 

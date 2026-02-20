@@ -1,13 +1,13 @@
 ---
-title: "Sarvam AI Launches Edge Model to Challenge Major AI Players with Local-First Approach"
+title: Sarvam AI Launches Edge Model to Challenge Major AI Players with Local-First Approach
 date: 2026-02-18
 description: Sarvam AI has released an Edge model designed specifically for affordable, on-device inference, positioning itself as a competitive alternative to cloud-based AI from Google and OpenAI.
 tags:
   - daily-digest
-  - edge-deployment
-  - google
-  - openai
-  - privacy
+  - open-source
+  - edge-inference
+  - india
+  - affordability
 status: published
 ---
 

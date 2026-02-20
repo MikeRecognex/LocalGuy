@@ -1,13 +1,13 @@
 ---
 title: "Why AI Models Fail at Iterative Reasoning and What Could Fix It"
 date: 2026-02-20
-description: An analysis of fundamental limitations in how local LLMs perform iterative reasoning tasks and proposes solutions applicable to on-device inference and self-hosted deployments.
+description: "An analysis of fundamental limitations in how local LLMs perform iterative reasoning tasks and proposes solutions applicable to on-device inference and self-hosted deployments."
 tags:
-  - agents
-  - context-window
-  - edge-deployment
-  - self-hosted
-  - training
+  - daily-digest
+  - model-behavior
+  - reasoning
+  - optimization
+  - performance
 status: draft
 ---
 

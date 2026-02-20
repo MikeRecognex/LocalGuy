@@ -3,9 +3,10 @@ title: "Heaps Do Lie: Debugging a Memory Leak in vLLM"
 date: 2026-02-12
 description: Mistral AI engineers share detailed technical insights into identifying and fixing a critical memory leak in vLLM inference engine.
 tags:
-  - memory-optimisation
-  - mistral
   - vllm
+  - memory-optimization
+  - debugging
+  - performance
 status: published
 ---
 Mistral AI's engineering team has published a detailed technical post-mortem of debugging a critical memory leak in vLLM, one of the most popular inference engines for local LLM deployment. The investigation reveals sophisticated memory management issues that can severely impact long-running inference servers.

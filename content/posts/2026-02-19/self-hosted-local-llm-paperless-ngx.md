@@ -1,14 +1,13 @@
 ---
 title: "Self-Hosted Local LLMs for Document Management with Paperless-ngx"
 date: 2026-02-19
-description: Community members demonstrate practical workflows integrating local LLMs with Paperless-ngx for intelligent document processing and management entirely on-premises.
+description: "Community members demonstrate practical workflows integrating local LLMs with Paperless-ngx for intelligent document processing and management entirely on-premises."
 tags:
   - daily-digest
-  - edge-deployment
-  - open-source
-  - paperless-ngx
-  - privacy
   - self-hosted
+  - document-processing
+  - paperless-ngx
+  - workflows
 status: draft
 ---
 

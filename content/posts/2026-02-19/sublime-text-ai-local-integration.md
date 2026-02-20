@@ -1,10 +1,13 @@
 ---
 title: "AI Integration in Sublime Text: Practical Local LLM Editor Enhancement"
 date: 2026-02-19
-description: A developer shares practical techniques for integrating local AI models directly into Sublime Text for code completion and assistance. This shows how local LLMs are being embedded into developer workflows.
+description: "A developer shares practical techniques for integrating local AI models directly into Sublime Text for code completion and assistance. This shows how local LLMs are being embedded into developer workflows."
 tags:
   - daily-digest
-  - privacy
+  - developer-tools
+  - integration
+  - local-inference
+  - productivity
 status: draft
 ---
 

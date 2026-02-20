@@ -1,11 +1,12 @@
 ---
 title: "Ollama Production Deployment: Docker-Compose Setup Guide"
 date: 2026-02-20
-description: SitePoint publishes a comprehensive guide for deploying Ollama in production environments using Docker Compose, providing practical steps for self-hosted local LLM inference at scale.
+description: "SitePoint publishes a comprehensive guide for deploying Ollama in production environments using Docker Compose, providing practical steps for self-hosted local LLM inference at scale."
 tags:
   - daily-digest
   - ollama
-  - privacy
+  - deployment
+  - docker
   - self-hosted
 status: draft
 ---

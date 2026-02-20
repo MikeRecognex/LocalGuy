@@ -1,11 +1,12 @@
 ---
-title: "Community Member Builds 144GB VRAM Local LLM Powerhouse"
+title: Community Member Builds 144GB VRAM Local LLM Powerhouse
 date: 2026-02-11
 description: A LocalLLaMA community member showcases a custom-built system with 6x RTX 3090 GPUs providing 144GB of VRAM, featuring modified drivers with P2P support for high-performance local LLM inference.
 tags:
-  - nvidia
-  - open-source
-  - quantisation
+  - hardware
+  - multi-gpu
+  - custom-build
+  - performance
 status: published
 ---
 

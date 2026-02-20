@@ -1,13 +1,12 @@
 ---
-title: "Running Mistral-7B on Intel NPU Achieves 12.6 Tokens/Second"
+title: Running Mistral-7B on Intel NPU Achieves 12.6 Tokens/Second
 date: 2026-02-12
 description: A developer created a tool to run LLMs on Intel NPUs, achieving 12.6 tokens/second with Mistral-7B while using zero CPU/GPU resources, though integrated GPU still performs better at 23.38 tokens/second.
 tags:
-  - benchmarks
-  - edge-deployment
-  - intel
-  - mistral
-  - quantisation
+  - hardware
+  - npu
+  - inference
+  - benchmark
 status: published
 ---
 

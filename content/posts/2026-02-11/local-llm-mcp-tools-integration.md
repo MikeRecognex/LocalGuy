@@ -1,12 +1,12 @@
 ---
-title: "5 Practical Ways to Use Local LLMs with MCP Tools"
+title: 5 Practical Ways to Use Local LLMs with MCP Tools
 date: 2026-02-11
 description: A comprehensive guide exploring how to integrate Model Context Protocol (MCP) tools with local LLM deployments for enhanced functionality and automation.
 tags:
-  - agents
   - mcp
-  - privacy
-  - security
+  - tools
+  - local-llm
+  - integration
 status: published
 ---
 

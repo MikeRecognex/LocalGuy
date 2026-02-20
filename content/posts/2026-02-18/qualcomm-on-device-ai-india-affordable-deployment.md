@@ -1,13 +1,12 @@
 ---
-title: "Qualcomm Ventures Positions India as Blueprint for Affordable On-Device AI Infrastructure"
+title: Qualcomm Ventures Positions India as Blueprint for Affordable On-Device AI Infrastructure
 date: 2026-02-18
 description: Qualcomm Ventures' MD highlights how India's scale and infrastructure constraints are driving innovation in efficient, on-device AI that bypasses expensive cloud dependencies.
 tags:
-  - edge-deployment
-  - google
-  - privacy
+  - edge-inference
   - qualcomm
-  - quantisation
+  - mobile
+  - affordability
 status: published
 ---
 

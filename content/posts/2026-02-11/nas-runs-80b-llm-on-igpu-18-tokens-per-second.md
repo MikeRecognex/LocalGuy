@@ -1,8 +1,12 @@
 ---
-title: "NAS System Achieves 18 tok/s with 80B LLM Using Only Integrated Graphics"
+title: NAS System Achieves 18 tok/s with 80B LLM Using Only Integrated Graphics
 date: 2026-02-11
 description: A community member successfully runs an 80B parameter language model on a NAS system's integrated GPU at 18 tokens per second, demonstrating efficient local inference without discrete graphics cards.
 tags:
+  - hardware
+  - optimization
+  - igpu
+  - performance
 status: published
 ---
 

@@ -3,7 +3,10 @@ title: "Show HN: PgCortex – AI enrichment per Postgres row, zero transaction b
 date: 2026-02-17
 description: Novel tool integrating local AI inference directly into PostgreSQL for per-row data enrichment without blocking transactions, enabling efficient batch processing of LLM operations.
 tags:
-  - privacy
+  - tools
+  - database-integration
+  - inference-optimization
+  - postgres
 status: published
 ---
 

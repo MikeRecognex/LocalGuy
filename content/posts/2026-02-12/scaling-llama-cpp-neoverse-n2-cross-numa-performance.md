@@ -3,10 +3,10 @@ title: "Scaling llama.cpp On Neoverse N2: Solving Cross-NUMA Performance Issues"
 date: 2026-02-12
 description: Technical deep dive into optimizing llama.cpp performance on ARM Neoverse N2 processors by addressing cross-NUMA memory access bottlenecks.
 tags:
-  - arm
-  - edge-deployment
-  - llama
   - llama-cpp
+  - hardware
+  - performance
+  - numa
 status: published
 ---
 

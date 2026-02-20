@@ -3,13 +3,10 @@ title: "Samsung's REAM: Alternative Model Compression Technique"
 date: 2026-02-12
 description: Samsung introduces REAM as a less damaging alternative to traditional REAP model compression methods used by other companies, potentially offering better performance preservation during model shrinking.
 tags:
-  - cerebras
-  - deepseek
-  - glm
-  - minimax
-  - model-compression
+  - compression
+  - quantisation
   - samsung
-  - zhipu
+  - optimization
 status: published
 ---
 

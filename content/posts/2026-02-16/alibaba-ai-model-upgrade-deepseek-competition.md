@@ -1,13 +1,11 @@
 ---
-title: "Alibaba Unveils Major AI Model Upgrade Ahead of DeepSeek Release"
+title: Alibaba Unveils Major AI Model Upgrade Ahead of DeepSeek Release
 date: 2026-02-16
 description: Alibaba has announced a significant upgrade to its AI models, intensifying competition in the open-source and local deployment space as DeepSeek prepares its latest release.
 tags:
-  - alibaba
-  - deepseek
-  - edge-deployment
   - open-source
-  - quantisation
+  - model-release
+  - edge-inference
 status: published
 ---
 

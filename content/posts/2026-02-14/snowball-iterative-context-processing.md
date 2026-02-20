@@ -1,12 +1,12 @@
 ---
-title: "SnowBall Technique Addresses Context Window Limitations in Local LLMs"
+title: SnowBall Technique Addresses Context Window Limitations in Local LLMs
 date: 2026-02-14
 description: New SnowBall approach enables iterative context processing when content exceeds LLM context windows, offering practical solutions for local deployment constraints.
 tags:
   - context-window
-  - llama
-  - llama-cpp
-  - ollama
+  - memory-optimization
+  - techniques
+  - local-deployment
 status: draft
 ---
 

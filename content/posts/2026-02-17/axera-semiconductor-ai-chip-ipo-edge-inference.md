@@ -1,9 +1,12 @@
 ---
-title: "Chinese AI Chipmaker Axera Semiconductor Plans $379 Million Hong Kong IPO for Edge Inference Hardware"
+title: Chinese AI Chipmaker Axera Semiconductor Plans $379 Million Hong Kong IPO for Edge Inference Hardware
 date: 2026-02-17
 description: Axera Semiconductor, a Chinese AI chipmaker focused on edge inference, is raising $379 million through a Hong Kong IPO. The funding round signals strong investor confidence in the edge AI hardware market and accelerates development of specialized silicon for local LLM deployment.
 tags:
-  - edge-deployment
+  - hardware
+  - ai-chips
+  - edge-inference
+  - investment
 status: published
 ---
 

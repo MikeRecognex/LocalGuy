@@ -3,11 +3,10 @@ title: "Self-Hosted AI: A Complete Roadmap for Beginners"
 date: 2026-02-17
 description: KDnuggets publishes a comprehensive guide for deploying and running AI models locally, covering essential concepts, tools, and best practices for self-hosted inference. This resource serves as a practical entry point for developers new to local LLM deployment.
 tags:
-  - llama
-  - llama-cpp
-  - ollama
   - self-hosted
-  - vllm
+  - tutorial
+  - deployment
+  - beginners
 status: published
 ---
 

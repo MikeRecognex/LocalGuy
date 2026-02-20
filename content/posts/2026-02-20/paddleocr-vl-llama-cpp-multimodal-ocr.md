@@ -1,15 +1,13 @@
 ---
 title: "PaddleOCR-VL Now Integrated into llama.cpp for Multilingual OCR"
 date: 2026-02-20
-description: PaddleOCR-VL, a 900M parameter multilingual OCR model, has been integrated into llama.cpp, providing open-source optical character recognition capabilities for local LLM workflows. This addition enables fully local document processing pipelines without cloud dependencies.
+description: "PaddleOCR-VL, a 900M parameter multilingual OCR model, has been integrated into llama.cpp, providing open-source optical character recognition capabilities for local LLM workflows. This addition enables fully local document processing pipelines without cloud dependencies."
 tags:
   - daily-digest
-  - edge-deployment
-  - llama
   - llama-cpp
   - multimodal
+  - ocr
   - open-source
-  - paddleocr
 status: draft
 ---
 
