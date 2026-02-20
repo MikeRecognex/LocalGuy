@@ -168,25 +168,64 @@ module.exports = function (eleventyConfig) {
 
   // Tag cloud: returns [ { tag, count, weight } ] sorted by count descending
   // weight is 1–5 based on relative frequency
+  // Picks diverse tags across categories (companies, models, tools, topics)
   eleventyConfig.addFilter("tagCloud", (posts) => {
+    const taxonomy = require("./_data/tag-taxonomy.js");
+
+    // Normalize variant frontmatter tags to canonical slugs
+    const aliases = {
+      benchmark: "benchmarks",
+      "edge-inference": "edge-deployment",
+      "on-device": "edge-deployment",
+      "open-weights": "open-source",
+      inference: null, // too ubiquitous — suppress from cloud
+    };
     const counts = {};
     for (const post of posts) {
-      for (const tag of post.data.tags || []) {
+      for (let tag of post.data.tags || []) {
+        if (tag in aliases) tag = aliases[tag];
+        if (tag === null) continue;
         counts[tag] = (counts[tag] || 0) + 1;
       }
     }
     const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts", "guides"]);
-    const tags = Object.entries(counts)
-      .filter(([tag]) => !exclude.has(tag))
-      .map(([tag, count]) => ({ tag, count }))
-      .sort((a, b) => b.count - a.count);
-    if (!tags.length) return [];
-    const max = tags[0].count;
-    const min = tags[tags.length - 1].count;
-    for (const t of tags) {
+
+    // Build a lookup: tag slug → category name
+    const tagCategory = {};
+    for (const [cat, entries] of Object.entries(taxonomy)) {
+      for (const slug of Object.keys(entries)) {
+        tagCategory[slug] = cat;
+      }
+    }
+
+    // Bucket tags by category, sorted by count within each
+    const buckets = { companies: [], models: [], tools: [], topics: [], other: [] };
+    for (const [tag, count] of Object.entries(counts)) {
+      if (exclude.has(tag)) continue;
+      const cat = tagCategory[tag] || "other";
+      buckets[cat] = buckets[cat] || [];
+      buckets[cat].push({ tag, count });
+    }
+    for (const cat of Object.keys(buckets)) {
+      buckets[cat].sort((a, b) => b.count - a.count);
+    }
+
+    // Pick top tags from each category for a diverse cloud
+    // 4 companies, 3 models, 3 tools, 5 topics = 15 slots
+    const picked = [
+      ...buckets.companies.slice(0, 4),
+      ...buckets.models.slice(0, 3),
+      ...buckets.tools.slice(0, 3),
+      ...buckets.topics.slice(0, 5),
+    ];
+
+    if (!picked.length) return [];
+    const max = Math.max(...picked.map((t) => t.count));
+    const min = Math.min(...picked.map((t) => t.count));
+    for (const t of picked) {
       t.weight = min === max ? 3 : Math.ceil(((t.count - min) / (max - min)) * 4) + 1;
     }
-    return tags;
+    return picked.sort((a, b) => b.count - a.count);
   });
 
   eleventyConfig.addFilter("byCategory", (items, category) => {
