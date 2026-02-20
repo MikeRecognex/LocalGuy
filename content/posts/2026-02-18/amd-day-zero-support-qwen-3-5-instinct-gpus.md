@@ -3,10 +3,12 @@ title: AMD Announces Day 0 Support for Qwen 3.5 LLM on Instinct GPUs
 date: 2026-02-18
 description: AMD has enabled immediate support for the Qwen 3.5 model on its Instinct GPU lineup, providing optimized inference performance for local deployments on AMD hardware accelerators.
 tags:
-  - hardware
-  - amd-gpu
+  - alibaba
+  - amd
+  - edge-deployment
+  - google
+  - nvidia
   - qwen
-  - inference-optimization
 status: published
 ---
 

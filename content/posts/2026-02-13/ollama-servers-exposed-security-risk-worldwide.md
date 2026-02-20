@@ -5,8 +5,6 @@ description: Security researchers found over 175,000 Ollama installations with n
 tags:
   - ollama
   - security
-  - deployment
-  - misconfiguration
 status: published
 ---
 A comprehensive security scan has revealed that over 175,000 Ollama servers are publicly accessible without any authentication, spanning 130 countries worldwide. This massive exposure represents a significant security risk for organizations and individuals running local LLM deployments, as these servers can be accessed and potentially abused by anyone on the internet.

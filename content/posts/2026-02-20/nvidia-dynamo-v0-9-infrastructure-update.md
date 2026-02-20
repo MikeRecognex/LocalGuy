@@ -4,10 +4,11 @@ date: 2026-02-20
 description: "NVIDIA's Dynamo v0.9.0 update introduces significant infrastructure improvements including FlashIndexer and multi-modal support, advancing the capabilities of local inference frameworks on NVIDIA hardware."
 tags:
   - daily-digest
+  - edge-deployment
+  - multimodal
   - nvidia
-  - optimization
-  - multi-modal
-  - inference-framework
+  - rag
+  - self-hosted
 status: draft
 ---
 

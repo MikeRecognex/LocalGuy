@@ -4,10 +4,9 @@ date: 2026-02-20
 description: "An MSN feature demonstrates practical integration of local LLMs with Paperless-ngx for document management, showcasing real-world applications of self-hosted inference in productivity workflows."
 tags:
   - daily-digest
+  - open-source
+  - paperless-ngx
   - self-hosted
-  - integration
-  - document-management
-  - workflows
 status: draft
 ---
 

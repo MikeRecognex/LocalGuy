@@ -5,8 +5,7 @@ description: InitRunner is a new open-source framework that lets developers defi
 tags:
   - agents
   - open-source
-  - memory-optimization
-  - framework
+  - rag
 status: published
 ---
 

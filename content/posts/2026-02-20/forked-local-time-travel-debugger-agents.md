@@ -3,11 +3,10 @@ title: "Show HN: Forked – A Local Time-Travel Debugger for OpenClaw Agents"
 date: 2026-02-20
 description: "Forked introduces time-travel debugging capabilities for local LLM-based agents, enabling developers to inspect and replay agent execution states for better debugging and optimization."
 tags:
-  - daily-digest
   - agents
-  - debugging
-  - development-tools
-  - open-source
+  - daily-digest
+  - edge-deployment
+  - openclaw
 status: draft
 ---
 

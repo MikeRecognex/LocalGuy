@@ -4,10 +4,9 @@ date: 2026-02-19
 description: "A practical guide to implementing retrieval-augmented generation entirely on-device using SQLite for vector search, eliminating the need for external databases."
 tags:
   - daily-digest
+  - edge-deployment
+  - privacy
   - rag
-  - vector-search
-  - sqlite
-  - local-first
 status: draft
 ---
 

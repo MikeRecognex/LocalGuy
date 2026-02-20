@@ -3,11 +3,12 @@ title: "Qwen3 Coder Next 8FP Demonstrates Exceptional Long-Context Performance o
 date: 2026-02-20
 description: "Qwen3 Coder Next 8FP successfully processed 12+ hours of continuous Flutter documentation conversion with 64K max tokens, utilizing 102GB of 128GB system memory. This showcases the model's capability for demanding real-world document processing tasks on high-end local hardware."
 tags:
-  - daily-digest
   - benchmarks
-  - model-release
-  - memory-optimization
-  - long-context
+  - context-window
+  - daily-digest
+  - glm
+  - gpt-oss
+  - zhipu
 status: draft
 ---
 

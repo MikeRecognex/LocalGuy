@@ -5,8 +5,7 @@ description: "SitePoint publishes a comprehensive guide for deploying Ollama in 
 tags:
   - daily-digest
   - ollama
-  - deployment
-  - docker
+  - privacy
   - self-hosted
 status: draft
 ---

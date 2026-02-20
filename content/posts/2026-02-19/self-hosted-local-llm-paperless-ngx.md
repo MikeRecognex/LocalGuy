@@ -4,10 +4,11 @@ date: 2026-02-19
 description: "Community members demonstrate practical workflows integrating local LLMs with Paperless-ngx for intelligent document processing and management entirely on-premises."
 tags:
   - daily-digest
-  - self-hosted
-  - document-processing
+  - edge-deployment
+  - open-source
   - paperless-ngx
-  - workflows
+  - privacy
+  - self-hosted
 status: draft
 ---
 

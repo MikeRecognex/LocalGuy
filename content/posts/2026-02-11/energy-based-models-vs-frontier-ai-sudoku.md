@@ -3,10 +3,7 @@ title: Energy-Based Models Compared Against Frontier AI for Sudoku Solving
 date: 2026-02-11
 description: New analysis compares specialized energy-based models with large frontier AI systems for Sudoku solving, exploring efficiency advantages of task-specific local models.
 tags:
-  - benchmark
-  - energy-models
-  - efficiency
-  - specialized-models
+
 status: published
 ---
 

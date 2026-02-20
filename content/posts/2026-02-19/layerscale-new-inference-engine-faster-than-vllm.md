@@ -4,10 +4,9 @@ date: 2026-02-19
 description: A new inference engine claims to outperform established LLM serving platforms including vLLM, SGLang, and TensorRT-LLM. This breakthrough in inference speed could significantly improve local LLM deployment efficiency.
 tags:
   - daily-digest
-  - inference-optimization
-  - benchmark
-  - performance
-  - open-source
+  - nvidia
+  - tensorrt-llm
+  - vllm
 status: published
 ---
 

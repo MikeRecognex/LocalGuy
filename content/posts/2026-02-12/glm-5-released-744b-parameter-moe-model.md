@@ -3,10 +3,12 @@ title: "GLM-5 Released: 744B Parameter MoE Model Targeting Complex Tasks"
 date: 2026-02-12
 description: Zhipu AI releases GLM-5, a massive 744B parameter MoE model with 32B active parameters, designed for complex systems engineering and long-horizon agentic tasks with significant performance improvements over GLM-4.5.
 tags:
-  - glm
-  - open-source
-  - moe
   - agents
+  - glm
+  - moe
+  - quantisation
+  - self-hosted
+  - zhipu
 status: published
 ---
 

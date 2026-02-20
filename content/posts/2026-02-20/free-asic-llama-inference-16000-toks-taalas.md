@@ -3,11 +3,11 @@ title: "Free ASIC-Accelerated Llama 3.1 8B Inference at 16,000 Tokens/Second"
 date: 2026-02-20
 description: "Taalas, a fast inference hardware startup, has released a free chatbot interface and API endpoint running Llama 3.1 8B on custom ASICs, achieving 16,000 tokens/second throughput. This demonstrates the viability of specialized hardware for cost-effective local-style inference."
 tags:
+  - benchmarks
   - daily-digest
   - hardware
-  - asic
-  - inference-speed
-  - benchmark
+  - llama
+  - taalas
 status: draft
 ---
 

@@ -3,10 +3,9 @@ title: "Ask HN: How Do You Debug Multi-Step AI Workflows When the Output Is Wron
 date: 2026-02-18
 description: A community discussion on debugging strategies for complex multi-step AI workflows running locally, covering techniques for identifying failures and improving inference reliability.
 tags:
-  - debugging
-  - workflow-optimization
-  - best-practices
   - agents
+  - edge-deployment
+  - self-hosted
 status: published
 ---
 

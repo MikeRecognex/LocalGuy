@@ -3,10 +3,10 @@ title: NVIDIA's Dynamic Memory Sparsification Cuts LLM Inference Costs by 8x
 date: 2026-02-14
 description: NVIDIA introduces Dynamic Memory Sparsification technique that reduces LLM reasoning costs by 8x through intelligent KV cache management without accuracy loss.
 tags:
-  - memory-optimization
-  - inference-speed
+  - context-window
+  - memory-optimisation
+  - model-compression
   - nvidia
-  - kv-cache
 status: draft
 ---
 

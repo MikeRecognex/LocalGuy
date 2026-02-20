@@ -4,10 +4,13 @@ date: 2026-02-20
 description: "Kitten ML has released three new open-source expressive TTS models (80M, 40M, 14M parameters) under Apache 2.0 license, with the smallest model weighing less than 25 MB. This breakthrough enables high-quality speech synthesis on severely resource-constrained devices and edge deployments."
 tags:
   - daily-digest
-  - tts
-  - edge-inference
-  - model-compression
+  - edge-deployment
+  - kitten-tts
+  - llama
+  - llama-cpp
   - open-source
+  - privacy
+  - voice
 status: draft
 ---
 

@@ -4,10 +4,9 @@ date: 2026-02-18
 description: A critical perspective on regional AI development highlighting gaps in infrastructure, local model development, and self-hosting capabilities.
 tags:
   - daily-digest
+  - edge-deployment
   - open-source
-  - infrastructure
-  - deployment
-  - best-practices
+  - self-hosted
 status: published
 ---
 

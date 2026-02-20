@@ -3,10 +3,7 @@ title: LLM APIs Reconceptualized as State Synchronization Challenge
 date: 2026-02-14
 description: Technical analysis reframes LLM API design as a state synchronization problem, offering insights for improving local deployment architectures and multi-session handling.
 tags:
-  - api-design
-  - architecture
-  - local-deployment
-  - state-management
+  - ollama
 status: draft
 ---
 

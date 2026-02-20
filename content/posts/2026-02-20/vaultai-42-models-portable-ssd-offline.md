@@ -4,9 +4,8 @@ date: 2026-02-20
 description: "VaultAI packages 42 AI models on a portable SSD enabling complete offline inference without cloud dependencies. This represents a practical solution for on-device deployment with minimal hardware requirements."
 tags:
   - daily-digest
-  - hardware
   - edge-deployment
-  - offline-inference
+  - privacy
   - quantisation
 status: draft
 ---

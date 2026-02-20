@@ -4,9 +4,8 @@ date: 2026-02-12
 description: Security research reveals massive exposure of Ollama servers worldwide, highlighting critical security considerations for local LLM deployments.
 tags:
   - ollama
-  - security
-  - deployment
   - privacy
+  - security
 status: published
 ---
 

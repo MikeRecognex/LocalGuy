@@ -3,10 +3,7 @@ title: Memio Launches AI-Powered Knowledge Hub for Android with Local Processing
 date: 2026-02-12
 description: Memio introduces a new Android application that serves as an AI-powered knowledge hub for notes, RSS feeds, and web articles, potentially featuring local AI processing capabilities.
 tags:
-  - android
-  - mobile
-  - knowledge-management
-  - local-processing
+  - edge-deployment
 status: published
 ---
 Memio has launched a new Android application designed as an AI-powered knowledge hub that aggregates and processes notes, RSS feeds, and web articles. The application appears to focus on local data processing and organization, which could indicate the use of on-device AI models for content analysis and summarization.

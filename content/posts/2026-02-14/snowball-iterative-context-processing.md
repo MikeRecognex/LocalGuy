@@ -4,9 +4,9 @@ date: 2026-02-14
 description: New SnowBall approach enables iterative context processing when content exceeds LLM context windows, offering practical solutions for local deployment constraints.
 tags:
   - context-window
-  - memory-optimization
-  - techniques
-  - local-deployment
+  - llama
+  - llama-cpp
+  - ollama
 status: draft
 ---
 

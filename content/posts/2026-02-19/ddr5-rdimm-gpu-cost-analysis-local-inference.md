@@ -3,9 +3,8 @@ title: "Hardware Economics Shift: DDR5 RDIMM Pricing Now Comparable to GPUs for 
 date: 2026-02-19
 description: Analysis shows DDR5 RDIMM memory costs have reached parity with high-end GPUs like RTX 3090s on a per-gigabyte basis, forcing local LLM builders to reconsider their hardware stacking strategies.
 tags:
-  - cost-optimization
-  - memory
-  - inference-optimization
+  - benchmarks
+  - quantisation
 status: published
 ---
 

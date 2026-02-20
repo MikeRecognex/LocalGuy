@@ -98,6 +98,10 @@ function updateSelection() {
 
 searchBtn.addEventListener("click", openSearch);
 
+// Inline search button on landing page
+const inlineBtn = document.getElementById("search-inline-trigger");
+if (inlineBtn) inlineBtn.addEventListener("click", openSearch);
+
 overlay.addEventListener("click", (e) => {
   if (e.target === overlay) closeSearch();
 });

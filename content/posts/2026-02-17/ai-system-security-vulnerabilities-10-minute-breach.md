@@ -3,10 +3,11 @@ title: I broke into my own AI system in 10 minutes. I built it
 date: 2026-02-17
 description: Security researcher demonstrates critical vulnerabilities in self-built AI systems, highlighting the importance of hardening locally-deployed models against common attack vectors.
 tags:
-  - security
   - agents
-  - deployment
-  - best-practices
+  - edge-deployment
+  - langgraph
+  - security
+  - self-hosted
 status: published
 ---
 

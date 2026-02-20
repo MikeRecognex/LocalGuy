@@ -4,10 +4,11 @@ date: 2026-02-18
 description: Tailscale has developed a tool designed to ensure organizations can keep sensitive data local while preventing accidental exposure to cloud AI APIs, reinforcing the security case for local inference.
 tags:
   - daily-digest
+  - edge-deployment
+  - google
+  - openai
   - privacy
   - security
-  - data-protection
-  - edge-inference
 status: published
 ---
 
