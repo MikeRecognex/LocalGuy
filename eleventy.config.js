@@ -130,6 +130,22 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
+  // Filter out semantic classifier tags, keep descriptive/entity tags
+  const classifierTags = new Set([
+    "news", "tutorial", "analysis", "release", "showcase", "benchmark-report",
+    "opinion", "comparison",
+    "beginner-friendly", "intermediate", "advanced",
+    "hobbyist", "developer", "enterprise", "researcher",
+    "bullish", "cautious", "neutral",
+    "consumer-gpu", "datacenter-gpu", "apple-silicon",
+    "cpu-only", "edge-device", "custom-asic",
+    "daily-digest",
+  ]);
+  eleventyConfig.addFilter("topicTags", (tags, n = 5) => {
+    if (!Array.isArray(tags)) return [];
+    return tags.filter(t => !classifierTags.has(t)).slice(0, n);
+  });
+
   // Posts from the last N days (minimum 3 posts as fallback)
   eleventyConfig.addFilter("recentDays", (posts, days) => {
     const cutoff = new Date();
