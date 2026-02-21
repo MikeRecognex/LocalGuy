@@ -18,6 +18,22 @@ layout: layouts/base.njk
       {%- endfor %}
     </div>
     {% endif %}
+    {% if mentions %}
+    <div class="mentions">
+      {%- for mention in mentions %}
+        <span class="mention-chip">
+          {%- if mention.handle %}
+            <a href="https://x.com/{{ mention.handle | replace('@', '') }}" rel="nofollow">{{ mention.name }}</a>
+          {%- elif mention.url %}
+            <a href="{{ mention.url }}" rel="nofollow">{{ mention.name }}</a>
+          {%- else %}
+            {{ mention.name }}
+          {%- endif %}
+          {%- if mention.role %}<small>{{ mention.role }}</small>{%- endif %}
+        </span>
+      {%- endfor %}
+    </div>
+    {% endif %}
   </header>
 
   <div class="e-content">

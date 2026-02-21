@@ -3,9 +3,33 @@ title: "Running Your Own AI Assistant for €19/Month: Complete Self-Hosting Gui
 date: 2026-02-12
 description: A comprehensive guide demonstrates how to deploy and run a personal AI assistant on self-hosted infrastructure for just €19 per month, including setup instructions and cost breakdowns.
 tags:
+  - analysis
   - benchmarks
+  - bullish
+  - cost-analysis
+  - cost-saving
+  - developer
+  - intermediate
+  - llm-deployment
+  - local-llm-deployment
   - memory-optimisation
+  - memory-optimization
+  - neutral
+  - offline-deployment
+  - performance-benchmarking
+  - personal-ai-assistant
   - self-hosted
+  - self-hosting
+  - troubleshooting
+  - tutorial
+  - voice-assistant
+mentions:
+  - name: ClawHosters
+    role: publisher
+  - name: Hacker News
+    role: source
+  - name: clawhosters
+    role: publisher
 status: published
 ---
 

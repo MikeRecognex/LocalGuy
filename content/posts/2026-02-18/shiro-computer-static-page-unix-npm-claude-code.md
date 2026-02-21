@@ -3,7 +3,29 @@ title: "Show HN: Shiro.computer Static Page, Unix/NPM Shimmed to Host Claude Cod
 date: 2026-02-18
 description: A novel approach to running Claude Code as a static page with Unix/NPM shimming, demonstrating how to host complex AI interactions with minimal infrastructure.
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - cost-saving
   - daily-digest
+  - deployment-architecture
+  - developer
+  - developer-tooling
+  - distributed-inference
+  - edge-ai-deployment
+  - edge-device
+  - intermediate
+  - local-ai-deployment
+  - minimal-infrastructure-deployment
+  - offline-deployment
+  - production-ops
+  - showcase
+  - static-asset-ai
+  - static-page-ai
+  - unix-npm-shimming
+mentions:
+  - name: shiro.computer
+    role: developer
 status: published
 ---
 

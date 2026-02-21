@@ -3,9 +3,38 @@ title: Community Member Builds 144GB VRAM Local LLM Powerhouse
 date: 2026-02-11
 description: A LocalLLaMA community member showcases a custom-built system with 6x RTX 3090 GPUs providing 144GB of VRAM, featuring modified drivers with P2P support for high-performance local LLM inference.
 tags:
+  - advanced
+  - bullish
+  - community-hardware
+  - consumer-gpu
+  - cpu-only
+  - custom-hardware-builds
+  - developer
+  - gpu-interconnect
+  - gpu-interconnect-bandwidth
+  - high-vram-llms
+  - high-vram-systems
+  - hobbyist
+  - home-lab
+  - large-model-inference
+  - local-llm-inference
+  - model-quantization
+  - multi-gpu-setup
   - nvidia
+  - offline-deployment
   - open-source
+  - p2p-communication
+  - p2p-gpu-communication
+  - production-ops
   - quantisation
+  - showcase
+mentions:
+  - name: Gigabyte
+    role: hardware manufacturer
+  - name: ASRock
+    role: hardware manufacturer
+  - name: TinyGrad
+    role: software developer
 status: published
 ---
 

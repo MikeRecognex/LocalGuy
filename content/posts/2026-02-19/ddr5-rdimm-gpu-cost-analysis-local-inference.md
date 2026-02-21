@@ -3,8 +3,31 @@ title: "Hardware Economics Shift: DDR5 RDIMM Pricing Now Comparable to GPUs for 
 date: 2026-02-19
 description: Analysis shows DDR5 RDIMM memory costs have reached parity with high-end GPUs like RTX 3090s on a per-gigabyte basis, forcing local LLM builders to reconsider their hardware stacking strategies.
 tags:
+  - advanced
+  - analysis
+  - batch-inference
   - benchmarks
+  - cautious
+  - consumer-gpu
+  - cost-comparison
+  - cost-saving
+  - cpu-only
+  - developer
+  - developer-tooling
+  - gpu-optimization
+  - hardware-economics
+  - hardware-roi
+  - hardware-strategy
+  - intermediate
+  - local-llm-hardware
+  - memory-pricing
+  - model-quantization
   - quantisation
+  - server-memory
+  - server-ram
+mentions:
+  - name: r/LocalLLaMA
+    role: source
 status: published
 ---
 

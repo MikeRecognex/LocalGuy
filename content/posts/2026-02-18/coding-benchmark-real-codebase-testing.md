@@ -3,8 +3,22 @@ title: Real-World Coding Benchmark Tests LLMs on 65 Production Codebase Tasks
 date: 2026-02-18
 description: Developer releases benchmark testing LLMs on actual coding tasks within real production codebases, providing ELO ranking to evaluate practical coding capability beyond synthetic benchmarks.
 tags:
+  - benchmark-report
   - benchmarks
+  - bullish
+  - code-generation
+  - code-llm-benchmarking
   - coding
+  - coding-benchmark
+  - developer
+  - developer-tooling
+  - hardware-investment-strategy
+  - intermediate
+  - local-model-selection
+  - model-comparison
+  - model-evaluation
+  - production-ops
+  - real-world-performance
   - self-hosted
 status: published
 ---

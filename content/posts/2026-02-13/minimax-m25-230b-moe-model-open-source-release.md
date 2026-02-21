@@ -3,12 +3,35 @@ title: "MiniMax M2.5: 230B Parameter MoE Model Coming to HuggingFace"
 date: 2026-02-13
 description: MiniMax officially confirms open-source release of M2.5, a 230B parameter MoE model with only 10B active parameters, showing impressive SWE-Bench performance at 80.2%.
 tags:
+  - advanced
+  - analysis
+  - benchmark-performance
   - benchmarks
+  - bullish
+  - code-generation-benchmarking
+  - coding-llms
+  - cost-saving
+  - developer
+  - developer-tooling
   - hugging-face
+  - inference-cost-reduction
+  - intermediate
+  - local-deployment
+  - memory-optimization
   - minimax
   - minimax-m25
+  - mixture-of-experts
+  - model-efficiency
   - moe
+  - offline-deployment
   - open-source
+  - open-source-llms
+  - open-source-models
+  - release
+  - sparse-models
+mentions:
+  - name: OpenHands
+    role: publisher
 status: published
 ---
 MiniMax has officially announced the open-source release of their M2.5 model, a massive 230 billion parameter Mixture of Experts (MoE) architecture that activates only 10 billion parameters during inference. The [official announcement](https://openhands.dev/blog/minimax-m2-5-open-weights-models-catch-up-to-claude) confirms the model weights will be available on HuggingFace, making this one of the largest open-source MoE models for local deployment.

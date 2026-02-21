@@ -3,10 +3,33 @@ title: Can We Leverage AI/LLMs for Self-Learning?
 date: 2026-02-18
 description: An exploration of using local LLMs as personalized learning tools, examining effective strategies for self-directed education and knowledge retention with on-device models.
 tags:
+  - ai-system-design
+  - analysis
+  - bullish
   - coding
+  - data-privacy
+  - developer
   - edge-deployment
+  - edge-device
+  - education
+  - education-technology
   - fine-tuning
+  - hobbyist
+  - intermediate
+  - latency-reduction
+  - local-inference
+  - offline-deployment
+  - on-device-ai
+  - personal-ai
+  - personalized-learning
   - privacy
+  - privacy-compliance
+  - privacy-preserving-ai
+mentions:
+  - name: techne98.com
+    role: publisher
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

@@ -3,10 +3,33 @@ title: "Show HN: Forked – A Local Time-Travel Debugger for OpenClaw Agents"
 date: 2026-02-20
 description: "Forked introduces time-travel debugging capabilities for local LLM-based agents, enabling developers to inspect and replay agent execution states for better debugging and optimization."
 tags:
+  - advanced
+  - agent-frameworks
+  - agent-monitoring
   - agents
+  - analysis
+  - bullish
   - daily-digest
+  - debugging-tools
+  - developer
+  - developer-tooling
   - edge-deployment
+  - intermediate
+  - llm-agents
+  - local-deployment
+  - offline-deployment
   - openclaw
+  - production-deployment
+  - production-ops
+  - showcase
+  - time-travel-debugging
+mentions:
+  - name: MurbotLabs
+    role: developer
+  - name: Hacker News
+    role: publisher
+  - name: MurbotLabs
+    role: developer
 status: draft
 ---
 

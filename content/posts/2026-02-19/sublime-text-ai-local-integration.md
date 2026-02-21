@@ -3,8 +3,27 @@ title: "AI Integration in Sublime Text: Practical Local LLM Editor Enhancement"
 date: 2026-02-19
 description: "A developer shares practical techniques for integrating local AI models directly into Sublime Text for code completion and assistance. This shows how local LLMs are being embedded into developer workflows."
 tags:
+  - ai-assisted-development
+  - bullish
+  - code-assistance
+  - consumer-gpu
   - daily-digest
+  - developer
+  - developer-tooling
+  - developer-workflow
+  - editor-integration
+  - inference-optimization
+  - intermediate
+  - local-ai-integration
+  - local-first-ai
+  - local-llm-development
+  - offline-deployment
   - privacy
+  - privacy-compliance
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

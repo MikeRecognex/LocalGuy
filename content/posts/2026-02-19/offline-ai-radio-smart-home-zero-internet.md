@@ -3,7 +3,28 @@ title: "Complete Offline AI System: Voice Control and Smart Home via Local LLM a
 date: 2026-02-19
 description: A developer in Ukraine built a fully offline AI assistant using a Mac mini, local LLMs, and a $30 radio module, enabling smart home control and voice messaging without internet connectivity during power outages.
 tags:
+  - advanced
+  - apple-silicon
+  - bullish
+  - consumer-hardware
+  - developer
+  - edge-device
+  - hardware-integration
+  - home-lab
+  - intermediate
+  - local-ai-systems
+  - offline-ai
+  - offline-deployment
+  - radio-communication
+  - resilience
+  - showcase
+  - smart-home-automation
+  - tts-stt-integration
   - voice
+  - voice-assistant
+mentions:
+  - name: Reddit
+    role: source
 status: published
 ---
 

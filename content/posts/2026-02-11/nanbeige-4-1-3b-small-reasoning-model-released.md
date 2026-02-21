@@ -3,10 +3,38 @@ title: "Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts"
 date: 2026-02-11
 description: Nanbeige LLM Lab releases a new open-source 3B parameter model designed to achieve strong reasoning, preference alignment, and agentic behavior in a compact form factor ideal for local deployment.
 tags:
+  - advanced
+  - agentic-ai
+  - agentic-capabilities
   - agents
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - developer
+  - developer-tooling
   - edge-deployment
+  - edge-device
+  - general-purpose-llm
+  - intermediate
+  - local-deployment
   - nanbeige
+  - offline-deployment
+  - on-device-inference
   - open-source
+  - open-source-models
+  - preference-alignment
+  - reasoning-capabilities
+  - release
+  - resource-constraints
+  - resource-efficiency
+  - resource-optimization
+  - small-language-models
+  - small-model-deployment
+mentions:
+  - name: Nanbeige LLM Lab
+    role: developer
+  - name: r/LocalLLaMA
+    role: community
 status: published
 ---
 

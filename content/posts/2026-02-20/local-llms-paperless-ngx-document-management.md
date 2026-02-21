@@ -3,10 +3,32 @@ title: "Using Local LLMs With Self-Hosted Tools to Manage Documents in Paperless
 date: 2026-02-20
 description: "An MSN feature demonstrates practical integration of local LLMs with Paperless-ngx for document management, showcasing real-world applications of self-hosted inference in productivity workflows."
 tags:
+  - analysis
+  - bullish
+  - cost-saving
   - daily-digest
+  - data-privacy
+  - developer
+  - document-management
+  - document-processing
+  - enterprise
+  - intermediate
   - open-source
+  - open-source-ecosystem
   - paperless-ngx
+  - privacy-compliance
   - self-hosted
+  - self-hosted-inference
+  - self-hosted-llms
+  - showcase
+  - system-integration
+mentions:
+  - name: MSN
+    role: publisher
+  - name: Paperless-ngx
+    role: tool
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

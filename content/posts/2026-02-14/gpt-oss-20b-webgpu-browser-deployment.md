@@ -4,12 +4,33 @@ date: 2026-02-14
 description: GPT-OSS 20B can now run entirely in web browsers using WebGPU acceleration through Transformers.js v4 and ONNX Runtime Web, enabling client-side AI without server dependencies.
 tags:
   - browser-ai
+  - browser-based-ai
+  - bullish
+  - client-side-inference
+  - consumer-gpu
+  - data-privacy
+  - developer
+  - developer-tooling
+  - edge-ai-deployment
   - edge-deployment
   - gpt-oss
   - hugging-face
+  - intermediate
+  - local-inference
+  - news
+  - offline-deployment
   - onnx
   - privacy
+  - privacy-compliance
+  - privacy-preserving-ai
+  - release
+  - showcase
+  - web-ai-applications
   - webgpu
+  - webgpu-acceleration
+mentions:
+  - name: webml-community
+    role: community
 status: draft
 ---
 

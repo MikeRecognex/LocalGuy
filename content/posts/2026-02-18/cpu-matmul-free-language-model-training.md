@@ -3,9 +3,28 @@ title: Matmul-Free Language Model Trained on CPU in 1.2 Hours
 date: 2026-02-18
 description: Researcher demonstrates training a 13.6M parameter language model entirely on CPU without matrix multiplications, achieving training time of just 1.2 hours with a working model available on Hugging Face.
 tags:
+  - advanced
+  - bullish
+  - consumer-hardware
+  - cost-saving
+  - cpu-only
+  - cpu-training
+  - developer
+  - developer-tooling
   - edge-deployment
+  - fast-training
   - fine-tuning
+  - hardware-efficiency
   - hugging-face
+  - matmul-free-architecture
+  - model-adaptation
+  - model-architecture
+  - offline-deployment
+  - on-device-fine-tuning
+  - production-ops
+  - researcher
+  - showcase
+  - small-model-training
   - training
 status: published
 ---

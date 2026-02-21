@@ -3,10 +3,31 @@ title: Why My Country's AI Scene Is Built on Sand
 date: 2026-02-18
 description: A critical perspective on regional AI development highlighting gaps in infrastructure, local model development, and self-hosting capabilities.
 tags:
+  - ai-infrastructure
+  - ai-infrastructure-gaps
+  - analysis
+  - bullish
+  - cautious
+  - community-ai-development
   - daily-digest
+  - data-sovereignty
+  - developer
   - edge-deployment
+  - intermediate
+  - local-deployment
+  - local-model-development
+  - offline-deployment
+  - on-device-inference
   - open-source
+  - open-source-ai
+  - opinion
+  - privacy-compliance
+  - regional-ai-development
   - self-hosted
+  - self-hosting
+mentions:
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

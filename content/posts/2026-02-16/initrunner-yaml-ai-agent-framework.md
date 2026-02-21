@@ -3,9 +3,34 @@ title: "InitRunner: YAML-Based AI Agent Framework with RAG and Memory"
 date: 2026-02-16
 description: InitRunner is a new open-source framework that lets developers define AI agents using simple YAML configuration, including support for RAG, memory management, and API endpoints.
 tags:
+  - agent-deployment
   - agents
+  - ai-agent-framework
+  - ai-applications
+  - bullish
+  - configuration-management
+  - context-management
+  - developer
+  - developer-tooling
+  - document-processing
+  - intermediate
+  - local-llm-deployment
+  - memory-management
+  - offline-deployment
   - open-source
   - rag
+  - rag-pipeline
+  - release
+  - retrieval-augmented-generation
+  - showcase
+  - tutorial
+  - yaml-configuration
+mentions:
+  - name: vladkesler
+    role: developer
+    handle: "@vladkesler"
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

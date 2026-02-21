@@ -3,9 +3,30 @@ title: Ring-1T-2.5 Released with SOTA Deep Thinking Performance
 date: 2026-02-13
 description: inclusionAI releases Ring-1T-2.5 in FP8 format, claiming state-of-the-art performance on deep thinking tasks with optimized quantization for local deployment.
 tags:
+  - accessible-hardware-optimization
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - developer
+  - developer-tooling
+  - fp8-quantization
+  - intermediate
+  - local-deployment
+  - local-deployment-efficiency
   - memory-optimisation
+  - model-compression
+  - multi-step-reasoning
+  - offline-deployment
   - quantisation
+  - quantization
+  - reasoning-tasks
+  - release
   - ring-1t
+mentions:
+  - name: inclusionAI
+    role: developer
 status: draft
 ---
 inclusionAI has released [Ring-1T-2.5](https://huggingface.co/inclusionAI/Ring-1T-2.5-FP8), positioning it as achieving state-of-the-art performance on deep thinking and reasoning tasks. The model is distributed in FP8 format, representing significant memory optimization for local deployment scenarios.

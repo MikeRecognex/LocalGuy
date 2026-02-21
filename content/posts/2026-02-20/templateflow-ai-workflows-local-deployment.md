@@ -3,7 +3,31 @@ title: "TemplateFlow – Build AI Workflows, Not Prompts"
 date: 2026-02-20
 description: "TemplateFlow introduces a workflow-based approach to local LLM deployment, moving beyond simple prompt engineering to structured, reproducible AI pipelines. This framework simplifies complex multi-step inference tasks."
 tags:
+  - advanced
+  - agent-orchestration
+  - ai-workflows
+  - analysis
+  - bullish
+  - complex-reasoning
+  - context-window-management
   - daily-digest
+  - developer
+  - developer-tooling
+  - intermediate
+  - latency-reduction
+  - local-llm-deployment
+  - multi-agent-systems
+  - multi-step-inference
+  - offline-deployment
+  - production-ops
+  - prompt-engineering
+  - showcase
+  - workflow-orchestration
+mentions:
+  - name: TemplateFlow
+    role: framework-provider
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

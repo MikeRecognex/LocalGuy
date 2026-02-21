@@ -3,10 +3,25 @@ title: Qwen Coder Next Shows Specialized Agent Performance
 date: 2026-02-12
 description: Community testing reveals Qwen Coder Next excels at agent work and research tasks rather than pure code generation, showing strong performance in planning, technical writing, and information gathering despite its coding-focused name.
 tags:
+  - agent-ai
+  - agent-performance
+  - agentic-workflows
   - agents
   - alibaba
+  - analysis
+  - bullish
+  - code-generation
   - coding
+  - developer
+  - developer-tooling
+  - document-processing
+  - information-synthesis
+  - intermediate
+  - local-deployment
+  - model-evaluation
   - qwen
+  - reasoning-capabilities
+  - showcase
 status: published
 ---
 

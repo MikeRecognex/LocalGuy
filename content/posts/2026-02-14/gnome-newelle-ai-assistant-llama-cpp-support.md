@@ -3,10 +3,34 @@ title: GNOME's AI Assistant Newelle Adds llama.cpp Support and Command Execution
 date: 2026-02-14
 description: The open-source GNOME AI assistant Newelle now integrates directly with llama.cpp for local inference and includes new command execution capabilities for system automation.
 tags:
+  - bullish
+  - command-execution
+  - desktop-integration
+  - developer
+  - developer-tooling
+  - intermediate
+  - linux-desktop-ai
   - llama
   - llama-cpp
+  - llama-cpp-integration
+  - local-deployment
+  - local-inference
+  - offline-deployment
   - open-source
   - privacy
+  - privacy-compliance
+  - privacy-focused-inference
+  - release
+  - showcase
+  - system-automation
+  - voice-assistant
+mentions:
+  - name: GNOME
+    role: project
+  - name: Newelle
+    role: project
+  - name: Phoronix
+    role: publisher
 status: draft
 ---
 

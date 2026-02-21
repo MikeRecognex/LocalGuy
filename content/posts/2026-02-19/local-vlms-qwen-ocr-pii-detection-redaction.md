@@ -4,13 +4,36 @@ date: 2026-02-19
 description: A developer has published an open-source application using local Qwen VLMs for document OCR with bounding box detection, enabling privacy-preserving PII detection and redaction without cloud services.
 tags:
   - alibaba
+  - bullish
+  - data-privacy-compliance
+  - data-redaction
+  - developer
+  - document-ocr
+  - document-processing
+  - document-understanding
+  - enterprise
+  - intermediate
+  - local-vlm
+  - local-vlms
   - memory-optimisation
+  - model-quantization
   - multimodal
+  - neutral
+  - offline-deployment
   - ollama
+  - ollama-deployment
   - open-source
+  - open-source-software
+  - pii-detection-redaction
   - privacy
+  - privacy-compliance
   - quantisation
   - qwen
+  - qwen-3-vl
+  - showcase
+mentions:
+  - name: LocalLLaMA
+    role: community
 status: published
 ---
 

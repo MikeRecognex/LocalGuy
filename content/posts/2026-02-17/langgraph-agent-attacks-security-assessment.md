@@ -3,9 +3,26 @@ title: I attacked my own LangGraph agent system. All 6 attacks worked
 date: 2026-02-17
 description: Security analysis of LangGraph-based AI agent systems, demonstrating multiple attack vectors against locally-deployed agentic systems and their implications for production deployments.
 tags:
+  - advanced
+  - agent-orchestration
+  - agent-security
   - agents
+  - ai-security
+  - analysis
+  - attack-vectors
+  - cautious
+  - developer
   - langgraph
+  - langgraph-security
+  - offline-deployment
+  - production-ops
+  - production-security
+  - prompt-injection
   - security
+  - security-best-practices
+mentions:
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

@@ -3,10 +3,32 @@ title: Sarvam Brings AI to Feature Phones, Cars, and Smart Glasses
 date: 2026-02-19
 description: Sarvam AI demonstrates practical on-device AI deployment on ultra-resource-constrained devices, from feature phones to automotive and wearable platforms.
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - cost-saving
+  - developer
   - distillation
+  - edge-ai-deployment
   - edge-deployment
+  - edge-device
+  - embedded-ai
+  - inference-optimization
+  - low-resource-deployment
   - model-compression
+  - model-optimization
+  - offline-deployment
   - quantisation
+  - resource-constrained-ai
+  - showcase
+  - specialized-models
+mentions:
+  - name: Sarvam AI
+    role: developer
+  - name: Sarvam
+    role: developer
+  - name: findarticles.com
+    role: publisher
 status: published
 ---
 

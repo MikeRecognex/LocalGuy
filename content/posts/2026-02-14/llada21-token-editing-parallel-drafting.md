@@ -3,7 +3,27 @@ title: LLaDA2.1 Introduces Token Editing for Massive Speed Gains in Local Infere
 date: 2026-02-14
 description: LLaDA2.1 100B/16B models now feature token-to-token editing capabilities, allowing retroactive error correction during inference for much faster parallel drafting.
 tags:
+  - advanced
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - developer
+  - developer-tooling
+  - error-correction
+  - inference-efficiency
+  - inference-speed
+  - llm-model
+  - local-inference
+  - offline-deployment
+  - parallel-drafting
+  - parallel-processing
+  - production-ops
+  - release
+  - token-editing
 
+mentions:
+  - name: LocalLLaMA
+    role: source
 status: draft
 ---
 

@@ -5,10 +5,32 @@ description: AMD has enabled immediate support for the Qwen 3.5 model on its Ins
 tags:
   - alibaba
   - amd
+  - amd-gpu-support
+  - bullish
+  - datacenter-gpu
+  - developer
+  - developer-experience
+  - developer-tooling
   - edge-deployment
+  - enterprise
   - google
+  - hardware-ecosystem-diversification
+  - inference-optimization
+  - intermediate
+  - local-deployment
+  - local-inference-deployment
+  - model-compatibility
+  - news
   - nvidia
+  - offline-deployment
+  - performance-optimization
+  - production-ops
   - qwen
+  - qwen-35-support
+  - release
+mentions:
+  - name: TechPowerUp
+    role: publisher
 status: published
 ---
 

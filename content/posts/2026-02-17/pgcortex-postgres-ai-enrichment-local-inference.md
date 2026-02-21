@@ -3,7 +3,32 @@ title: "Show HN: PgCortex – AI enrichment per Postgres row, zero transaction b
 date: 2026-02-17
 description: Novel tool integrating local AI inference directly into PostgreSQL for per-row data enrichment without blocking transactions, enabling efficient batch processing of LLM operations.
 tags:
+  - advanced
+  - batch-processing
+  - bullish
+  - cost-optimization
+  - cost-saving
+  - data-privacy
+  - database-integration
+  - developer
+  - developer-tooling
+  - document-processing
+  - enterprise
+  - in-database-inference
+  - intermediate
+  - llm-scalability
+  - local-inference
   - privacy
+  - privacy-compliance
+  - production-ops
+  - scalable-deployment
+  - showcase
+  - transaction-management
+mentions:
+  - name: PgCortex
+    role: developer
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

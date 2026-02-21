@@ -3,10 +3,33 @@ title: "Local-First RAG: Vector Search in SQLite with Hamming Distance"
 date: 2026-02-19
 description: "A practical guide to implementing retrieval-augmented generation entirely on-device using SQLite for vector search, eliminating the need for external databases."
 tags:
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - developer-tooling
+  - document-processing
+  - document-qa
   - edge-deployment
+  - edge-device
+  - hamming-distance
+  - intermediate
+  - latency-reduction
+  - local-llm-deployment
+  - local-rag
+  - offline-deployment
+  - on-device-rag
   - privacy
+  - privacy-compliance
   - rag
+  - rag-pipeline
+  - resource-optimization
+  - self-hosted-ai
+  - sqlite-vector-search
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

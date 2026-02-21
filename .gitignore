@@ -8,3 +8,5 @@ _private/
 .env.*
 .claude/
 .mcp.json
+.venv/
+.smart-retag-cache.json

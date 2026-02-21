@@ -3,9 +3,30 @@ title: Arm SME2 Technology Expands CPU Capabilities for On-Device AI
 date: 2026-02-11
 description: Samsung and Arm announce SME2 technology that significantly enhances CPU performance for local AI inference, potentially reducing reliance on dedicated AI accelerators.
 tags:
+  - ai-accelerator-reduction
   - arm
+  - arm-processor
+  - arm-sme2
+  - arm-sme2-technology
+  - bullish
+  - cost-saving
+  - cpu-inference
+  - cpu-only
+  - developer
   - edge-deployment
+  - edge-device
+  - hardware-optimization
+  - intermediate
+  - llm-accessibility
+  - matrix-operations
+  - neutral
+  - news
+  - offline-deployment
+  - on-device-ai
+  - power-efficiency
+  - release
   - samsung
+  - transformer-models
 status: published
 ---
 

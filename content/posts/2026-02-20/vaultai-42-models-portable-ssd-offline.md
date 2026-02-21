@@ -3,10 +3,32 @@ title: "VaultAI – 42 AI Models on a Portable SSD, Works Offline for $399"
 date: 2026-02-20
 description: "VaultAI packages 42 AI models on a portable SSD enabling complete offline inference without cloud dependencies. This represents a practical solution for on-device deployment with minimal hardware requirements."
 tags:
+  - analysis
+  - bullish
+  - cloud-independence
+  - cost-saving
   - daily-digest
+  - developer
+  - developer-tooling
+  - edge-ai-systems
   - edge-deployment
+  - edge-device
+  - intermediate
+  - model-optimization
+  - model-quantization
+  - offline-deployment
+  - offline-inference
+  - portable-ai
   - privacy
+  - privacy-compliance
   - quantisation
+  - reference-architecture
+  - showcase
+mentions:
+  - name: VaultAI
+    role: product
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

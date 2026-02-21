@@ -3,9 +3,30 @@ title: "Ming-flash-omni-2.0: 100B MoE Omni-Modal Model Released"
 date: 2026-02-13
 description: Ant Group releases Ming-flash-omni-2.0, a 100B MoE model with 6B active parameters supporting unified speech, SFX, music generation alongside image, text, and video processing.
 tags:
+  - advanced
+  - analysis
+  - audio-generation
+  - bullish
+  - creative-generation
+  - developer
+  - intermediate
+  - local-deployment
+  - local-inference
+  - memory-optimization
+  - mixture-of-experts
+  - model-efficiency
   - moe
   - multimodal
+  - multimodal-ai
+  - news
+  - offline-deployment
+  - omni-modal-ai
+  - release
+  - sparse-activation
   - voice
+mentions:
+  - name: Ant Group
+    role: developer
 status: published
 ---
 Ant Group has open-sourced [Ming-flash-omni-2.0](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0), a groundbreaking 100B parameter MoE model that activates only 6B parameters during inference. This truly omni-modal architecture handles image, text, video, and audio inputs while generating image, text, and audio outputs in a single unified model.

@@ -3,11 +3,37 @@ title: Running Local LLMs and VLMs on Arduino UNO Q with yzma
 date: 2026-02-19
 description: A new guide demonstrates running local LLMs and vision language models on the Arduino UNO Q microcontroller using yzma. This pushes edge inference to the extreme lower end of hardware constraints.
 tags:
+  - advanced
+  - bullish
+  - developer
   - edge-deployment
+  - edge-device
+  - edge-inference
+  - local-llm-deployment
   - memory-optimisation
+  - memory-optimization
+  - microcontroller-ai
+  - model-optimization
+  - model-quantization
   - multimodal
+  - offline-deployment
+  - on-device-image-analysis
   - privacy
+  - privacy-compliance
+  - privacy-preserving-ai
   - quantisation
+  - showcase
+  - tutorial
+  - vision-language-models
+mentions:
+  - name: Arduino
+    role: platform-provider
+  - name: yzma
+    role: tool-provider
+  - name: Edge Impulse
+    role: contributor
+  - name: Hacker News
+    role: source
 status: published
 ---
 

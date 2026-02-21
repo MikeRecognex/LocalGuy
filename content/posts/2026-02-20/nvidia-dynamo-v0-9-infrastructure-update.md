@@ -3,12 +3,35 @@ title: "NVIDIA Releases Dynamo v0.9.0: Infrastructure Overhaul With FlashIndexer
 date: 2026-02-20
 description: "NVIDIA's Dynamo v0.9.0 update introduces significant infrastructure improvements including FlashIndexer and multi-modal support, advancing the capabilities of local inference frameworks on NVIDIA hardware."
 tags:
+  - bullish
+  - consumer-gpu
+  - creative-generation
   - daily-digest
+  - datacenter-gpu
+  - developer
+  - developer-tooling
+  - document-processing
   - edge-deployment
+  - edge-device
+  - flashindexer-optimization
+  - inference-indexing
+  - intermediate
+  - local-inference
+  - multi-modal-ai
   - multimodal
+  - news
   - nvidia
+  - offline-deployment
+  - performance-optimization
+  - production-ops
   - rag
+  - rag-pipeline
+  - release
   - self-hosted
+  - vision-language-models
+mentions:
+  - name: MarkTechPost
+    role: publisher
 status: draft
 ---
 

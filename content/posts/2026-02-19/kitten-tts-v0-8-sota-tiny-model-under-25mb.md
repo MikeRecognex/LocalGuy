@@ -3,13 +3,38 @@ title: "Kitten TTS V0.8 Released: State-of-the-Art Super-Tiny Text-to-Speech Mod
 date: 2026-02-19
 description: Kitten ML has released three new open-source TTS models (80M, 40M, 14M parameters) with expressive capabilities and Apache 2.0 licensing, enabling high-quality speech synthesis on resource-constrained devices.
 tags:
+  - apple-silicon
+  - bullish
+  - consumer-gpu
+  - developer
+  - developer-tooling
   - edge-deployment
+  - edge-device
+  - edge-inference
+  - inference-frameworks
+  - intermediate
   - kitten-tts
   - llama
   - llama-cpp
+  - local-inference
+  - model-compression
+  - offline-ai
+  - offline-deployment
   - ollama
+  - on-device-deployment
   - open-source
+  - open-source-licensing
+  - release
+  - showcase
+  - speech-synthesis
+  - text-to-speech
   - voice
+  - voice-assistant
+mentions:
+  - name: Kitten ML
+    role: developer
+  - name: Kitten-ML
+    role: developer community
 status: published
 ---
 Kitten ML has announced the release of three new tiny text-to-speech models optimized for on-device deployment. The models come in three sizes—80M, 40M, and 14M parameters—all under 25MB, making them ideal for edge inference scenarios where storage and memory are severely constrained. All weights and code are available under the permissive Apache 2.0 license, enabling both commercial and research use.

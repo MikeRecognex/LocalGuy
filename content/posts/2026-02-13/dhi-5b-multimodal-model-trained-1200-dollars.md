@@ -3,9 +3,30 @@ title: "Student Releases Dhi-5B: Multimodal Model Trained for Just $1,200"
 date: 2026-02-13
 description: Undergraduate student demonstrates cost-effective training by releasing Dhi-5B, a 5 billion parameter multimodal language model trained from scratch with only ₹1.1 lakh budget.
 tags:
+  - advanced
+  - ai-accessibility
+  - ai-democratization
+  - analysis
+  - bullish
+  - compute-optimization
+  - cost-effective-ai-development
+  - cost-effective-development
+  - cost-effective-training
+  - cost-saving
+  - developer
   - dhi-5b
+  - hobbyist
+  - intermediate
+  - low-budget-training
+  - low-cost-training
+  - model-architecture
+  - model-training
   - multimodal
+  - multimodal-llm
+  - release
+  - researcher
   - training
+  - training-optimization
 status: draft
 ---
 An undergraduate student has achieved a remarkable milestone by training Dhi-5B, a 5 billion parameter multimodal language model from scratch using just ₹1.1 lakh ($1,200) in compute costs. The [project announcement](https://i.redd.it/5tsgquvue7jg1.png) highlights the use of compute-optimal training techniques and latest architectural innovations with a custom-built training codebase.

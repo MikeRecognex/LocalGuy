@@ -3,9 +3,34 @@ title: "Scaling llama.cpp On Neoverse N2: Solving Cross-NUMA Performance Issues"
 date: 2026-02-13
 description: New optimizations address NUMA topology challenges in llama.cpp deployments on ARM Neoverse N2 processors, improving multi-socket server performance for local LLM inference.
 tags:
+  - advanced
+  - analysis
   - arm
+  - arm-architecture
+  - arm-server
+  - arm-servers
+  - bullish
+  - cost-efficiency
+  - cost-saving
+  - cpu-only
+  - developer
+  - edge-device
+  - enterprise
   - llama
   - llama-cpp
+  - llama-cpp-optimization
+  - local-llm-deployment
+  - memory-management
+  - news
+  - numa-performance
+  - offline-deployment
+  - performance-optimization
+  - power-efficiency
+  - production-ops
+  - server-performance
+mentions:
+  - name: Semiconductor Engineering
+    role: publisher
 status: published
 ---
 ARM Neoverse N2-based servers are becoming increasingly popular for local LLM deployments, but cross-NUMA performance bottlenecks have been limiting their effectiveness. This breakthrough addresses critical performance issues that occur when llama.cpp workloads span multiple NUMA domains on multi-socket systems.

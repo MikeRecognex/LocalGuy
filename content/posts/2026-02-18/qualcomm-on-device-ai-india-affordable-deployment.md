@@ -3,11 +3,39 @@ title: Qualcomm Ventures Positions India as Blueprint for Affordable On-Device A
 date: 2026-02-18
 description: Qualcomm Ventures' MD highlights how India's scale and infrastructure constraints are driving innovation in efficient, on-device AI that bypasses expensive cloud dependencies.
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - cloud-decentralization
+  - cost-saving
+  - developer
+  - developer-tooling
+  - edge-ai
   - edge-deployment
+  - edge-device
+  - efficient-inference
+  - enterprise
   - google
+  - hardware-software-co-optimization
+  - intermediate
+  - mobile-soc
+  - news
+  - offline-deployment
+  - on-device-ai
+  - on-device-ai-infrastructure
   - privacy
+  - privacy-compliance
+  - privacy-preserving-ai
   - qualcomm
   - quantisation
+  - voice-ai
+mentions:
+  - name: Qualcomm Ventures
+    role: investor
+  - name: Mihup
+    role: partner
+  - name: moneycontrol.com
+    role: publisher
 status: published
 ---
 

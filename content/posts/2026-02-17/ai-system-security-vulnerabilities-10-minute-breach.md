@@ -3,11 +3,29 @@ title: I broke into my own AI system in 10 minutes. I built it
 date: 2026-02-17
 description: Security researcher demonstrates critical vulnerabilities in self-built AI systems, highlighting the importance of hardening locally-deployed models against common attack vectors.
 tags:
+  - advanced
+  - agent-frameworks
   - agents
+  - ai-agent-security
+  - ai-security
+  - analysis
+  - cautious
+  - developer
+  - developer-tooling
   - edge-deployment
+  - intermediate
   - langgraph
+  - local-ai-security
+  - on-device-deployment
+  - production-deployment
+  - production-ops
   - security
+  - security-best-practices
   - self-hosted
+  - vulnerability-management
+mentions:
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

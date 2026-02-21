@@ -199,10 +199,11 @@ module.exports = function (eleventyConfig) {
     }
 
     // Bucket tags by category, sorted by count within each
-    const buckets = { companies: [], models: [], tools: [], topics: [], other: [] };
+    // Tags not in the regex taxonomy are treated as semantic (from smart-retag.py / Gemini)
+    const buckets = { companies: [], models: [], tools: [], topics: [], semantic: [], other: [] };
     for (const [tag, count] of Object.entries(counts)) {
       if (exclude.has(tag)) continue;
-      const cat = tagCategory[tag] || "other";
+      const cat = tagCategory[tag] || "semantic";
       buckets[cat] = buckets[cat] || [];
       buckets[cat].push({ tag, count });
     }
@@ -211,12 +212,13 @@ module.exports = function (eleventyConfig) {
     }
 
     // Pick top tags from each category for a diverse cloud
-    // 4 companies, 3 models, 3 tools, 5 topics = 15 slots
+    // 4 companies, 3 models, 3 tools, 5 topics, 3 semantic = 18 slots
     const picked = [
       ...buckets.companies.slice(0, 4),
       ...buckets.models.slice(0, 3),
       ...buckets.tools.slice(0, 3),
       ...buckets.topics.slice(0, 5),
+      ...buckets.semantic.slice(0, 3),
     ];
 
     if (!picked.length) return [];

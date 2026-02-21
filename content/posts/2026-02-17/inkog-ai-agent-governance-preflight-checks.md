@@ -3,9 +3,32 @@ title: "Show HN: Inkog – Pre-flight check for AI agents (governance, loops, in
 date: 2026-02-17
 description: New tool providing security scanning and governance checks for AI agents before deployment, addressing critical vulnerabilities in prompt injection, infinite loops, and policy violations.
 tags:
+  - advanced
+  - agent-loop-detection
+  - agent-validation
+  - agentic-ai
   - agents
+  - ai-agent-security
+  - ai-governance
+  - analysis
+  - bullish
+  - developer
+  - developer-tooling
+  - enterprise
+  - intermediate
+  - local-llm-deployment
+  - policy-enforcement
+  - pre-deployment-security
+  - production-ops
+  - prompt-injection
   - security
   - self-hosted
+  - showcase
+mentions:
+  - name: Inkog
+    role: developer
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

@@ -3,9 +3,35 @@ title: "Ask HN: How Do You Debug Multi-Step AI Workflows When the Output Is Wron
 date: 2026-02-18
 description: A community discussion on debugging strategies for complex multi-step AI workflows running locally, covering techniques for identifying failures and improving inference reliability.
 tags:
+  - advanced
+  - agentic-systems
   - agents
+  - analysis
+  - bullish
+  - component-isolation
+  - debugging-ai-workflows
+  - developer
+  - developer-tooling
+  - discussion
   - edge-deployment
+  - intermediate
+  - intermediate-step-inspection
+  - local-observability
+  - model-ab-testing
+  - model-selection
+  - neutral
+  - output-validation
+  - pipeline-architecture
+  - production-inference
+  - production-ops
+  - prompt-engineering
   - self-hosted
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

@@ -3,8 +3,30 @@ title: "WinClaw: Windows-Native AI Assistant with Office Automation"
 date: 2026-02-13
 description: New open-source Windows-native AI assistant enables local deployment with Office automation capabilities and extensible skills framework.
 tags:
+  - bullish
+  - community-development
+  - data-privacy
+  - developer
+  - document-processing
+  - enterprise
+  - extensible-ai-frameworks
+  - intermediate
+  - local-deployment
+  - office-automation
+  - offline-deployment
   - open-source
+  - open-source-software
   - privacy
+  - privacy-compliance
+  - project-winclaw
+  - release
+  - showcase
+  - windows-ai-assistant
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: itc-ou-shigou
+    role: developer
 status: published
 ---
 

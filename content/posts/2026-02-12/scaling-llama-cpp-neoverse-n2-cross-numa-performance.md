@@ -3,10 +3,34 @@ title: "Scaling llama.cpp On Neoverse N2: Solving Cross-NUMA Performance Issues"
 date: 2026-02-12
 description: Technical deep dive into optimizing llama.cpp performance on ARM Neoverse N2 processors by addressing cross-NUMA memory access bottlenecks.
 tags:
+  - advanced
+  - ai-inference
+  - analysis
   - arm
+  - arm-inference
+  - arm-processor
+  - arm-processor-inference
+  - bullish
+  - cpu-only
+  - developer
+  - edge-ai
   - edge-deployment
+  - edge-device
+  - enterprise
+  - hardware-optimization
   - llama
   - llama-cpp
+  - llama-cpp-optimization
+  - local-llm-deployment
+  - memory-bottlenecks
+  - numa-optimization
+  - offline-deployment
+  - production-ops
+  - server-hardware
+  - server-inference-optimization
+mentions:
+  - name: Semiconductor Engineering
+    role: publisher
 status: published
 ---
 

@@ -3,10 +3,34 @@ title: "I Stopped Paying for ChatGPT and Built a Private AI Setup That Anyone Ca
 date: 2026-02-20
 description: "MakeUseOf features a detailed account of building a self-hosted LLM alternative to ChatGPT, demonstrating accessible methods for local inference that reduce dependency on cloud APIs."
 tags:
+  - analysis
+  - bullish
+  - cloud-cost-comparison
+  - cloud-independence
+  - cost-analysis
+  - cost-saving
   - daily-digest
+  - data-privacy
+  - developer
+  - distributed-inference
   - edge-deployment
+  - infrastructure-strategy
+  - intermediate
+  - local-inference
+  - local-inference-adoption
+  - model-optimization
+  - offline-deployment
   - privacy
+  - privacy-compliance
+  - production-ops
   - self-hosted
+  - self-hosting
+  - showcase
+mentions:
+  - name: MakeUseOf
+    role: publisher
+  - name: MakeUseOf
+    role: publisher
 status: draft
 ---
 

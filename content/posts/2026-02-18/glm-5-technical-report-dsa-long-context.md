@@ -3,10 +3,27 @@ title: "GLM-5 Technical Report: DSA Innovation Reduces Training and Inference Co
 date: 2026-02-18
 description: Alibaba releases GLM-5 technical report detailing key innovations including DSA adoption that significantly reduces training and inference costs while maintaining long-context fidelity.
 tags:
+  - advanced
   - alibaba
+  - analysis
+  - bullish
   - context-window
+  - cost-reduction
+  - cost-saving
+  - deployment-optimization
+  - developer
+  - distributed-scaling-architecture
   - edge-deployment
   - glm
+  - local-deployment-efficiency
+  - local-inference
+  - long-context-fidelity
+  - model-optimization
+  - model-scaling
+  - offline-deployment
+  - production-ops
+  - release
+  - technical-report
   - training
   - zhipu
 status: published

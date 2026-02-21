@@ -3,14 +3,35 @@ title: "Kitten TTS V0.8 Released: New State-of-the-Art Super-Tiny TTS Model Unde
 date: 2026-02-20
 description: "Kitten ML has released three new open-source expressive TTS models (80M, 40M, 14M parameters) under Apache 2.0 license, with the smallest model weighing less than 25 MB. This breakthrough enables high-quality speech synthesis on severely resource-constrained devices and edge deployments."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - developer-tooling
+  - edge-ai
   - edge-deployment
+  - edge-device
+  - intermediate
   - kitten-tts
   - llama
   - llama-cpp
+  - local-llm-deployment
+  - model-compression
+  - offline-ai
+  - offline-deployment
+  - on-device-speech-synthesis
   - open-source
   - privacy
+  - privacy-compliance
+  - release
+  - showcase
+  - small-model-deployment
+  - text-to-speech
   - voice
+  - voice-assistant
+  - voice-synthesis
+mentions:
+  - name: Kitten ML
+    role: developer
 status: draft
 ---
 
