@@ -1470,10 +1470,12 @@ footer p:last-child a:hover {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  counter-reset: clinic-src;
 }
 
 .clinic-sources li {
   margin: 0;
+  counter-increment: clinic-src;
 }
 
 .clinic-sources li a {
@@ -1496,14 +1498,9 @@ footer p:last-child a:hover {
 }
 
 .clinic-sources li a::before {
-  content: counter(list-item) ". ";
-  counter-increment: list-item;
+  content: counter(clinic-src) ". ";
   color: var(--color-accent);
   font-weight: 700;
-}
-
-.clinic-sources ol {
-  counter-reset: list-item;
 }
 
 /* Rate limit */
