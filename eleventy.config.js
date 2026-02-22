@@ -205,6 +205,8 @@ module.exports = function (eleventyConfig) {
       }
     }
     const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts", "guides"]);
+    // Also exclude semantic classifier tags from the cloud (they dominate counts but add no value)
+    for (const tag of classifierTags) exclude.add(tag);
 
     // Build a lookup: tag slug → category name
     const tagCategory = {};
