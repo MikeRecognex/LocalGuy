@@ -1235,59 +1235,92 @@ footer p:last-child a:hover {
 
 /* === Clinic === */
 .clinic-container {
-  max-width: 40rem;
+  max-width: var(--max-width);
   margin: 0 auto;
 }
 
 .clinic-intro {
   color: var(--color-muted);
-  margin-bottom: 1.5rem;
+  font-size: 1.05rem;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+
+.clinic-form {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.25rem;
 }
 
 .clinic-form textarea {
   width: 100%;
-  padding: 0.75rem;
-  font-family: inherit;
+  min-height: 6rem;
+  padding: 0.875rem 1rem;
+  font-family: var(--font-body);
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
   border: 1px solid var(--color-border);
   border-radius: 6px;
   background: var(--color-bg);
   color: var(--color-text);
   resize: vertical;
+  transition: border-color 0.15s;
+}
+
+.clinic-form textarea::placeholder {
+  color: var(--color-muted);
 }
 
 .clinic-form textarea:focus {
-  outline: 2px solid var(--color-accent);
-  outline-offset: -1px;
+  outline: none;
   border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(26, 137, 23, 0.12);
+}
+
+@media (prefers-color-scheme: dark) {
+  .clinic-form textarea:focus {
+    box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.15);
+  }
 }
 
 .clinic-form-footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
 }
 
 .clinic-char-count {
-  font-size: 0.85rem;
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
   color: var(--color-muted);
+  font-variant-numeric: tabular-nums;
 }
 
 .clinic-submit {
-  padding: 0.5rem 1.25rem;
-  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.4rem;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
   font-weight: 600;
-  color: var(--color-bg);
+  color: #fff;
   background: var(--color-accent);
   border: none;
   border-radius: 6px;
   cursor: pointer;
+  transition: background 0.15s, box-shadow 0.15s;
 }
 
 .clinic-submit:hover {
-  opacity: 0.9;
+  background: var(--color-accent-hover);
+}
+
+.clinic-submit:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }
 
 .clinic-submit:disabled {
@@ -1295,82 +1328,165 @@ footer p:last-child a:hover {
   cursor: not-allowed;
 }
 
+/* Loading */
 .clinic-loading {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  margin-top: 1.5rem;
+  gap: 0.75rem;
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
   color: var(--color-muted);
 }
 
 .clinic-spinner {
-  width: 1rem;
-  height: 1rem;
+  width: 1.1rem;
+  height: 1.1rem;
   border: 2px solid var(--color-border);
   border-top-color: var(--color-accent);
   border-radius: 50%;
-  animation: clinic-spin 0.6s linear infinite;
+  animation: clinic-spin 0.7s linear infinite;
+  flex-shrink: 0;
 }
 
 @keyframes clinic-spin {
   to { transform: rotate(360deg); }
 }
 
+/* Error */
 .clinic-error {
-  margin-top: 1.5rem;
-  padding: 0.75rem 1rem;
-  background: #fee;
-  color: #c33;
-  border-radius: 6px;
-  font-size: 0.95rem;
+  margin-top: 2rem;
+  padding: 0.875rem 1.25rem;
+  background: #fef2f2;
+  color: #b91c1c;
+  border: 1px solid #fecaca;
+  border-radius: 8px;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 @media (prefers-color-scheme: dark) {
   .clinic-error {
-    background: #3a1c1c;
-    color: #f99;
+    background: #2a1515;
+    color: #fca5a5;
+    border-color: #4a2020;
   }
 }
 
+/* Result */
 .clinic-result {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
+  animation: clinic-fade-in 0.3s ease-out;
+}
+
+@keyframes clinic-fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .clinic-answer {
-  line-height: 1.7;
+  line-height: 1.8;
+  font-size: 1.02rem;
 }
 
 .clinic-answer p {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.clinic-answer p:last-child {
+  margin-bottom: 0;
 }
 
 .clinic-ref {
   color: var(--color-accent);
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.85em;
 }
 
+/* Sources */
 .clinic-sources {
-  margin-top: 1.5rem;
-  padding-top: 1rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
   border-top: 1px solid var(--color-border);
 }
 
 .clinic-sources h3 {
-  font-size: 1rem;
-  margin-bottom: 0.5rem;
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+  margin-top: 0;
+  margin-bottom: 0.75rem;
 }
 
 .clinic-sources ol {
-  padding-left: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 .clinic-sources li {
-  margin-bottom: 0.25rem;
+  margin: 0;
 }
 
+.clinic-sources li a {
+  display: block;
+  padding: 0.625rem 0.875rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.clinic-sources li a:hover {
+  border-color: var(--color-accent);
+  background: var(--color-bg);
+}
+
+.clinic-sources li a::before {
+  content: counter(list-item) ". ";
+  counter-increment: list-item;
+  color: var(--color-accent);
+  font-weight: 700;
+}
+
+.clinic-sources ol {
+  counter-reset: list-item;
+}
+
+/* Rate limit */
 .clinic-remaining {
-  margin-top: 1.5rem;
-  font-size: 0.85rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
   color: var(--color-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.clinic-remaining-count {
+  font-weight: 700;
+  color: var(--color-text);
+  font-variant-numeric: tabular-nums;
 }
 
 /* === Print === */

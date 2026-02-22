@@ -30,7 +30,7 @@ function formatAnswer(text) {
 
 // Character counter
 textarea.addEventListener('input', () => {
-  charCount.textContent = `${textarea.value.length}/500`
+  charCount.textContent = `${textarea.value.length} / 500`
 })
 
 form.addEventListener('submit', async (e) => {
