@@ -1,13 +1,29 @@
 ---
 title: "Strix Halo Performance Benchmarks: Minimax M2.5, Step 3.5 Flash, Qwen3 Coder"
 date: 2026-02-21
-description: "New benchmarks show how recent compact models (Minimax M2.5, Step 3.5 Flash, Qwen3 Coder Next) perform on Strix Halo processors, providing practical guidance for developers choosing models for memory-constrained edge deployments."
+description: New benchmarks show how recent compact models (Minimax M2.5, Step 3.5 Flash, Qwen3 Coder Next) perform on Strix Halo processors, providing practical guidance for developers choosing models for memory-constrained edge deployments.
 tags:
-  - daily-digest
   - benchmark
-  - quantisation
+  - benchmark-report
+  - bullish
+  - compact-models
+  - consumer-gpu
+  - developer
+  - edge-device
   - hardware
-status: draft
+  - inference-speed
+  - intermediate
+  - memory-constrained-inference
+  - model-performance
+  - model-quantization
+  - model-selection
+  - quantisation
+  - resource-constrained-deployment
+  - strix-halo-performance
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 The local LLM community now has concrete performance data comparing newly released compact models on AMD's Strix Halo processors. [Comprehensive llama.cpp benchmarks](https://www.reddit.com/gallery/1rabcyp) tested multiple quantization levels of Minimax M2.5, Step 3.5 Flash, and Qwen3 Coder Next, providing essential guidance for developers working within strict memory constraints.

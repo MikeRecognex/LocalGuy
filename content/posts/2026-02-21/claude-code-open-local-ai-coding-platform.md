@@ -1,14 +1,31 @@
 ---
-title: "Claude Code Open – AI Coding Platform with Web IDE and Agents"
+title: Claude Code Open – AI Coding Platform with Web IDE and Agents
 date: 2026-02-21
-description: "A new open-source AI coding platform enabling local deployment of Claude-compatible agents with a web-based IDE. This project brings production-grade AI coding capabilities to self-hosted environments without cloud dependency."
+description: A new open-source AI coding platform enabling local deployment of Claude-compatible agents with a web-based IDE. This project brings production-grade AI coding capabilities to self-hosted environments without cloud dependency.
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
+  - ai-coding-environments
+  - api-rate-limit-management
+  - bullish
+  - data-governance
+  - data-sovereignty
+  - developer
+  - enterprise
   - ide
+  - intermediate
+  - local-agents
+  - local-ai-deployment
   - local-deployment
-status: draft
+  - news
+  - on-premises-llm-deployment
+  - open-source
+  - open-source-ai-platform
+  - release
+  - self-hosting
+  - vendor-lock-in-avoidance
+  - web-ide
+status: published
 ---
 
 Claude Code Open represents a significant milestone for local AI deployment, providing developers with a fully open-source coding platform that can run on self-hosted hardware. This [GitHub project](https://github.com/kill136/claude-code-open) combines a web IDE with agent orchestration capabilities, enabling teams to deploy Claude-compatible AI coding assistants without relying on cloud APIs or managing quota costs.

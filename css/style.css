@@ -404,15 +404,18 @@ footer:last-child {
 }
 
 .post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
   margin-top: 0.3rem;
 }
 
 .post-tags a {
+  display: inline;
   font-family: var(--font-heading);
   font-size: 0.75rem;
   color: var(--color-accent);
   text-decoration: none;
-  margin-right: 0.5rem;
 }
 
 .post-tags a:hover {

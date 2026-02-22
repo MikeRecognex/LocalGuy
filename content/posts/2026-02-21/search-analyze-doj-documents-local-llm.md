@@ -1,14 +1,34 @@
 ---
-title: "Search and Analyze Documents from the DOJ Epstein Files Release with Local LLM"
+title: Search and Analyze Documents from the DOJ Epstein Files Release with Local LLM
 date: 2026-02-21
-description: "A practical demonstration of deploying local LLMs for large-scale document analysis, using the newly released DOJ files as a case study. This project showcases real-world applications of self-hosted language models for sensitive document processing."
+description: A practical demonstration of deploying local LLMs for large-scale document analysis, using the newly released DOJ files as a case study. This project showcases real-world applications of self-hosted language models for sensitive document processing.
 tags:
-  - daily-digest
+  - advanced
+  - audit-trails
+  - bullish
+  - data-sovereignty
   - document-analysis
+  - enterprise
+  - enterprise-ai-applications
+  - intermediate
+  - local-llm-deployment
+  - offline-inference
   - open-source
   - privacy
+  - privacy-preserving-ai
+  - rag-pipeline
+  - self-hosted-llm
+  - showcase
   - use-case
-status: draft
+mentions:
+  - name: Department of Justice
+    role: source of files
+  - name: Art Medlar
+    role: project creator
+    handle: artmedlar
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 The [epstein-files-analyzer project](https://github.com/artmedlar/epstein-files-analyzer) demonstrates a compelling real-world use case for local LLM deployment: privacy-preserving bulk document analysis. By processing sensitive government documents with locally-hosted models, users maintain complete control over data without uploading to third-party APIs, addressing critical compliance and privacy concerns for organizations handling restricted information.

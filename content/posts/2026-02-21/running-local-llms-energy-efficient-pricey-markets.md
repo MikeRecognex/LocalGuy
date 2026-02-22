@@ -1,14 +1,28 @@
 ---
-title: "I Run Local LLMs in One of the World's Priciest Energy Markets, and I Can Barely Tell"
+title: I Run Local LLMs in One of the World's Priciest Energy Markets, and I Can Barely Tell
 date: 2026-02-21
-description: "A practical case study demonstrating that running local LLMs remains economically viable even in high-energy-cost regions, with energy consumption being negligible compared to expectations."
+description: A practical case study demonstrating that running local LLMs remains economically viable even in high-energy-cost regions, with energy consumption being negligible compared to expectations.
 tags:
-  - daily-digest
-  - hardware
   - benchmark
-  - energy-efficiency
+  - benchmark-report
+  - bullish
+  - case-study
   - cost-analysis
-status: draft
+  - cost-saving
+  - developer
+  - energy-efficiency
+  - enterprise
+  - hardware
+  - inference-optimization
+  - intermediate
+  - local-deployment-benefits
+  - local-inference-cost
+  - local-llm-deployment
+  - on-device-inference
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This article provides valuable real-world data addressing one of the primary concerns for practitioners considering local LLM deployment: operational costs. By documenting actual energy consumption in a high-electricity-cost market, the author demonstrates that running local LLMs consumes far less power than many practitioners assume, making the economics of on-device inference more attractive than previously thought.

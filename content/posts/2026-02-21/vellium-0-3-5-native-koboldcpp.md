@@ -1,13 +1,27 @@
 ---
 title: "Vellium v0.3.5: Major Writing Mode Overhaul and Native KoboldCpp Support"
 date: 2026-02-21
-description: "Vellium text generation UI adds native KoboldCpp support, major writing mode improvements including book bible and DOCX import, and OpenAI TTS integration for enhanced local LLM workflows."
+description: Vellium text generation UI adds native KoboldCpp support, major writing mode improvements including book bible and DOCX import, and OpenAI TTS integration for enhanced local LLM workflows.
 tags:
-  - daily-digest
-  - tools
+  - bullish
+  - creative-writing-tools
+  - developer
+  - document-management
   - inference-optimization
+  - intermediate
+  - koboldcpp-integration
+  - local-first-workflows
+  - local-llm-workflows
+  - local-text-generation-ui
+  - on-device-ai
   - open-source
-status: draft
+  - release
+  - showcase
+  - text-to-speech-integration
+  - tools
+  - tts-integration
+  - writing-workflow-enhancements
+status: published
 ---
 
 Vellium, a popular UI for local text generation, has released [v0.3.5 with significant enhancements focused on making local providers more accessible](https://www.reddit.com/gallery/1rafo5b). The update adds native KoboldCpp support, eliminating the need for workarounds and bridging tools, while the writing mode received a comprehensive overhaul including structured book bible functionality, direct DOCX import, and cached book summaries for better context management.
