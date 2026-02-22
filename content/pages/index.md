@@ -50,6 +50,10 @@ permalink: /
       <li>Write your own <a href="/contribute/">posts</a> or <a href="/guides/">guides</a></li>
     </ul>
 
+<div class="clinic-cta">
+  <strong>New: The Local LLM Clinic</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
+</div>
+
 {% if collections.posts.length %}
 
 ## Recent Posts
