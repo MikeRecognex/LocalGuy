@@ -130,6 +130,6 @@ export default async function handler(req, res) {
     })
   } catch (err) {
     console.error('[clinic] Error:', err)
-    res.status(500).json({ error: 'Something went wrong. Please try again.' })
+    res.status(500).json({ error: 'Something went wrong. Please try again.', debug: err.message })
   }
 }
