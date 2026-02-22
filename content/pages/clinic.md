@@ -1,0 +1,45 @@
+---
+title: "The Local LLM Clinic"
+layout: layouts/page.njk
+permalink: /clinic/
+description: "Describe your local AI use-case or problem, and the Clinic searches our articles to give you a tailored answer with source links."
+---
+
+<div class="clinic-container">
+  <p class="clinic-intro">Describe your local LLM use-case or problem, and the Clinic will search our ~130 articles to give you a tailored answer with source links.</p>
+
+  <form id="clinic-form" class="clinic-form">
+    <label for="clinic-question" class="sr-only">Your question</label>
+    <textarea
+      id="clinic-question"
+      name="question"
+      placeholder="e.g. What's the best way to run a 70B model on consumer hardware?"
+      rows="3"
+      maxlength="500"
+      required
+    ></textarea>
+    <div class="clinic-form-footer">
+      <span id="clinic-char-count" class="clinic-char-count">0/500</span>
+      <button type="submit" id="clinic-submit" class="clinic-submit">Ask the Clinic</button>
+    </div>
+  </form>
+
+  <div id="clinic-loading" class="clinic-loading" hidden>
+    <span class="clinic-spinner" aria-hidden="true"></span>
+    Searching articles and thinking...
+  </div>
+
+  <div id="clinic-error" class="clinic-error" role="alert" hidden></div>
+
+  <div id="clinic-result" class="clinic-result" hidden>
+    <div id="clinic-answer" class="clinic-answer"></div>
+    <div id="clinic-sources" class="clinic-sources">
+      <h3>Sources</h3>
+      <ol id="clinic-source-list"></ol>
+    </div>
+  </div>
+
+  <p id="clinic-remaining" class="clinic-remaining" hidden>
+    <span id="clinic-remaining-count"></span> questions remaining this hour
+  </p>
+</div>
