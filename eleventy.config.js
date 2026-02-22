@@ -141,9 +141,9 @@ module.exports = function (eleventyConfig) {
     "cpu-only", "edge-device", "custom-asic",
     "daily-digest",
   ]);
-  eleventyConfig.addFilter("topicTags", (tags, n = 5) => {
+  eleventyConfig.addFilter("topicTags", (tags) => {
     if (!Array.isArray(tags)) return [];
-    return tags.filter(t => !classifierTags.has(t)).slice(0, n);
+    return tags.filter(t => !classifierTags.has(t));
   });
 
   // Posts from the last N days (minimum 3 posts as fallback)
