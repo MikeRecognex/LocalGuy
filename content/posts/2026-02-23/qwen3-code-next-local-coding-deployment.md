@@ -3,7 +3,6 @@ title: "Qwen3-Code-Next Proves Practical for Local Development: Real-World Codin
 date: 2026-02-23
 description: Real-world testing confirms Qwen3-Code-Next can execute file operations, web browsing, and system tasks locally on consumer hardware (128GB Mac Studio Ultra), validating local coding assistant deployment at scale.
 tags:
-  - daily-digest
   - qwen3
   - coding
   - mlx

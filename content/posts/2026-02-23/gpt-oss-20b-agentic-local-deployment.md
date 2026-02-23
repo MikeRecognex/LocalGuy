@@ -3,7 +3,6 @@ title: GPT-OSS 20B Demonstrates Practical Agentic Capabilities Running Fully Loc
 date: 2026-02-23
 description: Users successfully deploy gpt-oss-20B as a fully local agentic system using the ZeroClaw framework, with both model and embeddings running on-device for autonomous task execution and shell command generation.
 tags:
-  - daily-digest
   - agents
   - gpt-oss
   - open-source
