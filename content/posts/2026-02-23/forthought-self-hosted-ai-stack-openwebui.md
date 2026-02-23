@@ -3,10 +3,32 @@ title: "FORTHought: Self-Hosted AI Stack for Physics Labs Built on OpenWebUI"
 date: 2026-02-23
 description: FORTHought is a complete self-hosted AI stack purpose-built for research environments, leveraging OpenWebUI as its foundation. It demonstrates how local LLM infrastructure can be packaged for enterprise and institutional deployment.
 tags:
-  - open-source
-  - self-hosted
+  - advanced
+  - application-features
+  - bullish
+  - data-privacy
+  - data-sovereignty
   - deployment
+  - enterprise
   - framework
+  - intermediate
+  - llm-orchestration
+  - local-llm-deployment
+  - open-source
+  - openwebui
+  - research-ai
+  - self-hosted
+  - self-hosted-ai
+  - showcase
+mentions:
+  - name: Marios Adamidis
+    handle: "@MariosAdamidis"
+  - name: Marios Adamidis
+    role: developer
+  - name: FORTHought
+    role: project
+  - name: Hacker News
+    role: source
 status: published
 ---
 

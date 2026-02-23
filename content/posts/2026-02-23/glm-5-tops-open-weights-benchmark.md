@@ -1,13 +1,28 @@
 ---
-title: "GLM-5 Becomes Top Open-Weights Model on Extended NYT Connections Benchmark"
+title: GLM-5 Becomes Top Open-Weights Model on Extended NYT Connections Benchmark
 date: 2026-02-23
-description: "GLM-5 achieves 81.8 score on the Extended NYT Connections benchmark, surpassing Kimi K2.5 Thinking. This represents a significant performance milestone for open-source models suitable for local deployment."
+description: GLM-5 achieves 81.8 score on the Extended NYT Connections benchmark, surpassing Kimi K2.5 Thinking. This represents a significant performance milestone for open-source models suitable for local deployment.
 tags:
-  - daily-digest
+  - beginner-friendly
   - benchmark
-  - open-source
+  - benchmark-report
+  - bullish
+  - community-resource
+  - consumer-gpu
+  - daily-digest
+  - developer
   - glm-5
-status: draft
+  - hobbyist
+  - intermediate
+  - llm-benchmarking
+  - local-deployment
+  - model-performance
+  - neutral
+  - news
+  - open-source
+  - open-source-llms
+  - reasoning-tasks
+status: published
 ---
 
 GLM-5 has emerged as the top-performing open-weights model on the Extended NYT Connections benchmark with a score of 81.8, edging out Kimi K2.5 Thinking's 78.3. This benchmark is particularly relevant for evaluating local model capabilities on complex reasoning tasks.

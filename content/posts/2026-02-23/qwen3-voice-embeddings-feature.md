@@ -1,14 +1,32 @@
 ---
-title: "Qwen3 Demonstrates Advanced Voice Cloning via Embeddings"
+title: Qwen3 Demonstrates Advanced Voice Cloning via Embeddings
 date: 2026-02-23
-description: "Qwen3's TTS system uses low-dimensional voice embeddings (1024-2048D vectors) to enable voice cloning and mathematical voice manipulation, offering new possibilities for local multimodal deployments."
+description: Qwen3's TTS system uses low-dimensional voice embeddings (1024-2048D vectors) to enable voice cloning and mathematical voice manipulation, offering new possibilities for local multimodal deployments.
 tags:
+  - accent-modification
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
-  - qwen3
-  - voice
-  - multimodal
+  - developer
+  - edge-ai
+  - edge-device
+  - intermediate
   - local-inference
-status: draft
+  - multimodal
+  - multimodal-ai
+  - qwen3
+  - showcase
+  - voice
+  - voice-cloning
+  - voice-embeddings
+  - voice-manipulation
+  - voice-personalization
+  - voice-synthesis
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
+status: published
 ---
 
 Qwen3's text-to-speech system employs an innovative approach to voice cloning through voice embeddings, converting voice characteristics into compact 1024 or 2048-dimensional vectors. This enables not just voice cloning but also mathematical manipulation of voice properties through vector operations.

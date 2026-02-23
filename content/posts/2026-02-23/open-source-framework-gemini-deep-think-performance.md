@@ -1,13 +1,32 @@
 ---
-title: "Open-Source Framework Achieves Gemini 3 Deep Think Level Performance Through Local Model Scaffolding"
+title: Open-Source Framework Achieves Gemini 3 Deep Think Level Performance Through Local Model Scaffolding
 date: 2026-02-23
-description: "A new open-source framework enables local models to achieve Gemini 3 Deep Think and GPT-5.2 Pro-level performance through intelligent model scaffolding and composition techniques."
+description: A new open-source framework enables local models to achieve Gemini 3 Deep Think and GPT-5.2 Pro-level performance through intelligent model scaffolding and composition techniques.
 tags:
+  - advanced
+  - advanced-reasoning
+  - analysis
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - developer
   - framework
+  - framework-agnostic-ai
+  - local-inference
+  - model-composition
+  - model-efficiency
+  - model-scaffolding
   - open-source
+  - open-source-ai
   - performance-optimization
-status: draft
+  - performance-parity
+  - quantization
+  - self-hosted-deployment
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
+status: published
 ---
 
 A newly released open-source framework demonstrates how intelligent scaffolding and composition of local models can achieve performance parity with frontier models like Gemini 3's Deep Think and GPT-5.2 Pro versions. Rather than relying on single massive models, this approach leverages strategic combination and orchestration of smaller local models.

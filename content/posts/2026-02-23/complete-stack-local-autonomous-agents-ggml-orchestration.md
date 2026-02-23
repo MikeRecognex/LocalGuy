@@ -3,10 +3,29 @@ title: "The Complete Stack for Local Autonomous Agents: From GGML to Orchestrati
 date: 2026-02-23
 description: A comprehensive guide to building autonomous agent systems entirely on local hardware, covering quantisation with GGML through deployment orchestration. This resource addresses the full pipeline needed for production local agent deployment.
 tags:
+  - advanced
+  - agent-orchestration
   - agents
-  - ggml
-  - orchestration
+  - autonomous-agents
+  - bullish
   - deployment
+  - developer
+  - edge-device
+  - ggml
+  - inter-agent-communication
+  - intermediate
+  - memory-management
+  - model-quantization
+  - on-device-ai
+  - orchestration
+  - production-deployment
+  - tool-use
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: published
 ---
 

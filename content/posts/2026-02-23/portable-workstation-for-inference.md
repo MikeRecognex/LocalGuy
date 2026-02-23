@@ -1,13 +1,31 @@
 ---
-title: "Custom Portable Workstation Optimized for Local AI Inference Builds"
+title: Custom Portable Workstation Optimized for Local AI Inference Builds
 date: 2026-02-23
-description: "Community member demonstrates a portable gaming and AI workstation featuring custom cooling solutions and optimized fan design for efficient inference workloads on consumer hardware."
+description: Community member demonstrates a portable gaming and AI workstation featuring custom cooling solutions and optimized fan design for efficient inference workloads on consumer hardware.
 tags:
+  - advanced
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
+  - gpu-cooling
   - hardware
   - inference
+  - inference-optimization
+  - inference-speed
+  - intermediate
+  - local-deployment
+  - on-device-inference
   - optimization
-status: draft
+  - portable-ai-workstation
+  - showcase
+  - thermal-management
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
+status: published
 ---
 
 A practitioner has designed and built a portable workstation specifically optimized for both gaming and AI inference workloads. The build features innovative cooling engineering, including custom 18mm fans derived from RTX 4090 FE designs that match the airflow of standard 25mm fans, enabling efficient thermal management in a compact form factor.

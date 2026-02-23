@@ -1,14 +1,33 @@
 ---
-title: "South Korea to Launch $687 Million Project to Develop On-Device AI Semiconductors"
+title: South Korea to Launch $687 Million Project to Develop On-Device AI Semiconductors
 date: 2026-02-23
-description: "South Korea announces a major government investment in developing specialized semiconductors for on-device AI inference. This signals growing infrastructure support for local LLM deployment at the hardware level."
+description: South Korea announces a major government investment in developing specialized semiconductors for on-device AI inference. This signals growing infrastructure support for local LLM deployment at the hardware level.
 tags:
+  - ai-accelerators
+  - ai-policy
+  - analysis
+  - bullish
+  - consumer-gpu
+  - custom-asic
   - daily-digest
-  - hardware
-  - semiconductors
+  - developer
+  - edge-device
   - edge-inference
+  - hardware
+  - hardware-optimization
+  - inference-optimization
   - infrastructure
-status: draft
+  - intermediate
+  - news
+  - on-device-ai
+  - on-device-ai-adoption
+  - production-deployment
+  - semiconductors
+  - specialized-hardware
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 The landscape for local LLM deployment is rapidly evolving as governments and major technology companies recognize the strategic importance of on-device AI infrastructure. South Korea's $687 million investment in specialized semiconductors demonstrates a global shift toward supporting edge inference at the silicon level.

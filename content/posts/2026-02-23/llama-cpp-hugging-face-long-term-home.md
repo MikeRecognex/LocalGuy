@@ -3,9 +3,25 @@ title: Open-Source llama.cpp Finds Long-Term Home at Hugging Face
 date: 2026-02-23
 description: The popular llama.cpp project, essential infrastructure for local LLM inference, has secured a long-term home at Hugging Face. This partnership ensures continued development and maintenance of the widely-used C++ inference engine.
 tags:
-  - llama-cpp
-  - open-source
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-optimization
+  - cpu-only
+  - developer
   - inference
+  - intermediate
+  - llama-cpp
+  - local-inference
+  - model-deployment-tooling
+  - model-quantization
+  - news
+  - on-device-ai
+  - open-source
+  - open-source-project-governance
+  - production-deployment
+mentions:
+  - name: WinBuzzer
+    role: publisher
 status: published
 ---
 

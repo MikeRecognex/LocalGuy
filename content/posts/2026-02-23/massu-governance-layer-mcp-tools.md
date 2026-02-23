@@ -1,14 +1,34 @@
 ---
 title: "Massu: Governance Layer for AI Coding Assistants with 51 MCP Tools"
 date: 2026-02-23
-description: "Massu introduces a governance and orchestration layer for AI coding assistants, integrating 51 Model Context Protocol tools. This addresses control and safety concerns for developers deploying local LLM-based coding agents."
+description: Massu introduces a governance and orchestration layer for AI coding assistants, integrating 51 Model Context Protocol tools. This addresses control and safety concerns for developers deploying local LLM-based coding agents.
 tags:
-  - daily-digest
-  - mcp
+  - advanced
+  - agent-orchestration
   - agents
-  - open-source
+  - ai-auditability
+  - ai-governance
+  - ai-security
+  - analysis
+  - bullish
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - development-workflows
+  - enterprise
+  - enterprise-ai-infrastructure
+  - intermediate
+  - local-coding-agents
+  - local-llm-adoption
+  - mcp
+  - model-context-protocol
+  - open-source
+  - security-controls
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Massu presents a governance framework designed to manage and control AI coding assistants at scale. By integrating 51 Model Context Protocol (MCP) tools, it enables developers to deploy local and self-hosted coding agents with fine-grained permission controls and monitoring capabilities.

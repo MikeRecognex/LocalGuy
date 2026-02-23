@@ -1,14 +1,32 @@
 ---
-title: "Which Web Frameworks Are Most Token-Efficient for AI Agents?"
+title: Which Web Frameworks Are Most Token-Efficient for AI Agents?
 date: 2026-02-23
-description: "Analysis comparing web frameworks by token consumption when used with AI agents, helping developers optimize inference costs and latency in local deployments."
+description: Analysis comparing web frameworks by token consumption when used with AI agents, helping developers optimize inference costs and latency in local deployments.
 tags:
-  - daily-digest
-  - benchmark
-  - optimization
   - agents
+  - ai-agents
+  - analysis
+  - benchmark
+  - bullish
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - inference-cost-optimization
+  - inference-optimization
+  - intermediate
+  - local-deployment-optimization
   - memory-optimization
-status: draft
+  - neutral
+  - optimization
+  - resource-management
+  - token-efficiency
+  - web-framework-efficiency
+mentions:
+  - name: Martin Alderson
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Martin Alderson's investigation benchmarks popular web frameworks to determine which produce the most token-efficient outputs when integrated with AI agents. This is directly relevant to local LLM deployment, where token consumption directly impacts inference speed, memory usage, and computational cost.
