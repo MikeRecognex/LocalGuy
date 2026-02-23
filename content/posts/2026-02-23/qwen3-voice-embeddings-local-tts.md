@@ -1,14 +1,14 @@
 ---
-title: "Qwen3's Voice Embeddings Enable Local Voice Cloning and Mathematical Voice Manipulation"
+title: Qwen3's Voice Embeddings Enable Local Voice Cloning and Mathematical Voice Manipulation
 date: 2026-02-23
-description: "Qwen3's text-to-speech system uses 1024-dimensional voice embeddings (2048 for 1.7B models) that enable efficient local voice cloning and novel voice manipulation through mathematical operations on embedding vectors."
+description: Qwen3's text-to-speech system uses 1024-dimensional voice embeddings (2048 for 1.7B models) that enable efficient local voice cloning and novel voice manipulation through mathematical operations on embedding vectors.
 tags:
   - daily-digest
   - qwen3
   - tts
   - open-source
   - inference
-status: draft
+status: published
 ---
 
 Qwen3 introduces an elegant approach to local text-to-speech by leveraging voice embeddings as a compact representation mechanism. Rather than storing full voice samples, the system converts voices into 1024-dimensional vectors (or 2048 for larger models), dramatically reducing memory requirements while enabling efficient on-device voice cloning.

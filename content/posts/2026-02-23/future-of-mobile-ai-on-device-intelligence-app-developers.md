@@ -1,13 +1,12 @@
 ---
 title: "Future of Mobile AI: What On-Device Intelligence Means for App Developers"
 date: 2026-02-23
-description: "An analysis of how on-device LLM inference is reshaping mobile app development, from privacy and latency benefits to new UX patterns. The article explores practical implications for developers building AI-powered mobile experiences."
+description: An analysis of how on-device LLM inference is reshaping mobile app development, from privacy and latency benefits to new UX patterns. The article explores practical implications for developers building AI-powered mobile experiences.
 tags:
-  - daily-digest
   - mobile
   - edge-inference
   - on-device
-status: draft
+status: published
 ---
 
 Mobile devices are becoming capable AI inference platforms, fundamentally changing how app developers approach intelligent features. [On-device inference](https://www.aijournal.com/future-of-mobile-ai-on-device-intelligence/) eliminates the latency, privacy concerns, and connectivity requirements of cloud-based models, enabling a new class of responsive, privacy-preserving applications.

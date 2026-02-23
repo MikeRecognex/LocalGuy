@@ -1,14 +1,13 @@
 ---
 title: "Show HN: The Only CLI Your AI Agent Will Need"
 date: 2026-02-23
-description: "Earl is a command-line tool designed to be the unified interface for AI agents, simplifying how local models interact with system utilities and external tools through a single consistent CLI."
+description: Earl is a command-line tool designed to be the unified interface for AI agents, simplifying how local models interact with system utilities and external tools through a single consistent CLI.
 tags:
-  - daily-digest
   - agents
   - open-source
   - tools
   - integration
-status: draft
+status: published
 ---
 
 [Earl](https://github.com/brwse/earl) addresses a practical pain point in local AI agent development: the fragmentation of tooling and interfaces. By providing a unified CLI that agents can reliably call, it reduces the complexity of integrating local LLMs with system utilities, file operations, and external services.

@@ -1,13 +1,12 @@
 ---
-title: "Nvidia Could Launch Its First Laptops With Its Own Processors"
+title: Nvidia Could Launch Its First Laptops With Its Own Processors
 date: 2026-02-23
-description: "Nvidia is reportedly developing its own laptop processors, which could significantly impact the hardware landscape for local LLM deployment. Custom silicon optimised for AI inference could offer better performance and efficiency than traditional CPUs."
+description: Nvidia is reportedly developing its own laptop processors, which could significantly impact the hardware landscape for local LLM deployment. Custom silicon optimised for AI inference could offer better performance and efficiency than traditional CPUs.
 tags:
-  - daily-digest
   - hardware
   - nvidia
   - edge-inference
-status: draft
+status: published
 ---
 
 Nvidia's reported entry into laptop processors marks a potential sea change for edge AI hardware. Custom silicon optimised specifically for inference workloads could provide the performance-per-watt efficiency that makes local LLM deployment practical on portable devices. This move follows the success of custom AI accelerators in mobile and IoT spaces.

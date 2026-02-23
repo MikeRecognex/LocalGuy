@@ -1,14 +1,13 @@
 ---
 title: "nanollama: Open-Source Framework for Training Llama 3 from Scratch with One-Command GGUF Export"
 date: 2026-02-23
-description: "nanollama enables full Llama 3 pretraining from scratch (not fine-tuning) with single-command execution and direct GGUF export compatible with llama.cpp, democratizing custom model development for local deployment."
+description: nanollama enables full Llama 3 pretraining from scratch (not fine-tuning) with single-command execution and direct GGUF export compatible with llama.cpp, democratizing custom model development for local deployment.
 tags:
-  - daily-digest
   - training
   - llama-cpp
   - open-source
   - fine-tuning
-status: draft
+status: published
 ---
 
 nanollama dramatically simplifies the barrier to entry for custom model development by automating the full Llama 3 pretraining pipeline into a single command. Rather than requiring deep expertise in distributed training, data preparation, and quantization workflows, practitioners can now execute complete model training and export to llama.cpp-compatible GGUF format through a unified interface.

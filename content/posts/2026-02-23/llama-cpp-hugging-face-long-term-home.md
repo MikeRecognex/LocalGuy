@@ -1,13 +1,12 @@
 ---
-title: "Open-Source llama.cpp Finds Long-Term Home at Hugging Face"
+title: Open-Source llama.cpp Finds Long-Term Home at Hugging Face
 date: 2026-02-23
-description: "The popular llama.cpp project, essential infrastructure for local LLM inference, has secured a long-term home at Hugging Face. This partnership ensures continued development and maintenance of the widely-used C++ inference engine."
+description: The popular llama.cpp project, essential infrastructure for local LLM inference, has secured a long-term home at Hugging Face. This partnership ensures continued development and maintenance of the widely-used C++ inference engine.
 tags:
-  - daily-digest
   - llama-cpp
   - open-source
   - inference
-status: draft
+status: published
 ---
 
 llama.cpp, one of the most critical tools in the local LLM ecosystem, has officially found a permanent home at Hugging Face. This move represents a significant vote of confidence in the project's importance and ensures its long-term viability as the de facto standard for efficient CPU and GPU inference on consumer hardware.

@@ -1,14 +1,14 @@
 ---
 title: "Qwen3-Code-Next Proves Practical for Local Development: Real-World Coding Tasks on Mac Studio"
 date: 2026-02-23
-description: "Real-world testing confirms Qwen3-Code-Next can execute file operations, web browsing, and system tasks locally on consumer hardware (128GB Mac Studio Ultra), validating local coding assistant deployment at scale."
+description: Real-world testing confirms Qwen3-Code-Next can execute file operations, web browsing, and system tasks locally on consumer hardware (128GB Mac Studio Ultra), validating local coding assistant deployment at scale.
 tags:
   - daily-digest
   - qwen3
   - coding
   - mlx
   - inference
-status: draft
+status: published
 ---
 
 Qwen3-Code-Next successfully transitions from benchmark performance to practical deployment, with verified real-world usage on consumer-grade systems. The model demonstrates capability across diverse development tasks—file I/O, web operations, system introspection—executed entirely locally through the MLX framework on Apple Silicon, proving that production-grade coding assistance no longer requires cloud dependencies.

@@ -1,14 +1,14 @@
 ---
-title: "How Do You Know Which SKILL.md Is Good?"
+title: How Do You Know Which SKILL.md Is Good?
 date: 2026-02-23
-description: "A new benchmark tool for evaluating the quality of LLM skill definitions and capabilities, addressing the need for standardized assessment of model performance across different tasks and configurations."
+description: A new benchmark tool for evaluating the quality of LLM skill definitions and capabilities, addressing the need for standardized assessment of model performance across different tasks and configurations.
 tags:
   - daily-digest
   - benchmark
   - evaluation
   - open-source
   - testing
-status: draft
+status: published
 ---
 
 Benchmarking local LLMs against standardized metrics is essential for making informed deployment decisions, and [skills-benchmark](https://github.com/razbakov/skills-benchmark) provides tooling to evaluate model capabilities systematically. Rather than relying on anecdotal reports or limited performance metrics, practitioners can now assess whether specific models meet their requirements across defined skill areas.

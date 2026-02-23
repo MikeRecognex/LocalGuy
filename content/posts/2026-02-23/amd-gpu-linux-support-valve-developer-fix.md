@@ -1,14 +1,13 @@
 ---
-title: "Yet Another Fix Coming for Older AMD GPUs on Linux – Thanks to Valve Developer"
+title: Yet Another Fix Coming for Older AMD GPUs on Linux – Thanks to Valve Developer
 date: 2026-02-23
-description: "Valve developers continue improving AMD GPU support on Linux, bringing better hardware compatibility for local LLM inference. This ongoing effort makes older AMD hardware more viable for local model deployment."
+description: Valve developers continue improving AMD GPU support on Linux, bringing better hardware compatibility for local LLM inference. This ongoing effort makes older AMD hardware more viable for local model deployment.
 tags:
-  - daily-digest
   - hardware
   - amd-gpu
   - linux
   - optimization
-status: draft
+status: published
 ---
 
 Hardware support remains critical for local LLM deployment, and the [continued improvements to AMD GPU drivers on Linux](https://www.phoronix.com/news/Hawaii-Macs-AMDGPU-DC-Fix) directly benefit the community. Thanks to Valve's investment in Linux gaming, AMD graphics hardware—particularly older generations—are becoming increasingly reliable for compute workloads like LLM inference.

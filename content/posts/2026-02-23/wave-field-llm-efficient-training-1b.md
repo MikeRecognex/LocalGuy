@@ -1,14 +1,14 @@
 ---
 title: "Wave Field LLM Achieves O(n log n) Scaling: 825M Model Trained to 1B Parameters in 13 Hours"
 date: 2026-02-23
-description: "Wave Field LLM v4 demonstrates efficient pretraining architecture, reaching 1 billion parameter scale with 825M actual parameters trained on 1.33B tokens in just 13.2 hours, showing significant progress toward resource-efficient model training."
+description: Wave Field LLM v4 demonstrates efficient pretraining architecture, reaching 1 billion parameter scale with 825M actual parameters trained on 1.33B tokens in just 13.2 hours, showing significant progress toward resource-efficient model training.
 tags:
   - daily-digest
   - training
   - open-source
   - efficiency
   - optimization
-status: draft
+status: published
 ---
 
 Wave Field LLM represents a breakthrough in efficient model architecture, achieving O(n log n) computational complexity that dramatically reduces training time compared to traditional Transformer approaches. Completing a full 825M parameter model pretraining in 13.2 hours on accessible hardware demonstrates the practical viability of custom model development for local deployment scenarios.
