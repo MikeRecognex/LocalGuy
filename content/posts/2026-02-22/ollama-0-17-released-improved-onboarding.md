@@ -31,7 +31,8 @@ Ollama, one of the most popular tools for running large language models locally,
 
 The improved onboarding experience lowers the barrier to entry for developers and enterprises looking to self-host models without cloud dependencies. As local LLM inference continues to gain traction for privacy-sensitive applications and cost optimization, streamlined tooling becomes critical for adoption at scale. This update demonstrates the project's commitment to making local model deployment more accessible to users of varying technical expertise.
 
-For local LLM practitioners, better onboarding means faster time-to-value and reduced support overhead when deploying Ollama in production environments. [Read more on Phoronix](https://www.phoronix.com/news/Ollama-0.17-Released).
+For local LLM practitioners, better onboarding means faster time-to-value and reduced support overhead when deploying Ollama in production environments. 
+https://www.phoronix.com/news/ollama-0.17
 
 ---
 *Source: [Phoronix](https://www.phoronix.com/news/Ollama-0.17-Released) · Relevance: 8/10*
