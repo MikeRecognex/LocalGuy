@@ -11,7 +11,6 @@ tags:
   - cpu-only
   - custom-asic
   - custom-silicon-deployment
-  - daily-digest
   - developer
   - edge-deployment
   - edge-device

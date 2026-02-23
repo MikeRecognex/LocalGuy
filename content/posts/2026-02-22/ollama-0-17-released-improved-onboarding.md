@@ -5,7 +5,6 @@ description: Ollama releases version 0.17 with enhancements to the OpenClaw onbo
 tags:
   - bullish
   - cost-optimization
-  - daily-digest
   - developer
   - developer-onboarding
   - intermediate

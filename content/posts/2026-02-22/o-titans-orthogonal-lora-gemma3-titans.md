@@ -7,7 +7,6 @@ tags:
   - bullish
   - consumer-gpu
   - context-management
-  - daily-digest
   - developer
   - efficient-fine-tuning
   - fine-tuning

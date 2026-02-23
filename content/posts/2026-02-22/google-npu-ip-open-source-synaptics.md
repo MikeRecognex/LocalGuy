@@ -8,7 +8,6 @@ tags:
   - analysis
   - bullish
   - custom-asic
-  - daily-digest
   - developer
   - edge-ai
   - edge-deployment

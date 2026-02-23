@@ -10,7 +10,6 @@ tags:
   - applications
   - bullish
   - cost-saving
-  - daily-digest
   - data-privacy
   - deployment-patterns
   - developer

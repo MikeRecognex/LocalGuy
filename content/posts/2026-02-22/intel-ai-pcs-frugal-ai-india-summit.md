@@ -8,7 +8,6 @@ tags:
   - consumer-gpu
   - consumer-pc
   - cost-saving
-  - daily-digest
   - developer
   - edge-deployment
   - efficiency

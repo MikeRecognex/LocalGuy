@@ -6,7 +6,6 @@ tags:
   - bullish
   - consumer-gpu
   - cpu-only
-  - daily-digest
   - developer
   - gguf-format
   - inference

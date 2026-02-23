@@ -9,7 +9,6 @@ tags:
   - cost-saving
   - cpu-only
   - cpu-training
-  - daily-digest
   - developer
   - efficiency
   - efficient-training
@@ -27,7 +26,6 @@ mentions:
     role: community
 status: published
 ---
-
 The latest iteration of FlashLM, version 5 'Thunderbolt', represents a significant achievement for the local ML community: [successful CPU-only model training that outperforms GPU baselines](https://www.reddit.com/r/LocalLLaMA/comments/1rbafs8/i_trained_a_language_model_on_cpu_for_40_hours_it/). After 40 hours of training on standard CPU hardware, the model achieved a final perplexity of just 1.36 with only 29.7M parameters (26.5M ternary-quantized).
 
 This breakthrough is particularly significant for practitioners without access to expensive GPU infrastructure. It validates that with careful architecture design and optimization techniques, high-quality language models can be trained on commodity hardware. The 1.36 PPL score is competitive with much larger models, suggesting that parameter efficiency through techniques like ternary quantization can match or exceed traditional scaling approaches.

@@ -9,7 +9,6 @@ tags:
   - benchmark
   - consumer-cpu
   - consumer-laptop
-  - daily-digest
   - developer
   - edge-deployment
   - edge-device

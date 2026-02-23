@@ -7,7 +7,6 @@ tags:
   - bullish
   - content-processing
   - content-summarization
-  - daily-digest
   - developer
   - inference-optimization
   - intermediate

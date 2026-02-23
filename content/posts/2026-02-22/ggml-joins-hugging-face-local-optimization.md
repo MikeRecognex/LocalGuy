@@ -9,7 +9,6 @@ tags:
   - commodity-hardware-deployment
   - cpu-inference
   - cpu-only
-  - daily-digest
   - developer
   - developer-tooling
   - edge-deployment
@@ -32,7 +31,6 @@ mentions:
     role: publisher
 status: published
 ---
-
 GGML, the critical infrastructure library powering efficient local language model inference, has joined Hugging Face. This partnership represents a significant consolidation in the local LLM ecosystem, bringing together one of the most important quantisation and optimization frameworks with the world's largest model hub.
 
 GGML's integration into Hugging Face's ecosystem means improved tooling, wider accessibility to optimized model variants, and faster innovation cycles for quantisation techniques like 4-bit and 8-bit inference. The library's focus on CPU-efficient inference makes it particularly valuable for edge deployment scenarios where GPU availability is limited. This move strengthens the infrastructure layer that enables practitioners to run state-of-the-art models on commodity hardware.

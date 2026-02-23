@@ -5,7 +5,6 @@ description: A critical security and integrity issue has emerged where a malicio
 tags:
   - advisory
   - cautious
-  - daily-digest
   - developer
   - intermediate
   - local-llm-deployment
