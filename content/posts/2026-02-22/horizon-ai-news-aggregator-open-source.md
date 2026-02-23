@@ -1,14 +1,30 @@
 ---
 title: "Show HN: Horizon – My AI-Powered Personal News Aggregator and Summarizer"
 date: 2026-02-22
-description: "Horizon demonstrates a practical open-source project leveraging local LLMs for content summarization and aggregation, serving as both a useful tool and reference implementation for practitioners building local AI applications."
+description: Horizon demonstrates a practical open-source project leveraging local LLMs for content summarization and aggregation, serving as both a useful tool and reference implementation for practitioners building local AI applications.
 tags:
-  - daily-digest
-  - open-source
   - applications
+  - bullish
+  - content-processing
+  - content-summarization
+  - daily-digest
+  - developer
+  - inference-optimization
+  - intermediate
   - llm-tools
+  - local-inference
+  - local-llm-applications
+  - news-aggregation
+  - open-source
+  - open-source-ai
+  - open-source-project
+  - privacy-benefits
+  - showcase
   - summarization
-status: draft
+mentions:
+  - name: GitHub
+    role: repository-host
+status: published
 ---
 
 Horizon showcases how local LLMs can be integrated into practical, everyday applications. By running text summarization and aggregation entirely on-device using local models, the project eliminates cloud dependencies and demonstrates real privacy benefits while maintaining responsive performance.

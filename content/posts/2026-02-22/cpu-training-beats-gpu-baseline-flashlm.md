@@ -1,14 +1,31 @@
 ---
-title: "CPU-Trained Language Model Outperforms GPU Baseline After 40 Hours"
+title: CPU-Trained Language Model Outperforms GPU Baseline After 40 Hours
 date: 2026-02-22
-description: "A developer successfully trained FlashLM v5 'Thunderbolt' on CPU hardware, achieving a 1.36 perplexity with just 29.7M parameters and beating established GPU baselines. This demonstrates the viability of efficient CPU-based model training for resource-constrained environments."
+description: A developer successfully trained FlashLM v5 'Thunderbolt' on CPU hardware, achieving a 1.36 perplexity with just 29.7M parameters and beating established GPU baselines. This demonstrates the viability of efficient CPU-based model training for resource-constrained environments.
 tags:
-  - daily-digest
-  - cpu-training
-  - efficiency
+  - advanced
   - benchmark
+  - bullish
+  - cost-saving
+  - cpu-only
+  - cpu-training
+  - daily-digest
+  - developer
+  - efficiency
+  - efficient-training
+  - intermediate
+  - iterative-model-development
+  - model-quantization
+  - news
+  - on-device-training
   - open-source
-status: draft
+  - performance-comparison
+  - showcase
+  - training-on-commodity-hardware
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 The latest iteration of FlashLM, version 5 'Thunderbolt', represents a significant achievement for the local ML community: [successful CPU-only model training that outperforms GPU baselines](https://www.reddit.com/r/LocalLLaMA/comments/1rbafs8/i_trained_a_language_model_on_cpu_for_40_hours_it/). After 40 hours of training on standard CPU hardware, the model achieved a final perplexity of just 1.36 with only 29.7M parameters (26.5M ternary-quantized).

@@ -1,14 +1,30 @@
 ---
-title: "Asus ExpertBook B3 G2 with 50 TOPS AI Sets New Enterprise Standard"
+title: Asus ExpertBook B3 G2 with 50 TOPS AI Sets New Enterprise Standard
 date: 2026-02-22
-description: "Asus announces the ExpertBook B3 G2, an enterprise laptop featuring 50 TOPS of AI compute, establishing new performance benchmarks for business-class local inference devices."
+description: Asus announces the ExpertBook B3 G2, an enterprise laptop featuring 50 TOPS of AI compute, establishing new performance benchmarks for business-class local inference devices.
 tags:
+  - analysis
+  - bullish
+  - cost-saving
   - daily-digest
-  - hardware
-  - npu
+  - data-privacy
   - enterprise
+  - enterprise-adoption
+  - enterprise-hardware
+  - hardware
+  - intermediate
+  - laptop-cpu
+  - low-latency-inference
+  - npu
+  - npu-performance
+  - on-device-inference
   - performance-benchmark
-status: draft
+  - privacy-compliance
+  - release
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Asus's ExpertBook B3 G2, equipped with 50 TOPS of dedicated AI compute capability, represents a significant milestone in enterprise hardware for local model deployment. This class of business laptop brings meaningful acceleration for inference workloads, making on-device model serving viable for professional applications without requiring external GPU clusters.

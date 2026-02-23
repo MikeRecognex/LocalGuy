@@ -1,13 +1,26 @@
 ---
 title: "Security Alert: Fraudulent Shade Software Plagiarized from Heretic Project"
 date: 2026-02-22
-description: "A critical security and integrity issue has emerged where a malicious actor aggressively promoted a tool called Shade that is entirely plagiarized from the legitimate Heretic project, highlighting supply chain risks in the local LLM tooling ecosystem."
+description: A critical security and integrity issue has emerged where a malicious actor aggressively promoted a tool called Shade that is entirely plagiarized from the legitimate Heretic project, highlighting supply chain risks in the local LLM tooling ecosystem.
 tags:
+  - advisory
+  - cautious
   - daily-digest
-  - security
+  - developer
+  - intermediate
+  - local-llm-deployment
+  - local-llm-security
+  - news
   - open-source
+  - security
+  - software-plagiarism
+  - software-security
   - supply-chain
-status: draft
+  - supply-chain-security
+mentions:
+  - name: Heretic project
+    role: original-project
+status: published
 ---
 
 [A critical security alert warns the community about fraudulent software in the local LLM tooling ecosystem](https://www.reddit.com/r/LocalLLaMA/comments/1rawoe4/psa_the_software_shade_is_a_fraudulent/). The tool 'Shade' has been discovered to be a complete plagiarized copy of the legitimate Heretic project, with the malicious actor aggressively promoting it across multiple channels since its recent release.

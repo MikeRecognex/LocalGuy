@@ -1,14 +1,37 @@
 ---
-title: "How Slow Local LLMs Are on My Framework 13 AMD Strix Point"
+title: How Slow Local LLMs Are on My Framework 13 AMD Strix Point
 date: 2026-02-22
-description: "A detailed performance analysis of running local LLMs on the Framework 13 laptop with AMD Strix Point processor, revealing real-world inference speed benchmarks and practical considerations for edge deployment on modern mobile hardware."
+description: A detailed performance analysis of running local LLMs on the Framework 13 laptop with AMD Strix Point processor, revealing real-world inference speed benchmarks and practical considerations for edge deployment on modern mobile hardware.
 tags:
-  - daily-digest
-  - benchmark
-  - hardware
   - amd
+  - amd-strix-point
+  - analysis
+  - benchmark
+  - consumer-cpu
+  - consumer-laptop
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-status: draft
+  - hardware
+  - inference-speed
+  - intermediate
+  - llm-optimization
+  - local-deployment
+  - local-llm-performance
+  - mobile-llm-inference
+  - mobile-processor
+  - model-optimization
+  - neutral
+  - on-device-ai
+  - performance-benchmarking
+  - privacy-preserving-ai
+  - token-throughput
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Running local LLMs on consumer laptops remains a critical challenge for practitioners seeking privacy-preserving, offline AI inference. This benchmark explores the real-world performance characteristics of local language models on the Framework 13 with AMD Strix Point—a modern, energy-efficient processor designed for mobile workloads.

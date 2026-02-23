@@ -1,14 +1,32 @@
 ---
 title: "O-TITANS: Orthogonal LoRA Framework for Gemma 3 with Google TITANS Memory Architecture"
 date: 2026-02-22
-description: "A new fine-tuning approach called O-TITANS combines Orthogonal LoRA techniques with Google's TITANS memory architecture specifically for Gemma 3, enabling more efficient adaptation for local deployment scenarios."
+description: A new fine-tuning approach called O-TITANS combines Orthogonal LoRA techniques with Google's TITANS memory architecture specifically for Gemma 3, enabling more efficient adaptation for local deployment scenarios.
 tags:
+  - advanced
+  - bullish
+  - consumer-gpu
+  - context-management
   - daily-digest
+  - developer
+  - efficient-fine-tuning
   - fine-tuning
-  - lora
   - gemma
+  - gemma-model
+  - hardware-optimization
+  - lora
+  - lora-optimization
+  - memory-architecture
+  - memory-compression
   - memory-optimization
-status: draft
+  - model-adaptation
+  - orthogonal-lora
+  - resource-optimization
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 [O-TITANS represents an innovative approach to efficient fine-tuning](https://www.reddit.com/r/LocalLLaMA/comments/1rb4luf/otitans_orthogonal_loras_for_gemma_3_using/) that combines orthogonal tensor decomposition with Google's TITANS memory architecture for Gemma 3 models. This hybrid technique addresses a key challenge in local LLM deployment: how to adapt large models to specific tasks while minimizing memory overhead and computational cost.

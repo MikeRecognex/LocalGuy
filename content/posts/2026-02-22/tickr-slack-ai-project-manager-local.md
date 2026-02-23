@@ -1,14 +1,37 @@
 ---
 title: "Show HN: Tickr – AI Project Manager That Lives Inside Slack (Replaces Jira)"
 date: 2026-02-22
-description: "Tickr brings AI-powered project management capabilities directly into Slack, representing the growing trend of embedding local or efficient LLM inference into workplace tools for improved productivity and reduced external API dependencies."
+description: Tickr brings AI-powered project management capabilities directly into Slack, representing the growing trend of embedding local or efficient LLM inference into workplace tools for improved productivity and reduced external API dependencies.
 tags:
-  - daily-digest
+  - ai-in-project-management
+  - ai-project-management
+  - analysis
+  - api-dependency-reduction
   - applications
-  - llm-tools
-  - productivity
+  - bullish
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - deployment-patterns
+  - developer
+  - embedded-llms
+  - enterprise
   - integration
-status: draft
+  - intermediate
+  - latency-reduction
+  - llm-tools
+  - local-model-integration
+  - productivity
+  - showcase
+  - slack-integration
+mentions:
+  - name: Tickr
+    role: developer
+  - name: Tickr
+    role: product
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Tickr demonstrates the practical value of embedding AI intelligence into familiar tools like Slack, reducing friction in team workflows. By providing project management capabilities directly within messaging platforms, projects like this highlight how local or efficient LLM inference can replace heavier external services while improving user experience.

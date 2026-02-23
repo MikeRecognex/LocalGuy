@@ -1,14 +1,28 @@
 ---
-title: "Ouro 2.6B Thinking Model GGUFs Released with Q8_0 and Q4_K_M Quantization"
+title: Ouro 2.6B Thinking Model GGUFs Released with Q8_0 and Q4_K_M Quantization
 date: 2026-02-22
-description: "Ouro 2.6B, a looped inference model, is now available as quantized GGUFs (Q8_0 at 2.7GB and Q4_K_M at 1.6GB) compatible with LM Studio, Ollama, and llama.cpp. This enables accessible local deployment of an innovative thinking model architecture."
+description: Ouro 2.6B, a looped inference model, is now available as quantized GGUFs (Q8_0 at 2.7GB and Q4_K_M at 1.6GB) compatible with LM Studio, Ollama, and llama.cpp. This enables accessible local deployment of an innovative thinking model architecture.
 tags:
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - model-release
-  - quantisation
-  - ollama
+  - developer
+  - gguf-format
   - inference
-status: draft
+  - intermediate
+  - local-deployment
+  - looped-inference
+  - model-architecture
+  - model-quantization
+  - model-release
+  - model-release-strategy
+  - news
+  - ollama
+  - quantisation
+  - reasoning-capabilities
+  - release
+status: published
 ---
 
 [Ouro 2.6B is now available as GGUF quantizations](https://www.reddit.com/r/LocalLLaMA/comments/1rbbmcl/ouro_26b_ggufs_are_up_q8_0_and_q4_k_m_release/), making an innovative looped inference architecture accessible to local deployment practitioners. The model ships in two practical quantization variants: Q8_0 (2.7GB) for higher quality and Q4_K_M (1.6GB) for constrained systems, both compatible with the major local inference frameworks.
