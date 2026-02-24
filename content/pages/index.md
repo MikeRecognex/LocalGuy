@@ -51,7 +51,10 @@ permalink: /
     </ul>
 
 <div class="clinic-cta">
-  <strong>New: The Local LLM Clinic</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
+  <img src="/ambulogo.png" alt="Local LLM Clinic" class="clinic-cta-logo" />
+  <div>
+    <strong>New: The Local LLM Clinic</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
+  </div>
 </div>
 
 {% if collections.posts.length %}

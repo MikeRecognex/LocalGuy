@@ -78,6 +78,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "favicon.svg": "favicon.svg" });
+  eleventyConfig.addPassthroughCopy({ "ambulogo.png": "ambulogo.png" });
 
   // --- Collections ---
 
