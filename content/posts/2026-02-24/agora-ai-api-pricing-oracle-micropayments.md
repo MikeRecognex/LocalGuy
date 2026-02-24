@@ -1,14 +1,35 @@
 ---
 title: "Show HN: Agora – AI API Pricing Oracle with X402 Micropayments"
 date: 2026-02-24
-description: "Agora introduces a pricing oracle system using X402 micropayments for AI APIs, potentially enabling new models for local LLM service monetization and cost-efficient inference distribution. This could facilitate decentralized deployment architectures for self-hosted models."
+description: Agora introduces a pricing oracle system using X402 micropayments for AI APIs, potentially enabling new models for local LLM service monetization and cost-efficient inference distribution. This could facilitate decentralized deployment architectures for self-hosted models.
 tags:
-  - daily-digest
-  - open-source
-  - monetization
-  - distributed-inference
+  - advanced
   - agents
-status: draft
+  - analysis
+  - api-pricing-oracle
+  - bullish
+  - cost-efficient-inference
+  - cost-tracking
+  - data-privacy
+  - decentralized-deployment
+  - developer
+  - distributed-inference
+  - enterprise
+  - intermediate
+  - llm-monetization
+  - local-llm-deployment
+  - micropayments
+  - monetization
+  - open-source
+  - open-source-llms
+  - peer-to-peer-inference
+  - showcase
+mentions:
+  - name: Agora
+    role: creator
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Agora presents an interesting infrastructure layer for the local LLM ecosystem by combining API pricing oracles with micropayment protocols. The X402 payment standard enables frictionless, sub-cent transactions, which is particularly relevant for scenarios where developers run inference workloads across multiple machines or want to monetize spare computational capacity running local models.

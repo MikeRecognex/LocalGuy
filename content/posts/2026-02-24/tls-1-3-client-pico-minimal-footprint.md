@@ -1,14 +1,31 @@
 ---
 title: "Show HN: A Ground Up TLS 1.3 Client Written in C"
 date: 2026-02-24
-description: "A minimal TLS 1.3 implementation in C could be valuable for edge inference deployments requiring lightweight, secure communication without heavy dependencies. This addresses a key constraint in resource-constrained LLM inference scenarios."
+description: A minimal TLS 1.3 implementation in C could be valuable for edge inference deployments requiring lightweight, secure communication without heavy dependencies. This addresses a key constraint in resource-constrained LLM inference scenarios.
 tags:
-  - daily-digest
+  - advanced
+  - bullish
+  - developer
+  - edge-ai-security
+  - edge-device
   - edge-inference
-  - security
-  - optimization
+  - embedded-systems
+  - inference-api-security
+  - lightweight-tls
   - open-source
-status: draft
+  - optimization
+  - resource-constrained-inference
+  - resource-optimization
+  - secure-communication
+  - security
+  - showcase
+  - tls-implementation
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: theotrama
+    role: developer
+status: published
 ---
 
 Pico-TLS provides a ground-up implementation of TLS 1.3 in C, designed for minimal footprint and embedded systems. For local LLM practitioners, this is particularly relevant when deploying inference servers on resource-constrained devices like Raspberry Pi, edge TPUs, or embedded systems where a full OpenSSL or libressl dependency may be prohibitive.

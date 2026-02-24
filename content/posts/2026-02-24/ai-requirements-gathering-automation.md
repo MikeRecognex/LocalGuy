@@ -1,14 +1,32 @@
 ---
 title: "Comparing Manual vs. AI Requirements Gathering: 2 Sentences vs. 127-Point Spec"
 date: 2026-02-24
-description: "This discussion explores how local LLMs and AI agents can automate requirements engineering processes, potentially streamlining project planning for teams building inference applications. The approach demonstrates practical productivity gains for development workflows."
+description: This discussion explores how local LLMs and AI agents can automate requirements engineering processes, potentially streamlining project planning for teams building inference applications. The approach demonstrates practical productivity gains for development workflows.
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - ai-agents
+  - analysis
   - automation
-  - workflow
+  - bullish
+  - cost-saving
+  - data-privacy
+  - developer
+  - document-generation
+  - enterprise
+  - inference-pipelines
+  - intermediate
+  - model-fine-tuning
+  - on-device-inference
   - open-source
-status: draft
+  - requirements-engineering-automation
+  - showcase
+  - workflow
+  - workflow-automation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This article highlights how locally-run LLMs can be deployed as agents for technical workflow automation, specifically for expanding minimal requirements into comprehensive specifications. For teams building local LLM infrastructure, this demonstrates a practical application of running models like Llama 2, Mixtral, or Mistral as autonomous agents to handle document expansion and specification generation.

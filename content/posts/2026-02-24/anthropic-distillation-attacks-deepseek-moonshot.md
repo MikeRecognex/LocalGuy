@@ -1,14 +1,13 @@
 ---
-title: "Anthropic Reveals Industrial-Scale Distillation Attacks by Chinese AI Labs"
+title: Anthropic Reveals Industrial-Scale Distillation Attacks by Chinese AI Labs
 date: 2026-02-24
-description: "Anthropic has publicly identified coordinated distillation attacks from DeepSeek, Moonshot AI, and MiniMax targeting Claude models. The disclosure raises critical questions about model security, intellectual property protection, and the competitive landscape between closed-source and open-source AI development."
+description: Anthropic has publicly identified coordinated distillation attacks from DeepSeek, Moonshot AI, and MiniMax targeting Claude models. The disclosure raises critical questions about model security, intellectual property protection, and the competitive landscape between closed-source and open-source AI development.
 tags:
-  - daily-digest
   - security
   - open-source
   - distillation
   - model-protection
-status: draft
+status: published
 ---
 
 Anthropic announced detection of [industrial-scale distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) from major Chinese AI labs attempting to extract Claude's capabilities into their own models. This represents a significant escalation in competitive pressure within the AI industry and has sparked intense debate within the LocalLLaMA community about the strategic implications.

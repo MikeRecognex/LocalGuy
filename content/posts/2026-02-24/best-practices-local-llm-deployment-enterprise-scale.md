@@ -1,14 +1,32 @@
 ---
 title: "Enterprise Infrastructure Guide: Running Local LLMs for 70-150 Developers"
 date: 2026-02-24
-description: "A detailed discussion on designing local LLM infrastructure for agentic coding workflows across a growing development team. Covers scaling considerations, deployment architecture, and best practices for enterprise-grade on-device AI integration."
+description: A detailed discussion on designing local LLM infrastructure for agentic coding workflows across a growing development team. Covers scaling considerations, deployment architecture, and best practices for enterprise-grade on-device AI integration.
 tags:
-  - daily-digest
-  - deployment
-  - infrastructure
+  - advanced
+  - agentic-coding-workflows
   - agents
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cost-management
+  - deployment
+  - deployment-architecture
+  - distributed-inference
+  - edge-device
   - enterprise
-status: draft
+  - gpu-management
+  - guide
+  - infrastructure
+  - llm-frameworks
+  - llm-scaling-strategies
+  - local-llm-infrastructure
+  - production-deployment
+  - quantization
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 A software startup engineer posed a practical question about [scaling local LLM deployment](https://www.reddit.com/r/LocalLLaMA/comments/1rd9kpk/best_practices_for_running_local_llms_for_70150/) across 70-150 developers using agentic coding workflows for code generation, refactoring, test writing, and PR reviews. This real-world scenario reflects the growing adoption of self-hosted LLMs in professional development environments where latency, privacy, and cost control are critical factors.
