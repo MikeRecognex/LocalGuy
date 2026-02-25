@@ -1,14 +1,32 @@
 ---
 title: "Show HN: Pluckr – LLM-Powered HTML Scraper That Caches Selectors and Auto-Heals"
 date: 2026-02-25
-description: "An LLM-driven web scraper that uses local models to intelligently extract data from HTML, caching CSS selectors and automatically adapting to page structure changes without constant retraining."
+description: An LLM-driven web scraper that uses local models to intelligently extract data from HTML, caching CSS selectors and automatically adapting to page structure changes without constant retraining.
 tags:
-  - daily-digest
-  - local-llms
-  - practical-tools
+  - adaptive-systems
+  - bullish
+  - caching-strategies
+  - compute-optimization
+  - consumer-gpu
+  - cost-optimization
+  - developer
   - inference-optimization
+  - intermediate
+  - llm-extraction
+  - local-inference
+  - local-llms
   - memory-optimization
-status: draft
+  - practical-tools
+  - selector-caching
+  - showcase
+  - web-scraping
+mentions:
+  - name: Pankaj3112
+    role: developer
+    handle: Pankaj3112
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Web scraping is a persistent need for local AI applications, and [Pluckr](https://github.com/Pankaj3112/pluckr) demonstrates a clever approach: use LLM inference to understand HTML structure and extract selectors, then cache those selectors for repeated use. This pattern significantly reduces compute overhead for real-world scraping pipelines while maintaining adaptability.

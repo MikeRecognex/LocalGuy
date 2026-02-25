@@ -74,6 +74,8 @@ form.addEventListener('submit', async (e) => {
     sourceList.innerHTML = ''
     if (data.sources && data.sources.length > 0) {
       data.sources.forEach(src => {
+        // Only allow safe URL schemes (relative paths or https)
+        if (!src.url?.match(/^(\/[^/]|https:\/\/)/)) return
         const li = document.createElement('li')
         const a = document.createElement('a')
         a.href = src.url

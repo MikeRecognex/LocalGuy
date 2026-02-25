@@ -1,14 +1,32 @@
 ---
-title: "What Breaks When AI Agent Frameworks Are Forced Into <1MB RAM and Sub-ms Startup"
+title: What Breaks When AI Agent Frameworks Are Forced Into <1MB RAM and Sub-ms Startup
 date: 2026-02-25
-description: "A deep dive into the fundamental constraints and trade-offs when deploying AI agent frameworks on severely resource-limited devices, exploring what architectural patterns fail and what succeeds at the edge."
+description: A deep dive into the fundamental constraints and trade-offs when deploying AI agent frameworks on severely resource-limited devices, exploring what architectural patterns fail and what succeeds at the edge.
 tags:
-  - daily-digest
-  - memory-optimization
-  - edge-inference
+  - advanced
+  - agent-architecture
+  - agent-systems
   - agents
+  - analysis
   - constraints
-status: draft
+  - cpu-only
+  - developer
+  - edge-ai-deployment
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - memory-optimization
+  - model-optimization
+  - neutral
+  - performance-optimization
+  - resource-constrained-agents
+  - startup-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This discussion addresses one of the most challenging aspects of local LLM deployment: pushing agent frameworks to extreme resource limits. Running AI agents in under 1MB of RAM with sub-millisecond startup times requires fundamentally rethinking architecture—traditional model loading, context management, and reasoning loops all break under these constraints.

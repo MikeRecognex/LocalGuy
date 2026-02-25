@@ -1,14 +1,28 @@
 ---
 title: "Show HN: A Human-Curated, CLI-Driven Context Layer for AI Agents"
 date: 2026-02-25
-description: "A new framework for managing context and knowledge retrieval for local AI agents through a command-line interface, emphasizing human curation and local-first operation."
+description: A new framework for managing context and knowledge retrieval for local AI agents through a command-line interface, emphasizing human curation and local-first operation.
 tags:
-  - daily-digest
+  - agent-reliability
   - agents
-  - context-management
+  - analysis
+  - bullish
   - cli-tools
+  - context-management
+  - cost-saving
+  - data-curation
+  - developer
+  - intermediate
+  - knowledge-retrieval
+  - local-ai-deployment
   - local-deployment
-status: draft
+  - performance-optimization
+  - privacy-compliance
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Context management is critical for effective local agent deployment, yet most frameworks couple context handling with cloud-dependent APIs or heavy vector databases. [This CLI-driven context layer](https://ctxlayer.dev/) takes a different approach—emphasizing human curation and local-first operations for managing knowledge that feeds into locally-running LLM agents.

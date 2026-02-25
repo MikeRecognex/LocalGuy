@@ -6,7 +6,7 @@ description: "Describe your local AI use-case or problem, and the Clinic searche
 ---
 
 <div class="clinic-container">
-  <p class="clinic-intro">Describe your use-case or problem and the Clinic will search our published articles to give you a tailored answer with source links. Five questions per hour.</p>
+  <p class="clinic-intro">Describe your use-case or problem and the Clinic will search our published articles to give you a tailored answer with source links. Ten questions per hour.</p>
 
   <form id="clinic-form" class="clinic-form">
     <label for="clinic-question" class="sr-only">Your question</label>

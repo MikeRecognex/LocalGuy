@@ -1,14 +1,24 @@
 ---
-title: "Qwen3.5 Series Releases Comprehensive Model Lineup Across All Tiers"
+title: Qwen3.5 Series Releases Comprehensive Model Lineup Across All Tiers
 date: 2026-02-25
-description: "Alibaba released the complete Qwen3.5 model family including 27B, 35B-A3B, and 122B-A10B variants, each optimized for different deployment scenarios and providing extensive benchmark comparisons."
+description: Alibaba released the complete Qwen3.5 model family including 27B, 35B-A3B, and 122B-A10B variants, each optimized for different deployment scenarios and providing extensive benchmark comparisons.
 tags:
-  - daily-digest
-  - qwen
-  - open-source
   - benchmark
+  - bullish
+  - deployment-guide
+  - deployment-optimization
+  - developer
+  - intermediate
+  - local-llms
+  - model-benchmarking
+  - model-lineup
+  - model-quantization
   - moe
-status: draft
+  - multimodal-ai
+  - open-source
+  - qwen
+  - release
+status: published
 ---
 
 The Qwen3.5 model family represents a comprehensive release covering multiple model scales and use cases for local deployment. The lineup includes [the 35B-A3B with mixed expertise architecture](https://huggingface.co/Qwen/Qwen3.5-35B-A3B), the space-efficient 27B variant, and the powerhouse 122B-A10B for those with significant compute resources. Each model ships with optimized configurations and the 35B variant includes an integrated vision projector for multimodal tasks.

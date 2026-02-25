@@ -1,14 +1,26 @@
 ---
-title: "Qwen3.5 Thinking Mode Can Be Disabled for Production Inference Optimization"
+title: Qwen3.5 Thinking Mode Can Be Disabled for Production Inference Optimization
 date: 2026-02-25
-description: "Users can now disable Qwen3.5's thinking capability via llama.cpp configuration, enabling optimized inference parameters for instruct mode deployments without the reasoning overhead."
+description: Users can now disable Qwen3.5's thinking capability via llama.cpp configuration, enabling optimized inference parameters for instruct mode deployments without the reasoning overhead.
 tags:
-  - daily-digest
-  - qwen
-  - llama-cpp
+  - bullish
+  - computational-efficiency
   - configuration
+  - deployment-strategy
+  - developer
   - inference
-status: draft
+  - inference-optimization
+  - instruction-following
+  - intermediate
+  - llama-cpp
+  - model-configuration
+  - performance-tuning
+  - qwen
+  - release
+  - sampling-parameters
+  - showcase
+  - token-generation-optimization
+status: published
 ---
 
 [Qwen3.5's thinking feature can be disabled](https://www.reddit.com/r/LocalLLaMA/comments/1re1b4a/you_can_use_qwen35_without_thinking/) through llama.cpp configuration using the `--chat-template-kwargs '{"enable_thinking": false}'` flag, allowing practitioners to optimize inference for pure instruct mode without the computational overhead of reasoning chains. When running in this mode, Alibaba recommends using adjusted sampling parameters: `--repeat-penalty 1.0 --presence-penalty 1.5 --min-p 0.0 --top-k 20 --top-p 0.8 --temp 0.7`.

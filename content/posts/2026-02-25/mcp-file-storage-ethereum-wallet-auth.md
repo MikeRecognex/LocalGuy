@@ -1,14 +1,32 @@
 ---
 title: "Show HN: MCP-Enabled File Storage for AI Agents, Auth via Ethereum Wallet"
 date: 2026-02-25
-description: "A Model Context Protocol implementation providing decentralized file storage for AI agents using blockchain-based authentication, enabling local agents to access persistent, verifiable storage."
+description: A Model Context Protocol implementation providing decentralized file storage for AI agents using blockchain-based authentication, enabling local agents to access persistent, verifiable storage.
 tags:
-  - daily-digest
-  - mcp
+  - advanced
   - agents
-  - storage
+  - ai-agents
+  - analysis
+  - blockchain-authentication
+  - bullish
+  - decentralized-infrastructure
+  - decentralized-storage
+  - developer
+  - intermediate
   - local-deployment
-status: draft
+  - mcp
+  - multi-modal-context-processing
+  - offline-capability
+  - on-device-agents
+  - on-device-inference
+  - privacy-compliance
+  - showcase
+  - storage
+  - verifiable-storage
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Model Context Protocol (MCP) is becoming essential infrastructure for connecting local LLM agents to external systems. [This implementation](https://service.c33b.org/) adds a compelling use case: decentralized file storage with cryptographic authentication, letting locally-running agents persist and retrieve data without relying on traditional cloud services.

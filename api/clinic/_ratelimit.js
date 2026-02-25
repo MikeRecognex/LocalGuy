@@ -6,7 +6,10 @@ const redis = new Redis({
 })
 
 const WINDOW = 3600 // 1 hour in seconds
-const LIMIT = 5
+const LIMIT = 10
+const LOG_KEY = 'clinic:log'
+const LOG_MAX = 1000
+const LOG_TTL = 604800 // 7 days
 
 export async function checkRateLimit(req) {
   const ip = req.headers['x-forwarded-for']?.split(',')[0]?.trim()
@@ -36,6 +39,19 @@ export async function checkRateLimit(req) {
     reset,
     ip
   }
+}
+
+export async function logQuery(ip, question, rateLimited) {
+  const partialIp = ip.replace(/\.\d+$/, '.xxx') // mask last octet
+  const entry = JSON.stringify({
+    t: new Date().toISOString(),
+    ip: partialIp,
+    q: question.slice(0, 500),
+    blocked: rateLimited
+  })
+  await redis.lpush(LOG_KEY, entry)
+  await redis.ltrim(LOG_KEY, 0, LOG_MAX - 1)
+  await redis.expire(LOG_KEY, LOG_TTL)
 }
 
 async function fireAbuseAlert(ip, count) {

@@ -1,14 +1,36 @@
 ---
-title: "Mirai Announces $10M to Advance On-Device AI Performance for Consumer Devices"
+title: Mirai Announces $10M to Advance On-Device AI Performance for Consumer Devices
 date: 2026-02-25
-description: "Mirai has secured $10 million in funding to optimize AI model performance specifically for on-device deployment on consumer hardware. The investment reflects growing market demand for privacy-preserving, latency-free local LLM inference."
+description: Mirai has secured $10 million in funding to optimize AI model performance specifically for on-device deployment on consumer hardware. The investment reflects growing market demand for privacy-preserving, latency-free local LLM inference.
 tags:
-  - daily-digest
+  - analysis
+  - bullish
+  - consumer-devices
+  - consumer-gpu
+  - consumer-hardware-optimization
+  - developer
+  - edge-device
+  - funding
+  - hardware-software-co-optimization
+  - inference-optimization
+  - intermediate
+  - local-inference-latency
+  - local-llms
+  - model-compression
+  - news
   - on-device-ai
   - optimization
-  - funding
-  - consumer-devices
-status: draft
+  - privacy-first-ai
+  - privacy-preserving-ai
+  - quantization
+mentions:
+  - name: Mirai
+    role: company
+  - name: Mirai
+    role: company
+  - name: AI Insider
+    role: publisher
+status: published
 ---
 
 Mirai's $10 million funding round underscores the accelerating commercial interest in on-device AI optimization. The company is focused on solving the critical challenge of running capable AI models directly on consumer hardware—smartphones, laptops, and edge devices—without requiring cloud connectivity or accepting latency penalties. This capital infusion enables deeper investment in inference optimization techniques that make local LLM deployment practical at scale.
