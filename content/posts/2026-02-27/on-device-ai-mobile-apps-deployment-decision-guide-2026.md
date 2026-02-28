@@ -21,7 +21,7 @@ tags:
   - on-device-ai
   - optimization
   - privacy-compliance
-status: draft
+status: published
 ---
 
 As on-device AI capabilities mature, developers face critical architectural decisions about workload placement. This guide addresses the practical trade-offs between local execution and cloud offloading, considering factors like model size, latency requirements, privacy constraints, and device capabilities.

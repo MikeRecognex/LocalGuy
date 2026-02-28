@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: Google News
     role: publisher
-status: draft
+status: published
 ---
 
 The Samsung Galaxy S26 series, powered by Qualcomm's latest Snapdragon 8 Elite Gen 5 processor, represents a meaningful hardware advancement for on-device AI inference. The new chipset includes architectural improvements specifically designed to accelerate neural network operations, making it possible to run larger and more capable models locally without compromising battery life or performance.

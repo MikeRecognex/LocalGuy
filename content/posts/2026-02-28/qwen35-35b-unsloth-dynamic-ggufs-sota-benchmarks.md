@@ -27,7 +27,7 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 The LocalLLaMA community has released comprehensive GGUF quantisations for Qwen3.5-35B achieving state-of-the-art performance across nearly all bit levels. This release includes exhaustive benchmarking with over 150 KL Divergence tests and 9TB of quantised variants, providing practitioners with detailed performance data to guide model selection.

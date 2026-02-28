@@ -21,7 +21,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Enclave brings agent-building primitives directly into the Ruby on Rails ecosystem, lowering the barrier to integrating local LLM deployments into existing web applications. Ruby on Rails remains popular for rapid application development, and having first-class support for AI agents means teams can now build agentic features without leaving their familiar development environment.

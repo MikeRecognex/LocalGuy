@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 Detailed follow-up benchmarking confirms that KV cache quantisation to q8_0 provides performance improvements without quality degradation—a "free lunch" optimisation for local deployments. The investigation validates Q4_K_M as the optimal quantisation level and demonstrates that proper batch configuration flags can achieve 74.7 tokens/second on consumer RTX 5080 hardware.

@@ -27,7 +27,7 @@ mentions:
     role: application
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Caret represents the practical endpoint of local LLM deployment: bringing intelligent completion capabilities to every application on a user's machine without requiring cloud connectivity or API calls. By hooking into the Mac's input system and providing tab-triggered completion, this tool demonstrates how smaller, locally-optimized models can deliver real productivity value while maintaining privacy and offline capability.

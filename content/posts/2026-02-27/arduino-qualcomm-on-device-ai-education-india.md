@@ -28,7 +28,7 @@ mentions:
     role: partner
   - name: Arduino
     role: partner
-status: draft
+status: published
 ---
 
 The partnership between Arduino and Qualcomm to bring on-device AI education to Indian schools represents an important shift toward democratizing edge AI skills development. By introducing students to local inference concepts early, this initiative builds a pipeline of developers who understand the constraints and opportunities of edge deployment rather than defaulting to cloud-centric approaches.

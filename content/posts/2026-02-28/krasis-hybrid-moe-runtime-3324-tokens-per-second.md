@@ -28,7 +28,7 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 Krasis introduces a novel hybrid CPU/GPU runtime architecture specifically optimised for mixture-of-experts models, splitting the expensive prefill phase to GPU while routing decode operations to CPU with system RAM augmentation. This asymmetric approach achieves 3,324 tokens/second prefill throughput on a single RTX 5080, demonstrating that intelligent workload distribution can overcome traditional hardware constraints.

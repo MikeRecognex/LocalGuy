@@ -22,7 +22,7 @@ tags:
   - open-source
   - release
   - structured-output
-status: draft
+status: published
 ---
 
 Google has expanded its AI Edge Gallery with native support for on-device function calling, a critical capability for local LLM deployments that need structured, deterministic outputs. This addition allows developers to run inference locally while maintaining the ability to call functions and parse results without relying on cloud APIs, significantly improving latency and privacy for edge applications.

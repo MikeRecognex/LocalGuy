@@ -25,7 +25,7 @@ tags:
   - power-efficiency
   - quantization-performance
   - snapdragon
-status: draft
+status: published
 ---
 
 The Snapdragon 8 Elite Gen 5 represents a meaningful advancement for on-device AI deployment, with specific improvements to neural processing units and memory bandwidth that directly impact local LLM execution. These architectural enhancements enable faster token generation, improved quantised model performance, and better power efficiency for continuous inference workloads.

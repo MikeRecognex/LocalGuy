@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 AgentGate represents an emerging pattern in local LLM deployment: wrapping model inference with control layers that add additional constraints and incentives around agent behavior. By introducing stake-gating mechanisms, this tool provides a way to limit agent actions based on economic commitments, reducing the risk of uncontrolled or costly operations in autonomous systems.

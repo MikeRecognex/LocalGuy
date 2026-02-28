@@ -21,7 +21,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 LLmFit addresses a fundamental pain point in local LLM deployment: determining which models can actually run on specific hardware. The tool automatically profiles RAM, CPU, and GPU capabilities, then scores 497 models across 133 providers using quality, speed, and resource-fit metrics to recommend appropriate candidates.

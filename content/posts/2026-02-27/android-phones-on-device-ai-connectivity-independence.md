@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: NokiaPowerUser
     role: publisher
-status: draft
+status: published
 ---
 
 The shift toward AI-capable Android devices that function offline represents a fundamental platform change with significant implications for local LLM deployment. As manufacturers standardize on-device AI processing, developers can increasingly target models that run entirely locally without assuming cloud connectivity, enabling new use cases in connectivity-constrained regions and offline-first applications.

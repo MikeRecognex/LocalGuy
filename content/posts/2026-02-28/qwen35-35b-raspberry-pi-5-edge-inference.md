@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 Running a 35-billion parameter model on a Raspberry Pi 5 would have been impractical just months ago, but successful execution at 3+ tokens/second demonstrates the dramatic progress in quantisation and runtime optimisation. This achievement validates that cutting-edge model quality is no longer confined to high-end GPUs; resource-constrained edge devices can now run sophisticated models with acceptable performance.

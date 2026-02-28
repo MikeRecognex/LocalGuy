@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 The Model Context Protocol continues to emerge as a key infrastructure standard for building composable AI systems, and this compliance-focused MCP server shows how local deployment scenarios increasingly need to handle regulatory requirements. As more jurisdictions implement AI regulation like Colorado's AI Act, tools that help document and verify compliance become essential for organizations running models locally.

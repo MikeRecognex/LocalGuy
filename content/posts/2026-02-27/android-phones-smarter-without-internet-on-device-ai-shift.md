@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: MediaTek
     role: manufacturer
-status: draft
+status: published
 ---
 
 The convergence of improved mobile processors, better quantisation techniques, and optimized inference frameworks has made it practical for Android devices to run meaningful AI models entirely offline. This capability fundamentally changes what's possible for mobile applications, enabling real privacy and reliable operation in low-connectivity scenarios.

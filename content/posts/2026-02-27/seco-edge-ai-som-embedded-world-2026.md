@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: Seco
     role: manufacturer
-status: draft
+status: published
 ---
 
 Seco's announcement of an edge AI-focused system-on-module at Embedded World 2026 demonstrates growing hardware specialization for local LLM deployment in industrial and embedded contexts. Purpose-built edge AI modules are critical infrastructure for practitioners looking to deploy models in production environments where general-purpose processors are inefficient or where specific form factors and power budgets are constraints.

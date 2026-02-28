@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Arduino
     role: partner
-status: draft
+status: published
 ---
 
 This educational initiative highlights the growing accessibility of on-device AI tools and frameworks, making practical local inference feasible for students and educators. By integrating Arduino microcontrollers with Qualcomm's edge AI capabilities, the program creates tangible learning experiences with constrained hardware—exactly the environment where optimization and efficient model deployment matter most.

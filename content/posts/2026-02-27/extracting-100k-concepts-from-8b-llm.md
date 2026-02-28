@@ -27,7 +27,7 @@ mentions:
     role: publisher
   - name: Guidelabs.ai
     role: author
-status: draft
+status: published
 ---
 
 Understanding what's happening inside smaller language models is crucial for local deployment, and this work on concept discovery provides new insights into 8B parameter models. The ability to extract and identify 100,000 distinct concepts helps practitioners understand model behavior, debug outputs, and potentially improve inference efficiency through better steering and control mechanisms.

@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: KDnuggets
     role: publisher
-status: draft
+status: published
 ---
 
 Docker containers provide essential infrastructure for local LLM development and deployment, offering reproducible environments crucial for experimenting with agentic systems. This resource outlines five container configurations specifically designed to streamline the workflow of developers building autonomous AI agents that rely on local model inference.
