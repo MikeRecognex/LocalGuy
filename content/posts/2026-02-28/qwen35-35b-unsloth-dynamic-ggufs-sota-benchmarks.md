@@ -1,13 +1,32 @@
 ---
-title: "Qwen3.5-35B Unsloth Dynamic GGUFs Achieve SOTA Across Nearly All Quantisation Levels"
+title: Qwen3.5-35B Unsloth Dynamic GGUFs Achieve SOTA Across Nearly All Quantisation Levels
 date: 2026-02-28
-description: "New state-of-the-art GGUF quantisations for Qwen3.5-35B released with 150+ KL Divergence benchmarks and 9TB of variants. Critical tool calling chat template bug fixed affecting all quantisation uploaders."
+description: New state-of-the-art GGUF quantisations for Qwen3.5-35B released with 150+ KL Divergence benchmarks and 9TB of variants. Critical tool calling chat template bug fixed affecting all quantisation uploaders.
 tags:
-  - daily-digest
+  - advanced
+  - benchmark
+  - bullish
+  - consumer-gpu
+  - developer
+  - edge-device
+  - gguf
+  - gguf-quantisation
+  - hardware-optimization
+  - intermediate
+  - model-benchmarking
+  - model-quantization
+  - model-variants
+  - performance-benchmarking
+  - production-deployment
   - quantisation
   - qwen
-  - benchmark
-  - gguf
+  - release
+  - tool-calling
+mentions:
+  - name: LocalLLaMA community
+    role: publisher
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

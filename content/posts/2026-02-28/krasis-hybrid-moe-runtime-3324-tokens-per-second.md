@@ -1,13 +1,33 @@
 ---
 title: "Krasis: Hybrid CPU/GPU MoE Runtime Achieves 3,324 Tokens/Second Prefill on RTX 5080"
 date: 2026-02-28
-description: "New open-source runtime optimises mixture-of-experts models by splitting prefill to GPU and decode to CPU, enabling larger MoE models to run on single consumer GPUs with dramatic throughput improvements."
+description: New open-source runtime optimises mixture-of-experts models by splitting prefill to GPU and decode to CPU, enabling larger MoE models to run on single consumer GPUs with dramatic throughput improvements.
 tags:
-  - daily-digest
+  - advanced
+  - consumer-gpu
+  - cpu-only
+  - developer
   - framework
-  - moe
   - hardware
+  - hybrid-runtime
+  - inference-speed
+  - intermediate
+  - memory-optimization
+  - mixture-of-experts
+  - model-scaling
+  - moe
+  - moe-model-deployment
+  - open-source-ai
   - performance-optimization
+  - release
+  - resource-constrained-deployment
+  - showcase
+  - workload-distribution
+mentions:
+  - name: Krasis
+    role: developer
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

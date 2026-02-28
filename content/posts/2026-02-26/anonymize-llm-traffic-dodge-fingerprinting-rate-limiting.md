@@ -3,11 +3,33 @@ title: "Show HN: Anonymize LLM traffic to dodge API fingerprinting and rate-limi
 date: 2026-02-26
 description: "A new tool helps users mask and anonymize LLM API traffic to prevent detection and circumvent rate-limiting mechanisms. This addresses privacy and access concerns for local LLM deployments and API usage."
 tags:
-  - daily-digest
-  - privacy
-  - security
+  - analysis
+  - api-anonymization
   - api-management
+  - api-rate-limiting
+  - bullish
+  - cost-optimization
+  - cost-saving
+  - daily-digest
+  - developer
+  - enterprise
+  - hybrid-deployment
+  - inference-privacy
+  - inference-security
+  - intermediate
+  - local-llm-deployment
+  - neutral
+  - privacy
+  - privacy-compliance
+  - regulatory-compliance
+  - security
+  - showcase
   - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: GitHub
+    role: platform
 status: draft
 ---
 

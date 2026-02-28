@@ -1,13 +1,28 @@
 ---
-title: "Seco Launches Edge AI System-on-Module at Embedded World 2026"
+title: Seco Launches Edge AI System-on-Module at Embedded World 2026
 date: 2026-02-27
-description: "Seco unveils a specialized edge AI system-on-module targeting industrial and embedded applications, providing optimized hardware for deploying LLMs in constrained environments."
+description: Seco unveils a specialized edge AI system-on-module targeting industrial and embedded applications, providing optimized hardware for deploying LLMs in constrained environments.
 tags:
-  - daily-digest
-  - hardware
-  - embedded
+  - analysis
+  - bullish
+  - constrained-deployment
+  - edge-ai-hardware
+  - edge-device
   - edge-inference
+  - embedded
+  - embedded-ai
+  - enterprise
+  - framework-development
+  - hardware
+  - hardware-specialization
   - industrial
+  - industrial-ai
+  - intermediate
+  - power-efficiency
+  - release
+mentions:
+  - name: Seco
+    role: manufacturer
 status: draft
 ---
 

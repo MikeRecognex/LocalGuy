@@ -1,13 +1,28 @@
 ---
-title: "Qwen3.5-35B Successfully Runs on Raspberry Pi 5 at 3+ Tokens/Second"
+title: Qwen3.5-35B Successfully Runs on Raspberry Pi 5 at 3+ Tokens/Second
 date: 2026-02-28
-description: "Demonstration of Qwen3.5-35B inference on Raspberry Pi 5 (16GB and 8GB variants) achieving over 3 tokens/second, proving high-capacity models viable on edge devices."
+description: Demonstration of Qwen3.5-35B inference on Raspberry Pi 5 (16GB and 8GB variants) achieving over 3 tokens/second, proving high-capacity models viable on edge devices.
 tags:
-  - daily-digest
+  - api-independence
+  - arm-processor
+  - bullish
+  - developer
+  - edge-ai-deployment
+  - edge-device
+  - edge-device-inference
   - edge-inference
+  - hardware
+  - inference-speed
+  - intermediate
+  - memory-optimization
+  - model-optimization
+  - offline-operation
   - qwen
   - raspberry-pi
-  - hardware
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

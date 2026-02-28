@@ -3,11 +3,27 @@ title: "Agent System – 7 specialized AI agents that plan, build, verify, and s
 date: 2026-02-26
 description: "A new multi-agent system coordinates seven specialized agents to handle planning, development, verification, and deployment of code. This demonstrates practical frameworks for orchestrating local LLMs in complex workflows."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - analysis
+  - bullish
   - code-generation
-  - orchestration
+  - daily-digest
+  - developer
+  - error-handling
+  - intermediate
+  - local-deployment
+  - local-llm-deployment
+  - model-efficiency
+  - modular-ai-architecture
+  - multi-agent-systems
   - open-source
+  - orchestration
+  - showcase
+  - software-development-automation
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

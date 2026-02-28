@@ -3,11 +3,28 @@ title: "Running LLMs on Raspberry Pi and Edge Devices: A Practical Guide"
 date: 2026-02-26
 description: "A practical guide for deploying language models on resource-constrained edge devices like Raspberry Pi, including optimization techniques and real-world deployment patterns. Critical for understanding the limits and possibilities of truly local inference."
 tags:
+  - analysis
+  - bullish
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - raspberry-pi
-  - quantisation
   - hardware
+  - intermediate
+  - iot-ai
+  - memory-optimization
+  - model-optimization
+  - model-quantization
+  - privacy-preserving-ai
+  - quantisation
+  - raspberry-pi
+  - tutorial
+mentions:
+  - name: Sitepoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

@@ -1,12 +1,26 @@
 ---
 title: "LLmFit: One-Command Hardware-Aware Model Selection Across 497 Models and 133 Providers"
 date: 2026-02-28
-description: "New terminal utility automatically detects hardware capabilities and recommends optimal LLM models from 497 options across 133 providers, scoring models on quality, speed, and fit."
+description: New terminal utility automatically detects hardware capabilities and recommends optimal LLM models from 497 options across 133 providers, scoring models on quality, speed, and fit.
 tags:
-  - daily-digest
-  - tool
+  - consumer-gpu
+  - cpu-only
+  - deployment-workflow
+  - developer
   - hardware
+  - hardware-aware-model-selection
+  - hardware-compatibility
+  - intermediate
+  - model-memory-management
+  - model-selection
   - open-source
+  - performance-optimization
+  - release
+  - showcase
+  - tool
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

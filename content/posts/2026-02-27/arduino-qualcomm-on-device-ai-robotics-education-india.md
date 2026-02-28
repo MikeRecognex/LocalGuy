@@ -1,13 +1,31 @@
 ---
-title: "Arduino, Qualcomm Bring On-Device AI and Robotics Learning to Indian School Systems"
+title: Arduino, Qualcomm Bring On-Device AI and Robotics Learning to Indian School Systems
 date: 2026-02-27
-description: "Initiative bringing practical on-device AI and robotics education to schools, demonstrating accessible pathways for learning local model deployment on edge hardware."
+description: Initiative bringing practical on-device AI and robotics education to schools, demonstrating accessible pathways for learning local model deployment on edge hardware.
 tags:
-  - daily-digest
-  - education
+  - ai-education
+  - ai-for-developing-nations
+  - analysis
+  - bullish
+  - constrained-hardware
+  - cost-saving
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
-  - robotics
+  - education
+  - hobbyist
+  - inference-acceleration
+  - intermediate
+  - local-llm-deployment
+  - model-optimization
+  - news
   - on-device-ai
+  - quantization
+  - robotics
+mentions:
+  - name: Arduino
+    role: partner
 status: draft
 ---
 

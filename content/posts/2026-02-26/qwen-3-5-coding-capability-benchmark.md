@@ -3,11 +3,28 @@ title: "Qwen 3.5 Underperforms on Hard Coding Tasks—APEX Benchmark Analysis"
 date: 2026-02-26
 description: "A comprehensive benchmark testing Qwen3.5 models against 70 real repositories reveals significant weaknesses in complex coding tasks compared to other models. The analysis challenges claims of Qwen3.5's general-purpose capability and highlights the importance of task-specific evaluation."
 tags:
-  - daily-digest
-  - qwen
+  - advanced
   - benchmark
+  - benchmark-report
+  - cautious
+  - code-generation-performance
   - coding
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - gpu-resource-management
+  - intermediate
+  - local-llm-deployment
+  - model-benchmarking
+  - model-evaluation
+  - model-selection
+  - neutral
   - performance
+  - qwen
+  - resource-management
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

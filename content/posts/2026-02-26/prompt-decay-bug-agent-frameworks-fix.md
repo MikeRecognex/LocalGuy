@@ -3,11 +3,29 @@ title: "Every agent framework has the same bug – prompt decay. Here's a fix"
 date: 2026-02-26
 description: "A critical analysis identifies prompt decay as a common vulnerability in agent frameworks, where model outputs gradually degrade over extended interactions. A practical fix is proposed and shared."
 tags:
-  - daily-digest
+  - advanced
+  - agent-frameworks
+  - agentic-systems
   - agents
-  - prompt-engineering
-  - optimization
+  - analysis
+  - bullish
+  - daily-digest
   - debugging
+  - developer
+  - inference-pipeline-control
+  - llm-performance-degradation
+  - local-agent-deployment
+  - local-llm-deployment
+  - neutral
+  - optimization
+  - prompt-decay
+  - prompt-engineering
+  - tutorial
+mentions:
+  - name: GitHub Gist
+    role: publisher
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

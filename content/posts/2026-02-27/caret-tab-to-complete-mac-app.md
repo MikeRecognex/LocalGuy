@@ -1,13 +1,32 @@
 ---
 title: "Show HN: Caret – Tab to Complete at Any App on Your Mac"
 date: 2026-02-27
-description: "A new macOS application brings local LLM-powered code completion to any application through a tab-triggered interface, demonstrating practical on-device inference for productivity tools."
+description: A new macOS application brings local LLM-powered code completion to any application through a tab-triggered interface, demonstrating practical on-device inference for productivity tools.
 tags:
-  - daily-digest
+  - apple-silicon
+  - application-innovation
+  - bullish
+  - code-completion
+  - consumer-gpu
+  - context-switching
+  - developer
   - edge-inference
-  - macos
+  - intermediate
+  - latency-reduction
+  - local-deployment
   - local-inference
+  - macos
+  - model-optimization
+  - on-device-inference
+  - privacy-preserving-ai
   - productivity
+  - showcase
+  - user-demand
+mentions:
+  - name: Caret
+    role: application
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

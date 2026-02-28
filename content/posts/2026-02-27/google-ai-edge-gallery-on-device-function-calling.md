@@ -1,13 +1,27 @@
 ---
-title: "On-Device Function Calling in Google AI Edge Gallery"
+title: On-Device Function Calling in Google AI Edge Gallery
 date: 2026-02-27
-description: "Google introduces on-device function calling capabilities in their AI Edge Gallery, enabling local LLM inference with structured output generation without cloud dependencies."
+description: Google introduces on-device function calling capabilities in their AI Edge Gallery, enabling local LLM inference with structured output generation without cloud dependencies.
 tags:
-  - daily-digest
+  - agentic-systems
+  - bullish
+  - data-privacy
+  - developer
+  - edge-computing
+  - edge-device
   - edge-inference
-  - google
-  - open-source
+  - edge-privacy-latency
   - function-calling
+  - google
+  - intermediate
+  - llm-tool-integration
+  - local-llm-inference
+  - news
+  - offline-inference
+  - on-device-function-calling
+  - open-source
+  - release
+  - structured-output
 status: draft
 ---
 

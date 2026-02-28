@@ -3,11 +3,28 @@ title: "Qwen 3.5 MoE Delivers 100K Context Window at 40+ TPS on RTX 5060 Ti"
 date: 2026-02-26
 description: "Qwen3.5's mixture-of-experts variant achieves exceptional throughput with 100,000 token context window on a single mid-range GPU, reaching 41+ tokens per second using the Vulkan backend. This demonstrates practical feasibility of ultra-long context models on consumer hardware."
 tags:
+  - advanced
+  - backend-optimization
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-performance
   - daily-digest
-  - qwen
-  - performance
+  - developer
   - hardware
+  - inference-speed
+  - intermediate
+  - local-deployment
+  - long-context-window
+  - mixture-of-experts
+  - moe-inference
+  - performance
   - quantisation
+  - qwen
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

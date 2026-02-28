@@ -1,13 +1,30 @@
 ---
 title: "Snapdragon 8 Elite Gen 5 for Galaxy Official: 5 Key Improvements that Push the Boundaries"
 date: 2026-02-27
-description: "Details on the latest Snapdragon processor generation bringing performance improvements specifically relevant to on-device AI inference and local model execution on mobile devices."
+description: Details on the latest Snapdragon processor generation bringing performance improvements specifically relevant to on-device AI inference and local model execution on mobile devices.
 tags:
-  - daily-digest
+  - advanced
+  - bullish
+  - conversational-ai
+  - developer
+  - edge-device
   - hardware
-  - snapdragon
+  - intermediate
+  - local-document-processing
+  - memory-bandwidth
   - mobile-inference
+  - mobile-processor
+  - mobile-soc
+  - model-quantization
+  - news
+  - npu-capabilities
+  - npu-performance
+  - on-device-inference
+  - on-device-llms
   - optimization
+  - power-efficiency
+  - quantization-performance
+  - snapdragon
 status: draft
 ---
 

@@ -1,13 +1,28 @@
 ---
 title: "Show HN: MCP Server for AI Compliance Documentation"
 date: 2026-02-27
-description: "A new Model Context Protocol server implementation helps developers build compliance documentation systems, particularly relevant for the Colorado AI Act and other regulatory frameworks."
+description: A new Model Context Protocol server implementation helps developers build compliance documentation systems, particularly relevant for the Colorado AI Act and other regulatory frameworks.
 tags:
-  - daily-digest
-  - mcp
-  - tooling
   - agents
+  - ai-compliance-documentation
+  - ai-governance
+  - ai-regulation
+  - bullish
   - compliance
+  - compliance-reporting
+  - developer
+  - intermediate
+  - local-deployment
+  - mcp
+  - model-context-protocol
+  - model-extension
+  - production-deployment
+  - regulatory-compliance
+  - showcase
+  - tooling
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

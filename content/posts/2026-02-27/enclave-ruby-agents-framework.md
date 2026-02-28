@@ -1,13 +1,26 @@
 ---
 title: "Enclave Gem: Mega Useful if You're Building Agents on Ruby on Rails"
 date: 2026-02-27
-description: "A new Ruby gem simplifies building AI agents within Rails applications, making it easier to integrate local LLMs into web frameworks for practical deployment scenarios."
+description: A new Ruby gem simplifies building AI agents within Rails applications, making it easier to integrate local LLMs into web frameworks for practical deployment scenarios.
 tags:
-  - daily-digest
+  - agent-development-tools
+  - agent-orchestration
   - agents
-  - ruby-on-rails
+  - ai-agent-development
+  - analysis
+  - bullish
+  - developer
+  - developer-experience
   - framework
   - integration
+  - intermediate
+  - local-deployment
+  - ruby-on-rails
+  - showcase
+  - web-framework-integration
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

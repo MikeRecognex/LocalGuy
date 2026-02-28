@@ -3,11 +3,30 @@ title: "Building a Privacy-Preserving RAG System in the Browser"
 date: 2026-02-26
 description: "A guide for implementing retrieval-augmented generation entirely in the browser using local models, maintaining complete data privacy. Demonstrates advanced local LLM architectures running entirely client-side."
 tags:
-  - daily-digest
-  - rag
+  - advanced
+  - analysis
   - browser
-  - privacy
+  - browser-llm
+  - bullish
+  - cloud-vs-local-performance
+  - daily-digest
+  - data-privacy
+  - developer
+  - intermediate
   - local-llm
+  - on-device-rag
+  - privacy
+  - privacy-preserving-rag
+  - rag
+  - rag-pipeline
+  - rag-pipeline-components
+  - retrieval-augmented-generation
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

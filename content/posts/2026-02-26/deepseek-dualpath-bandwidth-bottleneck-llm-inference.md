@@ -3,11 +3,31 @@ title: "DeepSeek Paper – DualPath: Breaking the Bandwidth Bottleneck in LLM In
 date: 2026-02-26
 description: "DeepSeek researchers present DualPath, a novel approach to address bandwidth limitations during LLM inference. This work tackles one of the primary performance bottlenecks in local and edge LLM deployment."
 tags:
-  - daily-digest
-  - performance-optimization
-  - inference-speed
+  - advanced
+  - analysis
   - bandwidth
+  - bandwidth-efficiency
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-ai-deployment
+  - edge-device
+  - inference-architecture
+  - inference-optimization
+  - inference-speed
+  - memory-bandwidth
+  - on-device-deployment-frameworks
   - open-source
+  - performance-optimization
+  - power-efficiency
+  - release
+mentions:
+  - name: arXiv
+    role: publisher
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

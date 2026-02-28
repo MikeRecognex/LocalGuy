@@ -1,13 +1,29 @@
 ---
 title: "Show HN: AgentGate – Stake-Gated Action Microservice for AI Agents"
 date: 2026-02-27
-description: "A new microservice framework adds economic incentive mechanisms to AI agent actions, useful for controlling and monetizing local agent deployments through stake-based gating."
+description: A new microservice framework adds economic incentive mechanisms to AI agent actions, useful for controlling and monetizing local agent deployments through stake-based gating.
 tags:
-  - daily-digest
+  - advanced
+  - agent-authorization
+  - agent-control
+  - agent-orchestration
   - agents
-  - microservices
-  - deployment
+  - ai-agents
+  - analysis
+  - bullish
   - control
+  - deployment
+  - developer
+  - economic-incentives
+  - local-deployment
+  - microservices
+  - multi-agent-systems
+  - security-auditing
+  - showcase
+  - stake-gating
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

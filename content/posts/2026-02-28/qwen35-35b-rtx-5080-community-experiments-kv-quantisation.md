@@ -1,13 +1,30 @@
 ---
-title: "Qwen3.5-35B RTX 5080 Experiments Confirm KV q8_0 as Free Lunch, Q4_K_M Remains Optimal"
+title: Qwen3.5-35B RTX 5080 Experiments Confirm KV q8_0 as Free Lunch, Q4_K_M Remains Optimal
 date: 2026-02-28
-description: "Follow-up benchmarking of Qwen3.5-35B-A3B on RTX 5080 16GB validates community-requested configurations, achieving 74.7 tokens/second and confirming KV cache quantisation strategies."
+description: Follow-up benchmarking of Qwen3.5-35B-A3B on RTX 5080 16GB validates community-requested configurations, achieving 74.7 tokens/second and confirming KV cache quantisation strategies.
 tags:
-  - daily-digest
-  - quantisation
+  - advanced
   - benchmark
+  - benchmark-report
+  - bullish
+  - configuration-optimization
+  - consumer-gpu
+  - developer
   - hardware
+  - inference-speed
+  - inference-speed-optimization
+  - intermediate
+  - kv-cache-quantization
+  - local-deployment
+  - model-performance
+  - model-quantization
+  - performance-optimization
+  - quantisation
   - qwen
+  - runtime-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

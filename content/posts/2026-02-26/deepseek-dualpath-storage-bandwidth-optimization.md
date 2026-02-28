@@ -3,11 +3,35 @@ title: "DeepSeek Releases DualPath: Addressing Storage Bandwidth Bottlenecks in 
 date: 2026-02-26
 description: "A new paper from DeepSeek, Peking University, and Tsinghua University presents DualPath, a technique for breaking storage bandwidth limitations in agent-based LLM inference. The research tackles a fundamental performance constraint affecting local deployment at scale."
 tags:
-  - daily-digest
-  - deepseek
-  - optimization
-  - inference
+  - advanced
+  - agentic-inference
   - agents
+  - analysis
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - data-access-optimization
+  - deepseek
+  - developer
+  - dualpath-technique
+  - gpu-compute-utilization
+  - inference
+  - inference-optimization
+  - inference-speed
+  - local-deployment
+  - local-deployment-at-scale
+  - memory-bandwidth
+  - model-throughput
+  - optimization
+  - release
+  - storage-bandwidth-bottlenecks
+mentions:
+  - name: Peking University
+    role: research partner
+  - name: Tsinghua University
+    role: research partner
+  - name: arXiv
+    role: publisher
 status: draft
 ---
 

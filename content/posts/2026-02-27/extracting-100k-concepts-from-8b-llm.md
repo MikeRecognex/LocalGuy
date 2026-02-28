@@ -1,13 +1,32 @@
 ---
-title: "Extracting 100K Concepts from an 8B LLM"
+title: Extracting 100K Concepts from an 8B LLM
 date: 2026-02-27
-description: "Research demonstrates how to extract and discover 100,000 interpretable concepts from an 8-billion parameter language model, enabling better understanding and control of smaller models suitable for local deployment."
+description: Research demonstrates how to extract and discover 100,000 interpretable concepts from an 8-billion parameter language model, enabling better understanding and control of smaller models suitable for local deployment.
 tags:
-  - daily-digest
-  - model-analysis
   - 8b-models
+  - advanced
+  - analysis
+  - bullish
+  - concept-extraction
+  - developer
+  - edge-deployment
+  - inference-efficiency
+  - intermediate
   - interpretability
+  - local-llm-optimization
+  - model-analysis
+  - model-deployment
+  - model-fine-tuning
+  - model-interpretability
+  - model-safety
+  - model-selection
   - optimization
+  - research
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Guidelabs.ai
+    role: author
 status: draft
 ---
 
