@@ -1,14 +1,32 @@
 ---
-title: "Switch Qwen 3.5 Thinking Mode On/Off Without Model Reload Using setParamsByID"
+title: Switch Qwen 3.5 Thinking Mode On/Off Without Model Reload Using setParamsByID
 date: 2026-03-01
-description: "Unsloth and Qwen community members have discovered how to toggle thinking vs. instruct mode on Qwen 3.5 without reloading the model, enabling dynamic workflow switching and reducing inference latency."
+description: Unsloth and Qwen community members have discovered how to toggle thinking vs. instruct mode on Qwen 3.5 without reloading the model, enabling dynamic workflow switching and reducing inference latency.
 tags:
-  - daily-digest
-  - qwen
+  - advanced
+  - analysis
+  - bullish
+  - developer
+  - inference-latency-reduction
   - inference-optimization
+  - intermediate
+  - local-deployment
+  - model-optimization
+  - model-reloading-optimization
+  - news
+  - performance-optimization
+  - qwen
+  - qwen-35-modes
   - unsloth
   - workflow
-status: draft
+  - workflow-optimization
+  - workload-management
+mentions:
+  - name: Unsloth
+    role: community
+  - name: Unsloth
+    role: tool-provider
+status: published
 ---
 
 The Unsloth community has identified a practical optimization for Qwen 3.5 deployment: [toggling between thinking and instruct modes without model reloading](https://www.reddit.com/r/LocalLLaMA/comments/1rhohqk/how_to_switch_qwen_35_thinking_onoff_without/) using the new `setParamsByID` functionality. This addresses a significant operational friction point where practitioners previously needed to reload the entire model to switch between reasoning-intensive tasks and quick-response scenarios.

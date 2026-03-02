@@ -1,13 +1,31 @@
 ---
 title: "Apple Intelligence, Galaxy AI, Gemini: Why Your AI-Powered Phone Is Worth Repairing"
 date: 2026-03-01
-description: "An analysis of on-device AI capabilities in modern smartphones and the importance of device repairability for maintaining access to locally-run AI features that don't require cloud connectivity."
+description: An analysis of on-device AI capabilities in modern smartphones and the importance of device repairability for maintaining access to locally-run AI features that don't require cloud connectivity.
 tags:
-  - daily-digest
-  - mobile-inference
+  - analysis
+  - bullish
+  - consumer
+  - consumer-device-deployment
+  - consumer-gpu
+  - developer
+  - device-repairability
+  - edge-device
   - edge-inference
+  - intermediate
+  - mobile-ai-optimization
+  - model-distillation
+  - model-quantization
+  - offline-ai
+  - offline-inference
   - on-device-ai
-status: draft
+  - resource-constrained-ai
+mentions:
+  - name: The AI Journal
+    role: publisher
+  - name: The AI Journal
+    role: publisher
+status: published
 ---
 
 The proliferation of on-device AI in consumer smartphones represents a significant validation of local inference at scale. [The AI Journal explores how smartphone AI capabilities make device repair and longevity critical considerations](https://www.theaijournal.com), highlighting the value users place on maintaining access to locally-run intelligence features.

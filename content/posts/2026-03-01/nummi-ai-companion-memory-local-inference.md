@@ -1,14 +1,37 @@
 ---
-title: "Nummi – AI Companion with Memory and Daily Guidance"
+title: Nummi – AI Companion with Memory and Daily Guidance
 date: 2026-03-01
-description: "Nummi launches as a downloadable AI companion application featuring persistent memory and personalized guidance, showcasing how local LLM deployment enables continuous, context-aware interactions without relying on cloud infrastructure."
+description: Nummi launches as a downloadable AI companion application featuring persistent memory and personalized guidance, showcasing how local LLM deployment enables continuous, context-aware interactions without relying on cloud infrastructure.
 tags:
-  - daily-digest
-  - edge-deployment
-  - memory-optimization
+  - ai-companion
+  - bullish
   - consumer-applications
+  - consumer-gpu
+  - context-aware-ai
+  - conversation-context-management
+  - data-privacy
+  - developer
+  - edge-deployment
+  - hobbyist
+  - incremental-model-adaptation
+  - intermediate
+  - llm-inference-optimization
+  - local-llm-deployment
+  - memory-constrained-inference
+  - memory-optimization
+  - news
+  - persistent-memory
   - personalization
-status: draft
+  - personalized-ai
+  - showcase
+mentions:
+  - name: Nummi
+    role: developer
+  - name: Nummi
+    role: market entrant
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Nummi demonstrates the consumer-facing potential of locally-deployed LLM companions with persistent memory and personalized interactions. By running inference locally, the application maintains user context and conversation history entirely on-device, enabling truly personalized guidance without transmitting personal data to external servers. This represents a compelling value proposition for privacy-conscious users seeking AI companionship without sacrificing data autonomy.

@@ -1,14 +1,27 @@
 ---
-title: "Krasis Hybrid MoE Runtime Achieves 3,324 tok/s Prefill on Single RTX 5080"
+title: Krasis Hybrid MoE Runtime Achieves 3,324 tok/s Prefill on Single RTX 5080
 date: 2026-02-28
-description: "A new hybrid CPU/GPU runtime for mixture-of-experts models delivers 3,324 tokens/second prefill performance on a single RTX 5080 by intelligently distributing prefill to GPU and decode to CPU with system RAM as auxiliary storage."
+description: A new hybrid CPU/GPU runtime for mixture-of-experts models delivers 3,324 tokens/second prefill performance on a single RTX 5080 by intelligently distributing prefill to GPU and decode to CPU with system RAM as auxiliary storage.
 tags:
-  - daily-digest
-  - moe
-  - inference-speed
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cpu-only
+  - developer
   - hardware
+  - hardware-utilization
+  - hybrid-inference
+  - inference-speed
+  - large-model-deployment
+  - memory-management
+  - moe
+  - moe-efficiency
+  - moe-models
   - open-source
-status: draft
+  - prefill-decode-optimization
+  - showcase
+status: published
 ---
 
 A new runtime framework called [Krasis demonstrates a clever architectural approach to running large mixture-of-experts models on consumer hardware](https://github.com/brontoguana/krasis). The key innovation separates the inference workload: GPU handles the expensive prefill phase while CPU handles token generation (decode), with system RAM providing additional buffer capacity to fit larger models than would otherwise be possible.

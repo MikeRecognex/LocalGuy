@@ -1,14 +1,31 @@
 ---
-title: "Serve Markdown to LLMs from your Next.js app"
+title: Serve Markdown to LLMs from your Next.js app
 date: 2026-02-28
-description: "A new tool enables seamless integration of markdown content serving with local LLMs in Next.js applications, simplifying the workflow for building AI-augmented web applications with on-device inference."
+description: A new tool enables seamless integration of markdown content serving with local LLMs in Next.js applications, simplifying the workflow for building AI-augmented web applications with on-device inference.
 tags:
-  - daily-digest
-  - framework-integration
-  - next-js
-  - tooling
+  - ai-web-development
+  - bullish
   - deployment
-status: draft
+  - deployment-tooling
+  - developer
+  - development-efficiency
+  - framework-integration
+  - intermediate
+  - knowledge-augmentation
+  - llm-integration
+  - markdown-llm-integration
+  - markdown-serialization
+  - next-js
+  - nextjs-development
+  - on-device-inference
+  - showcase
+  - tooling
+mentions:
+  - name: kasin-it
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Building full-stack applications that combine local LLM inference with web frameworks requires careful attention to how data flows between your frontend, application server, and inference backend. The next-md-negotiate project addresses a common integration pattern by providing utilities to serve markdown content directly from Next.js applications in formats optimized for local LLMs.

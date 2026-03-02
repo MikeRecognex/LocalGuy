@@ -1,14 +1,33 @@
 ---
-title: "How to Run High-Performance LLMs Locally on the Arduino UNO Q"
+title: How to Run High-Performance LLMs Locally on the Arduino UNO Q
 date: 2026-03-01
-description: "A practical guide demonstrating how to deploy and run efficient LLMs directly on Arduino UNO Q microcontroller hardware, enabling true edge inference on resource-constrained embedded devices."
+description: A practical guide demonstrating how to deploy and run efficient LLMs directly on Arduino UNO Q microcontroller hardware, enabling true edge inference on resource-constrained embedded devices.
 tags:
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-computing-applications
+  - edge-device
+  - edge-device-deployment
   - edge-inference
+  - hardware
+  - iot-ai
+  - memory-management
   - microcontroller
+  - microcontroller-deployment
+  - model-distillation
+  - model-quantization
   - optimization
-status: draft
+  - resource-constrained-ai
+  - tutorial
+mentions:
+  - name: Hackster.io
+    role: publisher
+  - name: Hackster.io
+    role: publisher
+status: published
 ---
 
 Running LLMs on ultra-constrained hardware like Arduino devices represents a significant frontier in edge AI. [This Hackster.io guide explores how to deploy high-performance language models on the Arduino UNO Q](https://www.hackster.io), pushing the boundaries of what's possible on microcontroller-class hardware with severely limited memory and compute resources.

@@ -1,14 +1,34 @@
 ---
-title: "AgentLens – Open-Source Observability for AI Agents"
+title: AgentLens – Open-Source Observability for AI Agents
 date: 2026-03-01
-description: "AgentLens provides open-source observability and monitoring tools specifically designed for AI agents, enabling developers to debug and optimize local LLM agent deployments with detailed visibility into execution flows."
+description: AgentLens provides open-source observability and monitoring tools specifically designed for AI agents, enabling developers to debug and optimize local LLM agent deployments with detailed visibility into execution flows.
 tags:
-  - daily-digest
+  - agent-debugging
+  - agent-observability
+  - agent-reasoning-traceability
   - agents
+  - ai-agents
+  - ai-safety
+  - bullish
+  - debugging
+  - developer
+  - execution-monitoring
+  - intermediate
+  - local-agents
   - observability
   - open-source
-  - debugging
-status: draft
+  - open-source-observability
+  - open-source-tools
+  - production-deployment
+  - showcase
+mentions:
+  - name: AgentLens
+    role: project
+  - name: AgentLens
+    role: tool-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM agents become more autonomous and complex, visibility into their decision-making and execution becomes critical. [AgentLens](https://news.ycombinator.com/item?id=47205382) fills this gap by providing open-source observability tooling built specifically for agent systems. The platform enables practitioners to trace agent reasoning, monitor tool calls, and debug failures without relying on proprietary services or cloud-based logging infrastructure.

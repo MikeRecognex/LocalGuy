@@ -1,14 +1,34 @@
 ---
-title: "AI-Native Store Research"
+title: AI-Native Store Research
 date: 2026-03-01
-description: "An exploration of how AI is being integrated into retail environments, including potential applications of local LLM deployment for edge-based customer interaction and inventory management systems."
+description: An exploration of how AI is being integrated into retail environments, including potential applications of local LLM deployment for edge-based customer interaction and inventory management systems.
 tags:
-  - daily-digest
-  - edge-inference
+  - analysis
   - applications
+  - bullish
+  - commercial-applications
+  - data-privacy
+  - developer
+  - edge-ai-deployment
+  - edge-device
+  - edge-inference
+  - enterprise
+  - intermediate
+  - inventory-management-ai
+  - model-optimization
+  - performance-requirements
+  - privacy-preserving-ai
+  - real-time-inference
   - retail
+  - retail-ai-integration
+  - self-hosted-inference
   - use-cases
-status: draft
+mentions:
+  - name: Trend Hunter
+    role: publisher
+  - name: Trend Hunter
+    role: publisher
+status: published
 ---
 
 Real-world applications of local LLM inference are expanding beyond traditional tech domains into retail and commerce. [Trend Hunter's analysis of AI-native stores examines how language models are being deployed at the edge for customer-facing applications](https://www.trendhunter.com), demonstrating practical use cases for on-device AI in commercial environments.

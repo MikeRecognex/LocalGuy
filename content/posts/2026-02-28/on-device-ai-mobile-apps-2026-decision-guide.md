@@ -1,14 +1,32 @@
 ---
 title: "On-Device AI in Mobile Apps: What Should Run on the Phone vs the Cloud (A 2026 Decision Guide)"
 date: 2026-02-28
-description: "A comprehensive guide examining the trade-offs between on-device and cloud inference for mobile applications, helping developers make architectural decisions for 2026 and beyond."
+description: A comprehensive guide examining the trade-offs between on-device and cloud inference for mobile applications, helping developers make architectural decisions for 2026 and beyond.
 tags:
-  - daily-digest
-  - edge-inference
-  - mobile
-  - on-device-ai
+  - analysis
+  - architectural-design
   - architecture
-status: draft
+  - cloud-fallback
+  - consumer-gpu
+  - consumer-hardware-optimization
+  - cost-saving
+  - developer
+  - device-constraints
+  - edge-ai-models
+  - edge-cloud-comparison
+  - edge-device
+  - edge-inference
+  - guide
+  - intermediate
+  - local-inference-strategy
+  - mobile
+  - neutral
+  - offline-capabilities
+  - on-device-ai
+mentions:
+  - name: BBN Times
+    role: publisher
+status: published
 ---
 
 As on-device AI capabilities mature, mobile developers face critical architectural decisions about where inference should occur. This 2026 decision guide explores the practical trade-offs between running models locally on phones versus leveraging cloud infrastructure, considering factors like latency, privacy, bandwidth costs, and model complexity.

@@ -1,14 +1,36 @@
 ---
-title: "Unsloth Dynamic 2.0 GGUFs"
+title: Unsloth Dynamic 2.0 GGUFs
 date: 2026-02-28
-description: "Unsloth releases Dynamic 2.0 GGUF format models, advancing quantized model optimization for local inference with improved efficiency and compatibility across edge devices."
+description: Unsloth releases Dynamic 2.0 GGUF format models, advancing quantized model optimization for local inference with improved efficiency and compatibility across edge devices.
 tags:
-  - daily-digest
-  - quantisation
+  - bullish
+  - consumer-gpu
+  - developer
+  - edge-device
   - gguf
+  - gguf-format
+  - inference-speed
+  - intermediate
+  - local-deployment
+  - local-inference
+  - memory-optimization
+  - model-evaluation
+  - model-optimization
+  - model-quantization
   - optimization
+  - quantisation
+  - quantization
+  - release
   - unsloth
-status: draft
+  - unsloth-platform
+mentions:
+  - name: Unsloth
+    role: library-developer
+  - name: Unsloth
+    role: platform-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Unsloth, a leading library for efficient LLM inference, has released Dynamic 2.0 GGUF models that represent a meaningful advancement in quantized model deployment. The GGUF format has become the de facto standard for local inference due to its efficient compression and broad tooling support across llama.cpp, Ollama, and other popular frameworks.

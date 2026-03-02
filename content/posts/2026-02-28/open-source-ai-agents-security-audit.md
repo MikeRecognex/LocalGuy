@@ -1,14 +1,33 @@
 ---
-title: "We Audited the Security of 7 Open-Source AI Agents – Here Is What We Found"
+title: We Audited the Security of 7 Open-Source AI Agents – Here Is What We Found
 date: 2026-02-28
-description: "A comprehensive security audit of popular open-source AI agents reveals vulnerabilities and best practices for securing locally-deployed agentic systems, critical for production deployments."
+description: A comprehensive security audit of popular open-source AI agents reveals vulnerabilities and best practices for securing locally-deployed agentic systems, critical for production deployments.
 tags:
-  - daily-digest
-  - security
+  - advanced
+  - agent-security
   - agents
-  - open-source
+  - ai-agent-security
+  - analysis
+  - audit-report
   - best-practices
-status: draft
+  - cautious
+  - developer
+  - input-validation
+  - local-agent-deployment
+  - on-device-ai-security
+  - open-source
+  - prompt-injection
+  - sandboxing
+  - security
+  - tool-definition-security
+  - tool-execution-security
+  - vulnerability-management
+mentions:
+  - name: Grit
+    role: auditor
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As AI agents become increasingly sophisticated and widely deployed, security considerations move from theoretical to operational necessity. A recent audit by Grit examined seven popular open-source AI agent frameworks, uncovering vulnerabilities ranging from prompt injection risks to unsafe tool execution patterns. For practitioners deploying agents locally, understanding these vulnerabilities is essential.

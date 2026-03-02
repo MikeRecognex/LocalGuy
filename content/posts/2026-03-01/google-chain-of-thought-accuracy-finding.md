@@ -1,14 +1,27 @@
 ---
-title: "Google Research Finds Longer Chain-of-Thought Correlates Negatively With Accuracy"
+title: Google Research Finds Longer Chain-of-Thought Correlates Negatively With Accuracy
 date: 2026-03-01
-description: "New Google research challenges assumptions about reasoning token length, revealing a -0.54 correlation between chain-of-thought length and accuracy across multiple model architectures and benchmarks."
+description: New Google research challenges assumptions about reasoning token length, revealing a -0.54 correlation between chain-of-thought length and accuracy across multiple model architectures and benchmarks.
 tags:
-  - daily-digest
+  - advanced
+  - analysis
   - benchmark
+  - chain-of-thought-fine-tuning
+  - chain-of-thought-reasoning
+  - developer
   - inference-optimization
-  - research
+  - llm-deployment-strategy
+  - local-inference-efficiency
+  - model-accuracy
+  - neutral
   - reasoning
-status: draft
+  - reasoning-chain-optimization
+  - research
+  - token-generation-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 A significant research finding from Google challenges conventional wisdom about reasoning in language models. [New analysis reveals](https://www.reddit.com/r/LocalLLaMA/comments/1rh6pru/google_found_that_longer_chain_of_thought/) that longer chain-of-thought sequences actually show negative correlation (-0.54) with accuracy across multiple model variants including GPT-OSS, DeepSeek-R1, and Qwen3, tested on rigorous benchmarks like AIME2024/2025 and GPQA-Diamond.

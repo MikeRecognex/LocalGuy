@@ -1,14 +1,32 @@
 ---
-title: "ParseHive – AI-Powered Invoice Data Extraction for Windows and Mac"
+title: ParseHive – AI-Powered Invoice Data Extraction for Windows and Mac
 date: 2026-03-01
-description: "ParseHive launches as a native desktop application leveraging local AI models for invoice data extraction, demonstrating practical applications of on-device LLM inference for document processing without cloud dependency."
+description: ParseHive launches as a native desktop application leveraging local AI models for invoice data extraction, demonstrating practical applications of on-device LLM inference for document processing without cloud dependency.
 tags:
-  - daily-digest
-  - edge-deployment
-  - document-processing
+  - analysis
+  - bullish
+  - cost-saving
+  - data-privacy
   - desktop-applications
+  - developer
+  - document-processing
+  - edge-deployment
+  - enterprise
+  - intermediate
+  - invoice-data-extraction
+  - local-deployment
+  - local-first-architecture
+  - on-device-inference
   - practical-use-cases
-status: draft
+  - release
+mentions:
+  - name: ParseHive
+    role: developer
+  - name: ParseHive
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 ParseHive exemplifies the shift toward practical, revenue-generating applications built on local LLM inference. By running AI models natively on Windows and Mac, the application eliminates cloud processing latency and costs while keeping sensitive financial documents entirely on-device. This represents a real-world use case where local deployment provides both technical and business advantages over API-based solutions.

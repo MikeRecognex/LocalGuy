@@ -1,14 +1,32 @@
 ---
 title: "Accuracy vs. Speed in Local LLMs: Finding Your Sweet Spot"
 date: 2026-02-28
-description: "A practical guide exploring the trade-offs between model accuracy and inference speed when deploying LLMs locally, helping practitioners optimize for their specific use cases and hardware constraints."
+description: A practical guide exploring the trade-offs between model accuracy and inference speed when deploying LLMs locally, helping practitioners optimize for their specific use cases and hardware constraints.
 tags:
-  - daily-digest
-  - performance
-  - optimization
+  - accuracy-vs-speed
+  - analysis
   - benchmark
+  - bullish
+  - consumer-gpu
+  - developer
+  - hardware-benchmarking
   - inference
-status: draft
+  - intermediate
+  - local-deployment
+  - model-architecture
+  - model-optimization
+  - model-profiling
+  - model-quantization
+  - neutral
+  - optimization
+  - performance
+  - performance-tuning
+  - production-deployment
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 One of the core challenges in local LLM deployment is balancing model quality against inference latency and resource consumption. This article tackles the critical decision-making process that practitioners face when selecting or optimizing models for on-device deployment, examining how quantization levels, model sizes, and architecture choices impact real-world performance metrics.

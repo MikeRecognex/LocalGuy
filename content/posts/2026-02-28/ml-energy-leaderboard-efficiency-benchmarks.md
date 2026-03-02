@@ -1,14 +1,38 @@
 ---
-title: "The ML.energy Leaderboard"
+title: The ML.energy Leaderboard
 date: 2026-02-28
-description: "ML.energy launches a comprehensive leaderboard benchmarking model efficiency metrics including inference latency, memory consumption, and energy usage across diverse hardware platforms, providing crucial data for local deployment decisions."
+description: ML.energy launches a comprehensive leaderboard benchmarking model efficiency metrics including inference latency, memory consumption, and energy usage across diverse hardware platforms, providing crucial data for local deployment decisions.
 tags:
-  - daily-digest
   - benchmark
-  - hardware
+  - bullish
+  - consumer-gpu
+  - cpu-only
+  - custom-asic
+  - developer
+  - edge-deployment
+  - edge-device
+  - energy-consumption
   - energy-efficiency
+  - hardware
+  - hardware-selection
+  - inference-efficiency
+  - intermediate
+  - local-deployment
+  - memory-footprint
+  - model-benchmarking
+  - model-comparison
   - performance-metrics
-status: draft
+  - release
+  - resource-optimization
+  - showcase
+mentions:
+  - name: ML.energy
+    role: creator
+  - name: ML.energy
+    role: platform
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Choosing the right model for local deployment requires visibility into how different architectures perform across critical efficiency dimensions. The ML.energy leaderboard fills this gap by providing standardized benchmarks of inference speed, memory footprint, and energy consumption across multiple hardware platforms—from GPUs and CPUs to specialized inference accelerators.

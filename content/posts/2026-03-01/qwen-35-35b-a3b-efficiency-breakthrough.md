@@ -1,14 +1,34 @@
 ---
-title: "Qwen 3.5-35B-A3B Emerges as Efficient Daily Driver, Replacing 120B Models"
+title: Qwen 3.5-35B-A3B Emerges as Efficient Daily Driver, Replacing 120B Models
 date: 2026-03-01
-description: "Qwen 3.5-35B-A3B is delivering exceptional performance at one-third the size of previous daily drivers, offering significant efficiency gains for local deployment without sacrificing capability."
+description: Qwen 3.5-35B-A3B is delivering exceptional performance at one-third the size of previous daily drivers, offering significant efficiency gains for local deployment without sacrificing capability.
 tags:
-  - daily-digest
-  - qwen
-  - model-release
-  - efficiency
   - benchmark
-status: draft
+  - bullish
+  - consumer-gpu
+  - consumer-hardware
+  - cost-saving
+  - developer
+  - edge-deployment
+  - edge-device
+  - efficiency
+  - hardware-optimization
+  - inference-speed
+  - intermediate
+  - local-inference
+  - model-5-35b-a3b
+  - model-compression
+  - model-efficiency
+  - model-release
+  - news
+  - power-efficiency
+  - qwen
+  - qwen-model
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 The Qwen 3.5-35B-A3B model is generating significant excitement in the local LLM community as users report it [replacing larger 120B models](https://www.reddit.com/r/LocalLLaMA/comments/1rh43za/qwen_3535ba3b_is_beyond_expectations_its_replaced/) while using only one-third of the parameters. This represents a major efficiency breakthrough for practitioners with constrained hardware, particularly those running inference on consumer GPUs with limited VRAM.

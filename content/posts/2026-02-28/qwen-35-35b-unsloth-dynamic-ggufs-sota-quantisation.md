@@ -1,14 +1,34 @@
 ---
-title: "Qwen 3.5-35B Unsloth Dynamic GGUFs Achieve SOTA Quantisation Benchmarks"
+title: Qwen 3.5-35B Unsloth Dynamic GGUFs Achieve SOTA Quantisation Benchmarks
 date: 2026-02-28
-description: "Unsloth released state-of-the-art dynamic quantisations for Qwen 3.5-35B across nearly all bit depths, backed by 150+ KL Divergence benchmarks and 9TB of GGUFs. The release also fixes a critical tool calling chat template bug affecting all quantisation uploaders."
+description: Unsloth released state-of-the-art dynamic quantisations for Qwen 3.5-35B across nearly all bit depths, backed by 150+ KL Divergence benchmarks and 9TB of GGUFs. The release also fixes a critical tool calling chat template bug affecting all quantisation uploaders.
 tags:
-  - daily-digest
-  - quantisation
+  - advanced
   - benchmark
-  - qwen
+  - bug-fix
+  - bullish
+  - consumer-gpu
+  - developer
+  - evaluation-metrics
+  - intermediate
+  - local-deployment
+  - local-llm-deployment
+  - model-formats
+  - model-performance-tradeoffs
+  - model-quantisation
+  - model-quantization
   - open-source
-status: draft
+  - performance-benchmarking
+  - quantisation
+  - qwen
+  - release
+  - tool-calling-bug-fix
+mentions:
+  - name: Unsloth
+    role: developer
+  - name: r/LocalLLaMA
+    role: publisher
+status: published
 ---
 
 Unsloth has released optimised quantisations for Qwen 3.5-35B that represent significant progress in making larger models practical for local deployment. The Unsloth Dynamic quants achieve state-of-the-art performance metrics across nearly all bit depths, with comprehensive research backing the release through over 150 KL Divergence benchmarks and a total of 9TB of GGUF variants.
