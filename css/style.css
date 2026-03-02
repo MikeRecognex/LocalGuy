@@ -319,7 +319,7 @@ header:first-child nav {
 header:first-child nav ul {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.2rem 1.25rem;
+  gap: 0.2rem 0.85rem;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -338,7 +338,7 @@ header:first-child nav ul li {
 
 header:first-child nav a {
   font-family: var(--font-heading);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   text-decoration: none;
   color: var(--color-muted);
   transition: color 0.15s;
@@ -428,6 +428,110 @@ footer:last-child {
 
 .post-tags a:hover {
   text-decoration: underline;
+}
+
+/* === Posts Accordion === */
+.week-group {
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  background: var(--color-surface);
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.week-group > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.week-group > summary::-webkit-details-marker { display: none; }
+
+.week-group > summary::before {
+  content: "\25B8";
+  display: inline-block;
+  transition: transform 0.15s ease;
+  font-size: 0.85em;
+}
+
+.week-group[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.week-label {
+  flex: 1;
+}
+
+.week-count {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  font-weight: 400;
+}
+
+.week-summary {
+  padding: 0 1rem 0.75rem;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.week-summary p + p {
+  margin-top: 0.5rem;
+}
+
+.day-group {
+  border-top: 1px solid var(--color-border);
+}
+
+.day-group > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.6rem 1rem 0.6rem 1.75rem;
+  font-family: var(--font-heading);
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.day-group > summary::-webkit-details-marker { display: none; }
+
+.day-group > summary::before {
+  content: "\25B8";
+  display: inline-block;
+  transition: transform 0.15s ease;
+  font-size: 0.75em;
+}
+
+.day-group[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.day-label {
+  font-weight: 500;
+}
+
+.day-highlight {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  font-weight: 400;
+  font-style: italic;
+}
+
+.day-group > .post-list {
+  padding: 0 1rem 0.75rem 2.5rem;
+}
+
+.day-group > .post-list li {
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
 }
 
 /* === Article (posts) === */
@@ -1551,7 +1655,7 @@ footer p:last-child a:hover {
 }
 
 .trends-page {
-  max-width: 52rem;
+  max-width: 72rem;
   margin: 0 auto;
 }
 
@@ -1903,5 +2007,132 @@ footer p:last-child a:hover {
     content: " (" attr(href) ")";
     font-size: 0.8em;
     color: var(--color-muted);
+  }
+}
+
+/* === Graph Page === */
+
+.graph-page {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.graph-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.graph-header h1 {
+  margin-bottom: 0.25rem;
+}
+
+.graph-subtitle {
+  color: var(--color-muted);
+  font-size: 0.95rem;
+}
+
+.graph-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.graph-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.graph-legend-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.65rem;
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.graph-legend-chip--off {
+  opacity: 0.35;
+}
+
+.graph-legend-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.graph-slider {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.graph-slider input[type="range"] {
+  width: 100px;
+  accent-color: var(--color-accent);
+}
+
+.graph-slider span {
+  min-width: 1.2em;
+  text-align: center;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.graph-container {
+  height: min(70vh, 600px);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.graph-container svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.graph-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 10;
+}
+
+@media (max-width: 640px) {
+  .graph-page {
+    padding: 1rem 0.5rem;
+  }
+
+  .graph-controls {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .graph-container {
+    height: 50vh;
   }
 }

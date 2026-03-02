@@ -9,7 +9,10 @@
     "smart-retag": ".venv/bin/python scripts/smart-retag.py",
     "smart-retag:drafts": ".venv/bin/python scripts/smart-retag.py --drafts-only",
     "smart-retag:dry": ".venv/bin/python scripts/smart-retag.py --dry-run",
-    "clinic:index": "node scripts/clinic-index.js"
+    "clinic:index": "node scripts/clinic-index.js",
+    "generate-summaries": "node scripts/generate-summaries.js",
+    "generate-summaries:force": "node scripts/generate-summaries.js --force",
+    "retag-and-summarize": "npm run smart-retag:drafts && npm run generate-summaries"
   },
   "keywords": [],
   "author": "",

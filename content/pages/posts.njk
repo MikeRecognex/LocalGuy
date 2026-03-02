@@ -8,33 +8,41 @@ permalink: /posts/
 
 <p class="submit-link">Have something to share? <a href="/contribute/">Submit a post</a></p>
 
-{%- set recent = collections.posts | recentDays(3) %}
-{%- set older = collections.posts | olderThanDays(3) %}
+{%- set weeks = collections.posts | groupByWeek %}
 
-{%- if recent.length %}
-<ul class="post-list">
-{%- for post in recent %}
-  <li>
-    <a href="{{ post.url }}">{{ post.data.title }}</a>
-    <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
-    {% if post.data.tags %}<div class="post-tags">{%- for tag in post.data.tags | topicTags %}<a href="/tags/{{ tag }}/">#{{ tag }}</a>{%- endfor %}</div>{% endif %}
-    {% if post.data.description %}<p class="summary">{{ post.data.description }}</p>{% endif %}
-  </li>
+{%- if weeks.length %}
+{%- for week in weeks %}
+  <details class="week-group">
+    <summary class="week-header">
+      <span class="week-label">{{ week.weekLabel }}</span>
+      <span class="week-count">{{ week.postCount }} post{{ "s" if week.postCount != 1 }}</span>
+    </summary>
+
+    {%- if summaries.weekly[week.weekKey] %}
+    <div class="week-summary">{{ summaries.weekly[week.weekKey] | safe }}</div>
+    {%- endif %}
+
+    {%- for day in week.days %}
+    <details class="day-group">
+      <summary class="day-header">
+        <span class="day-label">{{ day.dateKey | shortDate }}</span>
+        {%- if summaries.daily[day.dateKey] %}
+        <span class="day-highlight">{{ summaries.daily[day.dateKey] }}</span>
+        {%- endif %}
+      </summary>
+      <ul class="post-list">
+        {%- for post in day.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          {% if post.data.tags %}<div class="post-tags">{%- for tag in post.data.tags | topicTags %}<a href="/tags/{{ tag }}/">#{{ tag }}</a>{%- endfor %}</div>{% endif %}
+          {% if post.data.description %}<p class="summary">{{ post.data.description }}</p>{% endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+    </details>
+    {%- endfor %}
+  </details>
 {%- endfor %}
-</ul>
 {%- endif %}
 
-{%- if older.length %}
-{%- for group in older | groupByDate %}
-<h2>{{ group.label }}</h2>
-<ul class="post-list">
-  {%- for post in group.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.data.title }}</a>
-    {% if post.data.tags %}<div class="post-tags">{%- for tag in post.data.tags | topicTags %}<a href="/tags/{{ tag }}/">#{{ tag }}</a>{%- endfor %}</div>{% endif %}
-    {% if post.data.description %}<p class="summary">{{ post.data.description }}</p>{% endif %}
-  </li>
-  {%- endfor %}
-</ul>
-{%- endfor %}
-{%- endif %}
+<script src="/js/posts-accordion.js"></script>

@@ -79,6 +79,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "favicon.svg": "favicon.svg" });
   eleventyConfig.addPassthroughCopy({ "ambulogo.png": "ambulogo.png" });
+  eleventyConfig.addPassthroughCopy({ "graphlogo.svg": "graphlogo.svg" });
 
   // --- Collections ---
 
@@ -124,6 +125,18 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("isoDate", (dateObj) => {
     return new Date(dateObj).toISOString();
+  });
+
+  eleventyConfig.addFilter("dateKey", (dateObj) => {
+    return new Date(dateObj).toISOString().slice(0, 10);
+  });
+
+  eleventyConfig.addFilter("shortDate", (dateStr) => {
+    const d = new Date(dateStr + "T00:00:00");
+    const dd = String(d.getDate()).padStart(2, "0");
+    const mm = String(d.getMonth() + 1).padStart(2, "0");
+    const yyyy = d.getFullYear();
+    return `${dd}/${mm}/${yyyy}`;
   });
 
   eleventyConfig.addFilter("head", (array, n) => {
@@ -181,6 +194,63 @@ module.exports = function (eleventyConfig) {
       current.posts.push(post);
     }
     return groups;
+  });
+
+  // Group posts into weeks (Monday-keyed) with nested day groups
+  // Returns [ { weekKey, weekLabel, days: [{ label, dateKey, posts }], postCount } ]
+  eleventyConfig.addFilter("groupByWeek", (posts) => {
+    // Helper: get Monday of a given date's week
+    function getMonday(d) {
+      const date = new Date(d);
+      const day = date.getDay();
+      const diff = day === 0 ? -6 : 1 - day; // Monday = 1
+      date.setDate(date.getDate() + diff);
+      return date.toISOString().slice(0, 10);
+    }
+
+    const weekMap = new Map();
+    for (const post of posts) {
+      const postDate = new Date(post.date);
+      const mondayKey = getMonday(postDate);
+      const dateKey = postDate.toISOString().slice(0, 10);
+      const dayLabel = postDate.toLocaleDateString("en-GB", {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      });
+
+      if (!weekMap.has(mondayKey)) {
+        const monday = new Date(mondayKey + "T00:00:00");
+        const sunday = new Date(monday);
+        sunday.setDate(sunday.getDate() + 6);
+        const fmt = (d) =>
+          d.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+        weekMap.set(mondayKey, {
+          weekKey: mondayKey,
+          weekLabel: `${fmt(monday)} – ${fmt(sunday)}`,
+          dayMap: new Map(),
+          postCount: 0,
+        });
+      }
+      const week = weekMap.get(mondayKey);
+      week.postCount++;
+
+      if (!week.dayMap.has(dateKey)) {
+        week.dayMap.set(dateKey, { label: dayLabel, dateKey, posts: [] });
+      }
+      week.dayMap.get(dateKey).posts.push(post);
+    }
+
+    // Convert to arrays, sorted descending
+    const weeks = [];
+    for (const week of weekMap.values()) {
+      week.days = Array.from(week.dayMap.values());
+      delete week.dayMap;
+      weeks.push(week);
+    }
+    weeks.sort((a, b) => b.weekKey.localeCompare(a.weekKey));
+    return weeks;
   });
 
   // Tag cloud: returns [ { tag, count, weight } ] sorted by count descending
@@ -392,6 +462,117 @@ module.exports = function (eleventyConfig) {
       allTime: allTime.slice(0, 50),
       generated: now.toISOString(),
       window: { start: thirtyDaysAgo.toISOString(), end: now.toISOString() },
+    };
+  });
+
+  // Co-occurrence graph data: nodes = tags, edges = shared articles
+  // Used by the /graph/ page for force-directed visualization
+  eleventyConfig.addFilter("graphData", (posts) => {
+    const taxonomy = require("./_data/tag-taxonomy.js");
+
+    const aliases = {
+      benchmark: "benchmarks",
+      "edge-inference": "edge-deployment",
+      "on-device": "edge-deployment",
+      "open-weights": "open-source",
+      inference: null,
+    };
+
+    // Build category lookup from taxonomy
+    const tagCategory = {};
+    for (const [cat, entries] of Object.entries(taxonomy)) {
+      for (const slug of Object.keys(entries)) {
+        tagCategory[slug] = cat;
+      }
+    }
+
+    const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts", "guides"]);
+    for (const tag of classifierTags) exclude.add(tag);
+
+    // Count tag occurrences and build co-occurrence pairs
+    const tagCounts = {};
+    const edgeCounts = {};
+
+    for (const post of posts) {
+      const rawTags = post.data.tags || [];
+      const filtered = [];
+      for (let tag of rawTags) {
+        if (tag in aliases) tag = aliases[tag];
+        if (tag === null || exclude.has(tag)) continue;
+        filtered.push(tag);
+        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+      }
+
+      // Generate all unique pairs for co-occurrence
+      const unique = [...new Set(filtered)];
+      for (let i = 0; i < unique.length; i++) {
+        for (let j = i + 1; j < unique.length; j++) {
+          const key = [unique[i], unique[j]].sort().join("|||");
+          edgeCounts[key] = (edgeCounts[key] || 0) + 1;
+        }
+      }
+    }
+
+    // Remove noise-floor tags (>8% of articles)
+    const totalPosts = posts.length || 1;
+    const noiseFloor = new Set();
+    for (const [tag, count] of Object.entries(tagCounts)) {
+      if (count / totalPosts > 0.08) noiseFloor.add(tag);
+    }
+
+    // Filter singletons and noise-floor tags from nodes
+    const validTags = new Set();
+    for (const [tag, count] of Object.entries(tagCounts)) {
+      if (count >= 2 && !noiseFloor.has(tag)) validTags.add(tag);
+    }
+
+    // Build edges with weight >= 2, max 5 per node
+    const rawEdges = [];
+    for (const [key, weight] of Object.entries(edgeCounts)) {
+      if (weight < 2) continue;
+      const [source, target] = key.split("|||");
+      if (!validTags.has(source) || !validTags.has(target)) continue;
+      rawEdges.push({ source, target, weight });
+    }
+    rawEdges.sort((a, b) => b.weight - a.weight);
+
+    // Limit to top 5 edges per node to prevent hairball
+    const nodeEdgeCount = {};
+    const edges = [];
+    for (const edge of rawEdges) {
+      const sc = nodeEdgeCount[edge.source] || 0;
+      const tc = nodeEdgeCount[edge.target] || 0;
+      if (sc >= 5 && tc >= 5) continue;
+      edges.push(edge);
+      nodeEdgeCount[edge.source] = sc + 1;
+      nodeEdgeCount[edge.target] = tc + 1;
+    }
+
+    // Only include nodes that have at least one edge
+    const connectedTags = new Set();
+    for (const e of edges) {
+      connectedTags.add(e.source);
+      connectedTags.add(e.target);
+    }
+
+    const nodes = [];
+    for (const tag of connectedTags) {
+      nodes.push({
+        id: tag,
+        count: tagCounts[tag],
+        category: tagCategory[tag] || "semantic",
+      });
+    }
+
+    return {
+      nodes,
+      edges,
+      meta: {
+        generated: new Date().toISOString(),
+        totalPosts,
+        nodeCount: nodes.length,
+        edgeCount: edges.length,
+      },
     };
   });
 

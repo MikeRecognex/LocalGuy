@@ -1,0 +1,24 @@
+{
+  "daily": {
+    "2026-02-11": "Anthropic releases Claude Opus 4.6 sabotage risk assessment report.",
+    "2026-02-12": "GLM-5 model is released with 744B parameters for complex tasks.",
+    "2026-02-13": "Llama.cpp optimizations address Neoverse N2 performance issues.",
+    "2026-02-16": "Alibaba upgrades AI models ahead of DeepSeek release with GPU acceleration.",
+    "2026-02-17": "Cohere releases Tiny Aya, a 3.3B multilingual model for on-device deployment.",
+    "2026-02-18": "AMD enables Qwen 3.5 LLM on Instinct GPUs for optimized local inference performance.",
+    "2026-02-19": "Kitten TTS V0.8 offers state-of-the-art text-to-speech under 25MB.",
+    "2026-02-21": "Hugging Face acquires GGML.AI, securing llama.cpp's future.",
+    "2026-02-22": "Asus ExpertBook B3 G2 laptop features 50 TOPS AI compute for enterprise use.",
+    "2026-02-23": "GLM-5 surpasses Kimi K2.5 Thinking on the Extended NYT Connections benchmark.",
+    "2026-02-24": "Anthropic reveals distillation attacks on Claude models by DeepSeek and Moonshot AI labs.",
+    "2026-02-25": "Mirai secures $10M for on-device AI optimization using Qwen3.5 models.",
+    "2026-02-27": "Qualcomm's Snapdragon 8 Elite Gen 5 enhances on-device AI inference on Galaxy S26 series.",
+    "2026-02-28": "Krasis hybrid MoE runtime achieves 3,324 tokens/second on a single RTX 5080.",
+    "2026-03-01": "Qwen 3.5-35B-A3B model delivers efficient performance for local deployment."
+  },
+  "weekly": {
+    "2026-02-09": "<p>Big stories include the release of GLM-5, a 744B parameter MoE model, and the discovery of 175,000 publicly exposed Ollama AI servers.</p>\n<p>Don't miss \"Community Member Builds 144GB VRAM Local LLM Powerhouse\", \"Ming-flash-omni-2.0: 100B MoE Omni-Modal Model Released\", and \"Simile AI Raises $100M Series A for Local AI Infrastructure\".",
+    "2026-02-16": "<p>Alibaba's Qwen 3.5-397B model and Cohere's Tiny Aya were major releases, while InitRunner and PgCortex introduced new frameworks for AI agents and PostgreSQL integration.</p>\n<p>Notable posts include \"I broke into my own AI system in 10 minutes\" and \"24 Simultaneous Claude Code Agents on Local Hardware\", showcasing security concerns and multi-agent deployment capabilities.</p>",
+    "2026-02-23": "<p>Major stories this week include the release of Elastic's optimized embedding models for high-performance semantic search and the achievement of GLM-5 as the top open-weights model on the Extended NYT Connections benchmark with an 81.8 score.</p>\n<p>Standout posts include \"Breaking the Speed Limit: Strategies for 17k Tokens/Sec Local Inference\" and \"Qwen3.5-35B Successfully Runs on Raspberry Pi 5 at 3+ Tokens/Second\", showcasing advancements in local LLM inference performance and edge device deployment.</p>"
+  }
+}
