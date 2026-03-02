@@ -51,9 +51,16 @@ permalink: /
     </ul>
 
 <div class="clinic-cta">
+  <img src="/graphlogo.svg" alt="Topic Graph" class="clinic-cta-logo" />
+  <div>
+    <strong>New: Local LLM Topic Graph</strong> — Explore how topics relate to each other through shared articles with an interactive force-directed graph. <a href="/graph/">Explore &rarr;</a>
+  </div>
+</div>
+
+<div class="clinic-cta">
   <img src="/ambulogo.png" alt="Local LLM Clinic" class="clinic-cta-logo" />
   <div>
-    <strong>New: The Local LLM Clinic</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
+    <strong>The Local LLM Clinic</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
   </div>
 </div>
 

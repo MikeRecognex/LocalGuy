@@ -1,0 +1,61 @@
+---
+title: "Local LLM Topic Graph"
+layout: layouts/base.njk
+permalink: /graph/
+description: "How local AI topics relate to each other through shared articles — an interactive co-occurrence graph."
+---
+
+{%- set data = collections.posts | graphData %}
+
+<div class="graph-page">
+  <header class="graph-header">
+    <h1>Local LLM Topic Graph</h1>
+    <p class="graph-subtitle">How topics connect through shared articles</p>
+  </header>
+
+  <div class="graph-controls">
+    <div class="graph-legend" id="graph-legend"></div>
+    <div class="graph-slider">
+      <label for="weight-slider">Min. shared articles</label>
+      <input type="range" id="weight-slider" min="2" max="8" value="2" step="1">
+      <span id="weight-value">2</span>
+    </div>
+  </div>
+
+  <div class="graph-container" id="graph-container">
+    <svg id="graph-svg" width="100%" height="100%"></svg>
+  </div>
+
+  <div class="graph-tooltip" id="graph-tooltip"></div>
+</div>
+
+{%- set tdata = collections.posts | trendData %}
+
+<div class="trends-page">
+  <section class="trends-section">
+    <div class="trends-section-header">
+      <h2>Recent Arrivals</h2>
+      <p class="trends-section-desc">New tags that appeared for the first time in the last 10 days. Fresh signals entering the discourse.</p>
+    </div>
+    <div id="recent-arrivals" class="recent-arrivals" aria-label="Recently arrived topics"></div>
+  </section>
+
+  <section class="trends-section">
+    <div class="trends-section-header">
+      <h2>Trending This Month</h2>
+      <p class="trends-section-desc">Tags with the strongest recent momentum, ranked by velocity &times; volume.</p>
+    </div>
+    <div id="trending-list" class="trending-list" aria-label="Trending topics this month"></div>
+  </section>
+
+  <section class="trends-section">
+    <div class="trends-section-header">
+      <h2>All-Time Leaders</h2>
+      <p class="trends-section-desc">The most persistent topics across every article published.</p>
+    </div>
+    <div id="alltime-chart" class="alltime-chart" aria-label="All-time topic leaderboard"></div>
+  </section>
+</div>
+
+<script id="graph-data" type="application/json">{{ data | dump | safe }}</script>
+<script id="trend-data" type="application/json">{{ tdata | dump | safe }}</script>

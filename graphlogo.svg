@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- edges (pixel lines) -->
+  <rect x="4" y="3" width="1" height="1" fill="#4a90d9"/>
+  <rect x="5" y="4" width="1" height="1" fill="#4a90d9"/>
+  <rect x="6" y="5" width="1" height="1" fill="#4a90d9"/>
+  <rect x="7" y="6" width="1" height="1" fill="#4a90d9"/>
+
+  <rect x="10" y="3" width="1" height="1" fill="#9b59b6"/>
+  <rect x="9" y="4" width="1" height="1" fill="#9b59b6"/>
+  <rect x="8" y="5" width="1" height="1" fill="#9b59b6"/>
+  <rect x="8" y="6" width="1" height="1" fill="#9b59b6"/>
+
+  <rect x="8" y="8" width="1" height="1" fill="#e67e22"/>
+  <rect x="7" y="9" width="1" height="1" fill="#e67e22"/>
+  <rect x="6" y="10" width="1" height="1" fill="#e67e22"/>
+
+  <rect x="8" y="8" width="1" height="1" fill="#e67e22"/>
+  <rect x="9" y="9" width="1" height="1" fill="#e67e22"/>
+  <rect x="10" y="10" width="1" height="1" fill="#e67e22"/>
+
+  <rect x="4" y="8" width="1" height="1" fill="#5da0e8"/>
+  <rect x="5" y="8" width="1" height="1" fill="#5da0e8"/>
+  <rect x="6" y="7" width="1" height="1" fill="#5da0e8"/>
+
+  <!-- nodes (2x2 pixel dots) -->
+  <!-- top-left node (company blue) -->
+  <rect x="2" y="1" width="2" height="2" fill="#4a90d9"/>
+  <rect x="3" y="2" width="1" height="1" fill="#6baae8"/>
+
+  <!-- top-right node (model purple) -->
+  <rect x="11" y="1" width="2" height="2" fill="#9b59b6"/>
+  <rect x="12" y="2" width="1" height="1" fill="#b87fd4"/>
+
+  <!-- center node (green accent — the hub) -->
+  <rect x="7" y="6" width="3" height="3" fill="#4caf50"/>
+  <rect x="8" y="7" width="2" height="2" fill="#66cc6a"/>
+  <rect x="9" y="8" width="1" height="1" fill="#88e08c"/>
+
+  <!-- bottom-left node (topic green) -->
+  <rect x="3" y="11" width="2" height="2" fill="#4caf50"/>
+  <rect x="4" y="12" width="1" height="1" fill="#66cc6a"/>
+
+  <!-- bottom-right node (tool orange) -->
+  <rect x="11" y="11" width="2" height="2" fill="#e67e22"/>
+  <rect x="12" y="12" width="1" height="1" fill="#f0943a"/>
+
+  <!-- left node (semantic) -->
+  <rect x="1" y="7" width="2" height="2" fill="#4caf50"/>
+  <rect x="2" y="8" width="1" height="1" fill="#66cc6a"/>
+</svg>

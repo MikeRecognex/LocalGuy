@@ -1642,8 +1642,8 @@ footer p:last-child a:hover {
   --trend-cat-company: #4a90d9;
   --trend-cat-model: #9b59b6;
   --trend-cat-tool: #e67e22;
-  --trend-cat-topic: var(--color-accent);
-  --trend-cat-semantic: var(--color-accent);
+  --trend-cat-topic: #2ea98f;
+  --trend-cat-semantic: #2ea98f;
 }
 
 @media (prefers-color-scheme: dark) {
