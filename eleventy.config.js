@@ -249,6 +249,152 @@ module.exports = function (eleventyConfig) {
     return picked.sort((a, b) => b.count - a.count);
   });
 
+  // Trend data: rolling 30-day trending + all-time leaderboard
+  // Used by the /trends/ page to power tag velocity visualizations
+  eleventyConfig.addFilter("trendData", (posts) => {
+    const taxonomy = require("./_data/tag-taxonomy.js");
+
+    const aliases = {
+      benchmark: "benchmarks",
+      "edge-inference": "edge-deployment",
+      "on-device": "edge-deployment",
+      "open-weights": "open-source",
+      inference: null,
+    };
+
+    // Build category lookup from taxonomy
+    const tagCategory = {};
+    for (const [cat, entries] of Object.entries(taxonomy)) {
+      for (const slug of Object.keys(entries)) {
+        tagCategory[slug] = cat;
+      }
+    }
+
+    const now = new Date();
+    // Week boundaries: 4 weeks, oldest first
+    const weekBounds = [];
+    for (let i = 3; i >= 0; i--) {
+      const start = new Date(now);
+      start.setDate(start.getDate() - (i + 1) * 7);
+      start.setHours(0, 0, 0, 0);
+      const end = new Date(now);
+      end.setDate(end.getDate() - i * 7);
+      end.setHours(23, 59, 59, 999);
+      weekBounds.push({ start, end });
+    }
+    const thirtyDaysAgo = weekBounds[0].start;
+
+    const tagData = {};
+    const exclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts", "guides"]);
+    for (const tag of classifierTags) exclude.add(tag);
+
+    for (const post of posts) {
+      const postDate = new Date(post.date);
+      for (let tag of post.data.tags || []) {
+        if (tag in aliases) tag = aliases[tag];
+        if (tag === null || exclude.has(tag)) continue;
+
+        if (!tagData[tag]) {
+          tagData[tag] = { total: 0, weeks: [0, 0, 0, 0], last30: 0 };
+        }
+        tagData[tag].total++;
+
+        if (postDate >= thirtyDaysAgo) {
+          tagData[tag].last30++;
+          for (let w = 0; w < 4; w++) {
+            if (postDate >= weekBounds[w].start && postDate <= weekBounds[w].end) {
+              tagData[tag].weeks[w]++;
+              break;
+            }
+          }
+        }
+      }
+    }
+
+    // Remove tags appearing in >8% of articles (generic "local AI vocabulary")
+    const totalPosts = posts.length || 1;
+    const noiseFloor = new Set();
+    for (const [tag, d] of Object.entries(tagData)) {
+      if (d.total / totalPosts > 0.08) noiseFloor.add(tag);
+    }
+
+    // Trending: velocity = weighted recent / weighted older
+    const trending = [];
+    for (const [tag, data] of Object.entries(tagData)) {
+      if (data.last30 < 2) continue;
+      if (noiseFloor.has(tag)) continue;
+      const recentWeight = data.weeks[3] * 1.0 + data.weeks[2] * 0.7;
+      const olderWeight = data.weeks[1] * 0.5 + data.weeks[0] * 0.3;
+      const velocity = recentWeight / (olderWeight + 1);
+      const score = velocity * Math.sqrt(data.last30);
+
+      trending.push({
+        tag,
+        count: data.last30,
+        total: data.total,
+        velocity: Math.round(velocity * 100) / 100,
+        score: Math.round(score * 100) / 100,
+        weeks: data.weeks,
+        category: tagCategory[tag] || "semantic",
+      });
+    }
+    trending.sort((a, b) => b.score - a.score);
+
+    // Recent arrivals: tags that first appeared in the last 10 days
+    // These are novel signals — new models, techniques, tools entering the discourse
+    const tenDaysAgo = new Date(now);
+    tenDaysAgo.setDate(tenDaysAgo.getDate() - 10);
+    tenDaysAgo.setHours(0, 0, 0, 0);
+
+    // Find each tag's earliest appearance
+    const tagFirstSeen = {};
+    for (const post of posts) {
+      const postDate = new Date(post.date);
+      for (let tag of post.data.tags || []) {
+        if (tag in aliases) tag = aliases[tag];
+        if (tag === null || exclude.has(tag) || noiseFloor.has(tag)) continue;
+        if (!tagFirstSeen[tag] || postDate < tagFirstSeen[tag]) {
+          tagFirstSeen[tag] = postDate;
+        }
+      }
+    }
+
+    const recentArrivals = [];
+    for (const [tag, firstSeen] of Object.entries(tagFirstSeen)) {
+      if (firstSeen < tenDaysAgo) continue;
+      const d = tagData[tag];
+      if (!d || d.total < 2 || d.total > 6) continue;
+      const cat = tagCategory[tag] || "semantic";
+      // For semantic tags, require compound terms (hyphenated) — single words are too generic
+      if (cat === "semantic" && !tag.includes("-")) continue;
+      recentArrivals.push({
+        tag,
+        count: d.total,
+        firstSeen: firstSeen.toISOString().slice(0, 10),
+        category: cat,
+      });
+    }
+    recentArrivals.sort((a, b) => b.count - a.count);
+
+    // All-time: filter singletons + noise-floor tags, sort by total
+    const allTime = Object.entries(tagData)
+      .filter(([tag, d]) => d.total >= 2 && !noiseFloor.has(tag))
+      .map(([tag, d]) => ({
+        tag,
+        count: d.total,
+        category: tagCategory[tag] || "semantic",
+      }))
+      .sort((a, b) => b.count - a.count);
+
+    return {
+      trending: trending.slice(0, 25),
+      recentArrivals: recentArrivals.slice(0, 20),
+      allTime: allTime.slice(0, 50),
+      generated: now.toISOString(),
+      window: { start: thirtyDaysAgo.toISOString(), end: now.toISOString() },
+    };
+  });
+
   eleventyConfig.addFilter("byCategory", (items, category) => {
     return items.filter((item) => item.data.category === category);
   });

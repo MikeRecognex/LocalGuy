@@ -1,0 +1,42 @@
+---
+title: "Trends"
+layout: layouts/base.njk
+permalink: /trends/
+description: "What's gaining momentum in local AI — trending topics, recent arrivals, and all-time leaders."
+---
+
+{%- set data = collections.posts | trendData %}
+
+<div class="trends-page">
+  <header class="trends-header">
+    <h1>Trends</h1>
+    <p class="trends-subtitle">What's gaining momentum in local AI</p>
+    <p class="trends-meta">Rolling 30-day window &middot; Updated at build time</p>
+  </header>
+
+  <section class="trends-section">
+    <div class="trends-section-header">
+      <h2>Recent Arrivals</h2>
+      <p class="trends-section-desc">New tags that appeared for the first time in the last 10 days. Fresh signals entering the discourse.</p>
+    </div>
+    <div id="recent-arrivals" class="recent-arrivals" aria-label="Recently arrived topics"></div>
+  </section>
+
+  <section class="trends-section">
+    <div class="trends-section-header">
+      <h2>Trending This Month</h2>
+      <p class="trends-section-desc">Tags with the strongest recent momentum, ranked by velocity &times; volume.</p>
+    </div>
+    <div id="trending-list" class="trending-list" aria-label="Trending topics this month"></div>
+  </section>
+
+  <section class="trends-section">
+    <div class="trends-section-header">
+      <h2>All-Time Leaders</h2>
+      <p class="trends-section-desc">The most persistent topics across every article published.</p>
+    </div>
+    <div id="alltime-chart" class="alltime-chart" aria-label="All-time topic leaderboard"></div>
+  </section>
+</div>
+
+<script id="trend-data" type="application/json">{{ data | dump | safe }}</script>

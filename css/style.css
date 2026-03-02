@@ -1533,6 +1533,341 @@ footer p:last-child a:hover {
   font-variant-numeric: tabular-nums;
 }
 
+/* === Trends Page === */
+:root {
+  --trend-cat-company: #4a90d9;
+  --trend-cat-model: #9b59b6;
+  --trend-cat-tool: #e67e22;
+  --trend-cat-topic: var(--color-accent);
+  --trend-cat-semantic: var(--color-accent);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --trend-cat-company: #5da0e8;
+    --trend-cat-model: #b07cc6;
+    --trend-cat-tool: #f0943a;
+  }
+}
+
+.trends-page {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+.trends-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.trends-header h1 {
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  letter-spacing: -0.03em;
+  margin-bottom: 0.25rem;
+}
+
+.trends-subtitle {
+  font-size: 1.15rem;
+  color: var(--color-muted);
+  margin-bottom: 0.25rem;
+}
+
+.trends-meta {
+  font-size: 0.78rem;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+  letter-spacing: 0.02em;
+}
+
+.trends-section {
+  margin-bottom: 3rem;
+}
+
+.trends-section-header {
+  margin-bottom: 1.25rem;
+}
+
+.trends-section-header h2 {
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.2rem;
+}
+
+.trends-section-desc {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+/* -- Recent arrivals -- */
+
+.recent-arrivals {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.arrival-chip {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.6rem 0.85rem;
+  border-radius: 6px;
+  border: 1.5px solid var(--color-border);
+  text-decoration: none;
+  color: var(--color-text);
+  background: var(--color-bg);
+  animation: trend-slide-in 0.35s ease both;
+  transition: border-color 0.15s, background 0.15s;
+  min-width: 140px;
+}
+
+.arrival-chip:hover {
+  background: var(--color-surface);
+}
+
+.arrival-name {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.arrival-meta {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 0.68rem;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+}
+
+.arrival-cat {
+  align-self: flex-start;
+  font-size: 0.6rem;
+  font-family: var(--font-mono);
+  color: #fff;
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 0.15rem;
+}
+
+.trends-empty {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  font-style: italic;
+}
+
+/* -- Trending cards -- */
+
+.trending-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.trend-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 2rem 1fr auto;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.65rem 0.75rem;
+  text-decoration: none;
+  color: var(--color-text);
+  border-radius: 4px;
+  overflow: hidden;
+  animation: trend-slide-in 0.4s ease both;
+  transition: background 0.15s;
+}
+
+.trend-card:hover {
+  background: var(--color-surface);
+}
+
+@keyframes trend-slide-in {
+  from { opacity: 0; transform: translateX(-12px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.trend-rank {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  text-align: right;
+  font-weight: 600;
+}
+
+.trend-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  opacity: 0.06;
+  border-radius: 4px;
+  pointer-events: none;
+  transition: width 0.6s ease;
+}
+
+.trend-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  z-index: 1;
+  min-width: 0;
+}
+
+.trend-tag {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.trend-stats {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+}
+
+.trend-viz {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.trend-arrow {
+  font-size: 0.65rem;
+  line-height: 1;
+}
+
+.trend-arrow--hot {
+  color: #e74c3c;
+  letter-spacing: -0.15em;
+}
+
+.trend-arrow--up {
+  color: var(--color-accent);
+}
+
+.trend-arrow--stable {
+  color: var(--color-muted);
+}
+
+.trend-arrow--down {
+  color: var(--color-muted);
+  opacity: 0.5;
+}
+
+/* -- All-time leaderboard -- */
+
+.alltime-legend {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  font-family: var(--font-mono);
+}
+
+.alltime-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.alltime-legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.alltime-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.alltime-row {
+  display: grid;
+  grid-template-columns: 10rem 1fr 2.5rem;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.35rem 0;
+  text-decoration: none;
+  color: var(--color-text);
+  animation: trend-slide-in 0.3s ease both;
+  transition: background 0.15s;
+  border-radius: 3px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.alltime-row:hover {
+  background: var(--color-surface);
+}
+
+.alltime-tag {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.alltime-bar-track {
+  height: 14px;
+  background: var(--color-surface);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.alltime-bar {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.6s ease;
+}
+
+.alltime-count {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  text-align: right;
+}
+
+/* Responsive: stack trend cards on small screens */
+@media (max-width: 480px) {
+  .trend-card {
+    grid-template-columns: 1.5rem 1fr auto;
+    gap: 0.5rem;
+    padding: 0.5rem;
+  }
+
+  .trend-stats {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .alltime-row {
+    grid-template-columns: 7rem 1fr 2rem;
+    gap: 0.5rem;
+  }
+
+  .alltime-tag {
+    font-size: 0.72rem;
+  }
+}
+
 /* === Print === */
 @media print {
   .search-overlay,
