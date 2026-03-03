@@ -21,7 +21,7 @@ mentions:
     role: tool
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Continuum addresses a pain point in local LLM deployment: maintaining consistency across inference environments as configurations, models, and dependencies evolve. Configuration drift—where production settings diverge from intended specifications—can silently degrade performance or introduce unexpected behavior changes in local inference systems.

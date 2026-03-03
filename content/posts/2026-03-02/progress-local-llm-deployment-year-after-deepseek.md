@@ -1,11 +1,10 @@
 ---
 title: "Local LLM Performance Improvements: A Year of Progress Since DeepSeek R1 Moment"
 date: 2026-03-02
-description: "Community analysis shows dramatic cost and performance improvements in running frontier-level models locally, with the same throughput as a $6000 initial DeepSeek R1 setup now achievable on much cheaper hardware."
+description: Community analysis shows dramatic cost and performance improvements in running frontier-level models locally, with the same throughput as a $6000 initial DeepSeek R1 setup now achievable on much cheaper hardware.
 tags:
   - analysis
   - benchmark
-  - bullish
   - consumer-gpu
   - cost-optimization
   - cost-reduction
@@ -24,7 +23,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 An insightful [retrospective on r/LocalLLaMA](https://i.redd.it/2ovdv238ehmg1.png) documents the dramatic acceleration in local LLM deployment capabilities over just 13 months. The analysis references a Hugging Face engineer's original benchmark showing DeepSeek R1 running at Q8 quantization with ~5 tokens/second throughput requiring approximately $6,000 in hardware investment.

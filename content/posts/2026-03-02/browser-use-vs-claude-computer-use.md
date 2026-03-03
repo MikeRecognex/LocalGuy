@@ -1,7 +1,7 @@
 ---
 title: "Browser Use vs. Claude Computer Use: Comparing Agent Automation Frameworks"
 date: 2026-03-02
-description: "A technical comparison of two emerging frameworks for autonomous agent control, relevant to deploying agentic AI systems with local or hybrid model backends."
+description: A technical comparison of two emerging frameworks for autonomous agent control, relevant to deploying agentic AI systems with local or hybrid model backends.
 tags:
   - agent-automation-frameworks
   - agent-frameworks
@@ -29,7 +29,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 As LLM agents become more practical, the choice of automation framework significantly impacts local deployment feasibility. Both Browser Use and Claude Computer Use enable models to interact with digital interfaces, but they differ in architecture, latency profiles, and suitability for on-device inference scenarios.

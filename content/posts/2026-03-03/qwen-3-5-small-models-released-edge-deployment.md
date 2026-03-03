@@ -4,7 +4,6 @@ date: 2026-03-03
 description: Alibaba's Qwen team released a new family of small multimodal models (0.8B, 2B, 4B, 9B) designed specifically for on-device and edge deployment, with demonstrated improvements across the generational progression from Qwen 2.5 to 3.5.
 tags:
   - benchmark
-  - bullish
   - consumer-mobile
   - developer
   - edge-deployment
@@ -25,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 Alibaba's Qwen team has released their latest small model family, Qwen 3.5 Small, specifically engineered for on-device applications. The lineup includes models at 0.8B, 2B, 4B, and 9B parameters, with each size offering significant improvements over previous Qwen generations. Community members report that even the smallest 0.8B variant demonstrates surprisingly capable performance for local inference scenarios.

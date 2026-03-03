@@ -1,10 +1,9 @@
 ---
-title: "Jan Releases Code-Tuned 4B Model for Efficient Local Code Generation and Development Tasks"
+title: Jan Releases Code-Tuned 4B Model for Efficient Local Code Generation and Development Tasks
 date: 2026-03-02
-description: "The Jan team open-sources Jan-Code-4B, a specialized 4-billion parameter model fine-tuned for code generation, refactoring, debugging, and test writing while optimizing for local deployment and efficiency."
+description: The Jan team open-sources Jan-Code-4B, a specialized 4-billion parameter model fine-tuned for code generation, refactoring, debugging, and test writing while optimizing for local deployment and efficiency.
 tags:
   - analysis
-  - bullish
   - code-assistance
   - code-generation
   - consumer-gpu
@@ -24,7 +23,7 @@ tags:
 mentions:
   - name: Jan
     role: developer
-status: draft
+status: published
 ---
 
 The Jan team has [released Jan-Code-4B](https://i.redd.it/hv4jtfpdxkmg1.png), a specialized code-tuned language model built on the Jan-v3-4B base architecture. This represents a targeted approach to local model optimization: rather than attempting general-purpose capability at minimal parameter count, the team focused fine-tuning efforts specifically on developer workflows including code generation, refactoring, debugging, and test writing.

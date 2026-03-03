@@ -5,7 +5,6 @@ description: A technical deep-dive into constructing a minimal LLM inference sta
 tags:
   - advanced
   - analysis
-  - bullish
   - custom-hardware
   - custom-os-deployment
   - custom-os-llm
@@ -24,7 +23,7 @@ tags:
 mentions:
   - name: Hackaday
     role: publisher
-status: draft
+status: published
 ---
 
 This project pushes the boundaries of local LLM deployment by building an inference stack with zero external dependencies on a custom operating system. By removing the abstraction layers typically provided by frameworks like PyTorch or TensorFlow, developers can optimize every aspect of model execution for their specific hardware.

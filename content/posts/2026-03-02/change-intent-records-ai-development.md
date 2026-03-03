@@ -1,12 +1,11 @@
 ---
 title: "Change Intent Records: The Missing Artifact in AI-Assisted Development"
 date: 2026-03-02
-description: "An exploration of how explicitly recording developer intent during AI-assisted coding can improve local model fine-tuning and create better training signals for specialized inference models."
+description: An exploration of how explicitly recording developer intent during AI-assisted coding can improve local model fine-tuning and create better training signals for specialized inference models.
 tags:
   - advanced
   - ai-assisted-development
   - analysis
-  - bullish
   - change-intent-records
   - daily-digest
   - developer

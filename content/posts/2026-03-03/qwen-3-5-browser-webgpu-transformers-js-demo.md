@@ -5,7 +5,6 @@ description: A practical demonstration of running Qwen 3.5's smallest 0.8B multi
 tags:
   - browser-based-inference
   - browser-inference
-  - bullish
   - client-side-inference
   - consumer-gpu
   - cost-optimization
@@ -20,7 +19,7 @@ tags:
   - transformers-js
   - web-ai-integration
   - webgpu
-status: draft
+status: published
 ---
 
 A developer successfully implemented Qwen 3.5 0.8B as a fully functional browser-based inference demo using WebGPU and Transformers.js, showcasing the viability of running multimodal models entirely client-side. This implementation eliminates the need for backend servers or cloud APIs, keeping user data and computation fully local.

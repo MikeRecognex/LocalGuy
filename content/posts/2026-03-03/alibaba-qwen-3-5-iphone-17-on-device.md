@@ -5,7 +5,6 @@ description: Alibaba releases Qwen 3.5, a lightweight AI model optimized for on-
 tags:
   - analysis
   - apple-silicon
-  - bullish
   - developer
   - edge-ai
   - edge-device
@@ -24,7 +23,7 @@ tags:
   - release
   - resource-efficiency
   - small-language-models
-status: draft
+status: published
 ---
 
 Alibaba has unveiled Qwen 3.5, a compact language model explicitly engineered for on-device execution on the iPhone 17. This release marks a significant milestone in mobile AI deployment, showing that practical, capable models can run entirely locally without relying on cloud infrastructure or server-side inference.

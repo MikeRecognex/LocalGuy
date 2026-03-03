@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: wccftech.com
     role: publisher
-status: draft
+status: published
 ---
 
 Intel's Arc Pro B70 discrete GPU has been officially confirmed through vLLM release notes, providing professional workstation users with a new inference acceleration option for local LLM deployment. The BMG-G31 architecture represents Intel's push into the professional AI computing segment, competing with NVIDIA and AMD in the discrete GPU market for inference workloads.

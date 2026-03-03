@@ -1,14 +1,14 @@
 ---
-title: "Qwen 3.5 27B Achieves 100+ Tokens/s Decode on Dual RTX 3090s with 170K Context"
+title: Qwen 3.5 27B Achieves 100+ Tokens/s Decode on Dual RTX 3090s with 170K Context
 date: 2026-03-02
-description: "A developer demonstrates exceptional inference performance running Qwen 3.5 27B dense with 170K context window at 100+ tokens/second decode speed and 1500 tokens/second prefill on dual RTX 3090 GPUs, with optimizations supporting 8 simultaneous requests at 585 tokens/second throughput."
+description: A developer demonstrates exceptional inference performance running Qwen 3.5 27B dense with 170K context window at 100+ tokens/second decode speed and 1500 tokens/second prefill on dual RTX 3090 GPUs, with optimizations supporting 8 simultaneous requests at 585 tokens/second throughput.
 tags:
   - daily-digest
   - quantisation
   - performance-benchmark
   - qwen
   - hardware
-status: draft
+status: published
 ---
 
 A significant performance breakthrough has emerged for local Qwen 3.5 deployment. [A developer on r/LocalLLaMA](https://v.redd.it/kkbjdu2x6img1) has successfully optimized the Qwen 3.5 27B dense model to achieve 100+ tokens/second decode speed with a massive 170K context window on just dual RTX 3090 GPUs—hardware that's becoming increasingly accessible in the secondhand market.

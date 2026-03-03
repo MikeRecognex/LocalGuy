@@ -1,11 +1,10 @@
 ---
-title: "HP ZBook Ultra 14 G1a Workstation Reclaims Local AI Workflows for Professionals"
+title: HP ZBook Ultra 14 G1a Workstation Reclaims Local AI Workflows for Professionals
 date: 2026-03-02
-description: "A detailed review of the HP ZBook Ultra 14 G1a demonstrates how modern workstation-class laptops enable practical local AI model deployment for professional workflows. The review evaluates performance and suitability for on-device inference tasks."
+description: A detailed review of the HP ZBook Ultra 14 G1a demonstrates how modern workstation-class laptops enable practical local AI model deployment for professional workflows. The review evaluates performance and suitability for on-device inference tasks.
 tags:
   - analysis
   - benchmark
-  - bullish
   - cloud-to-local-transition
   - consumer-gpu
   - daily-digest
@@ -30,7 +29,7 @@ tags:
   - workstation
   - workstation-hardware
   - workstation-laptop
-status: draft
+status: published
 ---
 
 The HP ZBook Ultra 14 G1a review highlights how professional workstation hardware has matured to support practical local LLM deployment as a primary workflow tool rather than a niche use case. Workstation-class devices offer the combination of CPU power, GPU acceleration, and substantial RAM needed to run meaningful language models locally without bottlenecks. This represents a shift in how professionals approach AI tooling—moving away from cloud-dependent services toward self-hosted inference.

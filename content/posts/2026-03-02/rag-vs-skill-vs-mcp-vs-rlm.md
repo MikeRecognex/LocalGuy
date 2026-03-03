@@ -1,11 +1,10 @@
 ---
 title: "RAG vs. Skill vs. MCP vs. RLM: Comparing LLM Enhancement Patterns"
 date: 2026-03-02
-description: "A comparative analysis of four major architectural patterns for augmenting LLMs with external knowledge and capabilities, helping developers choose the right approach for their local deployment needs."
+description: A comparative analysis of four major architectural patterns for augmenting LLMs with external knowledge and capabilities, helping developers choose the right approach for their local deployment needs.
 tags:
   - agents
   - architecture
-  - bullish
   - comparison
   - daily-digest
   - developer
@@ -23,7 +22,7 @@ tags:
   - retrieval-augmented-generation
   - retrieval-language-models
   - skill-based-llms
-status: draft
+status: published
 ---
 
 Understanding the trade-offs between different LLM augmentation strategies is crucial for building effective local AI systems. This analysis compares Retrieval-Augmented Generation (RAG), skill-based approaches, Model Context Protocol (MCP), and Retrieval Language Models (RLM), each offering different benefits for local deployment scenarios.

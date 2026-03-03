@@ -23,7 +23,7 @@ tags:
   - rag-pipelines
   - tool-use
   - vllm
-status: draft
+status: published
 ---
 
 A community member highlighted critical differences in how various local inference frameworks handle Qwen 3.5 models, particularly regarding chain-of-thought reasoning, tool calling, and response quality. Testing revealed that llama.cpp, transformers, vLLM, and SGLang reliably support Qwen 3.5's advanced features, while Ollama and similar wrapper frameworks showed degraded performance with broken tool calls and incomplete reasoning outputs.

@@ -9,7 +9,6 @@ tags:
   - api-independence
   - application-development
   - benchmarks
-  - bullish
   - enterprise
   - llm-advancement
   - llm-reasoning
@@ -24,7 +23,7 @@ mentions:
     role: computer science legend
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 This milestone—a frontier LLM solving a problem specifically posed by Don Knuth—signals important progress in LLM reasoning capabilities. While the models involved (Claude Opus 4.6) may not yet be available for local deployment, breakthroughs at the frontier inform the trajectory of models that eventually become available for local inference.

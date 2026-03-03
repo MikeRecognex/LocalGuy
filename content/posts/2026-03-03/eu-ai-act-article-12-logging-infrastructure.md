@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 As local LLM deployments move toward production use, regulatory compliance becomes increasingly important. The EU AI Act Article 12 requires specific logging and documentation practices for high-risk AI systems. This open-source logging infrastructure removes barriers to compliance for local deployments, particularly for European developers.

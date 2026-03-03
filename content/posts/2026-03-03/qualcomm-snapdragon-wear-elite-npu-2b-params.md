@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Gizmochina
     role: publisher
-status: draft
+status: published
 ---
 
 Qualcomm has introduced the Snapdragon Wear Elite platform, featuring a specialized Neural Processing Unit (NPU) capable of handling 2 billion-parameter models on wearable devices. This represents a major step forward in bringing practical AI inference to form factors far more constrained than smartphones or laptops, opening the door to always-on personal AI assistants directly on smartwatches, pins, and pendant-style devices.

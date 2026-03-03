@@ -25,7 +25,7 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 VibeWhisper brings voice-to-text capabilities to macOS with a critical feature for local LLM practitioners: the ability to run entirely on-device without cloud API calls. The push-to-talk interface provides a practical UX pattern for voice input, while maintaining privacy and reducing latency compared to cloud-based transcription services.

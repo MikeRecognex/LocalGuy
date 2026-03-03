@@ -4,7 +4,6 @@ date: 2026-03-03
 description: AMD unveils Ryzen AI 400 series desktop processors featuring up to 12 cores and an integrated Radeon 890M GPU with a 60 TOPS NPU. These processors enable local LLM inference on standard desktop machines with Copilot+ support.
 tags:
   - amd
-  - bullish
   - consumer-gpu
   - copilot-plus
   - copilot-plus-integration
@@ -25,7 +24,7 @@ tags:
 mentions:
   - name: Tweaktown
     role: publisher
-status: draft
+status: published
 ---
 
 AMD has launched the Ryzen AI 400 series desktop processors at MWC 2026, bringing substantial neural processing capabilities to mainstream desktop machines. The lineup features up to 12 cores, integrated Radeon GPUs, and a 60 TOPS NPU—a dramatic increase from previous generations—making these processors ideal for local LLM inference without dedicated discrete graphics cards.

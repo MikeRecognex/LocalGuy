@@ -5,7 +5,6 @@ description: Comprehensive benchmark visualization comparing all Qwen 3.5 models
 tags:
   - benchmark
   - benchmark-report
-  - bullish
   - comparison
   - cost-optimization
   - developer
@@ -23,7 +22,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 A community member aggregated official Qwen benchmark scores from both generation releases and created a visual comparison showing how Qwen 3.5 models stack against their Qwen 3 predecessors across all available size tiers. The visualization clearly demonstrates consistent improvements in capability across reasoning, coding, mathematics, and knowledge-based tasks.
