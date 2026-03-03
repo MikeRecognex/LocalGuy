@@ -1,13 +1,28 @@
 ---
 title: "Qwen 3.5 vs Qwen 3 Benchmark Analysis: Generational Performance Improvements Visualized"
 date: 2026-03-03
-description: "Comprehensive benchmark visualization comparing all Qwen 3.5 models against Qwen 3 predecessors, showing measurable improvements across reasoning, coding, and knowledge tasks at each size tier."
+description: Comprehensive benchmark visualization comparing all Qwen 3.5 models against Qwen 3 predecessors, showing measurable improvements across reasoning, coding, and knowledge tasks at each size tier.
 tags:
-  - daily-digest
-  - qwen
   - benchmark
+  - benchmark-report
+  - bullish
   - comparison
+  - cost-optimization
+  - developer
+  - fine-tuning
+  - infrastructure-planning
+  - intermediate
+  - llm-capabilities
+  - model-comparison
+  - model-evaluation
+  - model-selection
+  - model-upgrades
   - performance
+  - performance-benchmarking
+  - qwen
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

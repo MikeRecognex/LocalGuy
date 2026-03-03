@@ -3,11 +3,29 @@ title: "AMD Expands Ryzen AI 400 Series Portfolio for Consumer and Enterprise AI
 date: 2026-03-02
 description: "AMD announced an expanded lineup of Ryzen AI 400 Series processors, bringing more hardware options for local AI inference across consumer laptops and business workstations. The expansion increases accessibility of dedicated NPU hardware for on-device LLM deployment."
 tags:
-  - daily-digest
-  - hardware
   - amd
-  - npu
+  - analysis
+  - bullish
+  - cpu-only
+  - custom-asic
+  - daily-digest
+  - developer
+  - edge-device
+  - enterprise
+  - hardware
   - inference
+  - inference-frameworks
+  - intermediate
+  - local-llm-deployment
+  - new-hardware
+  - npu
+  - npu-acceleration
+  - on-device-inference
+  - performance-optimization
+  - privacy-compliance
+  - processor-variants
+  - release
+  - software-ecosystem
 status: draft
 ---
 

@@ -1,13 +1,32 @@
 ---
-title: "Intel Arc Pro B70 Workstation GPU Confirmed via vLLM AI Release Notes"
+title: Intel Arc Pro B70 Workstation GPU Confirmed via vLLM AI Release Notes
 date: 2026-03-03
-description: "Intel's Arc Pro B70 discrete GPU receives official support in vLLM release notes, expanding local LLM inference options for professional workstations. The BMG-G31 architecture targets professional AI computing workflows."
+description: Intel's Arc Pro B70 discrete GPU receives official support in vLLM release notes, expanding local LLM inference options for professional workstations. The BMG-G31 architecture targets professional AI computing workflows.
 tags:
-  - daily-digest
-  - hardware
-  - vllm
+  - analysis
+  - batch-inference
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - datacenter-gpu
+  - developer
+  - gpu-hardware
   - gpu-inference
+  - hardware
+  - hardware-diversification
+  - intermediate
+  - local-inference
+  - multi-vendor-gpu-support
+  - news
+  - on-device-ai-deployment
+  - performance-optimization
+  - vllm
+  - vllm-support
   - workstation
+  - workstation-ai
+mentions:
+  - name: wccftech.com
+    role: publisher
 status: draft
 ---
 

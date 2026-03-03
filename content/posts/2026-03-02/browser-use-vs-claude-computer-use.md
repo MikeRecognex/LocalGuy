@@ -3,11 +3,32 @@ title: "Browser Use vs. Claude Computer Use: Comparing Agent Automation Framewor
 date: 2026-03-02
 description: "A technical comparison of two emerging frameworks for autonomous agent control, relevant to deploying agentic AI systems with local or hybrid model backends."
 tags:
-  - daily-digest
+  - agent-automation-frameworks
+  - agent-frameworks
+  - agentic-ai-deployment
   - agents
-  - tools
-  - deployment
+  - analysis
   - automation
+  - comparison
+  - consumer-gpu
+  - cpu-only
+  - daily-digest
+  - deployment
+  - developer
+  - infrastructure-management
+  - intermediate
+  - latency-optimization
+  - local-deployment
+  - local-llm-evaluation
+  - neutral
+  - on-device-inference
+  - privacy-compliance
+  - tools
+mentions:
+  - name: Techstackups
+    role: publisher
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

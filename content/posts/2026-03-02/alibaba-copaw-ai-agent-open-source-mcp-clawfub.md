@@ -3,11 +3,28 @@ title: "Alibaba's Open-Source CoPaw AI Agent Now Compatible with MCP and ClawHub
 date: 2026-03-02
 description: "Alibaba released CoPaw, an open-source AI agent framework compatible with Model Context Protocol (MCP) and ClawHub skills, enabling modular and extensible local deployment of agentic systems. The framework follows OpenAI's OpenClaw-like architecture."
 tags:
-  - daily-digest
+  - advanced
+  - agent-skills
+  - agentic-ai
   - agents
-  - open-source
-  - mcp
+  - ai-agent-framework
+  - ai-workflow-orchestration
   - alibaba
+  - bullish
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - intermediate
+  - local-deployment
+  - mcp
+  - model-context-protocol
+  - open-source
+  - open-source-ai
+  - release
+  - self-hosted-ai
+  - showcase
+  - tool-use
 status: draft
 ---
 

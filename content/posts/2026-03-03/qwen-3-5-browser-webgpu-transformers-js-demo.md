@@ -1,13 +1,25 @@
 ---
-title: "Qwen 3.5 0.8B Running in Browser with WebGPU via Transformers.js"
+title: Qwen 3.5 0.8B Running in Browser with WebGPU via Transformers.js
 date: 2026-03-03
-description: "A practical demonstration of running Qwen 3.5's smallest 0.8B multimodal model directly in the browser using WebGPU and Transformers.js, eliminating backend requirements for inference."
+description: A practical demonstration of running Qwen 3.5's smallest 0.8B multimodal model directly in the browser using WebGPU and Transformers.js, eliminating backend requirements for inference.
 tags:
-  - daily-digest
-  - qwen
-  - webgpu
+  - browser-based-inference
   - browser-inference
+  - bullish
+  - client-side-inference
+  - consumer-gpu
+  - cost-optimization
+  - developer
+  - intermediate
+  - multimodal-inference
   - open-source
+  - privacy-focused-ai
+  - qwen
+  - regulatory-compliance
+  - showcase
+  - transformers-js
+  - web-ai-integration
+  - webgpu
 status: draft
 ---
 

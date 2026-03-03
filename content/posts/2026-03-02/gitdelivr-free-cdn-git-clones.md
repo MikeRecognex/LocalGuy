@@ -3,10 +3,33 @@ title: "GitDelivr: A Free CDN for Git Clones Built on Cloudflare Workers and R2"
 date: 2026-03-02
 description: "A new infrastructure tool that accelerates large model repository downloads using Cloudflare's edge network, addressing a practical bottleneck for developers downloading LLM weights and codebases locally."
 tags:
+  - bandwidth-optimization
+  - bullish
+  - cdn-for-model-delivery
+  - cost-saving
+  - cpu-only
   - daily-digest
-  - infrastructure
   - deployment
+  - developer
+  - edge-device
+  - git-workflow-optimization
+  - infrastructure
+  - intermediate
+  - llm-deployment
+  - local-llm-deployment
+  - model-download-acceleration
   - open-source
+  - release
+  - scalability
+  - serverless-architecture
+  - showcase
+mentions:
+  - name: GitDelivr
+    role: service provider
+  - name: GitDelivr
+    role: service provider
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

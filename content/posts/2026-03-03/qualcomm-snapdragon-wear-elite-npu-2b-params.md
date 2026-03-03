@@ -1,13 +1,31 @@
 ---
 title: "Qualcomm Snapdragon Wear Elite: 2B Parameter NPU for Personal AI Wearables"
 date: 2026-03-03
-description: "Qualcomm unveils Snapdragon Wear Elite with a dedicated 2 billion-parameter NPU designed for AI inference on smartwatches and wearables. The platform enables always-on personal AI assistants with 30% improved battery efficiency."
+description: Qualcomm unveils Snapdragon Wear Elite with a dedicated 2 billion-parameter NPU designed for AI inference on smartwatches and wearables. The platform enables always-on personal AI assistants with 30% improved battery efficiency.
 tags:
-  - daily-digest
-  - hardware
-  - wearables
+  - ai-on-wearables
+  - battery-efficiency
+  - bullish
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - hardware
+  - hardware-fragmentation
+  - intermediate
+  - local-llm-deployment
+  - mobile-npu
+  - model-optimization
+  - news
   - npu
+  - npu-architecture
+  - npu-hardware
+  - personal-ai
+  - release
+  - wearables
+mentions:
+  - name: Gizmochina
+    role: publisher
 status: draft
 ---
 

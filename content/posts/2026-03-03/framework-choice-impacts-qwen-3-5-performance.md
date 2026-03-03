@@ -1,13 +1,28 @@
 ---
 title: "Framework Choice Critical: llama.cpp and vLLM Outperform Ollama for Qwen 3.5 Testing"
 date: 2026-03-03
-description: "Community PSA reveals significant performance and correctness differences between local inference frameworks when running Qwen 3.5 models, with llama.cpp, transformers, vLLM, and SGLang producing correct results while Ollama shows issues with reasoning and tool use."
+description: Community PSA reveals significant performance and correctness differences between local inference frameworks when running Qwen 3.5 models, with llama.cpp, transformers, vLLM, and SGLang producing correct results while Ollama shows issues with reasoning and tool use.
 tags:
-  - daily-digest
-  - llama-cpp
-  - ollama
-  - vllm
+  - abstraction-layer-issues
+  - advanced
+  - agentic-ai
+  - analysis
+  - cautious
+  - chain-of-thought-reasoning
+  - comparison
+  - developer
   - inference-framework
+  - llama-cpp
+  - local-inference-frameworks
+  - model-evaluation-discrepancies
+  - model-evaluation-frameworks
+  - neutral
+  - ollama
+  - performance-benchmarking
+  - qwen-models
+  - rag-pipelines
+  - tool-use
+  - vllm
 status: draft
 ---
 

@@ -1,13 +1,29 @@
 ---
-title: "Building a Dependency-Free GPT on a Custom OS"
+title: Building a Dependency-Free GPT on a Custom OS
 date: 2026-03-03
-description: "A technical deep-dive into constructing a minimal LLM inference stack from scratch, eliminating external dependencies and optimizing for custom hardware. Demonstrates extreme edge-case optimization for resource-constrained environments."
+description: A technical deep-dive into constructing a minimal LLM inference stack from scratch, eliminating external dependencies and optimizing for custom hardware. Demonstrates extreme edge-case optimization for resource-constrained environments.
 tags:
-  - daily-digest
-  - optimization
-  - minimal-stack
-  - edge-inference
+  - advanced
+  - analysis
+  - bullish
   - custom-hardware
+  - custom-os-deployment
+  - custom-os-llm
+  - dependency-free-llm
+  - developer
+  - edge-device
+  - edge-inference
+  - edge-optimization
+  - embedded-ai
+  - hardware-specific-optimization
+  - local-inference-optimization
+  - minimal-inference-stack
+  - minimal-stack
+  - optimization
+  - showcase
+mentions:
+  - name: Hackaday
+    role: publisher
 status: draft
 ---
 

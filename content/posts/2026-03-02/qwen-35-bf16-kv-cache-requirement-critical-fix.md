@@ -3,11 +3,29 @@ title: "Critical: Qwen 3.5 Requires BF16 KV Cache, Not FP16 for Accurate Inferen
 date: 2026-03-02
 description: "Community member Daniel Han alerts users that Qwen 3.5 models require bfloat16 KV cache precision instead of the default float16, with perplexity measurements demonstrating the accuracy impact when using incorrect cache formats."
 tags:
+  - advanced
+  - analysis
+  - cautious
   - daily-digest
-  - qwen
-  - quantisation
+  - developer
+  - inference-engine
+  - kv-cache-precision
   - llama-cpp
+  - long-context-inference
+  - model-accuracy
+  - model-compatibility
+  - model-optimization
+  - model-performance
+  - news
   - optimization
+  - quantisation
+  - qwen
+  - qwen-models
+mentions:
+  - name: Daniel Han
+    role: community member
+  - name: r/LocalLLaMA
+    role: source
 status: draft
 ---
 

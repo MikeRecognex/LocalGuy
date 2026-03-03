@@ -3,11 +3,27 @@ title: "Running Local AI Models on Mac Studio 128GB: 4B, 20B & 120B Tested"
 date: 2026-03-02
 description: "A comprehensive benchmark test evaluated performance of local LLM inference on Mac Studio with 128GB memory, testing models ranging from 4B to 120B parameters. Results provide practical guidance for practitioners evaluating local deployment on Apple's high-end hardware."
 tags:
-  - daily-digest
+  - advanced
+  - apple-silicon
+  - apple-silicon-optimization
+  - apple-silicon-performance
   - benchmark
-  - mlx
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - developer
+  - hardware-software-optimization
+  - intermediate
+  - local-llm-deployment
+  - local-llm-inference
   - mac
+  - mlx
+  - mlx-framework
+  - model-quantization
+  - model-scaling
+  - performance-benchmarking
   - quantisation
+  - quantization
 status: draft
 ---
 

@@ -94,7 +94,7 @@ function collectPosts() {
     for (const file of files) {
       const raw = fs.readFileSync(path.join(dirPath, file), "utf8");
       const { data } = matter(raw);
-      if (data.status !== "published") continue;
+      if (data.status !== "published" && data.status !== "draft") continue;
       const dateKey =
         typeof data.date === "string"
           ? data.date.slice(0, 10)
@@ -156,13 +156,13 @@ async function main() {
     if (targetDate && dateKey !== targetDate) { dailySkipped++; continue; }
     if (targetWeek && getMonday(dateKey) !== targetWeek) { dailySkipped++; continue; }
     if (sinceDate && dateKey < sinceDate) { dailySkipped++; continue; }
-    // In incremental mode (no targeting flags), skip existing
-    if (!force && !targetDate && !sinceDate && summaries.daily[dateKey]) {
+    const dayPosts = dateGroups[dateKey];
+    // In incremental mode: skip if summary exists and post count hasn't changed
+    const existing = summaries.daily[dateKey];
+    if (!force && !targetDate && !sinceDate && existing && existing.postCount === dayPosts.length) {
       dailySkipped++;
       continue;
     }
-
-    const dayPosts = dateGroups[dateKey];
     const listing = dayPosts
       .map((p) => `- "${p.title}": ${p.description}`)
       .join("\n");
@@ -188,7 +188,7 @@ async function main() {
       ],
       0.3
     );
-    summaries.daily[dateKey] = content.trim();
+    summaries.daily[dateKey] = { text: content.trim(), postCount: dayPosts.length };
     dailyGenerated++;
     await sleep(DELAY_MS);
   }
@@ -203,14 +203,15 @@ async function main() {
     }
     if (targetWeek && weekKey !== targetWeek) { weeklySkipped++; continue; }
     if (sinceDate && weekKey < getMonday(sinceDate)) { weeklySkipped++; continue; }
-    // In incremental mode (no targeting flags), skip existing
-    if (!force && !targetDate && !targetWeek && !sinceDate && summaries.weekly[weekKey]) {
-      weeklySkipped++;
-      continue;
-    }
 
     const weekDates = weekGroups[weekKey];
     const allPosts = Object.values(weekDates).flat();
+    // In incremental mode: skip if summary exists and post count hasn't changed
+    const existingWeek = summaries.weekly[weekKey];
+    if (!force && !targetDate && !targetWeek && !sinceDate && existingWeek && existingWeek.postCount === allPosts.length) {
+      weeklySkipped++;
+      continue;
+    }
     const listing = allPosts
       .map((p) => `- "${p.title}": ${p.description}`)
       .join("\n");
@@ -240,7 +241,7 @@ async function main() {
       ],
       0.4
     );
-    summaries.weekly[weekKey] = content.trim();
+    summaries.weekly[weekKey] = { text: content.trim(), postCount: allPosts.length };
     weeklyGenerated++;
     await sleep(DELAY_MS);
   }

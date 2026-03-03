@@ -3,11 +3,27 @@ title: "Qualcomm Launches Snapdragon Wear Elite for On-Device AI on Wearables"
 date: 2026-03-02
 description: "Qualcomm unveiled the Snapdragon Wear Elite chip at MWC 2026, bringing dedicated on-device AI capabilities to smartwatches and wearables. This represents a significant upgrade in edge inference capabilities for constrained devices."
 tags:
+  - arm-processor
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-device
   - edge-inference
-  - wearables
+  - hardware
+  - inference-optimization
+  - intermediate
+  - local-inference
+  - low-latency
+  - model-quantization
+  - news
+  - on-device-ai
+  - privacy-compliance
   - qualcomm
+  - release
+  - small-llms
+  - wearable-ai
+  - wearable-ai-deployment
+  - wearables
 status: draft
 ---
 

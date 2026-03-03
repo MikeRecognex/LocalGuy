@@ -1,13 +1,28 @@
 ---
-title: "Open-Source Article 12 Logging Infrastructure for the EU AI Act"
+title: Open-Source Article 12 Logging Infrastructure for the EU AI Act
 date: 2026-03-03
-description: "New open-source tooling enables compliance with EU AI Act Article 12 requirements for local LLM deployments. Essential for practitioners operating in regulated environments."
+description: New open-source tooling enables compliance with EU AI Act Article 12 requirements for local LLM deployments. Essential for practitioners operating in regulated environments.
 tags:
-  - daily-digest
+  - ai-logging
+  - ai-regulation
+  - analysis
+  - bullish
+  - business-strategy
   - compliance
+  - enterprise
   - eu-ai-act
+  - eu-ai-act-compliance
+  - intermediate
+  - local-inference-compliance
+  - local-llm-deployment
   - logging
   - open-source
+  - open-source-tooling
+  - regulatory-compliance
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

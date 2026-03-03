@@ -1,13 +1,26 @@
 ---
-title: "Continuum – CI Drift Guard for LLM Workflows"
+title: Continuum – CI Drift Guard for LLM Workflows
 date: 2026-03-03
-description: "A new tool helps detect and prevent configuration drift in LLM inference pipelines, ensuring consistency and reproducibility in local deployment environments. Critical for maintaining stable local inference setups."
+description: A new tool helps detect and prevent configuration drift in LLM inference pipelines, ensuring consistency and reproducibility in local deployment environments. Critical for maintaining stable local inference setups.
 tags:
-  - daily-digest
+  - bullish
+  - ci-cd-for-llms
+  - configuration-drift
+  - deployment-monitoring
+  - developer
+  - intermediate
   - llm-ops
-  - workflow-management
-  - reproducibility
+  - local-deployment
   - open-source
+  - production-deployment
+  - reproducibility
+  - showcase
+  - workflow-management
+mentions:
+  - name: Continuum
+    role: tool
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

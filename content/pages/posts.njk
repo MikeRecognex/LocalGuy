@@ -18,16 +18,18 @@ permalink: /posts/
       <span class="week-count">{{ week.postCount }} post{{ "s" if week.postCount != 1 }}</span>
     </summary>
 
-    {%- if summaries.weekly[week.weekKey] %}
-    <div class="week-summary">{{ summaries.weekly[week.weekKey] | safe }}</div>
+    {%- set ws = summaries.weekly[week.weekKey] %}
+    {%- if ws %}
+    <div class="week-summary">{{ (ws.text if ws.text else ws) | safe }}</div>
     {%- endif %}
 
     {%- for day in week.days %}
     <details class="day-group">
       <summary class="day-header">
         <span class="day-label">{{ day.dateKey | shortDate }}</span>
-        {%- if summaries.daily[day.dateKey] %}
-        <span class="day-highlight">{{ summaries.daily[day.dateKey] }}</span>
+        {%- set ds = summaries.daily[day.dateKey] %}
+        {%- if ds %}
+        <span class="day-highlight">{{ ds.text if ds.text else ds }}</span>
         {%- endif %}
       </summary>
       <ul class="post-list">

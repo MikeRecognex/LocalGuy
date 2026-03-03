@@ -3,11 +3,26 @@ title: "RAG vs. Skill vs. MCP vs. RLM: Comparing LLM Enhancement Patterns"
 date: 2026-03-02
 description: "A comparative analysis of four major architectural patterns for augmenting LLMs with external knowledge and capabilities, helping developers choose the right approach for their local deployment needs."
 tags:
-  - daily-digest
-  - architecture
-  - rag
-  - mcp
   - agents
+  - architecture
+  - bullish
+  - comparison
+  - daily-digest
+  - developer
+  - infrastructure-optimization
+  - intermediate
+  - llm-architectures
+  - llm-augmentation-patterns
+  - local-deployment
+  - local-llm-deployment
+  - mcp
+  - model-context-protocol
+  - model-extension-patterns
+  - neutral
+  - rag
+  - retrieval-augmented-generation
+  - retrieval-language-models
+  - skill-based-llms
 status: draft
 ---
 

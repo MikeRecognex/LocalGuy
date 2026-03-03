@@ -3,11 +3,26 @@ title: "C7: Pipe Up-to-Date Library Docs Into Any LLM From the Terminal"
 date: 2026-03-02
 description: "A new CLI tool that enables developers to inject current library documentation directly into local LLMs, improving context quality for code generation and assistance tasks without relying on cloud APIs."
 tags:
+  - bullish
+  - cli-tools
+  - code-generation
+  - context-management
+  - cost-saving
   - daily-digest
-  - open-source
-  - tools
-  - local-inference
+  - developer
   - developer-experience
+  - documentation-integration
+  - intermediate
+  - local-inference
+  - local-model-utility
+  - offline-llm-use
+  - open-source
+  - privacy-preserving-ai
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 
