@@ -1,13 +1,31 @@
 ---
 title: "Incrmd: Incremental AI Coding by Editing PROJECT.md"
 date: 2026-03-04
-description: "A novel approach to AI-assisted development that uses a PROJECT.md file as a specification interface, enabling incremental, reproducible code generation with local LLMs. Optimizes LLM context and reasoning through structured markdown specifications."
+description: A novel approach to AI-assisted development that uses a PROJECT.md file as a specification interface, enabling incremental, reproducible code generation with local LLMs. Optimizes LLM context and reasoning through structured markdown specifications.
 tags:
-  - daily-digest
   - agents
+  - ai-assisted-coding
+  - ai-assisted-development
+  - bullish
+  - code-generation
+  - code-generation-workflow
+  - configuration-as-code
+  - context-window-optimization
+  - developer
+  - developer-productivity
   - development-tools
-  - open-source
   - fine-tuning
+  - intermediate
+  - llm-prompt-engineering
+  - local-llm-development
+  - local-model-efficiency
+  - open-source
+  - showcase
+mentions:
+  - name: Incrmd
+    role: tool
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

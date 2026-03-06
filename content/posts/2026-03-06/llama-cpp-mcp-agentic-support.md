@@ -1,13 +1,29 @@
 ---
-title: "llama.cpp Merges Agentic Loop and MCP Client Support"
+title: llama.cpp Merges Agentic Loop and MCP Client Support
 date: 2026-03-06
-description: "A major pull request adding Model Context Protocol (MCP) client support with agentic loops and tool/resource/prompt capabilities has been merged into llama.cpp. This enables building AI agents with local models that can interact with external tools and systems."
+description: A major pull request adding Model Context Protocol (MCP) client support with agentic loops and tool/resource/prompt capabilities has been merged into llama.cpp. This enables building AI agents with local models that can interact with external tools and systems.
 tags:
-  - daily-digest
-  - llama-cpp
+  - advanced
+  - agentic-loops
   - agents
+  - api-independence
+  - bullish
+  - data-management
+  - developer
+  - intermediate
+  - llama-cpp
+  - local-agents
+  - local-ai-agents
   - mcp
+  - model-context-protocol
+  - news
   - open-source
+  - release
+  - task-automation
+  - tool-integration
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

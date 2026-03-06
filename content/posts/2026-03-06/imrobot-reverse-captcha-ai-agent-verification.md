@@ -1,13 +1,31 @@
 ---
-title: "Imrobot – Reverse-CAPTCHA for Verifying AI Agents, Not Humans"
+title: Imrobot – Reverse-CAPTCHA for Verifying AI Agents, Not Humans
 date: 2026-03-06
-description: "A novel verification system designed specifically to detect and authenticate AI agents rather than humans. The project highlights emerging security considerations as local LLM deployments become more autonomous."
+description: A novel verification system designed specifically to detect and authenticate AI agents rather than humans. The project highlights emerging security considerations as local LLM deployments become more autonomous.
 tags:
-  - daily-digest
+  - advanced
+  - agent-authentication
+  - agent-frameworks
   - agents
-  - security
-  - open-source
+  - ai-agent-verification
+  - ai-security
+  - analysis
+  - autonomous-agents
+  - bullish
+  - developer
+  - intermediate
+  - llm-automation
   - local-deployment
+  - multi-agent-systems
+  - neutral
+  - open-source
+  - production-systems
+  - reverse-captcha
+  - security
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

@@ -1,13 +1,28 @@
 ---
-title: "Qwen 3.5-35B-A3B Achieves 37.8% on SWE-bench Verified Hard"
+title: Qwen 3.5-35B-A3B Achieves 37.8% on SWE-bench Verified Hard
 date: 2026-03-04
-description: "Qwen's 35B model hits near-Claude-Opus performance on the challenging SWE-bench Verified Hard benchmark, demonstrating significant capability for local code generation and software engineering tasks."
+description: Qwen's 35B model hits near-Claude-Opus performance on the challenging SWE-bench Verified Hard benchmark, demonstrating significant capability for local code generation and software engineering tasks.
 tags:
-  - daily-digest
-  - qwen
   - benchmark
+  - benchmark-report
+  - bullish
   - code-generation
+  - consumer-gpu
+  - cost-saving
+  - data-privacy
+  - developer
+  - intermediate
+  - local-llm-viability
+  - model-deployment
   - open-source
+  - open-source-llm-performance
+  - qwen
+  - self-hosted-ai
+  - software-engineering-ai
+  - swe-bench-benchmark
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

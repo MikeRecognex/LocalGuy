@@ -1,13 +1,34 @@
 ---
-title: "Unity Showcases Manufacturing AI Workflow at Smart Factory Expo"
+title: Unity Showcases Manufacturing AI Workflow at Smart Factory Expo
 date: 2026-03-05
-description: "Unity demonstrated AI-powered manufacturing workflows at Smart Factory Expo, highlighting edge-based inference applications in industrial settings where latency, reliability, and privacy are critical requirements."
+description: Unity demonstrated AI-powered manufacturing workflows at Smart Factory Expo, highlighting edge-based inference applications in industrial settings where latency, reliability, and privacy are critical requirements.
 tags:
-  - daily-digest
+  - advanced
+  - bullish
+  - data-privacy
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - enterprise
   - hardware
-  - practical-deployment
+  - hardware-acceleration
   - industrial-ai
+  - industrial-automation
+  - inference-pipelines
+  - local-inference-enterprise
+  - manufacturing-ai
+  - model-optimization
+  - model-quantization
+  - offline-ai
+  - practical-deployment
+  - showcase
+mentions:
+  - name: Unity
+    role: presenter
+  - name: Unity
+    role: developer
+  - name: The Elec
+    role: publisher
 status: draft
 ---
 

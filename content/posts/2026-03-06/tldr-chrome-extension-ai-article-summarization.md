@@ -1,13 +1,29 @@
 ---
 title: "Show HN: TLDR – Free Chrome Extension for AI-Powered Article Summarization"
 date: 2026-03-06
-description: "A new Chrome extension uses AI to generate two-second summaries of any article. The project demonstrates feasibility of running inference efficiently enough for real-time browser integration."
+description: A new Chrome extension uses AI to generate two-second summaries of any article. The project demonstrates feasibility of running inference efficiently enough for real-time browser integration.
 tags:
-  - daily-digest
-  - open-source
+  - advanced
+  - article-summarization
   - browser-extension
+  - browser-inference
+  - bullish
+  - client-side-deployment
+  - developer
   - inference-optimization
+  - intermediate
+  - local-llm-applications
+  - model-quantization
+  - news
+  - open-source
   - practical-tools
+  - privacy-compliance
+  - prompt-engineering
+  - showcase
+  - workflow-integration
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

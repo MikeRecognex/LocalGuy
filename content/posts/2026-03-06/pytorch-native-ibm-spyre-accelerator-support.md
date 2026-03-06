@@ -1,13 +1,28 @@
 ---
-title: "Building PyTorch-Native Support for IBM Spyre Accelerator"
+title: Building PyTorch-Native Support for IBM Spyre Accelerator
 date: 2026-03-06
-description: "IBM Research has developed native PyTorch support for the IBM Spyre Accelerator, enabling optimised local inference on specialised hardware."
+description: IBM Research has developed native PyTorch support for the IBM Spyre Accelerator, enabling optimised local inference on specialised hardware.
 tags:
-  - daily-digest
-  - pytorch
-  - hardware-acceleration
   - accelerator
+  - accelerator-hardware
+  - bullish
+  - custom-asic
+  - developer
+  - ecosystem-development
+  - hardware-acceleration
+  - hardware-aware-deployment
+  - inference-acceleration
   - inference-optimization
+  - intermediate
+  - local-inference-optimization
+  - model-optimization
+  - news
+  - pytorch
+  - pytorch-integration
+  - release
+mentions:
+  - name: IBM Research
+    role: developer
 status: draft
 ---
 

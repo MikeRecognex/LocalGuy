@@ -1,13 +1,30 @@
 ---
-title: "Apple Unveils MacBook Pro with M5 Pro and M5 Max Featuring On-Device AI"
+title: Apple Unveils MacBook Pro with M5 Pro and M5 Max Featuring On-Device AI
 date: 2026-03-05
-description: "Apple announced new MacBook Pro models with M5 Pro and M5 Max chips, emphasizing on-device AI capabilities that enable local inference without cloud dependency, with the 14-inch M5 Pro model starting at ₹2 lakh."
+description: Apple announced new MacBook Pro models with M5 Pro and M5 Max chips, emphasizing on-device AI capabilities that enable local inference without cloud dependency, with the 14-inch M5 Pro model starting at ₹2 lakh.
 tags:
-  - daily-digest
-  - hardware
   - apple-silicon
+  - bullish
+  - compute-density
+  - developer
   - edge-inference
+  - hardware
+  - hardware-software-optimization
+  - intermediate
+  - local-inference
+  - memory-bandwidth
   - mlx
+  - mlx-framework
+  - model-quantization
+  - news
+  - on-device-ai
+  - power-efficiency
+  - release
+mentions:
+  - name: Google News
+    role: publisher
+  - name: inshorts.com
+    role: publisher
 status: draft
 ---
 

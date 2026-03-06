@@ -1,13 +1,25 @@
 ---
 title: "Apple M5 Pro and M5 Max: 4× Faster LLM Processing"
 date: 2026-03-04
-description: "Apple's new M5 chip generation delivers up to 4× faster LLM prompt processing than previous generations, dramatically improving on-device inference on MacBooks and iPads."
+description: Apple's new M5 chip generation delivers up to 4× faster LLM prompt processing than previous generations, dramatically improving on-device inference on MacBooks and iPads.
 tags:
-  - daily-digest
-  - hardware
+  - ai-strategy
   - apple-silicon
+  - beginner-friendly
+  - bullish
+  - developer
+  - edge-device
   - edge-inference
+  - hardware
+  - hobbyist
+  - intermediate
+  - llm-inference-speed
+  - model-deployment
+  - news
+  - on-device-ai
   - performance
+  - release
+  - user-experience
 status: draft
 ---
 

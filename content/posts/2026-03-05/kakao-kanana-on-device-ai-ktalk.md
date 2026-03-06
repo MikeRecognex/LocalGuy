@@ -1,13 +1,37 @@
 ---
-title: "Kakao Launches Kanana AI for On-Device Schedule and Recommendation Management"
+title: Kakao Launches Kanana AI for On-Device Schedule and Recommendation Management
 date: 2026-03-05
-description: "Kakao introduced Kanana, an on-device AI assistant integrated into KakaoTalk that proactively manages user schedules and provides recommendations, demonstrating practical deployment of local intelligence in consumer messaging platforms."
+description: Kakao introduced Kanana, an on-device AI assistant integrated into KakaoTalk that proactively manages user schedules and provides recommendations, demonstrating practical deployment of local intelligence in consumer messaging platforms.
 tags:
-  - daily-digest
-  - edge-inference
   - agents
-  - practical-deployment
+  - ai-assistant-features
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-deployment
+  - developer
+  - edge-ai
+  - edge-device
+  - edge-inference
+  - intermediate
+  - latency-reduction
   - mobile-ai
+  - model-optimization
+  - model-quantization
+  - on-device-agents
+  - on-device-ai
+  - practical-deployment
+  - privacy-preserving-ai
+  - release
+  - showcase
+mentions:
+  - name: Kakao
+    role: developer
+  - name: Kakao
+    role: developer
+  - name: Chosun.com
+    role: publisher
+  - name: Google News
+    role: publisher
 status: draft
 ---
 

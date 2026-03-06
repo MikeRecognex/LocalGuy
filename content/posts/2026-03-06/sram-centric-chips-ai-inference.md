@@ -1,13 +1,33 @@
 ---
-title: "The Emerging Role of SRAM-Centric Chips in AI Inference"
+title: The Emerging Role of SRAM-Centric Chips in AI Inference
 date: 2026-03-06
-description: "Hardware architectures optimized around SRAM are reshaping AI inference capabilities for edge and local deployments. This emerging trend addresses critical bottlenecks in memory bandwidth and latency for on-device LLM execution."
+description: Hardware architectures optimized around SRAM are reshaping AI inference capabilities for edge and local deployments. This emerging trend addresses critical bottlenecks in memory bandwidth and latency for on-device LLM execution.
 tags:
-  - daily-digest
-  - hardware
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
+  - custom-asic
+  - custom-silicon
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - hardware
+  - intermediate
+  - memory-bandwidth
   - memory-optimization
+  - model-efficiency
+  - on-device-deployment
+  - on-device-llm
   - performance
+  - specialized-hardware
+  - sram-architecture
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Gimlet Labs
+    role: publisher
 status: draft
 ---
 

@@ -1,13 +1,25 @@
 ---
-title: "Qwen 3.5-27B Q4 Quantization Comparison and Analysis"
+title: Qwen 3.5-27B Q4 Quantization Comparison and Analysis
 date: 2026-03-04
-description: "Community-driven quantization sweep compares multiple GGUF quantization approaches for Qwen 3.5-27B, providing data-driven guidance for selecting optimal quantization formats."
+description: Community-driven quantization sweep compares multiple GGUF quantization approaches for Qwen 3.5-27B, providing data-driven guidance for selecting optimal quantization formats.
 tags:
-  - daily-digest
+  - advanced
+  - analysis
+  - benchmark-report
+  - benchmarking
+  - bullish
+  - deployment-strategy
+  - developer
+  - gguf
+  - gguf-format
+  - intermediate
+  - local-deployment
+  - model-evaluation
+  - model-optimization
+  - model-quantization
   - quantisation
   - qwen
-  - gguf
-  - benchmarking
+  - qwen-model
 status: draft
 ---
 

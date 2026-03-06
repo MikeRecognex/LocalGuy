@@ -1,13 +1,30 @@
 ---
-title: "Quantifying Cost Savings with Local LLMs for Development"
+title: Quantifying Cost Savings with Local LLMs for Development
 date: 2026-03-04
-description: "A developer shares detailed analysis of cost savings achieved by using Qwen 3.5-35B locally instead of cloud-based coding assistants, demonstrating substantial financial benefits."
+description: A developer shares detailed analysis of cost savings achieved by using Qwen 3.5-35B locally instead of cloud-based coding assistants, demonstrating substantial financial benefits.
 tags:
-  - daily-digest
-  - cost-analysis
-  - economics
-  - qwen
+  - ai-assisted-development
+  - analysis
+  - api-cost-reduction
+  - bullish
+  - cloud-to-local-migration
   - coding
+  - cost-analysis
+  - cost-saving
+  - developer
+  - economics
+  - enterprise
+  - intermediate
+  - local-hardware
+  - local-llm-benefits
+  - local-llm-deployment
+  - model-quantization
+  - qwen
+  - roi-analysis
+  - self-hosted-models
+mentions:
+  - name: r/LocalLLaMA
+    role: community-source
 status: draft
 ---
 

@@ -1,13 +1,27 @@
 ---
-title: "Qualcomm Snapdragon Wear Elite Brings On-Device AI to Smartwatches"
+title: Qualcomm Snapdragon Wear Elite Brings On-Device AI to Smartwatches
 date: 2026-03-04
-description: "Qualcomm's new Snapdragon Wear Elite chip integrates on-device AI capabilities optimized for wearable devices, extending local inference to ultra-constrained environments. The platform enables efficient model execution on smartwatches without relying on smartphone or cloud connectivity."
+description: Qualcomm's new Snapdragon Wear Elite chip integrates on-device AI capabilities optimized for wearable devices, extending local inference to ultra-constrained environments. The platform enables efficient model execution on smartwatches without relying on smartphone or cloud connectivity.
 tags:
-  - daily-digest
-  - hardware
+  - advanced
+  - analysis
+  - bullish
+  - developer
   - edge-deployment
+  - edge-device
+  - hardware
+  - intermediate
+  - model-compression
+  - model-efficiency
+  - model-quantization
+  - on-device-ai
+  - on-device-inference
+  - power-efficiency
   - quantisation
+  - release
+  - wearable-ai
   - wearables
+  - wearables-ai
 status: draft
 ---
 

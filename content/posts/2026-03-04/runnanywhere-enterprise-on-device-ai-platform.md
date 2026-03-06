@@ -1,9 +1,8 @@
 ---
-title: "RunAnywhere Launches Production-Grade On-Device AI Platform for Enterprise Scale"
+title: RunAnywhere Launches Production-Grade On-Device AI Platform for Enterprise Scale
 date: 2026-03-04
-description: "RunAnywhere has released a production-ready platform designed to deploy and manage AI inference at scale across diverse edge and on-device environments. The platform addresses enterprise requirements for local LLM deployment with infrastructure-level tooling for model management and optimization."
+description: RunAnywhere has released a production-ready platform designed to deploy and manage AI inference at scale across diverse edge and on-device environments. The platform addresses enterprise requirements for local LLM deployment with infrastructure-level tooling for model management and optimization.
 tags:
-  - daily-digest
   - deployment-tools
   - enterprise
   - edge-deployment

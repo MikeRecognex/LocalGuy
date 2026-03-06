@@ -1,13 +1,30 @@
 ---
-title: "ÆTHERYA Core – Deterministic Policy Engine for Governing LLM Actions"
+title: ÆTHERYA Core – Deterministic Policy Engine for Governing LLM Actions
 date: 2026-03-04
-description: "A new deterministic policy engine designed to govern and constrain LLM actions in local deployments, enabling safe, predictable AI behavior without external APIs. Critical for production use of local models in risk-sensitive applications."
+description: A new deterministic policy engine designed to govern and constrain LLM actions in local deployments, enabling safe, predictable AI behavior without external APIs. Critical for production use of local models in risk-sensitive applications.
 tags:
-  - daily-digest
+  - advanced
+  - agent-governance
   - agents
-  - safety
-  - open-source
+  - ai-safety
+  - bullish
+  - deterministic-policy-engine
   - edge-inference
+  - enterprise
+  - llm-governance
+  - local-deployment
+  - local-llm-applicability
+  - model-auditing
+  - model-reliability
+  - offline-ai
+  - offline-deployment
+  - open-source
+  - release
+  - safety
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

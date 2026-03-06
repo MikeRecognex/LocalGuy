@@ -1,13 +1,31 @@
 ---
-title: "Analysis Reveals Claude Code Sends 62,600 Characters of Tool Definitions Per Turn"
+title: Analysis Reveals Claude Code Sends 62,600 Characters of Tool Definitions Per Turn
 date: 2026-03-06
-description: "A detailed technical analysis traces how Claude Code uses context window tokens, comparing it against five different CLI implementations. The findings highlight inefficiencies in current tool-passing approaches for local LLM deployment."
+description: A detailed technical analysis traces how Claude Code uses context window tokens, comparing it against five different CLI implementations. The findings highlight inefficiencies in current tool-passing approaches for local LLM deployment.
 tags:
-  - daily-digest
+  - advanced
+  - agent-design
   - agents
-  - context-window
-  - mcp
+  - analysis
+  - architecture-decisions
   - benchmarks
+  - bullish
+  - context-window
+  - context-window-management
+  - developer
+  - intermediate
+  - local-llm-deployment
+  - mcp
+  - neutral
+  - overhead-costs
+  - tool-definition-overhead
+  - tool-passing-efficiency
+  - tool-use
+mentions:
+  - name: r/LocalLLaMA
+    role: community-publisher
+  - name: theredbeard.io
+    role: publisher
 status: draft
 ---
 

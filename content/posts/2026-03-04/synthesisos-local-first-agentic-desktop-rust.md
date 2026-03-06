@@ -1,13 +1,32 @@
 ---
-title: "SynthesisOS – A Local-First, Agentic Desktop Layer Built in Rust"
+title: SynthesisOS – A Local-First, Agentic Desktop Layer Built in Rust
 date: 2026-03-04
-description: "A new open-source desktop environment written in Rust that enables local-first, agentic AI capabilities without cloud dependencies. This represents a significant step toward truly autonomous, on-device AI agents for everyday computing tasks."
+description: A new open-source desktop environment written in Rust that enables local-first, agentic AI capabilities without cloud dependencies. This represents a significant step toward truly autonomous, on-device AI agents for everyday computing tasks.
 tags:
-  - daily-digest
+  - advanced
+  - agent-development
   - agents
-  - open-source
-  - rust
+  - bullish
+  - data-privacy
+  - developer
   - edge-inference
+  - intermediate
+  - local-ai-agents
+  - local-inference
+  - offline-ai
+  - open-source
+  - os-level-ai
+  - resource-optimization
+  - rust
+  - rust-development
+  - rust-for-ai
+  - self-hosted-llms
+  - showcase
+mentions:
+  - name: GastonGelhorn
+    role: developer
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

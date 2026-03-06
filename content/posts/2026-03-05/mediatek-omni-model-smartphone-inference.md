@@ -1,13 +1,28 @@
 ---
-title: "MediaTek Advances Omni Model for Efficient Smartphone Inference"
+title: MediaTek Advances Omni Model for Efficient Smartphone Inference
 date: 2026-03-05
-description: "MediaTek is making significant progress on its Omni model, a multimodal AI architecture designed for efficient on-device inference across smartphones, representing a major step toward practical edge deployment of capable models."
+description: MediaTek is making significant progress on its Omni model, a multimodal AI architecture designed for efficient on-device inference across smartphones, representing a major step toward practical edge deployment of capable models.
 tags:
-  - daily-digest
-  - hardware
-  - quantisation
-  - mobile-ai
+  - apple-silicon
+  - bullish
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hardware
+  - hardware-software-optimization
+  - intermediate
+  - local-deployment-benefits
+  - mobile-ai
+  - model-architecture
+  - model-quantization
+  - multimodal-ai-model
+  - news
+  - on-device-inference
+  - quantisation
+mentions:
+  - name: The Tech Outlook
+    role: publisher
 status: draft
 ---
 

@@ -1,13 +1,29 @@
 ---
-title: "Glyph – A Local-First Markdown Notes App for macOS Built With Rust"
+title: Glyph – A Local-First Markdown Notes App for macOS Built With Rust
 date: 2026-03-04
-description: "A new native macOS notes application emphasizing local-first data storage and built with Rust for performance. Demonstrates practical integration patterns for embedding lightweight LLM features into productivity tools."
+description: A new native macOS notes application emphasizing local-first data storage and built with Rust for performance. Demonstrates practical integration patterns for embedding lightweight LLM features into productivity tools.
 tags:
-  - daily-digest
-  - open-source
-  - rust
+  - bullish
+  - data-privacy
+  - developer
   - edge-inference
+  - intermediate
+  - lightweight-model-integration
+  - llm-integration
+  - local-data-processing
+  - local-first-applications
+  - on-device-ai
+  - open-source
+  - production-application-development
   - productivity
+  - rust
+  - rust-development
+  - showcase
+mentions:
+  - name: Glyph
+    role: project
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

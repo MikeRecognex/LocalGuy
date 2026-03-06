@@ -1,13 +1,27 @@
 ---
-title: "Windows 11 Notepad to Feature On-Device AI Text Generation Without Subscription"
+title: Windows 11 Notepad to Feature On-Device AI Text Generation Without Subscription
 date: 2026-03-06
-description: "Microsoft is integrating on-device AI text generation capabilities directly into Windows 11 Notepad, requiring no cloud connectivity or subscription costs."
+description: Microsoft is integrating on-device AI text generation capabilities directly into Windows 11 Notepad, requiring no cloud connectivity or subscription costs.
 tags:
-  - daily-digest
-  - on-device-ai
-  - windows
-  - inference
+  - analysis
+  - beginner-friendly
+  - bullish
+  - business-model
   - consumer-deployment
+  - cost-saving
+  - developer
+  - edge-ai
+  - enterprise
+  - inference
+  - intermediate
+  - local-ai-deployment
+  - local-inference-adoption
+  - market-competition
+  - news
+  - on-device-ai
+  - privacy-preserving-ai
+  - windows
+  - windows-integration
 status: draft
 ---
 

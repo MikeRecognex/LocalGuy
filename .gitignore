@@ -11,3 +11,4 @@ _private/
 .venv/
 .smart-retag-cache.json
 SMART-RETAG.md
+n8n/
