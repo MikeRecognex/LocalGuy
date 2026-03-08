@@ -203,9 +203,9 @@ def update_frontmatter(content: str, new_tags: list[str], mentions: list[dict]) 
 
     fm = m.group(1)
 
-    # Replace tags block
+    # Replace tags block (normalize all to lowercase-kebab-case)
     existing = get_existing_tags(fm)
-    merged = sorted(set(existing) | set(new_tags))
+    merged = sorted(set(slugify(t) for t in existing if slugify(t)) | set(new_tags))
     new_tags_block = build_tags_block(merged)
     fm = TAGS_PATTERN.sub(new_tags_block, fm)
 
@@ -286,6 +286,10 @@ def map_extractions(extractions: list) -> tuple[list[str], list[dict]]:
             if attrs.get("url"):
                 mention["url"] = attrs["url"]
             mentions.append(mention)
+            # Also add as a tag so companies appear in tag cloud/filters
+            org_slug = slugify(name)
+            if org_slug and org_slug not in SUPPRESS_TAGS:
+                tags.append(org_slug)
 
     return tags, mentions
 
@@ -316,7 +320,7 @@ def collect_posts(drafts_only: bool) -> list[Path]:
     """Collect markdown posts, optionally filtering to drafts only."""
     posts = sorted(POSTS_DIR.rglob("*.md"))
     if drafts_only:
-        posts = [p for p in posts if "status: draft" in p.read_text()[:500]]
+        posts = [p for p in posts if "status: draft" in p.read_text()[:2000]]
     return posts
 
 

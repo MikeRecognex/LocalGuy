@@ -13,10 +13,12 @@ tags:
   - document-processing
   - edge-deployment
   - edge-device
+  - flash-attention-optimization
   - flashindexer-optimization
   - inference-indexing
   - intermediate
   - local-inference
+  - marktechpost
   - multi-modal-ai
   - multimodal
   - news
@@ -26,6 +28,7 @@ tags:
   - production-ops
   - rag
   - rag-pipeline
+  - rag-pipeline-optimization
   - release
   - self-hosted
   - vision-language-models

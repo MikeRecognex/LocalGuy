@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 A practitioner deployed Qwen 3.5 9B as a fully functional autonomous agent on consumer Apple Silicon hardware (M1 Pro, 16GB unified memory) and validated it against a real task queue from an existing automation system. This wasn't a simple chat demo but genuine agent workloads with tool use and decision-making. The findings demonstrate that the 9B parameter tier has reached a capability threshold where meaningful autonomous task execution becomes viable on mainstream hardware.

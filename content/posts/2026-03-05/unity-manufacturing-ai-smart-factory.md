@@ -6,29 +6,34 @@ tags:
   - advanced
   - bullish
   - data-privacy
+  - developer
   - edge-deployment
   - edge-device
   - edge-inference
   - enterprise
+  - google-news
   - hardware
   - hardware-acceleration
   - industrial-ai
   - industrial-automation
   - inference-pipelines
+  - intermediate
   - local-inference-enterprise
   - manufacturing-ai
   - model-optimization
   - model-quantization
   - offline-ai
   - practical-deployment
+  - real-time-ai
   - showcase
+  - unity
 mentions:
   - name: Unity
-    role: presenter
+    role: developer
   - name: Unity
     role: developer
-  - name: The Elec
-    role: publisher
+  - name: Google News
+    role: source
 status: draft
 ---
 

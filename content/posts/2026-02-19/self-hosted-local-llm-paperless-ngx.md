@@ -14,7 +14,9 @@ tags:
   - enterprise
   - intermediate
   - local-first-architecture
+  - local-llm-applications
   - local-llm-architecture
+  - msn
   - offline-deployment
   - on-premises-deployment
   - open-source
@@ -26,6 +28,8 @@ tags:
   - self-hosted-llms
   - showcase
 mentions:
+  - name: Paperless-ngx
+    role: open-source project
   - name: MSN
     role: publisher
 status: draft

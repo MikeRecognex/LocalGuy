@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: Google News
     role: publisher
-status: draft
+status: published
 ---
 
 Alibaba's release of Qwen 3.5 represents a significant development in the on-device AI space, offering optimisations specifically designed for local and edge deployment. This model continues the Qwen series' focus on efficient inference, making it suitable for deployment on consumer hardware without reliance on cloud infrastructure.

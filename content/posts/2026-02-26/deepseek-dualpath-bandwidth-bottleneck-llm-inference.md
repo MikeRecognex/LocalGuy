@@ -5,24 +5,32 @@ description: "DeepSeek researchers present DualPath, a novel approach to address
 tags:
   - advanced
   - analysis
+  - arxiv
   - bandwidth
   - bandwidth-efficiency
   - bullish
   - consumer-gpu
   - daily-digest
   - developer
+  - dualpath-technique
   - edge-ai
   - edge-ai-deployment
   - edge-device
+  - hacker-news
   - inference-architecture
   - inference-optimization
   - inference-speed
+  - intermediate
+  - llm-frameworks
+  - local-inference
   - memory-bandwidth
+  - on-device-deployment
   - on-device-deployment-frameworks
   - open-source
   - performance-optimization
   - power-efficiency
   - release
+  - resource-constrained-ai
 mentions:
   - name: arXiv
     role: publisher

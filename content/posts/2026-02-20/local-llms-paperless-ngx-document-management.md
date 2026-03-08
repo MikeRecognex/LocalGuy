@@ -7,12 +7,15 @@ tags:
   - bullish
   - cost-saving
   - daily-digest
+  - data-ownership
   - data-privacy
   - developer
   - document-management
   - document-processing
+  - economic-benefits
   - enterprise
   - intermediate
+  - msn
   - open-source
   - open-source-ecosystem
   - paperless-ngx

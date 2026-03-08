@@ -12,6 +12,7 @@ tags:
   - hardware
   - hardware-software-optimization
   - intermediate
+  - local-deployment
   - local-deployment-benefits
   - mobile-ai
   - model-architecture
@@ -20,6 +21,7 @@ tags:
   - news
   - on-device-inference
   - quantisation
+  - the-tech-outlook
 mentions:
   - name: The Tech Outlook
     role: publisher

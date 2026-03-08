@@ -3,8 +3,6 @@ title: SanityBoard Adds 27 New Model Evaluations Including Qwen 3.5 Plus, GLM 5,
 date: 2026-02-20
 description: SanityBoard, a comprehensive LLM evaluation framework, has added 27 new benchmark results including evaluations of Qwen 3.5 Plus, GLM 5, Gemini 3.1 Pro, Sonnet 4.6, and three new open-source agents. The framework provides practical comparison metrics for practitioners selecting models for local deployment.
 tags:
-  - SanityBoard
-  - Sonnet
   - agent-frameworks
   - agents
   - alibaba
@@ -15,25 +13,33 @@ tags:
   - daily-digest
   - developer
   - edge-deployment
+  - enterprise
   - gemini
   - glm
+  - hardware-selection
   - intermediate
   - llm-evaluation
   - local-deployment
+  - local-inference
   - model-benchmarking
   - model-comparison
   - model-evaluation
+  - model-selection
   - offline-deployment
   - on-device-inference
   - open-source
   - production-ops
   - qwen
+  - release
+  - rlocalllama
+  - sanityboard
   - showcase
+  - sonnet
   - system-architecture
   - zhipu
 mentions:
   - name: SanityBoard
-    role: developer
+    role: LLM evaluation framework provider
   - name: SanityBoard
     role: evaluation platform
   - name: r/LocalLLaMA

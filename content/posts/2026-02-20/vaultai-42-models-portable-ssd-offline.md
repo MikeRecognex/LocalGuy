@@ -13,7 +13,10 @@ tags:
   - edge-ai-systems
   - edge-deployment
   - edge-device
+  - hacker-news
   - intermediate
+  - local-deployment
+  - local-inference
   - model-optimization
   - model-quantization
   - offline-deployment
@@ -24,9 +27,9 @@ tags:
   - quantisation
   - reference-architecture
   - showcase
+  - storage-optimization
+  - vaultai
 mentions:
-  - name: VaultAI
-    role: product
   - name: Hacker News
     role: publisher
 status: draft

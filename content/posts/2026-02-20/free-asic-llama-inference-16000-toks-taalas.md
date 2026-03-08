@@ -15,15 +15,19 @@ tags:
   - developer
   - developer-tooling
   - gpu-constraints
+  - gpu-resource-constraints
   - hardware
   - hardware-alternatives
+  - hardware-diversification
   - inference-speed
   - intermediate
   - latency-optimization
   - llama
   - local-deployment
+  - local-deployment-accessibility
   - offline-deployment
   - release
+  - rlocalllama
   - specialized-hardware
   - taalas
 status: draft

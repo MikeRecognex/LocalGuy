@@ -22,12 +22,13 @@ tags:
   - quantisation
   - qwen
   - release
+  - unlsoth
 mentions:
   - name: Unsloth
     role: developer
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 Unsloth has released what appears to be the final GGUF quantization update for the Qwen3.5 model family, focusing on optimal size-to-quality tradeoffs. The new quantizations for both the 122B-A10B and 35B-A3B variants maintain 99.9% KL divergence, meaning minimal quality loss despite aggressive compression.

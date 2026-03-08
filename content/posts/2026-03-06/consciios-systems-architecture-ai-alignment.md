@@ -24,10 +24,11 @@ tags:
   - multi-turn-interactions
   - open-source
   - systems-architecture
+  - consciios
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 ConsciOS proposes a systems-level approach to AI alignment, moving beyond model-centric solutions toward architectural patterns that ensure human-AI collaboration remains reliable and controllable. For practitioners deploying autonomous LLM systems locally, alignment becomes an increasingly practical concern as models gain tool use, memory, and multi-step reasoning capabilities.

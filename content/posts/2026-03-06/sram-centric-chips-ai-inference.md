@@ -23,12 +23,13 @@ tags:
   - performance
   - specialized-hardware
   - sram-architecture
+  - sram
 mentions:
   - name: Hacker News
     role: publisher
   - name: Gimlet Labs
     role: publisher
-status: draft
+status: published
 ---
 
 SRAM-centric chip architectures represent a significant shift in how hardware vendors are approaching AI inference optimization. Unlike traditional designs that rely heavily on external DRAM, these chips prioritize fast, local SRAM memory to reduce latency and improve throughput during LLM inference—critical factors for responsive on-device applications.

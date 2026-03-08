@@ -8,6 +8,7 @@ tags:
   - api-cost-reduction
   - bullish
   - cloud-to-local-migration
+  - cloud-vs-local-ai
   - coding
   - cost-analysis
   - cost-saving
@@ -20,6 +21,7 @@ tags:
   - local-llm-deployment
   - model-quantization
   - qwen
+  - rlocalllama
   - roi-analysis
   - self-hosted-models
 mentions:

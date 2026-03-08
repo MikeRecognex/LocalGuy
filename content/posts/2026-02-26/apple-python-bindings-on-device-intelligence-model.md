@@ -7,16 +7,21 @@ tags:
   - apple-intelligence
   - apple-intelligence-integration
   - apple-silicon
+  - application-integration
   - bullish
   - custom-application-development
   - daily-digest
   - developer
   - edge-device
   - edge-inference
+  - github
+  - hacker-news
   - intermediate
   - local-inference
   - model-optimization
+  - news
   - on-device
+  - on-device-ai
   - on-device-processing
   - privacy-first-inference
   - privacy-preserving-ai
@@ -24,10 +29,10 @@ tags:
   - python-sdk
   - release
 mentions:
-  - name: GitHub
-    role: platform
   - name: Hacker News
     role: publisher
+  - name: GitHub
+    role: platform
 status: draft
 ---
 

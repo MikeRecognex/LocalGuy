@@ -91,6 +91,14 @@
     "2026-03-06": {
       "text": "Alibaba's Qwen 3.5 model enables on-device AI support for local deployment and edge inference scenarios.",
       "postCount": 15
+    },
+    "2026-03-07": {
+      "text": "Alibaba's Qwen 3.5 model enables on-device AI support for edge devices.",
+      "postCount": 15
+    },
+    "2026-03-08": {
+      "text": "Qwen 3.5 27B achieves strong local inference performance on consumer hardware.",
+      "postCount": 15
     }
   },
   "weekly": {
@@ -107,8 +115,8 @@
       "postCount": 124
     },
     "2026-03-02": {
-      "text": "<p>Big stories this week include Alibaba's release of Qwen 3.5, a model optimized for on-device AI, and AMD's launch of Ryzen AI 400 Series desktop processors with integrated NPUs for local LLM inference.</p>\n<p>Don't miss \"Qwen 3.5 27B Achieves 100+ Tokens/s Decode\" and \"Apple M5 Pro and M5 Max: 4× Faster LLM Processing\" for insights into cutting-edge local AI performance and hardware advancements.</p>",
-      "postCount": 65
+      "text": "<p>Alibaba's Qwen 3.5 AI model and AMD's Ryzen AI 400 Series processors were major stories, enabling on-device AI capabilities.</p>\n<p>Don't miss \"Qwen 3.5 27B Achieves 100+ Tokens/s Decode\" and \"Apple M5 Pro and M5 Max: 4× Faster LLM Processing\" for insights into local LLM performance.</p>",
+      "postCount": 95
     }
   }
 }

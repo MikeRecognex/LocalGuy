@@ -7,19 +7,26 @@ tags:
   - bullish
   - consumer-gpu
   - consumer-hardware-deployment
+  - cost-effective-ai
   - daily-digest
   - developer
   - hardware
   - hobbyist
   - inference-speed
   - intermediate
+  - local-ai-applications
+  - local-deployment
   - local-llm-applications
   - model-accessibility
+  - model-configuration
   - model-optimization
+  - model-performance
   - multi-gpu-inference
+  - news
   - performance
   - quantisation
   - qwen
+  - rlocalllama
   - showcase
 mentions:
   - name: r/LocalLLaMA

@@ -22,12 +22,13 @@ tags:
   - practical-applications
   - showcase
   - validation-layers
+  - BoardMint
 mentions:
   - name: Hacker News
     role: publisher
   - name: Boardmint.io
     role: publisher
-status: draft
+status: published
 ---
 
 BoardMint represents an interesting case study in applying local LLM technology to solve a real-world problem: providing AI-assisted PCB design review without the hallucinations that plague general-purpose models. By engineering the system to avoid confident false outputs, the project demonstrates how thoughtful local deployment can enhance reliability in technical workflows.

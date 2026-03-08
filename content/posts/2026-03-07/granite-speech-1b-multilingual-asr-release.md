@@ -1,13 +1,32 @@
 ---
-title: "IBM Granite 4.0 1B Speech Model Released for Multilingual Speech Recognition"
+title: IBM Granite 4.0 1B Speech Model Released for Multilingual Speech Recognition
 date: 2026-03-07
-description: "IBM has released Granite-4.0-1b-speech, a compact speech-language model designed for multilingual automatic speech recognition and bidirectional speech translation. At just 1B parameters, it's optimized for on-device deployment with support for diverse language pairs."
+description: IBM has released Granite-4.0-1b-speech, a compact speech-language model designed for multilingual automatic speech recognition and bidirectional speech translation. At just 1B parameters, it's optimized for on-device deployment with support for diverse language pairs.
 tags:
-  - daily-digest
-  - ibm-granite
-  - open-source
-  - speech-recognition
+  - bullish
+  - compact-models
+  - developer
+  - edge-device
   - edge-inference
+  - embedded-system
+  - ibm
+  - ibm-granite
+  - intermediate
+  - multilingual-asr
+  - multimodal-ai
+  - on-device-ai
+  - on-device-deployment
+  - open-source
+  - open-source-speech-models
+  - privacy-compliance
+  - release
+  - showcase
+  - speech-recognition
+  - speech-translation
+  - voice-ai
+mentions:
+  - name: IBM
+    role: developer
 status: draft
 ---
 

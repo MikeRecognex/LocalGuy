@@ -12,11 +12,13 @@ tags:
   - developer
   - developer-tooling
   - edge-deployment
+  - hacker-news
   - hybrid-ai-systems
   - iterative-reasoning
   - iterative-reasoning-failure
   - local-agents
   - model-architecture
+  - model-architecture-limitations
   - neutral
   - offline-deployment
   - on-device-inference
@@ -24,13 +26,13 @@ tags:
   - self-hosted
   - self-hosted-deployment
   - tokenization
+  - tokenization-issues
   - training
   - training-data
+  - training-data-gaps
 mentions:
-  - name: n8n410
-    handle: "n8n410"
   - name: Hacker News
-    role: source
+    role: publisher
 status: draft
 ---
 

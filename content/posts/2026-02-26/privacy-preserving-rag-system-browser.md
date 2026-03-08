@@ -14,6 +14,7 @@ tags:
   - developer
   - intermediate
   - local-llm
+  - on-device-ai
   - on-device-rag
   - privacy
   - privacy-preserving-rag
@@ -21,6 +22,7 @@ tags:
   - rag-pipeline
   - rag-pipeline-components
   - retrieval-augmented-generation
+  - sitepoint
   - tutorial
 mentions:
   - name: SitePoint

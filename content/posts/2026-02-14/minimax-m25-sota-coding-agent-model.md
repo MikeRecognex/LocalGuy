@@ -10,20 +10,26 @@ tags:
   - apple-silicon
   - bullish
   - code-llm
+  - code-llms
   - coding-assistance
+  - coding-llms
   - developer
   - developer-tooling
+  - hacker-news
   - intermediate
   - language-models
   - llama
   - llama-cpp
   - local-deployment
+  - local-development
+  - memory-management
   - minimax
   - minimax-m25
   - model-availability
   - model-comparison
   - model-quantization
   - multi-step-reasoning
+  - new-model-release
   - offline-deployment
   - ollama
   - quantisation

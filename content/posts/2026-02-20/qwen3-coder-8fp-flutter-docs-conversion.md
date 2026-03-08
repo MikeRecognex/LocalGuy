@@ -7,6 +7,7 @@ tags:
   - benchmark-report
   - benchmarks
   - bullish
+  - code-analysis
   - code-llm-applications
   - consumer-gpu
   - context-window
@@ -17,16 +18,22 @@ tags:
   - document-processing
   - glm
   - gpt-oss
+  - inference-cost-latency
   - inference-optimization
   - intermediate
   - llm-benchmarking
   - local-deployment
   - long-context-code-llm
+  - long-context-processing
   - long-context-window
   - memory-efficiency
   - memory-management
+  - memory-utilization
   - model-benchmarking
+  - model-comparison
+  - model-stability
   - production-ops
+  - showcase
   - zhipu
 status: draft
 ---

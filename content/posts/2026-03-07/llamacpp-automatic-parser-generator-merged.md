@@ -1,13 +1,24 @@
 ---
-title: "Llama.cpp Merges Automatic Parser Generator to Mainline"
+title: Llama.cpp Merges Automatic Parser Generator to Mainline
 date: 2026-03-07
-description: "After months of testing, llama.cpp has merged its new automatic parser generator solution into the main codebase, building on improved Jinja templating and native parsing infrastructure. This enhancement streamlines model deployment and reduces manual configuration overhead for local inference."
+description: After months of testing, llama.cpp has merged its new automatic parser generator solution into the main codebase, building on improved Jinja templating and native parsing infrastructure. This enhancement streamlines model deployment and reduces manual configuration overhead for local inference.
 tags:
-  - daily-digest
-  - llama-cpp
-  - open-source
+  - bullish
+  - developer
   - inference-engine
-status: draft
+  - inference-reliability
+  - intermediate
+  - llama-cpp
+  - local-inference-optimization
+  - model-compatibility
+  - model-deployment
+  - news
+  - on-device-deployment
+  - open-source
+  - parser-generation
+  - parsing-infrastructure
+  - release
+status: published
 ---
 
 The llama.cpp project has completed a major infrastructure upgrade by merging its automatic parser generator into the main branch. This follows significant refactoring of the templating and parsing subsystem, with ngxson's new Jinja-based parser system built natively into the codebase. [The merged solution](https://www.reddit.com/r/LocalLLaMA/comments/1rmp3ep/llamacpp_now_with_automatic_parser_generator/) underwent extensive community testing and review before integration.

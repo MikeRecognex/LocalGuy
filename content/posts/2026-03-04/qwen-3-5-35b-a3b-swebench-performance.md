@@ -17,6 +17,7 @@ tags:
   - open-source
   - open-source-llm-performance
   - qwen
+  - rlocalllama
   - self-hosted-ai
   - software-engineering-ai
   - swe-bench-benchmark

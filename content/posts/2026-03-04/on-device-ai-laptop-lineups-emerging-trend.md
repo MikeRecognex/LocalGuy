@@ -9,6 +9,8 @@ tags:
   - bullish
   - consumer-gpu
   - consumer-hardware
+  - consumer-laptop-ai-hardware
+  - data-privacy
   - developer
   - edge-deployment
   - enterprise
@@ -18,10 +20,16 @@ tags:
   - intermediate
   - laptops
   - local-inference
+  - local-inference-benefits
+  - local-inference-trend
+  - low-latency-ai
+  - market-growth
   - market-trends
   - model-compression
+  - model-optimization
   - news
   - offline-ai
+  - on-device-ai-hardware
   - on-device-ai-laptops
   - privacy-compliance
   - quantization

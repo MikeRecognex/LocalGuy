@@ -9,6 +9,7 @@ tags:
   - api-independence
   - api-limitations
   - bullish
+  - cozai-photo
   - creative-generation
   - custom-deployment
   - custom-model-training
@@ -16,6 +17,7 @@ tags:
   - developer
   - developer-tooling
   - fine-tuning
+  - hacker-news
   - intermediate
   - local-inference
   - model-customization

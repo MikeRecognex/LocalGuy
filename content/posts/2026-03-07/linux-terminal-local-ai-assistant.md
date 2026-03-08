@@ -1,14 +1,26 @@
 ---
-title: "Turning Your Linux Terminal into a Local AI Assistant"
+title: Turning Your Linux Terminal into a Local AI Assistant
 date: 2026-03-07
-description: "A practical guide demonstrating how to integrate a local AI assistant directly into your Linux terminal workflow. This article shows the utility and accessibility of running LLMs on personal machines."
+description: A practical guide demonstrating how to integrate a local AI assistant directly into your Linux terminal workflow. This article shows the utility and accessibility of running LLMs on personal machines.
 tags:
-  - daily-digest
+  - ai-customization
+  - analysis
+  - bullish
   - cli-tools
+  - cpu-only
+  - data-privacy
+  - developer
+  - developer-productivity
+  - intermediate
   - linux
+  - local-ai-integration
+  - local-llm-deployment
+  - on-device-inference
   - practical-guide
   - self-hosted
-status: draft
+  - terminal-integration
+  - tutorial
+status: published
 ---
 
 Integrating local LLMs directly into the Linux terminal represents a powerful productivity enhancement for developers and power users. By leveraging lightweight models and CLI-friendly frameworks, users can query language models without leaving their development environment, enabling seamless AI-assisted workflows for code generation, documentation, and problem-solving.

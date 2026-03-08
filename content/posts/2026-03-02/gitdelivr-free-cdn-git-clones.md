@@ -7,7 +7,6 @@ tags:
   - cdn-for-model-delivery
   - cost-saving
   - cpu-only
-  - daily-digest
   - deployment
   - developer
   - edge-device
@@ -22,6 +21,7 @@ tags:
   - scalability
   - serverless-architecture
   - showcase
+  - gitdlivr
 mentions:
   - name: GitDelivr
     role: service provider

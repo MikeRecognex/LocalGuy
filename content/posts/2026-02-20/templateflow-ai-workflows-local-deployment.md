@@ -5,6 +5,7 @@ description: "TemplateFlow introduces a workflow-based approach to local LLM dep
 tags:
   - advanced
   - agent-orchestration
+  - ai-pipelines
   - ai-workflows
   - analysis
   - bullish
@@ -13,19 +14,24 @@ tags:
   - daily-digest
   - developer
   - developer-tooling
+  - hacker-news
+  - heyaohuo
   - intermediate
   - latency-reduction
+  - local-deployment
   - local-llm-deployment
   - multi-agent-systems
   - multi-step-inference
   - offline-deployment
   - production-ops
   - prompt-engineering
+  - resource-optimization
   - showcase
+  - templateflow
   - workflow-orchestration
 mentions:
   - name: TemplateFlow
-    role: framework-provider
+    role: framework
   - name: Hacker News
     role: publisher
 status: draft

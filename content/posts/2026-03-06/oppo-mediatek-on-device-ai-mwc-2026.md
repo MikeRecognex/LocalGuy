@@ -19,6 +19,10 @@ tags:
   - on-device-ai
   - optimization-techniques
   - showcase
+  - community-support
+  - laptop-processors
+  - Oppo
+  - MediaTek
 mentions:
   - name: OPPO
     role: innovator
@@ -26,7 +30,7 @@ mentions:
     role: innovator
   - name: Google News
     role: publisher
-status: draft
+status: published
 ---
 
 The collaborative innovations from OPPO and MediaTek at MWC 2026 underscore the acceleration of on-device AI capabilities in the mobile sector. These demonstrations reflect significant engineering investment in making efficient inference viable on resource-constrained devices, addressing key challenges in local LLM deployment: memory efficiency, latency reduction, and power consumption optimisation.

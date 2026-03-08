@@ -11,18 +11,22 @@ tags:
   - cost-saving
   - developer
   - edge-ai
+  - edge-deployment
   - enterprise
   - inference
   - intermediate
   - local-ai-deployment
   - local-inference-adoption
+  - mainstream-adoption
   - market-competition
   - news
   - on-device-ai
+  - on-device-ai-text-generation
   - privacy-preserving-ai
+  - unknown
   - windows
   - windows-integration
-status: draft
+status: published
 ---
 
 Microsoft's decision to embed on-device AI directly into Windows 11 Notepad marks a significant mainstream adoption milestone for local inference. By eliminating subscription requirements and cloud dependencies, this move demonstrates that practical on-device AI is now viable for consumer applications at scale.

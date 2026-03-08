@@ -12,7 +12,10 @@ tags:
   - developer
   - developer-tooling
   - document-processing
+  - enjiai
+  - hacker-news
   - intermediate
+  - iterative-context-processing
   - iterative-processing
   - llama
   - llama-cpp
@@ -25,6 +28,8 @@ tags:
   - snowball-technique
 mentions:
   - name: enji.ai
+    role: publisher
+  - name: Hacker News
     role: publisher
 status: draft
 ---

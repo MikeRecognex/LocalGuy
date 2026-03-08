@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 TLDR showcases the practical deployment of LLM inference in browser environments, where latency and resource constraints are tight. Achieving sub-second summarization requires aggressive optimization: model quantization, efficient tokenization, and careful prompt engineering to minimize token generation without sacrificing quality.

@@ -5,26 +5,35 @@ description: A new open-source desktop environment written in Rust that enables 
 tags:
   - advanced
   - agent-development
+  - agentic-ai
   - agents
   - bullish
+  - data-locality
   - data-privacy
   - developer
   - edge-inference
+  - hacker-news
+  - inference-optimization
   - intermediate
   - local-ai-agents
+  - local-first-ai
   - local-inference
   - offline-ai
   - open-source
+  - os-integration
   - os-level-ai
+  - resource-constrained-deployment
   - resource-optimization
   - rust
   - rust-development
   - rust-for-ai
+  - rust-programming
   - self-hosted-llms
   - showcase
+  - synthesisos
 mentions:
-  - name: GastonGelhorn
-    role: developer
+  - name: SynthesisOS
+    role: project
   - name: Hacker News
     role: publisher
 status: draft

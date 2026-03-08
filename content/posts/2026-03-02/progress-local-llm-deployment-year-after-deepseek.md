@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - data-privacy
   - deepseek
-  - developer
   - hardware
   - inference-optimization
   - intermediate
@@ -19,7 +18,6 @@ tags:
   - local-llm-deployment
   - model-accessibility
   - model-quantization
-  - performance-improvement
 mentions:
   - name: r/LocalLLaMA
     role: source

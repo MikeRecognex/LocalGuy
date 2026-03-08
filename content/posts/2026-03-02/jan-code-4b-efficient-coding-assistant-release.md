@@ -20,6 +20,7 @@ tags:
   - open-source-models
   - qwen
   - release
+  - Jan
 mentions:
   - name: Jan
     role: developer

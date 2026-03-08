@@ -5,14 +5,18 @@ description: "SitePoint publishes a comprehensive guide for deploying Ollama in 
 tags:
   - bullish
   - container-orchestration
+  - cost-optimization
   - cost-saving
   - daily-digest
   - data-privacy
   - deployment-guide
   - developer
   - developer-tooling
+  - docker-compose
   - docker-compose-deployment
+  - enterprise
   - intermediate
+  - local-llm-deployment
   - local-llm-inference
   - offline-deployment
   - ollama
@@ -24,6 +28,7 @@ tags:
   - scalable-deployment
   - self-hosted
   - self-hosted-inference
+  - sitepoint
   - tutorial
 mentions:
   - name: SitePoint

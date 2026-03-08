@@ -5,8 +5,12 @@ description: "A detailed comparison of two leading local LLM serving frameworks,
 tags:
   - comparison
   - daily-digest
+  - deployment-strategy
   - developer
+  - developer-tools
   - development-workflow
+  - ease-of-use
+  - inference-configuration
   - inference-parameters
   - intermediate
   - llm-serving-frameworks
@@ -15,8 +19,10 @@ tags:
   - local-llm-deployment
   - neutral
   - ollama
+  - sitepoint
   - tool-selection
   - tools
+  - ui-ux
 mentions:
   - name: SitePoint
     role: publisher

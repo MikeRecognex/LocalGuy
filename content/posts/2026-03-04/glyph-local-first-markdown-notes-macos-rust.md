@@ -4,14 +4,19 @@ date: 2026-03-04
 description: A new native macOS notes application emphasizing local-first data storage and built with Rust for performance. Demonstrates practical integration patterns for embedding lightweight LLM features into productivity tools.
 tags:
   - bullish
+  - data-locality
   - data-privacy
   - developer
   - edge-inference
+  - glyph
+  - hacker-news
   - intermediate
   - lightweight-model-integration
   - llm-integration
   - local-data-processing
   - local-first-applications
+  - model-integration
+  - native-application-development
   - on-device-ai
   - open-source
   - production-application-development

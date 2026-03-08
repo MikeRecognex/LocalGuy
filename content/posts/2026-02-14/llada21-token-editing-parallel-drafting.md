@@ -14,6 +14,7 @@ tags:
   - inference-speed
   - llm-model
   - local-inference
+  - localllama
   - offline-deployment
   - parallel-drafting
   - parallel-processing

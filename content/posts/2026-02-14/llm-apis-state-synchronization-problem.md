@@ -10,6 +10,8 @@ tags:
   - conversation-context-management
   - developer
   - developer-tooling
+  - hacker-news
+  - llm-api-design
   - local-deployment
   - local-llm-infrastructure
   - neutral

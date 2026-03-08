@@ -23,6 +23,7 @@ tags:
   - personal-ai
   - release
   - wearables
+  - qualcomm
 mentions:
   - name: Gizmochina
     role: publisher

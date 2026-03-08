@@ -1,13 +1,28 @@
 ---
-title: "Mistral AI Prepares Workflows Integration for Le Chat"
+title: Mistral AI Prepares Workflows Integration for Le Chat
 date: 2026-03-08
-description: "Mistral AI expands its local deployment capabilities by integrating workflow automation into Le Chat. This development enables better local model orchestration and multi-step inference pipelines."
+description: Mistral AI expands its local deployment capabilities by integrating workflow automation into Le Chat. This development enables better local model orchestration and multi-step inference pipelines.
 tags:
-  - daily-digest
-  - mistral
-  - open-source
+  - agent-based-applications
   - agents
-status: draft
+  - bullish
+  - consumer-gpu
+  - developer
+  - edge-ai
+  - edge-device
+  - intermediate
+  - latency-reduction
+  - local-llm-deployment
+  - local-model-orchestration
+  - mistral
+  - multi-step-inference-pipelines
+  - multi-step-reasoning
+  - news
+  - open-source
+  - privacy-enhancement
+  - tool-use
+  - workflow-automation
+status: published
 ---
 
 Mistral AI's workflow integration for Le Chat represents an important step toward practical local LLM deployment with complex reasoning chains. Workflows enable developers to build multi-step inference pipelines that combine multiple models or reasoning passes locally, improving capability without cloud dependencies.

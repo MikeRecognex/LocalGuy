@@ -1,13 +1,28 @@
 ---
-title: "Apple Launches MacBook Neo with A18 Pro Chip for Affordable Local AI Inference"
+title: Apple Launches MacBook Neo with A18 Pro Chip for Affordable Local AI Inference
 date: 2026-03-08
-description: "Apple's new MacBook Neo features the A18 Pro chip, bringing improved on-device ML capabilities to its most affordable laptop tier. The device enables local LLM inference through Apple's optimized frameworks."
+description: Apple's new MacBook Neo features the A18 Pro chip, bringing improved on-device ML capabilities to its most affordable laptop tier. The device enables local LLM inference through Apple's optimized frameworks.
 tags:
-  - daily-digest
+  - accessibility
+  - analysis
+  - apple-ml-frameworks
   - apple-silicon
-  - hardware
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - developer
   - edge-inference
-status: draft
+  - hardware
+  - hardware-limitations
+  - intermediate
+  - local-llm-inference
+  - local-model-deployment
+  - model-quantization
+  - on-device-fine-tuning
+  - on-device-ml
+  - privacy-first-ai
+  - release
+status: published
 ---
 
 Apple's introduction of the MacBook Neo with A18 Pro chip expands access to capable local inference hardware at a lower price point. Starting at Rs 69,900 in India, this device makes on-device LLM deployment more accessible to developers and small teams who previously faced hardware cost barriers.

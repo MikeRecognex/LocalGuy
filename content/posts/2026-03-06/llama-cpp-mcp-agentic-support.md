@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 llama.cpp has merged significant new functionality supporting the Model Context Protocol (MCP), enabling local models to function as full autonomous agents. The implementation includes support for tools, resources, and prompts through MCP standards, with a new webui-mcp-proxy mode accessible via `llama-server --webui-mcp-proxy`.

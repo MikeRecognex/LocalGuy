@@ -4,20 +4,29 @@ date: 2026-02-19
 description: "A developer shares practical techniques for integrating local AI models directly into Sublime Text for code completion and assistance. This shows how local LLMs are being embedded into developer workflows."
 tags:
   - ai-assisted-development
+  - ai-developer-tools
   - bullish
   - code-assistance
   - consumer-gpu
   - daily-digest
+  - data-privacy
   - developer
   - developer-tooling
   - developer-workflow
+  - developer-workflow-enhancement
   - editor-integration
+  - hacker-news
+  - ide-integration
+  - inference-latency
   - inference-optimization
   - intermediate
   - local-ai-integration
+  - local-ai-tooling
   - local-first-ai
   - local-llm-development
+  - model-optimization
   - offline-deployment
+  - ohdoylerulescom
   - privacy
   - privacy-compliance
   - tutorial

@@ -22,10 +22,11 @@ tags:
   - startup-ecosystem
   - startup-funding
   - technology-scaling
+  - hyperexcel
 mentions:
   - name: HyperExcel
     role: startup
-status: draft
+status: published
 ---
 
 HyperExcel's Series B funding round signals growing investor confidence in specialised inference hardware designed specifically for language models. The development and scaling of LPU (Language Processing Unit) accelerators represents a hardware-first approach to optimising local LLM inference, potentially offering superior performance and efficiency compared to general-purpose GPUs for transformer-based workloads.

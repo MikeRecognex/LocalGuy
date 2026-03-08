@@ -7,25 +7,35 @@ tags:
   - api-anonymization
   - api-management
   - api-rate-limiting
+  - api-security
   - bullish
+  - claw-shield
   - cost-optimization
   - cost-saving
   - daily-digest
+  - data-privacy
   - developer
   - enterprise
+  - geofencing
+  - github
+  - hacker-news
   - hybrid-deployment
   - inference-privacy
   - inference-security
   - intermediate
   - local-llm-deployment
+  - model-routing
   - neutral
   - privacy
   - privacy-compliance
+  - rate-limit-circumvention
   - regulatory-compliance
   - security
   - showcase
   - tools
 mentions:
+  - name: claw-shield
+    role: project
   - name: Hacker News
     role: publisher
   - name: GitHub

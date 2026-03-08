@@ -1,13 +1,29 @@
 ---
-title: "Sarvam AI Releases 30B and 105B Open-Source Models Trained from Scratch"
+title: Sarvam AI Releases 30B and 105B Open-Source Models Trained from Scratch
 date: 2026-03-07
-description: "Sarvam AI, an Indian-based company, has released two new open-source models (30B and 105B parameters) trained entirely from scratch. These models represent a significant contribution to the open-source ecosystem and are immediately available for local deployment without licensing restrictions."
+description: Sarvam AI, an Indian-based company, has released two new open-source models (30B and 105B parameters) trained entirely from scratch. These models represent a significant contribution to the open-source ecosystem and are immediately available for local deployment without licensing restrictions.
 tags:
-  - daily-digest
-  - open-source
-  - model-release
+  - analysis
   - benchmark
-status: draft
+  - bullish
+  - community-feedback
+  - decentralized-ai-development
+  - developer
+  - intermediate
+  - llm-ecosystem-diversity
+  - llm-ecosystem-growth
+  - local-deployment
+  - model-diversity
+  - model-release
+  - model-training
+  - open-source
+  - open-source-llm
+  - release
+  - sarvam-ai
+mentions:
+  - name: Sarvam AI
+    role: developer
+status: published
 ---
 
 Sarvam AI has entered the open-source LLM space with a 30B and 105B parameter model trained entirely from their own training infrastructure and data pipelines. Rather than fine-tuning existing models, these are ground-up implementations, which diversifies the open-source landscape and reduces dependency on a small number of base model families.

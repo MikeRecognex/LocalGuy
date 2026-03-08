@@ -6,21 +6,27 @@ tags:
   - advanced
   - ai-assisted-development
   - analysis
+  - bullish
   - change-intent-records
   - daily-digest
   - developer
   - developer-experience
+  - developer-intent-capture
   - developer-workflows
   - edge-device
   - edge-inference
   - fine-tuning
   - fine-tuning-datasets
+  - hacker-news
   - intermediate
   - local-inference
   - local-model-fine-tuning
+  - local-model-optimization
+  - model-efficiency
   - model-optimization
   - model-performance
   - specialized-inference-models
+  - training-data-quality
 mentions:
   - name: Hacker News
     role: publisher

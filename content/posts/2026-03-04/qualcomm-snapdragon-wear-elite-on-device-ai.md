@@ -17,8 +17,10 @@ tags:
   - on-device-ai
   - on-device-inference
   - power-efficiency
+  - qualcomm
   - quantisation
   - release
+  - resource-constrained-ai
   - wearable-ai
   - wearables
   - wearables-ai

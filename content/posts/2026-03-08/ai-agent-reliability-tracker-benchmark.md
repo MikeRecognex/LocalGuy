@@ -1,14 +1,35 @@
 ---
-title: "AI Agent Reliability Tracker"
+title: AI Agent Reliability Tracker
 date: 2026-03-08
-description: "Princeton's reliability tracking tool provides benchmarking and monitoring capabilities for AI agents, offering metrics crucial for evaluating local deployment stability."
+description: Princeton's reliability tracking tool provides benchmarking and monitoring capabilities for AI agents, offering metrics crucial for evaluating local deployment stability.
 tags:
-  - daily-digest
-  - benchmark
+  - agent-benchmarking
+  - agent-failure-modes
   - agents
+  - ai-agent-reliability
+  - benchmark
+  - bullish
+  - developer
   - evaluation
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - model-evaluation
   - monitoring
-status: draft
+  - neutral
+  - princeton
+  - princeton-university
+  - rag-systems
+  - self-hosting
+  - showcase
+mentions:
+  - name: Princeton
+    role: researcher
+  - name: Princeton University
+    role: researcher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The AI Agent Reliability Tracker from Princeton's HAL lab addresses a critical gap in local LLM deployment: systematic evaluation of agent behavior and failure modes. As practitioners move from simple inference to agent-based architectures running locally, understanding reliability metrics becomes essential for production deployments.

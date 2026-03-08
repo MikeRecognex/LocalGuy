@@ -1,14 +1,31 @@
 ---
-title: "Self-Hosted Paperless-ngx With Optional Local AI Integration"
+title: Self-Hosted Paperless-ngx With Optional Local AI Integration
 date: 2026-03-07
-description: "Adafruit demonstrates how to combine the document management system Paperless-ngx with local AI models for intelligent document processing. This practical setup guide showcases real-world self-hosted applications."
+description: Adafruit demonstrates how to combine the document management system Paperless-ngx with local AI models for intelligent document processing. This practical setup guide showcases real-world self-hosted applications.
 tags:
-  - daily-digest
-  - self-hosted
+  - adafruit
+  - bullish
+  - data-privacy
+  - developer
+  - document-classification
   - document-processing
-  - practical-guide
+  - intermediate
+  - local-ai-integration
+  - local-inference
   - open-source
-status: draft
+  - open-source-tools
+  - practical-guide
+  - self-hosted
+  - self-hosting
+  - showcase
+  - tutorial
+  - ngx-local-ai
+mentions:
+  - name: Adafruit
+    role: publisher
+  - name: Adafruit
+    role: publisher
+status: published
 ---
 
 The integration of local LLMs with Paperless-ngx demonstrates a compelling use case for on-device AI: intelligent document management and processing. By combining a self-hosted document system with local language models, users can perform OCR enhancement, document classification, metadata extraction, and content summarization entirely within their infrastructure, avoiding vendor lock-in and data exposure to cloud services.

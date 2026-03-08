@@ -8,18 +8,22 @@ tags:
   - benchmark-report
   - benchmarking
   - bullish
+  - comparison
+  - consumer-gpu
   - deployment-strategy
   - developer
   - gguf
   - gguf-format
   - intermediate
   - local-deployment
+  - model-benchmarking
   - model-evaluation
   - model-optimization
   - model-quantization
   - quantisation
   - qwen
   - qwen-model
+  - resource-optimization
 status: draft
 ---
 

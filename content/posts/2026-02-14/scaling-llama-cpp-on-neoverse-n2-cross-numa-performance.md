@@ -9,6 +9,7 @@ tags:
   - arm-optimization
   - arm-processor
   - arm-processor-optimization
+  - arm-server
   - arm-silicon
   - bullish
   - cpu-only
@@ -22,11 +23,15 @@ tags:
   - llama-cpp-optimization
   - llm-performance
   - local-inference
+  - local-inference-scaling
+  - memory-access-patterns
   - memory-management
+  - memory-optimization
   - numa-optimization
   - offline-deployment
   - performance-tuning
   - production-ops
+  - semiconductor-engineering
 mentions:
   - name: Semiconductor Engineering
     role: publisher

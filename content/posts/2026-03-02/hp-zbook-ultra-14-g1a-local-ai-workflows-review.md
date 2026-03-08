@@ -29,6 +29,10 @@ tags:
   - workstation
   - workstation-hardware
   - workstation-laptop
+  - data-throughput
+  - HP
+  - Zbook
+  - G1a
 status: published
 ---
 

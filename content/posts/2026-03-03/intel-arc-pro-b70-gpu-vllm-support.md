@@ -24,6 +24,8 @@ tags:
   - vllm-support
   - workstation
   - workstation-ai
+  - intel
+  - ArcProB70
 mentions:
   - name: wccftech.com
     role: publisher

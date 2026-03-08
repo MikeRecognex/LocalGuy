@@ -20,10 +20,11 @@ tags:
   - pytorch
   - pytorch-integration
   - release
+  - pytorch-ecosystem
 mentions:
   - name: IBM Research
     role: developer
-status: draft
+status: published
 ---
 
 IBM Research's work on PyTorch-native support for the Spyre Accelerator extends the tooling ecosystem for hardware-accelerated local inference. By integrating directly with PyTorch—the dominant framework for ML practitioners—this support lowers friction for deploying optimised models on IBM's specialised accelerator hardware.

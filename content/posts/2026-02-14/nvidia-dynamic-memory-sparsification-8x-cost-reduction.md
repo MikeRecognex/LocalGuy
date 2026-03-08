@@ -25,6 +25,7 @@ tags:
   - nvidia
   - offline-deployment
   - release
+  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: source

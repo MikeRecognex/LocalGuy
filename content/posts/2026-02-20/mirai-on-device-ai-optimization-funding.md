@@ -15,26 +15,34 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
+  - edge-inference-optimization
   - intermediate
+  - mirai
   - model-deployment
+  - model-optimization
   - news
   - offline-deployment
   - on-device-ai-optimization
+  - prisma
   - privacy
   - privacy-compliance
   - privacy-critical-applications
   - production-ops
   - quantisation
+  - reface
+  - resource-constrained-deployment
   - resource-optimization
   - self-hosted
   - self-hosted-ai
+  - self-hosted-inference
+  - whalesbook
 mentions:
   - name: Mirai
-    role: startup
+    role: company
   - name: Reface
-    role: creator
+    role: founder-company
   - name: Prisma
-    role: creator
+    role: founder-company
   - name: Mirai
     role: developer
   - name: Whalesbook

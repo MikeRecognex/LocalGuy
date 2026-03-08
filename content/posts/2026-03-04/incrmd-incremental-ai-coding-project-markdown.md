@@ -15,6 +15,8 @@ tags:
   - developer-productivity
   - development-tools
   - fine-tuning
+  - hacker-news
+  - incrmd
   - intermediate
   - llm-prompt-engineering
   - local-llm-development

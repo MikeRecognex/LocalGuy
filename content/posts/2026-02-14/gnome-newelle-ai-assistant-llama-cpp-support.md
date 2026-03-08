@@ -5,18 +5,25 @@ description: The open-source GNOME AI assistant Newelle now integrates directly 
 tags:
   - bullish
   - command-execution
+  - consumer-gpu
+  - cpu-only
+  - desktop-ai-assistant
   - desktop-integration
   - developer
   - developer-tooling
+  - gnome
   - intermediate
   - linux-desktop-ai
   - llama
   - llama-cpp
   - llama-cpp-integration
+  - local-ai-deployment
   - local-deployment
   - local-inference
+  - news
   - offline-deployment
   - open-source
+  - phoronix
   - privacy
   - privacy-compliance
   - privacy-focused-inference
@@ -26,8 +33,6 @@ tags:
   - voice-assistant
 mentions:
   - name: GNOME
-    role: project
-  - name: Newelle
     role: project
   - name: Phoronix
     role: publisher

@@ -1,13 +1,32 @@
 ---
-title: "HP Refreshes Lineup with AI-Focused Workstations"
+title: HP Refreshes Lineup with AI-Focused Workstations
 date: 2026-03-08
-description: "HP introduces new AI-optimized workstations designed for local model deployment and on-device inference. These systems target professionals running large language models locally with enhanced compute and memory configurations."
+description: HP introduces new AI-optimized workstations designed for local model deployment and on-device inference. These systems target professionals running large language models locally with enhanced compute and memory configurations.
 tags:
-  - daily-digest
-  - hardware
-  - workstations
+  - ai-workstations
+  - analysis
+  - bullish
+  - cpp-inference-engine
+  - data-privacy
+  - developer
   - edge-inference
-status: draft
+  - hardware
+  - hardware-optimization
+  - hp
+  - inference-performance
+  - intermediate
+  - latency-optimization
+  - local-model-deployment
+  - neutral
+  - on-premise-inference
+  - release
+  - vllm-inference-engine
+  - workstation-hardware
+  - workstations
+mentions:
+  - name: HP
+    role: manufacturer
+status: published
 ---
 
 HP's latest workstation refresh brings significant improvements for local LLM deployment scenarios. The new lineup features enhanced GPU configurations and increased memory capacity, making them well-suited for running quantized and full-precision models on-premises.

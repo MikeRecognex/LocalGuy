@@ -1,14 +1,31 @@
 ---
 title: "Benchmark: Local Open-Source LLMs Competitive in Real-Time Trading Applications"
 date: 2026-03-08
-description: "A comprehensive benchmarking study comparing 10 LLMs including DeepSeek, Llama, and Qwen on real-time options trading reveals that local open-source models are surprisingly competitive with closed-source alternatives on practical decision-making tasks."
+description: A comprehensive benchmarking study comparing 10 LLMs including DeepSeek, Llama, and Qwen on real-time options trading reveals that local open-source models are surprisingly competitive with closed-source alternatives on practical decision-making tasks.
 tags:
-  - daily-digest
-  - benchmark
-  - open-source
+  - advanced
   - agents
+  - analysis
+  - benchmark
+  - benchmark-report
+  - bullish
+  - decision-making-ai
+  - enterprise
+  - enterprise-llm-deployment
+  - inference-speed
+  - intermediate
+  - llm-benchmarking
+  - local-inference-benefits
+  - local-llms
+  - market-data-analysis
+  - open-source
+  - real-time-trading
   - real-world-application
-status: draft
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 Moving beyond synthetic benchmarks, this real-world evaluation tests 10 LLMs on live market trading decisions—a domain where model accuracy directly translates to financial consequences. The finding that local open-source models like Qwen and Llama remain competitive with proprietary alternatives on decision-making tasks validates their production-readiness for sophisticated applications requiring both reasoning and rapid inference.

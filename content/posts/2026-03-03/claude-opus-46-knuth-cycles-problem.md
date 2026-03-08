@@ -18,6 +18,8 @@ tags:
   - reasoning
   - researcher
   - showcase
+  - blockchain-authentication
+  - Knuth
 mentions:
   - name: Don Knuth
     role: computer science legend

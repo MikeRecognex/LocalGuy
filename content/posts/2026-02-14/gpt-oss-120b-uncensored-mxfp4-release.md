@@ -10,6 +10,7 @@ tags:
   - developer
   - developer-tooling
   - efficient-model-training
+  - efficient-training
   - gpt-oss
   - local-deployment
   - low-precision-training
@@ -22,7 +23,9 @@ tags:
   - mxfp4-precision
   - offline-deployment
   - quantisation
+  - reddit
   - release
+  - rlocalllama
   - training
   - uncensored-models
 mentions:

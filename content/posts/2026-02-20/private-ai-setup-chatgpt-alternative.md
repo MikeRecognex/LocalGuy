@@ -5,12 +5,14 @@ description: "MakeUseOf features a detailed account of building a self-hosted LL
 tags:
   - analysis
   - bullish
+  - cloud-cost-analysis
   - cloud-cost-comparison
   - cloud-independence
   - cost-analysis
   - cost-saving
   - daily-digest
   - data-privacy
+  - decentralized-inference
   - developer
   - distributed-inference
   - edge-deployment
@@ -18,6 +20,7 @@ tags:
   - intermediate
   - local-inference
   - local-inference-adoption
+  - makeuseof
   - model-optimization
   - offline-deployment
   - privacy

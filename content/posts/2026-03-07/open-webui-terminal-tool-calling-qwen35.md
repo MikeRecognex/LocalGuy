@@ -1,14 +1,34 @@
 ---
-title: "Open WebUI Adds Native Terminal Tool Calling with Qwen3.5 35B Support"
+title: Open WebUI Adds Native Terminal Tool Calling with Qwen3.5 35B Support
 date: 2026-03-07
-description: "Open WebUI has integrated native tool calling and open terminal functionality, enabling direct system command execution through Qwen3.5 35B. This breakthrough allows local LLM deployments to interact with system environments in real-time, significantly expanding their practical applications."
+description: Open WebUI has integrated native tool calling and open terminal functionality, enabling direct system command execution through Qwen3.5 35B. This breakthrough allows local LLM deployments to interact with system environments in real-time, significantly expanding their practical applications.
 tags:
-  - daily-digest
-  - open-webui
-  - open-source
+  - agent-orchestration
   - agents
+  - autonomous-agents
+  - bullish
+  - coding-assistant
+  - developer
+  - intermediate
+  - local-agents
+  - local-deployment
+  - open-source
+  - open-webui
+  - privacy-compliance
   - qwen
-status: draft
+  - release
+  - rlocalllama
+  - showcase
+  - system-administration
+  - system-automation
+  - terminal-integration
+  - tool-calling
+mentions:
+  - name: Open WebUI
+    role: developer
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 Open WebUI's development team has shipped a significant update combining open terminal functionality with native tool calling capabilities. When paired with the Qwen3.5 35B model, this enables local LLM instances to execute system commands, read outputs, and iterate on solutions—essentially creating autonomous agents that can operate directly on your machine.

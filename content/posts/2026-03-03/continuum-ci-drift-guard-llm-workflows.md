@@ -16,6 +16,7 @@ tags:
   - reproducibility
   - showcase
   - workflow-management
+  - Continuum
 mentions:
   - name: Continuum
     role: tool

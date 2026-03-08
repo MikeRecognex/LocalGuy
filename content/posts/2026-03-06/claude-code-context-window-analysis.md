@@ -26,7 +26,7 @@ mentions:
     role: community-publisher
   - name: theredbeard.io
     role: publisher
-status: draft
+status: published
 ---
 
 A comprehensive technical audit traced how Claude Code manages tool definitions and discovered it sends approximately 62,600 characters of tool definition data per turn. By comparing this against five different CLI-based implementations, the analysis reveals significant variation in how different tools allocate limited context window space.

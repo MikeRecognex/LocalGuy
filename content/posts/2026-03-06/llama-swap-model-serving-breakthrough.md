@@ -20,10 +20,11 @@ tags:
   - operational-efficiency
   - practical-experience
   - tools
+  - llama-swap
 mentions:
   - name: Reddit
     role: publisher
-status: draft
+status: published
 ---
 
 A growing consensus in the LocalLLaMA community suggests llama-swap represents a meaningful leap forward in local model serving compared to entrenched solutions like Ollama and LM-Studio. While both incumbents offer "load models on demand" features, users report that llama-swap's approach delivers superior performance and reliability for switching between multiple models without constant reloading overhead.

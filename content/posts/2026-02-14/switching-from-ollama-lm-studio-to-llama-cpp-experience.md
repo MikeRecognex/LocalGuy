@@ -9,18 +9,23 @@ tags:
   - developer
   - developer-tooling
   - gui-tools
+  - inference-optimization
   - intermediate
+  - its-foss
   - llama
   - llama-cpp
   - llama-cpp-usage
+  - llm-performance-comparison
   - lm-studio
   - local-llm-stack
+  - local-llm-tools
   - neutral
   - offline-deployment
   - ollama
   - performance-benchmarking
   - performance-evaluation
   - performance-metrics
+  - resource-management
   - resource-optimization
 mentions:
   - name: It's FOSS

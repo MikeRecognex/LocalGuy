@@ -12,6 +12,7 @@ tags:
   - gui-vs-cli
   - inference-optimization
   - intermediate
+  - its-foss
   - llama
   - llama-cpp
   - llama-cpp-optimization

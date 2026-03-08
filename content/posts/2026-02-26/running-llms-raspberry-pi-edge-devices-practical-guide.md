@@ -7,9 +7,12 @@ tags:
   - bullish
   - daily-digest
   - developer
+  - edge-ai-deployment
   - edge-deployment
   - edge-device
+  - edge-device-deployment
   - edge-inference
+  - embedded-systems
   - hardware
   - intermediate
   - iot-ai
@@ -19,6 +22,7 @@ tags:
   - privacy-preserving-ai
   - quantisation
   - raspberry-pi
+  - sitepoint
   - tutorial
 mentions:
   - name: Sitepoint

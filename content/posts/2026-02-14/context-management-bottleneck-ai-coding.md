@@ -10,21 +10,27 @@ tags:
   - cautious
   - coding
   - consumer-gpu
+  - consumer-hardware
   - context-management
   - context-window
   - context-window-limitations
   - developer
   - developer-tooling
+  - hacker-news
   - intermediate
   - llama
   - llama-cpp
   - local-coding-assistants
+  - local-llm-deployment
   - local-llm-tools
   - long-context-handling
   - memory-management
+  - model-scaling
+  - multi-file-context
   - neutral
   - offline-deployment
   - ollama
+  - opinion
 mentions:
   - name: Hacker News
     role: publisher

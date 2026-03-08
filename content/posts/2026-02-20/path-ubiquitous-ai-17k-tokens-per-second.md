@@ -3,8 +3,8 @@ title: The Path to Ubiquitous AI (17k tokens/sec)
 date: 2026-02-20
 description: A technical analysis of achieving 17,000 tokens per second inference throughput, demonstrating the performance milestones required for truly practical local LLM deployment at scale.
 tags:
-  - UbiquitousAI
   - advanced
+  - ai-ubiquity
   - analysis
   - benchmark-report
   - benchmarks
@@ -14,12 +14,16 @@ tags:
   - daily-digest
   - deployment-strategy
   - developer
+  - hacker-news
   - high-throughput-inference
   - inference-speed
+  - inference-throughput
   - intermediate
   - llm-optimization
   - local-llm-deployment
+  - model-optimization
   - multi-user-deployment
+  - neutral
   - offline-deployment
   - performance-bottlenecks
   - performance-optimization
@@ -28,9 +32,7 @@ tags:
   - quantization
   - real-time-ai
   - self-hosted
-mentions:
-  - name: Hacker News
-    role: publisher
+  - ubiquitousai
 status: draft
 ---
 

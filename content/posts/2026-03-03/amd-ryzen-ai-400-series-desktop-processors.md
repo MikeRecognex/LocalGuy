@@ -21,6 +21,7 @@ tags:
   - npu-performance
   - on-device-llm-deployment
   - release
+  - ryzen
 mentions:
   - name: Tweaktown
     role: publisher

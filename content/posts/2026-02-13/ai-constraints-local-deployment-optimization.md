@@ -13,6 +13,7 @@ tags:
   - developer
   - developer-tooling
   - efficient-inference
+  - hacker-news
   - hardware-constraints
   - intermediate
   - local-inference
@@ -24,6 +25,7 @@ tags:
   - optimization-strategies
   - resource-constraints
   - resource-management
+  - substack
 
 mentions:
   - name: Substack

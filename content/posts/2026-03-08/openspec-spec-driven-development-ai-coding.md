@@ -1,14 +1,33 @@
 ---
 title: "OpenSpec: Spec-driven development (SDD) for AI coding assistants"
 date: 2026-03-08
-description: "OpenSpec introduces a specification-driven development framework designed to improve reliability and consistency of local AI coding assistants through structured specifications."
+description: OpenSpec introduces a specification-driven development framework designed to improve reliability and consistency of local AI coding assistants through structured specifications.
 tags:
-  - daily-digest
+  - advanced
   - agents
+  - ai-coding-assistants
+  - bullish
   - coding-assistants
-  - open-source
+  - developer
+  - development-methodology
+  - fission-ai
   - frameworks
-status: draft
+  - hacker-news
+  - hallucination-reduction
+  - intermediate
+  - local-development
+  - model-reliability
+  - open-source
+  - open-source-tool
+  - production-deployment
+  - showcase
+  - spec-driven-development
+mentions:
+  - name: Fission-AI
+    role: developer
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 OpenSpec represents a methodological advancement for developers deploying local AI coding assistants. Spec-driven development (SDD) provides a structured approach to guide model behavior and output, potentially improving the reliability of locally-hosted coding models that power IDE integrations and development tools.

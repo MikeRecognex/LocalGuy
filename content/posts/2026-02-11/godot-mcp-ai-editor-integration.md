@@ -3,6 +3,7 @@ title: Godot MCP Gives AI Assistants Full Access to Game Engine Editor
 date: 2026-02-11
 description: New open-source project enables AI assistants to directly interact with the Godot game engine editor through the Model Context Protocol, streamlining AI-assisted development.
 tags:
+  - ai-assisted-game-development
   - ai-automation
   - ai-development-workflow
   - ai-game-development
@@ -11,21 +12,29 @@ tags:
   - cloud-independence
   - developer
   - developer-tooling
+  - github
   - godot
+  - godot-mcp
+  - hacker-news
   - intermediate
+  - local-ai-applications
   - local-ai-integration
   - local-automation
   - local-deployment
   - mcp
   - mcp-protocol
   - model-context-protocol
+  - news
   - offline-deployment
   - open-source
   - protocol-integration
   - release
   - showcase
+  - workflow-automation
   - workflow-integration
 mentions:
+  - name: Godot
+    role: game-engine-project
   - name: GitHub
     role: repository
   - name: Hacker News

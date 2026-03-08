@@ -1,14 +1,32 @@
 ---
-title: "Qwen 3.5 27B Achieves Strong Local Inference Performance"
+title: Qwen 3.5 27B Achieves Strong Local Inference Performance
 date: 2026-03-08
-description: "Users report impressive performance metrics with Qwen 3.5 27B running locally, achieving 90 tokens/second on consumer hardware and demonstrating competitive results against proprietary models."
+description: Users report impressive performance metrics with Qwen 3.5 27B running locally, achieving 90 tokens/second on consumer hardware and demonstrating competitive results against proprietary models.
 tags:
-  - daily-digest
-  - qwen
+  - analysis
   - benchmark
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - inference-speed
+  - intermediate
+  - local-inference
+  - model-benchmarking
+  - model-deployment
+  - model-evaluation
+  - model-quantization
   - quantisation
-status: draft
+  - qwen
+  - qwen-model
+  - rlocalllama
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: community-forum
+status: published
 ---
 
 The Qwen 3.5 27B model is showing promising results for local deployment, with community members reporting 90 tokens/second throughput using Q4 quantization on consumer-grade GPUs. This represents a significant milestone for efficient model deployment, as users can achieve substantial performance gains while maintaining reasonable resource requirements.

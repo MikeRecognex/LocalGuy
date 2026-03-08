@@ -9,17 +9,24 @@ tags:
   - agents
   - analysis
   - bullish
+  - context-management
   - daily-digest
   - debugging
   - developer
+  - github-gist
+  - hacker-news
   - inference-pipeline-control
+  - intermediate
+  - llm-output-degradation
   - llm-performance-degradation
   - local-agent-deployment
+  - local-inference
   - local-llm-deployment
   - neutral
   - optimization
   - prompt-decay
   - prompt-engineering
+  - prompt-optimization
   - tutorial
 mentions:
   - name: GitHub Gist

@@ -1,14 +1,31 @@
 ---
-title: "Qwen3-Coder-Next Achieves Top Ranking on SWE-bench at Pass@5"
+title: Qwen3-Coder-Next Achieves Top Ranking on SWE-bench at Pass@5
 date: 2026-03-07
-description: "The Qwen3-Coder-Next model has reached the top position on SWE-bench leaderboards across both open-source and proprietary models, despite being an instruction-tuned model rather than a reasoning model. Its exceptional performance at error recovery and code fixing makes it a standout choice for local development workflows."
+description: The Qwen3-Coder-Next model has reached the top position on SWE-bench leaderboards across both open-source and proprietary models, despite being an instruction-tuned model rather than a reasoning model. Its exceptional performance at error recovery and code fixing makes it a standout choice for local development workflows.
 tags:
-  - daily-digest
-  - qwen
   - benchmark
-  - open-source
+  - bullish
+  - code-fixing
   - code-generation
-status: draft
+  - developer
+  - error-recovery
+  - instruction-tuning
+  - intermediate
+  - iterative-refinement
+  - local-coding-assistants
+  - local-development
+  - open-source
+  - open-source-llms
+  - qwen
+  - qwen3-coder-next
+  - rlocalllama
+  - showcase
+  - software-development-ai
+  - swe-bench
+mentions:
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 Qwen3-Coder-Next has unexpectedly emerged as the top-ranked model on SWE-bench at Pass@5 evaluation, outperforming both open-source and closed-source competitors. What makes this remarkable is that it's an 80B instruction-tuned model—not a reasoning or "thinking" model—yet it demonstrates superior capability at practical coding tasks that matter to developers.

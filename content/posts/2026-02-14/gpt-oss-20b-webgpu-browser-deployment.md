@@ -7,6 +7,7 @@ tags:
   - browser-based-ai
   - bullish
   - client-side-inference
+  - cloud-independence
   - consumer-gpu
   - data-privacy
   - developer
@@ -25,12 +26,11 @@ tags:
   - privacy-preserving-ai
   - release
   - showcase
+  - web-ai
   - web-ai-applications
   - webgpu
   - webgpu-acceleration
-mentions:
-  - name: webml-community
-    role: community
+  - webml-community
 status: draft
 ---
 

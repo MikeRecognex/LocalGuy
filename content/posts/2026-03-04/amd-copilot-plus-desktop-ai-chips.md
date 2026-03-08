@@ -3,6 +3,7 @@ title: AMD Launches Copilot+ Desktop Chips to Compete in On-Device AI Market
 date: 2026-03-04
 description: AMD has entered the on-device AI competition with its first Copilot+ certified desktop processors, offering an alternative to Intel and Apple for local model inference. The chips target the growing market of Windows-based AI workstations and edge devices requiring native AI acceleration.
 tags:
+  - ai-acceleration
   - amd
   - amd-optimization
   - analysis
@@ -10,6 +11,7 @@ tags:
   - bullish
   - consumer-gpu
   - copilot-plus
+  - copilot-plus-integration
   - cpu-only
   - developer
   - edge-ai

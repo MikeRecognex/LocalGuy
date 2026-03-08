@@ -4,6 +4,7 @@ date: 2026-02-20
 description: "Forked introduces time-travel debugging capabilities for local LLM-based agents, enabling developers to inspect and replay agent execution states for better debugging and optimization."
 tags:
   - advanced
+  - agent-debugging
   - agent-frameworks
   - agent-monitoring
   - agents
@@ -14,22 +15,26 @@ tags:
   - developer
   - developer-tooling
   - edge-deployment
+  - hacker-news
   - intermediate
   - llm-agents
+  - local-agents
   - local-deployment
+  - murbotlabs
   - offline-deployment
   - openclaw
   - production-deployment
   - production-ops
   - showcase
   - time-travel-debugging
+  - token-management
 mentions:
   - name: MurbotLabs
     role: developer
   - name: Hacker News
     role: publisher
   - name: MurbotLabs
-    role: developer
+    role: project-owner
 status: draft
 ---
 

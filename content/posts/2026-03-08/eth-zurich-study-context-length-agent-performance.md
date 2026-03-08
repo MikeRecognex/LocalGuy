@@ -1,14 +1,41 @@
 ---
-title: "ETH Zurich Research Challenges Context-Length Assumptions in LLM Agents"
+title: ETH Zurich Research Challenges Context-Length Assumptions in LLM Agents
 date: 2026-03-08
-description: "A peer-reviewed study from ETH Zurich demonstrates that larger context windows don't consistently improve agent performance on real coding tasks, with context inflation actually reducing success rates by 2-3% while increasing costs by 20%."
+description: A peer-reviewed study from ETH Zurich demonstrates that larger context windows don't consistently improve agent performance on real coding tasks, with context inflation actually reducing success rates by 2-3% while increasing costs by 20%.
 tags:
-  - daily-digest
-  - research
+  - advanced
+  - agent-performance-evaluation
+  - agent-systems
   - agents
-  - optimization
+  - analysis
+  - cautious
+  - consumer-gpu
+  - context-optimization
   - context-window
-status: draft
+  - context-window-limitations
+  - developer
+  - engineers-codex
+  - eth-zurich
+  - inference-cost-optimization
+  - intermediate
+  - llm-agent-context
+  - local-deployment-strategy
+  - local-llm-deployment
+  - neutral
+  - optimization
+  - research
+  - research-report
+  - rlocalllama
+mentions:
+  - name: ETH Zurich
+    role: research institution
+  - name: ETH Zurich
+    role: researcher
+  - name: Engineers Codex
+    role: publisher
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 A rigorous academic study evaluating four coding agents across 138 real GitHub tasks challenges a widespread assumption in local LLM deployment: that more context always improves performance. The research found that auto-generated context files actually reduced task success rates by 2-3% while simultaneously increasing inference costs by 20%, suggesting that naive context expansion is counterproductive.

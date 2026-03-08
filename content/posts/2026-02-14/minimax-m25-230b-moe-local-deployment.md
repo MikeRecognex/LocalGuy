@@ -7,10 +7,12 @@ tags:
   - apple-silicon
   - benchmarks
   - bullish
+  - coding-reasoning
   - consumer-gpu
   - developer
   - edge-deployment
   - gguf-quantization
+  - hardware-optimization
   - intermediate
   - llama
   - llama-cpp

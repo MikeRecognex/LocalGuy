@@ -1,14 +1,32 @@
 ---
-title: "Reverse engineering a DOS game with no source code using Codex 5.4"
+title: Reverse engineering a DOS game with no source code using Codex 5.4
 date: 2026-03-08
-description: "A developer demonstrates running specialized inference tasks—reverse-engineering legacy code—using a local instance of Codex, showcasing capability depth in locally-deployed code models."
+description: A developer demonstrates running specialized inference tasks—reverse-engineering legacy code—using a local instance of Codex, showcasing capability depth in locally-deployed code models.
 tags:
-  - daily-digest
-  - coding-assistants
-  - inference
-  - open-source
+  - advanced
   - benchmark
-status: draft
+  - bullish
+  - case-study
+  - code-analysis
+  - code-llms
+  - coding-assistants
+  - cost-optimization
+  - data-privacy
+  - developer
+  - hacker-news
+  - inference
+  - intermediate
+  - local-code-models
+  - local-vs-cloud-deployment
+  - open-source
+  - program-comprehension
+  - reverse-engineering
+  - showcase
+  - specialized-inference
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This hands-on project demonstrates the practical power of locally-deployable code generation models on a non-trivial real-world task: reverse-engineering a complex DOS game without source code. Running Codex locally (or equivalent models like Mistral Code or Code Llama) enables developers to tackle specialized tasks that would otherwise require expensive API calls.

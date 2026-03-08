@@ -11,15 +11,18 @@ tags:
   - edge-deployment
   - edge-device
   - intermediate
+  - kitten-ml
   - kitten-tts
   - llama
   - llama-cpp
   - local-llm-deployment
+  - local-llm-integration
   - model-compression
   - offline-ai
   - offline-deployment
   - on-device-speech-synthesis
   - open-source
+  - open-source-ai
   - privacy
   - privacy-compliance
   - release

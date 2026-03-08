@@ -1,14 +1,30 @@
 ---
-title: "Building PyTorch-Native Support for IBM Spyre Accelerator"
+title: Building PyTorch-Native Support for IBM Spyre Accelerator
 date: 2026-03-07
-description: "IBM Research announces new PyTorch-native support for the IBM Spyre accelerator, enabling better integration of custom hardware with popular deep learning frameworks. This development simplifies local LLM deployment on specialized accelerators."
+description: IBM Research announces new PyTorch-native support for the IBM Spyre accelerator, enabling better integration of custom hardware with popular deep learning frameworks. This development simplifies local LLM deployment on specialized accelerators.
 tags:
-  - daily-digest
-  - hardware
   - accelerators
-  - pytorch
+  - advanced
+  - ai-accelerators
+  - analysis
+  - bullish
+  - custom-accelerator
+  - custom-asic
+  - developer
+  - edge-deployment
+  - edge-device
+  - enterprise
+  - hardware
+  - heterogeneous-deployment
+  - inference-cost-reduction
   - inference-optimization
-status: draft
+  - intermediate
+  - local-llm-deployment
+  - news
+  - on-device-inference
+  - pytorch
+  - pytorch-integration
+status: published
 ---
 
 IBM's introduction of PyTorch-native support for the Spyre accelerator removes a significant barrier to adopting alternative hardware for local LLM inference. Native framework support means developers can leverage Spyre's specialized architecture without complex custom code, making it easier to experiment with different inference accelerators alongside traditional GPUs and TPUs.

@@ -1,14 +1,36 @@
 ---
 title: "Show HN: Proxly – Self-hosted tunneling on your own domain in 60 seconds"
 date: 2026-03-08
-description: "Proxly enables rapid deployment of self-hosted services with custom domain tunneling, reducing infrastructure overhead for developers exposing locally-running applications."
+description: Proxly enables rapid deployment of self-hosted services with custom domain tunneling, reducing infrastructure overhead for developers exposing locally-running applications.
 tags:
-  - daily-digest
+  - bullish
+  - cloud-independence
+  - data-residency
   - deployment
-  - infrastructure
-  - open-source
+  - developer
   - edge-deployment
-status: draft
+  - hacker-news
+  - infrastructure
+  - infrastructure-automation
+  - infrastructure-management
+  - intermediate
+  - local-first-architecture
+  - local-service-exposure
+  - open-source
+  - proxly
+  - rapid-deployment
+  - secure-networking
+  - self-hosted-tunneling
+  - self-hosting-llms
+  - showcase
+mentions:
+  - name: Proxly
+    role: product
+  - name: Proxly
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 While not LLM-specific, Proxly addresses a genuine operational friction point for local LLM deployment: exposing locally-running inference services to remote clients or applications while maintaining control over your infrastructure and domain.

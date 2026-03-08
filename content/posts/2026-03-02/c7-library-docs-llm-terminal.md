@@ -19,6 +19,7 @@ tags:
   - privacy-preserving-ai
   - showcase
   - tools
+  - c7
 mentions:
   - name: Hacker News
     role: publisher

@@ -20,6 +20,7 @@ tags:
   - low-latency-inference
   - ollama
   - privacy-by-design
+  - sitepoint
   - tutorial
   - web-ai-development
 mentions:

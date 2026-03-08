@@ -6,19 +6,24 @@ tags:
   - agents
   - ai-assistant-features
   - bullish
+  - chosuncom
   - consumer-gpu
   - consumer-hardware-deployment
   - developer
   - edge-ai
   - edge-device
   - edge-inference
+  - google-news
   - intermediate
+  - kakao
+  - kanana
   - latency-reduction
   - mobile-ai
   - model-optimization
   - model-quantization
   - on-device-agents
   - on-device-ai
+  - on-device-deployment
   - practical-deployment
   - privacy-preserving-ai
   - release
@@ -28,8 +33,6 @@ mentions:
     role: developer
   - name: Kakao
     role: developer
-  - name: Chosun.com
-    role: publisher
   - name: Google News
     role: publisher
 status: draft

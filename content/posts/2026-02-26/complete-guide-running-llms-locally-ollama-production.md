@@ -9,6 +9,7 @@ tags:
   - daily-digest
   - data-privacy
   - deployment
+  - deployment-guide
   - developer
   - enterprise
   - inference-management
@@ -22,6 +23,7 @@ tags:
   - performance-optimization
   - production
   - production-deployment
+  - sitepoint
   - system-reliability
   - tutorial
 mentions:

@@ -7,6 +7,7 @@ tags:
   - agentic-inference
   - agents
   - analysis
+  - arxiv
   - bullish
   - consumer-gpu
   - daily-digest
@@ -18,20 +19,27 @@ tags:
   - inference
   - inference-optimization
   - inference-speed
+  - llm-optimization
   - local-deployment
   - local-deployment-at-scale
   - memory-bandwidth
   - model-throughput
   - optimization
+  - peking-university
   - release
+  - rlocalllama
   - storage-bandwidth-bottlenecks
+  - throughput-optimization
+  - tsinghua-university
 mentions:
   - name: Peking University
     role: research partner
   - name: Tsinghua University
     role: research partner
   - name: arXiv
-    role: publisher
+    role: research-repository
+  - name: r/LocalLLaMA
+    role: community-forum
 status: draft
 ---
 

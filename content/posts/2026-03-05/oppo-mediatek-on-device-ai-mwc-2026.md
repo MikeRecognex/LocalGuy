@@ -12,26 +12,30 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
+  - google-news
   - hardware
   - intermediate
+  - mediatek
   - mobile-ai
   - mobile-ai-architecture
+  - mobile-ai-architectures
   - model-quantization
   - on-device-ai
   - on-device-inference
+  - oppo
   - privacy-preserving-ai
   - quantisation
   - quantization
   - showcase
 mentions:
   - name: OPPO
-    role: manufacturer
+    role: developer
   - name: MediaTek
     role: chip-manufacturer
   - name: OPPO
-    role: collaborator
+    role: partner
   - name: MediaTek
-    role: collaborator
+    role: partner
   - name: Google News
     role: publisher
 status: draft

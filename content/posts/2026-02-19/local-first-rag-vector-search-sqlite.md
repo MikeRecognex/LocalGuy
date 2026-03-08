@@ -18,6 +18,7 @@ tags:
   - local-llm-deployment
   - local-rag
   - offline-deployment
+  - offline-inference
   - on-device-rag
   - privacy
   - privacy-compliance
@@ -25,6 +26,7 @@ tags:
   - rag-pipeline
   - resource-optimization
   - self-hosted-ai
+  - sitepoint
   - sqlite-vector-search
   - tutorial
 mentions:

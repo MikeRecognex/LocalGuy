@@ -1,14 +1,35 @@
 ---
 title: "Show HN: SimplAI – Build and Deploy AI Agents and Workflows Without Boilerplate"
 date: 2026-03-07
-description: "A new framework that simplifies building and deploying AI agents and workflows with minimal boilerplate code, reducing friction for local LLM application development."
+description: A new framework that simplifies building and deploying AI agents and workflows with minimal boilerplate code, reducing friction for local LLM application development.
 tags:
-  - daily-digest
   - agents
-  - frameworks
+  - ai-agent-development
+  - bullish
+  - code-auditing
+  - code-optimization
   - deployment
+  - developer
+  - enterprise
+  - frameworks
+  - hacker-news
+  - intermediate
+  - llm-application-development
+  - local-llm-deployment-security
+  - local-llm-development
+  - operational-efficiency
+  - self-hosting
+  - showcase
+  - simplai
+  - simplified-deployment
+  - software-architecture
   - workflow-automation
-status: draft
+mentions:
+  - name: SimplAI
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 SimplAI addresses a major pain point in local LLM deployment: the engineering overhead of building production agent systems. By eliminating boilerplate code, the framework allows developers to focus on defining agent behavior and workflows rather than managing infrastructure details. This is particularly valuable for teams wanting to self-host AI agent applications without extensive DevOps expertise.

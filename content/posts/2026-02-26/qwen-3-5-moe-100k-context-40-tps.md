@@ -18,10 +18,13 @@ tags:
   - long-context-window
   - mixture-of-experts
   - moe-inference
+  - moe-inference-efficiency
   - performance
   - quantisation
   - qwen
+  - rlocalllama
   - showcase
+  - vulkan-backend
 mentions:
   - name: r/LocalLLaMA
     role: community

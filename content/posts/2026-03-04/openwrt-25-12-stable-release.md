@@ -9,24 +9,29 @@ tags:
   - edge-ai-inference
   - edge-deployment
   - edge-device
+  - edge-device-deployment
   - edge-inference
+  - hacker-news
   - hardware
   - intermediate
   - local-llm-inference
   - local-semantic-search
   - model-quantization
   - network-content-filtering
+  - offline-inference
   - on-device-deployment
   - open-source
+  - openwrt
   - openwrt-release
   - optimization
+  - privacy-preserving-ai
   - privacy-preserving-recommendations
   - release
 mentions:
   - name: OpenWrt
     role: project
   - name: OpenWrt
-    role: platform
+    role: project
   - name: Hacker News
     role: publisher
 status: draft

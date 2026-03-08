@@ -7,16 +7,22 @@ tags:
   - advanced
   - analysis
   - bullish
+  - complex-problem-solving
   - consumer-gpu
+  - consumer-hardware
   - cost-saving
+  - deep-thinking
   - developer
   - developer-tooling
   - fp8-quantization
+  - inclusionai
   - intermediate
   - local-deployment
   - local-deployment-efficiency
   - memory-optimisation
+  - memory-optimization
   - model-compression
+  - model-quantization
   - multi-step-reasoning
   - offline-deployment
   - quantisation
@@ -24,6 +30,7 @@ tags:
   - reasoning-tasks
   - release
   - ring-1t
+  - showcase
 mentions:
   - name: inclusionAI
     role: developer

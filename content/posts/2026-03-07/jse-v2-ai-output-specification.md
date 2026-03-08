@@ -1,14 +1,32 @@
 ---
-title: "Jse v2.0 AI Output Specification"
+title: Jse v2.0 AI Output Specification
 date: 2026-03-07
-description: "A new specification for standardizing AI output formats, enabling better interoperability between local LLM systems and downstream applications."
+description: A new specification for standardizing AI output formats, enabling better interoperability between local LLM systems and downstream applications.
 tags:
-  - daily-digest
-  - standards
+  - ai-output-standardization
+  - bullish
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - intermediate
   - interoperability
-  - specifications
+  - llm-interoperability
+  - local-ai-stack
+  - local-inference-architecture
   - open-source
-status: draft
+  - release
+  - specifications
+  - standardized-formats
+  - standards
+  - system-composability
+  - system-optimization
+  - tutorial
+  - jse-v2-ai
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Standardization of AI output formats is essential for building modular, interoperable local LLM systems. Jse v2.0 represents an effort to create a structured specification that allows different LLMs and local inference engines to communicate output in a consistent, parseable format. This reduces friction when integrating multiple models or tools into a unified local AI stack.

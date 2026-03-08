@@ -23,10 +23,11 @@ tags:
   - reverse-captcha
   - security
   - showcase
+  - imrobot
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Imrobot inverts the traditional CAPTCHA paradigm to create a verification mechanism optimized for machine agents rather than humans. As autonomous LLM systems become more capable and prevalent, reliable agent authentication is becoming essential for controlling automated access to services and resources.

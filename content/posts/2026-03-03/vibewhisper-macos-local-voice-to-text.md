@@ -20,6 +20,7 @@ tags:
   - showcase
   - speech-recognition
   - voice-transcription
+  - VibeWhisper
 mentions:
   - name: VibeWhisper
     role: project

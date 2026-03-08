@@ -4,6 +4,7 @@ date: 2026-03-04
 description: A new deterministic policy engine designed to govern and constrain LLM actions in local deployments, enabling safe, predictable AI behavior without external APIs. Critical for production use of local models in risk-sensitive applications.
 tags:
   - advanced
+  - aetherya
   - agent-governance
   - agents
   - ai-safety
@@ -11,6 +12,7 @@ tags:
   - deterministic-policy-engine
   - edge-inference
   - enterprise
+  - hacker-news
   - llm-governance
   - local-deployment
   - local-llm-applicability
@@ -22,6 +24,7 @@ tags:
   - release
   - safety
   - showcase
+  - therya
 mentions:
   - name: Hacker News
     role: publisher

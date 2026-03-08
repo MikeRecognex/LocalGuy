@@ -1,14 +1,29 @@
 ---
 title: "Show HN: Ivy – the first proactive, offline AI tutor"
 date: 2026-03-08
-description: "Ivy is a new offline AI tutor designed to run locally without internet connectivity, enabling on-device educational assistance with proactive learning capabilities."
+description: Ivy is a new offline AI tutor designed to run locally without internet connectivity, enabling on-device educational assistance with proactive learning capabilities.
 tags:
-  - daily-digest
-  - offline-inference
-  - edge-deployment
-  - open-source
   - agents
-status: draft
+  - application-ecosystem
+  - bullish
+  - data-privacy
+  - developer
+  - edge-deployment
+  - educational-ai
+  - hacker-news
+  - intermediate
+  - local-inference
+  - local-llms
+  - offline-ai-tutor
+  - offline-inference
+  - on-device-ai
+  - open-source
+  - proactive-ai
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new project called Ivy demonstrates a practical application of local LLM deployment—an offline AI tutor that runs entirely on-device. This addresses a critical use case for local inference: educational tools that must function without cloud connectivity and can provide immediate, privacy-preserving assistance to learners.
