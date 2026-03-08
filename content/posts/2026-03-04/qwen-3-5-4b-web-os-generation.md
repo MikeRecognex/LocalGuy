@@ -19,7 +19,7 @@ tags:
   - single-pass-generation
   - small-llm-capabilities
   - small-model-deployment
-status: draft
+status: published
 ---
 
 In a striking demonstration of modern local LLM capability, [a user prompted Qwen 3.5-4B to generate a full web-based OS](https://www.youtube.com/watch?v=LsGwk2OkIMA) complete with custom wallpapers, games, text editor, audio player, and file browser—all in a single pass. The resulting WebOS 1.0 is fully functional and deployed live, proving that 4B parameter models can now handle surprisingly complex, multi-component code generation tasks.

@@ -28,7 +28,7 @@ mentions:
     role: platform provider
   - name: RunAnywhere
     role: platform-provider
-status: draft
+status: published
 ---
 
 RunAnywhere's new platform fills a critical gap in the local LLM deployment landscape by providing enterprise-grade tooling for managing inference workloads directly on devices. The platform is designed to handle the complexity of deploying, versioning, and monitoring multiple models across heterogeneous hardware, addressing pain points that teams encounter when moving beyond proof-of-concepts to production environments.

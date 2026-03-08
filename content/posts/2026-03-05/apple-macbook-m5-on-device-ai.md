@@ -24,7 +24,7 @@ tags:
   - on-device-ai
   - power-efficiency
   - release
-status: draft
+status: published
 ---
 
 Apple's latest MacBook Pro lineup with M5 Pro and M5 Max chips continues the company's emphasis on on-device AI capabilities, enabling users to run LLMs and AI workloads locally without relying on cloud services. The new silicon generations represent Apple's continued commitment to hardware-software co-design for efficient local inference.

@@ -24,7 +24,7 @@ tags:
   - qwen
   - qwen-model
   - resource-optimization
-status: draft
+status: published
 ---
 
 The local LLM community has completed a thorough Q4 quantization sweep of [Qwen 3.5-27B across major GGUF quantizers](https://www.reddit.com/r/LocalLLaMA/comments/1rk5qmr/qwen3527b_q4_quantization_comparison/), measuring mean KL-divergence against BF16 baseline. This data-driven comparison eliminates guesswork when deploying the model locally, providing clear trade-offs between file size, memory usage, and quality preservation.

@@ -36,7 +36,7 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 SynthesisOS is a groundbreaking local-first desktop environment designed to bring agentic AI capabilities directly to user machines without reliance on cloud infrastructure. Built entirely in Rust, this [project](https://github.com/GastonGelhorn/synthesis-os) tackles one of the most ambitious challenges in local LLM deployment: creating a full OS-level integration layer where AI agents can autonomously interact with applications, files, and system resources.

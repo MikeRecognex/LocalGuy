@@ -24,7 +24,7 @@ tags:
   - wearable-ai
   - wearables
   - wearables-ai
-status: draft
+status: published
 ---
 
 Qualcomm's Snapdragon Wear Elite chip represents a major milestone in extending on-device AI capabilities to the most constrained computing environments—smartwatches. The platform includes dedicated AI acceleration and optimized instruction sets that enable efficient inference of lightweight models directly on wearable devices, with improvements in both performance and battery efficiency compared to previous generations.

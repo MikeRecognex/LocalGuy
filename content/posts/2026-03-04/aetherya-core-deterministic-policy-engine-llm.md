@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 ÆTHERYA Core introduces a deterministic policy engine specifically designed to govern and constrain the actions of locally-deployed LLMs. This [framework](https://github.com/nayfly/aetherya-core) addresses a critical gap in local LLM deployment: ensuring that autonomous agents behave predictably and safely without relying on external cloud-based safety APIs or guardrail services.

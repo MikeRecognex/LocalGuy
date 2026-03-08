@@ -34,7 +34,7 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 OpenWrt 25.12.0 represents the latest stable milestone for the widely-adopted open-source router operating system. While OpenWrt itself isn't an LLM platform, this [release](https://openwrt.org/releases/25.12/notes-25.12.0) is relevant to the local LLM community because routers and edge gateways are increasingly attractive targets for deploying lightweight language models for on-network AI services.

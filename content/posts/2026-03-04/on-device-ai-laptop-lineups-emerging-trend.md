@@ -33,7 +33,7 @@ tags:
   - on-device-ai-laptops
   - privacy-compliance
   - quantization
-status: draft
+status: published
 ---
 
 The emergence of dedicated on-device AI laptop lineups across manufacturers signals a fundamental shift in consumer computing priorities. Rather than treating local inference as an afterthought, major OEMs are now designing entire product categories around efficient on-device AI execution, with purpose-built hardware, optimized operating systems, and pre-integrated frameworks specifically tuned for running language models and other AI workloads without cloud connectivity.

@@ -38,7 +38,7 @@ mentions:
     role: publisher
   - name: Hothardware.com
     role: publisher
-status: draft
+status: published
 ---
 
 Apple's M5 Pro and M5 Max chips represent a significant leap forward for on-device AI inference, featuring an upgraded Neural Engine and new Fusion Architecture with 'super cores' that dramatically improve performance for local model execution. These chips are specifically engineered to handle demanding AI workloads directly on the device, reducing latency and eliminating the need to offload inference to cloud services—a critical advantage for privacy-conscious users and enterprises deploying local LLMs.

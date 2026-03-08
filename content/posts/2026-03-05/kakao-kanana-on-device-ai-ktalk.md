@@ -35,7 +35,7 @@ mentions:
     role: developer
   - name: Google News
     role: publisher
-status: draft
+status: published
 ---
 
 Kakao has unveiled Kanana, an on-device AI assistant integrated directly into KakaoTalk that proactively manages schedules and provides personalized recommendations. This represents a real-world implementation of edge-based AI agents running locally on user devices rather than relying on cloud infrastructure.

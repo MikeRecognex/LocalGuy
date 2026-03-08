@@ -29,7 +29,7 @@ tags:
   - vendor-lock-in
   - windows
   - windows-ai
-status: draft
+status: published
 ---
 
 AMD's entry into the Copilot+ processor market with dedicated AI desktop chips provides Windows users and enterprise customers with competitive on-device AI options beyond Intel's offerings. These new processors feature dedicated AI accelerators and optimized memory architectures specifically designed for running language models and other AI workloads locally, complementing AMD's existing GPU lineup for accelerated inference.

@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-source
-status: draft
+status: published
 ---
 
 A developer working with Qwen 3.5-35B locally has [documented substantial cost savings](https://www.reddit.com/r/LocalLLaMA/comments/1rkai3l/ever_wonder_how_much_cost_you_can_save_when/) compared to cloud-based coding assistants like Claude. By running the model on local hardware (using both Q2_K_XL and Q4_K_M quantizations), they achieved comparable code generation quality while eliminating per-token API costs entirely.

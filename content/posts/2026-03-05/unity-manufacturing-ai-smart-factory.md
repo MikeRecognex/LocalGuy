@@ -34,7 +34,7 @@ mentions:
     role: developer
   - name: Google News
     role: source
-status: draft
+status: published
 ---
 
 Unity presented AI-powered manufacturing workflows at the Smart Factory Expo, showcasing how on-device inference enables real-time quality control, anomaly detection, and production optimization in industrial environments. This demonstration highlights a critical use case where local inference is not optional but essential.

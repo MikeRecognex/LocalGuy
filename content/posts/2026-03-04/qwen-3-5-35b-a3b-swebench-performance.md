@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 Qwen's latest 35B parameter model has achieved a landmark 37.8% score on SWE-bench Verified Hard, [nearly matching Claude Opus 4.6's 40%](https://www.reddit.com/r/LocalLLaMA/comments/1rkdlqi/qwen3535ba3b_hits_378_on_swebench_verified_hard/) performance with the right verification strategy. This represents a major breakthrough for local model deployment, as it demonstrates that reasonably-sized open models can now compete with enterprise closed-source solutions on complex software engineering tasks.

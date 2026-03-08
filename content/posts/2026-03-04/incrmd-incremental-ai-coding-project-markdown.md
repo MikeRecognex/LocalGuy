@@ -28,7 +28,7 @@ mentions:
     role: tool
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Incrmd presents an innovative workflow for AI-assisted coding that leverages a simple PROJECT.md specification file to drive incremental code generation with local language models. This [tool](https://github.com/b4rtaz/incrmd) enables developers to work with local LLMs for coding tasks by maintaining a clear, editable specification that guides the model's output rather than relying on complex prompting or chat-based interactions.

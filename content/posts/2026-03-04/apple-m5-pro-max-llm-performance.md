@@ -24,7 +24,7 @@ tags:
   - performance
   - release
   - user-experience
-status: draft
+status: published
 ---
 
 Apple has announced M5 Pro and M5 Max chips with significant optimizations for local LLM inference, claiming up to 4× faster prompt processing compared to the M4 generation. This milestone marks a substantial improvement in Apple Silicon's capability for running models like Qwen, Llama, and other open-source LLMs directly on MacBooks and iPads without external GPU acceleration.

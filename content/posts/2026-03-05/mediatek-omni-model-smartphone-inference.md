@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: The Tech Outlook
     role: publisher
-status: draft
+status: published
 ---
 
 MediaTek's ongoing development of the Omni model represents a significant push toward making truly capable multimodal AI accessible on smartphones. The Omni architecture is being specifically designed with efficiency as a first-class concern, allowing it to deliver meaningful intelligence directly on-device without requiring constant cloud connectivity or massive computational resources.

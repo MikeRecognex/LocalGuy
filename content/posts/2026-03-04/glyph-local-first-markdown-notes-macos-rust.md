@@ -29,7 +29,7 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Glyph is a new native macOS notes application that exemplifies the local-first philosophy increasingly adopted by developers building AI-native productivity tools. Written in Rust and designed around Markdown, [Glyph](https://glyphformac.com/) prioritizes user data privacy and offline-first operation—principles that naturally align with the local LLM movement.
