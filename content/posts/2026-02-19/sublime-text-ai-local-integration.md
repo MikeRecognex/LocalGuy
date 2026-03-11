@@ -12,6 +12,7 @@ tags:
   - data-privacy
   - developer
   - developer-tooling
+  - developer-tools
   - developer-workflow
   - developer-workflow-enhancement
   - editor-integration

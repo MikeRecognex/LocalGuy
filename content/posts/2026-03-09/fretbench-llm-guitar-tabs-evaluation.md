@@ -3,11 +3,39 @@ title: "FretBench – Testing 14 LLMs on Reading Guitar Tabs Reveals Performance
 date: 2026-03-09
 description: "A comprehensive benchmark evaluating 14 different LLMs on their ability to parse and understand guitar tablature exposes significant performance variations across models."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - benchmark-results
+  - bullish
+  - daily-digest
+  - developer
   - evaluation
-  - open-source
+  - fine-tuning
+  - fretbench
+  - fretbench-benchmark
+  - guitar-tablature-interpretation
+  - hacker-news
+  - intermediate
+  - llm-benchmarking
+  - llm-evaluation
+  - local-deployment-optimization
   - local-llms
+  - model-comparison
+  - model-evaluation
+  - model-performance
+  - model-performance-evaluation
+  - model-selection
+  - model-specialization
+  - neutral
+  - open-source
+  - specialized-ai-tasks
+  - specialized-llm-tasks
+  - task-specific-evaluation
+mentions:
+  - name: FretBench
+    role: publisher
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

@@ -9,6 +9,7 @@ tags:
   - analysis
   - apple-silicon
   - bullish
+  - code-generation
   - code-llm
   - code-llms
   - coding-assistance
@@ -17,6 +18,7 @@ tags:
   - developer-tooling
   - hacker-news
   - intermediate
+  - iterative-reasoning
   - language-models
   - llama
   - llama-cpp
@@ -29,6 +31,7 @@ tags:
   - model-comparison
   - model-quantization
   - multi-step-reasoning
+  - neutral
   - new-model-release
   - offline-deployment
   - ollama

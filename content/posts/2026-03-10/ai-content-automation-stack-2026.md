@@ -1,14 +1,35 @@
 ---
 title: "Community Survey: AI Content Automation Stacks in 2026"
 date: 2026-03-10
-description: "A Hacker News discussion reveals what tools and models practitioners are currently using for local and self-hosted AI content generation workflows."
+description: A Hacker News discussion reveals what tools and models practitioners are currently using for local and self-hosted AI content generation workflows.
 tags:
-  - daily-digest
-  - open-source
-  - tools
+  - ai-content-automation
+  - analysis
   - benchmarks
+  - bullish
+  - community-insights
+  - content-automation
+  - developer
+  - discussion
+  - framework-evaluation
+  - hacker-news
+  - hardware-selection
+  - inference-frameworks
+  - infrastructure-management
+  - intermediate
   - local-deployment
-status: draft
+  - local-llm-deployment
+  - model-selection
+  - neutral
+  - open-source
+  - quantization
+  - tools
+mentions:
+  - name: Hacker News
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This Ask HN thread provides valuable community intelligence on practical local LLM deployment stacks being used in production for content generation. Such discussions reveal emerging patterns in model selection, quantization strategies, inference frameworks, and complementary tools that practitioners have validated through real-world use. Understanding what combinations of tools work well together is essential for planning your own local deployment infrastructure.

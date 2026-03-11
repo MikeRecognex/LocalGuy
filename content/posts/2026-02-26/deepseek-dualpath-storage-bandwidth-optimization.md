@@ -16,9 +16,13 @@ tags:
   - developer
   - dualpath-technique
   - gpu-compute-utilization
+  - gpu-utilization
+  - hardware-optimization
   - inference
   - inference-optimization
   - inference-speed
+  - intermediate
+  - llm-framework-optimization
   - llm-optimization
   - local-deployment
   - local-deployment-at-scale
@@ -37,9 +41,9 @@ mentions:
   - name: Tsinghua University
     role: research partner
   - name: arXiv
-    role: research-repository
+    role: publisher
   - name: r/LocalLLaMA
-    role: community-forum
+    role: source
 status: draft
 ---
 

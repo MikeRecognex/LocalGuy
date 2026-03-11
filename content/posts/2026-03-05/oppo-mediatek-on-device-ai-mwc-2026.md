@@ -19,6 +19,8 @@ tags:
   - mobile-ai
   - mobile-ai-architecture
   - mobile-ai-architectures
+  - mobile-ai-optimization
+  - mobile-chip
   - model-quantization
   - on-device-ai
   - on-device-inference
@@ -31,13 +33,13 @@ mentions:
   - name: OPPO
     role: developer
   - name: MediaTek
-    role: chip-manufacturer
+    role: developer
   - name: OPPO
-    role: partner
+    role: collaborator
   - name: MediaTek
-    role: partner
+    role: collaborator
   - name: Google News
-    role: publisher
+    role: source
 status: draft
 ---
 

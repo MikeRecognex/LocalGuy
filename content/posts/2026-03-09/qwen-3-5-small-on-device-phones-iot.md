@@ -3,11 +3,25 @@ title: "Qwen 3.5 Small Expands On-Device AI to Phones and IoT with Offline Suppo
 date: 2026-03-09
 description: "Alibaba's Qwen 3.5 Small model brings efficient LLM inference to mobile devices and IoT hardware with full offline capabilities. This lightweight model expansion enables practical on-device deployment where connectivity and compute resources are severely constrained."
 tags:
+  - bullish
   - daily-digest
-  - qwen
-  - mobile
+  - developer
+  - edge-ai
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
+  - intermediate
+  - mobile
+  - mobile-ai
+  - mobile-inference
+  - model-optimization
+  - offline-ai
+  - on-device-inference
   - open-source
+  - privacy-preserving-ai
+  - quantization
+  - qwen
+  - release
 status: draft
 ---
 

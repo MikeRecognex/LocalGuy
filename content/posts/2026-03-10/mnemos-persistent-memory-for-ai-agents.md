@@ -1,14 +1,32 @@
 ---
 title: "Mnemos: Persistent Memory System for Local AI Agents"
 date: 2026-03-10
-description: "A new open-source project brings persistent memory capabilities to AI agents, enabling stateful local deployments with improved context retention across sessions."
+description: A new open-source project brings persistent memory capabilities to AI agents, enabling stateful local deployments with improved context retention across sessions.
 tags:
-  - daily-digest
   - agents
+  - bullish
+  - context-management
+  - developer
+  - edge-ai
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-agents
+  - local-deployment
+  - mem9-ai
   - memory-optimization
   - open-source
-  - local-deployment
-status: draft
+  - open-source-ai
+  - persistent-memory
+  - self-hosted-ai
+  - showcase
+  - stateful-agents
+mentions:
+  - name: mem9-ai
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Mnemos introduces a dedicated persistent memory layer for AI agents, addressing a critical gap in local LLM deployments where maintaining context across conversations has been challenging. This open-source project provides infrastructure for agents running on-device to store and retrieve conversation history, learned preferences, and operational state without relying on external APIs or cloud storage.

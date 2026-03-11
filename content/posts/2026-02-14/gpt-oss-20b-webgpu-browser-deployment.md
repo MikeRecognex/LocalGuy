@@ -20,17 +20,24 @@ tags:
   - local-inference
   - news
   - offline-deployment
+  - on-device-privacy
   - onnx
+  - onnx-runtime-web
   - privacy
   - privacy-compliance
+  - privacy-on-device
   - privacy-preserving-ai
   - release
   - showcase
   - web-ai
   - web-ai-applications
+  - web-frameworks
   - webgpu
   - webgpu-acceleration
   - webml-community
+mentions:
+  - name: webml-community
+    role: community
 status: draft
 ---
 

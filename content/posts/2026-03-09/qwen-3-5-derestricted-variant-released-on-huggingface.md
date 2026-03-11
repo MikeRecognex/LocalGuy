@@ -3,11 +3,33 @@ title: "Qwen 3.5 Derestricted Model Available for Local Deployment"
 date: 2026-03-09
 description: "A derestricted variant of Qwen 3.5 27B has been released on Hugging Face, with community members requesting quantised GGUF versions for broader local deployment."
 tags:
+  - analysis
+  - arliai
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - qwen
-  - quantisation
+  - derestricted-llms
+  - derestricted-models
+  - developer
+  - intermediate
+  - llm-deployment
+  - llm-experimentation
+  - llm-safety
+  - local-deployment
+  - model-quantization
   - model-release
   - open-source
+  - open-source-models
+  - quantisation
+  - qwen
+  - release
+  - rlocalllama
+  - vram-optimization
+mentions:
+  - name: ArliAI
+    role: publisher
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

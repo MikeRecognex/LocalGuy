@@ -8,6 +8,7 @@ tags:
   - asic-inference
   - benchmarks
   - bullish
+  - consumer-gpu
   - cost-optimization
   - cost-saving
   - custom-asic

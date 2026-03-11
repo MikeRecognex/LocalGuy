@@ -1,14 +1,37 @@
 ---
-title: "PhotoPrism AI-Powered Photos App Brings Better Ollama Integration"
+title: PhotoPrism AI-Powered Photos App Brings Better Ollama Integration
 date: 2026-03-10
-description: "PhotoPrism enhances its local AI capabilities with improved integration of Ollama, enabling on-device image recognition and photo organization without cloud dependencies."
+description: PhotoPrism enhances its local AI capabilities with improved integration of Ollama, enabling on-device image recognition and photo organization without cloud dependencies.
 tags:
-  - daily-digest
-  - ollama
-  - open-source
-  - edge-inference
   - applications
-status: draft
+  - bullish
+  - consumer-hardware
+  - data-privacy
+  - developer
+  - edge-inference
+  - image-recognition
+  - intermediate
+  - linuxiac
+  - local-ai
+  - local-deployment-infrastructure
+  - local-llms
+  - multimodal-ai
+  - multimodal-models
+  - news
+  - ollama
+  - ollama-adoption
+  - ollama-integration
+  - on-device-image-recognition
+  - open-source
+  - photo-management
+  - photoprism
+  - privacy-preserving-ai
+mentions:
+  - name: PhotoPrism
+    role: application developer
+  - name: Linuxiac
+    role: publisher
+status: published
 ---
 
 PhotoPrism, the privacy-focused photo management application, has strengthened its commitment to local AI by improving its Ollama integration. This update allows users to run image recognition, tagging, and categorization entirely on their own hardware without relying on cloud services or proprietary APIs.

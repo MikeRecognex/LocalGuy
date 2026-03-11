@@ -9,15 +9,18 @@ tags:
   - developer
   - developer-tooling
   - gui-tools
+  - gui-vs-performance
   - inference-optimization
   - intermediate
   - its-foss
   - llama
   - llama-cpp
+  - llama-cpp-optimization
   - llama-cpp-usage
   - llm-performance-comparison
   - lm-studio
   - local-llm-stack
+  - local-llm-tool-comparison
   - local-llm-tools
   - neutral
   - offline-deployment

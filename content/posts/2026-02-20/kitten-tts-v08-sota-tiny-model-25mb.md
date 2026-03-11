@@ -8,6 +8,7 @@ tags:
   - developer
   - developer-tooling
   - edge-ai
+  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - intermediate
@@ -20,12 +21,14 @@ tags:
   - model-compression
   - offline-ai
   - offline-deployment
+  - on-device-speech
   - on-device-speech-synthesis
   - open-source
   - open-source-ai
   - privacy
   - privacy-compliance
   - release
+  - resource-constrained-ai
   - showcase
   - small-model-deployment
   - text-to-speech

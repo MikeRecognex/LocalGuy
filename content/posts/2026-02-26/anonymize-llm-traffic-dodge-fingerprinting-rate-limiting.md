@@ -20,6 +20,7 @@ tags:
   - github
   - hacker-news
   - hybrid-deployment
+  - hybrid-model-deployment
   - inference-privacy
   - inference-security
   - intermediate
@@ -31,15 +32,14 @@ tags:
   - rate-limit-circumvention
   - regulatory-compliance
   - security
+  - security-audit
   - showcase
   - tools
 mentions:
-  - name: claw-shield
-    role: project
   - name: Hacker News
     role: publisher
-  - name: GitHub
-    role: platform
+  - name: claw-shield
+    role: software-project
 status: draft
 ---
 

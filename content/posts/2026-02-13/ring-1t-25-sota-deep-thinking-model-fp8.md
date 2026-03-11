@@ -27,6 +27,7 @@ tags:
   - offline-deployment
   - quantisation
   - quantization
+  - reasoning
   - reasoning-tasks
   - release
   - ring-1t

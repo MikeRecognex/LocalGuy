@@ -99,6 +99,14 @@
     "2026-03-08": {
       "text": "Qwen 3.5 27B achieves strong local inference performance on consumer hardware.",
       "postCount": 15
+    },
+    "2026-03-09": {
+      "text": "Nemotron 9B powers large-scale local inference for patent classification and Minecraft agent control on RTX 5090.",
+      "postCount": 15
+    },
+    "2026-03-10": {
+      "text": "M5 Max chipsets enable practical MacBook deployment of larger LLMs like GPT-5 and Claude.",
+      "postCount": 15
     }
   },
   "weekly": {
@@ -117,6 +125,10 @@
     "2026-03-02": {
       "text": "<p>Alibaba's Qwen 3.5 AI model and AMD's Ryzen AI 400 Series processors were major stories, enabling on-device AI capabilities.</p>\n<p>Don't miss \"Qwen 3.5 27B Achieves 100+ Tokens/s Decode\" and \"Apple M5 Pro and M5 Max: 4× Faster LLM Processing\" for insights into local LLM performance.</p>",
       "postCount": 95
+    },
+    "2026-03-09": {
+      "text": "<p>Nemotron 9B and Qwen 3.5 models were showcased for large-scale local inference, while Nota AI demonstrated on-device AI optimization.</p>\n<p>Posts like \"Fine-Tuned Qwen SLMs\" and \"Qwen 3.5 Ultra-Compact Models\" highlighted local model specialization and on-device AI capabilities.</p>",
+      "postCount": 30
     }
   }
 }

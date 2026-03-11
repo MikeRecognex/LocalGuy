@@ -16,6 +16,7 @@ tags:
   - local-first-architecture
   - local-llm-applications
   - local-llm-architecture
+  - low-latency-inference
   - msn
   - offline-deployment
   - on-premises-deployment
@@ -29,7 +30,7 @@ tags:
   - showcase
 mentions:
   - name: Paperless-ngx
-    role: open-source project
+    role: open-source-project
   - name: MSN
     role: publisher
 status: draft

@@ -11,6 +11,7 @@ tags:
   - daily-digest
   - developer
   - developer-experience
+  - developer-intent
   - developer-intent-capture
   - developer-workflows
   - edge-device
@@ -26,6 +27,7 @@ tags:
   - model-optimization
   - model-performance
   - specialized-inference-models
+  - specialized-models
   - training-data-quality
 mentions:
   - name: Hacker News

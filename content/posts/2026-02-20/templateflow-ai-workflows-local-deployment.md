@@ -6,6 +6,7 @@ tags:
   - advanced
   - agent-orchestration
   - ai-pipelines
+  - ai-workflow-design
   - ai-workflows
   - analysis
   - bullish
@@ -14,10 +15,13 @@ tags:
   - daily-digest
   - developer
   - developer-tooling
+  - enterprise
   - hacker-news
   - heyaohuo
   - intermediate
+  - latency-optimization
   - latency-reduction
+  - llm-orchestration
   - local-deployment
   - local-llm-deployment
   - multi-agent-systems
@@ -31,7 +35,7 @@ tags:
   - workflow-orchestration
 mentions:
   - name: TemplateFlow
-    role: framework
+    role: framework-provider
   - name: Hacker News
     role: publisher
 status: draft

@@ -1,14 +1,35 @@
 ---
-title: "Qwen 3.5 Ultra-Compact Models Enable On-Device AI from Watches to Gaming"
+title: Qwen 3.5 Ultra-Compact Models Enable On-Device AI from Watches to Gaming
 date: 2026-03-10
-description: "The latest Qwen 3.5 lineup, including the 0.8B variant, demonstrates that state-of-the-art small language models can now run on severely constrained devices while maintaining impressive capabilities, from vision tasks to game-playing agents."
+description: The latest Qwen 3.5 lineup, including the 0.8B variant, demonstrates that state-of-the-art small language models can now run on severely constrained devices while maintaining impressive capabilities, from vision tasks to game-playing agents.
 tags:
-  - daily-digest
-  - qwen
-  - small-models
+  - agent-orchestration
+  - ai-agents
+  - analysis
+  - bullish
+  - consumer-gpu
+  - deployment-strategy
+  - developer
+  - edge-ai
+  - edge-ai-deployment
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - inference-engines
+  - inference-optimization
+  - intermediate
+  - new-deployment-scenarios
+  - news
+  - on-device-ai
+  - on-device-inference
+  - qwen
+  - qwen-models
+  - showcase
+  - small-language-models
+  - small-models
+  - vision-language-models
   - vlm
-status: draft
+status: published
 ---
 
 Alibaba's Qwen 3.5 lineup is redefining what's possible in on-device AI deployment. The 0.8B model is small enough to run on a smartwatch, yet users report building complex multi-step agents—including a vision-language model that autonomously plays DOOM by capturing screenshots, analyzing a numbered grid overlay, and making tactical decisions.

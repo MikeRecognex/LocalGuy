@@ -8,20 +8,25 @@ tags:
   - api-design
   - bullish
   - conversation-context-management
+  - conversation-serialization
   - developer
   - developer-tooling
   - hacker-news
   - llm-api-design
   - local-deployment
+  - local-llm-deployment
   - local-llm-infrastructure
+  - multi-user-systems
   - neutral
   - offline-deployment
   - ollama
+  - opinion
   - production-ops
   - session-management
   - state-management
   - state-synchronization
   - stateful-ai
+  - stateful-llm-interactions
 mentions:
   - name: Hacker News
     role: publisher

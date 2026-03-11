@@ -13,6 +13,7 @@ tags:
   - hacker-news
   - hardware-constraints
   - inference-framework-compatibility
+  - inference-frameworks
   - intermediate
   - llm-release
   - local-deployment

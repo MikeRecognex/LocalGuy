@@ -15,9 +15,11 @@ tags:
   - economic-benefits
   - enterprise
   - intermediate
+  - local-inference-economics
   - msn
   - open-source
   - open-source-ecosystem
+  - open-source-tooling
   - paperless-ngx
   - privacy-compliance
   - self-hosted

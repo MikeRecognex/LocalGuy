@@ -1,14 +1,37 @@
 ---
 title: "Bash-Based Claude Code Agent: Lightweight Local AI Coding Assistant"
 date: 2026-03-10
-description: "A new open-source project demonstrates building a Claude Code-like agent using only Bash, showing practical patterns for lightweight local AI deployment without heavy frameworks."
+description: A new open-source project demonstrates building a Claude Code-like agent using only Bash, showing practical patterns for lightweight local AI deployment without heavy frameworks.
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
+  - bash-agents
+  - bash-scripting
+  - bullish
+  - ci-cd-integration
+  - code-generation-agent
+  - constrained-environments
+  - developer
+  - edge-device
+  - github
+  - hacker-news
+  - intermediate
+  - lightweight-ai-agents
+  - lightweight-llms
   - local-deployment
+  - minimal-dependencies
+  - open-source
+  - shareai-lab
+  - showcase
   - tools
-status: draft
+mentions:
+  - name: GitHub
+    role: platform
+  - name: shareAI-lab
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This project showcases a minimalist approach to building AI agents for local deployment, creating a nano Claude Code implementation entirely in Bash. By stripping away heavy framework dependencies, the approach demonstrates that sophisticated AI agent behavior—code generation, execution, iterative refinement—can be achieved with lean, portable scripts that work across Unix-like systems including edge devices and servers.

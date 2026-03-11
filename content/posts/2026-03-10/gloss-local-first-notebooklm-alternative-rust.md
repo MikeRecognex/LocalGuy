@@ -1,14 +1,26 @@
 ---
 title: "Gloss: Open-Source, Local-First RAG Alternative to NotebookLM Built in Rust"
 date: 2026-03-10
-description: "A developer released Gloss, a privacy-focused research workspace featuring hybrid search, explicit RAG control, and local model support—a fully open alternative to Google's NotebookLM without proprietary API dependencies."
+description: A developer released Gloss, a privacy-focused research workspace featuring hybrid search, explicit RAG control, and local model support—a fully open alternative to Google's NotebookLM without proprietary API dependencies.
 tags:
-  - daily-digest
-  - rag
+  - bullish
+  - data-governance
+  - data-privacy
+  - developer
+  - enterprise
+  - hybrid-search
+  - intermediate
+  - local-deployment
+  - local-llm-workflows
+  - local-rag
   - open-source
-  - tools
   - privacy
-status: draft
+  - rag
+  - rag-pipeline
+  - release
+  - showcase
+  - tools
+status: published
 ---
 
 Gloss is a ground-up reimplementation of document-grounded AI research workflows, designed specifically to avoid the black-box architecture and data privacy concerns of cloud-hosted alternatives. Built in Rust, it emphasizes local-first operation, hybrid search capabilities, and explicit control over retrieval-augmented generation (RAG) pipelines—users can inspect and modify exactly how documents are indexed, retrieved, and fed to language models.

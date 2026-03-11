@@ -1,14 +1,35 @@
 ---
 title: ".ispec: Runtime Specification Validation for AI System Consistency"
 date: 2026-03-10
-description: "A new tool provides runtime validation of system specifications, helping ensure AI agents and local deployments behave according to documented contracts."
+description: A new tool provides runtime validation of system specifications, helping ensure AI agents and local deployments behave according to documented contracts.
 tags:
-  - daily-digest
-  - tools
+  - agent-orchestration
+  - agent-reliability
   - agents
-  - open-source
+  - analysis
+  - api-deployment
+  - bullish
   - deployment-platform
-status: draft
+  - deployment-reliability
+  - developer
+  - github
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - model-validation
+  - open-source
+  - production-reliability
+  - runtime-validation
+  - showcase
+  - specification-validation
+  - system-consistency
+  - tools
+mentions:
+  - name: John Fire
+    role: creator
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 The .ispec project addresses a practical problem in deployed AI systems: ensuring that actual behavior matches documented specifications. When running local LLMs as agents or services, there's often drift between how the system is documented to behave and how it actually performs. This tool provides runtime validation mechanisms to catch these inconsistencies, which is particularly important when local models are integrated into larger workflows or exposed as services.

@@ -3,11 +3,29 @@ title: "commitgen-cc – Generate Conventional Commit Messages Locally with Olla
 date: 2026-03-09
 description: "A practical tool that generates conventional commit messages entirely locally using Ollama, eliminating the need for cloud-based AI commit assistants."
 tags:
+  - bullish
+  - conventional-commits
   - daily-digest
+  - data-privacy
+  - developer
+  - developer-productivity
+  - developer-tools
+  - eaglemann
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-llm-applications
+  - local-llm-inference
+  - offline-capability
+  - offline-development
   - ollama
   - open-source
-  - local-deployment
-  - developer-tools
+  - showcase
+mentions:
+  - name: Eaglemann
+    role: developer
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

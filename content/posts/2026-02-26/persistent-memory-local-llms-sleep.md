@@ -10,14 +10,17 @@ tags:
   - consumer-hardware
   - conversational-memory
   - daily-digest
+  - decentralized-ai
   - developer
   - edge-ai-deployment
+  - edge-device
   - fine-tuning
   - intermediate
   - local-deployment
   - memory-optimization
   - model-learning
   - model-memory
+  - model-personalization
   - model-weight-modification
   - news
   - offline-ai
@@ -33,6 +36,10 @@ tags:
   - rlocalllama
   - showcase
   - simplified-deployment
+  - sleep-mechanism
+mentions:
+  - name: r/LocalLLaMA
+    role: source
 status: draft
 ---
 

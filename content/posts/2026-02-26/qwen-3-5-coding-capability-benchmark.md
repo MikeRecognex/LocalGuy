@@ -8,15 +8,18 @@ tags:
   - benchmark-report
   - benchmark-testing
   - cautious
+  - code-generation
   - code-generation-performance
   - coding
   - coding-llms
   - consumer-gpu
   - daily-digest
   - developer
+  - evaluation-methodology
   - gpu-resource-management
   - gpu-resource-optimization
   - intermediate
+  - llm-benchmarking
   - local-llm-deployment
   - model-benchmarking
   - model-evaluation
@@ -25,11 +28,9 @@ tags:
   - neutral
   - performance
   - qwen
+  - resource-allocation
   - resource-management
   - rlocalllama
-mentions:
-  - name: r/LocalLLaMA
-    role: community
 status: draft
 ---
 

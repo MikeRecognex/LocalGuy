@@ -6,11 +6,13 @@ tags:
   - ai-headshot-generation
   - ai-headshot-solution
   - ai-photography
+  - api-alternatives
   - api-independence
   - api-limitations
   - bullish
   - cozai-photo
   - creative-generation
+  - custom-ai-development
   - custom-deployment
   - custom-model-training
   - data-privacy
@@ -18,7 +20,9 @@ tags:
   - developer-tooling
   - fine-tuning
   - hacker-news
+  - image-generation
   - intermediate
+  - local-deployment
   - local-inference
   - model-customization
   - offline-deployment
@@ -31,7 +35,7 @@ mentions:
   - name: CozAI Photo
     role: solution provider
   - name: Hacker News
-    role: source
+    role: publisher
 status: draft
 ---
 

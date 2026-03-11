@@ -3,11 +3,34 @@ title: "VS Code Agent Kanban – Task Management for AI-Assisted Development"
 date: 2026-03-09
 description: "A VS Code extension integrates AI-powered task management directly into the editor, enabling developers to leverage local LLMs for workflow coordination."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - ai-task-management
+  - appsoftware
+  - bullish
+  - daily-digest
+  - data-privacy
+  - developer
+  - developer-productivity
   - developer-tools
-  - open-source
+  - developer-workflow-integration
+  - hacker-news
+  - ide-integration
+  - intermediate
+  - local-ai-agents
   - local-deployment
+  - local-inference-deployment
+  - local-llm-workflow-coordination
+  - open-source
+  - showcase
+  - task-management
+  - vs-code-extension
+  - workflow-coordination
+mentions:
+  - name: AppSoftware
+    role: publisher
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

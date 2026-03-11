@@ -3,11 +3,30 @@ title: "VoiceShelf: Fully Offline Android Audiobook Reader Using Kokoro TTS"
 date: 2026-03-09
 description: "A new Android application demonstrates on-device neural text-to-speech inference without cloud processing, enabling offline audiobook generation directly from EPUB files."
 tags:
-  - daily-digest
-  - tts
   - android
+  - android-inference
+  - bullish
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - intermediate
+  - low-latency
+  - mobile-device
+  - mobile-quantization
+  - offline-audiobook-reader
+  - on-device-tts
   - open-source
+  - open-source-tts
+  - privacy-preserving
+  - showcase
+  - tts
+  - voiceshelf
+mentions:
+  - name: VoiceShelf
+    role: project
 status: draft
 ---
 

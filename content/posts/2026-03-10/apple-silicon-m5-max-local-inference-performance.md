@@ -1,14 +1,33 @@
 ---
-title: "M5 Max and M5 Ultra Chipsets Demonstrate Significant Bandwidth Improvements for Local LLM Inference"
+title: M5 Max and M5 Ultra Chipsets Demonstrate Significant Bandwidth Improvements for Local LLM Inference
 date: 2026-03-10
-description: "Apple's newest M5 silicon generations offer substantially improved memory bandwidth compared to prior generations, enabling practical deployment of larger models on MacBook hardware with competitive inference throughput."
+description: Apple's newest M5 silicon generations offer substantially improved memory bandwidth compared to prior generations, enabling practical deployment of larger models on MacBook hardware with competitive inference throughput.
 tags:
-  - daily-digest
-  - hardware
+  - analysis
   - apple-silicon
+  - apple-silicon-performance
   - benchmark
+  - bullish
+  - data-privacy
+  - deployment-efficiency
+  - deployment-simplification
+  - developer
   - edge-inference
-status: draft
+  - hardware
+  - hardware-canucks
+  - inference-frameworks
+  - inference-optimization
+  - intermediate
+  - large-model-inference
+  - local-llm-inference
+  - memory-bandwidth
+  - model-deployment
+  - news
+  - rlocalllama
+mentions:
+  - name: Hardware Canucks
+    role: publisher
+status: published
 ---
 
 Early benchmarks from Hardware Canucks and independent evaluators show that Apple's M5 Max and M5 Ultra processors deliver significant memory bandwidth gains compared to M3 Ultra—a critical metric for LLM inference where data movement, not compute, is the primary bottleneck. Users are successfully running larger Qwen3 models (35B and 122B parameters) on these chipsets with respectable latency and throughput figures.

@@ -11,9 +11,11 @@ tags:
   - edge-deployment
   - edge-device
   - edge-device-deployment
+  - edge-device-llms
   - edge-inference
   - embedded-systems
   - hardware
+  - hardware-optimization
   - intermediate
   - iot-ai
   - memory-optimization

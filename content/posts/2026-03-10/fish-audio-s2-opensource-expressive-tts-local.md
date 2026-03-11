@@ -1,14 +1,35 @@
 ---
 title: "Fish Audio Open-Sources S2: Expressive Text-to-Speech with Natural Language Control and 100ms Latency"
 date: 2026-03-10
-description: "Fish Audio released S2, an open-source TTS model supporting 80+ languages, multi-speaker dialogue generation in a single pass, and natural language emotion tags for precise voice control, with sub-100ms time-to-first-audio."
+description: Fish Audio released S2, an open-source TTS model supporting 80+ languages, multi-speaker dialogue generation in a single pass, and natural language emotion tags for precise voice control, with sub-100ms time-to-first-audio.
 tags:
-  - daily-digest
-  - tts
-  - open-source
-  - speech
+  - audio-latency
+  - bullish
+  - developer
+  - edge-device
+  - fish-audio
+  - intermediate
+  - local-ai-pipelines
+  - low-latency-inference
+  - model-fine-tuning
+  - multi-speaker-synthesis
+  - multilingual-ai
   - multimodal
-status: draft
+  - natural-language-control
+  - on-device-ai-pipelines
+  - open-source
+  - open-source-ai
+  - open-source-models
+  - real-time-ai
+  - release
+  - speech
+  - text-to-speech
+  - tts
+  - voice-synthesis
+mentions:
+  - name: Fish Audio
+    role: developer
+status: published
 ---
 
 Fish Audio's S2 model brings a major shift in locally-deployable speech synthesis: open-source, expressive TTS with intuitive natural language control. Users can direct emotional inflection and delivery using tags like `[whispers sweetly]` or `[laughing nervously]`, and the model generates multi-speaker dialogue sequences in a single forward pass—eliminating the need for sequential invocations and dramatically reducing latency.

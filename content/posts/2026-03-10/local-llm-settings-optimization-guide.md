@@ -1,14 +1,28 @@
 ---
-title: "8 Local LLM Settings Most People Never Touch That Fixed My Worst AI Problems"
+title: 8 Local LLM Settings Most People Never Touch That Fixed My Worst AI Problems
 date: 2026-03-10
-description: "A practical guide exploring often-overlooked configuration parameters in local LLM deployments that can dramatically improve performance and resolve common issues."
+description: A practical guide exploring often-overlooked configuration parameters in local LLM deployments that can dramatically improve performance and resolve common issues.
 tags:
-  - daily-digest
-  - optimization
+  - bullish
   - configuration
-  - performance-tuning
+  - cost-saving
+  - developer
+  - inference-speed
+  - intermediate
   - local-llm
-status: draft
+  - local-llm-configuration
+  - local-llm-deployment
+  - memory-optimization
+  - model-tuning
+  - performance-optimization
+  - performance-tuning
+  - troubleshooting
+  - tutorial
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 Local LLM deployments often underperform not because of hardware limitations, but due to suboptimal configuration settings that most users never discover. This article highlights eight critical parameters that can be tuned to dramatically improve inference speed, memory usage, and output quality.

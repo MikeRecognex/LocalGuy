@@ -6,6 +6,7 @@ tags:
   - advanced
   - ai-ubiquity
   - analysis
+  - attention-mechanisms
   - benchmark-report
   - benchmarks
   - bullish
@@ -16,10 +17,12 @@ tags:
   - developer
   - hacker-news
   - high-throughput-inference
+  - inference-optimization
   - inference-speed
   - inference-throughput
   - intermediate
   - llm-optimization
+  - local-deployment
   - local-llm-deployment
   - model-optimization
   - multi-user-deployment
@@ -31,6 +34,7 @@ tags:
   - quantisation
   - quantization
   - real-time-ai
+  - real-time-inference
   - self-hosted
   - ubiquitousai
 status: draft

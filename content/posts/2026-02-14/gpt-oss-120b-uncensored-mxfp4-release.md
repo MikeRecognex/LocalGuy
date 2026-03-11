@@ -5,6 +5,7 @@ description: An uncensored version of GPT-OSS 120B has been released featuring n
 tags:
   - advanced
   - bullish
+  - content-moderation
   - context-window
   - cost-saving
   - developer
@@ -13,9 +14,11 @@ tags:
   - efficient-training
   - gpt-oss
   - local-deployment
+  - low-bit-quantization
   - low-precision-training
   - memory-efficiency
   - memory-optimisation
+  - memory-optimization
   - mixture-of-experts
   - model-censorship
   - moe
@@ -25,12 +28,13 @@ tags:
   - quantisation
   - reddit
   - release
+  - resource-efficiency
   - rlocalllama
   - training
   - uncensored-models
 mentions:
   - name: r/LocalLLaMA
-    role: community
+    role: community-source
 status: draft
 ---
 

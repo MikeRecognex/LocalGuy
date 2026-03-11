@@ -3,11 +3,40 @@ title: "Gyro-Claw – Secure Execution Runtime for AI Agents"
 date: 2026-03-09
 description: "A new runtime environment provides isolated, secure execution for AI agents, addressing critical security concerns in local agent deployments."
 tags:
-  - daily-digest
+  - advanced
+  - agent-security
   - agents
-  - security
-  - open-source
+  - ai-agent-security
+  - ai-security
+  - analysis
+  - autonomous-agents
+  - bullish
+  - consumer-gpu
+  - consumer-hardware
+  - daily-digest
+  - developer
+  - edge-device
+  - enterprise
+  - execution-containment
+  - execution-sandboxing
+  - gyro-claw
+  - hacker-news
+  - intermediate
+  - local-agent-deployment
   - local-deployment
+  - open-source
+  - production-deployment
+  - prompt-injection-protection
+  - prompt-injection-security
+  - sandboxing
+  - secure-execution
+  - security
+  - showcase
+mentions:
+  - name: Gyro-Claw
+    role: project
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

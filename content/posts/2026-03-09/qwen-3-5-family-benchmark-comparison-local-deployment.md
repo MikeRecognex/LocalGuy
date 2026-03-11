@@ -3,11 +3,34 @@ title: "Qwen 3.5 Family Benchmark Comparison Shows Strong Performance Across Sma
 date: 2026-03-09
 description: "New benchmarks reveal that Qwen 3.5's 27B, 35B, and 122B variants retain most of the flagship model's performance, while smaller 2B and 0.8B models show steeper degradation on long-context and agent tasks."
 tags:
-  - daily-digest
-  - qwen
+  - agentic-ai
+  - analysis
   - benchmark
-  - quantisation
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - datacenter-gpu
+  - developer
+  - edge-device
+  - inference-scaling
+  - intermediate
+  - local-deployment
+  - long-context-llms
+  - long-context-reasoning
+  - model-benchmarking
   - model-optimization
+  - model-performance
+  - model-quantization
+  - neutral
+  - quantisation
+  - qwen
+  - small-model-performance
+  - unsloth
+  - vram-management
+mentions:
+  - name: Unsloth
+    role: provider
 status: draft
 ---
 

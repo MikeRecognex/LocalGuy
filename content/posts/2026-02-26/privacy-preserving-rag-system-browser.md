@@ -8,17 +8,21 @@ tags:
   - browser
   - browser-llm
   - bullish
+  - client-side-ai
   - cloud-vs-local-performance
   - daily-digest
   - data-privacy
   - developer
   - intermediate
+  - local-inference-benefits
   - local-llm
   - on-device-ai
+  - on-device-processing
   - on-device-rag
   - privacy
   - privacy-preserving-rag
   - rag
+  - rag-components
   - rag-pipeline
   - rag-pipeline-components
   - retrieval-augmented-generation

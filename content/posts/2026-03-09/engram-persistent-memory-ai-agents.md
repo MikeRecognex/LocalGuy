@@ -3,11 +3,35 @@ title: "Engram – Open-Source Persistent Memory for AI Agents"
 date: 2026-03-09
 description: "A new open-source project adds persistent memory capabilities to local AI agents using Bun and SQLite, enabling stateful agent deployments on consumer hardware."
 tags:
-  - daily-digest
   - agents
-  - open-source
-  - memory-optimization
+  - bullish
+  - bun-sqlite-integration
+  - bun-sqlite-stack
+  - cloud-independence
+  - consumer-gpu
+  - consumer-hardware
+  - daily-digest
+  - data-autonomy
+  - developer
+  - edge-database
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-agents
+  - local-ai-agents
   - local-deployment
+  - memory-optimization
+  - on-device-deployment
+  - open-source
+  - persistent-memory
+  - release
+  - self-hosted-ai
+  - showcase
+  - stateful-agent-deployment
+  - stateful-agents
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

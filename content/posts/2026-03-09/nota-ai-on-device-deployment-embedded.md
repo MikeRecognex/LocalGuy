@@ -3,11 +3,33 @@ title: "Nota AI to Showcase End-to-End On-Device AI Optimization at Embedded Wor
 date: 2026-03-09
 description: "Nota AI will demonstrate complete on-device AI solutions from edge optimization to industrial deployment at Embedded World 2026. The showcase highlights production-ready approaches for deploying optimized AI across constrained hardware environments."
 tags:
+  - advanced
+  - bullish
+  - constrained-hardware-optimization
   - daily-digest
-  - edge-optimization
   - deployment
+  - deployment-strategy
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-optimization
+  - enterprise
   - hardware
+  - industrial-deployment
+  - intermediate
+  - model-compression
+  - model-optimization
+  - neutral
+  - nota-ai
+  - on-device-ai-optimization
   - production
+  - production-challenges
+  - production-operations
+  - quantization
+  - showcase
+mentions:
+  - name: Nota AI
+    role: developer
 status: draft
 ---
 

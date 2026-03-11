@@ -7,6 +7,7 @@ tags:
   - agent-debugging
   - agent-frameworks
   - agent-monitoring
+  - agent-orchestration
   - agents
   - analysis
   - bullish
@@ -17,11 +18,15 @@ tags:
   - edge-deployment
   - hacker-news
   - intermediate
+  - introspection-tooling
+  - llm-agent-production
   - llm-agents
+  - llm-debugging
   - local-agents
   - local-deployment
   - murbotlabs
   - offline-deployment
+  - on-device-deployment
   - openclaw
   - production-deployment
   - production-ops
@@ -34,7 +39,7 @@ mentions:
   - name: Hacker News
     role: publisher
   - name: MurbotLabs
-    role: project-owner
+    role: developer
 status: draft
 ---
 

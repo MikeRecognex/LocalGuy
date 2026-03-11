@@ -3,11 +3,31 @@ title: "Sarvam Open-Sources 30B and 105B Reasoning Models"
 date: 2026-03-09
 description: "Indian AI lab Sarvam has released open-source reasoning models in 30B and 105B parameter sizes, providing alternatives to proprietary reasoning systems. These models are optimized for local deployment and logical inference tasks."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - open-source
-  - reasoning
-  - model-release
+  - developer
   - inference
+  - intermediate
+  - local-deployment
+  - local-llms
+  - logical-inference
+  - model-customization
+  - model-release
+  - model-scaling
+  - model-sizes
+  - news
+  - open-source
+  - open-source-ai
+  - open-source-llm
+  - reasoning
+  - reasoning-workloads
+  - release
+  - sarvam
+  - self-hosting
+mentions:
+  - name: Sarvam
+    role: AI lab
 status: draft
 ---
 

@@ -5,6 +5,7 @@ description: "A critical analysis identifies prompt decay as a common vulnerabil
 tags:
   - advanced
   - agent-frameworks
+  - agent-orchestration
   - agentic-systems
   - agents
   - analysis
@@ -18,8 +19,10 @@ tags:
   - inference-pipeline-control
   - intermediate
   - llm-output-degradation
+  - llm-performance
   - llm-performance-degradation
   - local-agent-deployment
+  - local-deployment
   - local-inference
   - local-llm-deployment
   - neutral
@@ -30,9 +33,9 @@ tags:
   - tutorial
 mentions:
   - name: GitHub Gist
-    role: publisher
+    role: platform
   - name: Hacker News
-    role: publisher
+    role: source
 status: draft
 ---
 

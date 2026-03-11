@@ -8,6 +8,7 @@ tags:
   - alibaba
   - analysis
   - benchmark-report
+  - benchmarking-framework
   - benchmarks
   - bullish
   - daily-digest
@@ -39,11 +40,11 @@ tags:
   - zhipu
 mentions:
   - name: SanityBoard
-    role: LLM evaluation framework provider
+    role: LLM evaluation framework
   - name: SanityBoard
-    role: evaluation platform
+    role: platform
   - name: r/LocalLLaMA
-    role: source community
+    role: publisher
 status: draft
 ---
 
