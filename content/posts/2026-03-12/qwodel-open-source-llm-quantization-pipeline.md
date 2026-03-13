@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Quantization remains one of the most critical techniques for running large language models on consumer hardware, and Qwodel addresses a key pain point in the workflow. [This new open-source unified pipeline](https://news.ycombinator.com/item?id=47348708) aims to streamline LLM quantization, making it more accessible to practitioners who want to deploy models locally without deep expertise in the quantization process.

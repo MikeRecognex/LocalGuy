@@ -27,7 +27,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 The integration of Ollama with VS Code through the Continue extension has matured into a practical alternative to cloud-based coding assistants. This SitePoint guide walks developers through configuring a complete local code intelligence stack that maintains code privacy while providing real-time suggestions and completions.

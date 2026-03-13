@@ -1,7 +1,7 @@
 ---
-title: "Sarvam Open-Sources 30B and 105B Reasoning Models"
+title: Sarvam Open-Sources 30B and 105B Reasoning Models
 date: 2026-03-11
-description: "Indian AI startup Sarvam has released open-source reasoning models in 30B and 105B parameter sizes, providing locally-deployable alternatives for reasoning tasks without reliance on proprietary APIs."
+description: Indian AI startup Sarvam has released open-source reasoning models in 30B and 105B parameter sizes, providing locally-deployable alternatives for reasoning tasks without reliance on proprietary APIs.
 tags:
   - api-independence
   - bullish
@@ -32,7 +32,7 @@ mentions:
     role: model-developer
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Sarvam has open-sourced two new reasoning models—a 30B parameter variant and a 105B parameter variant—expanding the landscape of locally-deployable models optimized for complex reasoning tasks. This release is significant for the local LLM community as it provides accessible alternatives to closed proprietary systems, allowing practitioners to run sophisticated reasoning workloads entirely on-device without external API dependencies.

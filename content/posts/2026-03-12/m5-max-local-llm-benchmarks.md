@@ -23,7 +23,7 @@ tags:
   - memory-optimization
   - performance-comparison
   - unified-memory
-status: draft
+status: published
 ---
 
 A community member with a new [Apple M5 Max 128GB system](https://i.redd.it/4koejumaidog1.jpeg) has begun publishing comprehensive benchmark results for local LLM inference. The 128GB unified memory configuration is particularly significant, as it enables efficient inference of very large models on Apple Silicon without the usual memory bottlenecks that constrain smaller MacBook configurations.

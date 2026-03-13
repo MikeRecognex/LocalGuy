@@ -1,7 +1,7 @@
 ---
-title: "LMF – LLM Markup Format"
+title: LMF – LLM Markup Format
 date: 2026-03-11
-description: "A new markup format designed specifically for structuring LLM outputs, enabling better integration between local language models and downstream applications that consume their responses."
+description: A new markup format designed specifically for structuring LLM outputs, enabling better integration between local language models and downstream applications that consume their responses.
 tags:
   - bullish
   - daily-digest
@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 LMF (LLM Markup Format) introduces a standardized format for structuring outputs from local language models, addressing a common pain point in local LLM deployments: reliably parsing and integrating model outputs with other systems. Rather than relying on fragile regex or lossy JSON parsing, LMF provides explicit markup semantics that models can learn to produce.

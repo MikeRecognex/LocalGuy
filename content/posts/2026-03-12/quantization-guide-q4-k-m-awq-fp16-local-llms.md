@@ -27,7 +27,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Quantization remains the most practical lever for fitting large models into consumer hardware, and this SitePoint guide provides clarity on the three dominant quantization approaches currently used in local LLM deployment: Q4_K_M, AWQ, and FP16.

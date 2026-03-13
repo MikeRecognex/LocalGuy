@@ -1,7 +1,7 @@
 ---
 title: "Show HN: AIWatermarkDetector: Detect AI Watermarks in Text or Code"
 date: 2026-03-11
-description: "A new open-source tool detects AI-generated watermarks embedded in text and code, useful for local development workflows and understanding model behavior in self-hosted environments."
+description: A new open-source tool detects AI-generated watermarks embedded in text and code, useful for local development workflows and understanding model behavior in self-hosted environments.
 tags:
   - ai-content-transparency
   - ai-watermarking
@@ -28,7 +28,7 @@ mentions:
     role: platform
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 AIWatermarkDetector is an open-source tool that identifies watermarks embedded in AI-generated text and code—important for understanding the provenance and authenticity of content in local development workflows. As local LLM deployments become more common, the ability to detect and analyze AI-generated artifacts becomes increasingly relevant for compliance, attribution, and quality assurance purposes.

@@ -1,7 +1,7 @@
 ---
 title: "Experiment: 0.8B Model Self-Improvement on MacBook Air Yields Surprising Results"
 date: 2026-03-11
-description: "Researcher demonstrates that ultra-small quantized language models can improve themselves through iterative problem-solving on consumer hardware like MacBook Air with minimal RAM requirements."
+description: Researcher demonstrates that ultra-small quantized language models can improve themselves through iterative problem-solving on consumer hardware like MacBook Air with minimal RAM requirements.
 tags:
   - apple-silicon
   - bullish
@@ -31,7 +31,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 A compelling experiment demonstrates that even ultra-small language models can improve their capabilities through iterative self-directed learning on resource-constrained devices. By running a 4-bit quantized Qwen 3.5 0.8B model on a MacBook Air M4 with only 6GB RAM, researchers observed measurable performance improvements on coding tasks as the model generated solutions and received feedback.

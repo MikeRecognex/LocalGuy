@@ -1,7 +1,7 @@
 ---
-title: "Texas Instruments Launches NPU-Powered MCUs for Low-Power Edge AI"
+title: Texas Instruments Launches NPU-Powered MCUs for Low-Power Edge AI
 date: 2026-03-11
-description: "Texas Instruments introduces new microcontrollers with integrated Neural Processing Units, enabling ultra-low-power AI inference on resource-constrained edge devices."
+description: Texas Instruments introduces new microcontrollers with integrated Neural Processing Units, enabling ultra-low-power AI inference on resource-constrained edge devices.
 tags:
   - ai-workload-distribution
   - analysis
@@ -31,7 +31,7 @@ mentions:
     role: manufacturer
   - name: Chosunbiz
     role: publisher
-status: draft
+status: published
 ---
 
 Texas Instruments has announced a new generation of microcontrollers equipped with integrated Neural Processing Units (NPUs), pushing local AI inference into the ultra-low-power embedded space. This development extends the reach of machine learning inference beyond traditional GPU-accelerated devices into IoT sensors, mobile robots, and wearable applications where power consumption is the critical constraint.

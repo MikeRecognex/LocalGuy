@@ -28,7 +28,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 This practical guide from SitePoint demonstrates a major accessibility milestone: running DeepSeek-R1 locally on consumer hardware for approximately $1,500. This price point represents a significant democratization of advanced local LLM deployment, bringing reasoning capabilities within reach of individual developers and small teams.

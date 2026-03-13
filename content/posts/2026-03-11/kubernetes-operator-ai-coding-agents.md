@@ -1,7 +1,7 @@
 ---
-title: "A Kubernetes Operator That Orchestrates AI Coding Agents"
+title: A Kubernetes Operator That Orchestrates AI Coding Agents
 date: 2026-03-11
-description: "A new Kubernetes operator enables orchestration of AI coding agents for planning, coding, review, and shipping—providing infrastructure for deploying multi-agent AI systems at scale in self-hosted environments."
+description: A new Kubernetes operator enables orchestration of AI coding agents for planning, coding, review, and shipping—providing infrastructure for deploying multi-agent AI systems at scale in self-hosted environments.
 tags:
   - advanced
   - agent-orchestration
@@ -32,7 +32,7 @@ mentions:
     role: publisher
   - name: Medium
     role: publisher
-status: draft
+status: published
 ---
 
 A new Kubernetes operator has emerged to streamline the deployment and orchestration of AI coding agents, handling the full software development lifecycle from planning through shipping. This tool addresses a significant gap for organizations wanting to deploy multi-agent AI systems in self-hosted or private cloud environments without relying on third-party APIs.

@@ -1,7 +1,7 @@
 ---
-title: "SK Hynix Completes Qualification for LPDDR6 Memory Optimized for AI Inference"
+title: SK Hynix Completes Qualification for LPDDR6 Memory Optimized for AI Inference
 date: 2026-03-11
-description: "SK Hynix reaches qualification milestone for next-generation LPDDR6 DRAM with speeds up to 10.7 Gbps, providing critical memory infrastructure for efficient on-device AI inference on mobile and edge devices."
+description: SK Hynix reaches qualification milestone for next-generation LPDDR6 DRAM with speeds up to 10.7 Gbps, providing critical memory infrastructure for efficient on-device AI inference on mobile and edge devices.
 tags:
   - bullish
   - daily-digest
@@ -28,7 +28,7 @@ mentions:
     role: manufacturer
   - name: SK Hynix
     role: semiconductor manufacturer
-status: draft
+status: published
 ---
 
 SK Hynix has completed customer qualification for its next-generation LPDDR6 memory technology featuring speeds up to 10.7 Gbps and 1c (class) manufacturing process, representing a significant advance in memory infrastructure for edge AI deployment. LPDDR6 is critical for mobile and edge devices running local inference, as memory bandwidth directly impacts model serving latency and power efficiency—two primary constraints in on-device AI scenarios.

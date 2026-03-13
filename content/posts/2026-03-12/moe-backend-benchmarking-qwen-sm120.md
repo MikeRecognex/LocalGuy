@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 A comprehensive [8+ hour benchmark study](https://www.reddit.com/r/LocalLLaMA/comments/1rrfqlu/i_spent_8_hours_benchmarking_every_moe_backend/) tested every major MoE inference backend for Qwen3.5-397B on workstation-grade hardware (4x RTX PRO 6000). The findings are sobering: actual sustained decode performance reaches only 50.5 tok/s, despite claims of 130+ tok/s floating around online.

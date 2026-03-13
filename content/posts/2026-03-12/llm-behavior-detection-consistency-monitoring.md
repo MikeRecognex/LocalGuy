@@ -29,7 +29,7 @@ mentions:
     role: publisher
   - name: aelitium-dev
     role: developer
-status: draft
+status: published
 ---
 
 Consistency and reproducibility are critical for deploying LLMs in production environments, and [this tool directly addresses the challenge of detecting silent behavioral changes](https://github.com/aelitium-dev/aelitium-v3). When running inference locally, users need confidence that their models produce consistent outputs—especially for applications where determinism matters (automated decision-making, content generation pipelines, etc.).

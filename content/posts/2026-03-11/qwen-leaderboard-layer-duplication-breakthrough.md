@@ -1,7 +1,7 @@
 ---
-title: "Simple Layer Duplication Technique Achieves Top Open LLM Leaderboard Performance"
+title: Simple Layer Duplication Technique Achieves Top Open LLM Leaderboard Performance
 date: 2026-03-11
-description: "Researchers demonstrate that duplicating middle layers in Qwen2-72B without modifying weights produces state-of-the-art benchmark results, challenging conventional understanding of model optimization."
+description: Researchers demonstrate that duplicating middle layers in Qwen2-72B without modifying weights produces state-of-the-art benchmark results, challenging conventional understanding of model optimization.
 tags:
   - advanced
   - analysis
@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 A surprising breakthrough in model optimization has demonstrated that duplicating specific middle layers from Qwen2-72B—without modifying any weights—achieves top-ranking performance on the Open LLM Leaderboard. This counterintuitive finding suggests that conventional wisdom about model architecture optimization may be incomplete, and that simple structural modifications can yield measurable performance improvements.

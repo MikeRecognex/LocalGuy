@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: ChannelLife
     role: publisher
-status: draft
+status: published
 ---
 
 NVIDIA's renewed focus on Jetson as a dedicated edge AI hub reflects the growing market demand for localized LLM inference. Rather than pushing proprietary solutions, NVIDIA is positioning Jetson as the optimal hardware platform for deploying open-source models at the network edge, from data centers to IoT devices.

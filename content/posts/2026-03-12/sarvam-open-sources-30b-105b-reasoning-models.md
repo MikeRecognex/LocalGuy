@@ -32,7 +32,7 @@ mentions:
     role: publisher
   - name: Google News
     role: publisher
-status: draft
+status: published
 ---
 
 Sarvam's release of 30B and 105B open-source reasoning models represents a significant expansion of the local LLM ecosystem. These models fill an important gap for practitioners seeking reasoning capabilities without relying on cloud-based solutions or massive parameter counts that exceed consumer hardware limits.

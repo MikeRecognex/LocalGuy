@@ -1,7 +1,7 @@
 ---
-title: "Kali Linux Integrates Local Ollama and MCP for AI-Driven Penetration Testing"
+title: Kali Linux Integrates Local Ollama and MCP for AI-Driven Penetration Testing
 date: 2026-03-11
-description: "Kali Linux now features integrated local Ollama and MCP Kali Server support, enabling security professionals to run AI-assisted penetration testing entirely on-device without external dependencies."
+description: Kali Linux now features integrated local Ollama and MCP Kali Server support, enabling security professionals to run AI-assisted penetration testing entirely on-device without external dependencies.
 tags:
   - ai-penetration-testing
   - bullish
@@ -36,7 +36,7 @@ mentions:
     role: example
   - name: CyberSecurityNews
     role: publisher
-status: draft
+status: published
 ---
 
 Kali Linux has integrated local Ollama and MCP (Model Context Protocol) Kali Server support directly into its penetration testing toolkit, enabling cybersecurity professionals to leverage locally-deployed LLMs for security analysis without external API calls. This integration allows security teams to maintain complete data sovereignty—a critical requirement in regulated industries and sensitive environments—while using AI to automate tasks like vulnerability analysis, payload generation, and exploitation planning.

@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 Llama.cpp has shipped a major feature that the community has been requesting: [true reasoning budget support](https://github.com/ggml-org/llama.cpp/commit/acb7c790698fa28a0fbfc0468804926815b94de3). Previously, the `--reasoning-budget` parameter was essentially non-functional, serving only to disable thinking entirely. Now users have granular control over how many thinking tokens the model allocates during inference.

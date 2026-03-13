@@ -21,7 +21,7 @@ tags:
 mentions:
   - name: Manus
     role: employer
-status: draft
+status: published
 ---
 
 A former backend lead at Manus has [shared detailed insights](https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/) about moving away from function calling entirely after two years of building production agents. Rather than relying on the standard function-calling paradigm that most frameworks encourage, they've distilled their production failures into alternative patterns that prove more reliable in practice.

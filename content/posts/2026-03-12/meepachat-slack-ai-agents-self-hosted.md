@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 The rise of agentic AI systems requires new infrastructure for managing multi-agent interactions, and [MeepaChat addresses this gap by bringing Slack-like collaboration to AI agents](https://github.com/bogpad/meepachat). The platform's explicit support for self-hosted deployments makes it particularly relevant for local LLM practitioners who want to run agent systems entirely on-device or on their own infrastructure.

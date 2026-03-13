@@ -31,7 +31,7 @@ mentions:
     role: publisher
   - name: VmExit
     role: project
-status: draft
+status: published
 ---
 
 Infrastructure design for local AI inference typically adapts general-purpose computing paradigms to AI workloads. [VmExit takes a different approach by exploring what computing could look like if designed natively for AI from the ground up](https://vmexit.dev). This experimental work challenges assumptions about memory hierarchies, compute patterns, and resource allocation that have shaped traditional CPU/GPU architectures.

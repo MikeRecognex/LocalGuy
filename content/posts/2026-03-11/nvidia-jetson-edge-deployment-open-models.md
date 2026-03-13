@@ -1,7 +1,7 @@
 ---
-title: "NVIDIA Jetson Brings Open Models to Life at the Edge"
+title: NVIDIA Jetson Brings Open Models to Life at the Edge
 date: 2026-03-11
-description: "NVIDIA highlights how Jetson platforms are enabling edge deployment of open-source LLMs, democratizing access to local AI inference on resource-constrained devices."
+description: NVIDIA highlights how Jetson platforms are enabling edge deployment of open-source LLMs, democratizing access to local AI inference on resource-constrained devices.
 tags:
   - bullish
   - daily-digest
@@ -21,7 +21,7 @@ tags:
   - open-source-models
   - production-deployment
   - showcase
-status: draft
+status: published
 ---
 
 NVIDIA's Jetson platform continues to be a cornerstone for edge LLM deployment, with new updates highlighting how open models can be efficiently run on resource-constrained devices. As the open-source model ecosystem expands with releases from organizations like Sarvam, Meta, and others, Jetson provides the hardware foundation that makes local inference practical for real-world applications without requiring data center-class GPUs.

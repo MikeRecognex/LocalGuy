@@ -23,7 +23,7 @@ tags:
   - quantisation
   - release
   - self-hosting
-status: draft
+status: published
 ---
 
 Nvidia has released [Nemotron 3 Super](https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/), a 120B mixture-of-experts model that activates only 12B parameters at inference time. This open-source model combines Mamba and Transformer architectures, specifically optimized for agentic reasoning and complex task decomposition. The significantly reduced active parameter count makes it substantially more viable for local deployment than traditional 120B models.

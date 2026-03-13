@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 GPU optimization is fundamental to efficient local LLM inference, and [Cutile.jl brings advanced CUDA tile-based programming to the Julia ecosystem](https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/). Tile-based programming allows developers to maximize GPU memory hierarchy utilization, reducing bandwidth bottlenecks that often limit inference throughput.
