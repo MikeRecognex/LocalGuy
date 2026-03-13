@@ -36,7 +36,7 @@ mentions:
   - name: GitHub Gist
     role: platform
   - name: Hacker News
-    role: publisher
+    role: source
 status: draft
 ---
 

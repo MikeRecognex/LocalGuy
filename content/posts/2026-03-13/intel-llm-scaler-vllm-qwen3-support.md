@@ -1,14 +1,33 @@
 ---
-title: "Intel Updates LLM-Scaler-vLLM With Support For More Qwen3/3.5 Models"
+title: Intel Updates LLM-Scaler-vLLM With Support For More Qwen3/3.5 Models
 date: 2026-03-13
-description: "Intel has expanded LLM-Scaler-vLLM compatibility to include additional Qwen3 and Qwen3.5 models, improving inference optimization for self-hosted deployments on Intel hardware."
+description: Intel has expanded LLM-Scaler-vLLM compatibility to include additional Qwen3 and Qwen3.5 models, improving inference optimization for self-hosted deployments on Intel hardware.
 tags:
-  - daily-digest
-  - vllm
-  - quantisation
+  - bullish
+  - cpu-only
+  - datacenter-cpu
+  - developer
+  - efficient-deployment
   - hardware
+  - inference-optimization
+  - intermediate
+  - kv-cache-management
+  - llm-scaling
+  - local-deployment
+  - news
   - open-source
-status: draft
+  - phoronix
+  - quantisation
+  - qwen-models
+  - release
+  - token-level-batching
+  - vllm
+mentions:
+  - name: vLLM
+    role: framework
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 Intel has announced updates to its LLM-Scaler-vLLM integration, extending support to more Qwen3 and Qwen3.5 model variants. This development is significant for practitioners running local LLM inference on Intel CPUs and accelerators, as vLLM's continuous batching and memory optimization features can dramatically improve throughput and reduce latency for self-hosted deployments.

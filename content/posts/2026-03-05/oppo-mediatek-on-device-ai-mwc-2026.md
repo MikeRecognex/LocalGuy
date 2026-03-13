@@ -32,9 +32,9 @@ tags:
   - showcase
 mentions:
   - name: OPPO
-    role: partner
+    role: developer
   - name: MediaTek
-    role: partner
+    role: developer
   - name: OPPO
     role: collaborator
   - name: MediaTek

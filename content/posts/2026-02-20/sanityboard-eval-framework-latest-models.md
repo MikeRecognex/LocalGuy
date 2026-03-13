@@ -40,9 +40,11 @@ tags:
   - zhipu
 mentions:
   - name: SanityBoard
-    role: LLM evaluation framework
+    role: developer
   - name: SanityBoard
-    role: evaluation platform
+    role: platform
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

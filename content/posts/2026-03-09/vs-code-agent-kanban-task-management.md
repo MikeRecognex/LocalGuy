@@ -31,7 +31,7 @@ mentions:
   - name: AppSoftware
     role: publisher
   - name: Hacker News
-    role: publisher
+    role: source
 status: draft
 ---
 

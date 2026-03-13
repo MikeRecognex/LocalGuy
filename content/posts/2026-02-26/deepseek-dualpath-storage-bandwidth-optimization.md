@@ -38,9 +38,9 @@ tags:
   - tsinghua-university
 mentions:
   - name: Peking University
-    role: research-partner
+    role: research partner
   - name: Tsinghua University
-    role: research-partner
+    role: research partner
   - name: arXiv
     role: publisher
   - name: r/LocalLLaMA

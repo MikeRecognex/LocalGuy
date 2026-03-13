@@ -1,13 +1,33 @@
 ---
 title: "Runpod Report: Qwen Has Overtaken Meta's Llama As The Most-Deployed Self-Hosted LLM"
 date: 2026-03-13
-description: "According to Runpod data, Qwen models have surpassed Llama as the most popular choice for self-hosted LLM deployments, signaling a major shift in the local AI ecosystem."
+description: According to Runpod data, Qwen models have surpassed Llama as the most popular choice for self-hosted LLM deployments, signaling a major shift in the local AI ecosystem.
 tags:
-  - daily-digest
+  - alternative-llm-architectures
+  - analysis
   - benchmark
-  - open-source
+  - bullish
+  - cost-saving
   - deployment-trends
-status: draft
+  - developer
+  - inference-optimization
+  - intermediate
+  - local-ai-ecosystem
+  - market-trends
+  - model-selection
+  - news
+  - open-source
+  - open-source-strategy
+  - runpod
+  - self-hosted-llm-deployment
+  - self-hosted-llms
+  - the-new-stack
+mentions:
+  - name: Runpod
+    role: data provider
+  - name: The New Stack
+    role: publisher
+status: published
 ---
 
 Runpod's latest deployment report reveals a significant market shift: Qwen models have now surpassed Meta's Llama as the most-deployed self-hosted LLM globally. This trend reversal reflects both Qwen's technical improvements and Alibaba's aggressive open-sourcing strategy, making the ecosystem increasingly competitive beyond Llama's dominance.
