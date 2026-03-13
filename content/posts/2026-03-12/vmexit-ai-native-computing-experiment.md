@@ -1,13 +1,36 @@
 ---
 title: "Show HN: VmExit – An Experiment in AI-Native Computing"
 date: 2026-03-12
-description: "VmExit explores fundamental reimagining of computing infrastructure optimized specifically for AI workloads, challenging conventional approaches to local model deployment."
+description: VmExit explores fundamental reimagining of computing infrastructure optimized specifically for AI workloads, challenging conventional approaches to local model deployment.
 tags:
-  - daily-digest
+  - advanced
+  - ai-infrastructure
+  - ai-native-computing
+  - ai-native-hardware
+  - analysis
+  - bullish
+  - compute-architecture
+  - consumer-device-optimization
+  - consumer-gpu
+  - custom-asic
+  - deployment
+  - developer
+  - edge-deployment
+  - efficiency-optimization
+  - experiment
+  - hacker-news
   - hardware
   - infrastructure
+  - local-deployment
+  - local-llm-deployment
+  - next-gen-platforms
   - optimization
-  - deployment
+  - vmexit
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: VmExit
+    role: project
 status: draft
 ---
 

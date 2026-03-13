@@ -15,6 +15,7 @@ tags:
   - deepseek
   - developer
   - dualpath-technique
+  - gpu-compute-optimization
   - gpu-compute-utilization
   - gpu-utilization
   - hardware-optimization
@@ -37,13 +38,13 @@ tags:
   - tsinghua-university
 mentions:
   - name: Peking University
-    role: research partner
+    role: research-partner
   - name: Tsinghua University
-    role: research partner
+    role: research-partner
   - name: arXiv
     role: publisher
   - name: r/LocalLLaMA
-    role: source
+    role: community
 status: draft
 ---
 

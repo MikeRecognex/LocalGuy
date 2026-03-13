@@ -1,12 +1,37 @@
 ---
-title: "Sarvam Open-Sources 30B and 105B Reasoning Models"
+title: Sarvam Open-Sources 30B and 105B Reasoning Models
 date: 2026-03-12
-description: "Sarvam has released open-source reasoning models in 30B and 105B sizes, expanding the landscape of locally-deployable reasoning capabilities beyond the dominant players."
+description: Sarvam has released open-source reasoning models in 30B and 105B sizes, expanding the landscape of locally-deployable reasoning capabilities beyond the dominant players.
 tags:
-  - daily-digest
-  - open-source
+  - bullish
+  - consumer-gpu
+  - datacenter-gpu
+  - developer
+  - google-news
+  - hardware-optimization
+  - intermediate
+  - local-deployment
+  - model-fine-tuning
+  - model-quantization
   - model-release
+  - model-sizes
+  - msn
+  - multi-gpu-deployment
+  - open-source
+  - open-source-llms
+  - open-source-models
+  - private-inference
   - reasoning
+  - reasoning-models
+  - release
+  - sarvam
+mentions:
+  - name: Sarvam
+    role: model developer
+  - name: MSN
+    role: publisher
+  - name: Google News
+    role: publisher
 status: draft
 ---
 

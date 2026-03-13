@@ -3,11 +3,35 @@ title: "A Kubernetes Operator That Orchestrates AI Coding Agents"
 date: 2026-03-11
 description: "A new Kubernetes operator enables orchestration of AI coding agents for planning, coding, review, and shipping—providing infrastructure for deploying multi-agent AI systems at scale in self-hosted environments."
 tags:
-  - daily-digest
+  - advanced
+  - agent-orchestration
   - agents
-  - kubernetes
+  - ai-operator
+  - ai-software-development
+  - analysis
+  - bullish
+  - containerized-llm-deployment
+  - daily-digest
   - deployment
+  - developer
+  - gitops-deployment
+  - hacker-news
+  - kubernetes
+  - kubernetes-deployment
+  - medium
+  - multi-agent-systems
+  - multi-agent-workflows
   - orchestration
+  - private-infrastructure-deployment
+  - self-building-agents
+  - self-hosted-ai
+  - showcase
+  - vendor-lock-in-avoidance
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Medium
+    role: publisher
 status: draft
 ---
 

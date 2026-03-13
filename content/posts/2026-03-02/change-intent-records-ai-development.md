@@ -29,9 +29,6 @@ tags:
   - specialized-inference-models
   - specialized-models
   - training-data-quality
-mentions:
-  - name: Hacker News
-    role: publisher
 status: draft
 ---
 

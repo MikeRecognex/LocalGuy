@@ -1,13 +1,34 @@
 ---
 title: "Show HN: Detect When an LLM Silently Changes Behavior for the Same Prompt"
 date: 2026-03-12
-description: "A new tool enables monitoring and detecting when LLMs silently alter their responses for identical prompts, addressing a critical reliability concern for production deployments."
+description: A new tool enables monitoring and detecting when LLMs silently alter their responses for identical prompts, addressing a critical reliability concern for production deployments.
 tags:
-  - daily-digest
-  - monitoring
-  - reliability
+  - advanced
+  - aelitium-dev
+  - analysis
+  - bullish
   - deployment-tools
+  - developer
+  - hacker-news
+  - inference-reliability
+  - llm-monitoring
+  - model-behavioral-monitoring
+  - model-drift-detection
+  - model-optimization
+  - model-reproducibility
+  - monitoring
   - production
+  - production-deployment
+  - reliability
+  - self-hosted-reliability
+  - showcase
+mentions:
+  - name: aelitium-dev
+    role: developer
+  - name: Hacker News
+    role: publisher
+  - name: aelitium-dev
+    role: developer
 status: draft
 ---
 

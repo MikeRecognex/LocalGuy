@@ -3,10 +3,25 @@ title: "Llama.cpp Celebrates Major Milestone: From Leak to Industry Standard"
 date: 2026-03-11
 description: "The llama.cpp project marks a significant birthday, reflecting its evolution from a hobbyist experiment running leaked models to the foundational inference engine for local LLM deployment."
 tags:
+  - bullish
+  - consumer-gpu
+  - context-window
+  - cpu-inference
+  - cpu-only
   - daily-digest
-  - llama-cpp
-  - open-source
+  - developer
+  - edge-device
   - inference-engine
+  - intermediate
+  - llama-cpp
+  - llm-democratization
+  - local-inference
+  - local-llm-deployment
+  - model-quantization
+  - multi-gpu-inference
+  - news
+  - open-source
+  - quantization
 status: draft
 ---
 

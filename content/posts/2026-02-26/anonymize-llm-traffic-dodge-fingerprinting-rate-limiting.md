@@ -38,8 +38,8 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-  - name: claw-shield
-    role: software-project
+  - name: GitHub
+    role: platform
 status: draft
 ---
 

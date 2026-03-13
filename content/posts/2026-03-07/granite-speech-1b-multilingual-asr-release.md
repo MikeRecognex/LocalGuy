@@ -13,15 +13,18 @@ tags:
   - ibm
   - ibm-granite
   - intermediate
+  - local-speech-ai
   - model-compression
   - multilingual-asr
   - multilingual-speech-recognition
   - multimodal-ai
+  - news
   - on-device-ai
   - on-device-deployment
   - open-source
   - open-source-speech-models
   - privacy-compliance
+  - privacy-preserving-ai
   - real-time-transcription
   - release
   - showcase
@@ -33,7 +36,7 @@ tags:
   - voice-interfaces
 mentions:
   - name: IBM
-    role: provider
+    role: developer
 status: draft
 ---
 

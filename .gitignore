@@ -12,3 +12,4 @@ _private/
 .smart-retag-cache.json
 SMART-RETAG.md
 n8n/
+.env*.local

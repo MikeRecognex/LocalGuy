@@ -22,6 +22,7 @@ tags:
   - local-inference-deployment
   - local-llm-workflow-coordination
   - open-source
+  - privacy-compliance
   - showcase
   - task-management
   - vs-code-extension
@@ -30,7 +31,7 @@ mentions:
   - name: AppSoftware
     role: publisher
   - name: Hacker News
-    role: source
+    role: publisher
 status: draft
 ---
 

@@ -1,12 +1,26 @@
 ---
 title: "Ex-Manus Backend Lead Shares: Moving Beyond Function Calling in Agent Design"
 date: 2026-03-12
-description: "A former backend engineer at Manus shares production insights after 2 years building AI agents, revealing why they abandoned function calling entirely and presenting alternative architectural patterns. The post distills hard-won lessons about reliable agent design for production deployments."
+description: A former backend engineer at Manus shares production insights after 2 years building AI agents, revealing why they abandoned function calling entirely and presenting alternative architectural patterns. The post distills hard-won lessons about reliable agent design for production deployments.
 tags:
-  - daily-digest
+  - advanced
+  - agent-architecture
+  - agent-design
+  - agent-orchestration
   - agents
-  - production-deployment
+  - analysis
+  - architectural-patterns
   - architecture
+  - bullish
+  - developer
+  - function-calling-alternatives
+  - local-agent-deployment
+  - manus
+  - production-deployment
+  - production-failures
+mentions:
+  - name: Manus
+    role: employer
 status: draft
 ---
 

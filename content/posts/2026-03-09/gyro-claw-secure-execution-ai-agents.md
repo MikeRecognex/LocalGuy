@@ -33,10 +33,10 @@ tags:
   - security
   - showcase
 mentions:
-  - name: Gyro-Claw
-    role: project
   - name: Hacker News
     role: publisher
+  - name: Gyro-Claw
+    role: project
 status: draft
 ---
 

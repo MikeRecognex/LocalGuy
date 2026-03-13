@@ -1,13 +1,29 @@
 ---
 title: "Comprehensive MoE Backend Benchmarks for Qwen3.5-397B: Real Numbers vs Hype"
 date: 2026-03-12
-description: "A detailed benchmark of every major MoE backend for Qwen3.5-397B NVFP4 on workstation GPUs reveals actual sustained performance of 50.5 tok/s, significantly lower than commonly cited claims. The analysis uncovers kernel issues in Nvidia's own CUTLASS implementation."
+description: A detailed benchmark of every major MoE backend for Qwen3.5-397B NVFP4 on workstation GPUs reveals actual sustained performance of 50.5 tok/s, significantly lower than commonly cited claims. The analysis uncovers kernel issues in Nvidia's own CUTLASS implementation.
 tags:
-  - daily-digest
+  - advanced
   - benchmark
-  - moe
-  - quantisation
+  - benchmark-report
+  - cautious
+  - datacenter-gpu
+  - developer
+  - gpu-kernel-optimization
   - hardware
+  - hardware-procurement
+  - inference-performance
+  - local-deployment
+  - moe
+  - moe-benchmarking
+  - moe-models
+  - performance-benchmarking
+  - performance-validation
+  - quantisation
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

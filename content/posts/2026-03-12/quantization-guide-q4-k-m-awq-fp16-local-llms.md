@@ -1,12 +1,32 @@
 ---
 title: "Quantization Explained: Q4_K_M vs AWQ vs FP16 for Local LLMs"
 date: 2026-03-12
-description: "An in-depth technical guide comparing major quantization formats used in local LLM deployment, covering trade-offs between model size, inference speed, and quality."
+description: An in-depth technical guide comparing major quantization formats used in local LLM deployment, covering trade-offs between model size, inference speed, and quality.
 tags:
-  - daily-digest
-  - quantization
+  - advanced
+  - bullish
+  - comparison
+  - consumer-gpu
+  - consumer-hardware-optimization
+  - developer
+  - floating-point-precision
+  - intermediate
+  - local-llm-deployment
+  - memory-optimization
+  - model-optimization
+  - model-quantization
+  - neutral
   - optimization
   - performance
+  - quantization
+  - quantization-formats
+  - sitepoint
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

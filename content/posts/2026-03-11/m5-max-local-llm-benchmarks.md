@@ -3,10 +3,24 @@ title: "M5 Max 128GB Arrives: First Local LLM Benchmarks"
 date: 2026-03-11
 description: "Apple's new M5 Max chip with up to 128GB unified memory is being tested for local LLM inference performance. Early benchmarks show promising results for on-device model deployment."
 tags:
-  - daily-digest
-  - hardware
-  - benchmark
+  - analysis
   - apple-silicon
+  - apple-silicon-performance
+  - benchmark
+  - bullish
+  - consumer-hardware
+  - daily-digest
+  - developer
+  - edge-device
+  - hardware
+  - hardware-segmentation
+  - intermediate
+  - large-model-inference
+  - local-inference
+  - memory-capacity
+  - news
+  - on-device-deployment
+  - privacy-preserving-ai
 status: draft
 ---
 

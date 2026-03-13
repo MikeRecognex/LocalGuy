@@ -9,6 +9,7 @@ tags:
   - ai-workflow-design
   - ai-workflows
   - analysis
+  - batching-for-latency
   - bullish
   - complex-reasoning
   - context-window-management

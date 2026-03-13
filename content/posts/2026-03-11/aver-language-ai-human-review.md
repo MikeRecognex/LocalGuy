@@ -3,11 +3,29 @@ title: "Show HN: Aver – a Language Designed for AI to Write and Humans to Revi
 date: 2026-03-11
 description: "Aver is a new programming language specifically designed to bridge the gap between AI-generated code and human review, making it easier to deploy AI coding assistants in self-hosted environments with strong auditability."
 tags:
-  - daily-digest
-  - tools
-  - open-source
+  - advanced
+  - ai-code-generation
+  - ai-coding-assistants
+  - bullish
+  - code-auditability
   - code-generation
+  - code-generation-tooling
+  - code-review
+  - code-review-compliance
+  - daily-digest
+  - enterprise
   - framework
+  - hacker-news
+  - human-ai-collaboration
+  - intermediate
+  - language-design
+  - open-source
+  - self-hosted-llms
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

@@ -33,9 +33,7 @@ tags:
   - task-specific-evaluation
 mentions:
   - name: FretBench
-    role: publisher
-  - name: Hacker News
-    role: source
+    role: project
 status: draft
 ---
 

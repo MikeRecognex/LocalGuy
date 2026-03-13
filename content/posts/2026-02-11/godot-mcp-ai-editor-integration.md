@@ -20,25 +20,27 @@ tags:
   - hacker-news
   - intermediate
   - local-ai-applications
+  - local-ai-automation
   - local-ai-integration
   - local-automation
   - local-deployment
+  - local-deployment-enhancement
   - mcp
   - mcp-protocol
   - model-context-protocol
   - news
+  - offline-ai
   - offline-deployment
   - open-source
   - protocol-integration
+  - protocol-standardization
   - release
   - showcase
   - workflow-automation
   - workflow-integration
 mentions:
-  - name: GitHub
-    role: repository-host
   - name: Hacker News
-    role: source
+    role: publisher
 status: draft
 ---
 

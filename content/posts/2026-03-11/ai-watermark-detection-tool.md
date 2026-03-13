@@ -3,11 +3,31 @@ title: "Show HN: AIWatermarkDetector: Detect AI Watermarks in Text or Code"
 date: 2026-03-11
 description: "A new open-source tool detects AI-generated watermarks embedded in text and code, useful for local development workflows and understanding model behavior in self-hosted environments."
 tags:
-  - daily-digest
-  - open-source
-  - tools
-  - detection
+  - ai-content-transparency
+  - ai-watermarking
   - analysis
+  - bullish
+  - compliance-assurance
+  - daily-digest
+  - detection
+  - developer
+  - github
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-development
+  - model-analysis
+  - neutral
+  - open-source
+  - self-hosting
+  - showcase
+  - tools
+  - watermark-detection
+mentions:
+  - name: GitHub
+    role: platform
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

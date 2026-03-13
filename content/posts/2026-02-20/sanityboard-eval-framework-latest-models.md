@@ -42,9 +42,7 @@ mentions:
   - name: SanityBoard
     role: LLM evaluation framework
   - name: SanityBoard
-    role: platform
-  - name: r/LocalLLaMA
-    role: publisher
+    role: evaluation platform
 status: draft
 ---
 

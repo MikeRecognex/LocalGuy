@@ -38,8 +38,6 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
-  - name: MurbotLabs
-    role: developer
 status: draft
 ---
 

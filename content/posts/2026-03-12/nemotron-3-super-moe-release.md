@@ -1,13 +1,28 @@
 ---
 title: "Nvidia Releases Nemotron 3 Super: 120B MoE Model for Local Deployment"
 date: 2026-03-12
-description: "Nvidia has released Nemotron 3 Super, a 120B mixture-of-experts model with only 12B active parameters, designed as an open-source alternative for agentic reasoning tasks. The hybrid Mamba-Transformer architecture offers competitive performance with reduced computational requirements."
+description: Nvidia has released Nemotron 3 Super, a 120B mixture-of-experts model with only 12B active parameters, designed as an open-source alternative for agentic reasoning tasks. The hybrid Mamba-Transformer architecture offers competitive performance with reduced computational requirements.
 tags:
-  - daily-digest
-  - open-source
-  - moe
-  - quantisation
+  - advanced
+  - agentic-reasoning
+  - agentic-systems
   - agents
+  - analysis
+  - bullish
+  - consumer-gpu
+  - developer
+  - efficient-inference
+  - intermediate
+  - local-deployment
+  - mixture-of-experts
+  - model-efficiency
+  - model-quantization
+  - moe
+  - open-source
+  - open-source-models
+  - quantisation
+  - release
+  - self-hosting
 status: draft
 ---
 

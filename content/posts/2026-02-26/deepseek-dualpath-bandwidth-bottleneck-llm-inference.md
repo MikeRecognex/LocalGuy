@@ -9,6 +9,7 @@ tags:
   - bandwidth
   - bandwidth-efficiency
   - bandwidth-optimization
+  - benchmark-report
   - bullish
   - consumer-gpu
   - daily-digest
@@ -16,6 +17,7 @@ tags:
   - dualpath-technique
   - edge-ai
   - edge-ai-deployment
+  - edge-ai-model-deployment
   - edge-deployment
   - edge-device
   - edge-device-ai
@@ -31,9 +33,11 @@ tags:
   - local-deployment
   - local-inference
   - memory-bandwidth
+  - memory-bandwidth-optimization
   - on-device-ai
   - on-device-deployment
   - on-device-deployment-frameworks
+  - on-device-frameworks
   - open-source
   - performance-optimization
   - power-efficiency
@@ -42,9 +46,9 @@ tags:
   - resource-optimization
 mentions:
   - name: arXiv
-    role: repository
+    role: publisher
   - name: Hacker News
-    role: source
+    role: publisher
 status: draft
 ---
 

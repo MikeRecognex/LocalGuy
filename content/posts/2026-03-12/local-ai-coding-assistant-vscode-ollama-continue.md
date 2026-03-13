@@ -1,12 +1,32 @@
 ---
 title: "Local AI Coding Assistant: Complete VS Code + Ollama + Continue Setup"
 date: 2026-03-12
-description: "A step-by-step guide for setting up a fully local AI coding assistant using VS Code, Ollama, and the Continue extension, eliminating cloud dependency for code suggestions."
+description: A step-by-step guide for setting up a fully local AI coding assistant using VS Code, Ollama, and the Continue extension, eliminating cloud dependency for code suggestions.
 tags:
-  - daily-digest
-  - ollama
+  - bullish
+  - code-completion
+  - code-generation
+  - code-privacy
   - coding
+  - consumer-gpu
+  - data-privacy
+  - developer
+  - developer-productivity
   - developer-tools
+  - enterprise
+  - ide-integration
+  - intermediate
+  - local-ai-development
+  - offline-deployment
+  - ollama
+  - on-device-ai
+  - sitepoint
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

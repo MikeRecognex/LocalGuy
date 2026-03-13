@@ -5,6 +5,7 @@ description: "Nota AI will demonstrate complete on-device AI solutions from edge
 tags:
   - advanced
   - bullish
+  - constrained-hardware-deployment
   - constrained-hardware-optimization
   - daily-digest
   - deployment
@@ -15,6 +16,7 @@ tags:
   - edge-optimization
   - enterprise
   - hardware
+  - industrial-ai-deployment
   - industrial-deployment
   - intermediate
   - model-compression

@@ -33,8 +33,8 @@ tags:
   - training
   - uncensored-models
 mentions:
-  - name: r/LocalLLaMA
-    role: community-source
+  - name: Reddit
+    role: publisher
 status: draft
 ---
 

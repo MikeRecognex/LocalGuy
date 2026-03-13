@@ -19,6 +19,7 @@ tags:
   - inference-pipeline-control
   - intermediate
   - llm-output-degradation
+  - llm-output-quality-degradation
   - llm-performance
   - llm-performance-degradation
   - local-agent-deployment
@@ -35,7 +36,7 @@ mentions:
   - name: GitHub Gist
     role: platform
   - name: Hacker News
-    role: source
+    role: publisher
 status: draft
 ---
 

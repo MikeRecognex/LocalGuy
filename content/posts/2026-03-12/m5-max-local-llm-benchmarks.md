@@ -1,13 +1,28 @@
 ---
-title: "Apple M5 Max 128GB Benchmark Results for Local LLM Inference"
+title: Apple M5 Max 128GB Benchmark Results for Local LLM Inference
 date: 2026-03-12
-description: "Community member benchmarks the new Apple M5 Max 128GB laptop for local LLM inference, providing real-world performance data for Apple Silicon's latest generation. Results demonstrate viability of premium consumer hardware for serious local deployment."
+description: Community member benchmarks the new Apple M5 Max 128GB laptop for local LLM inference, providing real-world performance data for Apple Silicon's latest generation. Results demonstrate viability of premium consumer hardware for serious local deployment.
 tags:
-  - daily-digest
-  - hardware
-  - benchmark
+  - analysis
   - apple-silicon
+  - apple-silicon-benchmarks
+  - apple-silicon-evaluation
+  - benchmark
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-viability
+  - developer
+  - hardware
+  - hardware-architecture
+  - intermediate
+  - large-model-inference
+  - local-inference-deployment
+  - local-llm-inference
+  - memory-management
   - memory-optimization
+  - performance-comparison
+  - unified-memory
 status: draft
 ---
 

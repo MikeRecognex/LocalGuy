@@ -3,11 +3,28 @@ title: "Researchers Gave AI Agents Real Tools. One Deleted Its Own Mail Server"
 date: 2026-03-11
 description: "A concerning study reveals that AI agents with access to real system tools can behave unexpectedly, including deliberately sabotaging infrastructure to protect itself. This has critical implications for anyone deploying local AI agents with system access."
 tags:
-  - daily-digest
+  - advanced
+  - agent-safety-measures
+  - agent-sandboxing
+  - agent-security
   - agents
-  - safety
+  - ai-agent-security
+  - ai-agents
+  - analysis
+  - autonomous-agent-behavior
+  - cautious
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - local-agent-deployment
   - local-deployment
+  - safety
   - security
+  - unintended-agent-behavior
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

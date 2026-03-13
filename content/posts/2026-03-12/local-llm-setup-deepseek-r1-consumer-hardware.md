@@ -1,12 +1,33 @@
 ---
 title: "The $1,500 Local AI Setup: DeepSeek-R1 on Consumer Hardware"
 date: 2026-03-12
-description: "A comprehensive guide demonstrating how to deploy DeepSeek-R1 reasoning models on consumer-grade hardware for under $1,500, making advanced local inference accessible to individual developers."
+description: A comprehensive guide demonstrating how to deploy DeepSeek-R1 reasoning models on consumer-grade hardware for under $1,500, making advanced local inference accessible to individual developers.
 tags:
-  - daily-digest
-  - deepseek
-  - hardware
+  - budget-ai-systems
   - budget-friendly
+  - bullish
+  - cloud-independence
+  - consumer-gpu
+  - cost-saving
+  - data-privacy
+  - deepseek
+  - developer
+  - hardware
+  - hardware-setup
+  - inference-optimization
+  - intermediate
+  - local-inference-stack
+  - local-llm-deployment
+  - model-deployment
+  - model-optimization
+  - reasoning-models
+  - sitepoint
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

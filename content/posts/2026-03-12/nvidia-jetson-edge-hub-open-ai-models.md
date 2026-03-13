@@ -1,12 +1,31 @@
 ---
-title: "Nvidia Pushes Jetson as Edge Hub for Open AI Models"
+title: Nvidia Pushes Jetson as Edge Hub for Open AI Models
 date: 2026-03-12
-description: "NVIDIA is positioning its Jetson platform as a complete edge deployment hub for open-source AI models, combining hardware optimization with software tooling for on-device inference at scale."
+description: NVIDIA is positioning its Jetson platform as a complete edge deployment hub for open-source AI models, combining hardware optimization with software tooling for on-device inference at scale.
 tags:
-  - daily-digest
-  - nvidia-jetson
-  - hardware
+  - analysis
+  - bullish
+  - channellife
+  - consumer-gpu
+  - developer
+  - edge-ai-deployment
   - edge-deployment
+  - edge-device
+  - edge-hardware
+  - enterprise
+  - hardware
+  - hardware-software-optimization
+  - inference-optimization
+  - intermediate
+  - local-llm-inference
+  - news
+  - nvidia-jetson
+  - open-source-models
+  - privacy-compliance
+  - production-deployment
+mentions:
+  - name: ChannelLife
+    role: publisher
 status: draft
 ---
 

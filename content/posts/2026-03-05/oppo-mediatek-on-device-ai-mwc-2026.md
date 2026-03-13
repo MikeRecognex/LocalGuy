@@ -22,6 +22,7 @@ tags:
   - mobile-ai-optimization
   - mobile-chip
   - model-quantization
+  - news
   - on-device-ai
   - on-device-inference
   - oppo
@@ -31,15 +32,15 @@ tags:
   - showcase
 mentions:
   - name: OPPO
-    role: developer
+    role: partner
   - name: MediaTek
-    role: developer
+    role: partner
   - name: OPPO
     role: collaborator
   - name: MediaTek
     role: collaborator
   - name: Google News
-    role: source
+    role: publisher
 status: draft
 ---
 
