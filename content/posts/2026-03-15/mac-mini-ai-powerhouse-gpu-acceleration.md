@@ -7,7 +7,6 @@ tags:
   - apple-silicon
   - apple-silicon-optimization
   - apple-silicon-workarounds
-  - bullish
   - consumer-gpu
   - cost-effective-ai
   - developer

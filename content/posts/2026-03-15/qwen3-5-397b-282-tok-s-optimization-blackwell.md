@@ -5,7 +5,6 @@ description: A developer achieved a 5x performance improvement on the massive Qw
 tags:
   - advanced
   - benchmark
-  - bullish
   - custom-kernel-development
   - datacenter-gpu
   - developer

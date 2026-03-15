@@ -4,7 +4,6 @@ date: 2026-03-15
 description: India's playbook for mobile-first technology adoption offers lessons for democratizing AI inference in resource-constrained environments through local deployment.
 tags:
   - analysis
-  - bullish
   - consumer-gpu
   - developer
   - edge-device

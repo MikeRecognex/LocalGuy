@@ -3,7 +3,6 @@ title: "OpenClaw vs Eigent vs Claude Cowork: Comparing Open-Source AI Collaborat
 date: 2026-03-15
 description: A comprehensive comparison of emerging open-source platforms for collaborative AI development and local deployment, evaluating features and capabilities for 2026.
 tags:
-  - bullish
   - claude-cowork
   - collaboration
   - collaboration-tools

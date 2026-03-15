@@ -4,7 +4,6 @@ date: 2026-03-15
 description: A practitioner successfully split Qwen3.5-27B across a 4070Ti and AMD RX6800 over LAN using llama.cpp's RPC server, achieving 13 tokens/second with 32K context—demonstrating that heterogeneous multi-GPU local setups are now viable. This shows path forward for GPU-poor practitioners seeking reasonable performance.
 tags:
   - benchmark
-  - bullish
   - consumer-gpu
   - cost-saving
   - developer

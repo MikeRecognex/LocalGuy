@@ -3,7 +3,6 @@ title: StepFun Releases SFT Dataset Used to Train Step 3.5 Flash for Community F
 date: 2026-03-15
 description: StepFun has open-sourced the supervised fine-tuning dataset behind Step 3.5 Flash, enabling local practitioners to understand, reproduce, and fine-tune efficient LLMs. This transparency advance the state of reproducible local LLM development.
 tags:
-  - bullish
   - community-driven-development
   - dataset
   - developer

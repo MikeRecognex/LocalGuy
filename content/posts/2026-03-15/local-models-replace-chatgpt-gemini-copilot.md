@@ -6,7 +6,6 @@ tags:
   - ai-commoditization
   - analysis
   - benchmark
-  - bullish
   - consumer-gpu
   - cost-optimization
   - cost-saving
