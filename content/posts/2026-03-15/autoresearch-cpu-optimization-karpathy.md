@@ -1,14 +1,38 @@
 ---
-title: "I made Karpathy's Autoresearch work on CPU"
+title: I made Karpathy's Autoresearch work on CPU
 date: 2026-03-15
-description: "A developer successfully optimized Karpathy's Autoresearch project to run on CPU-only systems, removing GPU dependency. This breakthrough makes advanced research automation accessible to users without GPU hardware."
+description: A developer successfully optimized Karpathy's Autoresearch project to run on CPU-only systems, removing GPU dependency. This breakthrough makes advanced research automation accessible to users without GPU hardware.
 tags:
-  - daily-digest
+  - advanced
+  - ai-accessibility
+  - bopalvelut-prog
+  - bullish
+  - cpu-inference
+  - cpu-only
   - cpu-optimization
-  - open-source
-  - inference
+  - developer
+  - edge-device
+  - gpu-free-inference
+  - gpu-optimization
+  - hacker-news
   - hardware
-status: draft
+  - hardware-accessibility
+  - hardware-compatibility
+  - inference
+  - intermediate
+  - open-source
+  - research-automation
+  - showcase
+  - tutorial
+mentions:
+  - name: Andrej Karpathy
+    role: creator
+    handle: "@karpathy"
+  - name: bopalvelut-prog
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 CPU optimization of complex AI projects is a perennial challenge in the local LLM community, and this successful port of Karpathy's Autoresearch to CPU-only environments is a significant practical achievement. Autoresearch is a sophisticated system for autonomous research automation, and getting it to run efficiently without GPU acceleration opens possibilities for researchers and developers with limited hardware access.

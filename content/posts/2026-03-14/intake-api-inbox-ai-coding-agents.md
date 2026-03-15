@@ -1,14 +1,30 @@
 ---
 title: "Show HN: Intake API – An Inbox for AI Coding Agents"
 date: 2026-03-14
-description: "A new API framework provides a standardized inbox/queue system for local AI coding agents, enabling better coordination and management of agent tasks in self-hosted environments. This tooling addresses operational challenges in deploying multiple local agents."
+description: A new API framework provides a standardized inbox/queue system for local AI coding agents, enabling better coordination and management of agent tasks in self-hosted environments. This tooling addresses operational challenges in deploying multiple local agents.
 tags:
-  - daily-digest
+  - advanced
+  - agent-orchestration
+  - agent-tooling
   - agents
-  - tools
-  - open-source
+  - ai-coding-agents
+  - bullish
   - deployment
-status: draft
+  - developer
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - multi-agent-systems
+  - news
+  - open-source
+  - showcase
+  - task-management
+  - tools
+  - workflow-coordination
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Managing multiple local AI agents requires infrastructure that many practitioners currently build ad-hoc. The Intake API introduces a standardized inbox/queue abstraction designed specifically for coordinating AI coding agents in self-hosted environments, simplifying task distribution and result aggregation across agent instances.

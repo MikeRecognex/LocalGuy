@@ -1,14 +1,32 @@
 ---
 title: "Show HN: Voice-tracked teleprompter using on-device ASR in the browser"
 date: 2026-03-15
-description: "A new browser-based tool that combines on-device automatic speech recognition with teleprompter functionality, enabling voice-tracked presentations without server dependencies. The system processes audio locally in the browser."
+description: A new browser-based tool that combines on-device automatic speech recognition with teleprompter functionality, enabling voice-tracked presentations without server dependencies. The system processes audio locally in the browser.
 tags:
-  - daily-digest
+  - audio
+  - browser-based-inference
+  - browser-inference
+  - browser-ml
+  - bullish
+  - cpu-only
+  - data-privacy
+  - developer
+  - hacker-news
+  - intermediate
+  - local-asr-deployment
+  - local-first-ai
   - on-device-asr
   - open-source
-  - browser-inference
-  - audio
-status: draft
+  - privacy-preserving-ai
+  - serverless-ai
+  - showcase
+  - tutorial
+  - voice-tracking
+  - web-ai-frameworks
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 This project showcases the maturity of on-device inference in web browsers, combining local automatic speech recognition (ASR) with practical application design. The voice-tracked teleprompter uses client-side models to process speech entirely within the browser, eliminating privacy concerns and server dependencies while maintaining real-time responsiveness.

@@ -36,7 +36,7 @@ tags:
   - voice-interfaces
 mentions:
   - name: IBM
-    role: provider
+    role: developer
 status: draft
 ---
 

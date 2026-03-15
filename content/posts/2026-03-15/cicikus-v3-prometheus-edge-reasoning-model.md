@@ -1,14 +1,33 @@
 ---
-title: "Cicikus v3 Prometheus 4.4B – An Experimental Franken-Merge for Edge Reasoning"
+title: Cicikus v3 Prometheus 4.4B – An Experimental Franken-Merge for Edge Reasoning
 date: 2026-03-15
-description: "A new 4.4B parameter model optimized for edge reasoning tasks, combining multiple models through merging techniques. This lightweight model is designed for on-device inference with improved reasoning capabilities."
+description: A new 4.4B parameter model optimized for edge reasoning tasks, combining multiple models through merging techniques. This lightweight model is designed for on-device inference with improved reasoning capabilities.
 tags:
-  - daily-digest
-  - model-release
-  - edge-inference
-  - quantisation
   - benchmark
-status: draft
+  - bullish
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - edge-reasoning
+  - efficient-models
+  - hacker-news
+  - intermediate
+  - model-architecture
+  - model-merging
+  - model-release
+  - offline-inference
+  - on-device-inference
+  - pthinc
+  - quantisation
+  - reasoning-capabilities
+  - showcase
+mentions:
+  - name: pthinc
+    role: model-developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Cicikus v3 Prometheus represents an exciting development in small, efficient models tailored for edge deployment. At 4.4B parameters, this experimental franken-merge combines the strengths of multiple models through advanced merging techniques, targeting scenarios where reasoning capability must be balanced against strict resource constraints.

@@ -32,15 +32,15 @@ tags:
   - showcase
 mentions:
   - name: OPPO
-    role: developer
+    role: partner
   - name: MediaTek
-    role: developer
+    role: partner
   - name: OPPO
     role: collaborator
   - name: MediaTek
     role: collaborator
   - name: Google News
-    role: publisher
+    role: source
 status: draft
 ---
 

@@ -1,14 +1,31 @@
 ---
 title: "AgentArmor: Open-Source 8-Layer Security Framework for AI Agents"
 date: 2026-03-14
-description: "A new open-source security framework specifically designed for autonomous AI agents provides eight layers of protection against prompt injection, jailbreaks, and malicious outputs. This addresses a critical gap in local agent deployment where security is often overlooked."
+description: A new open-source security framework specifically designed for autonomous AI agents provides eight layers of protection against prompt injection, jailbreaks, and malicious outputs. This addresses a critical gap in local agent deployment where security is often overlooked.
 tags:
-  - daily-digest
+  - advanced
+  - agent-security
   - agents
-  - security
-  - open-source
+  - ai-agent-security
+  - bullish
+  - cost-saving
+  - defense-in-depth
   - deployment
-status: draft
+  - developer
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-agent-deployment
+  - open-source
+  - open-source-ai-security
+  - privacy-compliance
+  - prompt-injection-defense
+  - security
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Security remains a critical but underdeveloped aspect of local LLM agent deployment. AgentArmor introduces a comprehensive 8-layer defense system designed specifically for autonomous agents running on local infrastructure, addressing vulnerabilities like prompt injection, output manipulation, and jailbreak attempts that could compromise self-hosted systems.

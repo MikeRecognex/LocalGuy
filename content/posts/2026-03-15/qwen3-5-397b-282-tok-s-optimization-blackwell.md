@@ -1,14 +1,36 @@
 ---
-title: "Qwen3.5-397B Achieves 282 tok/s on 4x RTX PRO 6000 Blackwell Through Custom CUTLASS Kernel"
+title: Qwen3.5-397B Achieves 282 tok/s on 4x RTX PRO 6000 Blackwell Through Custom CUTLASS Kernel
 date: 2026-03-15
-description: "A developer achieved a 5x performance improvement on the massive Qwen3.5-397B model by building a custom CUTLASS kernel to fix SM120's broken MoE GEMM tiles, reaching 282 tokens/second on Blackwell GPUs. This breakthrough demonstrates significant optimization potential for running large models locally with multi-GPU setups."
+description: A developer achieved a 5x performance improvement on the massive Qwen3.5-397B model by building a custom CUTLASS kernel to fix SM120's broken MoE GEMM tiles, reaching 282 tokens/second on Blackwell GPUs. This breakthrough demonstrates significant optimization potential for running large models locally with multi-GPU setups.
 tags:
-  - daily-digest
+  - advanced
   - benchmark
+  - bullish
+  - custom-kernel-development
+  - datacenter-gpu
+  - developer
+  - docker-deployment
+  - flashinfer
   - hardware
-  - quantisation
+  - inference-speed
+  - intermediate
+  - kernel-optimization
+  - large-model-inference
+  - local-llm-deployment
+  - model-deployment
+  - moe-optimization
+  - multi-gpu-inference
   - performance-optimization
-status: draft
+  - quantisation
+  - rlocalllama
+  - showcase
+  - tutorial
+mentions:
+  - name: FlashInfer
+    role: project
+  - name: r/LocalLLaMA
+    role: publisher
+status: published
 ---
 
 A developer in the LocalLLaMA community has achieved a remarkable performance breakthrough with the Qwen3.5-397B model, reaching 282 tokens per second on 4x RTX PRO 6000 Blackwell GPUs. The optimization journey involved identifying and fixing a critical bottleneck in NVIDIA's SM120 architecture where MoE GEMM tiles were broken, resulting in a 5x speedup from an initial 55 tok/s baseline.

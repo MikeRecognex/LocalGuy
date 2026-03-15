@@ -1,14 +1,29 @@
 ---
 title: "How to Run Local LLMs in 2026: The Complete Developer's Guide"
 date: 2026-03-14
-description: "SitePoint presents an updated comprehensive guide for developers looking to deploy and run local LLMs in 2026, covering modern tools, best practices, and deployment strategies."
+description: SitePoint presents an updated comprehensive guide for developers looking to deploy and run local LLMs in 2026, covering modern tools, best practices, and deployment strategies.
 tags:
-  - daily-digest
-  - getting-started
+  - bullish
   - deployment
+  - deployment-practices
+  - deployment-strategy
+  - developer
   - developer-guide
+  - getting-started
+  - intermediate
+  - llama-cpp-deployment
+  - llm-tools
+  - local-llm-deployment
+  - ollama-deployment
+  - sitepoint
   - tools
-status: draft
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 This comprehensive guide serves as an excellent entry point for developers new to local LLM deployment, while also providing valuable updates for experienced practitioners. A 2026 guide necessarily reflects the current state of production-ready tools and frameworks, eliminating obsolete approaches and highlighting what actually works in practice.

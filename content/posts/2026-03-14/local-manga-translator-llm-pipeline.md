@@ -1,14 +1,30 @@
 ---
 title: "Local Manga Translator: Production LLM Pipeline with YOLO, OCR, and Inpainting"
 date: 2026-03-14
-description: "A year-long project demonstrates a complete local LLM deployment pipeline combining YOLO object detection, custom OCR, image inpainting, and multiple LLMs for end-to-end manga translation without cloud dependencies."
+description: A year-long project demonstrates a complete local LLM deployment pipeline combining YOLO object detection, custom OCR, image inpainting, and multiple LLMs for end-to-end manga translation without cloud dependencies.
 tags:
-  - daily-digest
-  - multi-modal
+  - advanced
+  - bullish
+  - cloud-independence
   - computer-vision
-  - pipeline
+  - consumer-gpu
+  - consumer-hardware-ai
+  - custom-ai-components
+  - developer
+  - image-inpainting
+  - llm-pipeline
+  - local-llm-ecosystem
+  - manga-translation
+  - multi-modal
+  - multimodal-applications
+  - object-detection
+  - on-device-ai
   - open-source
-status: draft
+  - optical-character-recognition
+  - pipeline
+  - pipeline-architecture
+  - showcase
+status: published
 ---
 
 A comprehensive [year-long project demonstrates how to build production-grade local LLM pipelines](https://www.reddit.com/r/LocalLLaMA/comments/1rtf4v8/local_manga_translator_with_llms_built_in/) by combining multiple specialized models into a cohesive system. The manga translator architecture chains YOLO for text detection, custom OCR for character recognition, LaMa for image inpainting, multiple LLMs for translation, and a custom text rendering engine—achieving quality results entirely on-device.

@@ -107,6 +107,26 @@
     "2026-03-10": {
       "text": "M5 Max chipsets enable practical MacBook deployment of larger LLMs like GPT-5 and Claude.",
       "postCount": 15
+    },
+    "2026-03-11": {
+      "text": "Llama.cpp celebrates milestone as foundational inference engine for local LLM deployment.",
+      "postCount": 14
+    },
+    "2026-03-12": {
+      "text": "Nvidia releases Nemotron 3 Super, a 120B MoE model for local deployment.",
+      "postCount": 15
+    },
+    "2026-03-13": {
+      "text": "Intel updates LLM-Scaler-vLLM with Qwen3 and Qwen3.5 model support.",
+      "postCount": 5
+    },
+    "2026-03-14": {
+      "text": "QWEN 3.5 27B achieves 2000 tokens per second on RTX-5090 hardware.",
+      "postCount": 15
+    },
+    "2026-03-15": {
+      "text": "AMD launches Ryzen-based Agent System for local AI inference with Radeon GPU acceleration.",
+      "postCount": 15
     }
   },
   "weekly": {
@@ -127,8 +147,8 @@
       "postCount": 95
     },
     "2026-03-09": {
-      "text": "<p>Nemotron 9B and Qwen 3.5 models were showcased for large-scale local inference, while Nota AI demonstrated on-device AI optimization.</p>\n<p>Posts like \"Fine-Tuned Qwen SLMs\" and \"Qwen 3.5 Ultra-Compact Models\" highlighted local model specialization and on-device AI capabilities.</p>",
-      "postCount": 30
+      "text": "<p>Nemotron 9B and Qwen 3.5 models were highlighted for large-scale local inference. Nota AI showcased on-device AI optimization.</p>\n<p>Posts like \"Fine-Tuned Qwen SLMs\" and \"Qwen 3.5 Ultra-Compact Models\" stood out for local AI advancements.</p>",
+      "postCount": 94
     }
   }
 }

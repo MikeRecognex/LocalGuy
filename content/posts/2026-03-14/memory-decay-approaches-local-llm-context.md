@@ -1,14 +1,34 @@
 ---
 title: "Memory Should Decay: Implementing Temporal Memory Decay in Local LLM Systems"
 date: 2026-03-14
-description: "Research on memory decay mechanisms suggests that implementing forgetting patterns in local LLM systems could improve efficiency and realism in agent behavior. This approach addresses context accumulation problems in long-running local inference workloads."
+description: Research on memory decay mechanisms suggests that implementing forgetting patterns in local LLM systems could improve efficiency and realism in agent behavior. This approach addresses context accumulation problems in long-running local inference workloads.
 tags:
-  - daily-digest
-  - memory-optimization
+  - advanced
+  - agent-orchestration
   - agents
+  - analysis
+  - bullish
+  - context-window-management
+  - decay-memory
+  - developer
+  - efficiency-optimization
+  - hacker-news
+  - inference-latency
+  - llm-agents
+  - local-llm-frameworks
+  - memory-management
+  - memory-optimization
   - performance
   - research
-status: draft
+  - stack-research
+mentions:
+  - name: Stack Research
+    role: researcher
+  - name: Stack Research
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Long-running local LLM agents face a fundamental problem: context windows grow unbounded as memory accumulates, eventually degrading performance and consuming resources. Research from Stack Research proposes implementing intentional memory decay—where older information gradually loses relevance—as a solution that mirrors human cognitive patterns while reducing computational overhead.

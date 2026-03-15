@@ -1,14 +1,34 @@
 ---
-title: "StepFun Releases SFT Dataset Used to Train Step 3.5 Flash for Community Fine-Tuning"
+title: StepFun Releases SFT Dataset Used to Train Step 3.5 Flash for Community Fine-Tuning
 date: 2026-03-15
-description: "StepFun has open-sourced the supervised fine-tuning dataset behind Step 3.5 Flash, enabling local practitioners to understand, reproduce, and fine-tune efficient LLMs. This transparency advance the state of reproducible local LLM development."
+description: StepFun has open-sourced the supervised fine-tuning dataset behind Step 3.5 Flash, enabling local practitioners to understand, reproduce, and fine-tune efficient LLMs. This transparency advance the state of reproducible local LLM development.
 tags:
-  - daily-digest
-  - fine-tuning
-  - open-source
-  - model-release
+  - bullish
+  - community-driven-development
   - dataset
-status: draft
+  - developer
+  - domain-specific-ai
+  - fine-tuning
+  - intermediate
+  - local-llm-development
+  - model-fine-tuning
+  - model-optimization
+  - model-release
+  - model-training-efficiency
+  - open-source
+  - open-source-models
+  - release
+  - reproducible-ai
+  - sft-datasets
+  - stepfun
+  - stepfun-ai
+  - supervised-fine-tuning-dataset
+mentions:
+  - name: StepFun
+    role: developer
+  - name: stepfun-ai
+    role: dataset-creator
+status: published
 ---
 
 The release of [StepFun's Step 3.5 Flash SFT dataset](https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT) represents an important contribution to the reproducibility and accessibility of local LLM development. By publishing the supervised fine-tuning dataset, StepFun enables the community to understand the exact training methodology behind an efficient production model and provides raw material for custom fine-tuning experiments.

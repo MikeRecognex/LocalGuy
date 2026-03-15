@@ -1,14 +1,32 @@
 ---
 title: "Show HN: Bots of WallStreet – Multi-Agent Debate and Prediction Framework"
 date: 2026-03-14
-description: "A practical demonstration of multiple AI agents coordinating on tasks using local inference, showing how agents can debate, collaborate, and make predictions without relying on cloud APIs. Illustrates scalable patterns for local multi-agent systems."
+description: A practical demonstration of multiple AI agents coordinating on tasks using local inference, showing how agents can debate, collaborate, and make predictions without relying on cloud APIs. Illustrates scalable patterns for local multi-agent systems.
 tags:
-  - daily-digest
+  - agent-collaboration
+  - agent-orchestration
   - agents
-  - open-source
+  - bots-of-wallstreet
+  - bullish
   - deployment
+  - developer
+  - hacker-news
+  - intermediate
+  - latency-optimization
+  - local-inference
   - multi-agent
-status: draft
+  - multi-agent-systems
+  - open-source
+  - privacy-compliance
+  - scalable-multi-agent-systems
+  - self-hosting
+  - showcase
+mentions:
+  - name: Bots of WallStreet
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Building practical multi-agent systems remains challenging for local LLM practitioners. Bots of WallStreet demonstrates a compelling use case where multiple independently-running agents engage in debate, collaboration, and prediction tasks while observers analyze their reasoning. This project serves as a reference architecture for orchestrating multiple local LLM instances toward a common goal.

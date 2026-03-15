@@ -1,14 +1,37 @@
 ---
 title: "Show HN: Buxo.ai – Calendly alternative where LLM decides which slots to show"
 date: 2026-03-15
-description: "A scheduling application that uses LLMs to intelligently decide which calendar slots to display to users based on context and preferences. The system applies AI reasoning to optimize scheduling workflows."
+description: A scheduling application that uses LLMs to intelligently decide which calendar slots to display to users based on context and preferences. The system applies AI reasoning to optimize scheduling workflows.
 tags:
-  - daily-digest
   - agents
-  - practical-application
+  - ai-reasoning
+  - bullish
+  - business-workflow-integration
+  - buxoai
+  - consumer-llm-integration
+  - contextual-ai
+  - developer
+  - edge-ai-deployment
+  - edge-device
+  - enterprise
+  - hacker-news
   - inference
+  - intelligent-scheduling
+  - intermediate
+  - llm-application
   - llm-integration
-status: draft
+  - local-vs-cloud-deployment
+  - practical-application
+  - scheduling-automation
+  - showcase
+mentions:
+  - name: Buxo.ai
+    role: developer
+  - name: Buxo.ai
+    role: project-owner
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Buxo.ai demonstrates a pragmatic application of LLM capabilities to a real business problem: scheduling. Rather than showing users a static calendar of available slots, the system uses language models to intelligently filter and present options based on context, priorities, and preferences. This represents a meaningful upgrade to calendar automation that goes beyond simple rule-based logic.

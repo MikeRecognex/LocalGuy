@@ -1,14 +1,38 @@
 ---
-title: "Open-Source GreenBoost Driver Augments NVIDIA GPU VRAM With System RAM and NVMe Storage"
+title: Open-Source GreenBoost Driver Augments NVIDIA GPU VRAM With System RAM and NVMe Storage
 date: 2026-03-15
-description: "A new open-source driver called GreenBoost extends NVIDIA GPU VRAM capacity by intelligently combining it with system RAM and NVMe storage, enabling users to run larger LLMs on existing hardware without additional GPU purchases. This memory-expansion approach addresses a critical bottleneck in local LLM deployment."
+description: A new open-source driver called GreenBoost extends NVIDIA GPU VRAM capacity by intelligently combining it with system RAM and NVMe storage, enabling users to run larger LLMs on existing hardware without additional GPU purchases. This memory-expansion approach addresses a critical bottleneck in local LLM deployment.
 tags:
-  - daily-digest
-  - memory-optimization
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - cpu-only
+  - developer
+  - greenboost
   - hardware
+  - hardware-optimization
+  - intermediate
+  - large-model-deployment
+  - local-llm-deployment
+  - memory-management
+  - memory-optimization
+  - model-accessibility
+  - news
+  - nvme-storage
   - open-source
+  - open-source-software
   - performance-optimization
-status: draft
+  - phoronix
+  - rlocalllama
+  - tiered-memory
+  - vram-expansion
+mentions:
+  - name: Phoronix
+    role: publisher
+  - name: r/LocalLLaMA
+    role: publisher
+status: published
 ---
 
 GreenBoost represents a pragmatic solution to one of the biggest constraints in local LLM deployment: GPU VRAM limitations. By treating system RAM and NVMe storage as extensions of GPU memory, the open-source driver allows practitioners to run larger models on existing hardware without investing in additional GPUs. This is particularly valuable for users with modest GPU setups who want to experiment with larger model architectures.

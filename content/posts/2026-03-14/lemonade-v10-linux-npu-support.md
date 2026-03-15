@@ -1,14 +1,28 @@
 ---
-title: "Lemonade v10 Brings Linux NPU Support and Multi-Modal Capabilities"
+title: Lemonade v10 Brings Linux NPU Support and Multi-Modal Capabilities
 date: 2026-03-14
-description: "Lemonade v10 adds Linux support for NPU inference alongside expanded multi-modal capabilities, enabling efficient local LLM deployment on AMD NPUs across more platforms."
+description: Lemonade v10 adds Linux support for NPU inference alongside expanded multi-modal capabilities, enabling efficient local LLM deployment on AMD NPUs across more platforms.
 tags:
-  - daily-digest
-  - hardware
-  - npu
-  - linux
+  - analysis
+  - bullish
+  - deployment-flexibility
+  - developer
+  - edge-ai
+  - edge-deployment
+  - edge-device
   - edge-inference
-status: draft
+  - efficient-inference
+  - hardware
+  - hardware-optimization
+  - intermediate
+  - linux
+  - linux-npu-support
+  - local-llm-deployment
+  - multi-modal-ai
+  - npu
+  - npu-performance
+  - release
+status: published
 ---
 
 Lemonade v10 marks a significant milestone for on-device inference by introducing Linux NPU support, expanding beyond Windows implementations. This release enables developers and enthusiasts to run LLMs efficiently on AMD Neural Processing Units across Linux systems, a crucial development for edge deployment scenarios where dedicated GPUs aren't available.

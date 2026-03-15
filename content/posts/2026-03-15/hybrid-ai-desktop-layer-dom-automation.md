@@ -1,14 +1,36 @@
 ---
-title: "Hybrid AI Desktop Layer Combining DOM-Automation and API-Integrations"
+title: Hybrid AI Desktop Layer Combining DOM-Automation and API-Integrations
 date: 2026-03-15
-description: "A new desktop AI layer that combines DOM automation with API integrations, enabling AI agents to interact with existing applications. The system uses local models for task automation and desktop control."
+description: A new desktop AI layer that combines DOM automation with API integrations, enabling AI agents to interact with existing applications. The system uses local models for task automation and desktop control.
 tags:
-  - daily-digest
   - agents
-  - desktop-inference
+  - ai-agent-orchestration
+  - ai-agents
   - automation
+  - biamos
+  - bullish
+  - consumer-gpu
+  - cpu-only
+  - data-privacy
+  - desktop-ai-layer
+  - desktop-inference
+  - desktop-integration
+  - desktop-productivity
+  - developer
+  - dom-automation
+  - hacker-news
+  - intermediate
+  - local-model-automation
+  - on-device-deployment
   - open-source
-status: draft
+  - showcase
+  - workflow-automation
+mentions:
+  - name: BiamOS
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 BiamOS represents an emerging category of local AI infrastructure: desktop automation layers that empower locally-running LLMs to control and interact with existing applications without modification. By combining DOM manipulation with flexible API integrations, this project enables AI agents to perform complex workflows across multiple tools—all driven by on-device models.

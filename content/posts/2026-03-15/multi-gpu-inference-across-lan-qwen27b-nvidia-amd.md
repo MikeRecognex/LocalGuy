@@ -1,14 +1,33 @@
 ---
-title: "Running Qwen3.5-27B Across Multiple GPUs Over LAN Achieves Practical Speed for Local Inference"
+title: Running Qwen3.5-27B Across Multiple GPUs Over LAN Achieves Practical Speed for Local Inference
 date: 2026-03-15
-description: "A practitioner successfully split Qwen3.5-27B across a 4070Ti and AMD RX6800 over LAN using llama.cpp's RPC server, achieving 13 tokens/second with 32K context—demonstrating that heterogeneous multi-GPU local setups are now viable. This shows path forward for GPU-poor practitioners seeking reasonable performance."
+description: A practitioner successfully split Qwen3.5-27B across a 4070Ti and AMD RX6800 over LAN using llama.cpp's RPC server, achieving 13 tokens/second with 32K context—demonstrating that heterogeneous multi-GPU local setups are now viable. This shows path forward for GPU-poor practitioners seeking reasonable performance.
 tags:
-  - daily-digest
   - benchmark
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - developer
   - hardware
+  - heterogeneous-hardware
+  - heterogeneous-hardware-inference
+  - inference-speed
+  - intermediate
+  - llama-cpp-features
+  - llama-cpp-rpc
+  - long-context-inference
+  - model-quantization
   - multi-gpu
+  - multi-gpu-inference
+  - multi-gpu-orchestration
+  - news
   - performance-optimization
-status: draft
+  - rlocalllama
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 A practitioner in the LocalLLaMA community discovered the power of llama.cpp's RPC server feature, achieving practical inference speeds by splitting Qwen3.5-27B Q5 quantization across a 4070Ti GPU and AMD RX6800 over LAN, reaching 13 tokens/second with a 32K token prompt. This discovery has significant implications for practitioners who are "GPU poor" but have access to multiple discrete GPUs across a home or small office network.
