@@ -7,7 +7,6 @@ tags:
   - consumer-gpu
   - edge-computing
   - gguf
-  - gguf-format
   - inference-optimization
   - local-deployment
   - local-inference

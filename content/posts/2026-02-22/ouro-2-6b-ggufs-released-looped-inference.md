@@ -5,7 +5,7 @@ description: Ouro 2.6B, a looped inference model, is now available as quantized 
 tags:
   - consumer-gpu
   - cpu-inference
-  - gguf-format
+  - gguf
   - inference
   - local-deployment
   - looped-inference

@@ -7,7 +7,6 @@ tags:
   - benchmarking
   - consumer-gpu
   - gguf
-  - gguf-format
   - llm-deployment
   - local-deployment
   - model-comparison

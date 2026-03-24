@@ -11,7 +11,7 @@ tags:
   - developer
   - edge-computing
   - edge-deployment
-  - gguf-format
+  - gguf
   - intermediate
   - llama
   - llm-deployment

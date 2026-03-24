@@ -6,8 +6,8 @@ tags:
   - custom-model-architectures
   - custom-model-development
   - fine-tuning
+  - gguf
   - gguf-export
-  - gguf-format
   - llama-3-pretraining
   - llama-cpp
   - local-deployment
