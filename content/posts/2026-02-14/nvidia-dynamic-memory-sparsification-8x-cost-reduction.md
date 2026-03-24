@@ -17,7 +17,7 @@ tags:
   - local-deployment
   - memory-optimisation
   - memory-optimization
-  - model-efficiency
+  - model-optimization
   - model-retrofitting
   - model-size-on-consumer-hardware
   - model-size-optimization

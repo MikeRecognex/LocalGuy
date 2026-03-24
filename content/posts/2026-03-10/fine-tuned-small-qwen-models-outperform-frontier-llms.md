@@ -14,8 +14,8 @@ tags:
   - local-hardware
   - local-model-specialization
   - model-comparison
-  - model-efficiency
   - model-fine-tuning
+  - model-optimization
   - qwen
   - resource-optimization
   - rlocalllama

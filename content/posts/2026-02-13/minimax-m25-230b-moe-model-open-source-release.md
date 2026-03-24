@@ -17,7 +17,7 @@ tags:
   - minimax
   - minimax-m25
   - mixture-of-experts
-  - model-efficiency
+  - model-optimization
   - moe
   - offline-deployment
   - open-source

@@ -10,7 +10,6 @@ tags:
   - layer-duplication
   - low-resource-optimization
   - model-architecture
-  - model-efficiency
   - model-optimization
   - news
   - on-device-inference

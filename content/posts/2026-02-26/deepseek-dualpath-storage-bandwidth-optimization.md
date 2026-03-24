@@ -23,10 +23,10 @@ tags:
   - inference-optimization
   - intermediate
   - llm-framework-optimization
-  - llm-optimization
   - local-deployment
   - local-deployment-at-scale
   - memory-bandwidth
+  - model-optimization
   - model-throughput
   - optimization
   - peking-university

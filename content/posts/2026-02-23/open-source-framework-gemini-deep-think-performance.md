@@ -11,7 +11,7 @@ tags:
   - framework-agnostic-ai
   - local-inference
   - model-composition
-  - model-efficiency
+  - model-optimization
   - model-scaffolding
   - open-source
   - open-source-ai

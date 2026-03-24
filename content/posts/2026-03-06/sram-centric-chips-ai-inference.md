@@ -13,7 +13,7 @@ tags:
   - hardware
   - memory-bandwidth
   - memory-optimization
-  - model-efficiency
+  - model-optimization
   - on-device-inference
   - on-device-llm
   - performance

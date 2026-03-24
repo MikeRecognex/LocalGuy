@@ -17,8 +17,8 @@ tags:
   - intermediate
   - iterative-reasoning
   - knowledge-work-workflows
-  - llm-optimization
   - local-deployment-optimization
+  - model-optimization
   - neutral
   - open-source
   - optimization

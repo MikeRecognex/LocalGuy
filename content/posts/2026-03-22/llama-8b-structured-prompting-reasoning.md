@@ -19,7 +19,7 @@ tags:
   - llm-reasoning
   - local-deployment-economics
   - model-comparison
-  - model-efficiency
+  - model-optimization
   - multi-hop-question-answering
   - prompting
   - rag-architecture

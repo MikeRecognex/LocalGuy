@@ -7,7 +7,7 @@ tags:
   - edge-deployment
   - edge-device
   - hardware
-  - model-efficiency
+  - model-optimization
   - on-device-inference
   - power-efficiency
   - qualcomm

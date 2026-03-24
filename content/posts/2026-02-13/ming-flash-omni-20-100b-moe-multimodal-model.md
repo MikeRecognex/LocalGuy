@@ -10,7 +10,7 @@ tags:
   - local-inference
   - memory-optimization
   - mixture-of-experts
-  - model-efficiency
+  - model-optimization
   - moe
   - multimodal
   - multimodal-ai

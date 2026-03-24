@@ -17,7 +17,6 @@ tags:
   - hardware-constraints
   - inference-optimization
   - intermediate
-  - llm-optimization
   - local-deployment
   - local-inference
   - model-architecture

@@ -14,7 +14,7 @@ tags:
   - inference-optimization
   - local-inference
   - model-5-35b-a3b
-  - model-efficiency
+  - model-optimization
   - model-release
   - news
   - power-efficiency

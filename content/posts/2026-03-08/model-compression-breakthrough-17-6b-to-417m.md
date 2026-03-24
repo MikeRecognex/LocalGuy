@@ -10,7 +10,7 @@ tags:
   - edge-device
   - mobile-device
   - model-architecture
-  - model-efficiency
+  - model-optimization
   - news
   - quantization
   - research

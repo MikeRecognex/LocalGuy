@@ -23,7 +23,6 @@ tags:
   - local-inference
   - local-model-fine-tuning
   - local-model-optimization
-  - model-efficiency
   - model-optimization
   - model-performance
   - specialized-inference-models

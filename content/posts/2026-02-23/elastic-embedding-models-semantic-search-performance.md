@@ -9,7 +9,7 @@ tags:
   - embedding-models
   - embeddings
   - local-deployment
-  - model-efficiency
+  - model-optimization
   - open-source
   - optimization
   - rag-applications

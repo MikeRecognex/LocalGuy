@@ -19,7 +19,6 @@ tags:
   - high-throughput-inference
   - inference-optimization
   - inference-throughput
-  - llm-optimization
   - local-deployment
   - model-optimization
   - multi-user-deployment

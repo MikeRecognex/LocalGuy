@@ -8,7 +8,7 @@ tags:
   - edge-inference-optimization
   - hardware
   - lightweight-model-deployment
-  - model-efficiency
+  - model-optimization
   - news
   - on-device-applications
   - quantization

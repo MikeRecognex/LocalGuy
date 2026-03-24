@@ -17,7 +17,7 @@ tags:
   - local-deployment
   - local-inference
   - local-inference-security
-  - model-efficiency
+  - model-optimization
   - offline-deployment
   - openai
   - privacy

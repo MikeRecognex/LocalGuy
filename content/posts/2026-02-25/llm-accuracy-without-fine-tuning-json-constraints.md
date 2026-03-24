@@ -15,7 +15,7 @@ tags:
   - json-schema-constraints
   - llm-accuracy
   - local-llms
-  - model-efficiency
+  - model-optimization
   - quantization
   - structured-output
 mentions:

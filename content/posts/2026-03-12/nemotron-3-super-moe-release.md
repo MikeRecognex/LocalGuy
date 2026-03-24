@@ -11,7 +11,7 @@ tags:
   - inference-optimization
   - local-deployment
   - mixture-of-experts
-  - model-efficiency
+  - model-optimization
   - moe
   - open-source
   - open-source-models

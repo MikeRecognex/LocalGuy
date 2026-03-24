@@ -16,7 +16,7 @@ tags:
   - local-deployment
   - local-inference
   - minecraft-ai
-  - model-efficiency
+  - model-optimization
   - natural-language-processing
   - nemotron
   - patent-classification

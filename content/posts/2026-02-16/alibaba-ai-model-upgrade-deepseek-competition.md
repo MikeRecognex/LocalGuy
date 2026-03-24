@@ -16,7 +16,7 @@ tags:
   - local-inference
   - market-competition
   - memory-optimization
-  - model-efficiency
+  - model-optimization
   - news
   - offline-deployment
   - open-source

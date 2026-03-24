@@ -13,7 +13,6 @@ tags:
   - edge-inference
   - hardware
   - inference-optimization
-  - llm-optimization
   - local-deployment
   - local-llm-performance
   - mobile-llm-inference

@@ -19,7 +19,7 @@ tags:
   - memory-optimization
   - model-architecture
   - model-benchmarking
-  - model-efficiency
+  - model-optimization
   - nvidia
   - open-source
   - release

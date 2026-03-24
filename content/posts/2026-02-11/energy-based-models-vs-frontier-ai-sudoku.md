@@ -12,7 +12,7 @@ tags:
   - inference-optimization
   - local-deployment
   - memory-optimization
-  - model-efficiency
+  - model-optimization
   - model-selection
   - offline-deployment
   - power-efficiency

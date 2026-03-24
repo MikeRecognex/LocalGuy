@@ -12,7 +12,7 @@ tags:
   - efficient-models
   - intermediate
   - local-inference
-  - model-efficiency
+  - model-optimization
   - model-release
   - multimodal
   - multimodal-ai

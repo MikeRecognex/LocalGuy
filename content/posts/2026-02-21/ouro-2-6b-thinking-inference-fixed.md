@@ -10,7 +10,6 @@ tags:
   - local-inference
   - model-architecture
   - model-compatibility
-  - model-efficiency
   - model-inference
   - model-optimization
   - model-release

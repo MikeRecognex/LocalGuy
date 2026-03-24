@@ -11,7 +11,6 @@ tags:
   - local-deployment
   - local-inference
   - mobile-first-ai-strategy
-  - model-efficiency
   - model-optimization
   - msn
   - on-device-inference
