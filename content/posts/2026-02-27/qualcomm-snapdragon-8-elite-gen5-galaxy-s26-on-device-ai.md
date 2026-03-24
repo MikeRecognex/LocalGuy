@@ -9,7 +9,7 @@ tags:
   - hardware-acceleration
   - inference-optimization
   - local-deployment
-  - mobile
+  - mobile-ai
   - mobile-llm-deployment
   - on-device-ai-adoption
   - on-device-inference

@@ -11,8 +11,8 @@ tags:
   - inference-optimization
   - llama-cpp
   - llama-cpp-deployment
+  - mobile-ai
   - mobile-ai-development
-  - mobile-deployment
   - model-deployment
   - older-hardware-compatibility
   - open-source-tools

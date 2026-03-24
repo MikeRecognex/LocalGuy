@@ -16,7 +16,7 @@ tags:
   - guide
   - hardware-optimization
   - local-inference-strategy
-  - mobile
+  - mobile-ai
   - neutral
   - offline-capabilities
   - on-device-inference

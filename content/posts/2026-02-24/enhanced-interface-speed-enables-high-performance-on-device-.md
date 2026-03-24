@@ -7,7 +7,7 @@ tags:
   - edge-inference
   - interface-speed
   - local-inference
-  - mobile
+  - mobile-ai
   - mobile-llm-execution
   - mobile-llm-frameworks
   - model-optimization

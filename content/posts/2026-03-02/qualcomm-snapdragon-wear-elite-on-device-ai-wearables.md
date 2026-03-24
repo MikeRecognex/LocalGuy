@@ -12,6 +12,7 @@ tags:
   - inference-optimization
   - local-inference
   - low-latency
+  - mobile-ai
   - news
   - on-device-inference
   - qualcomm
@@ -20,7 +21,6 @@ tags:
   - small-llms
   - wearable-ai
   - wearable-ai-deployment
-  - wearables
 status: published
 ---
 

@@ -9,6 +9,7 @@ tags:
   - edge-inference
   - hardware
   - hardware-constraints
+  - mobile-ai
   - model-optimization
   - news
   - on-device-inference
@@ -17,7 +18,6 @@ tags:
   - specialized-architectures
   - wearable-ai-applications
   - wearable-technology
-  - wearables
 mentions:
   - name: Glass Almanac
     role: publisher

@@ -7,7 +7,6 @@ tags:
   - edge-computing
   - flash-memory
   - hardware
-  - mobile
   - mobile-ai
   - on-device-inference
   - performance-optimization

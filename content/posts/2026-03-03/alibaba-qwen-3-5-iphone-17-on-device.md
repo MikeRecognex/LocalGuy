@@ -11,7 +11,6 @@ tags:
   - hardware-aware-optimization
   - inference-optimization
   - lightweight-models
-  - mobile
   - mobile-ai
   - model-optimization
   - offline-deployment

@@ -7,7 +7,7 @@ tags:
   - data-privacy
   - edge-computing
   - edge-inference
-  - mobile
+  - mobile-ai
   - mobile-ai-development
   - mobile-ai-frameworks
   - model-distillation

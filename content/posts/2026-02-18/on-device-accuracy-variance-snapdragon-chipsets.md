@@ -14,7 +14,7 @@ tags:
   - hardware-validation
   - integer-arithmetic
   - memory-bandwidth
-  - mobile-inference
+  - mobile-ai
   - mobile-llm-deployment
   - model-accuracy-variance
   - offline-deployment

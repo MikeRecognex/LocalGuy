@@ -12,8 +12,8 @@ tags:
   - laptop-processors
   - mediatek
   - memory-efficiency
+  - mobile-ai
   - mobile-ai-innovation
-  - mobile-inference
   - on-device-inference
   - optimization-techniques
   - quantization

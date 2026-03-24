@@ -17,7 +17,7 @@ tags:
   - intermediate
   - kaist
   - local-inference
-  - mobile
+  - mobile-ai
   - model-personalization
   - news
   - on-device-ai-chip

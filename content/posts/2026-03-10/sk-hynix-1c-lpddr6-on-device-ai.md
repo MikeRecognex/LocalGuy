@@ -13,7 +13,6 @@ tags:
   - memory-bandwidth
   - memory-optimization
   - mobile-ai
-  - mobile-inference
   - news
   - on-device-inference
   - release

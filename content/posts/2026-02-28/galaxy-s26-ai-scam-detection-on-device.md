@@ -7,7 +7,6 @@ tags:
   - edge-computing
   - edge-inference
   - latency-optimization
-  - mobile
   - mobile-ai
   - model-optimization
   - on-device-inference

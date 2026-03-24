@@ -14,9 +14,7 @@ tags:
   - edge-inference
   - geekygadgetscom
   - intermediate
-  - mobile
   - mobile-ai
-  - mobile-inference
   - model-optimization
   - offline-deployment
   - on-device-inference

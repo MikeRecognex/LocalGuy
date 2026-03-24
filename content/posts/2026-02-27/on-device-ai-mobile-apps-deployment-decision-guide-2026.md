@@ -12,8 +12,8 @@ tags:
   - inference-architecture-optimization
   - latency-optimization
   - local-deployment
+  - mobile-ai
   - mobile-ai-deployment
-  - mobile-deployment
   - mobile-hardware-acceleration
   - on-device-inference
   - optimization

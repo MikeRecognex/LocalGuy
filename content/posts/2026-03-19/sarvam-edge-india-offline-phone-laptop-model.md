@@ -13,8 +13,7 @@ tags:
   - edge-inference
   - inference-optimization
   - intermediate
-  - mobile
-  - mobile-deployment
+  - mobile-ai
   - msn
   - offline-deployment
   - on-device-inference

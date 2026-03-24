@@ -8,6 +8,7 @@ tags:
   - edge-inference-optimization
   - hardware
   - lightweight-model-deployment
+  - mobile-ai
   - model-optimization
   - news
   - on-device-applications
@@ -15,7 +16,6 @@ tags:
   - release
   - resource-optimization
   - wearable-ai
-  - wearables
 status: published
 ---
 

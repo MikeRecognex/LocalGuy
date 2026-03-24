@@ -7,6 +7,7 @@ tags:
   - edge-computing
   - edge-deployment
   - hardware
+  - mobile-ai
   - model-optimization
   - on-device-inference
   - power-efficiency
@@ -15,7 +16,6 @@ tags:
   - release
   - resource-constrained-ai
   - wearable-ai
-  - wearables
   - wearables-ai
 status: published
 ---

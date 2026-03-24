@@ -9,8 +9,7 @@ tags:
   - edge-computing
   - edge-inference
   - local-llm-features
-  - mobile
-  - mobile-deployment
+  - mobile-ai
   - mobile-development
   - mobile-frameworks
   - mobile-llm-optimization

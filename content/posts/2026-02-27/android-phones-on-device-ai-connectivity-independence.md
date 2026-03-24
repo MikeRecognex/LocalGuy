@@ -11,7 +11,7 @@ tags:
   - edge-deployment
   - edge-inference
   - local-deployment
-  - mobile
+  - mobile-ai
   - offline-deployment
   - on-device-inference
   - platform-evolution

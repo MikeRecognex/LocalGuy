@@ -20,7 +20,7 @@ tags:
   - intermediate
   - kmjournalnet
   - local-llms
-  - mobile
+  - mobile-ai
   - news
   - on-device-inference
 mentions:

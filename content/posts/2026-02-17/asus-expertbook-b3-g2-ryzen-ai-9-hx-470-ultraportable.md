@@ -13,7 +13,7 @@ tags:
   - hardware
   - inference-optimization
   - local-inference
-  - mobile-deployment
+  - mobile-ai
   - news
   - npu-acceleration
   - offline-deployment

@@ -11,6 +11,7 @@ tags:
   - hardware
   - hardware-fragmentation
   - local-deployment
+  - mobile-ai
   - mobile-npu
   - model-optimization
   - news
@@ -20,7 +21,6 @@ tags:
   - personal-ai
   - qualcomm
   - release
-  - wearables
 mentions:
   - name: Gizmochina
     role: publisher

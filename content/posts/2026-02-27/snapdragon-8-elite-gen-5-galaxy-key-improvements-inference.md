@@ -9,7 +9,7 @@ tags:
   - hardware
   - local-document-processing
   - memory-bandwidth
-  - mobile-inference
+  - mobile-ai
   - mobile-processor
   - mobile-soc
   - news
