@@ -11,7 +11,6 @@ tags:
   - local-deployment
   - mixture-of-experts
   - model-optimization
-  - moe
   - open-source
   - quantization
   - release

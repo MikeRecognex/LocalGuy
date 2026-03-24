@@ -12,8 +12,6 @@ tags:
   - inference-optimization
   - large-model-deployment
   - mixture-of-experts
-  - moe
-  - moe-architecture
   - offline-deployment
   - open-source
   - production-ops

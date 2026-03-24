@@ -7,8 +7,8 @@ tags:
   - deployment-guide
   - deployment-optimization
   - local-llms
+  - mixture-of-experts
   - model-lineup
-  - moe
   - multimodal-ai
   - open-source
   - quantization

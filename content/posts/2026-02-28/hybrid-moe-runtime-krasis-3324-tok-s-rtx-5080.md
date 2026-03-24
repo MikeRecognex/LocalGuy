@@ -12,7 +12,7 @@ tags:
   - inference-optimization
   - large-model-deployment
   - memory-optimization
-  - moe
+  - mixture-of-experts
   - moe-efficiency
   - moe-models
   - open-source

@@ -20,8 +20,6 @@ tags:
   - memory-optimization
   - mixture-of-experts
   - model-censorship
-  - moe
-  - moe-architecture
   - mxfp4-precision
   - offline-deployment
   - quantization

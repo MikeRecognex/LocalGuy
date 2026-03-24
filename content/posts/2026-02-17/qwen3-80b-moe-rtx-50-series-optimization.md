@@ -17,8 +17,6 @@ tags:
   - kernel-fusion
   - mixture-of-experts
   - model-optimization
-  - moe
-  - moe-architecture
   - multi-gpu-inference
   - news
   - qwen

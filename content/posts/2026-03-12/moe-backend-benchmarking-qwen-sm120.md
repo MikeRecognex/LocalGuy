@@ -12,7 +12,7 @@ tags:
   - hardware-procurement
   - inference-performance
   - local-deployment
-  - moe
+  - mixture-of-experts
   - moe-benchmarking
   - moe-models
   - performance-validation

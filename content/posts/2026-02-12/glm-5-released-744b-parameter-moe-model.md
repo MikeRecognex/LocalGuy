@@ -16,8 +16,6 @@ tags:
   - model-performance
   - model-safety
   - model-scaling
-  - moe
-  - moe-architecture
   - offline-deployment
   - quantization
   - release

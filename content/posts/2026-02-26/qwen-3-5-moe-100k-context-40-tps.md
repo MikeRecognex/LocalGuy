@@ -16,7 +16,6 @@ tags:
   - intermediate
   - local-deployment
   - mixture-of-experts
-  - moe-architecture
   - moe-inference
   - moe-inference-efficiency
   - news

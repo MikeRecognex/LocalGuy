@@ -18,7 +18,6 @@ tags:
   - local-inference
   - mixture-of-experts
   - model-quantisation
-  - moe
   - news
   - offline-deployment
   - quantization

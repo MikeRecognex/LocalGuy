@@ -26,8 +26,6 @@ tags:
   - mixture-of-experts
   - model-optimization
   - model-performance
-  - moe
-  - moe-architecture
   - offline-deployment
   - on-device-inference
   - quantization

@@ -11,7 +11,6 @@ tags:
   - memory-optimization
   - mixture-of-experts
   - model-optimization
-  - moe
   - multimodal
   - multimodal-ai
   - news

@@ -13,7 +13,6 @@ tags:
   - memory-optimization
   - mixture-of-experts
   - model-scaling
-  - moe
   - moe-model-deployment
   - open-source
   - performance-optimization
