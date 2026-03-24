@@ -6,7 +6,6 @@ tags:
   - advisory
   - cautious
   - local-deployment
-  - local-llm-security
   - news
   - open-source
   - security

@@ -7,7 +7,6 @@ tags:
   - agent-orchestration
   - agent-security
   - agents
-  - ai-security
   - attack-vectors
   - cautious
   - langgraph

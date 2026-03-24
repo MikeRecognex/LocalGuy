@@ -10,8 +10,6 @@ tags:
   - default-configuration-risks
   - exposed-servers
   - local-deployment
-  - local-llm-security
-  - network-security
   - news
   - ollama
   - ollama-configuration

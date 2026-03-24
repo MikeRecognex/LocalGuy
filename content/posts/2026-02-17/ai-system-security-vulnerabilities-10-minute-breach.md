@@ -7,7 +7,6 @@ tags:
   - agent-frameworks
   - agents
   - ai-agent-security
-  - ai-security
   - cautious
   - developer-tooling
   - edge-deployment

@@ -8,8 +8,8 @@ tags:
   - agent-frameworks
   - agents
   - ai-agent-verification
-  - ai-security
   - autonomous-agents
+  - imrobot
   - llm-automation
   - local-deployment
   - multi-agent-systems
@@ -18,7 +18,6 @@ tags:
   - production-systems
   - reverse-captcha
   - security
-  - imrobot
 mentions:
   - name: Hacker News
     role: publisher

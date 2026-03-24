@@ -5,8 +5,6 @@ description: Security research reveals massive exposure of Ollama servers worldw
 tags:
   - cautious
   - data-privacy
-  - local-llm-security
-  - network-security
   - news
   - offline-deployment
   - ollama

@@ -19,7 +19,6 @@ tags:
   - intermediate
   - llm-permission-delegation
   - local-deployment
-  - local-llm-security
   - open-source
   - permissions-delegation
   - secure-code-execution

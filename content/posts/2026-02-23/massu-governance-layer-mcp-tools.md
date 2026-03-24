@@ -8,7 +8,6 @@ tags:
   - agents
   - ai-auditability
   - ai-governance
-  - ai-security
   - daily-digest
   - deployment
   - development-workflows
@@ -19,6 +18,7 @@ tags:
   - mcp
   - model-context-protocol
   - open-source
+  - security
   - security-controls
 mentions:
   - name: Hacker News
