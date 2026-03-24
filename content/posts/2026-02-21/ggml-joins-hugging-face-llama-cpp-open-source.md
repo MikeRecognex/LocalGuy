@@ -12,7 +12,6 @@ tags:
   - news
   - on-device-inference
   - open-source
-  - open-source-ai
   - open-source-principles
   - performance-optimization
 mentions:

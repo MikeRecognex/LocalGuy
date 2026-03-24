@@ -17,7 +17,6 @@ tags:
   - model-selection
   - neutral
   - open-source
-  - open-source-llms
   - quantization
 status: draft
 ---

@@ -17,7 +17,6 @@ tags:
   - ollama
   - open-source
   - open-source-adoption
-  - open-source-llms
   - production-ops
   - self-hosted
   - vllm

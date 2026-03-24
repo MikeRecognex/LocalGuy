@@ -18,7 +18,6 @@ tags:
   - local-llm-training
   - mlops-workflow-management
   - open-source
-  - open-source-tools
   - release
   - showcase
   - unified-interface

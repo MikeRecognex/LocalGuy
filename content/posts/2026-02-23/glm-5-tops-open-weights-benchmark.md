@@ -15,7 +15,6 @@ tags:
   - neutral
   - news
   - open-source
-  - open-source-llms
   - reasoning-tasks
 status: published
 ---

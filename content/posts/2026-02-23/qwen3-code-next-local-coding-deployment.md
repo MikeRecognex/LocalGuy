@@ -16,7 +16,7 @@ tags:
   - mlx
   - mlx-framework
   - offline-deployment
-  - open-source-llms
+  - open-source
   - production-deployment
   - qwen3
 mentions:

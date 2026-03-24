@@ -16,7 +16,6 @@ tags:
   - news
   - on-device-ai-education
   - open-source
-  - open-source-ai
   - quantization
   - robotics-education
 mentions:

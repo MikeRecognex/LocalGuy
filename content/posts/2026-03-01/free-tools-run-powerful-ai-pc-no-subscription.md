@@ -14,7 +14,6 @@ tags:
   - local-inference
   - ollama
   - open-source
-  - open-source-tools
   - pc-deployment
   - tooling-accessibility
   - tools

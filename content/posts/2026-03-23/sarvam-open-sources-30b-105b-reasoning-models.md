@@ -21,8 +21,6 @@ tags:
   - msn
   - on-device-inference
   - open-source
-  - open-source-ai
-  - open-source-models
   - quantization
   - reasoning
   - reasoning-efficiency

@@ -15,7 +15,6 @@ tags:
   - observability
   - open-source
   - open-source-observability
-  - open-source-tools
   - production-deployment
 mentions:
   - name: AgentLens

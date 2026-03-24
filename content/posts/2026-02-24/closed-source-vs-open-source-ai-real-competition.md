@@ -12,7 +12,6 @@ tags:
   - model-distillation
   - neutral
   - open-source
-  - open-source-ai
   - open-source-vs-proprietary
   - open-vs-closed-models
   - philosophy

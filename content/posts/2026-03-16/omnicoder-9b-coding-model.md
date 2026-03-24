@@ -21,7 +21,6 @@ tags:
   - memory-optimization
   - on-device-inference
   - open-source
-  - open-source-models
   - quantization
   - release
   - resource-efficiency

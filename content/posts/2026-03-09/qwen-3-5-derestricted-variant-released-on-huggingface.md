@@ -19,7 +19,6 @@ tags:
   - memory-optimization
   - model-release
   - open-source
-  - open-source-models
   - quantization
   - qwen
   - release

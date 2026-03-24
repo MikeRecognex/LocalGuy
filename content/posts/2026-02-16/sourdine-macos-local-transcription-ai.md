@@ -16,7 +16,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - open-source
-  - open-source-ai
   - privacy-first-ai
   - professional
   - speech-recognition

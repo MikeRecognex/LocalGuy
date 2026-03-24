@@ -20,7 +20,6 @@ tags:
   - market-trends
   - medium
   - open-source
-  - open-source-models
   - proprietary-models
   - self-hosted
   - self-hosted-llms

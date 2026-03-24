@@ -18,8 +18,7 @@ tags:
   - intermediate
   - local-inference-privacy
   - on-device-inference
-  - open-source-ai
-  - open-source-llms
+  - open-source
   - regulation
   - regulatory-compliance
 mentions:

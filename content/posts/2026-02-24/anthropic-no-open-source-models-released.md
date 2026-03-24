@@ -9,8 +9,6 @@ tags:
   - local-inference
   - model-fine-tuning
   - open-source
-  - open-source-llms
-  - open-source-models
   - open-weight-models
   - opinion
   - quantization

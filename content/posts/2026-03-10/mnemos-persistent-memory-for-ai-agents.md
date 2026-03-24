@@ -13,7 +13,6 @@ tags:
   - mem9-ai
   - memory-optimization
   - open-source
-  - open-source-ai
   - persistent-memory
   - self-hosted
   - stateful-agents

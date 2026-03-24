@@ -16,7 +16,6 @@ tags:
   - multimodal-generation
   - on-device-inference
   - open-source
-  - open-source-ai
   - release
   - self-hosted
   - vendor-lock-in

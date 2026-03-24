@@ -17,7 +17,6 @@ tags:
   - mcp
   - model-context-protocol
   - open-source
-  - open-source-ai
   - release
   - self-hosted
   - tool-use

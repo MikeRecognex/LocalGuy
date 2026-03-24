@@ -17,7 +17,6 @@ tags:
   - msn
   - news
   - open-source
-  - open-source-models
   - reasoning
   - reasoning-models
   - release

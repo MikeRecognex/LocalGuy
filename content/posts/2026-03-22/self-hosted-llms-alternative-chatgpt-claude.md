@@ -20,7 +20,6 @@ tags:
   - memory-optimization
   - msn
   - open-source
-  - open-source-llms
   - quantization
   - self-hosted
   - server-hardware

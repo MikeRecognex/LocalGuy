@@ -25,8 +25,6 @@ tags:
   - news
   - offline-deployment
   - open-source
-  - open-source-ai
-  - open-source-models
   - reasoning-capabilities
   - release
   - seed-2

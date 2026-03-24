@@ -20,7 +20,6 @@ tags:
   - model-release
   - news
   - open-source
-  - open-source-models
   - production-deployment
   - rlocalllama
 mentions:

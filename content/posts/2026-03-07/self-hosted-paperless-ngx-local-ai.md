@@ -11,7 +11,6 @@ tags:
   - local-inference
   - ngx-local-ai
   - open-source
-  - open-source-tools
   - practical-guide
   - self-hosted
   - tutorial

@@ -14,8 +14,6 @@ tags:
   - msn
   - multi-gpu-deployment
   - open-source
-  - open-source-llms
-  - open-source-models
   - private-inference
   - quantization
   - reasoning

@@ -15,7 +15,7 @@ tags:
   - model-scaling
   - moe
   - moe-model-deployment
-  - open-source-ai
+  - open-source
   - performance-optimization
   - release
   - resource-constrained-deployment

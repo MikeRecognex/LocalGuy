@@ -13,7 +13,7 @@ tags:
   - local-llm-platforms
   - on-premises-ai
   - on-premises-deployment
-  - open-source-tooling
+  - open-source
   - release
   - self-hosted
   - vendor-lock-in

@@ -13,7 +13,6 @@ tags:
   - local-inference
   - local-llm-frameworks
   - open-source
-  - open-source-models
   - production-deployment
   - quantization
 status: published

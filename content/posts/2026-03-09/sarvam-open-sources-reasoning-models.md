@@ -19,7 +19,6 @@ tags:
   - model-sizes
   - news
   - open-source
-  - open-source-ai
   - open-source-llm
   - reasoning
   - reasoning-workloads

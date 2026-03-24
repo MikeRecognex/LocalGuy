@@ -15,8 +15,6 @@ tags:
   - natural-language-control
   - on-device-ai-pipelines
   - open-source
-  - open-source-ai
-  - open-source-models
   - real-time-ai
   - release
   - speech

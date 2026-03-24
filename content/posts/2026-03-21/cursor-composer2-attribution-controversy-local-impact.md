@@ -19,9 +19,7 @@ tags:
   - model-provenance
   - model-transparency
   - open-source
-  - open-source-ai
   - open-source-licensing
-  - open-source-llms
   - proprietary-models
   - rlocalllama
   - vendor-lock-in

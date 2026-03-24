@@ -12,7 +12,6 @@ tags:
   - local-coding-assistants
   - local-development
   - open-source
-  - open-source-llms
   - qwen
   - qwen3-coder-next
   - rlocalllama

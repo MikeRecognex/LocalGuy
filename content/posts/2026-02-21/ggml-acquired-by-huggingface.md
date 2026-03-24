@@ -20,7 +20,6 @@ tags:
   - news
   - on-device-inference
   - open-source
-  - open-source-ai
   - quantized-inference
 mentions:
   - name: GGML.AI

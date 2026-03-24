@@ -19,7 +19,6 @@ tags:
   - msn
   - open-source
   - open-source-ecosystem
-  - open-source-tooling
   - paperless-ngx
   - self-hosted
   - self-hosted-llms

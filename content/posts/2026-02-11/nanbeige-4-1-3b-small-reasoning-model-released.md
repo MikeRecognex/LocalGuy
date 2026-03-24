@@ -18,7 +18,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - open-source
-  - open-source-models
   - preference-alignment
   - reasoning-capabilities
   - release

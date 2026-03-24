@@ -16,7 +16,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - open-source
-  - open-source-ai
   - opinion
   - regional-ai-development
   - self-hosted

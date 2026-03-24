@@ -19,8 +19,6 @@ tags:
   - model-comparison
   - model-performance
   - open-source
-  - open-source-ai
-  - open-source-llms
   - open-source-parity
   - production-deployment
   - proprietary-vs-open-source

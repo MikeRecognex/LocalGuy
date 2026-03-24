@@ -14,7 +14,6 @@ tags:
   - model-optimization
   - moe
   - open-source
-  - open-source-models
   - quantization
   - release
   - self-hosted

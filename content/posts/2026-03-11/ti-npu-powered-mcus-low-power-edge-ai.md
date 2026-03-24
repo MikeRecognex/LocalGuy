@@ -19,7 +19,7 @@ tags:
   - microcontroller
   - npu-hardware
   - npu-mcu
-  - open-source-ai
+  - open-source
   - release
   - texas-instruments
 mentions:

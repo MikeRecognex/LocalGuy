@@ -31,7 +31,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - open-source
-  - open-source-ai
   - paddleocr
   - release
 status: draft

@@ -13,7 +13,6 @@ tags:
   - local-llm-applications
   - news-aggregation
   - open-source
-  - open-source-ai
   - open-source-project
   - summarization
 mentions:

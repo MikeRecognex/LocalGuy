@@ -11,7 +11,6 @@ tags:
   - news
   - on-device-inference
   - open-source
-  - open-source-ai
   - production-deployment
   - rag
   - rag-pipeline

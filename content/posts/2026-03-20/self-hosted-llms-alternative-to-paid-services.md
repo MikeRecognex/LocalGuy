@@ -18,7 +18,6 @@ tags:
   - model-comparison
   - msn
   - open-source
-  - open-source-llms
   - opinion
   - self-hosted
   - vendor-lock-in

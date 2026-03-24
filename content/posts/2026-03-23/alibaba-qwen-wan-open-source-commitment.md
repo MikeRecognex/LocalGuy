@@ -17,8 +17,6 @@ tags:
   - news
   - on-device-inference
   - open-source
-  - open-source-llms
-  - open-source-models
   - qwen
 status: draft
 ---

@@ -16,7 +16,6 @@ tags:
   - local-llms
   - on-device-inference
   - open-source
-  - open-source-llms
   - planning-tasks
   - qwen
   - qwen-3-5

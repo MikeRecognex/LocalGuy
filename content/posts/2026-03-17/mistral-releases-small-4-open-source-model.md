@@ -23,7 +23,6 @@ tags:
   - mistral
   - model-release
   - open-source
-  - open-source-models
   - quantization
   - release
   - testingcatalog

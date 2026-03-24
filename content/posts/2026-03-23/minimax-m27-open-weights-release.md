@@ -15,9 +15,6 @@ tags:
   - model-size
   - news
   - open-source
-  - open-source-ai
-  - open-source-llms
-  - open-source-models
   - open-weights-models
   - performance-metrics
   - release

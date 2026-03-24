@@ -22,8 +22,6 @@ tags:
   - on-device-speech
   - on-device-speech-synthesis
   - open-source
-  - open-source-ai
-  - open-source-models
   - quantization
   - release
   - resource-constrained-ai

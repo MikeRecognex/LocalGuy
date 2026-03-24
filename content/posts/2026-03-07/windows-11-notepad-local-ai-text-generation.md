@@ -17,7 +17,6 @@ tags:
   - on-device-ai-text-generation
   - on-device-inference
   - open-source
-  - open-source-models
   - operating-system-integration
   - os-integration
   - windows

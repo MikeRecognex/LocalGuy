@@ -16,8 +16,6 @@ tags:
   - moe-architecture
   - offline-deployment
   - open-source
-  - open-source-llms
-  - open-source-models
   - production-ops
   - release
   - self-hosted

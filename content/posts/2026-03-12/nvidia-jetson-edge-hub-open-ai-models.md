@@ -16,7 +16,7 @@ tags:
   - local-inference
   - news
   - nvidia-jetson
-  - open-source-models
+  - open-source
   - production-deployment
 mentions:
   - name: ChannelLife

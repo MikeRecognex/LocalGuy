@@ -15,7 +15,7 @@ tags:
   - mobile-ai-development
   - model-deployment
   - older-hardware-compatibility
-  - open-source-tools
+  - open-source
   - qwen
 status: published
 ---

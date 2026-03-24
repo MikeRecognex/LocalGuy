@@ -17,7 +17,6 @@ tags:
   - micropayments
   - monetization
   - open-source
-  - open-source-llms
   - peer-to-peer-inference
 mentions:
   - name: Agora

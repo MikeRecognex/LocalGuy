@@ -21,8 +21,6 @@ tags:
   - moe
   - offline-deployment
   - open-source
-  - open-source-llms
-  - open-source-models
   - release
   - sparse-models
 mentions:

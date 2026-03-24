@@ -11,7 +11,6 @@ tags:
   - model-monitoring
   - model-release
   - open-source
-  - open-source-models
   - open-source-safety
   - responsible-ai-deployment
   - safety

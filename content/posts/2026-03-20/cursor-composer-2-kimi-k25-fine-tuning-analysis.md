@@ -21,7 +21,6 @@ tags:
   - model-architecture
   - model-optimization
   - open-source
-  - open-source-llms
   - reddit
   - reinforcement-learning-fine-tuning
 mentions:

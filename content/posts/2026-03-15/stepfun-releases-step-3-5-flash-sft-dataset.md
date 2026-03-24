@@ -13,7 +13,6 @@ tags:
   - model-release
   - model-training-efficiency
   - open-source
-  - open-source-models
   - release
   - reproducible-ai
   - sft-datasets

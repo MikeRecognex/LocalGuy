@@ -11,7 +11,6 @@ tags:
   - local-deployment-economics
   - local-llm-competitiveness
   - open-source
-  - open-source-llms
   - quantization
   - self-hosted
 status: published

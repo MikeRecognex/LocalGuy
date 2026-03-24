@@ -20,7 +20,6 @@ tags:
   - news
   - offline-deployment
   - open-source
-  - open-source-llms
   - quantization
   - release
 mentions:

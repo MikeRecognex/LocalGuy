@@ -14,7 +14,6 @@ tags:
   - model-optimization
   - model-scaffolding
   - open-source
-  - open-source-ai
   - performance-optimization
   - performance-parity
   - quantization

@@ -20,8 +20,6 @@ tags:
   - local-model-finetuning
   - model-fine-tuning
   - open-source
-  - open-source-tooling
-  - open-source-tools
   - opendcai
   - showcase
   - training

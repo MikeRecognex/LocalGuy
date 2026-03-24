@@ -12,7 +12,6 @@ tags:
   - local-deployment
   - model-customization
   - open-source
-  - open-source-ai
   - output-parsing
   - production-systems
   - structured-output

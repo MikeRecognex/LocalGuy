@@ -14,7 +14,6 @@ tags:
   - local-inference-compliance
   - logging
   - open-source
-  - open-source-tooling
   - regulatory-compliance
 mentions:
   - name: Hacker News
