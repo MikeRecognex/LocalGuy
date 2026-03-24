@@ -9,8 +9,8 @@ tags:
   - buxoai
   - consumer-llm-integration
   - contextual-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - hacker-news
   - inference

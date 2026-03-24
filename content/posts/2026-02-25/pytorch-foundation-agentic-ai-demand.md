@@ -10,8 +10,8 @@ tags:
   - beginner-friendly
   - consumer-gpu
   - consumer-hardware-deployment
+  - edge-computing
   - edge-deployment
-  - edge-device
   - framework
   - inference-optimization
   - local-ai-agents

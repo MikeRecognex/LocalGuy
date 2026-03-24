@@ -9,8 +9,8 @@ tags:
   - cpu-only
   - daily-digest
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - enterprise
   - intermediate

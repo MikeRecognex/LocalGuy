@@ -13,7 +13,7 @@ tags:
   - deployment
   - desktop-ui-development
   - developer
-  - edge-device
+  - edge-computing
   - frameworks
   - hacker-news
   - integration

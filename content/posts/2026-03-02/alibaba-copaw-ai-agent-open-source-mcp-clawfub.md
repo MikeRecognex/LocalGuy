@@ -11,8 +11,8 @@ tags:
   - ai-workflow-orchestration
   - alibaba
   - daily-digest
+  - edge-computing
   - edge-deployment
-  - edge-device
   - local-deployment
   - mcp
   - model-context-protocol

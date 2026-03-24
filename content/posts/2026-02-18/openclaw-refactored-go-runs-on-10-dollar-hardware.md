@@ -6,8 +6,8 @@ tags:
   - cost-saving
   - decentralized-ai
   - distributed-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - go-programming
   - low-cost-inference
   - minimal-hardware-ai

@@ -9,7 +9,7 @@ tags:
   - data-processing-optimization
   - developer-tooling
   - document-processing
-  - edge-device
+  - edge-computing
   - fine-tuning
   - gpu-acceleration
   - gpu-data-processing

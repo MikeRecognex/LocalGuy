@@ -4,7 +4,7 @@ date: 2026-02-27
 description: A comprehensive guide for developers deciding which AI workloads to run locally on mobile devices versus offload to cloud infrastructure, with practical considerations for 2026 deployment strategies.
 tags:
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - enterprise
   - guide

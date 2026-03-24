@@ -6,7 +6,7 @@ tags:
   - app-development
   - daily-digest
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - local-llm-features
   - mobile

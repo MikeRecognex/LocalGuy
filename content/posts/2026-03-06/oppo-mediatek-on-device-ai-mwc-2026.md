@@ -7,8 +7,8 @@ tags:
   - Oppo
   - community-support
   - consumer-mobile
+  - edge-computing
   - edge-deployment
-  - edge-device
   - laptop-processors
   - mediatek
   - memory-efficiency

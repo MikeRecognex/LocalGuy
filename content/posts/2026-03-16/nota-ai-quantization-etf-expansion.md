@@ -11,7 +11,7 @@ tags:
   - daily-digest
   - developer
   - digital-today
-  - edge-device
+  - edge-computing
   - edge-inference
   - enterprise
   - hardware

@@ -10,8 +10,8 @@ tags:
   - daily-digest
   - data-privacy
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - gguf-format
   - intermediate
   - large-model-deployment

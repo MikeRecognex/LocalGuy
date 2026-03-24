@@ -11,8 +11,8 @@ tags:
   - deployment
   - deployment-strategy
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-optimization
   - enterprise
   - hardware

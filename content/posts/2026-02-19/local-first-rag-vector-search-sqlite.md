@@ -11,8 +11,8 @@ tags:
   - document-grounded-inference
   - document-processing
   - document-qa
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hamming-distance
   - inference-optimization
   - intermediate

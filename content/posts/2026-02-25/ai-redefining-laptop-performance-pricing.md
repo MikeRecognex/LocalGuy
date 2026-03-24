@@ -7,7 +7,7 @@ tags:
   - ai-in-laptops
   - consumer-gpu
   - economic-impact-local-ai
-  - edge-device
+  - edge-computing
   - hardware
   - hardware-acceleration
   - laptop-ai-accelerators

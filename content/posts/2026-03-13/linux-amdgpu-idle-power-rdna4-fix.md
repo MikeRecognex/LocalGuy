@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - driver-optimization
-  - edge-device
+  - edge-computing
   - edge-inference
   - energy-efficiency
   - gpu-architecture

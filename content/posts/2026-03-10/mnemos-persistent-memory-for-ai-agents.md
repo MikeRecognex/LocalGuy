@@ -6,7 +6,7 @@ tags:
   - agents
   - context-management
   - edge-ai
-  - edge-device
+  - edge-computing
   - hacker-news
   - local-agents
   - local-deployment

@@ -9,8 +9,8 @@ tags:
   - deployment-strategy
   - developer-tooling
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - fine-tuning
   - inference-optimization

@@ -17,8 +17,8 @@ tags:
   - dualpath-technique
   - edge-ai
   - edge-ai-model-deployment
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-device-ai
   - efficiency-optimization
   - hacker-news

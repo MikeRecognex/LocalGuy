@@ -7,8 +7,8 @@ tags:
   - consumer-gpu
   - developer
   - document-understanding
+  - edge-computing
   - edge-deployment
-  - edge-device
   - efficient-models
   - intermediate
   - local-inference

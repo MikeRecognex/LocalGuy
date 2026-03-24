@@ -12,7 +12,7 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - edge-device
+  - edge-computing
   - graph-rag
   - llama
   - llm-reasoning

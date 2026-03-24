@@ -10,8 +10,8 @@ tags:
   - daily-digest
   - data-privacy
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - intermediate
   - local-llms
   - on-device-inference

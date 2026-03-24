@@ -4,7 +4,7 @@ date: 2026-03-07
 description: A new multi-model AI application that combines several LLMs with advanced memory management and performance optimization features for local deployment.
 tags:
   - asterodeai
-  - edge-device
+  - edge-computing
   - edge-device-optimization
   - hacker-news
   - local-deployment

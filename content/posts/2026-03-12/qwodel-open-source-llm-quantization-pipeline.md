@@ -6,8 +6,8 @@ tags:
   - consumer-gpu
   - deployment-tools
   - development-workflow
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hacker-news
   - inference-optimization
   - llm-quantization

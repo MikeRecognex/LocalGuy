@@ -6,7 +6,7 @@ tags:
   - ai-accelerators
   - data-privacy
   - data-throughput
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - inference-optimization

@@ -11,8 +11,8 @@ tags:
   - developer
   - developer-tooling
   - document-processing
+  - edge-computing
   - edge-deployment
-  - edge-device
   - flash-attention-optimization
   - flashindexer-optimization
   - flashindexer-optimizations

@@ -5,8 +5,8 @@ description: Exploration of how Android devices are increasingly running AI mode
 tags:
   - android
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - enterprise
   - local-inference

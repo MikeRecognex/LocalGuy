@@ -9,7 +9,7 @@ tags:
   - data-privacy
   - developer
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hardware-innovation

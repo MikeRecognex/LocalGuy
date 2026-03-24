@@ -9,8 +9,8 @@ tags:
   - consumer-cpu
   - consumer-laptop
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hardware
   - inference-optimization

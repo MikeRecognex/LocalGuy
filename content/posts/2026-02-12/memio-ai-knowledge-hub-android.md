@@ -10,8 +10,8 @@ tags:
   - android-deployment
   - beginner-friendly
   - document-processing
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hobbyist
   - mobile-ai
   - mobile-llm-integration

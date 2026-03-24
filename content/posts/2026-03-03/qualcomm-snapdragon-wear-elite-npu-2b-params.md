@@ -6,7 +6,7 @@ tags:
   - ai-on-wearables
   - battery-efficiency
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hardware-fragmentation

@@ -8,8 +8,8 @@ tags:
   - data-privacy
   - decentralized-ai
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - google
   - local-deployment
   - local-inference

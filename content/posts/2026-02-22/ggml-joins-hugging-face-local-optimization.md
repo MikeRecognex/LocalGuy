@@ -9,8 +9,8 @@ tags:
   - cpu-inference
   - cpu-only
   - developer-tooling
+  - edge-computing
   - edge-deployment
-  - edge-device
   - ggml
   - local-inference
   - model-availability

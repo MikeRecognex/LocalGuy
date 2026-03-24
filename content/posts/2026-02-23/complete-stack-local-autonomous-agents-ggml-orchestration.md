@@ -8,7 +8,7 @@ tags:
   - agents
   - autonomous-agents
   - deployment
-  - edge-device
+  - edge-computing
   - ggml
   - inter-agent-communication
   - memory-optimization

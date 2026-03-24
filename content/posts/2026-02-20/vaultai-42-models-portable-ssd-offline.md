@@ -12,8 +12,8 @@ tags:
   - developer
   - developer-tooling
   - edge-ai-systems
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hacker-news
   - intermediate
   - local-deployment

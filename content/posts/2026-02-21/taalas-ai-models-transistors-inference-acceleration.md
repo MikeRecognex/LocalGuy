@@ -6,8 +6,8 @@ tags:
   - advanced
   - cost-saving
   - custom-asic
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware
   - hardware-acceleration
   - hardware-optimization

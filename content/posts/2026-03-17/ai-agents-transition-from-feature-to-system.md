@@ -13,8 +13,8 @@ tags:
   - comuniq
   - comuniqxyz
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hacker-news
   - langchain
   - llamaindex

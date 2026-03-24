@@ -13,8 +13,8 @@ tags:
   - data-privacy
   - decentralized-ai
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware-ecosystem
   - hobbyist
   - laptop-launch

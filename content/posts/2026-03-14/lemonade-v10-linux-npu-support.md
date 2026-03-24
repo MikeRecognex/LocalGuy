@@ -5,8 +5,8 @@ description: Lemonade v10 adds Linux support for NPU inference alongside expande
 tags:
   - deployment-flexibility
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hardware
   - hardware-optimization

@@ -9,8 +9,8 @@ tags:
   - cost-saving
   - cpu-npu
   - cpu-only
+  - edge-computing
   - edge-deployment
-  - edge-device
   - inference-optimization
   - intel
   - local-inference

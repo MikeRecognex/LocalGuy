@@ -22,8 +22,8 @@ tags:
   - decentralized-payments
   - deployment
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - ethereum-l2-base
   - hacker-news
   - hybrid-ai-architecture

@@ -6,8 +6,8 @@ tags:
   - channellife
   - consumer-gpu
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-hardware
   - enterprise
   - hardware

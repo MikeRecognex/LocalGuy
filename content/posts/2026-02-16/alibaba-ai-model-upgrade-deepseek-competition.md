@@ -8,8 +8,8 @@ tags:
   - consumer-gpu
   - deepseek
   - developer-tooling
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware-optimization
   - inference-optimization
   - local-deployment

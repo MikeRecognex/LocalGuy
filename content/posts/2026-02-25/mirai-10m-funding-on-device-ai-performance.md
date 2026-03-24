@@ -6,7 +6,7 @@ tags:
   - consumer-devices
   - consumer-gpu
   - data-privacy
-  - edge-device
+  - edge-computing
   - funding
   - hardware-optimization
   - hardware-software-co-optimization

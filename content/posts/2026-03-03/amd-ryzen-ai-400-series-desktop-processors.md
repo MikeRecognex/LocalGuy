@@ -11,7 +11,7 @@ tags:
   - cpu-only
   - desktop-ai
   - ecosystem-integration
-  - edge-device
+  - edge-computing
   - hardware
   - hybrid-compute
   - new-hardware-launch

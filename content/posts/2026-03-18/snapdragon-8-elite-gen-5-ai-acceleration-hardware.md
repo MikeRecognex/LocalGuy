@@ -9,7 +9,7 @@ tags:
   - consumer-gpu
   - custom-asic
   - developer
-  - edge-device
+  - edge-computing
   - hardware
   - inference-optimization
   - intermediate

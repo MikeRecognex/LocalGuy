@@ -6,8 +6,8 @@ tags:
   - advanced
   - comparison
   - cost-saving
+  - edge-computing
   - edge-deployment
-  - edge-device
   - energy-based-models
   - inference-optimization
   - local-deployment

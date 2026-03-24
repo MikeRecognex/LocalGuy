@@ -9,8 +9,8 @@ tags:
   - deployment-architecture
   - developer-tooling
   - distributed-inference
+  - edge-computing
   - edge-deployment
-  - edge-device
   - local-deployment
   - minimal-infrastructure-deployment
   - offline-deployment

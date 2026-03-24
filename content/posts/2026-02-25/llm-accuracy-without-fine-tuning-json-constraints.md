@@ -5,8 +5,8 @@ description: A technique for achieving perfect LLM accuracy on structured output
 tags:
   - computational-overhead-reduction
   - consumer-gpu
+  - edge-computing
   - edge-deployment
-  - edge-device
   - fine-tuning-alternative
   - hallucination-elimination
   - hallucination-reduction

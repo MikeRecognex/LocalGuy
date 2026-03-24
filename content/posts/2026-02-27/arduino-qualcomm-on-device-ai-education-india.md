@@ -6,8 +6,8 @@ tags:
   - beginner-friendly
   - edge-ai
   - edge-ai-democratization
+  - edge-computing
   - edge-deployment
-  - edge-device
   - education
   - embedded
   - hardware

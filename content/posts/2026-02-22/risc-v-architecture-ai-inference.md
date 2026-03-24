@@ -9,8 +9,8 @@ tags:
   - cpu-only
   - custom-asic
   - custom-silicon-deployment
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hardware
   - llm-inference

@@ -9,8 +9,8 @@ tags:
   - developer
   - developer-tooling
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - intermediate
   - kitten-ml
   - kitten-tts

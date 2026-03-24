@@ -6,8 +6,8 @@ tags:
   - benchmark
   - consumer-gpu
   - cost-saving
+  - edge-computing
   - edge-deployment
-  - edge-device
   - efficiency
   - hardware
   - hardware-optimization

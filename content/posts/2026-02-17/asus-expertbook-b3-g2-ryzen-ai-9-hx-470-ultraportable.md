@@ -7,8 +7,8 @@ tags:
   - asus
   - cpu-only
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - hardware
   - inference-optimization

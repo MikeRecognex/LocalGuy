@@ -10,8 +10,8 @@ tags:
   - consumer-gpu
   - cost-saving
   - developer-tooling
+  - edge-computing
   - edge-deployment
-  - edge-device
   - general-purpose-llm
   - local-deployment
   - nanbeige

@@ -16,7 +16,7 @@ tags:
   - datacenter-cpu
   - developer
   - developer-tooling
-  - edge-device
+  - edge-computing
   - hardware-optimization
   - llama
   - llama-cpp

@@ -11,7 +11,7 @@ tags:
   - deployment
   - deployment-architecture
   - distributed-inference
-  - edge-device
+  - edge-computing
   - enterprise
   - gpu-management
   - guide

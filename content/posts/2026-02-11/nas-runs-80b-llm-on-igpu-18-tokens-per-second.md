@@ -8,7 +8,7 @@ tags:
   - cost-effective-deployment
   - cost-saving
   - cpu-only
-  - edge-device
+  - edge-computing
   - hardware-efficiency
   - hardware-optimization
   - hobbyist

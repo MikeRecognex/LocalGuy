@@ -9,8 +9,8 @@ tags:
   - cpu-only
   - data-privacy
   - developer-tooling
+  - edge-computing
   - edge-deployment
-  - edge-device
   - inference-optimization
   - infrastructure
   - llama-cpp

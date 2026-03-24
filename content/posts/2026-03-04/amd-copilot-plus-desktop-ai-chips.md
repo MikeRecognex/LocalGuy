@@ -12,7 +12,7 @@ tags:
   - copilot-plus-integration
   - cpu-only
   - edge-ai
-  - edge-device
+  - edge-computing
   - enterprise
   - hardware
   - hardware-diversification

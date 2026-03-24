@@ -4,7 +4,7 @@ date: 2026-02-24
 description: Kioxia's UFS 5.0 flash memory devices offer substantial performance improvements for mobile devices, enabling faster model loading and inference for on-device LLMs on the next generation of smartphones.
 tags:
   - consumer-mobile
-  - edge-device
+  - edge-computing
   - flash-memory
   - hardware
   - mobile

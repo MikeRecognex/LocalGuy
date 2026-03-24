@@ -9,8 +9,8 @@ tags:
   - data-privacy
   - developer
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - geekygadgetscom
   - intermediate

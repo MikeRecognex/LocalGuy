@@ -4,8 +4,8 @@ date: 2026-03-04
 description: Qualcomm's new Snapdragon Wear Elite chip integrates on-device AI capabilities optimized for wearable devices, extending local inference to ultra-constrained environments. The platform enables efficient model execution on smartwatches without relying on smartphone or cloud connectivity.
 tags:
   - advanced
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware
   - model-optimization
   - on-device-inference

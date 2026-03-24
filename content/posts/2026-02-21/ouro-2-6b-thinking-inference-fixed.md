@@ -5,7 +5,7 @@ description: ByteDance's novel recurrent Universal Transformer architecture (Our
 tags:
   - advanced
   - consumer-gpu
-  - edge-device
+  - edge-computing
   - inference-optimization
   - local-inference
   - model-architecture

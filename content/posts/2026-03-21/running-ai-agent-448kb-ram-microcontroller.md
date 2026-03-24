@@ -9,7 +9,7 @@ tags:
   - daily-digest
   - data-privacy
   - developer
-  - edge-device
+  - edge-computing
   - edge-inference
   - embedded
   - github

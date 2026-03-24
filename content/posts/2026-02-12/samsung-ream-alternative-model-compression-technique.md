@@ -7,8 +7,8 @@ tags:
   - cerebras
   - consumer-gpu
   - deepseek
+  - edge-computing
   - edge-deployment
-  - edge-device
   - glm
   - hardware-optimization
   - minimax

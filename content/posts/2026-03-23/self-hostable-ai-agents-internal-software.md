@@ -13,7 +13,7 @@ tags:
   - data-privacy
   - deployment
   - deployment-patterns
-  - edge-device
+  - edge-computing
   - enterprise
   - github
   - hacker-news

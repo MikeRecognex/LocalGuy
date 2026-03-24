@@ -5,8 +5,8 @@ description: A new guide demonstrates running local LLMs and vision language mod
 tags:
   - advanced
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - local-deployment
   - memory-optimization

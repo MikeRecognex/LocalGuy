@@ -4,8 +4,8 @@ date: 2026-03-10
 description: FreeBSD 14.4 brings performance improvements and enhanced system reliability that benefit self-hosted LLM inference on BSD-based systems.
 tags:
   - deployment-platform
+  - edge-computing
   - edge-deployment
-  - edge-device
   - freebsd
   - freebsd-compatibility
   - freebsd-deployment

@@ -8,8 +8,8 @@ tags:
   - consumer-gpu
   - deployment-strategy
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - inference-engines
   - inference-optimization

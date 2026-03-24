@@ -10,7 +10,7 @@ tags:
   - arm-servers
   - cost-saving
   - cpu-only
-  - edge-device
+  - edge-computing
   - enterprise
   - llama
   - llama-cpp

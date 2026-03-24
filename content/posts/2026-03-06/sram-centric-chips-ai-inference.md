@@ -8,7 +8,7 @@ tags:
   - custom-asic
   - custom-silicon
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - memory-bandwidth

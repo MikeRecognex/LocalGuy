@@ -7,8 +7,8 @@ tags:
   - consumer-gpu
   - cpu-only
   - custom-asic
+  - edge-computing
   - edge-deployment
-  - edge-device
   - energy-consumption
   - energy-efficiency
   - hardware

@@ -10,7 +10,7 @@ tags:
   - daily-digest
   - datacenter-gpu
   - developer
-  - edge-device
+  - edge-computing
   - hacker-news
   - inference-optimization
   - infrastructure

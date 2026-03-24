@@ -6,8 +6,8 @@ tags:
   - advanced
   - ai-architecture
   - cautious
+  - edge-computing
   - edge-deployment
-  - edge-device
   - mobile-device
   - model-architecture
   - model-optimization

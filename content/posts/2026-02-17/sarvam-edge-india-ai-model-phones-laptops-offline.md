@@ -6,8 +6,8 @@ tags:
   - apple-silicon
   - data-privacy
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-optimization
   - hardware
   - llama

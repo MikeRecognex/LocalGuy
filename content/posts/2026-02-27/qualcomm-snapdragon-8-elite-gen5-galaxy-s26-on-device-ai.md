@@ -4,7 +4,7 @@ date: 2026-02-27
 description: Samsung Galaxy S26 series launches with Qualcomm's Snapdragon 8 Elite Gen 5 processor, delivering significant improvements to on-device AI inference speed and efficiency for mobile LLM deployment.
 tags:
   - chip-design
-  - edge-device
+  - edge-computing
   - hardware
   - hardware-acceleration
   - inference-optimization

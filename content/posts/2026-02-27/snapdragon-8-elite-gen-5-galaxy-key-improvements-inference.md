@@ -5,7 +5,7 @@ description: Details on the latest Snapdragon processor generation bringing perf
 tags:
   - advanced
   - conversational-ai
-  - edge-device
+  - edge-computing
   - hardware
   - local-document-processing
   - memory-bandwidth

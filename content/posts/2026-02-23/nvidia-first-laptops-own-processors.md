@@ -9,7 +9,7 @@ tags:
   - consumer-gpu
   - custom-asic
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hardware-efficiency

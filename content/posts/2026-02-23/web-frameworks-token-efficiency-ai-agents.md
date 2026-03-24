@@ -7,8 +7,8 @@ tags:
   - ai-agents
   - benchmark
   - daily-digest
+  - edge-computing
   - edge-deployment
-  - edge-device
   - inference-cost-optimization
   - inference-optimization
   - local-deployment-optimization

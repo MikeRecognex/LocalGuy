@@ -7,7 +7,7 @@ tags:
   - consumer-gpu
   - consumer-gpu-inference
   - developer
-  - edge-device
+  - edge-computing
   - edge-inference
   - huggingface-integration
   - inference-optimization

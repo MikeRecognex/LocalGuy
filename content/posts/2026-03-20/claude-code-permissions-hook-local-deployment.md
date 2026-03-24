@@ -13,8 +13,8 @@ tags:
   - code-execution
   - daily-digest
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hacker-news
   - intermediate
   - llm-permission-delegation

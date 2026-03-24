@@ -6,8 +6,8 @@ tags:
   - ai-system-design
   - coding
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - education
   - education-technology
   - fine-tuning

@@ -10,7 +10,7 @@ tags:
   - apple-silicon
   - autonomous-ai
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - inference-optimization

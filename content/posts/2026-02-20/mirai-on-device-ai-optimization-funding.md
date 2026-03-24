@@ -15,7 +15,6 @@ tags:
   - edge-ai
   - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - edge-inference-optimization
   - enterprise

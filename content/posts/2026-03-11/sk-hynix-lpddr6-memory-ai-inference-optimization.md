@@ -5,7 +5,7 @@ description: SK Hynix reaches qualification milestone for next-generation LPDDR6
 tags:
   - daily-digest
   - edge-ai-memory
-  - edge-device
+  - edge-computing
   - edge-device-ai
   - edge-inference
   - hardware

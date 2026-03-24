@@ -10,7 +10,7 @@ tags:
   - consumer-hardware-deployment
   - data-privacy
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - google-news
   - inference-optimization

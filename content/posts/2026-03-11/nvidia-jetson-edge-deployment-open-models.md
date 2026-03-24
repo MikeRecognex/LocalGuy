@@ -4,8 +4,8 @@ date: 2026-03-11
 description: NVIDIA highlights how Jetson platforms are enabling edge deployment of open-source LLMs, democratizing access to local AI inference on resource-constrained devices.
 tags:
   - daily-digest
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hardware
   - inference-optimization

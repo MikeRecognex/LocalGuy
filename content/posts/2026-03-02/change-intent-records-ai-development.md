@@ -14,7 +14,7 @@ tags:
   - developer-intent
   - developer-intent-capture
   - developer-workflows
-  - edge-device
+  - edge-computing
   - edge-inference
   - fine-tuning
   - fine-tuning-datasets

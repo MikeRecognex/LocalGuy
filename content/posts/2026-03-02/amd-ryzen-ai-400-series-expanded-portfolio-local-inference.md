@@ -8,7 +8,7 @@ tags:
   - custom-asic
   - daily-digest
   - data-privacy
-  - edge-device
+  - edge-computing
   - enterprise
   - hardware
   - inference

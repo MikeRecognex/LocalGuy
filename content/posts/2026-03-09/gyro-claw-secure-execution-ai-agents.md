@@ -12,7 +12,7 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - edge-device
+  - edge-computing
   - enterprise
   - execution-containment
   - execution-sandboxing

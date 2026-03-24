@@ -11,7 +11,7 @@ tags:
   - custom-asic
   - daily-digest
   - developer
-  - edge-device
+  - edge-computing
   - edge-inference
   - edge-llm-deployment
   - enterprise

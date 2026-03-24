@@ -7,8 +7,8 @@ tags:
   - consumer-gpu
   - cost-saving
   - driver-development
+  - edge-computing
   - edge-deployment
-  - edge-device
   - gpu-drivers
   - hardware
   - hardware-utilization

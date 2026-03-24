@@ -6,7 +6,7 @@ tags:
   - apple-silicon
   - data-privacy
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware-aware-optimization
   - inference-optimization

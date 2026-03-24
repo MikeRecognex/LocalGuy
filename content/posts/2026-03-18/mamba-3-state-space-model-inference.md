@@ -9,7 +9,7 @@ tags:
   - bullish
   - consumer-gpu
   - developer
-  - edge-device
+  - edge-computing
   - inference
   - inference-optimization
   - intermediate

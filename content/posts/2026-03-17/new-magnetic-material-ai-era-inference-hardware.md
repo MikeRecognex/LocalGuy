@@ -9,8 +9,8 @@ tags:
   - bullish
   - daily-digest
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - energy-efficiency
   - hacker-news
   - hardware

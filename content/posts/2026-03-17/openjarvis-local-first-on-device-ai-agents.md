@@ -15,7 +15,6 @@ tags:
   - dataconomy
   - developer
   - edge-computing
-  - edge-device
   - intermediate
   - local-ai-agents
   - local-first

@@ -8,7 +8,7 @@ tags:
   - bullish
   - developer
   - developer-tooling
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hardware-optimization

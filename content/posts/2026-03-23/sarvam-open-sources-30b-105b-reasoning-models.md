@@ -11,7 +11,7 @@ tags:
   - data-privacy
   - developer
   - edge-ai
-  - edge-device
+  - edge-computing
   - efficient-reasoning
   - inference-cost-reduction
   - intermediate

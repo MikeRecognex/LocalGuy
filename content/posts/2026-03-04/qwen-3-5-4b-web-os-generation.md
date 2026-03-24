@@ -7,8 +7,8 @@ tags:
   - code-generation
   - demonstration
   - developer-tools
+  - edge-computing
   - edge-deployment
-  - edge-device
   - mobile-device
   - os-generation
   - qwen

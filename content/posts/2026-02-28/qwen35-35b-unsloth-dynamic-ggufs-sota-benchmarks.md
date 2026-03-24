@@ -6,7 +6,7 @@ tags:
   - advanced
   - benchmark
   - consumer-gpu
-  - edge-device
+  - edge-computing
   - gguf
   - gguf-quantisation
   - hardware-optimization

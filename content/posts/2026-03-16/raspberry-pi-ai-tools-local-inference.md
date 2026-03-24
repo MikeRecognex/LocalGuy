@@ -8,8 +8,8 @@ tags:
   - daily-digest
   - developer
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hardware-agnostic-deployment
   - how-to-geek

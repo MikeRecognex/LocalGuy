@@ -4,7 +4,7 @@ date: 2026-02-28
 description: Unsloth releases Dynamic 2.0 GGUF format models, advancing quantized model optimization for local inference with improved efficiency and compatibility across edge devices.
 tags:
   - consumer-gpu
-  - edge-device
+  - edge-computing
   - gguf
   - gguf-format
   - inference-optimization

@@ -6,8 +6,8 @@ tags:
   - applications
   - commercial-applications
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - enterprise
   - inventory-management-ai

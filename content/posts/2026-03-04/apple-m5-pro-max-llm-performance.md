@@ -8,7 +8,7 @@ tags:
   - apple
   - apple-silicon
   - beginner-friendly
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hobbyist

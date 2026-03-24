@@ -8,8 +8,8 @@ tags:
   - ai-accelerators
   - custom-accelerator
   - custom-asic
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - hardware
   - heterogeneous-deployment

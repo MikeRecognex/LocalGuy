@@ -11,8 +11,8 @@ tags:
   - consumer-hardware-deployment
   - daily-digest
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - efficient-model-deployment
   - efficient-models

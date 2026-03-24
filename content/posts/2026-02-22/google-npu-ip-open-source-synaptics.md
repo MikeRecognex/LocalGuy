@@ -7,8 +7,8 @@ tags:
   - advanced
   - custom-asic
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware
   - hardware-acceleration
   - hardware-commoditization

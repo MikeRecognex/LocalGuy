@@ -8,8 +8,8 @@ tags:
   - benchmark-report
   - code-generation
   - consumer-gpu
+  - edge-computing
   - edge-deployment
-  - edge-device
   - memory-efficiency
   - quantization
   - qwen-models

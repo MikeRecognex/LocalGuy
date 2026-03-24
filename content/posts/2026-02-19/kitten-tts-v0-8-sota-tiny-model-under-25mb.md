@@ -6,8 +6,8 @@ tags:
   - apple-silicon
   - consumer-gpu
   - developer-tooling
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - inference-frameworks
   - kitten-tts

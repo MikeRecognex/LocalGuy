@@ -18,7 +18,7 @@ tags:
   - developer
   - discussion
   - edge-ai-challenges
-  - edge-device
+  - edge-computing
   - hacker-news
   - intermediate
   - local-deployment

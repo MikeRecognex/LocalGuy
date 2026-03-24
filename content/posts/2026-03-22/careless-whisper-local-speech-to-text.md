@@ -8,8 +8,8 @@ tags:
   - daily-digest
   - data-privacy
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hacker-news
   - input-modality

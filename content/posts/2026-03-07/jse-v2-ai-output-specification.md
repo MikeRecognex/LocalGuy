@@ -4,10 +4,11 @@ date: 2026-03-07
 description: A new specification for standardizing AI output formats, enabling better interoperability between local LLM systems and downstream applications.
 tags:
   - ai-output-standardization
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hacker-news
   - interoperability
+  - jse-v2-ai
   - llm-interoperability
   - local-ai-stack
   - local-inference-architecture
@@ -19,7 +20,6 @@ tags:
   - system-composability
   - system-optimization
   - tutorial
-  - jse-v2-ai
 mentions:
   - name: Hacker News
     role: publisher

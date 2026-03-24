@@ -5,8 +5,8 @@ description: Ukrainian-founded startup Mirai Tech secures significant funding to
 tags:
   - data-privacy
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - enterprise
   - funding

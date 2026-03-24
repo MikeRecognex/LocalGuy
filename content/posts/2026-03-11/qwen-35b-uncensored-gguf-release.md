@@ -7,7 +7,7 @@ tags:
   - benchmark-report
   - consumer-gpu
   - daily-digest
-  - edge-device
+  - edge-computing
   - gguf
   - hardware-optimization
   - local-inference

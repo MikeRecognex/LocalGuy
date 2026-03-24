@@ -8,7 +8,7 @@ tags:
   - custom-os-deployment
   - custom-os-llm
   - dependency-free-llm
-  - edge-device
+  - edge-computing
   - edge-inference
   - edge-optimization
   - embedded-ai

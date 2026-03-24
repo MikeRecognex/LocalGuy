@@ -7,7 +7,7 @@ tags:
   - consumer-gpu
   - data-privacy
   - edge-ai-adoption
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - local-llms

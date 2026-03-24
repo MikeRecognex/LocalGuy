@@ -12,7 +12,7 @@ tags:
   - daily-digest
   - datacenter-gpu
   - developer
-  - edge-device
+  - edge-computing
   - inference-scaling
   - intermediate
   - local-deployment

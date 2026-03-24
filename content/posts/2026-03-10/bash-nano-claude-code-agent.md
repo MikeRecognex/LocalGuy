@@ -10,7 +10,7 @@ tags:
   - ci-cd-integration
   - code-generation-agent
   - constrained-environments
-  - edge-device
+  - edge-computing
   - github
   - hacker-news
   - lightweight-ai-agents

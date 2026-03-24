@@ -7,8 +7,8 @@ tags:
   - android
   - android-ai-hardware
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - local-deployment
   - mobile

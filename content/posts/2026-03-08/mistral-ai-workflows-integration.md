@@ -7,7 +7,7 @@ tags:
   - agents
   - consumer-gpu
   - edge-ai
-  - edge-device
+  - edge-computing
   - inference-optimization
   - local-deployment
   - local-model-orchestration

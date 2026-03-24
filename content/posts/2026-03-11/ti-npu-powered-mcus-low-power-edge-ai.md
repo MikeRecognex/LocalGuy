@@ -9,7 +9,7 @@ tags:
   - cross-platform-compatibility
   - daily-digest
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - enterprise
   - hardware

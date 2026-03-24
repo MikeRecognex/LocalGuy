@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - cpu-only
   - deployment-strategy
-  - edge-device
+  - edge-computing
   - inference-optimization
   - local-deployment
   - news

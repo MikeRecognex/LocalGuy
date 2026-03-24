@@ -5,8 +5,8 @@ description: Alibaba's Qwen team released a new family of small multimodal model
 tags:
   - benchmark
   - consumer-mobile
+  - edge-computing
   - edge-deployment
-  - edge-device
   - local-inference
   - model-viability
   - multimodal

@@ -10,8 +10,8 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware
   - intermediate
   - local-deployment

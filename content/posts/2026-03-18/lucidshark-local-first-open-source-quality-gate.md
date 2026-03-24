@@ -9,7 +9,7 @@ tags:
   - content-moderation
   - data-privacy
   - developer
-  - edge-device
+  - edge-computing
   - edge-inference
   - hacker-news
   - intermediate

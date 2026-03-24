@@ -12,8 +12,8 @@ tags:
   - data-privacy
   - decentralized-ai
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - fine-tuning
   - hardware
   - inference-optimization

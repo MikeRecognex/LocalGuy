@@ -6,7 +6,7 @@ tags:
   - cpu-only
   - cpu-optimization
   - cross-platform-compatibility
-  - edge-device
+  - edge-computing
   - enterprise
   - heterogeneous-hardware
   - inference-optimization

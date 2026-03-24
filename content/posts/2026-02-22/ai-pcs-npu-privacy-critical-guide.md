@@ -5,7 +5,7 @@ description: A deep dive into NPU-equipped AI PCs and the privacy implications o
 tags:
   - advanced
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - enterprise
   - enterprise-ai

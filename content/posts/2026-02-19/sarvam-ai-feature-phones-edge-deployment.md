@@ -6,8 +6,8 @@ tags:
   - advanced
   - cost-saving
   - distillation
+  - edge-computing
   - edge-deployment
-  - edge-device
   - embedded-ai
   - inference-optimization
   - low-resource-deployment

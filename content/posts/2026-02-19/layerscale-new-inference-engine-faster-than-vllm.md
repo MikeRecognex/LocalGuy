@@ -8,8 +8,8 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - inference-engine
   - inference-optimization

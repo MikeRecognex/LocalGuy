@@ -12,7 +12,7 @@ tags:
   - consumer-gpu
   - cpu-only
   - developer
-  - edge-device
+  - edge-computing
   - energy-efficiency
   - hacker-news
   - hardware-performance-tuning

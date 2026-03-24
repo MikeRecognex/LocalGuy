@@ -11,8 +11,8 @@ tags:
   - developer
   - domain-specific-models
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - enterprise
   - experiment

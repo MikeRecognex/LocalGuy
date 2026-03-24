@@ -4,8 +4,8 @@ date: 2026-03-15
 description: A new 4.4B parameter model optimized for edge reasoning tasks, combining multiple models through merging techniques. This lightweight model is designed for on-device inference with improved reasoning capabilities.
 tags:
   - benchmark
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - edge-reasoning
   - efficient-models

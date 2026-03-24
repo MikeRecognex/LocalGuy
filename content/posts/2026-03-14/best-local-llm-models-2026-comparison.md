@@ -7,7 +7,7 @@ tags:
   - comparison
   - consumer-gpu
   - deployment-strategy
-  - edge-device
+  - edge-computing
   - guide
   - local-deployment
   - memory-optimization

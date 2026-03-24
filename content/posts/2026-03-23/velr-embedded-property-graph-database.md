@@ -8,8 +8,8 @@ tags:
   - daily-digest
   - databases
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - embedded-database
   - hacker-news
   - intermediate

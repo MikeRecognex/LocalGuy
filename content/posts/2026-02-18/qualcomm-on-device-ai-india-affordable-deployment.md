@@ -9,8 +9,8 @@ tags:
   - data-privacy
   - developer-tooling
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - google
   - hardware-software-co-optimization

@@ -7,7 +7,7 @@ tags:
   - consumer-device-deployment
   - consumer-gpu
   - device-repairability
-  - edge-device
+  - edge-computing
   - edge-inference
   - mobile-ai-optimization
   - model-distillation

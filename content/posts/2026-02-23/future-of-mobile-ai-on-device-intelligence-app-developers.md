@@ -5,7 +5,7 @@ description: An analysis of how on-device LLM inference is reshaping mobile app 
 tags:
   - cloud-vs-local-inference
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - mobile
   - mobile-ai-development

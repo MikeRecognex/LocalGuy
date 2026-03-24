@@ -8,7 +8,7 @@ tags:
   - cost-saving
   - cpu-only
   - deployment
-  - edge-device
+  - edge-computing
   - git-workflow-optimization
   - gitdlivr
   - infrastructure

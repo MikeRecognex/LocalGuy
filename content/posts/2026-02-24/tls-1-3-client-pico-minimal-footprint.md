@@ -5,7 +5,7 @@ description: A minimal TLS 1.3 implementation in C could be valuable for edge in
 tags:
   - advanced
   - edge-ai-security
-  - edge-device
+  - edge-computing
   - edge-inference
   - embedded-systems
   - inference-api-security

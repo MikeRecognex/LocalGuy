@@ -9,7 +9,7 @@ tags:
   - cpu-inference
   - cpu-only
   - cpu-optimization
-  - edge-device
+  - edge-computing
   - gpu-free-inference
   - hacker-news
   - hardware

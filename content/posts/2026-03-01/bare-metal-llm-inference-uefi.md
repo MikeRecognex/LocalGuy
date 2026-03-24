@@ -7,8 +7,8 @@ tags:
   - bare-metal
   - bare-metal-inference
   - cpu-only
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - embedded-systems
   - firmware-inference

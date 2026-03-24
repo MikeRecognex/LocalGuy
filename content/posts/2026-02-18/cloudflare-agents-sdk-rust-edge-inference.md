@@ -7,8 +7,8 @@ tags:
   - agents
   - cloudflare
   - cost-saving
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - google
   - inference-optimization

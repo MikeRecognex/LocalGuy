@@ -3,8 +3,8 @@ title: Arduino, Qualcomm Bring On-Device AI and Robotics Learning to Indian Scho
 date: 2026-02-28
 description: Arduino and Qualcomm partner to integrate on-device AI and robotics education into Indian schools, democratizing access to edge ML training and embedded systems development.
 tags:
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - edge-ml-democratization
   - education

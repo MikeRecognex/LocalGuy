@@ -8,8 +8,8 @@ tags:
   - daily-digest
   - data-privacy
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-device-llms
   - edge-inference
   - embedded-systems

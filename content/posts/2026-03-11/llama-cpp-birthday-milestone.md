@@ -8,7 +8,7 @@ tags:
   - cpu-inference
   - cpu-only
   - daily-digest
-  - edge-device
+  - edge-computing
   - inference-engine
   - llama-cpp
   - llm-democratization

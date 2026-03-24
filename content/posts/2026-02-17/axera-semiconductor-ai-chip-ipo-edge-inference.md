@@ -9,8 +9,8 @@ tags:
   - custom-asic
   - decentralized-inference
   - edge-ai-hardware
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference-chips
   - enterprise
   - hardware-strategy

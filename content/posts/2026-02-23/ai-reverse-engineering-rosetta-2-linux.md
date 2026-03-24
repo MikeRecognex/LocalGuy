@@ -13,7 +13,7 @@ tags:
   - compatibility-layers
   - daily-digest
   - edge-ai
-  - edge-device
+  - edge-computing
   - hardware
   - heterogeneous-hardware
   - inference

@@ -11,8 +11,8 @@ tags:
   - cost-saving
   - cpu-inference
   - cpu-only
+  - edge-computing
   - edge-deployment
-  - edge-device
   - hardware-optimization
   - llm-accessibility
   - matrix-operations

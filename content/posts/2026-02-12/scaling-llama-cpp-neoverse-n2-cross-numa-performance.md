@@ -11,8 +11,8 @@ tags:
   - arm-processor-inference
   - cpu-only
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - hardware-optimization
   - llama

@@ -4,7 +4,7 @@ date: 2026-02-28
 description: Samsung's Galaxy S26 implements on-device AI models for real-time scam detection, demonstrating practical deployment of edge inference for security-critical mobile applications.
 tags:
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - latency-optimization
   - mobile

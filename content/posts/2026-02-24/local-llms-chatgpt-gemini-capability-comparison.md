@@ -7,7 +7,7 @@ tags:
   - comparison
   - cost-saving
   - data-privacy
-  - edge-device
+  - edge-computing
   - evaluation
   - latency-optimization
   - local-deployment

@@ -14,7 +14,7 @@ tags:
   - developer
   - domain-specific-llms
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - enterprise
   - fine-tuning

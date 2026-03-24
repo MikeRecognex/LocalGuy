@@ -7,7 +7,6 @@ tags:
   - data-privacy
   - edge-ai
   - edge-computing
-  - edge-device
   - edge-inference
   - hardware
   - inference-optimization

@@ -5,7 +5,7 @@ description: Seco unveils a specialized edge AI system-on-module targeting indus
 tags:
   - constrained-deployment
   - edge-ai-hardware
-  - edge-device
+  - edge-computing
   - edge-inference
   - embedded
   - embedded-ai

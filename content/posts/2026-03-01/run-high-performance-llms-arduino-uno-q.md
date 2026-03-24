@@ -5,9 +5,9 @@ description: A practical guide demonstrating how to deploy and run efficient LLM
 tags:
   - advanced
   - daily-digest
+  - edge-computing
   - edge-computing-applications
   - edge-deployment
-  - edge-device
   - edge-inference
   - hardware
   - iot-ai

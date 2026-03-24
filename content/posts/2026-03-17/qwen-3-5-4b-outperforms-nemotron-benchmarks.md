@@ -12,7 +12,7 @@ tags:
   - daily-digest
   - developer
   - edge-ai
-  - edge-device
+  - edge-computing
   - intermediate
   - model-benchmarking
   - model-comparison

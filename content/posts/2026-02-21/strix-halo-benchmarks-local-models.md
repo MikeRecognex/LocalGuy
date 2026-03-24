@@ -7,7 +7,7 @@ tags:
   - benchmark-report
   - compact-models
   - consumer-gpu
-  - edge-device
+  - edge-computing
   - hardware
   - inference-optimization
   - memory-constrained-inference

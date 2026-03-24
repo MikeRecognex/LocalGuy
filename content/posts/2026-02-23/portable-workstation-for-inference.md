@@ -7,7 +7,7 @@ tags:
   - consumer-gpu
   - daily-digest
   - edge-ai
-  - edge-device
+  - edge-computing
   - gpu-cooling
   - hardware
   - inference

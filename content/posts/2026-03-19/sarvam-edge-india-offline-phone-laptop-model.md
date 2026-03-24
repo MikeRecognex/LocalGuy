@@ -9,7 +9,7 @@ tags:
   - data-sovereignty
   - developer
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-inference
   - inference-optimization
   - intermediate

@@ -10,7 +10,7 @@ tags:
   - custom-asic
   - data-privacy
   - dell
-  - edge-device
+  - edge-computing
   - enterprise
   - enterprise-llm-deployment
   - hardware

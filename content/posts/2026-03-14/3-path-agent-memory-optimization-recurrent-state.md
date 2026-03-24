@@ -8,7 +8,7 @@ tags:
   - agents
   - amabito
   - consumer-gpu
-  - edge-device
+  - edge-computing
   - edge-inference
   - hacker-news
   - kv-cache-optimization

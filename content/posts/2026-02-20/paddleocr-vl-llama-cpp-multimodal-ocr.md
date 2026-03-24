@@ -12,8 +12,8 @@ tags:
   - data-privacy
   - developer
   - document-processing
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - image-to-text
   - intermediate

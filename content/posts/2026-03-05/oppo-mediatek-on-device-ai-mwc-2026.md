@@ -9,8 +9,8 @@ tags:
   - developer
   - ecosystem-integration
   - edge-ai-frameworks
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - google-news
   - hardware

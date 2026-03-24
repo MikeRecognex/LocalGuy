@@ -7,7 +7,7 @@ tags:
   - advanced
   - daily-digest
   - edge-ai
-  - edge-device
+  - edge-computing
   - local-inference
   - multimodal
   - multimodal-ai

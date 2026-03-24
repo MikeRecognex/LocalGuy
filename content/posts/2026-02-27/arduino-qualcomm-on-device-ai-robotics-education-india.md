@@ -7,8 +7,8 @@ tags:
   - ai-for-developing-nations
   - constrained-hardware
   - cost-saving
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - education
   - hobbyist

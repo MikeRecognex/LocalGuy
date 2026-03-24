@@ -9,8 +9,8 @@ tags:
   - consumer-gpu
   - cost-saving
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - gpu-memory-optimization
   - inference-optimization
   - memory-optimization

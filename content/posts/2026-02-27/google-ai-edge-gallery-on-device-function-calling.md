@@ -6,7 +6,6 @@ tags:
   - agentic-systems
   - data-privacy
   - edge-computing
-  - edge-device
   - edge-inference
   - edge-privacy-latency
   - function-calling

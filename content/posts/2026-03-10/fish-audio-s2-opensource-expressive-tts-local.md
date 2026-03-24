@@ -4,7 +4,7 @@ date: 2026-03-10
 description: Fish Audio released S2, an open-source TTS model supporting 80+ languages, multi-speaker dialogue generation in a single pass, and natural language emotion tags for precise voice control, with sub-100ms time-to-first-audio.
 tags:
   - audio-latency
-  - edge-device
+  - edge-computing
   - fish-audio
   - inference-optimization
   - local-ai-pipelines

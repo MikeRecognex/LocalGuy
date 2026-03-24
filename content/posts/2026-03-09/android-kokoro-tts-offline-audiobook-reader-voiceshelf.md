@@ -9,8 +9,8 @@ tags:
   - daily-digest
   - developer
   - edge-ai
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - intermediate
   - low-latency

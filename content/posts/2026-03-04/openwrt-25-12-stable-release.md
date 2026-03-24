@@ -6,8 +6,8 @@ tags:
   - cpu-only
   - data-privacy
   - edge-ai-inference
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - hacker-news
   - hardware

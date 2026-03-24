@@ -7,7 +7,7 @@ tags:
   - benchmark-report
   - cautious
   - device-heterogeneity
-  - edge-device
+  - edge-computing
   - enterprise
   - hardware
   - hardware-optimization

@@ -7,7 +7,6 @@ tags:
   - ai-operating-system
   - ai-powered-computing
   - edge-computing
-  - edge-device
   - inference-optimization
   - local-inference
   - novel-architecture

@@ -9,8 +9,8 @@ tags:
   - agents
   - constraints
   - cpu-only
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - memory-optimization
   - model-optimization

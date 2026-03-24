@@ -5,7 +5,7 @@ description: Meta's 2026 smartwatch announcement signals the industry's push tow
 tags:
   - advanced
   - edge-ai-optimization
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hardware-constraints

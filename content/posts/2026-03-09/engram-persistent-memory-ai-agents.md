@@ -13,9 +13,9 @@ tags:
   - daily-digest
   - data-autonomy
   - developer
+  - edge-computing
   - edge-database
   - edge-deployment
-  - edge-device
   - hacker-news
   - hardware
   - intermediate

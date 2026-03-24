@@ -5,8 +5,8 @@ description: Unity demonstrated AI-powered manufacturing workflows at Smart Fact
 tags:
   - advanced
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - edge-inference
   - enterprise
   - google-news

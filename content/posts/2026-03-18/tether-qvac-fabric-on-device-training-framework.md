@@ -10,7 +10,7 @@ tags:
   - data-privacy
   - developer
   - edge-ai
-  - edge-device
+  - edge-computing
   - edge-training
   - enterprise
   - fine-tuning

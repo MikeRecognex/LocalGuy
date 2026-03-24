@@ -7,7 +7,7 @@ tags:
   - batch-processing
   - consumer-gpu
   - daily-digest
-  - edge-device
+  - edge-computing
   - hardware-acceleration
   - inference-optimization
   - memory-optimization

@@ -6,7 +6,7 @@ tags:
   - advanced
   - data-privacy
   - edge-ai
-  - edge-device
+  - edge-computing
   - hardware
   - lpddr6
   - lpddr6-dram

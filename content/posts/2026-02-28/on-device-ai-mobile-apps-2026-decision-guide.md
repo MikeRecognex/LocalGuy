@@ -11,7 +11,7 @@ tags:
   - device-constraints
   - edge-ai-models
   - edge-cloud-comparison
-  - edge-device
+  - edge-computing
   - edge-inference
   - guide
   - hardware-optimization

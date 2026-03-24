@@ -5,8 +5,8 @@ description: Qualcomm and Mihup partner to develop on-device voice AI solutions 
 tags:
   - bfsi-applications
   - data-privacy
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - enterprise-ai-deployment
   - enterprise-security

@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - custom-asic
   - daily-digest
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - hardware-optimization

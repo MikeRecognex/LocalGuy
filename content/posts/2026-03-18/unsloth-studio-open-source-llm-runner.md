@@ -6,8 +6,8 @@ tags:
   - bullish
   - consumer-gpu
   - developer
+  - edge-computing
   - edge-deployment
-  - edge-device
   - enterprise
   - gguf-ecosystem
   - inference

@@ -10,7 +10,7 @@ tags:
   - daily-digest
   - distributed-learning
   - edge-ai
-  - edge-device
+  - edge-computing
   - experiment
   - fine-tuning
   - hardware

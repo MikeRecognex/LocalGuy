@@ -6,7 +6,7 @@ tags:
   - arm-processor
   - daily-digest
   - data-privacy
-  - edge-device
+  - edge-computing
   - edge-inference
   - hardware
   - inference-optimization
