@@ -5,17 +5,13 @@ description: Cloudflare has upgraded its Agents SDK to v0.5.0, featuring a new R
 tags:
   - advanced
   - agents
-  - analysis
-  - bullish
   - cloudflare
   - cost-saving
-  - developer
   - edge-deployment
   - edge-device
   - edge-inference
   - google
   - inference-optimization
-  - intermediate
   - offline-deployment
   - performance-optimization
   - production-ops
@@ -25,7 +21,6 @@ tags:
   - sdk-update
   - serverless-ai
   - serverless-platform
-  - showcase
 mentions:
   - name: Marktechpost.com
     role: publisher

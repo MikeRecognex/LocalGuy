@@ -3,11 +3,31 @@ title: "Qualcomm and Samsung's 30-Year AI Alliance Enters a New Phase as On-Devi
 date: 2026-03-21
 description: "Strategic partnership expansion between Qualcomm and Samsung focused on advancing on-device AI chips, signaling industry momentum toward edge inference and locally-run AI models on consumer devices."
 tags:
+  - analysis
+  - bullish
+  - consumer-device
   - daily-digest
-  - hardware
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
-  - mobile
+  - enterprise
+  - hardware
+  - hardware-acceleration
+  - hardware-optimization
+  - industry-collaboration
   - industry-trends
+  - intermediate
+  - kmjournalnet
+  - local-llms
+  - mobile
+  - news
+  - on-device-ai
+  - on-device-inference
+  - privacy-preserving-ai
+mentions:
+  - name: kmjournal.net
+    role: publisher
 status: draft
 ---
 

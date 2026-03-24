@@ -9,13 +9,10 @@ tags:
   - android-app-deployment
   - android-deployment
   - beginner-friendly
-  - bullish
-  - developer
   - document-processing
   - edge-deployment
   - edge-device
   - hobbyist
-  - intermediate
   - mobile-ai
   - mobile-llm-integration
   - neutral
@@ -24,7 +21,6 @@ tags:
   - on-device-processing
   - performance-optimization
   - release
-  - showcase
 mentions:
   - name: Memio
     role: developer

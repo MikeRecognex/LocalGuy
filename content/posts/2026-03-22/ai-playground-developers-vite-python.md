@@ -3,11 +3,40 @@ title: "AI Playground for Developers Built in Vite and Python"
 date: 2026-03-22
 description: "A new developer-focused platform combining Vite frontend tooling with Python backends, designed to simplify local LLM experimentation and deployment prototyping."
 tags:
+  - bullish
+  - consumer-gpu
+  - context-window-management
   - daily-digest
+  - deployment-prototyping
+  - developer
+  - developer-experience
   - developer-tools
+  - development-environment
   - framework
+  - hacker-news
+  - intermediate
+  - llm-development-workflow
+  - llm-experimentation
   - local-inference
+  - local-llm-deployment
+  - local-llm-development
+  - local-llm-experimentation
+  - model-architecture
+  - model-quantization
+  - neural-kore
+  - neuralkore
   - open-source
+  - rapid-prototyping
+  - showcase
+  - web-development-tools
+  - web-ui-for-llms
+mentions:
+  - name: Neural Kore
+    role: platform-provider
+  - name: NeuralKore
+    role: developer
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

@@ -5,19 +5,15 @@ description: A new inference engine claims to outperform established LLM serving
 tags:
   - advanced
   - algorithmic-innovation
-  - analysis
-  - bullish
   - consumer-gpu
   - cost-saving
   - daily-digest
-  - developer
   - edge-ai-deployment
   - edge-device
   - enterprise
   - inference-engine
   - inference-optimization
   - inference-speed
-  - intermediate
   - llm-serving
   - local-deployment
   - local-llm-deployment

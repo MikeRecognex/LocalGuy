@@ -4,11 +4,8 @@ date: 2026-02-23
 description: Wave Field LLM v4 demonstrates efficient pretraining architecture, reaching 1 billion parameter scale with 825M actual parameters trained on 1.33B tokens in just 13.2 hours, showing significant progress toward resource-efficient model training.
 tags:
   - advanced
-  - analysis
-  - bullish
   - computational-complexity
   - custom-model-development
-  - developer
   - efficiency
   - efficient-training
   - enterprise
@@ -21,7 +18,6 @@ tags:
   - optimization
   - rapid-model-iteration
   - resource-efficiency
-  - showcase
   - training
 status: published
 ---

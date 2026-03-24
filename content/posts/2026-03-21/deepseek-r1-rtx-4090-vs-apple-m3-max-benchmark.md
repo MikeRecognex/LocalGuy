@@ -3,11 +3,31 @@ title: "DeepSeek R1 RTX 4090 vs Apple M3 Max: Benchmark & Performance Guide"
 date: 2026-03-21
 description: "Comprehensive performance comparison between DeepSeek R1 running on RTX 4090 and Apple M3 Max for local inference, helping practitioners choose the right hardware for their deployments."
 tags:
+  - apple-silicon
+  - benchmark
+  - benchmark-report
+  - comparison
+  - consumer-gpu
+  - cost-saving
   - daily-digest
   - deepseek
-  - benchmark
+  - developer
+  - enterprise
   - hardware
+  - hardware-comparison
+  - hardware-selection
+  - inference-speed
+  - infrastructure-planning
+  - intermediate
+  - local-llm-deployment
+  - memory-management
+  - neutral
+  - performance-benchmarking
   - performance-optimization
+  - sitepoint
+mentions:
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

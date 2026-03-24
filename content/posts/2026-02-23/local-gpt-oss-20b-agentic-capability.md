@@ -6,22 +6,17 @@ tags:
   - agent-framework
   - agentic-ai
   - agents
-  - analysis
-  - bullish
   - cloud-independence
   - consumer-gpu
   - cost-saving
   - daily-digest
-  - developer
   - hardware-optimization
-  - intermediate
   - local-inference
   - local-llm
   - model-optimization
   - model-size
   - open-source
   - privacy-compliance
-  - showcase
 status: published
 ---
 

@@ -10,12 +10,13 @@ tags:
   - consumer-hardware
   - conversational-memory
   - daily-digest
+  - data-privacy
   - decentralized-ai
   - developer
   - edge-ai-deployment
   - edge-device
   - fine-tuning
-  - intermediate
+  - latency-reduction
   - local-deployment
   - memory-optimization
   - model-learning

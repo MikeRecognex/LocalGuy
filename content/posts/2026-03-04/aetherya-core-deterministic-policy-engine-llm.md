@@ -8,7 +8,6 @@ tags:
   - agent-governance
   - agents
   - ai-safety
-  - bullish
   - deterministic-policy-engine
   - edge-inference
   - enterprise
@@ -23,7 +22,6 @@ tags:
   - open-source
   - release
   - safety
-  - showcase
   - therya
 mentions:
   - name: Hacker News

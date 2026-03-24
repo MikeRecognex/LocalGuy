@@ -3,14 +3,11 @@ title: Simile AI Raises $100M Series A for Local AI Infrastructure
 date: 2026-02-13
 description: Simile AI secures major funding round, likely focusing on improving local AI deployment and inference capabilities for enterprise applications.
 tags:
-  - analysis
-  - bullish
   - deployment-outlook
   - edge-inference
   - enterprise
   - funding-round
   - hardware-optimization
-  - intermediate
   - local-ai-deployment
   - local-ai-infrastructure
   - local-deployment

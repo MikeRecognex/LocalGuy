@@ -4,13 +4,10 @@ date: 2026-03-10
 description: PhotoPrism enhances its local AI capabilities with improved integration of Ollama, enabling on-device image recognition and photo organization without cloud dependencies.
 tags:
   - applications
-  - bullish
   - consumer-hardware
   - data-privacy
-  - developer
   - edge-inference
   - image-recognition
-  - intermediate
   - linuxiac
   - local-ai
   - local-deployment-infrastructure

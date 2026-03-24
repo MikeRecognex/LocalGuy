@@ -5,13 +5,9 @@ description: Research demonstrates how to extract and discover 100,000 interpret
 tags:
   - 8b-models
   - advanced
-  - analysis
-  - bullish
   - concept-extraction
-  - developer
   - edge-deployment
   - inference-efficiency
-  - intermediate
   - interpretability
   - local-llm-optimization
   - model-analysis

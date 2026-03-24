@@ -3,11 +3,35 @@ title: "Custom AI Smart Speaker"
 date: 2026-03-16
 description: "A new project enables building fully local AI-powered smart speakers without reliance on cloud services, allowing complete control over model selection and data privacy."
 tags:
+  - bullish
+  - cloud-independence
+  - consumer-hardware
+  - consumer-hardware-ai
+  - consumer-hardware-integration
   - daily-digest
+  - data-privacy
+  - developer
   - edge-deployment
-  - local-inference
+  - edge-device
+  - edge-inference
+  - hacker-news
   - hardware
+  - hobbyist
+  - intermediate
+  - local-inference
+  - local-smart-speakers
+  - offline-ai
+  - openhome
+  - privacy-preservation
+  - showcase
+  - smart-speaker-development
   - voice
+  - voice-ai-pipeline
+mentions:
+  - name: OpenHome
+    role: project-creator
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

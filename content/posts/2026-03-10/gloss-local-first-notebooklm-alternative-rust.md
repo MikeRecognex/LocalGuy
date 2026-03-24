@@ -3,13 +3,10 @@ title: "Gloss: Open-Source, Local-First RAG Alternative to NotebookLM Built in R
 date: 2026-03-10
 description: A developer released Gloss, a privacy-focused research workspace featuring hybrid search, explicit RAG control, and local model support—a fully open alternative to Google's NotebookLM without proprietary API dependencies.
 tags:
-  - bullish
   - data-governance
   - data-privacy
-  - developer
   - enterprise
   - hybrid-search
-  - intermediate
   - local-deployment
   - local-llm-workflows
   - local-rag
@@ -18,7 +15,6 @@ tags:
   - rag
   - rag-pipeline
   - release
-  - showcase
   - tools
 status: published
 ---

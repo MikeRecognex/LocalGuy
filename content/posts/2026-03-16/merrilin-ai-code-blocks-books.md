@@ -3,11 +3,28 @@ title: "Show HN: Merrilin.ai – Code Blocks in Your Books, Finally"
 date: 2026-03-16
 description: "Merrilin.ai introduces interactive code blocks in digital books, likely leveraging local or self-hosted LLMs to provide executable code examples without external API calls during reading."
 tags:
+  - bullish
   - daily-digest
-  - tools
-  - education
-  - local-inference
+  - data-privacy
+  - developer
+  - developer-education
   - developer-experience
+  - education
+  - hacker-news
+  - interactive-code-blocks
+  - interactive-coding
+  - intermediate
+  - local-inference
+  - merrilinai
+  - performance-optimization
+  - showcase
+  - technical-learning
+  - tools
+mentions:
+  - name: Merrilin.ai
+    role: product
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

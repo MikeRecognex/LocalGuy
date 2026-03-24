@@ -3,13 +3,10 @@ title: Snapdragon Wear Elite Unveiled at MWC 2026, Advancing Wearable AI Inferen
 date: 2026-03-08
 description: Qualcomm's Snapdragon Wear Elite processor brings enhanced AI capabilities to wearable devices. The new chip enables lightweight model deployment on smartwatches and fitness trackers.
 tags:
-  - bullish
-  - developer
   - edge-device
   - edge-inference
   - edge-inference-optimization
   - hardware
-  - intermediate
   - lightweight-model-deployment
   - model-efficiency
   - model-quantization

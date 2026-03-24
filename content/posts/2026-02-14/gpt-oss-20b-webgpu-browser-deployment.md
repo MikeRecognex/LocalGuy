@@ -35,9 +35,6 @@ tags:
   - webgpu
   - webgpu-acceleration
   - webml-community
-mentions:
-  - name: webml-community
-    role: community
 status: draft
 ---
 

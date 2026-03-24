@@ -8,12 +8,9 @@ tags:
   - agents
   - ai-operator
   - ai-software-development
-  - analysis
-  - bullish
   - containerized-llm-deployment
   - daily-digest
   - deployment
-  - developer
   - gitops-deployment
   - hacker-news
   - kubernetes
@@ -25,7 +22,6 @@ tags:
   - private-infrastructure-deployment
   - self-building-agents
   - self-hosted-ai
-  - showcase
   - vendor-lock-in-avoidance
 mentions:
   - name: Hacker News

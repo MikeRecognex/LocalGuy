@@ -1,13 +1,47 @@
 ---
 title: "How AI Agents Should Pay for API Calls: X402 and USDC Verification on Base"
 date: 2026-03-17
-description: "Explores emerging payment mechanisms and verification protocols for autonomous AI agents accessing external APIs, relevant for local agentic systems that need to interact with cloud services."
+description: Explores emerging payment mechanisms and verification protocols for autonomous AI agents accessing external APIs, relevant for local agentic systems that need to interact with cloud services.
 tags:
-  - daily-digest
+  - advanced
+  - agent-orchestration
+  - agentic-system-security
+  - agentic-systems-security
   - agents
+  - ai-agent-payments
+  - analysis
+  - api-cost-management
+  - api-interoperability
+  - api-payment-protocols
   - architecture
+  - base
+  - blockchain-payments
+  - bullish
+  - decentralized-access
+  - decentralized-access-control
+  - decentralized-payments
   - deployment
+  - developer
+  - edge-ai-deployment
+  - edge-device
+  - ethereum-l2-base
+  - hacker-news
+  - hybrid-ai-architecture
+  - hybrid-ai-architectures
+  - intermediate
+  - neutral
+  - on-device-payments
   - open-source
+  - paywatcher
+  - protocol-design
+  - web3-protocols
+mentions:
+  - name: Base
+    role: blockchain-network
+  - name: Hacker News
+    role: publisher
+  - name: paywatcher
+    role: publisher
 status: draft
 ---
 

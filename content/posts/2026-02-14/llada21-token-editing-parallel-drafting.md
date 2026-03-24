@@ -6,12 +6,16 @@ tags:
   - advanced
   - bullish
   - consumer-gpu
+  - consumer-hardware
   - cost-saving
+  - decoding-methods
   - developer
   - developer-tooling
   - error-correction
   - inference-efficiency
+  - inference-error-correction
   - inference-speed
+  - intermediate
   - llm-model
   - local-inference
   - localllama
@@ -20,11 +24,13 @@ tags:
   - parallel-processing
   - production-ops
   - release
+  - retroactive-token-editing
+  - rlocalllama
   - token-editing
 
 mentions:
   - name: LocalLLaMA
-    role: source
+    role: community
 status: draft
 ---
 

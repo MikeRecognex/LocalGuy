@@ -4,15 +4,11 @@ date: 2026-02-27
 description: Analysis of how Android devices are increasingly capable of delivering AI features offline, reducing dependency on cloud connectivity and establishing on-device inference as a core platform capability.
 tags:
   - ai-ecosystem-growth
-  - analysis
   - android
   - android-ai-hardware
-  - bullish
-  - developer
   - edge-deployment
   - edge-device
   - edge-inference
-  - intermediate
   - local-llm-deployment
   - mobile
   - model-quantization

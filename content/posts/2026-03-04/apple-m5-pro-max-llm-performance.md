@@ -5,17 +5,13 @@ description: Apple's new M5 chip generation delivers up to 4× faster LLM prompt
 tags:
   - ai-accessibility
   - ai-strategy
-  - analysis
   - apple
   - apple-silicon
   - beginner-friendly
-  - bullish
-  - developer
   - edge-device
   - edge-inference
   - hardware
   - hobbyist
-  - intermediate
   - llm-inference-speed
   - m5
   - model-deployment

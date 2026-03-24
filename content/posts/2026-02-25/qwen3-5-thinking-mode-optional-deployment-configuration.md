@@ -3,22 +3,18 @@ title: Qwen3.5 Thinking Mode Can Be Disabled for Production Inference Optimizati
 date: 2026-02-25
 description: Users can now disable Qwen3.5's thinking capability via llama.cpp configuration, enabling optimized inference parameters for instruct mode deployments without the reasoning overhead.
 tags:
-  - bullish
   - computational-efficiency
   - configuration
   - deployment-strategy
-  - developer
   - inference
   - inference-optimization
   - instruction-following
-  - intermediate
   - llama-cpp
   - model-configuration
   - performance-tuning
   - qwen
   - release
   - sampling-parameters
-  - showcase
   - token-generation-optimization
 status: published
 ---

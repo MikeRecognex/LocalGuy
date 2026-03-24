@@ -3,14 +3,10 @@ title: "Open-Source + AI: ggml Joins Hugging Face, llama.cpp Stays Open—Local 
 date: 2026-02-21
 description: ggml, the foundational library powering llama.cpp and other local inference tools, joins Hugging Face while maintaining its open-source commitment, securing the future of the local LLM ecosystem.
 tags:
-  - analysis
-  - bullish
-  - developer
   - ecosystem-integration
   - ecosystem-stability
   - ggml
   - infrastructure
-  - intermediate
   - llama-cpp
   - local-llms
   - news

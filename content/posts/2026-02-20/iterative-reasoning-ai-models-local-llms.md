@@ -14,6 +14,7 @@ tags:
   - edge-deployment
   - hacker-news
   - hybrid-ai-systems
+  - hybrid-inference
   - iterative-reasoning
   - iterative-reasoning-failure
   - local-agents

@@ -7,11 +7,8 @@ tags:
   - article-summarization
   - browser-extension
   - browser-inference
-  - bullish
   - client-side-deployment
-  - developer
   - inference-optimization
-  - intermediate
   - local-llm-applications
   - model-quantization
   - news
@@ -19,7 +16,6 @@ tags:
   - practical-tools
   - privacy-compliance
   - prompt-engineering
-  - showcase
   - workflow-integration
 mentions:
   - name: Hacker News

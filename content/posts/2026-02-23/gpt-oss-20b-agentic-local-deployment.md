@@ -8,22 +8,18 @@ tags:
   - agentic-systems
   - agents
   - autonomous-task-execution
-  - bullish
   - consumer-gpu
   - consumer-hardware-deployment
   - data-privacy
-  - developer
   - enterprise
   - gpt-oss
   - inference
-  - intermediate
   - large-language-models
   - latency-reduction
   - local-deployment
   - local-embeddings
   - local-llm-deployment
   - open-source
-  - showcase
 mentions:
   - name: ZeroClaw Labs
     role: developer

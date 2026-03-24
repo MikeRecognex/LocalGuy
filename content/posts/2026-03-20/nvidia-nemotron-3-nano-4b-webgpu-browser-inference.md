@@ -3,11 +3,34 @@ title: "NVIDIA Nemotron 3 Nano 4B Enables On-Device Inference Directly in Web Br
 date: 2026-03-20
 description: "NVIDIA's 4B Nemotron 3 Nano model now runs efficiently in web browsers using WebGPU, achieving 75 tokens per second on consumer hardware and democratizing edge AI inference without local installation."
 tags:
+  - advanced
+  - apple-silicon
+  - browser-inference
+  - bullish
+  - consumer-device
+  - consumer-gpu
   - daily-digest
+  - deployment-simplification
+  - developer
+  - edge-deployment
   - edge-inference
-  - webgpu
+  - inference-speed
+  - intermediate
+  - low-latency-inference
+  - model-architecture
+  - model-size-optimization
+  - news
   - nvidia
+  - on-device-inference
+  - on-device-privacy
   - open-source
+  - release
+  - transformersjs
+  - webgpu
+  - webgpu-deployment
+mentions:
+  - name: Transformers.js
+    role: library
 status: draft
 ---
 

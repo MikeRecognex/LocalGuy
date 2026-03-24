@@ -39,8 +39,10 @@ tags:
   - workflow-automation
   - workflow-integration
 mentions:
+  - name: GitHub
+    role: repository-host
   - name: Hacker News
-    role: publisher
+    role: source
 status: draft
 ---
 

@@ -28,7 +28,6 @@ tags:
   - inference-optimization
   - inference-performance
   - inference-speed
-  - intermediate
   - llm-frameworks
   - local-deployment
   - local-inference
@@ -46,9 +45,9 @@ tags:
   - resource-optimization
 mentions:
   - name: arXiv
-    role: publisher
+    role: repository
   - name: Hacker News
-    role: publisher
+    role: source
 status: draft
 ---
 

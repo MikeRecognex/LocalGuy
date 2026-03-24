@@ -5,15 +5,11 @@ description: Modern laptops are increasingly optimized for local AI inference th
 tags:
   - ai-accelerators
   - ai-in-laptops
-  - analysis
-  - bullish
   - consumer-gpu
-  - developer
   - economic-impact-local-ai
   - edge-device
   - hardware
   - hardware-acceleration
-  - intermediate
   - laptop-ai-accelerators
   - laptops
   - local-inference

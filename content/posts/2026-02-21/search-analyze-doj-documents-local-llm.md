@@ -5,12 +5,10 @@ description: A practical demonstration of deploying local LLMs for large-scale d
 tags:
   - advanced
   - audit-trails
-  - bullish
   - data-sovereignty
   - document-analysis
   - enterprise
   - enterprise-ai-applications
-  - intermediate
   - local-llm-deployment
   - offline-inference
   - open-source
@@ -18,7 +16,6 @@ tags:
   - privacy-preserving-ai
   - rag-pipeline
   - self-hosted-llm
-  - showcase
   - use-case
 mentions:
   - name: Department of Justice

@@ -10,6 +10,7 @@ tags:
   - application-integration
   - bullish
   - custom-application-development
+  - custom-applications
   - daily-digest
   - developer
   - edge-device

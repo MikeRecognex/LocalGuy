@@ -5,14 +5,11 @@ description: Technical deep dive into optimizing llama.cpp performance on ARM Ne
 tags:
   - advanced
   - ai-inference
-  - analysis
   - arm
   - arm-inference
   - arm-processor
   - arm-processor-inference
-  - bullish
   - cpu-only
-  - developer
   - edge-ai
   - edge-deployment
   - edge-device

@@ -6,13 +6,10 @@ tags:
   - apple
   - apple-silicon
   - audio-transcription
-  - bullish
-  - developer
   - document-processing
   - edge-deployment
   - enterprise
   - hardware-optimization
-  - intermediate
   - local-transcription
   - macos-application
   - offline-deployment
@@ -24,7 +21,6 @@ tags:
   - privacy-first-ai
   - privacy-preserving-ai
   - professional
-  - showcase
   - speech-recognition
   - voice
 mentions:

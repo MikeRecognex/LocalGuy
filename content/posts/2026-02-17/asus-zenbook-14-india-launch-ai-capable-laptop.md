@@ -3,23 +3,19 @@ title: ASUS Zenbook 14 Launches in India with AI-Capable Hardware, Starting at R
 date: 2026-02-17
 description: ASUS introduces the Zenbook 14 in the Indian market with processors optimized for local AI inference, making capable on-device LLM deployment accessible to a broader geographic audience at competitive pricing. The launch reflects growing demand for edge AI capabilities in emerging markets.
 tags:
-  - analysis
   - asus
   - beginner-friendly
-  - bullish
   - cloud-alternatives
   - consumer-gpu
   - cost-effectiveness
   - cost-saving
   - cpu-only
   - decentralized-ai
-  - developer
   - edge-ai
   - edge-deployment
   - edge-device
   - hardware-ecosystem
   - hobbyist
-  - intermediate
   - laptop-launch
   - market-expansion
   - neutral

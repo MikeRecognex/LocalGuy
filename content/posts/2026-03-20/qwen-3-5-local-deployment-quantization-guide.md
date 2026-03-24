@@ -3,11 +3,29 @@ title: "Qwen 3.5 Emerges as Top Performer for Local Deployment with Extensive Qu
 date: 2026-03-20
 description: "Qwen 3.5 is establishing itself as a highly versatile model for local inference, with community members successfully creating dozens of custom quantizations and sharing best practices across different inference engines and hardware configurations."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - framework-compatibility
+  - hardware-compatibility
+  - inference-frameworks
+  - intermediate
+  - local-inference
+  - model-capabilities
+  - model-optimization
+  - model-performance
+  - model-quantization
   - open-source
+  - production-deployment
+  - quantisation
   - qwen
+  - rlocalllama
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

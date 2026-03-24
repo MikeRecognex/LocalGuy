@@ -10,12 +10,9 @@ tags:
   - ai-agent-framework
   - ai-workflow-orchestration
   - alibaba
-  - bullish
   - daily-digest
-  - developer
   - edge-deployment
   - edge-device
-  - intermediate
   - local-deployment
   - mcp
   - model-context-protocol
@@ -23,7 +20,6 @@ tags:
   - open-source-ai
   - release
   - self-hosted-ai
-  - showcase
   - tool-use
 status: published
 ---

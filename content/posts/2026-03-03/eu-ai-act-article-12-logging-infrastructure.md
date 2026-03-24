@@ -5,21 +5,17 @@ description: New open-source tooling enables compliance with EU AI Act Article 1
 tags:
   - ai-logging
   - ai-regulation
-  - analysis
-  - bullish
   - business-strategy
   - compliance
   - enterprise
   - eu-ai-act
   - eu-ai-act-compliance
-  - intermediate
   - local-inference-compliance
   - local-llm-deployment
   - logging
   - open-source
   - open-source-tooling
   - regulatory-compliance
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

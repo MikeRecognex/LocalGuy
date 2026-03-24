@@ -39,6 +39,8 @@ tags:
 mentions:
   - name: GNOME
     role: developer
+  - name: Newelle
+    role: project
   - name: Phoronix
     role: publisher
 status: draft

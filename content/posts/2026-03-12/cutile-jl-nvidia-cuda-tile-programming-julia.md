@@ -4,12 +4,10 @@ date: 2026-03-12
 description: Cutile.jl enables tile-based CUDA programming in Julia, offering improved GPU utilization and performance optimization capabilities for compute-intensive workloads including LLM inference.
 tags:
   - advanced
-  - bullish
   - consumer-gpu
   - cuda
   - cuda-tile-programming
   - datacenter-gpu
-  - developer
   - gpu-optimization
   - gpu-utilization
   - hacker-news
@@ -22,7 +20,6 @@ tags:
   - performance-optimization
   - performance-tuning
   - resource-efficiency
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

@@ -11,11 +11,13 @@ tags:
   - daily-digest
   - developer
   - distillation
+  - edge-ai
   - edge-computing
   - edge-deployment
   - edge-device
   - edge-inference
   - edge-inference-optimization
+  - enterprise
   - intermediate
   - mirai
   - model-deployment
@@ -23,10 +25,13 @@ tags:
   - news
   - offline-deployment
   - on-device-ai-optimization
+  - on-device-inference-optimization
   - prisma
   - privacy
   - privacy-compliance
+  - privacy-critical-ai
   - privacy-critical-applications
+  - privacy-preserving-ai
   - production-ops
   - quantisation
   - reface
@@ -38,11 +43,11 @@ tags:
   - whalesbook
 mentions:
   - name: Mirai
-    role: company
+    role: funded company
   - name: Reface
-    role: founder-company
+    role: creator
   - name: Prisma
-    role: founder-company
+    role: creator
   - name: Mirai
     role: developer
   - name: Whalesbook

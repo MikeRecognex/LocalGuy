@@ -4,10 +4,7 @@ date: 2026-02-11
 description: A developer demonstrates building a large-scale RAG (Retrieval-Augmented Generation) pipeline processing over 2 million pages, showcasing advanced techniques for local document processing and retrieval optimization.
 tags:
   - advanced
-  - analysis
-  - bullish
   - chunking-optimization
-  - developer
   - document-processing
   - embedding-generation
   - enterprise
@@ -23,7 +20,6 @@ tags:
   - rag-retrieval-performance
   - rag-scaling
   - retrieval-optimization
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: source

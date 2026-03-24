@@ -4,14 +4,11 @@ date: 2026-02-25
 description: Users are reporting that Qwen3.5-27B offers the ideal balance of performance and resource efficiency for local inference, with verified setups running at 19.7 tokens/sec on consumer GPUs with reasonable memory footprints.
 tags:
   - benchmark
-  - bullish
   - consumer-gpu
   - context-window-management
-  - developer
   - hardware
   - inference-frameworks
   - inference-speed
-  - intermediate
   - local-llm-deployment
   - model-quantization
   - performance-benchmarking
@@ -19,7 +16,6 @@ tags:
   - quantisation
   - qwen
   - qwen3-5-27b
-  - showcase
   - tutorial
 mentions:
   - name: r/LocalLLaMA

@@ -4,18 +4,14 @@ date: 2026-03-04
 description: A developer shares detailed analysis of cost savings achieved by using Qwen 3.5-35B locally instead of cloud-based coding assistants, demonstrating substantial financial benefits.
 tags:
   - ai-assisted-development
-  - analysis
   - api-cost-reduction
-  - bullish
   - cloud-to-local-migration
   - cloud-vs-local-ai
   - coding
   - cost-analysis
   - cost-saving
-  - developer
   - economics
   - enterprise
-  - intermediate
   - local-hardware
   - local-llm-benefits
   - local-llm-deployment

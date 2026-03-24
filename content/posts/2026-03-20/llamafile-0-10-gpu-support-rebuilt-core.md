@@ -3,11 +3,29 @@ title: "Llamafile 0.10 Released with GPU Support and Rebuilt Core"
 date: 2026-03-20
 description: "Mozilla's Llamafile, the portable single-file LLM runner, reaches version 0.10 with enhanced GPU acceleration and a completely rebuilt inference core. This update makes it easier than ever to run large language models locally without complex dependencies."
 tags:
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - llamafile
+  - dependency-management
+  - deployment-strategy
+  - developer
   - gpu-acceleration
-  - open-source
   - inference
+  - inference-engine
+  - inference-speed
+  - intermediate
+  - llamafile
+  - local-inference
+  - local-llm-deployment
+  - model-portability
+  - open-source
+  - phoronix
+  - release
+  - showcase
+mentions:
+  - name: Phoronix
+    role: publisher
 status: draft
 ---
 

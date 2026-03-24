@@ -3,11 +3,31 @@ title: "ASUS ExpertCenter PN55 Mini PC Combines AMD AI CPU and 55 TOPS NPU"
 date: 2026-03-20
 description: "ASUS launches a ruggedized industrial mini PC featuring AMD's latest AI-optimized CPU and a dedicated 55 TOPS NPU, purpose-built for on-device inference deployments in demanding environments."
 tags:
-  - daily-digest
-  - hardware
   - amd
-  - npu
+  - analysis
+  - bullish
+  - cpu-optimization
+  - cpu-orchestration
+  - custom-asic
+  - daily-digest
+  - developer
+  - edge-device
   - edge-inference
+  - edge-llm-deployment
+  - enterprise
+  - hardware
+  - industrial-hardware
+  - intermediate
+  - npu
+  - npu-inference
+  - npu-performance
+  - performance-per-watt
+  - release
+  - smbtech
+  - specialized-ai-hardware
+mentions:
+  - name: SMBtech
+    role: publisher
 status: draft
 ---
 

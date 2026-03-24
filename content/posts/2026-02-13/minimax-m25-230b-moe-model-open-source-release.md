@@ -4,18 +4,14 @@ date: 2026-02-13
 description: MiniMax officially confirms open-source release of M2.5, a 230B parameter MoE model with only 10B active parameters, showing impressive SWE-Bench performance at 80.2%.
 tags:
   - advanced
-  - analysis
   - benchmark-performance
   - benchmarks
-  - bullish
   - code-generation-benchmarking
   - coding-llms
   - cost-saving
-  - developer
   - developer-tooling
   - hugging-face
   - inference-cost-reduction
-  - intermediate
   - local-deployment
   - memory-optimization
   - minimax

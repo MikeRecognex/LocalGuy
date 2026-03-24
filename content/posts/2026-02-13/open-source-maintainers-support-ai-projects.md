@@ -4,11 +4,8 @@ date: 2026-02-13
 description: GitHub outlines new initiatives to support maintainers of open source projects, potentially benefiting local LLM framework developers and tool creators.
 tags:
   - beginner-friendly
-  - bullish
   - community-support
-  - developer
   - developer-tooling
-  - intermediate
   - llama
   - llama-cpp
   - llm-framework-development

@@ -3,13 +3,10 @@ title: GPU-Accelerated DataFrame Library for Local Inference Workloads
 date: 2026-02-16
 description: A new DataFrame library that runs on GPUs, accelerators, and alternative hardware, enabling efficient data processing for local AI inference pipelines.
 tags:
-  - analysis
-  - bullish
   - consumer-gpu
   - cpu-only
   - data-preprocessing
   - data-processing-optimization
-  - developer
   - developer-tooling
   - document-processing
   - edge-device
@@ -17,7 +14,6 @@ tags:
   - gpu-acceleration
   - gpu-data-processing
   - inference-optimization
-  - intermediate
   - local-inference
   - local-inference-optimization
   - model-fine-tuning
@@ -26,7 +22,6 @@ tags:
   - rag
   - rag-pipeline
   - release
-  - showcase
 mentions:
   - name: GitHub
     role: platform

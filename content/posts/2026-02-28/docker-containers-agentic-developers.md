@@ -5,16 +5,13 @@ description: KDnuggets highlights essential Docker container setups for develope
 tags:
   - agentic-ai
   - agents
-  - bullish
   - containerization
   - deployment
-  - developer
   - docker
   - docker-containers
   - docker-deployment
   - edge-deployment
   - environment-management
-  - intermediate
   - llm-agents
   - local-inference
   - local-inference-engines

@@ -5,14 +5,11 @@ description: Community releases optimized GGUF quantizations of Qwen 3.5-35B unc
 tags:
   - benchmark
   - benchmark-report
-  - bullish
   - consumer-gpu
   - daily-digest
-  - developer
   - edge-device
   - gguf
   - hardware-optimization
-  - intermediate
   - local-inference
   - model-accessibility
   - model-benchmarking

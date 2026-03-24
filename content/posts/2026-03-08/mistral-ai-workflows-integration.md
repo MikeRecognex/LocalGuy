@@ -5,12 +5,9 @@ description: Mistral AI expands its local deployment capabilities by integrating
 tags:
   - agent-based-applications
   - agents
-  - bullish
   - consumer-gpu
-  - developer
   - edge-ai
   - edge-device
-  - intermediate
   - latency-reduction
   - local-llm-deployment
   - local-model-orchestration

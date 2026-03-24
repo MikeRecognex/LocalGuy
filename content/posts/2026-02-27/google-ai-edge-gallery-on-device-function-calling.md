@@ -4,16 +4,13 @@ date: 2026-02-27
 description: Google introduces on-device function calling capabilities in their AI Edge Gallery, enabling local LLM inference with structured output generation without cloud dependencies.
 tags:
   - agentic-systems
-  - bullish
   - data-privacy
-  - developer
   - edge-computing
   - edge-device
   - edge-inference
   - edge-privacy-latency
   - function-calling
   - google
-  - intermediate
   - llm-tool-integration
   - local-llm-inference
   - news

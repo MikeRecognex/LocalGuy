@@ -19,6 +19,7 @@ tags:
   - developer
   - developer-tooling
   - fine-tuning
+  - generative-ai-applications
   - hacker-news
   - image-generation
   - intermediate
@@ -33,7 +34,7 @@ tags:
   - showcase
 mentions:
   - name: CozAI Photo
-    role: solution provider
+    role: solution-provider
   - name: Hacker News
     role: publisher
 status: draft

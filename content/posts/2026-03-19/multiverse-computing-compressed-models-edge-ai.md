@@ -1,13 +1,35 @@
 ---
-title: "Multiverse Computing Targets On-Device AI With Compressed Models and New API Portal"
+title: Multiverse Computing Targets On-Device AI With Compressed Models and New API Portal
 date: 2026-03-19
-description: "Multiverse Computing has launched compressed model variants and a new API portal specifically designed for on-device AI deployment. The tools aim to reduce model size and latency while maintaining performance for edge inference scenarios."
+description: Multiverse Computing has launched compressed model variants and a new API portal specifically designed for on-device AI deployment. The tools aim to reduce model size and latency while maintaining performance for edge inference scenarios.
 tags:
-  - daily-digest
-  - quantisation
+  - analysis
+  - api-management
+  - bullish
+  - developer
+  - developer-tooling
+  - edge-device
   - edge-inference
-  - model-compression
   - hardware
+  - hardware-optimization
+  - intermediate
+  - latency-reduction
+  - local-llm-deployment
+  - model-compression
+  - multiverse-computing
+  - on-device-ai-ecosystem
+  - on-device-deployment
+  - production-tools
+  - quantisation
+  - release
+  - tipranks
+mentions:
+  - name: Multiverse Computing
+    role: developer
+  - name: Multiverse Computing
+    role: tool-developer
+  - name: TipRanks
+    role: publisher
 status: draft
 ---
 

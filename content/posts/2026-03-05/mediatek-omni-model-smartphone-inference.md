@@ -4,14 +4,11 @@ date: 2026-03-05
 description: MediaTek is making significant progress on its Omni model, a multimodal AI architecture designed for efficient on-device inference across smartphones, representing a major step toward practical edge deployment of capable models.
 tags:
   - apple-silicon
-  - bullish
-  - developer
   - edge-deployment
   - edge-device
   - edge-inference
   - hardware
   - hardware-software-optimization
-  - intermediate
   - local-deployment
   - local-deployment-benefits
   - mobile-ai

@@ -3,14 +3,10 @@ title: Kioxia Sampling UFS 5.0 Embedded Flash Memory for Next-Generation Mobile 
 date: 2026-02-24
 description: Kioxia's UFS 5.0 flash memory devices offer substantial performance improvements for mobile devices, enabling faster model loading and inference for on-device LLMs on the next generation of smartphones.
 tags:
-  - analysis
-  - bullish
   - consumer-mobile
-  - developer
   - edge-device
   - flash-memory
   - hardware
-  - intermediate
   - mobile
   - mobile-ai
   - model-quantization

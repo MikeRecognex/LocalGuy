@@ -3,10 +3,33 @@ title: "Apple's On-Device AI Raises Privacy Alarms Across British Parliament"
 date: 2026-03-16
 description: "Parliamentary scrutiny of Apple's on-device AI implementations surfaces regulatory considerations that will shape privacy-preserving inference across the industry. The debate underscores growing interest in local processing as a privacy control."
 tags:
+  - abc-money
+  - ai-privacy-regulation
+  - ai-regulation
+  - analysis
+  - auditable-ai
+  - british-parliament
+  - bullish
+  - cautious
   - daily-digest
-  - privacy
+  - developer
+  - enterprise
+  - intermediate
+  - local-inference-privacy
   - on-device
+  - on-device-ai
+  - open-source-ai
+  - open-source-llms
+  - privacy
+  - privacy-compliance
+  - privacy-preserving-ai
   - regulation
+  - regulatory-compliance
+mentions:
+  - name: British Parliament
+    role: regulator
+  - name: ABC Money
+    role: publisher
 status: draft
 ---
 

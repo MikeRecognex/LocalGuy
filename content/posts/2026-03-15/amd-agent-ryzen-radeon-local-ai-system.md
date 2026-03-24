@@ -4,20 +4,16 @@ date: 2026-03-15
 description: AMD announces a new integrated system designed specifically for local AI workloads, combining Ryzen CPUs with Radeon GPU acceleration for efficient inference.
 tags:
   - amd
-  - analysis
   - batch-inference
-  - bullish
   - consumer-gpu
   - cost-saving
   - cpu-gpu-integration
   - cpu-only
-  - developer
   - enterprise
   - gpu-acceleration
   - hardware
   - inference-speed
   - integrated-hardware-system
-  - intermediate
   - llm-deployment
   - local-inference
   - release

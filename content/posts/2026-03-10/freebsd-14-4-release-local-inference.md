@@ -3,9 +3,7 @@ title: "FreeBSD 14.4 Released: Implications for Local LLM Deployment"
 date: 2026-03-10
 description: FreeBSD 14.4 brings performance improvements and enhanced system reliability that benefit self-hosted LLM inference on BSD-based systems.
 tags:
-  - bullish
   - deployment-platform
-  - developer
   - edge-deployment
   - edge-device
   - freebsd
@@ -15,7 +13,6 @@ tags:
   - hacker-news
   - hardware
   - inference-frameworks
-  - intermediate
   - local-llm-deployment
   - memory-management
   - model-quantization

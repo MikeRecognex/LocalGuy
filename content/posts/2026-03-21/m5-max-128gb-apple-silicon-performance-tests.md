@@ -3,11 +3,31 @@ title: "Apple M5 Max 128GB real-world performance benchmarks for local inference
 date: 2026-03-21
 description: "A hands-on evaluation of the M5 Max MacBook with 128GB unified memory reveals practical inference speeds and model-loading capabilities for developers transitioning from Raspberry Pi and M3 setups."
 tags:
-  - daily-digest
+  - advanced
   - apple-silicon
-  - hardware
+  - apple-silicon-performance
   - benchmark
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - hardware
+  - hardware-transition
+  - inference-speed
+  - intermediate
+  - large-model-deployment
+  - local-inference
   - m5-max
+  - model-capacity
+  - pcie-bottlenecks
+  - production-inference-systems
+  - rlocalllama
+  - unified-memory-architecture
+mentions:
+  - name: r/LocalLLaMA
+    role: source-community
 status: draft
 ---
 

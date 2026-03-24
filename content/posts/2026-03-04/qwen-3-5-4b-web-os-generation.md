@@ -3,19 +3,15 @@ title: Qwen 3.5-4B Generates Fully Functional OS in Single Prompt
 date: 2026-03-04
 description: A user demonstrates Qwen 3.5-4B generating a complete web-based operating system with games, text editor, audio player, and file browser in a single inference pass, showcasing impressive code generation capability.
 tags:
-  - bullish
   - capability
   - code-generation
   - demonstration
-  - developer
   - developer-tools
   - edge-ai-deployment
   - edge-device
-  - intermediate
   - mobile-device
   - os-generation
   - qwen
-  - showcase
   - single-pass-generation
   - small-llm-capabilities
   - small-model-deployment

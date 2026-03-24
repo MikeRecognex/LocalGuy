@@ -3,11 +3,36 @@ title: "Self-Hosted AI Code Review with Local LLMs: Secure Automation Guide"
 date: 2026-03-21
 description: "Tutorial on implementing secure, on-device AI-powered code review using local LLMs, enabling organizations to automate code quality checks while maintaining code privacy and avoiding cloud dependencies."
 tags:
-  - daily-digest
-  - code-review
-  - security
+  - advanced
   - automation
+  - bullish
+  - ci-cd-integration
+  - code-privacy
+  - code-quality-analysis
+  - code-review
+  - daily-digest
+  - data-sovereignty
   - enterprise
+  - git-integration
+  - git-workflow-integration
+  - intermediate
+  - local-inference
+  - local-llms
+  - prompt-engineering
+  - risk-reduction
+  - security
+  - security-auditing
+  - security-automation
+  - self-hosted-ai
+  - self-hosted-ai-code-review
+  - sitepoint
+  - tutorial
+  - webhook-configuration
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

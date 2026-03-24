@@ -3,11 +3,39 @@ title: "Ultra-Compact 28M Parameter Models Show Promise for Specialized Domain T
 date: 2026-03-20
 description: "Experimental work with tiny 28M parameter models fine-tuned on specific domains (like business email) reveals viable pathways for training task-specific models that run on extremely resource-constrained devices."
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - business-applications
   - daily-digest
-  - fine-tuning
-  - model-training
+  - developer
+  - domain-specific-models
+  - edge-ai
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - enterprise
+  - experiment
+  - fine-tuning
+  - intermediate
+  - memory-footprint
+  - model-compression
+  - model-optimization
+  - model-ownership
+  - model-size-limits
+  - model-training
+  - neutral
   - open-source
+  - performance-evaluation
+  - private-inference
+  - rlocalllama
+  - showcase
+  - small-language-models
+  - small-models
+  - tiny-llms
+mentions:
+  - name: r/LocalLLaMA
+    role: source
 status: draft
 ---
 

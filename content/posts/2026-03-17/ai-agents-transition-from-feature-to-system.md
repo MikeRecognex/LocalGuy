@@ -1,13 +1,38 @@
 ---
-title: "The Moment AI Agents Stopped Being a Feature and Started Becoming a System"
+title: The Moment AI Agents Stopped Being a Feature and Started Becoming a System
 date: 2026-03-17
-description: "A critical analysis of how AI agents have evolved from isolated features to comprehensive autonomous systems, with implications for local deployment architectures and agent orchestration frameworks."
+description: A critical analysis of how AI agents have evolved from isolated features to comprehensive autonomous systems, with implications for local deployment architectures and agent orchestration frameworks.
 tags:
-  - daily-digest
+  - advanced
+  - agent-communication
+  - agent-orchestration
   - agents
+  - ai-agent-evolution
+  - analysis
   - architecture
-  - open-source
+  - comuniq
+  - comuniqxyz
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - langchain
+  - llamaindex
   - local-deployment
+  - memory-management
+  - neutral
+  - on-device-ai
+  - on-device-inference
+  - open-source
+mentions:
+  - name: LangChain
+    role: framework
+  - name: LlamaIndex
+    role: framework
+  - name: Hacker News
+    role: publisher
+  - name: comuniq.xyz
+    role: publisher
 status: draft
 ---
 

@@ -3,11 +3,31 @@ title: "Cursor's Composer 2 model attribution dispute highlights open-source lic
 date: 2026-03-21
 description: "Cursor's new Composer 2 model is reportedly built on Kimi K2.5 without proper attribution, raising important questions about model provenance and transparency in closed-source implementations of open tools."
 tags:
+  - analysis
+  - bullish
+  - cautious
+  - closed-source-transparency
+  - cursor
   - daily-digest
-  - open-source
-  - licensing
-  - model-provenance
+  - developer
   - ethics
+  - intermediate
+  - licensing
+  - licensing-compliance
+  - local-inference
+  - model-attribution
+  - model-provenance
+  - model-transparency
+  - open-source
+  - open-source-ai
+  - open-source-licensing
+  - open-source-llms
+  - proprietary-models
+  - rlocalllama
+  - vendor-lock-in
+mentions:
+  - name: Elon Musk
+  - name: Cursor
 status: draft
 ---
 

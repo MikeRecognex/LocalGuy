@@ -4,13 +4,10 @@ date: 2026-02-28
 description: A new tool enables seamless integration of markdown content serving with local LLMs in Next.js applications, simplifying the workflow for building AI-augmented web applications with on-device inference.
 tags:
   - ai-web-development
-  - bullish
   - deployment
   - deployment-tooling
-  - developer
   - development-efficiency
   - framework-integration
-  - intermediate
   - knowledge-augmentation
   - llm-integration
   - markdown-llm-integration
@@ -18,7 +15,6 @@ tags:
   - next-js
   - nextjs-development
   - on-device-inference
-  - showcase
   - tooling
 mentions:
   - name: kasin-it

@@ -5,17 +5,14 @@ description: A detailed performance analysis of running local LLMs on the Framew
 tags:
   - amd
   - amd-strix-point
-  - analysis
   - benchmark
   - consumer-cpu
   - consumer-laptop
-  - developer
   - edge-deployment
   - edge-device
   - edge-inference
   - hardware
   - inference-speed
-  - intermediate
   - llm-optimization
   - local-deployment
   - local-llm-performance

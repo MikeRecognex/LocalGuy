@@ -4,24 +4,27 @@ date: 2026-02-11
 description: A detailed comparison reveals why switching to raw llama.cpp can provide better control and performance for local LLM deployment compared to popular GUI tools.
 tags:
   - advanced
-  - analysis
   - bullish
   - comparison
   - developer
   - developer-tooling
+  - gui-tools
   - gui-vs-cli
   - inference-optimization
   - intermediate
   - its-foss
   - llama
   - llama-cpp
+  - llama-cpp-efficiency
   - llama-cpp-optimization
   - llm-tool-comparison
   - lm-studio
   - local-llm-deployment
+  - local-llm-optimization
   - memory-management
   - ollama
   - performance-optimization
+  - performance-tuning
   - software-optimization
 mentions:
   - name: It's FOSS

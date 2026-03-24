@@ -4,13 +4,11 @@ date: 2026-03-03
 description: Successful demonstration of running Qwen 3.5's 0.8B model on aging smartphone hardware using llama.cpp and Termux, achieving 12 tokens per second on a 2019 device.
 tags:
   - deployment-guide
-  - developer
   - edge-device
   - edge-hardware
   - edge-inference
   - hardware-longevity
   - inference-speed
-  - intermediate
   - llama-cpp
   - llama-cpp-deployment
   - mobile-ai-development
@@ -19,7 +17,6 @@ tags:
   - older-hardware-compatibility
   - open-source-tools
   - qwen
-  - showcase
 status: published
 ---
 

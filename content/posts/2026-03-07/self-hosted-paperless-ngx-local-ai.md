@@ -4,12 +4,9 @@ date: 2026-03-07
 description: Adafruit demonstrates how to combine the document management system Paperless-ngx with local AI models for intelligent document processing. This practical setup guide showcases real-world self-hosted applications.
 tags:
   - adafruit
-  - bullish
   - data-privacy
-  - developer
   - document-classification
   - document-processing
-  - intermediate
   - local-ai-integration
   - local-inference
   - open-source
@@ -17,7 +14,6 @@ tags:
   - practical-guide
   - self-hosted
   - self-hosting
-  - showcase
   - tutorial
   - ngx-local-ai
 mentions:

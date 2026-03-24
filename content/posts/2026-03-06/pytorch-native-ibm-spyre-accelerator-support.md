@@ -5,15 +5,12 @@ description: IBM Research has developed native PyTorch support for the IBM Spyre
 tags:
   - accelerator
   - accelerator-hardware
-  - bullish
   - custom-asic
-  - developer
   - ecosystem-development
   - hardware-acceleration
   - hardware-aware-deployment
   - inference-acceleration
   - inference-optimization
-  - intermediate
   - local-inference-optimization
   - model-optimization
   - news

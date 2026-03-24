@@ -5,16 +5,13 @@ description: A powerful and innovative technique for extending context windows f
 tags:
   - advanced
   - agents
-  - analysis
   - benchmarks
-  - bullish
   - context-extension
   - context-length-extension
   - context-window
   - context-window-extension
   - cost-optimization
   - cost-saving
-  - developer
   - document-processing
   - inference-optimization
   - large-input-scaling

@@ -3,11 +3,32 @@ title: "Repurpose Old GPUs as Dedicated AI Inference Accelerators"
 date: 2026-03-20
 description: "An exploration of how older, unused GPUs sitting in drawers can be recycled into effective AI inference hardware, offering compelling performance-per-dollar compared to cloud services or newer hardware purchases."
 tags:
-  - daily-digest
-  - gpu
-  - hardware
+  - analysis
+  - bullish
+  - cloud-cost-comparison
+  - consumer-gpu
+  - consumer-hardware
   - cost-optimization
+  - cost-saving
+  - cpu-only
+  - daily-digest
+  - developer
+  - gpu
+  - gpu-repurposing
+  - hardware
   - inference
+  - inference-speed
+  - intermediate
+  - legacy-hardware-utilization
+  - local-inference
+  - local-llm-accessibility
+  - model-quantization
+  - msn
+  - quantized-models
+  - sustainable-ai
+mentions:
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

@@ -3,11 +3,33 @@ title: "Korea to Deploy Domestic AI Chips in Smart Cities as NPU Trials Scale Up
 date: 2026-03-23
 description: "South Korea is scaling trials of domestically-developed AI chips optimized for neural processing in smart city infrastructure, marking a significant shift toward regional edge computing independence."
 tags:
-  - daily-digest
-  - hardware
-  - npu
-  - edge-computing
+  - analysis
   - asia
+  - bullish
+  - chip-design
+  - chip-manufacturing
+  - custom-asic
+  - daily-digest
+  - developer
+  - domestic-ai-chips
+  - edge-ai
+  - edge-ai-deployment
+  - edge-computing
+  - edge-device
+  - edge-inference
+  - enterprise
+  - hardware
+  - hardware-benchmarking
+  - hardware-validation
+  - intermediate
+  - model-quantization
+  - news
+  - npu
+  - npu-development
+  - npu-optimization
+  - power-efficiency
+  - quantized-models
+  - smart-city-ai
 status: draft
 ---
 

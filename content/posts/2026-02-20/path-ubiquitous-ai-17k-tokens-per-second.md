@@ -20,7 +20,6 @@ tags:
   - inference-optimization
   - inference-speed
   - inference-throughput
-  - intermediate
   - llm-optimization
   - local-deployment
   - local-llm-deployment

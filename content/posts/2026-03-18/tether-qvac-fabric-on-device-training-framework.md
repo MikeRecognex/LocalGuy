@@ -1,13 +1,37 @@
 ---
 title: "On-Device AI: Tether's QVAC Fabric Enables Local Training"
 date: 2026-03-18
-description: "Tether introduces QVAC Fabric, a framework enabling billion-parameter model training directly on mobile and edge devices, significantly expanding the capabilities of on-device AI beyond inference. This breakthrough addresses the long-standing challenge of fine-tuning and adaptive learning on resource-constrained hardware."
+description: Tether introduces QVAC Fabric, a framework enabling billion-parameter model training directly on mobile and edge devices, significantly expanding the capabilities of on-device AI beyond inference. This breakthrough addresses the long-standing challenge of fine-tuning and adaptive learning on resource-constrained hardware.
 tags:
-  - daily-digest
-  - fine-tuning
+  - advanced
+  - analysis
+  - bullish
+  - cloud-independence
+  - data-privacy
+  - developer
+  - edge-ai
+  - edge-device
   - edge-training
-  - mobile-ai
+  - enterprise
+  - fine-tuning
   - framework
+  - intermediate
+  - local-model-training
+  - mobile-ai
+  - model-fine-tuning
+  - on-device-ai
+  - on-device-pipelines
+  - on-device-training
+  - release
+  - tether
+  - the-cryptonomist
+mentions:
+  - name: Tether
+    role: developer
+  - name: Tether
+    role: developer
+  - name: The Cryptonomist
+    role: publisher
 status: draft
 ---
 

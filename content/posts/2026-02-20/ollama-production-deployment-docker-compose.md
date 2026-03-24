@@ -16,6 +16,7 @@ tags:
   - docker-compose-deployment
   - enterprise
   - intermediate
+  - local-inference
   - local-llm-deployment
   - local-llm-inference
   - offline-deployment
@@ -27,6 +28,7 @@ tags:
   - production-ops
   - scalable-deployment
   - self-hosted
+  - self-hosted-ai
   - self-hosted-inference
   - sitepoint
   - tutorial

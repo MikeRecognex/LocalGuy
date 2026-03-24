@@ -3,11 +3,40 @@ title: "Local AI Coding Assistant: Free Cursor Alternative with VS Code, Ollama 
 date: 2026-03-21
 description: "Guide to building a free, self-hosted AI coding assistant using VS Code, Ollama, and the Continue extension as an alternative to cloud-based Cursor, enabling developers to keep code and inference local."
 tags:
-  - daily-digest
+  - bullish
+  - cloud-alternative
+  - code-completion
+  - code-privacy
   - coding-assistant
-  - ollama
-  - tooling
+  - consumer-gpu
+  - continue
+  - continue-extension
+  - cost-saving
+  - cursor
+  - daily-digest
+  - data-privacy
+  - developer
   - development
+  - enterprise-use-case
+  - ide-integration
+  - intermediate
+  - local-ai-development
+  - local-coding-assistant
+  - ollama
+  - ollama-deployment
+  - self-hosting
+  - sitepoint
+  - tooling
+  - tutorial
+mentions:
+  - name: Cursor
+    role: competitor
+  - name: Continue
+    role: tool-provider
+  - name: Sitepoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

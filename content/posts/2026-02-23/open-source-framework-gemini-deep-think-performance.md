@@ -5,11 +5,8 @@ description: A new open-source framework enables local models to achieve Gemini 
 tags:
   - advanced
   - advanced-reasoning
-  - analysis
-  - bullish
   - consumer-gpu
   - daily-digest
-  - developer
   - framework
   - framework-agnostic-ai
   - local-inference
@@ -22,7 +19,6 @@ tags:
   - performance-parity
   - quantization
   - self-hosted-deployment
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: publisher

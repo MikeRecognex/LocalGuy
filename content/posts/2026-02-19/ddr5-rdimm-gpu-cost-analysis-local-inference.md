@@ -4,7 +4,6 @@ date: 2026-02-19
 description: Analysis shows DDR5 RDIMM memory costs have reached parity with high-end GPUs like RTX 3090s on a per-gigabyte basis, forcing local LLM builders to reconsider their hardware stacking strategies.
 tags:
   - advanced
-  - analysis
   - batch-inference
   - benchmarks
   - cautious
@@ -12,13 +11,11 @@ tags:
   - cost-comparison
   - cost-saving
   - cpu-only
-  - developer
   - developer-tooling
   - gpu-optimization
   - hardware-economics
   - hardware-roi
   - hardware-strategy
-  - intermediate
   - local-llm-hardware
   - memory-pricing
   - model-quantization

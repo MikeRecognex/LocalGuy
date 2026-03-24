@@ -3,14 +3,11 @@ title: "nanollama: Open-Source Framework for Training Llama 3 from Scratch with 
 date: 2026-02-23
 description: nanollama enables full Llama 3 pretraining from scratch (not fine-tuning) with single-command execution and direct GGUF export compatible with llama.cpp, democratizing custom model development for local deployment.
 tags:
-  - bullish
   - custom-model-architectures
   - custom-model-development
-  - developer
   - fine-tuning
   - gguf-export
   - gguf-format
-  - intermediate
   - llama-3-pretraining
   - llama-cpp
   - local-deployment
@@ -18,7 +15,6 @@ tags:
   - ml-pipeline-automation
   - model-training
   - open-source
-  - showcase
   - training
 status: published
 ---

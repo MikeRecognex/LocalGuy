@@ -7,13 +7,10 @@ tags:
   - agents
   - ai-agent-framework
   - ai-applications
-  - bullish
   - configuration-management
   - context-management
-  - developer
   - developer-tooling
   - document-processing
-  - intermediate
   - local-llm-deployment
   - memory-management
   - offline-deployment
@@ -22,7 +19,6 @@ tags:
   - rag-pipeline
   - release
   - retrieval-augmented-generation
-  - showcase
   - tutorial
   - yaml-configuration
 mentions:

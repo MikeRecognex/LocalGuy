@@ -3,11 +3,34 @@ title: "Your Site Content Is Powering AI. Your Bank Account Has No Idea"
 date: 2026-03-21
 description: "Analysis of how AI companies are using web content for training without compensation models, raising important considerations for data governance and local inference as an alternative."
 tags:
+  - ai-ethics
+  - analysis
+  - bullish
+  - cautious
   - daily-digest
-  - open-source
-  - privacy
   - data-governance
+  - developer
+  - enterprise
+  - hacker-news
   - industry
+  - intermediate
+  - local-deployment
+  - local-inference
+  - market-trends
+  - medium
+  - open-source
+  - open-source-models
+  - privacy
+  - proprietary-models
+  - self-hosted-llms
+  - self-hosting
+  - uncompensated-data-training
+  - uncompensated-data-use
+mentions:
+  - name: Medium
+    role: publisher
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

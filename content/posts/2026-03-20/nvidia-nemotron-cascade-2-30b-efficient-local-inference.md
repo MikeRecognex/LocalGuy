@@ -3,11 +3,31 @@ title: "NVIDIA Nemotron Cascade 2 30B Delivers 120B-Class Performance in Compact
 date: 2026-03-20
 description: "NVIDIA's new Nemotron Cascade 2 30B achieves competitive performance with models 4x larger on math and code benchmarks, offering excellent efficiency for local deployment on resource-constrained hardware."
 tags:
-  - daily-digest
+  - attention-mechanisms
   - benchmark
+  - bullish
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - hardware
+  - intermediate
+  - local-deployment
+  - local-inference
+  - memory-optimization
+  - model-architecture
+  - model-benchmarking
+  - model-efficiency
   - nvidia
   - open-source
+  - release
+  - rlocalllama
+  - vram-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: source
 status: draft
 ---
 

@@ -5,21 +5,17 @@ description: Demonstration of Qwen3.5-35B inference on Raspberry Pi 5 (16GB and 
 tags:
   - api-independence
   - arm-processor
-  - bullish
-  - developer
   - edge-ai-deployment
   - edge-device
   - edge-device-inference
   - edge-inference
   - hardware
   - inference-speed
-  - intermediate
   - memory-optimization
   - model-optimization
   - offline-operation
   - qwen
   - raspberry-pi
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: publisher

@@ -4,16 +4,13 @@ date: 2026-03-02
 description: A developer successfully reverse-engineered Apple's Neural Engine private APIs to enable direct model training on the ANE accelerator, bypassing CoreML limitations to leverage the Mac Mini M4's specialized AI hardware.
 tags:
   - advanced
-  - analysis
   - apple-neural-engine
   - apple-neural-engine-reverse-engineering
   - apple-silicon
   - apple-silicon-optimization
-  - bullish
   - consumer-gpu
   - coreml-bypass
   - daily-digest
-  - developer
   - fine-tuning
   - hardware
   - hardware-acceleration

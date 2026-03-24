@@ -7,6 +7,7 @@ tags:
   - ai-output-quality
   - ai-slop-constraints
   - analysis
+  - askcodi
   - bullish
   - consumer-gpu
   - cost-saving
@@ -16,6 +17,7 @@ tags:
   - hacker-news
   - hardware-constraints
   - intermediate
+  - llm-optimization
   - local-inference
   - local-llm-deployment
   - model-architecture
@@ -31,6 +33,8 @@ mentions:
   - name: Substack
     role: publisher
   - name: Hacker News
+    role: publisher
+  - name: askcodi
     role: publisher
 status: draft
 ---

@@ -6,20 +6,16 @@ tags:
   - advanced
   - benchmark
   - benchmark-report
-  - bullish
   - code-generation
   - consumer-gpu
-  - developer
   - edge-deployment
   - edge-device
-  - intermediate
   - memory-efficiency
   - model-compression
   - model-quantization
   - quantisation
   - qwen-models
   - qwen3-coder-next
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: source

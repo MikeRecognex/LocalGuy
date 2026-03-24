@@ -3,11 +3,8 @@ title: Llama.cpp Merges Automatic Parser Generator to Mainline
 date: 2026-03-07
 description: After months of testing, llama.cpp has merged its new automatic parser generator solution into the main codebase, building on improved Jinja templating and native parsing infrastructure. This enhancement streamlines model deployment and reduces manual configuration overhead for local inference.
 tags:
-  - bullish
-  - developer
   - inference-engine
   - inference-reliability
-  - intermediate
   - llama-cpp
   - local-inference-optimization
   - model-compatibility

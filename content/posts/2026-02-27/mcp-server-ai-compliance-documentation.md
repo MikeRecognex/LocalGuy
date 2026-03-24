@@ -7,18 +7,14 @@ tags:
   - ai-compliance-documentation
   - ai-governance
   - ai-regulation
-  - bullish
   - compliance
   - compliance-reporting
-  - developer
-  - intermediate
   - local-deployment
   - mcp
   - model-context-protocol
   - model-extension
   - production-deployment
   - regulatory-compliance
-  - showcase
   - tooling
 mentions:
   - name: Hacker News

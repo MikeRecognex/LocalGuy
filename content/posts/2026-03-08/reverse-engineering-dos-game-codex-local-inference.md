@@ -5,23 +5,19 @@ description: A developer demonstrates running specialized inference tasks—reve
 tags:
   - advanced
   - benchmark
-  - bullish
   - case-study
   - code-analysis
   - code-llms
   - coding-assistants
   - cost-optimization
   - data-privacy
-  - developer
   - hacker-news
   - inference
-  - intermediate
   - local-code-models
   - local-vs-cloud-deployment
   - open-source
   - program-comprehension
   - reverse-engineering
-  - showcase
   - specialized-inference
 mentions:
   - name: Hacker News

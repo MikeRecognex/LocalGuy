@@ -5,12 +5,9 @@ description: A comprehensive guide exploring how to integrate Model Context Prot
 tags:
   - agents
   - ai-agents
-  - bullish
   - cost-saving
   - data-privacy
-  - developer
   - developer-tooling
-  - intermediate
   - llm-agents
   - llm-automation
   - llm-tool-integration

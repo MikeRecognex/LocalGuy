@@ -4,9 +4,7 @@ date: 2026-03-05
 description: Unity demonstrated AI-powered manufacturing workflows at Smart Factory Expo, highlighting edge-based inference applications in industrial settings where latency, reliability, and privacy are critical requirements.
 tags:
   - advanced
-  - bullish
   - data-privacy
-  - developer
   - edge-deployment
   - edge-device
   - edge-inference
@@ -17,7 +15,6 @@ tags:
   - industrial-ai
   - industrial-automation
   - inference-pipelines
-  - intermediate
   - local-inference-enterprise
   - manufacturing-ai
   - model-optimization
@@ -25,7 +22,6 @@ tags:
   - offline-ai
   - practical-deployment
   - real-time-ai
-  - showcase
   - unity
 mentions:
   - name: Unity

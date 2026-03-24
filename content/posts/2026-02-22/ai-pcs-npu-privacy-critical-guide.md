@@ -4,14 +4,11 @@ date: 2026-02-22
 description: A deep dive into NPU-equipped AI PCs and the privacy implications of on-device inference, clarifying misconceptions about local AI processing capabilities.
 tags:
   - advanced
-  - analysis
-  - bullish
   - edge-device
   - edge-inference
   - enterprise
   - enterprise-ai
   - hardware
-  - intermediate
   - local-inference
   - local-llm-deployment
   - model-optimization

@@ -3,11 +3,33 @@ title: "Run LLMs Locally with Llama.cpp"
 date: 2026-03-17
 description: "A practical guide on leveraging llama.cpp for efficient local LLM inference, demonstrating how to optimize model performance on consumer hardware without cloud dependencies."
 tags:
+  - bullish
+  - consumer-gpu
+  - consumer-hardware
+  - context-length-optimization
+  - cost-effective-ai
+  - cost-saving
+  - cpu-only
   - daily-digest
-  - llama-cpp
-  - inference-optimization
+  - developer
   - hardware-efficiency
+  - inference-latency-optimization
+  - inference-optimization
+  - inference-speed
+  - intermediate
+  - llama-cpp
   - local-deployment
+  - local-inference-optimization
+  - model-optimization
+  - model-quantization
+  - quantization
+  - startuphubai
+  - tutorial
+mentions:
+  - name: startuphub.ai
+    role: publisher
+  - name: StartupHub.ai
+    role: publisher
 status: draft
 ---
 

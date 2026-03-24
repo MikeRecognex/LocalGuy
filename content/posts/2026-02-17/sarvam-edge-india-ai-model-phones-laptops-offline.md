@@ -3,17 +3,13 @@ title: "Meet Sarvam Edge: India's AI Model That Runs on Phones and Laptops With 
 date: 2026-02-17
 description: Sarvam AI releases Sarvam Edge, a locally-deployable AI model optimized for on-device inference on smartphones and laptops without requiring internet connectivity. This represents a significant step forward for edge AI accessibility in resource-constrained environments.
 tags:
-  - analysis
   - apple-silicon
-  - bullish
   - consumer-device
   - data-privacy
-  - developer
   - edge-ai
   - edge-deployment
   - edge-device
   - edge-optimization
-  - intermediate
   - llama
   - llama-cpp
   - local-deployment

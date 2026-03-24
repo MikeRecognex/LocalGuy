@@ -3,14 +3,11 @@ title: Elastic Introduces Best-in-Class Embedding Models for High Performance Se
 date: 2026-02-23
 description: Elastic releases optimized embedding models designed for local deployment and semantic search applications. These models enable efficient vector search on-device without external API dependencies.
 tags:
-  - bullish
   - consumer-gpu
   - daily-digest
   - data-privacy
-  - developer
   - embedding-models
   - embeddings
-  - intermediate
   - local-deployment
   - model-efficiency
   - open-source
@@ -20,7 +17,6 @@ tags:
   - release
   - semantic-search
   - semantic-understanding
-  - showcase
   - vector-search
 mentions:
   - name: Elastic

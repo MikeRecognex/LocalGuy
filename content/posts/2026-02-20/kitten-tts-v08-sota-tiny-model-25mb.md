@@ -16,6 +16,7 @@ tags:
   - kitten-tts
   - llama
   - llama-cpp
+  - local-deployment
   - local-llm-deployment
   - local-llm-integration
   - model-compression
@@ -25,12 +26,14 @@ tags:
   - on-device-speech-synthesis
   - open-source
   - open-source-ai
+  - open-source-models
   - privacy
   - privacy-compliance
   - release
   - resource-constrained-ai
   - showcase
   - small-model-deployment
+  - speech-synthesis
   - text-to-speech
   - voice
   - voice-assistant

@@ -17,7 +17,6 @@ tags:
   - developer-tooling
   - edge-deployment
   - hacker-news
-  - intermediate
   - introspection-tooling
   - llm-agent-production
   - llm-agents

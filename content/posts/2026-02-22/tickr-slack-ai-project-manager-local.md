@@ -5,23 +5,18 @@ description: Tickr brings AI-powered project management capabilities directly in
 tags:
   - ai-in-project-management
   - ai-project-management
-  - analysis
   - api-dependency-reduction
   - applications
-  - bullish
   - cost-saving
   - data-privacy
   - deployment-patterns
-  - developer
   - embedded-llms
   - enterprise
   - integration
-  - intermediate
   - latency-reduction
   - llm-tools
   - local-model-integration
   - productivity
-  - showcase
   - slack-integration
 mentions:
   - name: Tickr

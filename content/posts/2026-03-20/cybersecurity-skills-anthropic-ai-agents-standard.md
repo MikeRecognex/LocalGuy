@@ -3,11 +3,35 @@ title: "Cybersecurity Skills for AI Agents – agentskills.io Standard Implement
 date: 2026-03-20
 description: "A new repository implements the agentskills.io standard for equipping AI agents with cybersecurity capabilities. This standardization effort enables more reliable and secure local agent deployments."
 tags:
-  - daily-digest
+  - advanced
+  - agent-security
+  - agent-skill-standardization
+  - agent-standardization
   - agents
-  - security
+  - agentskillsio
+  - ai-agent-cybersecurity
+  - analysis
+  - auditable-security
+  - bullish
+  - daily-digest
+  - developer
+  - enterprise
+  - hacker-news
+  - infrastructure-automation
+  - intermediate
+  - local-agent-deployment
+  - local-llm-deployment
+  - on-device-agents
   - open-source
+  - regulatory-compliance
+  - release
+  - security
   - standards
+mentions:
+  - name: agentskills.io
+    role: standard-project
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

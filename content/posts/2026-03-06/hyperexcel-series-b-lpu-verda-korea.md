@@ -3,15 +3,11 @@ title: HyperExcel Seeks 150 Billion Won Series B to Scale LPU and Verda in Korea
 date: 2026-03-06
 description: Korean startup HyperExcel is raising Series B funding to scale production of LPU (Language Processing Unit) accelerators and Verda inference optimisation technology for local deployment.
 tags:
-  - analysis
-  - bullish
   - custom-asic
-  - developer
   - hardware-accelerator
   - hardware-diversity
   - hardware-software-integration
   - inference-optimization
-  - intermediate
   - local-inference
   - local-inference-optimization
   - lpu

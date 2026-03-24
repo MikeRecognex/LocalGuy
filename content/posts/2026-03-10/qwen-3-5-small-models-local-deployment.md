@@ -5,11 +5,8 @@ description: The latest Qwen 3.5 lineup, including the 0.8B variant, demonstrate
 tags:
   - agent-orchestration
   - ai-agents
-  - analysis
-  - bullish
   - consumer-gpu
   - deployment-strategy
-  - developer
   - edge-ai
   - edge-ai-deployment
   - edge-deployment
@@ -17,14 +14,12 @@ tags:
   - edge-inference
   - inference-engines
   - inference-optimization
-  - intermediate
   - new-deployment-scenarios
   - news
   - on-device-ai
   - on-device-inference
   - qwen
   - qwen-models
-  - showcase
   - small-language-models
   - small-models
   - vision-language-models

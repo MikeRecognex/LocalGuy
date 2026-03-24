@@ -3,11 +3,39 @@ title: "Self-Hostable AI Agents and Internal Software Framework Released"
 date: 2026-03-23
 description: "RootCX introduces a new framework for deploying self-hosted AI agents and internal software, enabling developers to run autonomous AI systems on their own infrastructure without reliance on cloud providers."
 tags:
-  - daily-digest
-  - self-hosted
+  - agent-orchestration
   - agents
-  - open-source
+  - autonomous-ai
+  - bullish
+  - cloud-agnostic-deployment
+  - daily-digest
+  - data-governance
   - deployment
+  - deployment-patterns
+  - edge-device
+  - enterprise
+  - github
+  - hacker-news
+  - intermediate
+  - internal-software-framework
+  - on-device-inference
+  - open-source
+  - privacy-preserving-ai
+  - project-showcase
+  - release
+  - rootcx
+  - self-hosted
+  - self-hosted-ai-agents
+  - showcase
+mentions:
+  - name: RootCX
+    role: framework-provider
+  - name: RootCX
+    role: project
+  - name: GitHub
+    role: platform
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

@@ -30,6 +30,8 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+  - name: Paperless-ngx
+    role: tool
   - name: MSN
     role: publisher
 status: draft

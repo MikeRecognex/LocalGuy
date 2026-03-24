@@ -7,6 +7,7 @@ tags:
   - bullish
   - consumer-gpu
   - cost-saving
+  - cpu-only
   - daily-digest
   - developer
   - document-processing
@@ -19,6 +20,7 @@ tags:
   - llama-cpp
   - llama-cpp-integration
   - llm-reasoning
+  - local-ai-applications
   - local-document-processing
   - multilingual-ocr
   - multimodal
@@ -29,6 +31,7 @@ tags:
   - on-device-ai
   - on-device-inference
   - open-source
+  - open-source-ai
   - paddleocr
   - privacy-compliance
   - release

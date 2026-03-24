@@ -13,14 +13,17 @@ tags:
   - eaglemann
   - hacker-news
   - intermediate
+  - local-commit-generation
   - local-deployment
   - local-llm-applications
   - local-llm-inference
+  - offline-ai
   - offline-capability
   - offline-development
   - ollama
   - open-source
   - showcase
+  - software-development-workflow
 mentions:
   - name: Eaglemann
     role: developer

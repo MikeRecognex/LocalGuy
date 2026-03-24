@@ -1,13 +1,36 @@
 ---
-title: "How I Used Lima for an AI Coding Agent Sandbox"
+title: How I Used Lima for an AI Coding Agent Sandbox
 date: 2026-03-17
-description: "A practical guide demonstrating how Lima VM technology can be leveraged to create isolated, efficient sandboxes for running AI coding agents locally, with applications for secure on-device inference."
+description: A practical guide demonstrating how Lima VM technology can be leveraged to create isolated, efficient sandboxes for running AI coding agents locally, with applications for secure on-device inference.
 tags:
-  - daily-digest
-  - sandbox
-  - deployment
-  - open-source
+  - advanced
   - agents
+  - ai-coding-agents
+  - atomic-object
+  - bullish
+  - code-execution
+  - containerized-development
+  - deployment
+  - developer
+  - intermediate
+  - lima-vm
+  - local-agents
+  - native-virtualization
+  - on-device-ai
+  - on-device-inference
+  - open-source
+  - privacy-sensitive-applications
+  - regulated-environments
+  - reproducible-agents
+  - reproducible-ai
+  - sandbox
+  - sandbox-environment
+  - security-boundaries
+  - security-isolation
+  - tutorial
+mentions:
+  - name: Atomic Object
+    role: publisher
 status: draft
 ---
 

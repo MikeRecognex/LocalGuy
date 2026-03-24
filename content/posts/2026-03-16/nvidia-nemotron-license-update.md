@@ -3,11 +3,29 @@ title: "NVIDIA Updates Nemotron 3 122B License, Removes Deployment Restrictions"
 date: 2026-03-16
 description: "NVIDIA has revised the Nemotron Super 3 122B license to eliminate restrictive clauses and permit unrestricted modifications and deployment, significantly improving its viability for open-source and commercial local inference."
 tags:
+  - bullish
   - daily-digest
-  - open-source
-  - licensing
+  - deployment-restrictions
+  - developer
+  - enterprise
   - hardware
+  - intermediate
+  - license-update
+  - licensing
+  - licensing-policy
+  - local-deployment
+  - local-inference
+  - model-customization
+  - model-licensing
   - model-release
+  - news
+  - open-source
+  - open-source-models
+  - production-deployment
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

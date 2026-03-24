@@ -6,19 +6,23 @@ tags:
   - advanced
   - analysis
   - browser
+  - browser-based-llms
   - browser-llm
   - bullish
   - client-side-ai
   - cloud-vs-local-performance
   - daily-digest
   - data-privacy
+  - data-security
   - developer
   - intermediate
   - local-inference-benefits
   - local-llm
+  - local-rag
   - on-device-ai
   - on-device-processing
   - on-device-rag
+  - performance-optimization
   - privacy
   - privacy-preserving-rag
   - rag

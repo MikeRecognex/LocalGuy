@@ -3,17 +3,14 @@ title: Intel OpenVINO Backend Support Now Available in llama.cpp
 date: 2026-03-14
 description: Intel's team has contributed OpenVINO backend support to llama.cpp, enabling optimized local LLM inference on Intel CPUs and compatible hardware platforms.
 tags:
-  - bullish
   - cpu-only
   - cpu-optimization
   - cross-platform-compatibility
-  - developer
   - edge-device
   - enterprise
   - heterogeneous-hardware
   - inference-optimization
   - intel
-  - intermediate
   - llama-cpp
   - news
   - open-source

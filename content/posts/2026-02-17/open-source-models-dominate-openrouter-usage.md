@@ -3,14 +3,10 @@ title: Open-Source Models Now Comprise 4 of Top 5 Most-Used Endpoints on OpenRou
 date: 2026-02-17
 description: Recent OpenRouter usage statistics show that open-source models have overtaken proprietary offerings, with four of the five most-used model endpoints now being open-source implementations. This shift validates the maturity and cost-effectiveness of local and self-hosted deployments.
 tags:
-  - analysis
-  - bullish
   - cost-saving
-  - developer
   - document-processing
   - enterprise
   - inference-optimization
-  - intermediate
   - llama
   - llama-cpp
   - llm-use-cases

@@ -3,11 +3,27 @@ title: "Developer Builds Fully Local Multi-Agent System Using vLLM and Parallel 
 date: 2026-03-22
 description: "A practical demonstration of running multiple AI agents entirely offline using vLLM for parallel inference orchestration. The setup coordinates 4 concurrent agents for collaborative coding without any cloud provider dependencies."
 tags:
-  - daily-digest
-  - vllm
+  - advanced
+  - agent-orchestration
   - agents
+  - bullish
+  - collaborative-ai
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
   - deployment-guide
+  - docker-deployment
+  - enterprise
+  - local-multi-agent-system
+  - multi-agent-systems
+  - offline-deployment
+  - on-premise-deployment
   - open-source
+  - parallel-inference
+  - privacy-preserving-ai
+  - showcase
+  - vllm
+  - vllm-inference
 status: draft
 ---
 

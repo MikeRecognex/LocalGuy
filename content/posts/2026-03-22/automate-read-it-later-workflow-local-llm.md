@@ -3,11 +3,29 @@ title: "Automating Read-It-Later Workflows with Local LLMs for Overnight Summari
 date: 2026-03-22
 description: "A practical guide demonstrating how to build an automated article summarization pipeline using self-hosted LLMs, eliminating the need for cloud-based services while maintaining privacy and reducing costs."
 tags:
-  - daily-digest
+  - article-summarization
   - automation
+  - batch-processing
+  - bullish
+  - cost-saving
+  - cpp-inference
+  - daily-digest
+  - data-privacy
+  - developer
+  - intermediate
+  - local-llm-deployment
+  - msn
   - open-source
-  - privacy
   - practical-deployment
+  - privacy
+  - privacy-compliance
+  - self-hosted-llms
+  - self-hosting
+  - tutorial
+  - workflow-automation
+mentions:
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

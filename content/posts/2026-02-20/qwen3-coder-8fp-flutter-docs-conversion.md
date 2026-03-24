@@ -8,9 +8,11 @@ tags:
   - benchmarks
   - bullish
   - code-analysis
+  - code-generation
   - code-llm-applications
   - consumer-gpu
   - context-window
+  - context-window-size
   - cost-saving
   - daily-digest
   - developer
@@ -24,14 +26,18 @@ tags:
   - llm-benchmarking
   - local-deployment
   - long-context-code-llm
+  - long-context-code-understanding
+  - long-context-performance
   - long-context-processing
   - long-context-window
   - memory-efficiency
+  - memory-intensive-workloads
   - memory-management
   - memory-utilization
   - model-benchmarking
   - model-comparison
   - model-stability
+  - production-deployment
   - production-ops
   - showcase
   - zhipu

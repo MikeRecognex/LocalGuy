@@ -7,11 +7,8 @@ tags:
   - agent-orchestration
   - agents
   - bots-of-wallstreet
-  - bullish
   - deployment
-  - developer
   - hacker-news
-  - intermediate
   - latency-optimization
   - local-inference
   - multi-agent
@@ -20,7 +17,6 @@ tags:
   - privacy-compliance
   - scalable-multi-agent-systems
   - self-hosting
-  - showcase
 mentions:
   - name: Bots of WallStreet
     role: project

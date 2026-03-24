@@ -4,10 +4,8 @@ date: 2026-02-23
 description: Community member demonstrates a portable gaming and AI workstation featuring custom cooling solutions and optimized fan design for efficient inference workloads on consumer hardware.
 tags:
   - advanced
-  - bullish
   - consumer-gpu
   - daily-digest
-  - developer
   - edge-ai
   - edge-device
   - gpu-cooling
@@ -15,12 +13,10 @@ tags:
   - inference
   - inference-optimization
   - inference-speed
-  - intermediate
   - local-deployment
   - on-device-inference
   - optimization
   - portable-ai-workstation
-  - showcase
   - thermal-management
 mentions:
   - name: r/LocalLLaMA

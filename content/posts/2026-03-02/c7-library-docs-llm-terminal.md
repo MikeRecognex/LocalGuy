@@ -8,16 +8,13 @@ tags:
   - context-management
   - cost-saving
   - daily-digest
-  - developer
   - developer-experience
   - documentation-integration
-  - intermediate
   - local-inference
   - local-model-utility
   - offline-llm-use
   - open-source
   - privacy-preserving-ai
-  - showcase
   - tools
   - c7
 mentions:

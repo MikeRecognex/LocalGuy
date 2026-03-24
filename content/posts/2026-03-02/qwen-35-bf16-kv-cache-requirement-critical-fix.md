@@ -4,10 +4,8 @@ date: 2026-03-02
 description: Community member Daniel Han alerts users that Qwen 3.5 models require bfloat16 KV cache precision instead of the default float16, with perplexity measurements demonstrating the accuracy impact when using incorrect cache formats.
 tags:
   - advanced
-  - analysis
   - cautious
   - daily-digest
-  - developer
   - inference-engine
   - kv-cache-precision
   - llama-cpp

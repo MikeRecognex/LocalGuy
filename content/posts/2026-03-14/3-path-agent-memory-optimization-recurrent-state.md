@@ -7,10 +7,7 @@ tags:
   - agent-deployment
   - agents
   - amabito
-  - analysis
-  - bullish
   - consumer-gpu
-  - developer
   - edge-device
   - edge-inference
   - hacker-news
@@ -23,7 +20,6 @@ tags:
   - performance
   - reasoning-workloads
   - recurrent-state-memory
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

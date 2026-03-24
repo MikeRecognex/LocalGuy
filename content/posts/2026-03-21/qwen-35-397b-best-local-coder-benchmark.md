@@ -3,11 +3,29 @@ title: "Qwen 3.5 397B emerges as top-performing local coding model"
 date: 2026-03-21
 description: "Users report that Qwen 3.5 397B significantly outperforms competing local models including GPT-OSS 120B and Nemotron 120B for code generation tasks, despite slower inference speeds."
 tags:
-  - daily-digest
-  - qwen
+  - advanced
   - benchmark
+  - benchmark-report
+  - bullish
+  - code-generation
+  - code-quality
   - coding
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - intermediate
+  - large-models-on-consumer-hardware
   - local-models
+  - model-accuracy
+  - model-comparison
+  - model-quantization
+  - model-scaling
+  - quantization
+  - qwen
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

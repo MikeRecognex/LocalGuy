@@ -1,13 +1,38 @@
 ---
 title: "Kimi Introduces Attention Residuals: 1.25x Compute Performance at <2% Overhead"
 date: 2026-03-17
-description: "Kimi has released a novel technique called Attention Residuals that achieves a 1.25x improvement in compute performance with minimal overhead, offering significant benefits for local LLM deployment and inference optimization."
+description: Kimi has released a novel technique called Attention Residuals that achieves a 1.25x improvement in compute performance with minimal overhead, offering significant benefits for local LLM deployment and inference optimization.
 tags:
-  - daily-digest
-  - performance-optimization
+  - advanced
+  - analysis
+  - attention-mechanisms
+  - attention-residuals
+  - bullish
+  - compute-performance
+  - consumer-gpu
+  - cpu-only
+  - developer
+  - edge-device
+  - energy-efficiency
+  - hacker-news
+  - hardware-performance-tuning
+  - inference-frameworks
+  - inference-optimization
   - inference-speed
-  - quantisation
+  - inference-speed-optimization
+  - kimi
+  - llm-architecture
+  - local-llm-deployment
   - open-source
+  - performance-optimization
+  - quantisation
+  - release
+  - resource-optimization
+mentions:
+  - name: Kimi
+    role: developer
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

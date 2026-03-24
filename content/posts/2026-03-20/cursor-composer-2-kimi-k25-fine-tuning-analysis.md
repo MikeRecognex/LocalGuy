@@ -3,11 +3,34 @@ title: "Cursor's Composer 2 Model Analysis – Fine-Tuned Variant of Kimi K2.5"
 date: 2026-03-20
 description: "Community investigation reveals that Cursor's Composer 2 model appears to be based on Kimi K2.5 with reinforcement learning fine-tuning. This insight provides valuable intelligence about model adaptation techniques for local development environments."
 tags:
-  - daily-digest
-  - fine-tuning
-  - model-architecture
-  - open-source
+  - advanced
+  - agent-tasks
   - agents
+  - analysis
+  - bullish
+  - case-study
+  - code-generation
+  - cursor
+  - daily-digest
+  - developer
+  - fine-tuning
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - model-adaptation
+  - model-architecture
+  - model-optimization
+  - open-source
+  - open-source-llms
+  - reddit
+  - reinforcement-learning-fine-tuning
+mentions:
+  - name: Cursor
+    role: developer
+  - name: Reddit
+    role: publisher
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

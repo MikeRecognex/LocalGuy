@@ -22,9 +22,12 @@ tags:
   - language-models
   - llama
   - llama-cpp
+  - llm-deployment-frameworks
   - local-deployment
   - local-development
+  - m2-5-model
   - memory-management
+  - memory-optimization
   - minimax
   - minimax-m25
   - model-availability
@@ -33,6 +36,7 @@ tags:
   - multi-step-reasoning
   - neutral
   - new-model-release
+  - news
   - offline-deployment
   - ollama
   - quantisation

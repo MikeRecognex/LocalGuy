@@ -4,13 +4,11 @@ date: 2026-03-14
 description: A year-long project demonstrates a complete local LLM deployment pipeline combining YOLO object detection, custom OCR, image inpainting, and multiple LLMs for end-to-end manga translation without cloud dependencies.
 tags:
   - advanced
-  - bullish
   - cloud-independence
   - computer-vision
   - consumer-gpu
   - consumer-hardware-ai
   - custom-ai-components
-  - developer
   - image-inpainting
   - llm-pipeline
   - local-llm-ecosystem
@@ -23,7 +21,6 @@ tags:
   - optical-character-recognition
   - pipeline
   - pipeline-architecture
-  - showcase
 status: published
 ---
 

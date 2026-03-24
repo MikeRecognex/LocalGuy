@@ -1,13 +1,28 @@
 ---
-title: "My Dinner with AI"
+title: My Dinner with AI
 date: 2026-03-18
-description: "A narrative exploration of practical experiences deploying and interacting with local AI systems, offering insights from hands-on experimentation."
+description: A narrative exploration of practical experiences deploying and interacting with local AI systems, offering insights from hands-on experimentation.
 tags:
-  - daily-digest
-  - local-llm
+  - conversational-ai
   - deployment
-  - practical-guide
+  - developer
+  - hacker-news
+  - hands-on-experience
+  - intermediate
+  - latency-perception
+  - local-llm-deployment
+  - local-model-deployment
+  - model-behavior-analysis
+  - neutral
   - open-source
+  - opinion
+  - practical-guide
+  - practical-usability
+  - real-world-performance
+  - user-experience
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

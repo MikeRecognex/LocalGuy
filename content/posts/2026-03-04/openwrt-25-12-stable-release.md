@@ -3,9 +3,7 @@ title: OpenWrt 25.12.0 – Stable Release
 date: 2026-03-04
 description: The latest stable release of OpenWrt, the popular open-source router OS, with improvements relevant to edge AI inference on network devices. Enables deployment of lightweight LLMs directly on routers and edge gateways.
 tags:
-  - bullish
   - cpu-only
-  - developer
   - edge-ai-inference
   - edge-deployment
   - edge-device
@@ -13,7 +11,6 @@ tags:
   - edge-inference
   - hacker-news
   - hardware
-  - intermediate
   - local-llm-inference
   - local-semantic-search
   - model-quantization

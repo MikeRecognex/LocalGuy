@@ -3,16 +3,12 @@ title: Apple Accelerates U.S. Manufacturing with Mac Mini Production
 date: 2026-02-24
 description: Apple is expanding U.S.-based manufacturing for Mac Mini, potentially improving availability and reducing costs for local LLM inference on Apple Silicon devices. This development could make on-device LLM deployment more accessible to developers and organizations.
 tags:
-  - analysis
   - apple-silicon
   - apple-silicon-ecosystem
-  - bullish
   - cost-saving
-  - developer
   - edge-inference
   - hardware
   - hardware-availability
-  - intermediate
   - m-series
   - mac-mini-availability
   - manufacturing

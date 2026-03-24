@@ -6,18 +6,13 @@ tags:
   - agent-deployment
   - agent-tooling
   - agents
-  - analysis
   - autonomous-agents
-  - bullish
   - cli-abstraction
-  - developer
   - developer-experience
   - integration
-  - intermediate
   - local-model-integration
   - open-source
   - self-hosted-deployment
-  - showcase
   - tools
 mentions:
   - name: Hacker News

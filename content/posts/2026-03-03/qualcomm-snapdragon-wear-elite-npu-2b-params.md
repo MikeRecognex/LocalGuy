@@ -5,14 +5,11 @@ description: Qualcomm unveils Snapdragon Wear Elite with a dedicated 2 billion-p
 tags:
   - ai-on-wearables
   - battery-efficiency
-  - bullish
-  - developer
   - edge-ai
   - edge-device
   - edge-inference
   - hardware
   - hardware-fragmentation
-  - intermediate
   - local-llm-deployment
   - mobile-npu
   - model-optimization

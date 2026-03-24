@@ -3,9 +3,7 @@ title: Mihup and Qualcomm Collaborate to Advance Secure On-Device Voice AI for B
 date: 2026-02-19
 description: Qualcomm and Mihup partner to develop on-device voice AI solutions for banking and financial services, emphasizing security and privacy through local processing.
 tags:
-  - analysis
   - bfsi-applications
-  - bullish
   - data-privacy
   - edge-deployment
   - edge-device
@@ -13,7 +11,6 @@ tags:
   - enterprise-ai-deployment
   - enterprise-security
   - hardware-optimization
-  - intermediate
   - low-latency-processing
   - news
   - offline-deployment

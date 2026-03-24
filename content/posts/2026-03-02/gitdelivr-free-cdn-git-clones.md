@@ -8,11 +8,9 @@ tags:
   - cost-saving
   - cpu-only
   - deployment
-  - developer
   - edge-device
   - git-workflow-optimization
   - infrastructure
-  - intermediate
   - llm-deployment
   - local-llm-deployment
   - model-download-acceleration
@@ -20,7 +18,6 @@ tags:
   - release
   - scalability
   - serverless-architecture
-  - showcase
   - gitdlivr
 mentions:
   - name: GitDelivr

@@ -3,14 +3,10 @@ title: "Show HN: Asterode – Multi-Model AI App with Memory and Power Features"
 date: 2026-03-07
 description: A new multi-model AI application that combines several LLMs with advanced memory management and performance optimization features for local deployment.
 tags:
-  - analysis
   - asterodeai
-  - bullish
-  - developer
   - edge-device
   - edge-device-optimization
   - hacker-news
-  - intermediate
   - local-deployment
   - local-inference
   - memory-management
@@ -23,7 +19,6 @@ tags:
   - open-source
   - performance-optimization
   - resource-constrained-ai
-  - showcase
 mentions:
   - name: Asterode.ai
     role: project-owner

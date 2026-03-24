@@ -4,17 +4,14 @@ date: 2026-03-01
 description: Nummi launches as a downloadable AI companion application featuring persistent memory and personalized guidance, showcasing how local LLM deployment enables continuous, context-aware interactions without relying on cloud infrastructure.
 tags:
   - ai-companion
-  - bullish
   - consumer-applications
   - consumer-gpu
   - context-aware-ai
   - conversation-context-management
   - data-privacy
-  - developer
   - edge-deployment
   - hobbyist
   - incremental-model-adaptation
-  - intermediate
   - llm-inference-optimization
   - local-llm-deployment
   - memory-constrained-inference
@@ -23,7 +20,6 @@ tags:
   - persistent-memory
   - personalization
   - personalized-ai
-  - showcase
 mentions:
   - name: Nummi
     role: developer

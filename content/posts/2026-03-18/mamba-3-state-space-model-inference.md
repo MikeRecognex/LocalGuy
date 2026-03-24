@@ -1,12 +1,40 @@
 ---
 title: "Mamba 3: State Space Model Architecture Optimized for Inference"
 date: 2026-03-18
-description: "Mamba 3 introduces a state space model architecture specifically optimized for efficient inference performance, offering a potential alternative to traditional transformer-based architectures for local deployment."
+description: Mamba 3 introduces a state space model architecture specifically optimized for efficient inference performance, offering a potential alternative to traditional transformer-based architectures for local deployment.
 tags:
-  - daily-digest
+  - advanced
+  - analysis
   - architecture
+  - bullish
+  - consumer-gpu
+  - developer
+  - edge-device
   - inference
+  - inference-optimization
+  - inference-speed
+  - intermediate
+  - local-inference
+  - local-llm-inference
+  - long-context-llms
+  - long-context-processing
+  - long-context-window
+  - mamba-architecture
+  - memory-optimization
+  - model-architecture-comparison
+  - model-deployment
+  - model-scaling
   - performance-optimization
+  - rag-pipeline
+  - release
+  - state-space-models
+  - together-ai
+  - togetherai
+mentions:
+  - name: Together AI
+    role: developer
+  - name: together.ai
+    role: publisher
 status: draft
 ---
 

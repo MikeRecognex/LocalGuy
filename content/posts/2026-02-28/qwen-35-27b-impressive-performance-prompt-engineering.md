@@ -3,20 +3,15 @@ title: Qwen 3.5-27B Demonstrates Exceptional Performance with Thoughtful Prompt 
 date: 2026-02-28
 description: Users report that Qwen 3.5-27B significantly exceeds expected performance for its size when paired with effective prompting strategies, suggesting prompt engineering can bridge the capability gap between model sizes.
 tags:
-  - analysis
-  - bullish
   - consumer-gpu
-  - developer
   - inference-optimisation
   - inference-optimization
-  - intermediate
   - local-deployment
   - model-optimization
   - model-performance
   - model-scaling
   - prompt-engineering
   - qwen
-  - showcase
   - speculative-decoding
 mentions:
   - name: Reddit

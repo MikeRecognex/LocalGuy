@@ -6,9 +6,7 @@ tags:
   - advanced
   - ai-sabotage-risks
   - ai-safety
-  - analysis
   - anthropic
-  - bullish
   - cautious
   - local-deployment
   - local-deployment-safety

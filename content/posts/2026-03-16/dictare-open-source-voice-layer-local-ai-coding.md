@@ -3,11 +3,32 @@ title: "Dictare – Open-source Voice Layer for AI Coding Agents (100% Local)"
 date: 2026-03-16
 description: "Dictare brings a fully local voice interface layer to AI coding agents, enabling voice-driven development without cloud dependencies. This open-source tool represents a significant step toward practical, privacy-preserving local AI agent workflows."
 tags:
-  - daily-digest
-  - open-source
   - agents
+  - ai-coding-agents
+  - apple-silicon
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - data-privacy
+  - developer
+  - developer-experience
+  - dictare
+  - hacker-news
+  - intermediate
+  - local-ai-deployment
+  - local-ai-workflows
   - local-inference
+  - mlx-acceleration
+  - mlx-framework
+  - open-source
+  - showcase
+  - voice-ai-agents
   - voice-interface
+mentions:
+  - name: Dictare
+    role: project
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

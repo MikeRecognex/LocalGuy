@@ -6,9 +6,6 @@ tags:
   - advanced
   - ai-infrastructure
   - ai-programming-language
-  - analysis
-  - bullish
-  - developer
   - hacker-news
   - inference-optimization
   - llm-performance

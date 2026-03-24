@@ -4,12 +4,9 @@ date: 2026-02-22
 description: Horizon demonstrates a practical open-source project leveraging local LLMs for content summarization and aggregation, serving as both a useful tool and reference implementation for practitioners building local AI applications.
 tags:
   - applications
-  - bullish
   - content-processing
   - content-summarization
-  - developer
   - inference-optimization
-  - intermediate
   - llm-tools
   - local-inference
   - local-llm-applications
@@ -18,7 +15,6 @@ tags:
   - open-source-ai
   - open-source-project
   - privacy-benefits
-  - showcase
   - summarization
 mentions:
   - name: GitHub

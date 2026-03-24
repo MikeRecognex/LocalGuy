@@ -3,11 +3,37 @@ title: "Building a Production AI Receptionist: Practical Local LLM Deployment Ca
 date: 2026-03-23
 description: "A detailed walkthrough of deploying a custom AI receptionist system for a real business, demonstrating practical considerations for productionizing local language models in service scenarios."
 tags:
+  - advanced
+  - ai-receptionist-deployment
+  - bullish
+  - business-applications
+  - case-study
+  - context-management
+  - customer-service-ai
   - daily-digest
   - deployment
-  - production
+  - developer
+  - edge-case-handling
+  - enterprise-developer
+  - graceful-degradation
+  - hacker-news
+  - intermediate
+  - itsthatladydev
+  - local-vs-cloud-deployment
+  - model-customization
+  - model-selection
+  - on-device-inference
   - practical-guide
-  - business-applications
+  - privacy-compliance
+  - production
+  - production-llm-deployment
+  - system-design
+  - system-robustness
+mentions:
+  - name: Hacker News
+    role: source
+  - name: itsthatlady.dev
+    role: publisher
 status: draft
 ---
 

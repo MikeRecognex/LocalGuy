@@ -6,12 +6,9 @@ tags:
   - agent-deployment
   - agents
   - ai-infrastructure
-  - bullish
-  - developer
   - distributed-ai-systems
   - distributed-deployment
   - enterprise
-  - intermediate
   - local-ai-agents
   - local-llm-deployment
   - mcp
@@ -21,7 +18,6 @@ tags:
   - orchestration
   - server-management
   - server-synchronization
-  - showcase
 mentions:
   - name: Conductor
     role: tool-provider

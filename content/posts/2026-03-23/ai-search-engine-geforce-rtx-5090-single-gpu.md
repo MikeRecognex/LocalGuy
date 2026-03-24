@@ -3,11 +3,32 @@ title: "Powerful AI Search Engine Built on Single GeForce RTX 5090"
 date: 2026-03-23
 description: "An enthusiast successfully deployed a fully-featured AI search engine on a single GeForce RTX 5090 GPU, demonstrating the viability of complex local inference workloads on consumer hardware."
 tags:
-  - daily-digest
-  - hardware
-  - gpu
-  - inference
+  - advanced
+  - ai-search-engine
+  - analysis
   - benchmark
+  - bullish
+  - consumer-gpu
+  - consumer-gpu-inference
+  - cost-efficiency
+  - daily-digest
+  - developer
+  - enterprise
+  - gamegpu
+  - gpu
+  - hardware
+  - inference
+  - local-ai-deployment
+  - local-inference
+  - model-optimization
+  - multi-model-inference
+  - on-premise-ai-economics
+  - rag-systems
+  - search-system-components
+  - showcase
+mentions:
+  - name: GameGPU
+    role: publisher
 status: draft
 ---
 

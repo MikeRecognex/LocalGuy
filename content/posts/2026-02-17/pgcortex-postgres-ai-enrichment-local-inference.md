@@ -5,24 +5,20 @@ description: Novel tool integrating local AI inference directly into PostgreSQL 
 tags:
   - advanced
   - batch-processing
-  - bullish
   - cost-optimization
   - cost-saving
   - data-privacy
   - database-integration
-  - developer
   - developer-tooling
   - document-processing
   - enterprise
   - in-database-inference
-  - intermediate
   - llm-scalability
   - local-inference
   - privacy
   - privacy-compliance
   - production-ops
   - scalable-deployment
-  - showcase
   - transaction-management
 mentions:
   - name: PgCortex

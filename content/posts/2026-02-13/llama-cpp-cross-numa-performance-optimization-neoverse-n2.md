@@ -4,16 +4,13 @@ date: 2026-02-13
 description: New optimizations address NUMA topology challenges in llama.cpp deployments on ARM Neoverse N2 processors, improving multi-socket server performance for local LLM inference.
 tags:
   - advanced
-  - analysis
   - arm
   - arm-architecture
   - arm-server
   - arm-servers
-  - bullish
   - cost-efficiency
   - cost-saving
   - cpu-only
-  - developer
   - edge-device
   - enterprise
   - llama

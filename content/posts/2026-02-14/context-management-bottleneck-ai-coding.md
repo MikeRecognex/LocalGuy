@@ -12,6 +12,7 @@ tags:
   - consumer-gpu
   - consumer-hardware
   - context-management
+  - context-management-optimization
   - context-window
   - context-window-limitations
   - developer
@@ -26,7 +27,9 @@ tags:
   - long-context-handling
   - memory-management
   - model-scaling
+  - model-scaling-strategy
   - multi-file-context
+  - multi-file-context-handling
   - neutral
   - offline-deployment
   - ollama

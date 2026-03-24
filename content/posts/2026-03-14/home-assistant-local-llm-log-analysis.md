@@ -4,21 +4,17 @@ date: 2026-03-14
 description: A practical case study demonstrating how local LLMs can be used for advanced automation and analysis within Home Assistant, revealing the real-world value of on-device AI for smart home applications.
 tags:
   - anomaly-detection
-  - bullish
   - case-study
   - data-privacy
-  - developer
   - edge-inference
   - hobbyist
   - home-automation
-  - intermediate
   - local-llm-applications
   - log-analysis
   - msn
   - on-device-ai
   - practical-deployment
   - predictive-maintenance
-  - showcase
   - smart-home-automation
   - use-case
 mentions:

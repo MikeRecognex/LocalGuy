@@ -1,13 +1,28 @@
 ---
 title: "Mistral Releases Leanstral: First Open-Source Code Agent for Lean 4 Proof Assistant"
 date: 2026-03-17
-description: "Mistral AI releases Leanstral-2603, the first open-source code agent specifically designed for the Lean 4 proof assistant, enabling local automated mathematical theorem proving and formal verification."
+description: Mistral AI releases Leanstral-2603, the first open-source code agent specifically designed for the Lean 4 proof assistant, enabling local automated mathematical theorem proving and formal verification.
 tags:
-  - daily-digest
-  - mistral
-  - open-source
+  - advanced
   - agents
+  - automated-theorem-proving
+  - bullish
+  - developer
+  - developer-workflows
+  - development-workflows
+  - domain-specific-llms
+  - domain-specific-models
+  - formal-verification
+  - lean-4-programming
+  - lean-4-proof-assistant
+  - local-ai-deployment
+  - mathematical-reasoning
+  - mistral
   - model-release
+  - open-source
+  - open-source-code-agent
+  - release
+  - researcher
 status: draft
 ---
 

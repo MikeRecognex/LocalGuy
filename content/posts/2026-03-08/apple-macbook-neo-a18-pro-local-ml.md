@@ -4,17 +4,13 @@ date: 2026-03-08
 description: Apple's new MacBook Neo features the A18 Pro chip, bringing improved on-device ML capabilities to its most affordable laptop tier. The device enables local LLM inference through Apple's optimized frameworks.
 tags:
   - accessibility
-  - analysis
   - apple-ml-frameworks
   - apple-silicon
-  - bullish
   - consumer-gpu
   - cost-saving
-  - developer
   - edge-inference
   - hardware
   - hardware-limitations
-  - intermediate
   - local-llm-inference
   - local-model-deployment
   - model-quantization

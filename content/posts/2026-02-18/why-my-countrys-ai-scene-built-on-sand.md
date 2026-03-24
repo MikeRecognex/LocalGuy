@@ -5,15 +5,11 @@ description: A critical perspective on regional AI development highlighting gaps
 tags:
   - ai-infrastructure
   - ai-infrastructure-gaps
-  - analysis
-  - bullish
   - cautious
   - community-ai-development
   - daily-digest
   - data-sovereignty
-  - developer
   - edge-deployment
-  - intermediate
   - local-deployment
   - local-model-development
   - offline-deployment

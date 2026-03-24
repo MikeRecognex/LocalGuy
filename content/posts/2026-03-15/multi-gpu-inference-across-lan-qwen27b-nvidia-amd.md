@@ -6,12 +6,10 @@ tags:
   - benchmark
   - consumer-gpu
   - cost-saving
-  - developer
   - hardware
   - heterogeneous-hardware
   - heterogeneous-hardware-inference
   - inference-speed
-  - intermediate
   - llama-cpp-features
   - llama-cpp-rpc
   - long-context-inference
@@ -22,7 +20,6 @@ tags:
   - news
   - performance-optimization
   - rlocalllama
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: source

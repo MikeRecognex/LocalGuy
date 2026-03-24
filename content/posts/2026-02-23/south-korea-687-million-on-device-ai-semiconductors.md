@@ -5,19 +5,15 @@ description: South Korea announces a major government investment in developing s
 tags:
   - ai-accelerators
   - ai-policy
-  - analysis
-  - bullish
   - consumer-gpu
   - custom-asic
   - daily-digest
-  - developer
   - edge-device
   - edge-inference
   - hardware
   - hardware-optimization
   - inference-optimization
   - infrastructure
-  - intermediate
   - news
   - on-device-ai
   - on-device-ai-adoption

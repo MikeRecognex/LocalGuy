@@ -3,11 +3,32 @@ title: "OmniCoder-9B: Efficient Coding Model for 8GB GPUs"
 date: 2026-03-16
 description: "OmniCoder-9B emerges as a high-performance coding and tool-calling model optimized for consumer-grade hardware, delivering sophisticated code generation on limited VRAM budgets."
 tags:
-  - daily-digest
+  - bullish
+  - code-generation
   - coding
-  - quantisation
-  - open-source
+  - coding-llm
+  - coding-model
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - developer
   - hardware-optimization
+  - ide-integration
+  - intermediate
+  - local-deployment
+  - local-inference
+  - local-llm-experimentation
+  - model-quantization
+  - on-device-inference
+  - open-source
+  - open-source-models
+  - quantisation
+  - release
+  - resource-efficiency
+  - rlocalllama
+  - showcase
+  - tool-calling
+  - vram-optimization
 status: draft
 ---
 

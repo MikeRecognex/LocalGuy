@@ -3,14 +3,10 @@ title: "Future of Mobile AI: What On-Device Intelligence Means for App Developer
 date: 2026-02-23
 description: Analysis of how on-device AI intelligence is reshaping mobile application development and what implications this has for developers building local LLM-powered features. Covers practical considerations for mobile AI deployment.
 tags:
-  - analysis
   - app-development
-  - bullish
   - daily-digest
-  - developer
   - edge-device
   - edge-inference
-  - intermediate
   - local-llm-features
   - mobile
   - mobile-deployment

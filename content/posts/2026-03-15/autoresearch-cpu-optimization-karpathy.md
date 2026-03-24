@@ -6,11 +6,9 @@ tags:
   - advanced
   - ai-accessibility
   - bopalvelut-prog
-  - bullish
   - cpu-inference
   - cpu-only
   - cpu-optimization
-  - developer
   - edge-device
   - gpu-free-inference
   - gpu-optimization
@@ -19,10 +17,8 @@ tags:
   - hardware-accessibility
   - hardware-compatibility
   - inference
-  - intermediate
   - open-source
   - research-automation
-  - showcase
   - tutorial
 mentions:
   - name: Andrej Karpathy

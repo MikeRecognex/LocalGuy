@@ -9,11 +9,7 @@ tags:
   - agents
   - ai-agent-verification
   - ai-security
-  - analysis
   - autonomous-agents
-  - bullish
-  - developer
-  - intermediate
   - llm-automation
   - local-deployment
   - multi-agent-systems
@@ -22,7 +18,6 @@ tags:
   - production-systems
   - reverse-captcha
   - security
-  - showcase
   - imrobot
 mentions:
   - name: Hacker News

@@ -5,7 +5,6 @@ description: inclusionAI releases Ring-1T-2.5 in FP8 format, claiming state-of-t
 tags:
   - accessible-hardware-optimization
   - advanced
-  - analysis
   - bullish
   - complex-problem-solving
   - consumer-gpu
@@ -14,6 +13,7 @@ tags:
   - deep-thinking
   - developer
   - developer-tooling
+  - efficient-inference
   - fp8-quantization
   - inclusionai
   - intermediate
@@ -34,6 +34,8 @@ tags:
   - showcase
 mentions:
   - name: inclusionAI
+  - name: inclusionAI
+    role: developer
 status: draft
 ---
 inclusionAI has released [Ring-1T-2.5](https://huggingface.co/inclusionAI/Ring-1T-2.5-FP8), positioning it as achieving state-of-the-art performance on deep thinking and reasoning tasks. The model is distributed in FP8 format, representing significant memory optimization for local deployment scenarios.

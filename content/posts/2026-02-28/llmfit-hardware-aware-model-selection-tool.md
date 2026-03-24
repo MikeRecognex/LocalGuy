@@ -6,17 +6,14 @@ tags:
   - consumer-gpu
   - cpu-only
   - deployment-workflow
-  - developer
   - hardware
   - hardware-aware-model-selection
   - hardware-compatibility
-  - intermediate
   - model-memory-management
   - model-selection
   - open-source
   - performance-optimization
   - release
-  - showcase
   - tool
 mentions:
   - name: r/LocalLLaMA

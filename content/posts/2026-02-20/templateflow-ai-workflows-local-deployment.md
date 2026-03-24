@@ -8,7 +8,6 @@ tags:
   - ai-pipelines
   - ai-workflow-design
   - ai-workflows
-  - analysis
   - batching-for-latency
   - bullish
   - complex-reasoning

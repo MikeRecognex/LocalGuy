@@ -3,18 +3,14 @@ title: Samsung Opens Registration for Vision AI QLED and OLED Television Integra
 date: 2026-03-08
 description: Samsung introduces Vision AI capabilities in its QLED and OLED televisions, bringing on-device AI inference to smart TV hardware. The move demonstrates expanding edge computing adoption in consumer electronics.
 tags:
-  - analysis
-  - bullish
   - consumer-electronics-ai
   - data-privacy
-  - developer
   - edge-ai
   - edge-computing
   - edge-device
   - edge-inference
   - hardware
   - inference-optimization
-  - intermediate
   - market-trends
   - model-optimization
   - news

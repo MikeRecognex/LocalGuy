@@ -5,21 +5,17 @@ description: A developer successfully trained FlashLM v5 'Thunderbolt' on CPU ha
 tags:
   - advanced
   - benchmark
-  - bullish
   - cost-saving
   - cpu-only
   - cpu-training
-  - developer
   - efficiency
   - efficient-training
-  - intermediate
   - iterative-model-development
   - model-quantization
   - news
   - on-device-training
   - open-source
   - performance-comparison
-  - showcase
   - training-on-commodity-hardware
 mentions:
   - name: r/LocalLLaMA

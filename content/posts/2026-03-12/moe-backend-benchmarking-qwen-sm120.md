@@ -8,7 +8,6 @@ tags:
   - benchmark-report
   - cautious
   - datacenter-gpu
-  - developer
   - gpu-kernel-optimization
   - hardware
   - hardware-procurement

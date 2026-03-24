@@ -5,16 +5,12 @@ description: Analysis comparing web frameworks by token consumption when used wi
 tags:
   - agents
   - ai-agents
-  - analysis
   - benchmark
-  - bullish
   - daily-digest
-  - developer
   - edge-deployment
   - edge-device
   - inference-cost-optimization
   - inference-optimization
-  - intermediate
   - local-deployment-optimization
   - memory-optimization
   - neutral

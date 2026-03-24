@@ -1,13 +1,37 @@
 ---
 title: "Show HN: Process Mining for AI Agent Systems"
 date: 2026-03-18
-description: "AgentFlow is a new tool for process mining and observability in AI agent systems, helping developers understand, debug, and optimize agent behavior in local deployments."
+description: AgentFlow is a new tool for process mining and observability in AI agent systems, helping developers understand, debug, and optimize agent behavior in local deployments.
 tags:
-  - daily-digest
+  - advanced
+  - agent-debugging
+  - agent-frameworks
+  - agent-observability
+  - agent-tool-use
+  - agentflow
   - agents
+  - analysis
+  - bullish
+  - debugging
+  - developer
+  - hacker-news
+  - intermediate
+  - langchain
+  - llamaindex
+  - local-agent-systems
+  - local-agents
+  - local-deployment
   - observability
   - open-source
-  - debugging
+  - process-mining
+  - production-readiness
+  - production-reliability
+  - showcase
+mentions:
+  - name: AgentFlow
+    role: solution-provider
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

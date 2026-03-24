@@ -5,17 +5,13 @@ description: Agora introduces a pricing oracle system using X402 micropayments f
 tags:
   - advanced
   - agents
-  - analysis
   - api-pricing-oracle
-  - bullish
   - cost-efficient-inference
   - cost-tracking
   - data-privacy
   - decentralized-deployment
-  - developer
   - distributed-inference
   - enterprise
-  - intermediate
   - llm-monetization
   - local-llm-deployment
   - micropayments
@@ -23,7 +19,6 @@ tags:
   - open-source
   - open-source-llms
   - peer-to-peer-inference
-  - showcase
 mentions:
   - name: Agora
     role: creator

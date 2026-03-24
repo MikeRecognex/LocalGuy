@@ -5,22 +5,17 @@ description: A new open-source tool detects AI-generated watermarks embedded in 
 tags:
   - ai-content-transparency
   - ai-watermarking
-  - analysis
-  - bullish
   - compliance-assurance
   - daily-digest
   - detection
-  - developer
   - github
   - hacker-news
-  - intermediate
   - local-deployment
   - local-development
   - model-analysis
   - neutral
   - open-source
   - self-hosting
-  - showcase
   - tools
   - watermark-detection
 mentions:

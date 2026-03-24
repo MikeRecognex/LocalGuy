@@ -1,13 +1,36 @@
 ---
-title: "Snapdragon 8 Elite Gen 5 Hands the Galaxy S26 the AI Upgrade We've Been Waiting For"
+title: Snapdragon 8 Elite Gen 5 Hands the Galaxy S26 the AI Upgrade We've Been Waiting For
 date: 2026-03-18
-description: "Qualcomm's Snapdragon 8 Elite Gen 5 delivers significant improvements to on-device AI performance through enhanced neural processing units, enabling more sophisticated local LLM inference on flagship smartphones. This hardware evolution supports increasingly capable models running natively on mobile devices."
+description: Qualcomm's Snapdragon 8 Elite Gen 5 delivers significant improvements to on-device AI performance through enhanced neural processing units, enabling more sophisticated local LLM inference on flagship smartphones. This hardware evolution supports increasingly capable models running natively on mobile devices.
 tags:
-  - daily-digest
-  - hardware
-  - mobile
   - accelerators
+  - analysis
+  - bullish
+  - consumer-gpu
+  - custom-asic
+  - developer
+  - edge-device
+  - hardware
+  - inference-latency
+  - intermediate
+  - memory-bandwidth
+  - mlx-framework
+  - mobile
+  - mobile-ai-deployment
+  - mobile-device
+  - mobile-llm-inference
+  - model-size-optimization
+  - msn
+  - neural-processing
+  - news
+  - npu-acceleration
+  - on-device-ai
   - performance
+  - quantization-strategies
+  - snapdragon-soc
+mentions:
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

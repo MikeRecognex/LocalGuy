@@ -3,12 +3,8 @@ title: "Anthropic Has Never Open-Sourced an LLM: Implications for Local Deployme
 date: 2026-02-24
 description: Community observation that Anthropic's commitment to closed-source development contrasts sharply with competitors, reinforcing the value proposition of open-weight models for practitioners seeking transparency and long-term autonomy.
 tags:
-  - analysis
   - anthropic
-  - bullish
   - cautious
-  - developer
-  - intermediate
   - local-deployment-strategy
   - local-inference
   - model-fine-tuning

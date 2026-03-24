@@ -4,16 +4,12 @@ date: 2026-03-08
 description: A community member shares practical troubleshooting advice for improving prompt processing performance on larger models like Qwen 27B by configuring ubatch size parameters in llama.cpp.
 tags:
   - advanced
-  - analysis
   - batch-size-optimization
-  - bullish
   - consumer-gpu
-  - developer
   - gpu-optimization
   - gpu-utilization
   - hardware-optimization
   - inference-speed
-  - intermediate
   - large-model-optimization
   - llama-cpp
   - llama-cpp-optimization

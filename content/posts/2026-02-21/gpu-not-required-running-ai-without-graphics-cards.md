@@ -5,13 +5,10 @@ description: A practical guide demonstrating that modern optimized models and in
 tags:
   - accessibility
   - beginner-friendly
-  - bullish
   - cpu-inference
   - cpu-only
-  - developer
   - hobbyist
   - inference-engine
-  - intermediate
   - local-llm-deployment
   - market-expansion
   - model-optimization

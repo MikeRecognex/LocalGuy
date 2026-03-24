@@ -29,8 +29,6 @@ tags:
   - self-hosted-llms
   - showcase
 mentions:
-  - name: Paperless-ngx
-    role: open-source-project
   - name: MSN
     role: publisher
 status: draft

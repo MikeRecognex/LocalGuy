@@ -3,11 +3,34 @@ title: "AI's Impact on Mathematics Analogous to Car's Impact on Cities"
 date: 2026-03-20
 description: "Mathematician Terence Tao shares perspective on how AI fundamentally reshapes mathematical practice and discovery, comparable to urban transformation. This philosophical analysis has implications for how local LLMs should be optimized for knowledge work."
 tags:
-  - daily-digest
-  - research
-  - optimization
+  - advanced
+  - ai-as-thought-partner
+  - ai-in-mathematics
+  - analysis
   - benchmarks
+  - bullish
+  - context-management
+  - daily-digest
+  - developer
+  - hacker-news
+  - inference-speed
+  - intermediate
+  - iterative-reasoning
+  - knowledge-work-workflows
+  - llm-optimization
+  - local-deployment-optimization
+  - neutral
   - open-source
+  - optimization
+  - personal-knowledge-bases
+  - research
+  - research-methodology
+  - researcher
+mentions:
+  - name: Terence Tao
+    role: Mathematician
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

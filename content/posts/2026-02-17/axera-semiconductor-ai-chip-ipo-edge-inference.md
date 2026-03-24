@@ -5,7 +5,6 @@ description: Axera Semiconductor, a Chinese AI chipmaker focused on edge inferen
 tags:
   - ai-accelerators
   - ai-chipmakers
-  - bullish
   - cost-reduction
   - cost-saving
   - custom-asic
@@ -17,7 +16,6 @@ tags:
   - enterprise
   - hardware-strategy
   - inference-efficiency
-  - intermediate
   - ipo
   - ipo-funding
   - local-llm-deployment

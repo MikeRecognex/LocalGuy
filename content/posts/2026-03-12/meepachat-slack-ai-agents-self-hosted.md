@@ -6,13 +6,10 @@ tags:
   - agent-orchestration
   - agents
   - ai-agent-collaboration
-  - bullish
   - data-privacy
   - deployment
-  - developer
   - enterprise
   - hacker-news
-  - intermediate
   - local-llm-agents
   - multi-agent-systems
   - on-device-deployment
@@ -20,7 +17,6 @@ tags:
   - production-deployment
   - self-hosted
   - self-hosted-deployment
-  - showcase
   - vendor-lock-in-avoidance
 mentions:
   - name: Hacker News

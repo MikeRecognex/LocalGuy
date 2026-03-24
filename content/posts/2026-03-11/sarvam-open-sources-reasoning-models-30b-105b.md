@@ -4,14 +4,11 @@ date: 2026-03-11
 description: Indian AI startup Sarvam has released open-source reasoning models in 30B and 105B parameter sizes, providing locally-deployable alternatives for reasoning tasks without reliance on proprietary APIs.
 tags:
   - api-independence
-  - bullish
   - consumer-gpu
   - daily-digest
   - datacenter-gpu
-  - developer
   - edge-deployment
   - hardware-optimization
-  - intermediate
   - local-deployment
   - model-optimization
   - model-release

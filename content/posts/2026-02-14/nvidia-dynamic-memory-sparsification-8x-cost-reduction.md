@@ -20,15 +20,17 @@ tags:
   - model-compression
   - model-efficiency
   - model-retrofitting
+  - model-size-on-consumer-hardware
   - model-size-optimization
   - news
   - nvidia
   - offline-deployment
+  - reasoning-optimization
   - release
   - rlocalllama
 mentions:
   - name: r/LocalLLaMA
-    role: source
+    role: community-forum
 status: draft
 ---
 

@@ -3,11 +3,37 @@ title: "Qwen 3.5 122B Uncensored (Aggressive) Released with New K_P Quantisation
 date: 2026-03-22
 description: "The highly anticipated Qwen 3.5 122B uncensored variant has been released in GGUF format with new K_P quantisation options. This aggressive version removes all refusals while maintaining the original model's capabilities, making it immediately deployable on consumer hardware."
 tags:
+  - bullish
+  - consumer-gpu
+  - consumer-gpu-inference
+  - consumer-hardware-deployment
   - daily-digest
-  - qwen
-  - quantisation
+  - developer
+  - edge-ai-deployment
+  - edge-device
+  - gguf-format
+  - intermediate
+  - large-model-deployment
+  - local-deployment
+  - model-format
+  - model-formats
+  - model-quantization
   - model-release
   - open-source
+  - privacy-preserving-ai
+  - quantisation
+  - qwen
+  - release
+  - rlocalllama
+  - uncensored-ai
+  - uncensored-llm
+  - uncensored-models
+  - vram-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+  - name: Qwen
+    role: model-developer
 status: draft
 ---
 

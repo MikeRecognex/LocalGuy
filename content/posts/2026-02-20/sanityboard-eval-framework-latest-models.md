@@ -6,7 +6,6 @@ tags:
   - agent-frameworks
   - agents
   - alibaba
-  - analysis
   - benchmark-report
   - benchmarking-framework
   - benchmarks
@@ -40,9 +39,11 @@ tags:
   - zhipu
 mentions:
   - name: SanityBoard
-    role: developer
+    role: LLM evaluation framework
   - name: SanityBoard
-    role: evaluation platform
+    role: platform
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

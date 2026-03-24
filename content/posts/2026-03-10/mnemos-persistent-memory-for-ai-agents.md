@@ -4,13 +4,10 @@ date: 2026-03-10
 description: A new open-source project brings persistent memory capabilities to AI agents, enabling stateful local deployments with improved context retention across sessions.
 tags:
   - agents
-  - bullish
   - context-management
-  - developer
   - edge-ai
   - edge-device
   - hacker-news
-  - intermediate
   - local-agents
   - local-deployment
   - mem9-ai
@@ -19,7 +16,6 @@ tags:
   - open-source-ai
   - persistent-memory
   - self-hosted-ai
-  - showcase
   - stateful-agents
 mentions:
   - name: mem9-ai

@@ -4,10 +4,7 @@ date: 2026-03-01
 description: A practical guide demonstrating how to deploy and run efficient LLMs directly on Arduino UNO Q microcontroller hardware, enabling true edge inference on resource-constrained embedded devices.
 tags:
   - advanced
-  - analysis
-  - bullish
   - daily-digest
-  - developer
   - edge-computing-applications
   - edge-device
   - edge-device-deployment

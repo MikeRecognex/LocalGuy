@@ -4,12 +4,9 @@ date: 2026-03-01
 description: A novel UEFI application enables booting directly into LLM inference without operating system overhead, eliminating kernel and driver latency for minimal-footprint deployment.
 tags:
   - advanced
-  - analysis
   - bare-metal
   - bare-metal-inference
-  - bullish
   - cpu-only
-  - developer
   - edge-ai-deployment
   - edge-device
   - edge-inference
@@ -21,7 +18,6 @@ tags:
   - latency-reduction
   - minimal-footprint-deployment
   - optimization
-  - showcase
   - uefi-deployment
 status: published
 ---

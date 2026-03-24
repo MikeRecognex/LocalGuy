@@ -3,17 +3,14 @@ title: "Show HN: Proxly – Self-hosted tunneling on your own domain in 60 secon
 date: 2026-03-08
 description: Proxly enables rapid deployment of self-hosted services with custom domain tunneling, reducing infrastructure overhead for developers exposing locally-running applications.
 tags:
-  - bullish
   - cloud-independence
   - data-residency
   - deployment
-  - developer
   - edge-deployment
   - hacker-news
   - infrastructure
   - infrastructure-automation
   - infrastructure-management
-  - intermediate
   - local-first-architecture
   - local-service-exposure
   - open-source
@@ -22,7 +19,6 @@ tags:
   - secure-networking
   - self-hosted-tunneling
   - self-hosting-llms
-  - showcase
 mentions:
   - name: Proxly
     role: product

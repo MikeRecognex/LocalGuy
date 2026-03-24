@@ -5,13 +5,10 @@ description: Ivy is a new offline AI tutor designed to run locally without inter
 tags:
   - agents
   - application-ecosystem
-  - bullish
   - data-privacy
-  - developer
   - edge-deployment
   - educational-ai
   - hacker-news
-  - intermediate
   - local-inference
   - local-llms
   - offline-ai-tutor
@@ -19,7 +16,6 @@ tags:
   - on-device-ai
   - open-source
   - proactive-ai
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

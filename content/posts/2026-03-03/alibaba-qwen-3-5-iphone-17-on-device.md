@@ -3,15 +3,12 @@ title: Alibaba's Qwen 3.5 Small Model Runs Directly on iPhone 17
 date: 2026-03-03
 description: Alibaba releases Qwen 3.5, a lightweight AI model optimized for on-device inference on Apple's iPhone 17. This breakthrough demonstrates practical edge deployment of capable language models on consumer mobile hardware.
 tags:
-  - analysis
   - apple-silicon
-  - developer
   - edge-ai
   - edge-device
   - edge-inference
   - hardware-aware-optimization
   - inference-latency
-  - intermediate
   - lightweight-models
   - mobile
   - mobile-ai

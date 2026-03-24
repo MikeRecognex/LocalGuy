@@ -6,18 +6,14 @@ tags:
   - advanced
   - ai-operating-system
   - ai-powered-computing
-  - bullish
-  - developer
   - edge-computing
   - edge-device
   - inference-optimization
-  - intermediate
   - local-inference
   - novel-architecture
   - offline-deployment
   - open-source-development
   - production-ops
-  - showcase
   - system-level-ai
 
 mentions:

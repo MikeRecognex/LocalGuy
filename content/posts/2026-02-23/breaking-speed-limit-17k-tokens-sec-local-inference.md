@@ -4,16 +4,12 @@ date: 2026-02-23
 description: Practical strategies and techniques for achieving ultra-high token throughput in local LLM inference, reaching 17,000 tokens per second. Essential performance optimization guide for practitioners running models on-device.
 tags:
   - advanced
-  - analysis
   - batch-processing
-  - bullish
   - consumer-gpu
   - daily-digest
-  - developer
   - edge-device
   - hardware-acceleration
   - inference-speed
-  - intermediate
   - low-latency-inference
   - memory-management
   - optimization

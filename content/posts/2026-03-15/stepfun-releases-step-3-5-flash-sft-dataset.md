@@ -5,10 +5,8 @@ description: StepFun has open-sourced the supervised fine-tuning dataset behind 
 tags:
   - community-driven-development
   - dataset
-  - developer
   - domain-specific-ai
   - fine-tuning
-  - intermediate
   - local-llm-development
   - model-fine-tuning
   - model-optimization

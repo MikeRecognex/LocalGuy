@@ -3,11 +3,34 @@ title: "Rust Project Perspectives on AI"
 date: 2026-03-22
 description: "The Rust project team discusses how AI intersects with systems programming and language design, with implications for building efficient local LLM infrastructure."
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - rust
-  - systems-programming
-  - performance
+  - datacenter-gpu
+  - developer
+  - edge-device
+  - hacker-news
+  - inference-optimization
   - infrastructure
+  - language-design
+  - language-design-for-ai
+  - local-llm-deployment
+  - local-llm-infrastructure
+  - opinion
+  - performance
+  - rust
+  - rust-ecosystem
+  - rust-for-ai
+  - rust-in-ai
+  - systems-programming
+  - the-rust-project
+mentions:
+  - name: The Rust project
+    role: developer-community
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

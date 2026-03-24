@@ -3,15 +3,12 @@ title: Apple M4 iPad Air Targets AI Users with Double M1 Speed Performance
 date: 2026-03-03
 description: Apple introduces the M4 chip in iPad Air at $599, doubling M1 performance and enabling sophisticated on-device AI inference. The affordable entry point democratizes local LLM deployment on Apple hardware.
 tags:
-  - analysis
   - apple-m4
   - apple-silicon
   - consumer-llm-deployment
   - cost-efficiency
-  - developer
   - edge-inference
   - hardware
-  - intermediate
   - ipad
   - local-llm-deployment
   - ml-frameworks

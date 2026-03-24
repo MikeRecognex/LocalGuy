@@ -5,12 +5,9 @@ description: Recent benchmarking reveals that specialized quantization strategie
 tags:
   - advanced
   - advanced-quantization
-  - analysis
   - benchmark
   - benchmark-report
-  - bullish
   - consumer-gpu
-  - developer
   - dynamic-bit-allocation
   - dynamic-quantization
   - llama-cpp

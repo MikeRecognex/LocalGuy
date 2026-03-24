@@ -5,14 +5,11 @@ description: New benchmarks show how recent compact models (Minimax M2.5, Step 3
 tags:
   - benchmark
   - benchmark-report
-  - bullish
   - compact-models
   - consumer-gpu
-  - developer
   - edge-device
   - hardware
   - inference-speed
-  - intermediate
   - memory-constrained-inference
   - model-performance
   - model-quantization

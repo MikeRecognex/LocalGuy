@@ -5,17 +5,14 @@ description: A comprehensive guide demonstrating how to deploy DeepSeek-R1 reaso
 tags:
   - budget-ai-systems
   - budget-friendly
-  - bullish
   - cloud-independence
   - consumer-gpu
   - cost-saving
   - data-privacy
   - deepseek
-  - developer
   - hardware
   - hardware-setup
   - inference-optimization
-  - intermediate
   - local-inference-stack
   - local-llm-deployment
   - model-deployment

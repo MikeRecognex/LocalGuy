@@ -3,13 +3,10 @@ title: DietPi Released a New Version v10.1
 date: 2026-02-22
 description: DietPi v10.1 brings updates to the lightweight Linux distribution purpose-built for single-board computers and edge devices, maintaining relevance for practitioners running local LLMs on resource-constrained hardware like Raspberry Pi and similar platforms.
 tags:
-  - bullish
-  - developer
   - edge-device
   - edge-device-deployment
   - edge-inference
   - inference-optimization
-  - intermediate
   - linux-distribution
   - model-quantization
   - open-source

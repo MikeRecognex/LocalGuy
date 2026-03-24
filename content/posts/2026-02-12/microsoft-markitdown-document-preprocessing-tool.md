@@ -4,16 +4,13 @@ date: 2026-02-12
 description: Microsoft releases MarkItDown, a tool that converts various document formats (PDF, HTML, DOCX, PPTX, XLSX, EPUB) to markdown while also supporting audio transcription, YouTube links, and OCR for images.
 tags:
   - audio-transcription
-  - bullish
   - data-quality-improvement
-  - developer
   - developer-tooling
   - document-conversion
   - document-preprocessing
   - document-processing
   - enterprise
   - format-conversion
-  - intermediate
   - llm-data-preparation
   - llm-preprocessing
   - markitdown
@@ -23,7 +20,6 @@ tags:
   - rag
   - rag-pipeline
   - release
-  - showcase
   - voice
 status: published
 ---

@@ -1,13 +1,36 @@
 ---
 title: "Meet Sarvam Edge: India's AI Model That Runs on Phones and Laptops With No Internet"
 date: 2026-03-19
-description: "Sarvam AI has released Sarvam Edge, a language model specifically optimized for offline inference on mobile devices and laptops without requiring internet connectivity. The model demonstrates the feasibility of deploying capable AI systems on consumer hardware."
+description: Sarvam AI has released Sarvam Edge, a language model specifically optimized for offline inference on mobile devices and laptops without requiring internet connectivity. The model demonstrates the feasibility of deploying capable AI systems on consumer hardware.
 tags:
-  - daily-digest
+  - bullish
+  - consumer-gpu
+  - data-privacy
+  - data-sovereignty
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - intermediate
+  - latency-reduction
   - mobile
+  - mobile-deployment
+  - msn
   - offline-inference
+  - on-device-ai
   - open-source
+  - production-deployment
+  - release
+  - sarvam-ai
+  - sarvam-edge
+  - showcase
+mentions:
+  - name: Sarvam AI
+    role: developer
+  - name: Sarvam Edge
+    role: product
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

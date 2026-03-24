@@ -7,16 +7,11 @@ tags:
   - agent-orchestration
   - agents
   - ai-agent-development
-  - analysis
-  - bullish
-  - developer
   - developer-experience
   - framework
   - integration
-  - intermediate
   - local-deployment
   - ruby-on-rails
-  - showcase
   - web-framework-integration
 mentions:
   - name: Hacker News

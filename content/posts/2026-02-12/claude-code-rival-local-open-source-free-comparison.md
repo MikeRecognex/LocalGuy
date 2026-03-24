@@ -3,17 +3,14 @@ title: I Tried a Claude Code Rival That's Local, Open Source, and Completely Fre
 date: 2026-02-12
 description: Hands-on comparison of a local, open-source alternative to Claude's coding capabilities, demonstrating competitive performance for code generation tasks.
 tags:
-  - bullish
   - code-generation
   - coding
   - comparison
   - consumer-gpu
   - cost-saving
   - data-privacy
-  - developer
   - developer-tooling
   - developer-tools
-  - intermediate
   - local-llm-alternatives
   - local-llm-deployment
   - offline-deployment

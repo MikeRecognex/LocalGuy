@@ -5,17 +5,13 @@ description: Alibaba's Qwen 3.5-397B mixture-of-experts model is now available o
 tags:
   - advanced
   - alibaba
-  - analysis
   - benchmarks
-  - bullish
   - consumer-gpu
   - consumer-hardware-deployment
   - cost-saving
-  - developer
   - developer-tooling
   - gemini
   - hugging-face
-  - intermediate
   - llama
   - llama-cpp
   - llama-cpp-integration

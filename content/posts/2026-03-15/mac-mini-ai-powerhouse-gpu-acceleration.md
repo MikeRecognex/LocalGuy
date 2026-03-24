@@ -3,25 +3,21 @@ title: Startup Transforms Mac Mini Into Full-Powered AI Inference System With Ex
 date: 2026-03-15
 description: A new approach enables Mac Mini systems to leverage external NVIDIA and AMD GPUs for dramatically enhanced local LLM inference performance.
 tags:
-  - analysis
   - apple-silicon
   - apple-silicon-optimization
   - apple-silicon-workarounds
   - consumer-gpu
   - cost-effective-ai
-  - developer
   - external-gpu-acceleration
   - gpu-acceleration
   - hardware
   - inference-optimization
   - inference-speed
-  - intermediate
   - local-inference
   - local-llm-inference
   - mac-mini-ai
   - macos-integration
   - model-management
-  - showcase
   - thunderbolt-pcie
   - wccftech
 mentions:

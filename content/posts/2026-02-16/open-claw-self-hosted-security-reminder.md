@@ -5,15 +5,11 @@ description: "A critical reminder about Open Claw's architecture: the tool is ex
 tags:
   - agents
   - alert
-  - analysis
-  - bullish
   - cautious
   - credential-management
   - data-privacy
-  - developer
   - enterprise
   - infrastructure-security
-  - intermediate
   - local-first-security
   - news
   - offline-deployment

@@ -3,11 +3,34 @@ title: "Build a $1,500 AI Server with DeepSeek-R1 on RTX 4090"
 date: 2026-03-21
 description: "Practical guide for assembling and configuring a sub-$1,500 AI inference server using NVIDIA RTX 4090 and DeepSeek-R1, including setup instructions and performance expectations for local deployments."
 tags:
-  - daily-digest
-  - deepseek
-  - hardware
-  - server-setup
+  - ai-server-build
+  - ai-server-setup
   - budget-optimization
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - deepseek
+  - enterprise
+  - hardware
+  - inference-benchmarking
+  - intermediate
+  - local-deployment
+  - local-inference
+  - local-llm-deployment
+  - model-serving
+  - model-serving-frameworks
+  - on-premise-ai
+  - on-premise-inference
+  - server-setup
+  - sitepoint
+  - software-optimization
+  - system-optimization
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
 status: draft
 ---
 

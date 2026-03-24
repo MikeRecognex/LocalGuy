@@ -4,12 +4,9 @@ date: 2026-03-03
 description: A new macOS application enables push-to-talk voice transcription with the option to run entirely locally without cloud dependencies. This demonstrates practical integration of speech recognition models for on-device inference.
 tags:
   - apple-silicon
-  - bullish
   - consumer-gpu
   - cost-saving
-  - developer
   - edge-inference
-  - intermediate
   - local-llm-integration
   - macos
   - macos-optimization
@@ -17,7 +14,6 @@ tags:
   - on-device-inference
   - open-source
   - privacy-compliance
-  - showcase
   - speech-recognition
   - voice-transcription
   - VibeWhisper

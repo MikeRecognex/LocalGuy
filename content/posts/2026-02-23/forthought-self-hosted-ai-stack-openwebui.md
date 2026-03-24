@@ -5,13 +5,11 @@ description: FORTHought is a complete self-hosted AI stack purpose-built for res
 tags:
   - advanced
   - application-features
-  - bullish
   - data-privacy
   - data-sovereignty
   - deployment
   - enterprise
   - framework
-  - intermediate
   - llm-orchestration
   - local-llm-deployment
   - open-source
@@ -19,7 +17,6 @@ tags:
   - research-ai
   - self-hosted
   - self-hosted-ai
-  - showcase
 mentions:
   - name: Marios Adamidis
     handle: "@MariosAdamidis"

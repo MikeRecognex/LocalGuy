@@ -1,13 +1,35 @@
 ---
-title: "Kilo Is the VS Code Extension That Actually Works With Every Local LLM I Throw At It"
+title: Kilo Is the VS Code Extension That Actually Works With Every Local LLM I Throw At It
 date: 2026-03-19
-description: "Kilo, a new VS Code extension, provides seamless integration with multiple local LLM backends, enabling developers to use self-hosted models for code generation and assistance without switching tools."
+description: Kilo, a new VS Code extension, provides seamless integration with multiple local LLM backends, enabling developers to use self-hosted models for code generation and assistance without switching tools.
 tags:
-  - daily-digest
+  - analysis
+  - bullish
+  - code-generation
+  - code-privacy
+  - cost-saving
+  - developer
+  - developer-experience
+  - developer-productivity
+  - enterprise
+  - inference-latency
+  - intermediate
+  - kilo
+  - llm-inference-engines
+  - local-llm-integration
+  - msn
+  - open-source
+  - self-hosted-ai
+  - self-hosted-llms
+  - showcase
   - tooling
   - vs-code
-  - developer-productivity
-  - open-source
+  - vs-code-integration
+mentions:
+  - name: Kilo
+    role: extension
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

@@ -6,7 +6,6 @@ tags:
   - advanced
   - alibaba
   - benchmarks
-  - bullish
   - cost-saving
   - efficient-inference
   - enterprise

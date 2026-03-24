@@ -3,17 +3,13 @@ title: AI-Native Store Research
 date: 2026-03-01
 description: An exploration of how AI is being integrated into retail environments, including potential applications of local LLM deployment for edge-based customer interaction and inventory management systems.
 tags:
-  - analysis
   - applications
-  - bullish
   - commercial-applications
   - data-privacy
-  - developer
   - edge-ai-deployment
   - edge-device
   - edge-inference
   - enterprise
-  - intermediate
   - inventory-management-ai
   - model-optimization
   - performance-requirements

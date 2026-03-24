@@ -12,19 +12,21 @@ tags:
   - daily-digest
   - developer
   - hardware
+  - inference-optimization
   - inference-speed
   - intermediate
   - local-deployment
   - long-context-window
   - mixture-of-experts
+  - moe-architecture
   - moe-inference
   - moe-inference-efficiency
   - performance
   - quantisation
   - qwen
   - rlocalllama
-  - showcase
   - vulkan-backend
+  - vulkan-optimization
 mentions:
   - name: r/LocalLLaMA
     role: community

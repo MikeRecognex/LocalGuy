@@ -5,13 +5,10 @@ description: Alibaba releases GLM-5 technical report detailing key innovations i
 tags:
   - advanced
   - alibaba
-  - analysis
-  - bullish
   - context-window
   - cost-reduction
   - cost-saving
   - deployment-optimization
-  - developer
   - distributed-scaling-architecture
   - edge-deployment
   - glm

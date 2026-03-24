@@ -4,15 +4,12 @@ date: 2026-02-19
 description: Kitten ML has released three new open-source TTS models (80M, 40M, 14M parameters) with expressive capabilities and Apache 2.0 licensing, enabling high-quality speech synthesis on resource-constrained devices.
 tags:
   - apple-silicon
-  - bullish
   - consumer-gpu
-  - developer
   - developer-tooling
   - edge-deployment
   - edge-device
   - edge-inference
   - inference-frameworks
-  - intermediate
   - kitten-tts
   - llama
   - llama-cpp
@@ -25,7 +22,6 @@ tags:
   - open-source
   - open-source-licensing
   - release
-  - showcase
   - speech-synthesis
   - text-to-speech
   - voice

@@ -5,10 +5,7 @@ description: A new tool enables monitoring and detecting when LLMs silently alte
 tags:
   - advanced
   - aelitium-dev
-  - analysis
-  - bullish
   - deployment-tools
-  - developer
   - hacker-news
   - inference-reliability
   - llm-monitoring
@@ -21,7 +18,6 @@ tags:
   - production-deployment
   - reliability
   - self-hosted-reliability
-  - showcase
 mentions:
   - name: aelitium-dev
     role: developer

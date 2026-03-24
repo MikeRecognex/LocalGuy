@@ -5,13 +5,10 @@ description: Qwen's 35B model hits near-Claude-Opus performance on the challengi
 tags:
   - benchmark
   - benchmark-report
-  - bullish
   - code-generation
   - consumer-gpu
   - cost-saving
   - data-privacy
-  - developer
-  - intermediate
   - local-llm-viability
   - model-deployment
   - open-source

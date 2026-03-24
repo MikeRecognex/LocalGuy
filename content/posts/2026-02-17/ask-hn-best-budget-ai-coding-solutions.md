@@ -4,17 +4,13 @@ date: 2026-02-17
 description: Community discussion on cost-effective AI coding solutions, likely covering locally-runnable models and self-hosted alternatives to expensive cloud APIs.
 tags:
   - ai-coding-assistants
-  - analysis
-  - bullish
   - coding
   - consumer-gpu
   - cost-saving
   - data-privacy
-  - developer
   - developer-tooling
   - discussion
   - edge-deployment
-  - intermediate
   - latency-reduction
   - llama
   - local-llm-deployment

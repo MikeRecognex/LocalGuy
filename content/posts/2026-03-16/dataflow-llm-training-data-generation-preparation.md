@@ -3,11 +3,33 @@ title: "Show HN: Generate, Clean, and Prepare LLM Training Data, All-in-One"
 date: 2026-03-16
 description: "DataFlow is an open-source tool for generating, cleaning, and preparing training datasets for LLMs in a unified pipeline, enabling practitioners to build and fine-tune local models with curated data."
 tags:
+  - bullish
   - daily-digest
-  - fine-tuning
-  - open-source
+  - data-pipeline-management
   - data-preparation
+  - data-privacy
+  - developer
+  - fine-tuning
+  - hacker-news
+  - intermediate
+  - llm-training-data-preparation
+  - llm-training-pipeline
+  - local-fine-tuning
+  - local-llm-training
+  - local-model-fine-tuning
+  - local-model-finetuning
+  - model-fine-tuning
+  - open-source
+  - open-source-tooling
+  - open-source-tools
+  - opendcai
+  - showcase
   - training
+mentions:
+  - name: OpenDCAI
+    role: project-owner
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

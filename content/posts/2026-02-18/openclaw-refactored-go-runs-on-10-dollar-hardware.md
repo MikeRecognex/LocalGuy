@@ -3,16 +3,12 @@ title: OpenClaw Refactored in Go, Runs on $10 Hardware
 date: 2026-02-18
 description: OpenClaw has been refactored in Go and now runs efficiently on extremely cheap hardware, making local AI inference accessible on budget-constrained edge devices.
 tags:
-  - analysis
-  - bullish
   - cost-saving
   - decentralized-ai
-  - developer
   - distributed-ai
   - edge-ai-deployment
   - edge-device
   - go-programming
-  - intermediate
   - low-cost-inference
   - minimal-hardware-ai
   - offline-ai
@@ -20,7 +16,6 @@ tags:
   - openclaw
   - release
   - resource-optimization
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

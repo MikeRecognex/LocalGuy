@@ -6,11 +6,8 @@ tags:
   - accelerators
   - advanced
   - ai-accelerators
-  - analysis
-  - bullish
   - custom-accelerator
   - custom-asic
-  - developer
   - edge-deployment
   - edge-device
   - enterprise
@@ -18,7 +15,6 @@ tags:
   - heterogeneous-deployment
   - inference-cost-reduction
   - inference-optimization
-  - intermediate
   - local-llm-deployment
   - news
   - on-device-inference

@@ -5,13 +5,10 @@ description: A new macOS application brings local LLM-powered code completion to
 tags:
   - apple-silicon
   - application-innovation
-  - bullish
   - code-completion
   - consumer-gpu
   - context-switching
-  - developer
   - edge-inference
-  - intermediate
   - latency-reduction
   - local-deployment
   - local-inference
@@ -20,7 +17,6 @@ tags:
   - on-device-inference
   - privacy-preserving-ai
   - productivity
-  - showcase
   - user-demand
 mentions:
   - name: Caret

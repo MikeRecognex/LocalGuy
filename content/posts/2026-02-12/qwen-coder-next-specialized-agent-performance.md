@@ -8,20 +8,15 @@ tags:
   - agentic-workflows
   - agents
   - alibaba
-  - analysis
-  - bullish
   - code-generation
   - coding
-  - developer
   - developer-tooling
   - document-processing
   - information-synthesis
-  - intermediate
   - local-deployment
   - model-evaluation
   - qwen
   - reasoning-capabilities
-  - showcase
 status: published
 ---
 

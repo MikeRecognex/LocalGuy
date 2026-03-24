@@ -5,15 +5,12 @@ description: Developer releases benchmark testing LLMs on actual coding tasks wi
 tags:
   - benchmark-report
   - benchmarks
-  - bullish
   - code-generation
   - code-llm-benchmarking
   - coding
   - coding-benchmark
-  - developer
   - developer-tooling
   - hardware-investment-strategy
-  - intermediate
   - local-model-selection
   - model-comparison
   - model-evaluation

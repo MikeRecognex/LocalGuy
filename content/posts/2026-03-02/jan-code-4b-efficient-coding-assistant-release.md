@@ -3,16 +3,13 @@ title: Jan Releases Code-Tuned 4B Model for Efficient Local Code Generation and 
 date: 2026-03-02
 description: The Jan team open-sources Jan-Code-4B, a specialized 4-billion parameter model fine-tuned for code generation, refactoring, debugging, and test writing while optimizing for local deployment and efficiency.
 tags:
-  - analysis
   - code-assistance
   - code-generation
   - consumer-gpu
   - daily-digest
-  - developer
   - developer-tools
   - domain-specific-ai
   - fine-tuning
-  - intermediate
   - local-deployment
   - model-optimization
   - model-specialization

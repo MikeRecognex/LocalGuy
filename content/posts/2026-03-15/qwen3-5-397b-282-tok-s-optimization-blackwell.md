@@ -7,12 +7,10 @@ tags:
   - benchmark
   - custom-kernel-development
   - datacenter-gpu
-  - developer
   - docker-deployment
   - flashinfer
   - hardware
   - inference-speed
-  - intermediate
   - kernel-optimization
   - large-model-inference
   - local-llm-deployment
@@ -22,7 +20,6 @@ tags:
   - performance-optimization
   - quantisation
   - rlocalllama
-  - showcase
   - tutorial
 mentions:
   - name: FlashInfer

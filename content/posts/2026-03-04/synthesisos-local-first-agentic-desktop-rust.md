@@ -7,14 +7,11 @@ tags:
   - agent-development
   - agentic-ai
   - agents
-  - bullish
   - data-locality
   - data-privacy
-  - developer
   - edge-inference
   - hacker-news
   - inference-optimization
-  - intermediate
   - local-ai-agents
   - local-first-ai
   - local-inference
@@ -29,7 +26,6 @@ tags:
   - rust-for-ai
   - rust-programming
   - self-hosted-llms
-  - showcase
   - synthesisos
 mentions:
   - name: SynthesisOS

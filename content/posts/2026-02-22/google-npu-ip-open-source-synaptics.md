@@ -5,10 +5,7 @@ description: Google has open-sourced its Neural Processing Unit IP architecture,
 tags:
   - acceleration
   - advanced
-  - analysis
-  - bullish
   - custom-asic
-  - developer
   - edge-ai
   - edge-deployment
   - edge-device
@@ -17,7 +14,6 @@ tags:
   - hardware-commoditization
   - hardware-design
   - hardware-software-co-optimization
-  - intermediate
   - npu
   - open-source
   - open-source-hardware

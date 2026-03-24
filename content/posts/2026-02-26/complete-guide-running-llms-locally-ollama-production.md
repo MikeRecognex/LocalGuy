@@ -5,6 +5,7 @@ description: "A comprehensive guide covering the full lifecycle of deploying LLM
 tags:
   - bullish
   - consumer-gpu
+  - consumer-hardware
   - cost-saving
   - daily-digest
   - data-privacy
@@ -13,6 +14,7 @@ tags:
   - developer
   - enterprise
   - inference-management
+  - inference-optimization
   - intermediate
   - latency-reduction
   - llm-deployment
@@ -20,14 +22,17 @@ tags:
   - local-llm-deployment
   - ollama
   - ollama-deployment
+  - ollama-setup
+  - on-device-inference
   - performance-optimization
   - production
   - production-deployment
+  - self-hosted-ai
   - sitepoint
   - system-reliability
   - tutorial
 mentions:
-  - name: SitePoint
+  - name: Sitepoint
     role: publisher
   - name: SitePoint
     role: publisher

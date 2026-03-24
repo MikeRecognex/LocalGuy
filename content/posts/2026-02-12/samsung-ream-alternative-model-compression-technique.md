@@ -4,17 +4,13 @@ date: 2026-02-12
 description: Samsung introduces REAM as a less damaging alternative to traditional REAP model compression methods used by other companies, potentially offering better performance preservation during model shrinking.
 tags:
   - advanced
-  - analysis
-  - bullish
   - cerebras
   - consumer-gpu
   - consumer-hardware-optimization
   - deepseek
-  - developer
   - edge-deployment
   - edge-device
   - glm
-  - intermediate
   - minimax
   - model-compression
   - model-compression-optimization

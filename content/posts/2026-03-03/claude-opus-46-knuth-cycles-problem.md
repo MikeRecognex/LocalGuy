@@ -5,7 +5,6 @@ description: A major LLM demonstrates solving a complex algorithmic problem from
 tags:
   - advanced
   - algorithmic-complexity
-  - analysis
   - api-independence
   - application-development
   - benchmarks
@@ -17,7 +16,6 @@ tags:
   - model-reasoning
   - reasoning
   - researcher
-  - showcase
   - blockchain-authentication
   - Knuth
 mentions:

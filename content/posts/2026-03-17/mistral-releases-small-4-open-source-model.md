@@ -3,11 +3,34 @@ title: "Mistral Releases Small 4 Open-Source Model Under Apache 2.0"
 date: 2026-03-17
 description: "Mistral has released Small 4, a new open-source language model under the permissive Apache 2.0 license, making it ideal for local deployment and commercial applications without licensing restrictions."
 tags:
+  - analysis
+  - bullish
+  - commercial-deployment
+  - community-optimization
+  - consumer-gpu
+  - consumer-hardware-deployment
   - daily-digest
-  - open-source
-  - model-release
-  - mistral
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
+  - efficient-model-deployment
+  - efficient-models
+  - intermediate
+  - licensing
+  - local-deployment
+  - local-inference
+  - local-inference-frameworks
+  - mistral
+  - model-quantization
+  - model-release
+  - open-source
+  - open-source-models
+  - release
+  - testingcatalog
+mentions:
+  - name: TestingCatalog
+    role: publisher
 status: draft
 ---
 

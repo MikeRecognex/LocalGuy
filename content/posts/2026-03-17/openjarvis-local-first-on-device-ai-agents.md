@@ -3,11 +3,35 @@ title: "OpenJarvis: Local-First AI Agents That Run Entirely On-Device"
 date: 2026-03-17
 description: "OpenJarvis introduces a framework for building AI agents that execute entirely on local hardware, eliminating cloud dependencies and enabling privacy-preserving autonomous workflows."
 tags:
-  - daily-digest
+  - agent-frameworks
+  - agent-orchestration
   - agents
-  - on-device
-  - privacy
+  - analysis
+  - bullish
+  - cloud-independence
+  - cloud-to-edge-migration
+  - daily-digest
+  - data-privacy
+  - dataconomy
+  - developer
+  - edge-computing
+  - edge-device
+  - intermediate
+  - local-ai-agents
   - local-first
+  - on-device
+  - on-device-execution
+  - openjarvis
+  - privacy
+  - privacy-preserving-ai
+  - showcase
+mentions:
+  - name: Dataconomy
+    role: publisher
+  - name: OpenJarvis
+    role: project
+  - name: Dataconomy
+    role: publisher
 status: draft
 ---
 

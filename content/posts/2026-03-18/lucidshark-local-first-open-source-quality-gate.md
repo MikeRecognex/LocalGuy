@@ -1,13 +1,35 @@
 ---
-title: "LucidShark – Local-first, open-source quality and security gate"
+title: LucidShark – Local-first, open-source quality and security gate
 date: 2026-03-18
-description: "LucidShark is a new open-source tool designed for local-first quality assurance and security validation, enabling developers to run content moderation and safety checks on-device without cloud dependencies."
+description: LucidShark is a new open-source tool designed for local-first quality assurance and security validation, enabling developers to run content moderation and safety checks on-device without cloud dependencies.
 tags:
-  - daily-digest
-  - open-source
-  - security
-  - local-first
   - agents
+  - analysis
+  - bullish
+  - content-moderation
+  - developer
+  - edge-device
+  - edge-inference
+  - hacker-news
+  - intermediate
+  - local-first
+  - local-inference
+  - local-quality-assurance
+  - lucidsharkcom
+  - model-validation
+  - on-device-deployment
+  - open-source
+  - privacy-preserving-ai
+  - production-deployment
+  - quality-assurance
+  - security
+  - security-validation
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: lucidshark.com
+    role: publisher
 status: draft
 ---
 

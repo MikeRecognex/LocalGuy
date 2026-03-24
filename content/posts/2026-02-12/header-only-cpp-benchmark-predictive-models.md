@@ -6,12 +6,9 @@ tags:
   - advanced
   - benchmarks
   - binary-stream-processing
-  - bullish
   - c-benchmarking
-  - developer
   - developer-tooling
   - integration-guide
-  - intermediate
   - llama
   - llama-cpp
   - llm-inference-optimization
@@ -22,7 +19,6 @@ tags:
   - production-ops
   - quantisation
   - release
-  - showcase
 mentions:
   - name: GitHub
     role: platform

@@ -15,7 +15,10 @@ tags:
   - edge-device
   - flash-attention-optimization
   - flashindexer-optimization
+  - flashindexer-optimizations
+  - indexing-performance
   - inference-indexing
+  - infrastructure-optimization
   - intermediate
   - local-inference
   - marktechpost
@@ -23,14 +26,19 @@ tags:
   - multimodal
   - news
   - nvidia
+  - nvidia-gpu
   - offline-deployment
+  - on-device-ai-infrastructure
   - performance-optimization
+  - production-deployment
   - production-ops
   - rag
   - rag-pipeline
   - rag-pipeline-optimization
+  - rag-pipeline-performance
   - release
   - self-hosted
+  - software-update
   - vision-language-models
 mentions:
   - name: MarkTechPost

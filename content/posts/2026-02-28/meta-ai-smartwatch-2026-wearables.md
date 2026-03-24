@@ -4,9 +4,6 @@ date: 2026-02-28
 description: Meta's 2026 smartwatch announcement signals the industry's push toward on-device AI in wearable devices, creating new hardware constraints and opportunities for edge model optimization.
 tags:
   - advanced
-  - analysis
-  - bullish
-  - developer
   - edge-ai-optimization
   - edge-device
   - edge-inference

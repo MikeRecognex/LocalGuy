@@ -3,11 +3,36 @@ title: "A New Magnetic Material for the AI Era"
 date: 2026-03-17
 description: "Tohoku University researchers have developed a novel magnetic material optimized for AI workloads, offering potential breakthroughs in hardware efficiency for local LLM inference."
 tags:
+  - advanced
+  - ai-hardware-materials
+  - analysis
+  - bullish
+  - consumer-hardware
   - daily-digest
-  - hardware
-  - inference-acceleration
+  - developer
+  - edge-ai-deployment
   - edge-deployment
+  - edge-device
+  - energy-efficiency
+  - hacker-news
+  - hardware
+  - hardware-efficiency
+  - inference-acceleration
+  - inference-efficiency
+  - local-inference-acceleration
+  - material-science
+  - memory-subsystems
+  - news
+  - on-device-inference
   - performance-optimization
+  - tohoku-university
+mentions:
+  - name: Tohoku University
+    role: researcher
+  - name: Tohoku University
+    role: research institution
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

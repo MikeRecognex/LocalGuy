@@ -5,16 +5,13 @@ description: A practical case study demonstrating that running local LLMs remain
 tags:
   - benchmark
   - benchmark-report
-  - bullish
   - case-study
   - cost-analysis
   - cost-saving
-  - developer
   - energy-efficiency
   - enterprise
   - hardware
   - inference-optimization
-  - intermediate
   - local-deployment-benefits
   - local-inference-cost
   - local-llm-deployment

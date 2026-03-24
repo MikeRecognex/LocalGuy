@@ -3,15 +3,11 @@ title: Android Phones Are Getting Smarter Without Internet — Here's Why On-Dev
 date: 2026-02-27
 description: Exploration of how Android devices are increasingly running AI models natively without internet connectivity, marking a fundamental shift in mobile computing toward true local inference.
 tags:
-  - analysis
   - android
-  - bullish
-  - developer
   - edge-ai-deployment
   - edge-device
   - edge-inference
   - enterprise
-  - intermediate
   - local-inference
   - mobile-ai-hardware
   - mobile-processors

@@ -4,17 +4,14 @@ date: 2026-03-01
 description: Qwen 3.5-35B-A3B is delivering exceptional performance at one-third the size of previous daily drivers, offering significant efficiency gains for local deployment without sacrificing capability.
 tags:
   - benchmark
-  - bullish
   - consumer-gpu
   - consumer-hardware
   - cost-saving
-  - developer
   - edge-deployment
   - edge-device
   - efficiency
   - hardware-optimization
   - inference-speed
-  - intermediate
   - local-inference
   - model-5-35b-a3b
   - model-compression
@@ -24,7 +21,6 @@ tags:
   - power-efficiency
   - qwen
   - qwen-model
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: community

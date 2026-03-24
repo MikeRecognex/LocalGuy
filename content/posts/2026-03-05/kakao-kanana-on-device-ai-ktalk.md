@@ -5,16 +5,13 @@ description: Kakao introduced Kanana, an on-device AI assistant integrated into 
 tags:
   - agents
   - ai-assistant-features
-  - bullish
   - chosuncom
   - consumer-gpu
   - consumer-hardware-deployment
-  - developer
   - edge-ai
   - edge-device
   - edge-inference
   - google-news
-  - intermediate
   - kakao
   - kanana
   - latency-reduction
@@ -27,7 +24,6 @@ tags:
   - practical-deployment
   - privacy-preserving-ai
   - release
-  - showcase
 mentions:
   - name: Kakao
     role: developer

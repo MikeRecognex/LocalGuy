@@ -6,13 +6,9 @@ tags:
   - advanced
   - agents
   - ai-agents
-  - analysis
   - blockchain-authentication
-  - bullish
   - decentralized-infrastructure
   - decentralized-storage
-  - developer
-  - intermediate
   - local-deployment
   - mcp
   - multi-modal-context-processing
@@ -20,7 +16,6 @@ tags:
   - on-device-agents
   - on-device-inference
   - privacy-compliance
-  - showcase
   - storage
   - verifiable-storage
 mentions:

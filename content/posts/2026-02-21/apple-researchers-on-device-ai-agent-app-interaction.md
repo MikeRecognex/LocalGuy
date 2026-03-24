@@ -9,12 +9,9 @@ tags:
   - apple
   - apple-silicon
   - autonomous-ai
-  - bullish
   - consumer-device
-  - developer
   - edge-device
   - edge-inference
-  - intermediate
   - latency-reduction
   - local-inference
   - news
@@ -23,7 +20,6 @@ tags:
   - on-device-vs-cloud-ai
   - privacy-compliance
   - privacy-preserving-ai
-  - showcase
 mentions:
   - name: 9to5Mac
     role: publisher

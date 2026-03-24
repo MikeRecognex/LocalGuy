@@ -4,23 +4,18 @@ date: 2026-02-23
 description: New open-source tool enables developers to generate Git commit messages using local LLMs via a simple CLI interface, avoiding reliance on cloud-based AI services.
 tags:
   - ai-generated-commits
-  - analysis
-  - bullish
   - cloud-independence
   - cost-saving
   - daily-digest
   - data-privacy
   - deployment
-  - developer
   - developer-workflows
   - integration
-  - intermediate
   - local-inference-adoption
   - local-llm-cli
   - local-llm-ecosystem
   - local-model-integration
   - open-source
-  - showcase
   - tools
 mentions:
   - name: Hacker News

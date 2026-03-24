@@ -5,25 +5,21 @@ description: A scheduling application that uses LLMs to intelligently decide whi
 tags:
   - agents
   - ai-reasoning
-  - bullish
   - business-workflow-integration
   - buxoai
   - consumer-llm-integration
   - contextual-ai
-  - developer
   - edge-ai-deployment
   - edge-device
   - enterprise
   - hacker-news
   - inference
   - intelligent-scheduling
-  - intermediate
   - llm-application
   - llm-integration
   - local-vs-cloud-deployment
   - practical-application
   - scheduling-automation
-  - showcase
 mentions:
   - name: Buxo.ai
     role: developer

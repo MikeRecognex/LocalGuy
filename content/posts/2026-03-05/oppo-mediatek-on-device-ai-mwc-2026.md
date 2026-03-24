@@ -4,7 +4,6 @@ date: 2026-03-05
 description: OPPO and MediaTek demonstrated new on-device AI capabilities for smartphones at MWC 2026, including progress on their Omni model and advances in cross-ecosystem connectivity, highlighting the industry shift toward edge inference on mobile hardware.
 tags:
   - ai-model-development
-  - analysis
   - bullish
   - developer
   - ecosystem-integration
@@ -32,15 +31,15 @@ tags:
   - showcase
 mentions:
   - name: OPPO
-    role: partner
+    role: developer
   - name: MediaTek
-    role: partner
+    role: developer
   - name: OPPO
     role: collaborator
   - name: MediaTek
     role: collaborator
   - name: Google News
-    role: source
+    role: publisher
 status: draft
 ---
 

@@ -1,13 +1,33 @@
 ---
-title: "Skills Manager – manage AI agent skills across Claude, Cursor, Copilot"
+title: Skills Manager – manage AI agent skills across Claude, Cursor, Copilot
 date: 2026-03-18
-description: "A tool for centralized management and orchestration of AI agent skills and capabilities across multiple local and API-based models."
+description: A tool for centralized management and orchestration of AI agent skills and capabilities across multiple local and API-based models.
 tags:
-  - daily-digest
+  - advanced
+  - agent-architecture
+  - agent-design-patterns
+  - agent-orchestration
+  - agent-skill-management
+  - agent-systems
   - agents
+  - ai-agent-skills
+  - ai-system-scaling
+  - analysis
+  - bullish
+  - data-privacy
+  - developer
+  - hacker-news
+  - hybrid-ai-deployment
+  - hybrid-model-deployment
+  - intermediate
   - open-source
-  - tools
   - orchestration
+  - privacy-compliance
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

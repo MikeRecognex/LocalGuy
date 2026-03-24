@@ -3,12 +3,9 @@ title: 8 Local LLM Settings Most People Never Touch That Fixed My Worst AI Probl
 date: 2026-03-10
 description: A practical guide exploring often-overlooked configuration parameters in local LLM deployments that can dramatically improve performance and resolve common issues.
 tags:
-  - bullish
   - configuration
   - cost-saving
-  - developer
   - inference-speed
-  - intermediate
   - local-llm
   - local-llm-configuration
   - local-llm-deployment

@@ -4,12 +4,9 @@ date: 2026-03-07
 description: A new specification for standardizing AI output formats, enabling better interoperability between local LLM systems and downstream applications.
 tags:
   - ai-output-standardization
-  - bullish
-  - developer
   - edge-deployment
   - edge-device
   - hacker-news
-  - intermediate
   - interoperability
   - llm-interoperability
   - local-ai-stack

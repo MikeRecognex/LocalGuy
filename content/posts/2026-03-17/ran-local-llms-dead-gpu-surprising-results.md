@@ -3,11 +3,31 @@ title: "I Ran Local LLMs on a 'Dead' GPU, and the Results Surprised Me"
 date: 2026-03-17
 description: "A practical case study demonstrating how to resurrect older or underutilized GPUs for efficient local LLM inference, revealing untapped potential in consumer hardware."
 tags:
-  - daily-digest
-  - hardware-efficiency
-  - gpu-optimization
-  - cost-reduction
+  - benchmark-report
+  - benchmarking
   - benchmarks
+  - bullish
+  - case-study
+  - consumer-gpu
+  - consumer-hardware-optimization
+  - cost-effective-inference
+  - cost-reduction
+  - cost-saving
+  - daily-digest
+  - developer
+  - gpu-optimization
+  - hardware-benchmarking
+  - hardware-efficiency
+  - hardware-reuse
+  - hobbyist
+  - inference-optimization
+  - intermediate
+  - legacy-gpu-inference
+  - model-quantization
+  - msn
+mentions:
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

@@ -5,19 +5,15 @@ description: A developer in Ukraine built a fully offline AI assistant using a M
 tags:
   - advanced
   - apple-silicon
-  - bullish
   - consumer-hardware
-  - developer
   - edge-device
   - hardware-integration
   - home-lab
-  - intermediate
   - local-ai-systems
   - offline-ai
   - offline-deployment
   - radio-communication
   - resilience
-  - showcase
   - smart-home-automation
   - tts-stt-integration
   - voice

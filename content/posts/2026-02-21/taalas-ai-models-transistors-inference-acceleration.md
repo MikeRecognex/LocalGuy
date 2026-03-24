@@ -4,10 +4,8 @@ date: 2026-02-21
 description: Taalas introduces a novel approach to hardware-level AI optimization by etching neural network models directly onto transistors, achieving dramatic inference speed improvements for local deployment. This breakthrough hardware innovation enables faster, more efficient on-device LLM execution.
 tags:
   - advanced
-  - bullish
   - cost-saving
   - custom-asic
-  - developer
   - edge-deployment
   - edge-device
   - hardware

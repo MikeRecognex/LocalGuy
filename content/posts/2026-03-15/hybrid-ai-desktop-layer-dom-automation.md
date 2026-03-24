@@ -15,14 +15,11 @@ tags:
   - desktop-inference
   - desktop-integration
   - desktop-productivity
-  - developer
   - dom-automation
   - hacker-news
-  - intermediate
   - local-model-automation
   - on-device-deployment
   - open-source
-  - showcase
   - workflow-automation
 mentions:
   - name: BiamOS

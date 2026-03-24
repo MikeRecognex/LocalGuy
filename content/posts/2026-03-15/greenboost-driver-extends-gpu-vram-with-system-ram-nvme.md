@@ -3,16 +3,12 @@ title: Open-Source GreenBoost Driver Augments NVIDIA GPU VRAM With System RAM an
 date: 2026-03-15
 description: A new open-source driver called GreenBoost extends NVIDIA GPU VRAM capacity by intelligently combining it with system RAM and NVMe storage, enabling users to run larger LLMs on existing hardware without additional GPU purchases. This memory-expansion approach addresses a critical bottleneck in local LLM deployment.
 tags:
-  - analysis
-  - bullish
   - consumer-gpu
   - cost-saving
   - cpu-only
-  - developer
   - greenboost
   - hardware
   - hardware-optimization
-  - intermediate
   - large-model-deployment
   - local-llm-deployment
   - memory-management

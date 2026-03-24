@@ -10,17 +10,13 @@ tags:
   - apple-silicon
   - autonomous-agents
   - benchmark
-  - bullish
   - cost-saving
-  - developer
   - edge-deployment
-  - intermediate
   - local-first-deployment
   - mlx
   - model-capabilities
   - qwen
   - self-hosted-ai
-  - showcase
   - tool-use
 mentions:
   - name: r/LocalLLaMA

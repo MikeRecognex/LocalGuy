@@ -4,10 +4,8 @@ date: 2026-02-23
 description: Valve developers continue improving AMD GPU support on Linux, bringing better hardware compatibility for local LLM inference. This ongoing effort makes older AMD hardware more viable for local model deployment.
 tags:
   - amd-gpu
-  - bullish
   - consumer-gpu
   - cost-saving
-  - developer
   - driver-development
   - edge-deployment
   - edge-device
@@ -16,7 +14,6 @@ tags:
   - hardware-compatibility
   - hardware-utilization
   - hobbyist
-  - intermediate
   - linux
   - linux-gpu-support
   - local-inference

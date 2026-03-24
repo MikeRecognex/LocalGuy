@@ -4,10 +4,8 @@ date: 2026-02-18
 description: Testing reveals significant accuracy variance (93% to 71%) when deploying identical INT8 models across different Snapdragon SoCs, highlighting critical mobile deployment considerations.
 tags:
   - advanced
-  - analysis
   - benchmark-report
   - cautious
-  - developer
   - device-heterogeneity
   - edge-device
   - enterprise
@@ -15,7 +13,6 @@ tags:
   - hardware-optimization
   - hardware-validation
   - integer-arithmetic
-  - intermediate
   - memory-bandwidth
   - mobile-inference
   - mobile-llm-deployment

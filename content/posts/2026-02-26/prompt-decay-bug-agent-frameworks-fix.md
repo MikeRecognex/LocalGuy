@@ -17,7 +17,6 @@ tags:
   - github-gist
   - hacker-news
   - inference-pipeline-control
-  - intermediate
   - llm-output-degradation
   - llm-output-quality-degradation
   - llm-performance
@@ -36,7 +35,7 @@ mentions:
   - name: GitHub Gist
     role: platform
   - name: Hacker News
-    role: publisher
+    role: source
 status: draft
 ---
 

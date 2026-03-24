@@ -7,9 +7,7 @@ tags:
   - architecture
   - comparison
   - daily-digest
-  - developer
   - infrastructure-optimization
-  - intermediate
   - llm-architectures
   - llm-augmentation-patterns
   - local-deployment

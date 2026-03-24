@@ -3,11 +3,8 @@ title: Ollama 0.17 Released With Improved OpenClaw Onboarding
 date: 2026-02-22
 description: Ollama releases version 0.17 with enhancements to the OpenClaw onboarding experience, continuing to improve the accessibility and ease of use for local LLM deployment.
 tags:
-  - bullish
   - cost-optimization
-  - developer
   - developer-onboarding
-  - intermediate
   - local-deployment
   - local-llm-deployment
   - ollama

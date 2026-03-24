@@ -4,21 +4,17 @@ date: 2026-02-25
 description: An LLM-driven web scraper that uses local models to intelligently extract data from HTML, caching CSS selectors and automatically adapting to page structure changes without constant retraining.
 tags:
   - adaptive-systems
-  - bullish
   - caching-strategies
   - compute-optimization
   - consumer-gpu
   - cost-optimization
-  - developer
   - inference-optimization
-  - intermediate
   - llm-extraction
   - local-inference
   - local-llms
   - memory-optimization
   - practical-tools
   - selector-caching
-  - showcase
   - web-scraping
 mentions:
   - name: Pankaj3112

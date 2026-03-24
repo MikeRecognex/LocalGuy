@@ -5,14 +5,11 @@ description: New state-of-the-art GGUF quantisations for Qwen3.5-35B released wi
 tags:
   - advanced
   - benchmark
-  - bullish
   - consumer-gpu
-  - developer
   - edge-device
   - gguf
   - gguf-quantisation
   - hardware-optimization
-  - intermediate
   - model-benchmarking
   - model-quantization
   - model-variants

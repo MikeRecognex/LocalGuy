@@ -1,13 +1,30 @@
 ---
-title: "Auto-retry Claude Code on subscription rate limits (zero deps, tmux-based)"
+title: Auto-retry Claude Code on subscription rate limits (zero deps, tmux-based)
 date: 2026-03-18
-description: "A lightweight, dependency-free utility for handling API rate limits when integrating Claude with local inference workflows, using tmux for process management."
+description: A lightweight, dependency-free utility for handling API rate limits when integrating Claude with local inference workflows, using tmux for process management.
 tags:
-  - daily-digest
+  - analysis
   - api-integration
-  - tools
+  - api-rate-limiting
+  - bullish
   - deployment
+  - developer
+  - edge-device
+  - edge-device-deployment
+  - edge-device-management
+  - hacker-news
+  - intermediate
+  - lightweight-utility
+  - local-inference
+  - local-inference-orchestration
   - optimization
+  - production-deployment
+  - resource-constrained-deployment
+  - resource-constrained-environments
+  - retry-logic
+  - showcase
+  - tmux-utility
+  - tools
 status: draft
 ---
 

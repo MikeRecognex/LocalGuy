@@ -3,11 +3,33 @@ title: "Claude Code Permissions Hook – Delegate Permission Approval to LLM"
 date: 2026-03-20
 description: "A new open-source tool enables local LLM deployments to safely handle code execution by delegating permission approvals to the model itself. This utility bridges the gap between autonomous agents and security constraints in self-hosted environments."
 tags:
-  - daily-digest
+  - advanced
+  - agent-workflows
   - agents
-  - open-source
-  - security
+  - ai-safety
+  - analysis
+  - autonomous-agents
+  - bullish
+  - code-execution
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - intermediate
+  - llm-permission-delegation
   - local-deployment
+  - local-llm-security
+  - open-source
+  - permissions-delegation
+  - secure-code-execution
+  - security
+  - security-auditing
+  - self-hosted-security
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

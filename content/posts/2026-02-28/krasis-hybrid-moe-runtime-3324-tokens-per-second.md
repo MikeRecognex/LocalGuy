@@ -6,12 +6,10 @@ tags:
   - advanced
   - consumer-gpu
   - cpu-only
-  - developer
   - framework
   - hardware
   - hybrid-runtime
   - inference-speed
-  - intermediate
   - memory-optimization
   - mixture-of-experts
   - model-scaling
@@ -21,7 +19,6 @@ tags:
   - performance-optimization
   - release
   - resource-constrained-deployment
-  - showcase
   - workload-distribution
 mentions:
   - name: Krasis

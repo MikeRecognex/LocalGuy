@@ -1,13 +1,39 @@
 ---
-title: "KAIST Develops World's First Hyper-Personalized On-Device AI Chip"
+title: KAIST Develops World's First Hyper-Personalized On-Device AI Chip
 date: 2026-03-17
-description: "Researchers at KAIST have created a specialized AI chip optimized for personalized inference on mobile and edge devices, enabling efficient model adaptation without cloud synchronization."
+description: Researchers at KAIST have created a specialized AI chip optimized for personalized inference on mobile and edge devices, enabling efficient model adaptation without cloud synchronization.
 tags:
-  - daily-digest
-  - hardware
+  - advanced
+  - bullish
+  - custom-asic
+  - data-privacy
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - hardware
+  - hardware-innovation
+  - hardware-software-co-optimization
+  - intermediate
+  - kaist
+  - local-inference
   - mobile
+  - model-personalization
+  - news
+  - on-device-ai-chip
+  - on-device-personalization
   - personalization
+  - real-time-adaptation
+  - seoul-economic-daily
+  - showcase
+  - specialized-hardware
+mentions:
+  - name: KAIST
+    role: developer
+  - name: KAIST
+    role: research-institution
+  - name: Seoul Economic Daily
+    role: publisher
 status: draft
 ---
 

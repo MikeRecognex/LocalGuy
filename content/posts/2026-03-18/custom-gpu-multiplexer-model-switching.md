@@ -1,12 +1,33 @@
 ---
-title: "Custom GPU Multiplexer Achieves 0.3ms Model Switching on Legacy Hardware"
+title: Custom GPU Multiplexer Achieves 0.3ms Model Switching on Legacy Hardware
 date: 2026-03-18
-description: "A developer built a custom Linux kernel module that multiplexes six GPUs through a single PCIe slot, enabling model hot-swapping in under 0.3 milliseconds using repurposed Bitcoin mining hardware."
+description: A developer built a custom Linux kernel module that multiplexes six GPUs through a single PCIe slot, enabling model hot-swapping in under 0.3 milliseconds using repurposed Bitcoin mining hardware.
 tags:
-  - daily-digest
+  - advanced
+  - bullish
+  - consumer-gpu
+  - context-switching
+  - cost-saving
+  - datacenter-gpu
+  - developer
+  - enterprise
+  - gpu-multiplexing
   - hardware
-  - performance-optimization
+  - hardware-repurposing
+  - hardware-reuse
   - inference
+  - intermediate
+  - legacy-hardware
+  - legacy-hardware-repurposing
+  - model-hot-swapping
+  - model-multiplexing
+  - model-switching-latency
+  - multi-model-deployment
+  - multi-model-serving
+  - performance-optimization
+  - resource-optimization
+  - showcase
+  - vram-optimization
 status: draft
 ---
 

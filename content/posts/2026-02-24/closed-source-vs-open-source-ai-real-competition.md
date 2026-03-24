@@ -3,14 +3,10 @@ title: The Real AI Competition Is Closed-Source vs Open-Source, Not America vs C
 date: 2026-02-24
 description: "Community analysis argues that geopolitical framing obscures the fundamental divide in AI development: proprietary models versus open-weight alternatives. The narrative has implications for how local LLM practitioners should evaluate their deployment strategy."
 tags:
-  - analysis
-  - bullish
   - deployment-strategy
-  - developer
   - enterprise
   - geopolitical-impact
   - geopolitical-risk
-  - intermediate
   - local-deployment-benefits
   - market-analysis
   - model-distillation

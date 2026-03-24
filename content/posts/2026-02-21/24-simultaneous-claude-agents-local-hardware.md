@@ -6,13 +6,9 @@ tags:
   - advanced
   - agent-scalability
   - agents
-  - analysis
-  - bullish
   - cloud-dependency-reduction
   - cost-saving
-  - developer
   - enterprise
-  - intermediate
   - local-deployment
   - local-hardware
   - low-latency
@@ -24,7 +20,6 @@ tags:
   - rust
   - rust-development
   - rust-programming
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

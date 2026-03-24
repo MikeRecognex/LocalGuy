@@ -1,13 +1,29 @@
 ---
-title: "Mistral Small 4 119B Released with NVFP4 Quantisation Support"
+title: Mistral Small 4 119B Released with NVFP4 Quantisation Support
 date: 2026-03-17
-description: "Mistral AI releases Mistral Small 4 119B model with official NVFP4 quantisation, enabling efficient local deployment on consumer hardware. The model family is now integrated into HuggingFace Transformers with multiple quantisation variants available."
+description: Mistral AI releases Mistral Small 4 119B model with official NVFP4 quantisation, enabling efficient local deployment on consumer hardware. The model family is now integrated into HuggingFace Transformers with multiple quantisation variants available.
 tags:
-  - daily-digest
+  - bullish
+  - consumer-gpu
+  - consumer-gpu-inference
+  - developer
+  - edge-device
+  - edge-inference
+  - huggingface-integration
+  - inference-optimization
+  - inference-performance
+  - intermediate
+  - local-deployment
+  - memory-optimization
   - mistral
-  - quantisation
-  - open-source
+  - model-quantisation
+  - model-quantization
   - model-release
+  - model-size
+  - open-source
+  - quantisation
+  - release
+  - showcase
 status: draft
 ---
 

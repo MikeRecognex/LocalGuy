@@ -3,11 +3,33 @@ title: "Qt 6.11 Released with Enhanced Cross-Platform Deployment Capabilities"
 date: 2026-03-23
 description: "Qt 6.11 brings improvements relevant to packaging and deploying AI-powered applications across desktop and embedded platforms, supporting better integration with local model inference systems."
 tags:
-  - daily-digest
-  - frameworks
-  - deployment
+  - application-distribution
+  - application-packaging
+  - bullish
   - cross-platform
+  - cross-platform-deployment
+  - cross-platform-development
+  - daily-digest
+  - deployment
+  - desktop-ui-development
+  - developer
+  - edge-device
+  - frameworks
+  - hacker-news
   - integration
+  - intermediate
+  - model-quantization
+  - on-device-inference
+  - qt
+  - release
+  - ui-frameworks
+mentions:
+  - name: Qt
+    role: developer
+  - name: Qt
+    role: framework provider
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

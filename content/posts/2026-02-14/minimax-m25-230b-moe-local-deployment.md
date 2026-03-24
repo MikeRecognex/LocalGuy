@@ -9,6 +9,7 @@ tags:
   - bullish
   - coding-reasoning
   - consumer-gpu
+  - data-privacy
   - developer
   - edge-deployment
   - gguf-quantization
@@ -18,6 +19,7 @@ tags:
   - llama-cpp
   - lm-studio
   - local-deployment
+  - local-inference
   - local-inference-frameworks
   - local-llms
   - minimax
@@ -27,6 +29,7 @@ tags:
   - model-optimization
   - model-performance
   - moe
+  - moe-architecture
   - offline-deployment
   - on-device-inference
   - privacy

@@ -3,11 +3,32 @@ title: "Qwen 3.5 122B Demonstrates Exceptional Reasoning for Local Deployment"
 date: 2026-03-16
 description: "Qwen 3.5 122B is impressing local LLM enthusiasts with sophisticated reasoning capabilities and natural task decomposition, making it a strong candidate for on-device applications requiring complex problem-solving."
 tags:
-  - daily-digest
-  - qwen
-  - reasoning
-  - open-source
+  - advanced
   - benchmark
+  - bullish
+  - code-generation
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-deployment
+  - edge-device
+  - intermediate
+  - local-llms
+  - on-device-ai
+  - on-device-deployment
+  - open-source
+  - open-source-llms
+  - planning-tasks
+  - qwen
+  - qwen-3-5
+  - reasoning
+  - reasoning-capabilities
+  - rlocalllama
+  - showcase
+  - task-decomposition
+mentions:
+  - name: r/LocalLLaMA
+    role: source
 status: draft
 ---
 

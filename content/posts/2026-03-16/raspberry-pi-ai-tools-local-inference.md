@@ -3,10 +3,34 @@ title: "OpenClaw Isn't the Only Raspberry Pi AI Tool—Here Are 4 Others You Can
 date: 2026-03-16
 description: "A survey of practical AI tools optimized for Raspberry Pi and other edge devices demonstrates the growing ecosystem of lightweight models and frameworks for constraint-based inference."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - raspberry-pi
+  - developer
+  - edge-ai
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hardware-agnostic-deployment
+  - how-to-geek
+  - howtogeek
+  - intermediate
+  - lightweight-models
+  - local-llm-deployment
+  - memory-optimization
+  - memory-optimized-inference
+  - model-optimization
+  - model-quantization
   - open-source
+  - performance-evaluation
+  - raspberry-pi
+  - raspberry-pi-ai
+  - showcase
+mentions:
+  - name: HowToGeek
+    role: publisher
+  - name: How-To Geek
+    role: publisher
 status: draft
 ---
 

@@ -3,16 +3,13 @@ title: NVIDIA Jetson Brings Open Models to Life at the Edge
 date: 2026-03-11
 description: NVIDIA highlights how Jetson platforms are enabling edge deployment of open-source LLMs, democratizing access to local AI inference on resource-constrained devices.
 tags:
-  - bullish
   - daily-digest
-  - developer
   - edge-ai-deployment
   - edge-deployment
   - edge-device
   - edge-inference
   - hardware
   - inference-speed
-  - intermediate
   - jetson
   - local-inference
   - local-llm-frameworks
@@ -20,7 +17,6 @@ tags:
   - open-source
   - open-source-models
   - production-deployment
-  - showcase
 status: published
 ---
 

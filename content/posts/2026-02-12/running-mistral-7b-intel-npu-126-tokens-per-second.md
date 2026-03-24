@@ -3,20 +3,16 @@ title: Running Mistral-7B on Intel NPU Achieves 12.6 Tokens/Second
 date: 2026-02-12
 description: A developer created a tool to run LLMs on Intel NPUs, achieving 12.6 tokens/second with Mistral-7B while using zero CPU/GPU resources, though integrated GPU still performs better at 23.38 tokens/second.
 tags:
-  - analysis
   - benchmark-report
   - benchmarks
-  - bullish
   - consumer-gpu
   - cost-saving
   - cpu-npu
   - cpu-only
-  - developer
   - edge-deployment
   - edge-device
   - inference-speed
   - intel
-  - intermediate
   - local-inference
   - memory-usage
   - mistral
@@ -32,7 +28,6 @@ tags:
   - quantisation
   - resource-efficiency
   - resource-management
-  - showcase
 mentions:
   - name: r/LocalLLaMA
     role: community

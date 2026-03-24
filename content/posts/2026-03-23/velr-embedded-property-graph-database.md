@@ -3,11 +3,33 @@ title: "Velr: Embedded Property-Graph Database for Local LLM Applications"
 date: 2026-03-23
 description: "Velr introduces an embedded property-graph database built in Rust on top of SQLite, enabling local LLM systems to maintain structured knowledge graphs without external dependencies."
 tags:
+  - advanced
+  - bullish
   - daily-digest
   - databases
+  - developer
+  - edge-deployment
+  - edge-device
+  - embedded-database
+  - hacker-news
+  - intermediate
   - knowledge-graphs
+  - local-data-storage
+  - local-llm-applications
+  - local-llms
   - local-storage
+  - model-performance
+  - on-device-deployment
+  - rag-pipeline
+  - release
   - rust
+  - showcase
+  - velr
+mentions:
+  - name: Velr
+    role: project
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

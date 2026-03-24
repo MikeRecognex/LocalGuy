@@ -9,22 +9,17 @@ tags:
   - ai-auditability
   - ai-governance
   - ai-security
-  - analysis
-  - bullish
   - daily-digest
   - deployment
-  - developer
   - development-workflows
   - enterprise
   - enterprise-ai-infrastructure
-  - intermediate
   - local-coding-agents
   - local-llm-adoption
   - mcp
   - model-context-protocol
   - open-source
   - security-controls
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

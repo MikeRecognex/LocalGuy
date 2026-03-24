@@ -8,7 +8,6 @@ tags:
   - agents
   - ai-agent-security
   - ai-security
-  - analysis
   - autonomous-agents
   - bullish
   - consumer-gpu

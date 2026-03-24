@@ -6,10 +6,7 @@ tags:
   - agent-orchestration
   - agents
   - autonomous-agents
-  - bullish
   - coding-assistant
-  - developer
-  - intermediate
   - local-agents
   - local-deployment
   - open-source
@@ -18,7 +15,6 @@ tags:
   - qwen
   - release
   - rlocalllama
-  - showcase
   - system-administration
   - system-automation
   - terminal-integration

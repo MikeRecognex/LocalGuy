@@ -3,22 +3,17 @@ title: A Tool to Tell You What LLMs Can Run on Your Machine
 date: 2026-02-23
 description: LLMfit is a new tool that analyzes your hardware and recommends which LLMs are compatible and can run efficiently on your specific machine. This solves a common pain point for local LLM deployment by automating hardware capability assessment.
 tags:
-  - analysis
   - automated-compatibility-checking
   - benchmark
-  - bullish
   - consumer-gpu
   - cpu-only
   - deployment-reliability
-  - developer
   - hardware-assessment
   - hardware-model-matching
   - inference-performance
-  - intermediate
   - local-deployment
   - open-source
   - optimization
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

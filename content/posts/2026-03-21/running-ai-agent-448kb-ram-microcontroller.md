@@ -3,11 +3,32 @@ title: "Running an AI Agent on a 448KB RAM Microcontroller"
 date: 2026-03-21
 description: "A breakthrough demonstration of deploying AI agents on severely resource-constrained embedded systems using Zephyr RTOS, pushing the boundaries of edge inference to microcontroller-class hardware."
 tags:
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-  - microcontroller
-  - memory-optimization
   - embedded
+  - github
+  - hacker-news
+  - local-inference
+  - memory-optimization
+  - microcontroller
+  - microcontroller-ai
+  - model-compression
+  - on-device-inference
+  - privacy-preserving-ai
+  - resource-constrained-ai
+  - resource-constrained-deployment
+  - rtos-deployment
+  - showcase
+mentions:
+  - name: GitHub
+    role: platform
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

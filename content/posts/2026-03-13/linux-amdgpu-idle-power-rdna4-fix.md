@@ -5,10 +5,8 @@ description: A forthcoming Linux kernel fix addresses idle power consumption iss
 tags:
   - advanced
   - amd
-  - bullish
   - consumer-gpu
   - cost-saving
-  - developer
   - driver-optimization
   - edge-device
   - edge-inference
@@ -16,7 +14,6 @@ tags:
   - gpu-architecture
   - gpu-power-management
   - hardware
-  - intermediate
   - linux-kernel-updates
   - local-inference
   - local-llm-inference

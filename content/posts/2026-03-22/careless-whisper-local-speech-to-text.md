@@ -3,11 +3,32 @@ title: "Careless Whisper – Personal Local Speech to Text"
 date: 2026-03-22
 description: "A new open-source tool enabling local speech-to-text processing without cloud dependencies, bringing private voice input capabilities to on-device LLM applications."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - open-source
-  - speech-recognition
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hacker-news
+  - input-modality
+  - intermediate
+  - latency-optimization
+  - local-speech-to-text
+  - multimodal-ai
+  - multimodal-llms
+  - on-device-ai
+  - on-device-llms
+  - open-source
   - privacy
+  - privacy-preserving-ai
+  - showcase
+  - speech-recognition
+  - speech-to-text
+  - voice-ai
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

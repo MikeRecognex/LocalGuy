@@ -4,13 +4,10 @@ date: 2026-02-23
 description: New techniques and optimisations enable local LLM inference to achieve 17,000 tokens per second, pushing the boundaries of what's possible on consumer hardware. This breakthrough demonstrates practical strategies for maximising throughput in edge deployments.
 tags:
   - advanced
-  - analysis
   - batching-optimization
   - benchmark
-  - bullish
   - consumer-gpu
   - cost-saving
-  - developer
   - edge-deployment
   - edge-device
   - gpu-memory-optimization

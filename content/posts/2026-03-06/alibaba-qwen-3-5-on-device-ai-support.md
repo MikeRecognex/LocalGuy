@@ -3,17 +3,13 @@ title: Alibaba Releases Qwen 3.5 AI Model with On-Device AI Support
 date: 2026-03-06
 description: Alibaba has released Qwen 3.5, a new AI model offering optimised on-device AI capabilities for local deployment and edge inference scenarios.
 tags:
-  - analysis
-  - bullish
   - consumer-gpu
-  - developer
   - edge-ai
   - edge-device
   - edge-inference
   - enterprise
   - industry-trends
   - inference-efficiency
-  - intermediate
   - local-deployment
   - low-latency-ai
   - model-quantisation

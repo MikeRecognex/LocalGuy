@@ -4,20 +4,16 @@ date: 2026-03-11
 description: Texas Instruments introduces new microcontrollers with integrated Neural Processing Units, enabling ultra-low-power AI inference on resource-constrained edge devices.
 tags:
   - ai-workload-distribution
-  - analysis
-  - bullish
   - chosunbiz
   - consumer-gpu
   - cross-platform-compatibility
   - daily-digest
-  - developer
   - edge-ai
   - edge-device
   - edge-inference
   - enterprise
   - hardware
   - hardware-diversity
-  - intermediate
   - low-power
   - low-power-inference
   - microcontroller

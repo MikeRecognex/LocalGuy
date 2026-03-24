@@ -3,11 +3,28 @@ title: "Claude Usage Monitor: Track API Usage with macOS Menu Bar App"
 date: 2026-03-23
 description: "A new macOS menu bar application helps developers monitor and optimize their Claude.ai API usage, providing real-time visibility into costs and consumption patterns for local LLM workflows."
 tags:
-  - daily-digest
-  - monitoring
-  - tools
   - api-management
+  - api-monitoring
+  - bullish
+  - cost-optimization
+  - cost-saving
+  - daily-digest
+  - deployment-strategy
+  - developer
   - developer-tools
+  - hacker-news
+  - hybrid-ai-architectures
+  - intermediate
+  - llm-tooling
+  - local-llm-workflows
+  - macos-development
+  - monitoring
+  - showcase
+  - tools
+  - usage-analytics
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

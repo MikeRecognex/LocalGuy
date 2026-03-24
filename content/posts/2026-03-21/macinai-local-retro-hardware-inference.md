@@ -3,11 +3,26 @@ title: "MacinAI Local brings functional LLM inference to classic Macintosh hardw
 date: 2026-03-21
 description: "A complete local AI inference platform enables TinyLlama 1.1B execution on vintage PowerBook G4 (2002) hardware running Mac OS 9 with zero internet connectivity, demonstrating extreme edge inference capabilities."
 tags:
+  - advanced
+  - air-gapped-deployment
+  - bullish
+  - cpu-only
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - retro-hardware
-  - optimization
+  - enterprise
+  - intermediate
   - local-only
+  - memory-optimization
+  - offline-inference
+  - optimization
+  - resource-constrained-inference
+  - resource-constrained-optimization
+  - retro-hardware
+  - showcase
+  - vintage-hardware-ai
 status: draft
 ---
 

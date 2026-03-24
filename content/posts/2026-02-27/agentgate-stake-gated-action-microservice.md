@@ -9,17 +9,13 @@ tags:
   - agent-orchestration
   - agents
   - ai-agents
-  - analysis
-  - bullish
   - control
   - deployment
-  - developer
   - economic-incentives
   - local-deployment
   - microservices
   - multi-agent-systems
   - security-auditing
-  - showcase
   - stake-gating
 mentions:
   - name: Hacker News

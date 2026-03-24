@@ -5,16 +5,13 @@ description: A comprehensive review examining whether modern gaming laptops can 
 tags:
   - benchmark
   - benchmark-report
-  - bullish
   - consumer-gpu
   - cpu-only
-  - developer
   - digital-reviews-network
   - gaming-hardware
   - hardware
   - hardware-evaluation
   - inference-performance
-  - intermediate
   - laptop
   - laptop-inference
   - laptop-llm-performance

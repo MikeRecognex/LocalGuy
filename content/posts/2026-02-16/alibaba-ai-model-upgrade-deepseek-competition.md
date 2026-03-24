@@ -5,17 +5,13 @@ description: Alibaba has announced a significant upgrade to its AI models, inten
 tags:
   - ai-model-upgrade
   - alibaba
-  - analysis
-  - bullish
   - consumer-gpu
   - deepseek
-  - developer
   - developer-tooling
   - edge-deployment
   - edge-device
   - hardware-optimization
   - inference-speed
-  - intermediate
   - local-deployment
   - local-inference
   - market-competition

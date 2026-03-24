@@ -3,14 +3,11 @@ title: India's Mobile-First AI Strategy Could Accelerate Local Inference Adoptio
 date: 2026-03-15
 description: India's playbook for mobile-first technology adoption offers lessons for democratizing AI inference in resource-constrained environments through local deployment.
 tags:
-  - analysis
   - consumer-gpu
-  - developer
   - edge-device
   - edge-inference
   - emerging-markets
   - emerging-markets-ai
-  - intermediate
   - local-deployment
   - local-inference
   - mobile-first-ai-strategy

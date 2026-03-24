@@ -3,25 +3,20 @@ title: "Show HN: 100% LLM Accuracy–No Fine-Tuning, JSON Only"
 date: 2026-02-25
 description: A technique for achieving perfect LLM accuracy on structured outputs using JSON schema constraints rather than model fine-tuning, reducing computational overhead for local deployments.
 tags:
-  - analysis
-  - bullish
   - computational-overhead-reduction
   - consumer-gpu
-  - developer
   - edge-deployment
   - edge-device
   - fine-tuning-alternative
   - hallucination-elimination
   - hallucination-reduction
   - inference-optimization
-  - intermediate
   - json
   - json-schema-constraints
   - llm-accuracy
   - local-llms
   - model-efficiency
   - quantisation
-  - showcase
   - structured-output
 mentions:
   - name: Hacker News

@@ -9,18 +9,14 @@ tags:
   - agents
   - ai-agents
   - ai-safety
-  - bullish
   - debugging
-  - developer
   - execution-monitoring
-  - intermediate
   - local-agents
   - observability
   - open-source
   - open-source-observability
   - open-source-tools
   - production-deployment
-  - showcase
 mentions:
   - name: AgentLens
     role: project

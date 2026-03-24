@@ -4,12 +4,10 @@ date: 2026-02-11
 description: A LocalLLaMA community member showcases a custom-built system with 6x RTX 3090 GPUs providing 144GB of VRAM, featuring modified drivers with P2P support for high-performance local LLM inference.
 tags:
   - advanced
-  - bullish
   - community-hardware
   - consumer-gpu
   - cpu-only
   - custom-hardware-builds
-  - developer
   - gpu-interconnect
   - gpu-interconnect-bandwidth
   - high-vram-llms
@@ -27,7 +25,6 @@ tags:
   - p2p-gpu-communication
   - production-ops
   - quantisation
-  - showcase
 mentions:
   - name: Gigabyte
     role: hardware manufacturer

@@ -3,6 +3,7 @@ title: "Strix Halo (Ryzen AI Max+ 395) Achieves Strong Local Inference Performan
 date: 2026-03-09
 description: "New benchmarks on AMD's Strix Halo platform with ROCm 7.2 backend show practical inference speeds for the Qwen 3.5 model family, with recent llama.cpp optimisations delivering measurable performance gains."
 tags:
+  - amd-strix-halo
   - analysis
   - apu-architecture
   - apu-performance
@@ -19,16 +20,20 @@ tags:
   - hardware
   - hardware-evaluation
   - inference-latency-reduction
+  - inference-speed
   - integrated-gpu
   - integrated-gpu-inference
   - integrated-gpu-performance
   - intermediate
   - llama-cpp
+  - llama-cpp-optimisation
   - llama-cpp-optimizations
   - local-inference
   - local-inference-performance
+  - local-llm-deployment
   - power-efficiency
   - rocm
+  - rocm-optimisation
   - rocm-optimizations
   - unified-memory
 status: draft

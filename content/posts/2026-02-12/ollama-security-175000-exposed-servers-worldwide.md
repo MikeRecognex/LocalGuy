@@ -3,11 +3,8 @@ title: Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Co
 date: 2026-02-12
 description: Security research reveals massive exposure of Ollama servers worldwide, highlighting critical security considerations for local LLM deployments.
 tags:
-  - analysis
   - cautious
   - data-privacy
-  - developer
-  - intermediate
   - local-llm-security
   - network-security
   - news

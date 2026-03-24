@@ -4,8 +4,6 @@ date: 2026-02-19
 description: A new guide demonstrates running local LLMs and vision language models on the Arduino UNO Q microcontroller using yzma. This pushes edge inference to the extreme lower end of hardware constraints.
 tags:
   - advanced
-  - bullish
-  - developer
   - edge-deployment
   - edge-device
   - edge-inference
@@ -22,7 +20,6 @@ tags:
   - privacy-compliance
   - privacy-preserving-ai
   - quantisation
-  - showcase
   - tutorial
   - vision-language-models
 mentions:

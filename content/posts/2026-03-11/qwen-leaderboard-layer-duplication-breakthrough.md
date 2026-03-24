@@ -4,12 +4,9 @@ date: 2026-03-11
 description: Researchers demonstrate that duplicating middle layers in Qwen2-72B without modifying weights produces state-of-the-art benchmark results, challenging conventional understanding of model optimization.
 tags:
   - advanced
-  - analysis
   - benchmark
   - benchmark-performance
-  - bullish
   - daily-digest
-  - developer
   - layer-duplication
   - low-resource-optimization
   - model-architecture

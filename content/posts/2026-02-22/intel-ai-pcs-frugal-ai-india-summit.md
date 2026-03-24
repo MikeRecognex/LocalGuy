@@ -4,11 +4,9 @@ date: 2026-02-22
 description: Intel demonstrates efficient AI computing strategies and NPU-based AI PCs optimized for resource-constrained environments at the India AI Impact Summit.
 tags:
   - ai-pcs
-  - bullish
   - consumer-gpu
   - consumer-pc
   - cost-saving
-  - developer
   - edge-deployment
   - efficiency
   - enterprise
@@ -16,14 +14,12 @@ tags:
   - hardware
   - hardware-accessibility
   - inference-efficiency
-  - intermediate
   - news
   - npu
   - npu-accelerated
   - npu-acceleration
   - on-device-deployment
   - resource-constrained-deployment
-  - showcase
 mentions:
   - name: MSN
     role: publisher

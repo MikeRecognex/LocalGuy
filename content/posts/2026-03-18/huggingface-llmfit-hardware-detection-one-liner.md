@@ -1,12 +1,34 @@
 ---
-title: "Hugging Face Releases One-Liner for Automatic Hardware Detection and Model Selection"
+title: Hugging Face Releases One-Liner for Automatic Hardware Detection and Model Selection
 date: 2026-03-18
-description: "Hugging Face has released an automated tool using llmfit that detects hardware capabilities, selects optimal models and quantizations, and automatically spins up a llama.cpp server with Pi agent support."
+description: Hugging Face has released an automated tool using llmfit that detects hardware capabilities, selects optimal models and quantizations, and automatically spins up a llama.cpp server with Pi agent support.
 tags:
-  - daily-digest
-  - open-source
+  - agent-frameworks
+  - agent-orchestration
+  - ai-agents
+  - bullish
+  - deployment-efficiency
+  - deployment-speed
+  - developer
+  - devops-automation
+  - devops-optimization
+  - enterprise
+  - hardware-detection
   - hardware-optimization
+  - inference-pipelines
+  - intermediate
+  - llama-cpp
+  - llama-cpp-deployment
+  - local-inference-pipelines
+  - local-llm-deployment
+  - model-quantization
+  - model-selection
+  - openclaw
   - quantisation
+  - release
+mentions:
+  - name: OpenClaw
+    role: backer
 status: draft
 ---
 

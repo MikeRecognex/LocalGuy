@@ -3,16 +3,12 @@ title: "Apple Intelligence, Galaxy AI, Gemini: Why Your AI-Powered Phone Is Wort
 date: 2026-03-01
 description: An analysis of on-device AI capabilities in modern smartphones and the importance of device repairability for maintaining access to locally-run AI features that don't require cloud connectivity.
 tags:
-  - analysis
-  - bullish
   - consumer
   - consumer-device-deployment
   - consumer-gpu
-  - developer
   - device-repairability
   - edge-device
   - edge-inference
-  - intermediate
   - mobile-ai-optimization
   - model-distillation
   - model-quantization

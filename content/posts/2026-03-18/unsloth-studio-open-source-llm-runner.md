@@ -1,12 +1,37 @@
 ---
 title: "Unsloth Studio: Open-Source Web UI for Training and Running LLMs Locally"
 date: 2026-03-18
-description: "Unsloth has launched Unsloth Studio (Beta), an Apache-licensed open-source web UI that unifies local LLM training and inference in a single interface, positioning itself as a potential alternative to LMStudio for GGUF ecosystem users."
+description: Unsloth has launched Unsloth Studio (Beta), an Apache-licensed open-source web UI that unifies local LLM training and inference in a single interface, positioning itself as a potential alternative to LMStudio for GGUF ecosystem users.
 tags:
-  - daily-digest
-  - open-source
-  - llama-cpp
+  - bullish
+  - consumer-gpu
+  - developer
+  - edge-deployment
+  - edge-device
+  - enterprise
+  - gguf-ecosystem
   - inference
+  - intermediate
+  - llama-cpp
+  - lmstudio
+  - local-inference
+  - local-llm-training
+  - mlops-workflow-management
+  - open-source
+  - open-source-tools
+  - release
+  - showcase
+  - unified-interface
+  - unsloth
+  - unsloth-studio
+  - vendor-lock-in-avoidance
+mentions:
+  - name: Unsloth
+    role: developer
+  - name: LMStudio
+    role: competitor
+  - name: Unsloth Studio
+    role: developer
 status: draft
 ---
 

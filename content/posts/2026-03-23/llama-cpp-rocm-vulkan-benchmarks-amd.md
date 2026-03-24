@@ -3,11 +3,30 @@ title: "Llama.cpp ROCm 7 vs Vulkan Performance Benchmarks on AMD Mi50"
 date: 2026-03-23
 description: "Performance benchmarks comparing ROCm 7 and Vulkan backends on AMD Mi50 GPUs provide crucial data for optimizing local inference on AMD hardware. These results help practitioners select the best acceleration backend for their specific AMD GPU configurations."
 tags:
-  - daily-digest
-  - llama-cpp
-  - benchmark
-  - hardware
   - amd
+  - amd-gpu-inference
+  - amd-gpu-optimization
+  - amd-gpu-support
+  - backend-selection
+  - benchmark
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - datacenter-gpu
+  - developer
+  - enterprise
+  - gpu-competition
+  - hardware
+  - intermediate
+  - llama-cpp
+  - llm-deployment-optimization
+  - local-llm-deployment
+  - performance-benchmarking
+  - performance-optimization
+  - rocm-development
+  - rocm-vulkan-comparison
+  - rocm-vulkan-support
+  - throughput-latency
 status: draft
 ---
 

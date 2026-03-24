@@ -6,13 +6,9 @@ tags:
   - agent-orchestration
   - agents
   - ai-powered-backend-development
-  - analysis
   - backend-automation
   - backend-infrastructure-management
-  - bullish
   - deployment-workflow-automation
-  - developer
-  - intermediate
   - llm-tool-use
   - local-llm-deployment
   - mcp
@@ -20,7 +16,6 @@ tags:
   - model-optimization
   - open-source
   - self-hosted-ai
-  - showcase
   - tooling
 mentions:
   - name: Dypai

@@ -4,14 +4,10 @@ date: 2026-03-07
 description: A practical guide demonstrating how to integrate a local AI assistant directly into your Linux terminal workflow. This article shows the utility and accessibility of running LLMs on personal machines.
 tags:
   - ai-customization
-  - analysis
-  - bullish
   - cli-tools
   - cpu-only
   - data-privacy
-  - developer
   - developer-productivity
-  - intermediate
   - linux
   - local-ai-integration
   - local-llm-deployment

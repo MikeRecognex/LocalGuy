@@ -10,9 +10,7 @@ tags:
   - benchmark
   - benchmark-report
   - daily-digest
-  - developer
   - hardware-software-optimization
-  - intermediate
   - local-llm-deployment
   - local-llm-inference
   - mac

@@ -4,21 +4,17 @@ date: 2026-02-28
 description: LLmFit is a new command-line tool that automatically detects system hardware specifications and recommends the optimal LLM from a database of 497 models across 133 providers, scoring candidates on quality, speed, fit, and cost.
 tags:
   - benchmarking
-  - bullish
   - consumer-gpu
   - cost-efficiency
   - cpu-only
-  - developer
   - hardware
   - hardware-profiling
   - inference-speed
-  - intermediate
   - local-llm-deployment
   - memory-management
   - model-optimization
   - model-selection
   - open-source
-  - showcase
   - tools
 status: published
 ---

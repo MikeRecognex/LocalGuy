@@ -6,7 +6,6 @@ tags:
   - advanced
   - ai-code-generation
   - ai-coding-assistants
-  - bullish
   - code-auditability
   - code-generation
   - code-generation-tooling
@@ -17,11 +16,9 @@ tags:
   - framework
   - hacker-news
   - human-ai-collaboration
-  - intermediate
   - language-design
   - open-source
   - self-hosted-llms
-  - showcase
   - tools
 mentions:
   - name: Hacker News

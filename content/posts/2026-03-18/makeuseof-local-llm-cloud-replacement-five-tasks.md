@@ -1,13 +1,30 @@
 ---
-title: "I Switched to a Local LLM for These 5 Tasks and the Cloud Version Hasn't Been Worth It Since"
+title: I Switched to a Local LLM for These 5 Tasks and the Cloud Version Hasn't Been Worth It Since
 date: 2026-03-18
-description: "A practical case study demonstrating specific use cases where local LLM deployment outperforms cloud alternatives in terms of cost, latency, and privacy. The article identifies concrete workflows where self-hosted models provide measurable value over commercial API subscriptions."
+description: A practical case study demonstrating specific use cases where local LLM deployment outperforms cloud alternatives in terms of cost, latency, and privacy. The article identifies concrete workflows where self-hosted models provide measurable value over commercial API subscriptions.
 tags:
-  - daily-digest
-  - use-cases
+  - analysis
+  - bullish
+  - case-study
+  - consumer-gpu
   - cost-analysis
-  - privacy
+  - cost-optimization
+  - cost-saving
+  - data-privacy
   - deployment
+  - developer
+  - enterprise
+  - intermediate
+  - local-llm-applications
+  - local-llm-deployment
+  - low-latency-inference
+  - makeuseof
+  - privacy
+  - self-hosting
+  - use-cases
+mentions:
+  - name: MakeUseOf
+    role: publisher
 status: draft
 ---
 

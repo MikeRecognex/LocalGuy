@@ -4,17 +4,13 @@ date: 2026-02-11
 description: DeepSeek has updated their model to support 1 million token context windows with a knowledge cutoff of May 2025, currently in grayscale testing phase with potential for local deployment.
 tags:
   - advanced
-  - analysis
-  - bullish
   - context-window
   - conversation-ai
   - deepseek
-  - developer
   - document-analysis
   - document-code-analysis
   - document-processing
   - extended-reasoning
-  - intermediate
   - local-deployment
   - long-context-llms
   - long-context-window

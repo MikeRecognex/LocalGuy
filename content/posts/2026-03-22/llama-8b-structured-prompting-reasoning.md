@@ -3,11 +3,33 @@ title: "Llama 8B Matches 70B Performance on Multi-Hop QA Using Structured Prompt
 date: 2026-03-22
 description: "Structured prompting techniques with Graph RAG enable smaller Llama 8B models to match 70B model performance on complex multi-hop question answering without fine-tuning. Research reveals reasoning, not retrieval, is the actual bottleneck."
 tags:
-  - daily-digest
-  - llama
-  - prompting
+  - advanced
+  - analysis
   - benchmark
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - cost-optimization
+  - cost-saving
+  - daily-digest
+  - developer
+  - edge-device
+  - graph-rag
+  - llama
+  - llm-reasoning
+  - local-deployment-economics
+  - model-comparison
+  - model-efficiency
+  - multi-hop-question-answering
+  - prompting
+  - rag-architecture
+  - rag-optimization
+  - rag-pipeline
+  - reasoning-bottleneck
   - reasoning-optimization
+  - retrieval-augmented-generation
+  - structured-prompting
+  - vram-optimization
 status: draft
 ---
 

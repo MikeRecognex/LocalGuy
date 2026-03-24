@@ -8,11 +8,8 @@ tags:
   - agents
   - ai-agent-reliability
   - benchmark
-  - bullish
-  - developer
   - evaluation
   - hacker-news
-  - intermediate
   - local-deployment
   - model-evaluation
   - monitoring
@@ -21,7 +18,6 @@ tags:
   - princeton-university
   - rag-systems
   - self-hosting
-  - showcase
 mentions:
   - name: Princeton
     role: researcher

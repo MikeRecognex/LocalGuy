@@ -3,17 +3,13 @@ title: Google Delivers On-Device AI Features in New Chromebook Plus Model
 date: 2026-03-10
 description: Google integrates on-device AI capabilities into the latest Chromebook Plus, enabling local inference for productivity and creative tasks without external cloud connectivity.
 tags:
-  - analysis
-  - bullish
   - chromebook
   - consumer-device
   - consumer-devices
   - consumer-hardware
-  - developer
   - edge-inference
   - google
   - hardware-ecosystem
-  - intermediate
   - latency-reduction
   - local-inference
   - msn

@@ -3,12 +3,9 @@ title: Enhanced Interface Speed Enables High-Performance On-Device AI Features i
 date: 2026-02-24
 description: New interface technologies are delivering significant performance improvements for on-device AI inference on mobile devices, enabling faster and more efficient local LLM execution on smartphones.
 tags:
-  - bullish
-  - developer
   - edge-device
   - edge-inference
   - interface-speed
-  - intermediate
   - local-inference
   - mobile
   - mobile-llm-execution

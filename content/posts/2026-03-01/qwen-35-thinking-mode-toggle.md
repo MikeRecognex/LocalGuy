@@ -4,12 +4,8 @@ date: 2026-03-01
 description: Unsloth and Qwen community members have discovered how to toggle thinking vs. instruct mode on Qwen 3.5 without reloading the model, enabling dynamic workflow switching and reducing inference latency.
 tags:
   - advanced
-  - analysis
-  - bullish
-  - developer
   - inference-latency-reduction
   - inference-optimization
-  - intermediate
   - local-deployment
   - model-optimization
   - model-reloading-optimization

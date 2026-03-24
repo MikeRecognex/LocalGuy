@@ -3,11 +3,34 @@ title: "Community Converges on Optimal KV Cache Quantization Strategies for Qwen
 date: 2026-03-20
 description: "The local LLM community is establishing practical guidelines for KV cache quantization with Qwen 3.5, balancing memory savings against accuracy loss to optimize inference on consumer hardware."
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - community-driven-insights
+  - consumer-gpu
   - daily-digest
-  - quantisation
-  - memory-optimization
-  - qwen
+  - developer
   - inference
+  - inference-engines
+  - intermediate
+  - kv-cache-quantization
+  - local-deployment
+  - local-llm-deployment
+  - long-context-inference
+  - memory-optimization
+  - model-optimization
+  - model-size-on-consumer-hardware
+  - quantisation
+  - qwen
+  - qwen-3-5-architecture
+  - qwen-3-5-optimization
+  - qwen-models
+  - reddit
+  - tutorial
+  - vram-optimization
+mentions:
+  - name: Reddit
+    role: community-platform
 status: draft
 ---
 

@@ -4,14 +4,10 @@ date: 2026-02-19
 description: Aegis.rs is the first open-source Rust-based LLM security proxy, providing input/output validation and security guardrails for local LLM deployments. This tool addresses critical security concerns when exposing local models to applications.
 tags:
   - advanced
-  - analysis
   - api-security
   - attack-surface-reduction
-  - bullish
-  - developer
   - developer-tooling
   - enterprise
-  - intermediate
   - llm-security-proxy
   - local-llm-deployment
   - open-source
@@ -23,7 +19,6 @@ tags:
   - security
   - security-guardrails
   - security-validation
-  - showcase
 mentions:
   - name: ParzivalHack
     role: developer

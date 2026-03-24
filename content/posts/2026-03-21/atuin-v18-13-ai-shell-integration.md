@@ -3,11 +3,36 @@ title: "Atuin v18.13 – Better Search, a PTY Proxy, and AI for Your Shell"
 date: 2026-03-21
 description: "Atuin releases v18.13 featuring integrated AI capabilities for shell command prediction and history search, enabling local LLM-powered terminal augmentation without cloud dependencies."
 tags:
+  - atuin
+  - bullish
+  - command-prediction
   - daily-digest
-  - tooling
-  - local-integration
-  - open-source
+  - data-privacy
+  - desktop-ai-tools
+  - developer
   - developer-tools
+  - hacker-news
+  - intermediate
+  - local-inference
+  - local-integration
+  - local-llm-deployment
+  - news
+  - open-source
+  - privacy-preserving-ai
+  - release
+  - shell-ai-integration
+  - shell-integration
+  - showcase
+  - terminal-ai-tools
+  - terminal-search
+  - tooling
+mentions:
+  - name: Atuin
+    role: developer
+  - name: Atuin
+    role: developer
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

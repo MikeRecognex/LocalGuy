@@ -5,10 +5,8 @@ description: Alibaba's Qwen team released a new family of small multimodal model
 tags:
   - benchmark
   - consumer-mobile
-  - developer
   - edge-deployment
   - edge-device
-  - intermediate
   - local-inference
   - local-inference-frameworks
   - model-viability
@@ -18,7 +16,6 @@ tags:
   - qwen
   - reasoning-tasks
   - release
-  - showcase
   - small-models
   - vision-language-models
 mentions:

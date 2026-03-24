@@ -3,18 +3,14 @@ title: Qwodel – An Open-Source Unified Pipeline for LLM Quantization
 date: 2026-03-12
 description: Qwodel is a new open-source tool that provides a unified pipeline for LLM quantization, simplifying the process of reducing model size and improving inference speed for local deployment.
 tags:
-  - analysis
-  - bullish
   - consumer-gpu
   - deployment-tools
-  - developer
   - development-workflow
   - edge-deployment
   - edge-device
   - hacker-news
   - inference-optimization
   - inference-speed
-  - intermediate
   - llm-quantization
   - local-deployment
   - memory-optimization

@@ -3,12 +3,10 @@ title: RAG-Enterprise – 100% Local RAG System for Enterprise Documents
 date: 2026-03-01
 description: A new open-source RAG system designed for enterprise document processing that runs entirely locally, enabling organizations to implement retrieval-augmented generation without cloud dependencies or data exposure.
 tags:
-  - bullish
   - cost-saving
   - domain-specific-ai
   - enterprise
   - enterprise-ai
-  - intermediate
   - latency-reduction
   - local-deployment
   - local-llm-deployment
@@ -18,7 +16,6 @@ tags:
   - privacy-compliance
   - rag
   - rag-pipeline
-  - showcase
 mentions:
   - name: Hacker News
     role: source

@@ -3,10 +3,33 @@ title: "Qwen 3.5 Models: Optimal Settings and Reduced Overthinking Configuration
 date: 2026-03-23
 description: "Community exploration of Qwen 3.5 (35B and 27B) model settings and prompts reveals configurations that minimize overthinking behavior and excessive reasoning token usage. These practical optimizations help practitioners maximize output quality and inference speed."
 tags:
+  - analysis
+  - bullish
+  - community-collaboration
   - daily-digest
-  - qwen
+  - developer
+  - enterprise
+  - inference-optimization
+  - intermediate
+  - knowledge-sharing
+  - local-deployment
+  - model-optimization
+  - model-output-quality
+  - model-tuning
+  - overthinking-mitigation
   - performance-optimization
+  - production-deployment
+  - prompt-engineering
   - prompting
+  - qwen
+  - qwen-35-optimization
+  - qwen-models
+  - resource-optimization
+  - rlocalllama
+  - token-efficiency
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

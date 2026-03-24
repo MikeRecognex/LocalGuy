@@ -3,11 +3,27 @@ title: "Multi-Token Prediction support coming to MLX-LM for Qwen 3.5"
 date: 2026-03-21
 description: "Early support for Multi-Token Prediction (MTP) is being integrated into MLX-LM, enabling Qwen 3.5 to generate multiple tokens per forward pass with reported performance gains from 15.3 to 23.3 tokens per second."
 tags:
+  - apple-silicon
+  - apple-silicon-optimization
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-inference
   - daily-digest
-  - mlx
-  - qwen
+  - developer
   - inference-optimization
+  - inference-speed
+  - intermediate
+  - local-inference
+  - mlx
+  - model-deployment
+  - multi-token-prediction
+  - multitoken-prediction
+  - news
   - performance
+  - performance-optimization
+  - qwen
+  - real-time-ai-applications
+  - realtime-ai-applications
 status: draft
 ---
 

@@ -3,11 +3,31 @@ title: "Brezn – Decentralized Local Communication"
 date: 2026-03-22
 description: "An open-source project enabling peer-to-peer communication for local systems, potentially valuable for distributed local LLM clusters and edge network architectures."
 tags:
+  - analysis
+  - bullish
   - daily-digest
+  - data-privacy
   - decentralized
-  - networking
+  - decentralized-ai
+  - decentralized-communication
+  - developer
+  - distributed-llm
+  - edge-ai-deployment
   - edge-infrastructure
+  - enterprise
+  - federated-learning
+  - hacker-news
+  - horizontal-scaling
+  - intermediate
+  - local-llm-infrastructure
+  - networking
+  - offline-capability
   - open-source
+  - peer-to-peer-networking
+  - showcase
+mentions:
+  - name: Hacker News
+    role: source
 status: draft
 ---
 

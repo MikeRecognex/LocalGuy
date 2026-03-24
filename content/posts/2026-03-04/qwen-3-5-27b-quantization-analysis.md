@@ -4,17 +4,13 @@ date: 2026-03-04
 description: Community-driven quantization sweep compares multiple GGUF quantization approaches for Qwen 3.5-27B, providing data-driven guidance for selecting optimal quantization formats.
 tags:
   - advanced
-  - analysis
   - benchmark-report
   - benchmarking
-  - bullish
   - comparison
   - consumer-gpu
   - deployment-strategy
-  - developer
   - gguf
   - gguf-format
-  - intermediate
   - local-deployment
   - model-benchmarking
   - model-evaluation

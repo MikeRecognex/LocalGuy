@@ -4,10 +4,7 @@ date: 2026-02-19
 description: Sarvam AI demonstrates practical on-device AI deployment on ultra-resource-constrained devices, from feature phones to automotive and wearable platforms.
 tags:
   - advanced
-  - analysis
-  - bullish
   - cost-saving
-  - developer
   - distillation
   - edge-ai-deployment
   - edge-deployment
@@ -20,7 +17,6 @@ tags:
   - offline-deployment
   - quantisation
   - resource-constrained-ai
-  - showcase
   - specialized-models
 mentions:
   - name: Sarvam AI

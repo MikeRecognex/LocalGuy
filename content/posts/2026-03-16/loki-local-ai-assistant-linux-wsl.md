@@ -3,11 +3,28 @@ title: "LoKI – Local AI Assistant for Linux and WSL"
 date: 2026-03-16
 description: "LoKI is a new local AI assistant purpose-built for Linux and Windows Subsystem for Linux environments, providing self-hosted conversational capabilities without external API dependencies."
 tags:
-  - daily-digest
-  - local-inference
-  - open-source
-  - linux
   - assistant
+  - bullish
+  - daily-digest
+  - deployment-strategy
+  - developer
+  - hacker-news
+  - intermediate
+  - linux
+  - linux-deployment
+  - linux-wsl-deployment
+  - local-ai-assistant
+  - local-inference
+  - local-inference-optimization
+  - local-inference-tools
+  - open-source
+  - self-hosted-ai
+  - self-hosted-llm
+  - showcase
+  - wsl-deployment
+mentions:
+  - name: Hacker News
+    role: publisher
 status: draft
 ---
 

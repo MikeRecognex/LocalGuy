@@ -4,12 +4,9 @@ date: 2026-02-27
 description: Details on the latest Snapdragon processor generation bringing performance improvements specifically relevant to on-device AI inference and local model execution on mobile devices.
 tags:
   - advanced
-  - bullish
   - conversational-ai
-  - developer
   - edge-device
   - hardware
-  - intermediate
   - local-document-processing
   - memory-bandwidth
   - mobile-inference

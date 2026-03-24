@@ -3,11 +3,26 @@ title: "What AI Augmentation Means for Technical Leaders"
 date: 2026-03-21
 description: "Birgitta Boeckeler discusses practical implications of AI augmentation for engineering teams, covering deployment strategies, tool selection, and organizational considerations for AI-augmented workflows."
 tags:
+  - ai-augmentation
+  - analysis
+  - best-practices
   - daily-digest
   - deployment
-  - organizational
+  - deployment-strategy
+  - enterprise
+  - enterprise-deployment
+  - intermediate
   - leadership
-  - best-practices
+  - llm-frameworks
+  - local-llm-infrastructure
+  - neutral
+  - on-device-vs-cloud
+  - organizational
+  - organizational-adoption
+  - organizational-strategy
+mentions:
+  - name: Birgitta Boeckeler
+    role: speaker
 status: draft
 ---
 

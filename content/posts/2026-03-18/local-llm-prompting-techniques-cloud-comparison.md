@@ -1,13 +1,33 @@
 ---
-title: "You're Using Your Local LLM Wrong If You're Prompting It Like a Cloud LLM"
+title: You're Using Your Local LLM Wrong If You're Prompting It Like a Cloud LLM
 date: 2026-03-18
-description: "A practical guide highlighting how local LLM prompting strategies differ from cloud-based models, offering insights into optimizing inference for self-hosted deployments. This addresses a critical gap where many practitioners apply cloud LLM techniques to local models without accounting for architectural differences."
+description: A practical guide highlighting how local LLM prompting strategies differ from cloud-based models, offering insights into optimizing inference for self-hosted deployments. This addresses a critical gap where many practitioners apply cloud LLM techniques to local models without accounting for architectural differences.
 tags:
-  - daily-digest
-  - prompting
-  - optimization
+  - analysis
   - best-practices
+  - bullish
+  - deployment-optimization
+  - developer
   - inference
+  - inference-optimization
+  - intermediate
+  - local-llm-characteristics
+  - local-llm-optimization
+  - local-llm-prompting
+  - model-architecture
+  - model-quantization
+  - msn
+  - neutral
+  - optimization
+  - prompt-engineering
+  - prompting
+  - prompting-strategies
+  - quantization-strategies
+  - self-hosted-deployment
+  - tutorial
+mentions:
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

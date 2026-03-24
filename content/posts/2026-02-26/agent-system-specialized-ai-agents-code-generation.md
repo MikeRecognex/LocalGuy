@@ -10,6 +10,7 @@ tags:
   - bullish
   - code-generation
   - computational-efficiency
+  - cost-saving
   - daily-digest
   - developer
   - error-handling
@@ -20,6 +21,7 @@ tags:
   - model-efficiency
   - model-specialization
   - modular-ai-architecture
+  - modular-ai-systems
   - multi-agent-system
   - multi-agent-systems
   - on-device-ai
@@ -28,6 +30,8 @@ tags:
   - showcase
   - software-development-automation
 mentions:
+  - name: boraoztunc
+    handle: "boraoztunc"
   - name: Hacker News
     role: publisher
 status: draft

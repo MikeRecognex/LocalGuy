@@ -4,11 +4,8 @@ date: 2026-02-28
 description: A new hybrid CPU/GPU runtime for mixture-of-experts models delivers 3,324 tokens/second prefill performance on a single RTX 5080 by intelligently distributing prefill to GPU and decode to CPU with system RAM as auxiliary storage.
 tags:
   - advanced
-  - analysis
-  - bullish
   - consumer-gpu
   - cpu-only
-  - developer
   - hardware
   - hardware-utilization
   - hybrid-inference
@@ -20,7 +17,6 @@ tags:
   - moe-models
   - open-source
   - prefill-decode-optimization
-  - showcase
 status: published
 ---
 

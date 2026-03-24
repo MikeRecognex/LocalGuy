@@ -6,8 +6,6 @@ tags:
   - advanced
   - agentic-coding-workflows
   - agents
-  - analysis
-  - bullish
   - consumer-gpu
   - cost-management
   - deployment

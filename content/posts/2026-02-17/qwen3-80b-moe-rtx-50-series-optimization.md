@@ -5,16 +5,13 @@ description: A community member has optimised Qwen3-Next 80B mixture-of-experts 
 tags:
   - advanced
   - alibaba
-  - analysis
   - batch-size-tuning
   - budget-hardware-deployment
-  - bullish
   - coding
   - consumer-gpu
   - consumer-hardware-ai
   - cost-saving
   - daily-digest
-  - developer
   - developer-tooling
   - hardware-optimization
   - inference-speed
@@ -25,7 +22,6 @@ tags:
   - moe-architecture
   - multi-gpu-inference
   - qwen
-  - showcase
   - tutorial
   - vram-management
 mentions:

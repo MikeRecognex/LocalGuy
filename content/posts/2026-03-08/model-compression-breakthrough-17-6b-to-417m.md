@@ -5,14 +5,10 @@ description: A high school student has developed an architectural approach that 
 tags:
   - advanced
   - ai-architecture
-  - analysis
-  - bullish
   - cautious
-  - developer
   - edge-ai-deployment
   - edge-deployment
   - edge-device
-  - intermediate
   - mobile-device
   - model-architecture
   - model-compression

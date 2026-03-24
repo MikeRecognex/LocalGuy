@@ -4,12 +4,10 @@ date: 2026-02-11
 description: A community member successfully runs an 80B parameter language model on a NAS system's integrated GPU at 18 tokens per second, demonstrating efficient local inference without discrete graphics cards.
 tags:
   - ai-infrastructure-consolidation
-  - bullish
   - consumer-gpu
   - cost-effective-deployment
   - cost-saving
   - cpu-only
-  - developer
   - edge-device
   - hardware-efficiency
   - hardware-optimization
@@ -19,7 +17,6 @@ tags:
   - integrated-gpu-inference
   - integrated-gpu-performance
   - integrated-system-design
-  - intermediate
   - large-language-models
   - llm-performance-modest-hardware
   - model-optimization
@@ -27,7 +24,6 @@ tags:
   - offline-deployment
   - performance-optimization
   - production-ops
-  - showcase
 
 mentions:
   - name: r/LocalLLaMA

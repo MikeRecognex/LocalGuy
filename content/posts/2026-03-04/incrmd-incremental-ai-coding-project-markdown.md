@@ -6,23 +6,19 @@ tags:
   - agents
   - ai-assisted-coding
   - ai-assisted-development
-  - bullish
   - code-generation
   - code-generation-workflow
   - configuration-as-code
   - context-window-optimization
-  - developer
   - developer-productivity
   - development-tools
   - fine-tuning
   - hacker-news
   - incrmd
-  - intermediate
   - llm-prompt-engineering
   - local-llm-development
   - local-model-efficiency
   - open-source
-  - showcase
 mentions:
   - name: Incrmd
     role: tool

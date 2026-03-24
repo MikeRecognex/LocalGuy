@@ -3,10 +3,31 @@ title: "LM Studio Releases Reworked Plugins with Fully Local Web Research"
 date: 2026-03-23
 description: "LM Studio has published improved versions of its plugins including DuckDuckGo and website visiting capabilities, enabling fully local web research workflows for LLM applications. These tools eliminate the need for external API calls while maintaining practical web integration."
 tags:
+  - analysis
+  - api-independence
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - enterprise
+  - intermediate
+  - latency-reduction
   - llama-cpp
-  - tools
+  - llm-plugins
+  - lm-studio
+  - lm-studio-features
+  - local-web-research
+  - model-reliability
+  - offline-ai
+  - offline-inference
+  - production-deployment
   - rag
+  - release
+  - tools
+mentions:
+  - name: LM Studio
+    role: developer
+  - name: LM Studio
 status: draft
 ---
 

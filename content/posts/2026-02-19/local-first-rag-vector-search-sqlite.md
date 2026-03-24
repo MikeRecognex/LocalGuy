@@ -8,6 +8,7 @@ tags:
   - data-privacy
   - developer
   - developer-tooling
+  - document-grounded-inference
   - document-processing
   - document-qa
   - edge-deployment
@@ -19,6 +20,8 @@ tags:
   - local-rag
   - offline-deployment
   - offline-inference
+  - on-device-ai
+  - on-device-inference
   - on-device-rag
   - privacy
   - privacy-compliance

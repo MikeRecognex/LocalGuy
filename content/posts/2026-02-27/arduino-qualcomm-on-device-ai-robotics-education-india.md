@@ -5,18 +5,14 @@ description: Initiative bringing practical on-device AI and robotics education t
 tags:
   - ai-education
   - ai-for-developing-nations
-  - analysis
-  - bullish
   - constrained-hardware
   - cost-saving
-  - developer
   - edge-ai-deployment
   - edge-device
   - edge-inference
   - education
   - hobbyist
   - inference-acceleration
-  - intermediate
   - local-llm-deployment
   - model-optimization
   - news

@@ -5,20 +5,15 @@ description: A new framework for managing context and knowledge retrieval for lo
 tags:
   - agent-reliability
   - agents
-  - analysis
-  - bullish
   - cli-tools
   - context-management
   - cost-saving
   - data-curation
-  - developer
-  - intermediate
   - knowledge-retrieval
   - local-ai-deployment
   - local-deployment
   - performance-optimization
   - privacy-compliance
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

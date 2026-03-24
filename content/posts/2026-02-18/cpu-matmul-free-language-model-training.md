@@ -4,12 +4,10 @@ date: 2026-02-18
 description: Researcher demonstrates training a 13.6M parameter language model entirely on CPU without matrix multiplications, achieving training time of just 1.2 hours with a working model available on Hugging Face.
 tags:
   - advanced
-  - bullish
   - consumer-hardware
   - cost-saving
   - cpu-only
   - cpu-training
-  - developer
   - developer-tooling
   - edge-deployment
   - fast-training
@@ -23,7 +21,6 @@ tags:
   - on-device-fine-tuning
   - production-ops
   - researcher
-  - showcase
   - small-model-training
   - training
 status: published

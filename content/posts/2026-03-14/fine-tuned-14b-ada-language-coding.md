@@ -4,12 +4,9 @@ date: 2026-03-14
 description: A developer successfully fine-tuned QWEN 2.5-Coder-14B using compiler-verified Ada code, demonstrating that smaller specialized models can exceed state-of-the-art performance on domain-specific programming tasks.
 tags:
   - advanced
-  - analysis
-  - bullish
   - code-generation
   - coding
   - cost-latency-optimization
-  - developer
   - domain-specific-ai
   - domain-specific-training
   - enterprise
@@ -21,7 +18,6 @@ tags:
   - qwen
   - rlocalllama
   - safety-critical-ai
-  - showcase
   - specialization
   - specialized-llms
 mentions:

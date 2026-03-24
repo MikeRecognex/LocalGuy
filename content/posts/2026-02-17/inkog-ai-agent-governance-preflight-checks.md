@@ -10,12 +10,8 @@ tags:
   - agents
   - ai-agent-security
   - ai-governance
-  - analysis
-  - bullish
-  - developer
   - developer-tooling
   - enterprise
-  - intermediate
   - local-llm-deployment
   - policy-enforcement
   - pre-deployment-security
@@ -23,7 +19,6 @@ tags:
   - prompt-injection
   - security
   - self-hosted
-  - showcase
 mentions:
   - name: Inkog
     role: developer

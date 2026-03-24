@@ -44,7 +44,7 @@ mentions:
   - name: arXiv
     role: publisher
   - name: r/LocalLLaMA
-    role: community
+    role: source
 status: draft
 ---
 

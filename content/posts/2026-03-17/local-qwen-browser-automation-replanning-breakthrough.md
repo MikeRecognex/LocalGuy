@@ -3,11 +3,29 @@ title: "Local Qwen Models Master Browser Automation Through Iterative Replanning
 date: 2026-03-17
 description: "Demonstration shows small local Qwen models (8B + 4B) dramatically improve browser automation accuracy by adopting a step-by-step replanning approach rather than generating full multi-step plans upfront."
 tags:
-  - daily-digest
+  - advanced
+  - agent-architecture
+  - agent-reliability
+  - agentic-replanning
   - agents
-  - qwen
+  - analysis
   - benchmark
+  - browser-automation
+  - bullish
+  - daily-digest
+  - developer
+  - intermediate
+  - iterative-reasoning
+  - local-llm-efficiency
+  - model-optimization
   - open-source
+  - qwen
+  - rlocalllama
+  - showcase
+  - small-llms
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

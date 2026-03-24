@@ -1,12 +1,30 @@
 ---
 title: "MiniMax-M2.7: New Compact Model Announced for Local Deployment"
 date: 2026-03-18
-description: "MiniMax has announced the M2.7 model, generating interest in the community regarding its potential multimodal capabilities and suitability for local inference workloads."
+description: MiniMax has announced the M2.7 model, generating interest in the community regarding its potential multimodal capabilities and suitability for local inference workloads.
 tags:
-  - daily-digest
+  - bullish
+  - consumer-gpu
+  - developer
+  - document-understanding
+  - edge-deployment
+  - edge-device
+  - efficient-models
+  - intermediate
+  - local-inference
+  - model-efficiency
   - model-release
   - multimodal
-  - edge-deployment
+  - multimodal-ai
+  - multimodal-models
+  - multimodal-rag
+  - news
+  - release
+  - rlocalllama
+  - visual-qa
+mentions:
+  - name: r/LocalLLaMA
+    role: community
 status: draft
 ---
 

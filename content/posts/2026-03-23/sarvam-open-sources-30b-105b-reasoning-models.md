@@ -3,10 +3,37 @@ title: "Sarvam Open-Sources 30B and 105B Reasoning Models"
 date: 2026-03-23
 description: "Sarvam has released open-source reasoning models in 30B and 105B parameters, expanding the toolkit for local LLM deployment with efficient reasoning capabilities."
 tags:
+  - access-democratization
+  - ai-accessibility
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - open-source
+  - data-privacy
+  - developer
+  - edge-ai
+  - edge-device
+  - efficient-reasoning
+  - inference-cost-reduction
+  - intermediate
+  - local-deployment
+  - local-inference-frameworks
+  - local-llm-deployment
+  - model-quantization
   - model-release
+  - msn
+  - on-device-deployment
+  - open-source
+  - open-source-ai
+  - open-source-models
   - reasoning
+  - reasoning-efficiency
+  - release
+  - sarvam-ai
+mentions:
+  - name: Sarvam AI
+    role: developer
+  - name: MSN
+    role: publisher
 status: draft
 ---
 

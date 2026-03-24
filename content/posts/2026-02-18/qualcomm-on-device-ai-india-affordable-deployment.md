@@ -4,11 +4,8 @@ date: 2026-02-18
 description: Qualcomm Ventures' MD highlights how India's scale and infrastructure constraints are driving innovation in efficient, on-device AI that bypasses expensive cloud dependencies.
 tags:
   - advanced
-  - analysis
-  - bullish
   - cloud-decentralization
   - cost-saving
-  - developer
   - developer-tooling
   - edge-ai
   - edge-deployment
@@ -17,7 +14,6 @@ tags:
   - enterprise
   - google
   - hardware-software-co-optimization
-  - intermediate
   - mobile-soc
   - news
   - offline-deployment

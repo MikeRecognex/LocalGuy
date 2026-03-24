@@ -1,13 +1,40 @@
 ---
-title: "Tether's QVAC Introduces Cross-Platform Bitnet LoRA Framework for On-Device AI Training"
+title: Tether's QVAC Introduces Cross-Platform Bitnet LoRA Framework for On-Device AI Training
 date: 2026-03-19
-description: "A new cross-platform BitNet LoRA framework enables efficient fine-tuning of language models directly on edge devices. This development significantly reduces the computational overhead required for on-device model adaptation and training."
+description: A new cross-platform BitNet LoRA framework enables efficient fine-tuning of language models directly on edge devices. This development significantly reduces the computational overhead required for on-device model adaptation and training.
 tags:
-  - daily-digest
-  - fine-tuning
-  - quantisation
+  - analysis
+  - bitnet-lora
+  - btc-times
+  - bullish
+  - computational-efficiency
+  - consumer-gpu
+  - cross-platform-compatibility
+  - data-privacy
+  - developer
+  - domain-specific-llms
+  - edge-ai
+  - edge-device
   - edge-inference
+  - enterprise
+  - fine-tuning
+  - infrastructure-optimization
+  - intermediate
+  - latency-reduction
+  - model-fine-tuning
+  - on-device-fine-tuning
+  - on-device-privacy
   - open-source
+  - quantisation
+  - release
+  - self-hosted-ai
+  - tether
+  - tethers-qvac
+mentions:
+  - name: Tether
+    role: developer
+  - name: BTC Times
+    role: publisher
 status: draft
 ---
 

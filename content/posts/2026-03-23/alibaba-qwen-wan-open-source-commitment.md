@@ -3,10 +3,24 @@ title: "Alibaba Commits to Continuous Open-Sourcing of Qwen and Wan Models"
 date: 2026-03-23
 description: "Alibaba has publicly committed to ongoing open-source releases of new Qwen and Wan models, reinforcing their position as a major contributor to the local LLM ecosystem. This commitment ensures continued availability of high-quality open-weight models for on-device deployment."
 tags:
+  - bullish
   - daily-digest
-  - open-source
-  - qwen
+  - developer
+  - intermediate
+  - local-deployment
+  - local-llms
+  - model-availability
+  - model-optimization
+  - model-performance
   - model-releases
+  - model-strategy
+  - news
+  - on-device-deployment
+  - on-device-inference
+  - open-source
+  - open-source-llms
+  - open-source-models
+  - qwen
 status: draft
 ---
 

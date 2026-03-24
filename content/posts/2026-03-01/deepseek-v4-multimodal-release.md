@@ -3,16 +3,12 @@ title: DeepSeek V4 Multimodal Model Coming Next Week With Image and Video Genera
 date: 2026-03-01
 description: DeepSeek plans to release V4 with integrated image and video generation capabilities, expanding the capabilities available for local deployment and challenging proprietary cloud-based alternatives.
 tags:
-  - analysis
-  - bullish
   - data-privacy
   - deepseek
   - deployment-optimization
-  - developer
   - enterprise
   - generative-ai-pipelines
   - infrastructure-management
-  - intermediate
   - local-deployment
   - model-architecture
   - model-release

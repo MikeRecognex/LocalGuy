@@ -1,13 +1,35 @@
 ---
-title: "Researcher Discovers Universal \"Danger Zone\" in Transformer Model Architecture at 50% Depth"
+title: Researcher Discovers Universal "Danger Zone" in Transformer Model Architecture at 50% Depth
 date: 2026-03-17
-description: "Experimental layer surgery across six different model architectures reveals a critical vulnerability at approximately 50-56% model depth where layer duplication consistently degrades performance, offering new insights into transformer architecture optimisation."
+description: Experimental layer surgery across six different model architectures reveals a critical vulnerability at approximately 50-56% model depth where layer duplication consistently degrades performance, offering new insights into transformer architecture optimisation.
 tags:
-  - daily-digest
-  - fine-tuning
+  - advanced
+  - analysis
   - architecture
+  - bullish
+  - cautious
+  - cost-optimization
+  - developer
+  - fine-tuning
   - memory-optimization
+  - model-adaptation
+  - model-architecture
+  - model-compression
+  - model-degradation
+  - model-fine-tuning
+  - model-modification
+  - model-optimization
+  - model-performance-degradation
+  - on-device-optimization
   - research
+  - research-report
+  - researcher
+  - rlocalllama
+  - transformer-architecture
+  - transformer-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: publisher
 status: draft
 ---
 

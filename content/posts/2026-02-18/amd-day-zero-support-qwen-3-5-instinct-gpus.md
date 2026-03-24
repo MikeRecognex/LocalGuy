@@ -6,9 +6,7 @@ tags:
   - alibaba
   - amd
   - amd-gpu-support
-  - bullish
   - datacenter-gpu
-  - developer
   - developer-experience
   - developer-tooling
   - edge-deployment
@@ -16,7 +14,6 @@ tags:
   - google
   - hardware-ecosystem-diversification
   - inference-optimization
-  - intermediate
   - local-deployment
   - local-inference-deployment
   - model-compatibility

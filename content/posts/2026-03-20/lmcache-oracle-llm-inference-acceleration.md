@@ -3,11 +3,29 @@ title: "LMCache Dramatically Accelerates LLM Inference on Oracle Data Science Pl
 date: 2026-03-20
 description: "Oracle integrates LMCache, a cutting-edge prompt caching and KV cache optimization technique, into their cloud data science platform to accelerate LLM inference and reduce computational overhead."
 tags:
-  - daily-digest
-  - inference-optimization
-  - memory-optimization
-  - open-source
+  - advanced
+  - analysis
+  - batch-inference
   - benchmark
+  - bullish
+  - daily-digest
+  - developer
+  - inference-optimization
+  - inference-speed
+  - intermediate
+  - kv-cache-optimization
+  - llm-inference-acceleration
+  - lm-cache
+  - local-deployment-optimization
+  - local-llm-deployment
+  - memory-optimization
+  - news
+  - open-source
+  - prompt-caching
+  - rag-pipeline
+  - resource-optimization
+  - vram-efficiency
+  - vram-optimization
 status: draft
 ---
 

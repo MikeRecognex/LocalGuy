@@ -3,21 +3,17 @@ title: M5 Max and M5 Ultra Chipsets Demonstrate Significant Bandwidth Improvemen
 date: 2026-03-10
 description: Apple's newest M5 silicon generations offer substantially improved memory bandwidth compared to prior generations, enabling practical deployment of larger models on MacBook hardware with competitive inference throughput.
 tags:
-  - analysis
   - apple-silicon
   - apple-silicon-performance
   - benchmark
-  - bullish
   - data-privacy
   - deployment-efficiency
   - deployment-simplification
-  - developer
   - edge-inference
   - hardware
   - hardware-canucks
   - inference-frameworks
   - inference-optimization
-  - intermediate
   - large-model-inference
   - local-llm-inference
   - memory-bandwidth

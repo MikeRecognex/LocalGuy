@@ -14,12 +14,16 @@ tags:
   - javascript
   - javascript-ai-development
   - javascript-bindings
+  - local-inference
   - local-llm
   - local-llm-deployment
   - local-llm-ecosystem
   - low-latency-inference
   - ollama
+  - ollama-integration
+  - on-device-inference
   - privacy-by-design
+  - privacy-first-ai
   - sitepoint
   - tutorial
   - web-ai-development

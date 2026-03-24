@@ -7,21 +7,17 @@ tags:
   - agent-security
   - agents
   - ai-agent-security
-  - bullish
   - cost-saving
   - defense-in-depth
   - deployment
-  - developer
   - enterprise
   - hacker-news
-  - intermediate
   - local-agent-deployment
   - open-source
   - open-source-ai-security
   - privacy-compliance
   - prompt-injection-defense
   - security
-  - showcase
 mentions:
   - name: Hacker News
     role: publisher

@@ -6,24 +6,19 @@ tags:
   - ai-democratization
   - ai-pc
   - ai-pcs
-  - analysis
-  - bullish
   - consumer-gpu
   - cost-efficient
   - cost-efficient-ai
   - cpu-only
-  - developer
   - edge-inference
   - frugal-ai
   - hardware
   - intel
-  - intermediate
   - local-inference-strategy
   - local-llm-deployment
   - on-device-inference
   - privacy-compliance
   - resource-optimization
-  - showcase
 mentions:
   - name: Hindustan Times
     role: publisher

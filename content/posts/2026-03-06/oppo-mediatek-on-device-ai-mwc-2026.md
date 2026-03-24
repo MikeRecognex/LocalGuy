@@ -3,14 +3,10 @@ title: OPPO and MediaTek Highlight On-Device AI Innovations at MWC 2026
 date: 2026-03-06
 description: OPPO and MediaTek demonstrated new on-device AI capabilities and optimisations at MWC 2026, showcasing advances in mobile inference and edge AI deployment.
 tags:
-  - analysis
-  - bullish
   - consumer-mobile
-  - developer
   - edge-ai-deployment
   - edge-deployment
   - edge-device
-  - intermediate
   - mediatek
   - memory-efficiency
   - mobile-ai-innovation
@@ -18,7 +14,6 @@ tags:
   - model-compression
   - on-device-ai
   - optimization-techniques
-  - showcase
   - community-support
   - laptop-processors
   - Oppo
