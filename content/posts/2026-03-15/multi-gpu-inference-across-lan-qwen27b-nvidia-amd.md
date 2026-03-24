@@ -5,6 +5,7 @@ description: A practitioner successfully split Qwen3.5-27B across a 4070Ti and A
 tags:
   - benchmarking
   - consumer-gpu
+  - context-management
   - cost-saving
   - hardware
   - heterogeneous-hardware
@@ -12,7 +13,6 @@ tags:
   - inference-optimization
   - llama-cpp-features
   - llama-cpp-rpc
-  - long-context-inference
   - multi-gpu
   - multi-gpu-inference
   - multi-gpu-orchestration

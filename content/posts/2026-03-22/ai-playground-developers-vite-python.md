@@ -5,7 +5,7 @@ description: "A new developer-focused platform combining Vite frontend tooling w
 tags:
   - bullish
   - consumer-gpu
-  - context-window-management
+  - context-management
   - deployment-prototyping
   - developer
   - developer-experience

@@ -9,7 +9,7 @@ tags:
   - attention-mechanisms
   - benchmarking
   - bullish
-  - context-window
+  - context-management
   - cost-saving
   - deployment-strategy
   - developer

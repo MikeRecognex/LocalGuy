@@ -6,7 +6,7 @@ tags:
   - apple
   - apple-silicon
   - chip-architecture
-  - context-window-management
+  - context-management
   - data-privacy
   - edge-deployment
   - edge-inference

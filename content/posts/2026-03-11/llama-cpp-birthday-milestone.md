@@ -4,7 +4,7 @@ date: 2026-03-11
 description: The llama.cpp project marks a significant birthday, reflecting its evolution from a hobbyist experiment running leaked models to the foundational inference engine for local LLM deployment.
 tags:
   - consumer-gpu
-  - context-window
+  - context-management
   - cpu-inference
   - edge-computing
   - inference-engine

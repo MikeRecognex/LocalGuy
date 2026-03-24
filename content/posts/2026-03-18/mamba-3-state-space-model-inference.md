@@ -8,15 +8,14 @@ tags:
   - architecture
   - bullish
   - consumer-gpu
+  - context-management
   - developer
   - edge-computing
   - inference
   - inference-optimization
   - intermediate
   - local-inference
-  - long-context-llms
   - long-context-processing
-  - long-context-window
   - mamba-architecture
   - memory-optimization
   - model-architecture-comparison

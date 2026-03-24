@@ -6,9 +6,7 @@ tags:
   - analysis
   - bullish
   - context-management
-  - context-window
   - context-window-extension
-  - context-window-management
   - developer
   - developer-tooling
   - document-processing

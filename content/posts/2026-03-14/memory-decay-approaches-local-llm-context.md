@@ -5,7 +5,7 @@ description: Research on memory decay mechanisms suggests that implementing forg
 tags:
   - advanced
   - agents
-  - context-window-management
+  - context-management
   - decay-memory
   - efficiency-optimization
   - inference-optimization

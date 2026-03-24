@@ -8,8 +8,7 @@ tags:
   - agents
   - architecture-decisions
   - benchmarking
-  - context-window
-  - context-window-management
+  - context-management
   - local-deployment
   - mcp
   - neutral

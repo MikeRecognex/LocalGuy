@@ -6,7 +6,7 @@ tags:
   - advanced
   - bullish
   - content-moderation
-  - context-window
+  - context-management
   - cost-saving
   - developer
   - developer-tooling

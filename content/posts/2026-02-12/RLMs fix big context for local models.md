@@ -8,14 +8,13 @@ tags:
   - benchmarking
   - context-extension
   - context-length-extension
-  - context-window
+  - context-management
   - context-window-extension
   - cost-saving
   - document-processing
   - inference-optimization
   - large-input-scaling
   - long-context-handling
-  - long-context-llms
   - recursive-inference
   - recursive-language-models
   - recursive-reasoning

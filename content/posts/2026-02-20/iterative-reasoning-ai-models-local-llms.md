@@ -6,8 +6,7 @@ tags:
   - advanced
   - agents
   - analysis
-  - context-window
-  - context-window-management
+  - context-management
   - developer
   - developer-tooling
   - edge-deployment

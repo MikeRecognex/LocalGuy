@@ -8,13 +8,13 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
+  - context-management
   - datacenter-gpu
   - developer
   - edge-computing
   - inference-scaling
   - intermediate
   - local-deployment
-  - long-context-llms
   - long-context-reasoning
   - model-optimization
   - model-performance

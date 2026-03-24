@@ -11,7 +11,7 @@ tags:
   - batching-for-latency
   - bullish
   - complex-reasoning
-  - context-window-management
+  - context-management
   - developer
   - developer-tooling
   - enterprise

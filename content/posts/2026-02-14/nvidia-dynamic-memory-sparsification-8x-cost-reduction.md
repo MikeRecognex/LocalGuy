@@ -7,7 +7,7 @@ tags:
   - bullish
   - consumer-gpu
   - context-length-extension
-  - context-window
+  - context-management
   - cost-saving
   - developer
   - dynamic-memory-sparsification

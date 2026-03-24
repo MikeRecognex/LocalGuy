@@ -8,13 +8,13 @@ tags:
   - bullish
   - community-driven-insights
   - consumer-gpu
+  - context-management
   - developer
   - inference
   - inference-engines
   - intermediate
   - kv-cache-quantization
   - local-deployment
-  - long-context-inference
   - memory-optimization
   - model-optimization
   - model-size-on-consumer-hardware

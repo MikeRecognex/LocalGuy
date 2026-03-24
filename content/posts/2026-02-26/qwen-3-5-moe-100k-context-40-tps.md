@@ -9,12 +9,12 @@ tags:
   - bullish
   - consumer-gpu
   - consumer-hardware-performance
+  - context-management
   - developer
   - hardware
   - inference-optimization
   - intermediate
   - local-deployment
-  - long-context-window
   - mixture-of-experts
   - moe-architecture
   - moe-inference

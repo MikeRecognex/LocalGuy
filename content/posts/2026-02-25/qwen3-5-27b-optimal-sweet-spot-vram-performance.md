@@ -5,7 +5,7 @@ description: Users are reporting that Qwen3.5-27B offers the ideal balance of pe
 tags:
   - benchmarking
   - consumer-gpu
-  - context-window-management
+  - context-management
   - hardware
   - inference-frameworks
   - inference-optimization

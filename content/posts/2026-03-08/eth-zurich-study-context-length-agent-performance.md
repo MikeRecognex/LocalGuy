@@ -8,8 +8,8 @@ tags:
   - agents
   - cautious
   - consumer-gpu
+  - context-management
   - context-optimization
-  - context-window
   - context-window-limitations
   - engineers-codex
   - eth-zurich

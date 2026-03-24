@@ -10,7 +10,7 @@ tags:
   - code-generation
   - code-llm-applications
   - consumer-gpu
-  - context-window
+  - context-management
   - context-window-size
   - cost-saving
   - developer
@@ -26,7 +26,6 @@ tags:
   - long-context-code-understanding
   - long-context-performance
   - long-context-processing
-  - long-context-window
   - memory-efficiency
   - memory-intensive-workloads
   - memory-optimization

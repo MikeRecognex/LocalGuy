@@ -12,7 +12,6 @@ tags:
   - consumer-gpu
   - context-management
   - context-management-optimization
-  - context-window
   - context-window-limitations
   - developer
   - developer-tooling
