@@ -6,6 +6,7 @@ tags:
   - abstraction-layer-issues
   - advanced
   - agentic-ai
+  - benchmarking
   - cautious
   - chain-of-thought-reasoning
   - comparison
@@ -16,7 +17,6 @@ tags:
   - model-evaluation-frameworks
   - neutral
   - ollama
-  - performance-benchmarking
   - qwen-models
   - rag-pipelines
   - tool-use

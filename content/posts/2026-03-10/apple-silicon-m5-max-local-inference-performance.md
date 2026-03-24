@@ -5,7 +5,7 @@ description: Apple's newest M5 silicon generations offer substantially improved 
 tags:
   - apple-silicon
   - apple-silicon-performance
-  - benchmark
+  - benchmarking
   - data-privacy
   - deployment-efficiency
   - deployment-simplification

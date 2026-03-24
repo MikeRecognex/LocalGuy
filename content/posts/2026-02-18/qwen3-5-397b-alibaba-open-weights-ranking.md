@@ -5,14 +5,13 @@ description: "Alibaba's newly released Qwen3.5-397B mixture-of-experts model ran
 tags:
   - advanced
   - alibaba
-  - benchmarks
+  - benchmarking
   - cost-saving
   - data-privacy
   - enterprise
   - inference-optimization
   - large-model-deployment
   - mixture-of-experts
-  - model-benchmarking
   - moe
   - moe-architecture
   - offline-deployment

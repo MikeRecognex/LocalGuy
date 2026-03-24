@@ -6,9 +6,8 @@ tags:
   - agent-frameworks
   - agents
   - alibaba
-  - benchmark-report
+  - benchmarking
   - benchmarking-framework
-  - benchmarks
   - bullish
   - daily-digest
   - developer
@@ -21,9 +20,7 @@ tags:
   - llm-evaluation
   - local-deployment
   - local-inference
-  - model-benchmarking
   - model-comparison
-  - model-evaluation
   - model-selection
   - offline-deployment
   - on-device-inference

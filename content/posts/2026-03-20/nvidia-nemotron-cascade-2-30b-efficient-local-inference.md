@@ -4,7 +4,7 @@ date: 2026-03-20
 description: "NVIDIA's new Nemotron Cascade 2 30B achieves competitive performance with models 4x larger on math and code benchmarks, offering excellent efficiency for local deployment on resource-constrained hardware."
 tags:
   - attention-mechanisms
-  - benchmark
+  - benchmarking
   - bullish
   - code-generation
   - consumer-gpu
@@ -18,7 +18,6 @@ tags:
   - local-inference
   - memory-optimization
   - model-architecture
-  - model-benchmarking
   - model-optimization
   - nvidia
   - open-source

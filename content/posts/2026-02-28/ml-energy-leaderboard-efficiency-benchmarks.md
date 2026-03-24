@@ -3,7 +3,7 @@ title: The ML.energy Leaderboard
 date: 2026-02-28
 description: ML.energy launches a comprehensive leaderboard benchmarking model efficiency metrics including inference latency, memory consumption, and energy usage across diverse hardware platforms, providing crucial data for local deployment decisions.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - cpu-inference
   - custom-asic
@@ -15,7 +15,6 @@ tags:
   - inference-optimization
   - local-deployment
   - memory-footprint
-  - model-benchmarking
   - model-comparison
   - performance-metrics
   - release

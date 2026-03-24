@@ -5,7 +5,7 @@ description: Alibaba's Qwen 3.5-397B mixture-of-experts model is now available o
 tags:
   - advanced
   - alibaba
-  - benchmarks
+  - benchmarking
   - consumer-gpu
   - consumer-hardware-deployment
   - cost-saving
@@ -17,8 +17,6 @@ tags:
   - llama-cpp-integration
   - local-inference
   - mixture-of-experts
-  - model-benchmarking
-  - model-evaluation
   - model-quantisation
   - moe
   - news

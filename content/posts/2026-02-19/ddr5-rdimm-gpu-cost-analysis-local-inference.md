@@ -5,7 +5,7 @@ description: Analysis shows DDR5 RDIMM memory costs have reached parity with hig
 tags:
   - advanced
   - batch-inference
-  - benchmarks
+  - benchmarking
   - cautious
   - consumer-gpu
   - cost-comparison

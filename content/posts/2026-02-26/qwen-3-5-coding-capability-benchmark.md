@@ -4,9 +4,8 @@ date: 2026-02-26
 description: "A comprehensive benchmark testing Qwen3.5 models against 70 real repositories reveals significant weaknesses in complex coding tasks compared to other models. The analysis challenges claims of Qwen3.5's general-purpose capability and highlights the importance of task-specific evaluation."
 tags:
   - advanced
-  - benchmark
-  - benchmark-report
   - benchmark-testing
+  - benchmarking
   - cautious
   - code-generation
   - code-generation-performance
@@ -19,10 +18,7 @@ tags:
   - gpu-resource-management
   - gpu-resource-optimization
   - intermediate
-  - llm-benchmarking
   - local-deployment
-  - model-benchmarking
-  - model-evaluation
   - model-performance
   - model-selection
   - neutral

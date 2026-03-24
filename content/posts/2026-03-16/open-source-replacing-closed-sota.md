@@ -4,7 +4,7 @@ date: 2026-03-16
 description: "The local LLM community observes that open-source models like GLM5 and Kimi K2.5 now match or exceed the capabilities of closed-source SOTA from just one year prior, validating a trend of accelerated commoditization."
 tags:
   - analysis
-  - benchmark
+  - benchmarking
   - bullish
   - cost-saving
   - daily-digest

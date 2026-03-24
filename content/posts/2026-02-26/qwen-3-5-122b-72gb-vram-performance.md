@@ -3,7 +3,7 @@ title: "Qwen3.5 122B Achieves 25 tok/s on 72GB VRAM Setup"
 date: 2026-02-26
 description: "Users report exceptional performance running Qwen3.5 122B across three 3090s with 72GB total VRAM, reaching 25 tokens/second with full GPU loading. The model demonstrates strong inference speed and practical viability for enthusiasts with mid-range hardware stacks."
 tags:
-  - benchmark-report
+  - benchmarking
   - bullish
   - consumer-gpu
   - consumer-hardware-deployment

@@ -4,7 +4,7 @@ date: 2026-03-16
 description: "Qwen 3.5 122B is impressing local LLM enthusiasts with sophisticated reasoning capabilities and natural task decomposition, making it a strong candidate for on-device applications requiring complex problem-solving."
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - bullish
   - code-generation
   - daily-digest

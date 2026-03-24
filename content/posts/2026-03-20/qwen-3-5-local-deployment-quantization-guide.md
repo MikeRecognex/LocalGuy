@@ -3,7 +3,7 @@ title: "Qwen 3.5 Emerges as Top Performer for Local Deployment with Extensive Qu
 date: 2026-03-20
 description: "Qwen 3.5 is establishing itself as a highly versatile model for local inference, with community members successfully creating dozens of custom quantizations and sharing best practices across different inference engines and hardware configurations."
 tags:
-  - benchmark
+  - benchmarking
   - bullish
   - consumer-gpu
   - daily-digest

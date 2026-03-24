@@ -3,7 +3,7 @@ title: "Running Your Own AI Assistant for €19/Month: Complete Self-Hosting Gui
 date: 2026-02-12
 description: A comprehensive guide demonstrates how to deploy and run a personal AI assistant on self-hosted infrastructure for just €19 per month, including setup instructions and cost breakdowns.
 tags:
-  - benchmarks
+  - benchmarking
   - cost-analysis
   - cost-saving
   - llm-deployment
@@ -11,7 +11,6 @@ tags:
   - memory-optimization
   - neutral
   - offline-deployment
-  - performance-benchmarking
   - personal-ai-assistant
   - self-hosted
   - troubleshooting

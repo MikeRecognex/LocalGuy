@@ -3,8 +3,7 @@ title: "Strix Halo Performance Benchmarks: Minimax M2.5, Step 3.5 Flash, Qwen3 C
 date: 2026-02-21
 description: New benchmarks show how recent compact models (Minimax M2.5, Step 3.5 Flash, Qwen3 Coder Next) perform on Strix Halo processors, providing practical guidance for developers choosing models for memory-constrained edge deployments.
 tags:
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - compact-models
   - consumer-gpu
   - edge-computing

@@ -6,7 +6,7 @@ tags:
   - advanced
   - ai-search-engine
   - analysis
-  - benchmark
+  - benchmarking
   - bullish
   - consumer-gpu
   - consumer-gpu-inference

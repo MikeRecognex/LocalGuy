@@ -4,7 +4,7 @@ date: 2026-02-23
 description: LLMfit is a new tool that analyzes your hardware and recommends which LLMs are compatible and can run efficiently on your specific machine. This solves a common pain point for local LLM deployment by automating hardware capability assessment.
 tags:
   - automated-compatibility-checking
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - cpu-inference
   - deployment-reliability

@@ -3,15 +3,13 @@ title: How Do You Know Which SKILL.md Is Good?
 date: 2026-02-23
 description: A new benchmark tool for evaluating the quality of LLM skill definitions and capabilities, addressing the need for standardized assessment of model performance across different tasks and configurations.
 tags:
-  - benchmark
+  - benchmarking
   - benchmarking-frameworks
   - documentation-standards
   - evaluation
   - llm-evaluation
   - local-deployment
-  - model-benchmarking
   - model-deployment
-  - model-evaluation
   - model-hardware-optimization
   - news
   - open-source

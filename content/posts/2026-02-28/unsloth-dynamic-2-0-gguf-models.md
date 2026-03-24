@@ -3,6 +3,7 @@ title: Unsloth Dynamic 2.0 GGUFs
 date: 2026-02-28
 description: Unsloth releases Dynamic 2.0 GGUF format models, advancing quantized model optimization for local inference with improved efficiency and compatibility across edge devices.
 tags:
+  - benchmarking
   - consumer-gpu
   - edge-computing
   - gguf
@@ -11,7 +12,6 @@ tags:
   - local-deployment
   - local-inference
   - memory-optimization
-  - model-evaluation
   - model-optimization
   - optimization
   - quantization

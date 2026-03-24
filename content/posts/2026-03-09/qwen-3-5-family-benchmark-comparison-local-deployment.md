@@ -5,8 +5,7 @@ description: "New benchmarks reveal that Qwen 3.5's 27B, 35B, and 122B variants 
 tags:
   - agentic-ai
   - analysis
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - bullish
   - consumer-gpu
   - daily-digest
@@ -18,7 +17,6 @@ tags:
   - local-deployment
   - long-context-llms
   - long-context-reasoning
-  - model-benchmarking
   - model-optimization
   - model-performance
   - neutral

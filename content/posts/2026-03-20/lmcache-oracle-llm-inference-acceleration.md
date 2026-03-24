@@ -6,7 +6,7 @@ tags:
   - advanced
   - analysis
   - batch-inference
-  - benchmark
+  - benchmarking
   - bullish
   - daily-digest
   - developer

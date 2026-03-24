@@ -4,7 +4,7 @@ date: 2026-03-15
 description: A developer achieved a 5x performance improvement on the massive Qwen3.5-397B model by building a custom CUTLASS kernel to fix SM120's broken MoE GEMM tiles, reaching 282 tokens/second on Blackwell GPUs. This breakthrough demonstrates significant optimization potential for running large models locally with multi-GPU setups.
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - custom-kernel-development
   - datacenter-gpu
   - docker-deployment

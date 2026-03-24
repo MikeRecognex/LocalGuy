@@ -6,8 +6,7 @@ tags:
   - apple-silicon
   - apple-silicon-benchmarks
   - apple-silicon-evaluation
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - consumer-gpu
   - consumer-hardware-viability
   - hardware

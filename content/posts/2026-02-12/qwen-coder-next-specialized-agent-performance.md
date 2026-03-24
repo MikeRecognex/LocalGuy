@@ -8,13 +8,13 @@ tags:
   - agentic-workflows
   - agents
   - alibaba
+  - benchmarking
   - code-generation
   - coding
   - developer-tooling
   - document-processing
   - information-synthesis
   - local-deployment
-  - model-evaluation
   - qwen
   - reasoning-capabilities
 status: published

@@ -5,8 +5,7 @@ description: "Structured prompting techniques with Graph RAG enable smaller Llam
 tags:
   - advanced
   - analysis
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - bullish
   - consumer-gpu
   - cost-saving

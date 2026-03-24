@@ -4,7 +4,7 @@ date: 2026-02-28
 description: Unsloth released state-of-the-art dynamic quantisations for Qwen 3.5-35B across nearly all bit depths, backed by 150+ KL Divergence benchmarks and 9TB of GGUFs. The release also fixes a critical tool calling chat template bug affecting all quantisation uploaders.
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - bug-fix
   - consumer-gpu
   - evaluation-metrics
@@ -13,7 +13,6 @@ tags:
   - model-performance-tradeoffs
   - model-quantisation
   - open-source
-  - performance-benchmarking
   - quantization
   - qwen
   - release

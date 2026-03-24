@@ -4,14 +4,12 @@ date: 2026-02-23
 description: GLM-5 achieves 81.8 score on the Extended NYT Connections benchmark, surpassing Kimi K2.5 Thinking. This represents a significant performance milestone for open-source models suitable for local deployment.
 tags:
   - beginner-friendly
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - community-resource
   - consumer-gpu
   - daily-digest
   - glm-5
   - hobbyist
-  - llm-benchmarking
   - local-deployment
   - model-performance
   - neutral

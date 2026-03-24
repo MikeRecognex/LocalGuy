@@ -3,7 +3,7 @@ title: "Nvidia Nemotron Cascade 2 30B Emerges as Powerful Alternative to Qwen Mo
 date: 2026-03-22
 description: "Nvidia's newest Nemotron Cascade 2 30B model offers a distinct non-Qwen architecture option for local deployment with competitive performance characteristics. Early community testing suggests this model deserves attention alongside the popular Qwen family."
 tags:
-  - benchmark
+  - benchmarking
   - bullish
   - comparison
   - consumer-gpu

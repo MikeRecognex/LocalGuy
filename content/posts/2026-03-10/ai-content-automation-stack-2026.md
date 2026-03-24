@@ -4,7 +4,7 @@ date: 2026-03-10
 description: A Hacker News discussion reveals what tools and models practitioners are currently using for local and self-hosted AI content generation workflows.
 tags:
   - ai-content-automation
-  - benchmarks
+  - benchmarking
   - community-insights
   - content-automation
   - discussion

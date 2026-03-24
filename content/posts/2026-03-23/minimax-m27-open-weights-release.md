@@ -3,13 +3,13 @@ title: "MiniMax M2.7 Model to Be Released as Open Weights"
 date: 2026-03-23
 description: "MiniMax's M2.7 model will be made available as open weights, expanding the portfolio of capable models suitable for local deployment. This release addresses community needs for high-quality open-weight alternatives in the 2-3B parameter range."
 tags:
+  - benchmarking
   - bullish
   - daily-digest
   - developer
   - intermediate
   - local-deployment
   - minimax
-  - model-evaluation
   - model-releases
   - model-selection
   - model-size

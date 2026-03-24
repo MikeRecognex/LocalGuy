@@ -3,8 +3,7 @@ title: "HP OMEN MAX 16 Review: Is Local AI on a Laptop Viable in 2026?"
 date: 2026-03-10
 description: A comprehensive review examining whether modern gaming laptops can effectively run local LLMs, testing real-world inference performance and practical viability for local AI deployment.
 tags:
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - consumer-gpu
   - cpu-inference
   - digital-reviews-network

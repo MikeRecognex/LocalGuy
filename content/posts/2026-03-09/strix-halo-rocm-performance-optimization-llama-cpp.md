@@ -7,8 +7,7 @@ tags:
   - analysis
   - apu-architecture
   - apu-performance
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - bullish
   - consumer-apu
   - consumer-cpu

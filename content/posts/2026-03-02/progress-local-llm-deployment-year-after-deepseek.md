@@ -3,7 +3,7 @@ title: "Local LLM Performance Improvements: A Year of Progress Since DeepSeek R1
 date: 2026-03-02
 description: Community analysis shows dramatic cost and performance improvements in running frontier-level models locally, with the same throughput as a $6000 initial DeepSeek R1 setup now achievable on much cheaper hardware.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - cost-saving
   - daily-digest

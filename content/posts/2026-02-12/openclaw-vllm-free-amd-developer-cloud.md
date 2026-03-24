@@ -5,7 +5,7 @@ description: AMD launches free cloud access to run OpenClaw and vLLM inference w
 tags:
   - amd
   - beginner-friendly
-  - benchmarks
+  - benchmarking
   - cloud-access
   - cost-saving
   - datacenter-gpu
@@ -15,7 +15,6 @@ tags:
   - free-resources
   - gpu-acceleration
   - inference-engine
-  - llm-benchmarking
   - local-llm-development
   - model-deployment
   - news

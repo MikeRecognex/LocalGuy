@@ -6,7 +6,7 @@ tags:
   - agentic-ai
   - agentic-coding
   - agents
-  - benchmark
+  - benchmarking
   - code-generation
   - coding-assistants
   - consumer-gpu

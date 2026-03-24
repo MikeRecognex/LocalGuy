@@ -3,8 +3,7 @@ title: Fine-Tuned Qwen SLMs (0.6–8B) Demonstrate Competitive Performance Again
 date: 2026-03-10
 description: A systematic benchmarking study shows that properly fine-tuned Qwen3 small language models can match or exceed the performance of frontier LLMs like GPT-5 and Claude on narrowly-scoped tasks, validating the viability of local model specialization strategies.
 tags:
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - consumer-gpu
   - cost-saving
   - data-privacy

@@ -3,7 +3,7 @@ title: No, Local LLMs Can't Replace ChatGPT or Gemini — I Tried
 date: 2026-02-24
 description: A practical analysis comparing local LLM capabilities with cloud-based models, providing realistic expectations for on-device deployment and highlighting current limitations.
 tags:
-  - benchmark
+  - benchmarking
   - comparison
   - cost-saving
   - data-privacy

@@ -5,7 +5,7 @@ description: A detailed performance analysis of running local LLMs on the Framew
 tags:
   - amd
   - amd-strix-point
-  - benchmark
+  - benchmarking
   - consumer-cpu
   - consumer-laptop
   - data-privacy
@@ -21,7 +21,6 @@ tags:
   - model-optimization
   - neutral
   - on-device-inference
-  - performance-benchmarking
   - token-throughput
 mentions:
   - name: Hacker News

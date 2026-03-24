@@ -3,7 +3,7 @@ title: Qwen3-Coder-Next Achieves Top Ranking on SWE-bench at Pass@5
 date: 2026-03-07
 description: The Qwen3-Coder-Next model has reached the top position on SWE-bench leaderboards across both open-source and proprietary models, despite being an instruction-tuned model rather than a reasoning model. Its exceptional performance at error recovery and code fixing makes it a standout choice for local development workflows.
 tags:
-  - benchmark
+  - benchmarking
   - code-fixing
   - code-generation
   - error-recovery

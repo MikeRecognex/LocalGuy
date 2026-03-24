@@ -6,7 +6,7 @@ tags:
   - advanced
   - analysis
   - asic-inference
-  - benchmarks
+  - benchmarking
   - bullish
   - consumer-gpu
   - cost-saving

@@ -5,8 +5,7 @@ description: GPT4All emerges as a compelling alternative to Ollama for macOS use
 tags:
   - apple
   - apple-silicon
-  - benchmark-report
-  - benchmarks
+  - benchmarking
   - developer-tooling
   - gpt4all
   - hardware-optimization
@@ -14,7 +13,6 @@ tags:
   - local-llm-ecosystem
   - local-llm-platforms
   - macos-ai
-  - model-benchmarking
   - neutral
   - news
   - offline-deployment

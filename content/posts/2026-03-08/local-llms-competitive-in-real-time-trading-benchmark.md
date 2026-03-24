@@ -5,13 +5,11 @@ description: A comprehensive benchmarking study comparing 10 LLMs including Deep
 tags:
   - advanced
   - agents
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - decision-making-ai
   - enterprise
   - enterprise-llm-deployment
   - inference-optimization
-  - llm-benchmarking
   - local-inference
   - local-llms
   - market-data-analysis

@@ -4,7 +4,7 @@ date: 2026-03-13
 description: According to Runpod data, Qwen models have surpassed Llama as the most popular choice for self-hosted LLM deployments, signaling a major shift in the local AI ecosystem.
 tags:
   - alternative-llm-architectures
-  - benchmark
+  - benchmarking
   - cost-saving
   - deployment-trends
   - inference-optimization

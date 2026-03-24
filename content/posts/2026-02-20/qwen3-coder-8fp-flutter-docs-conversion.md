@@ -4,8 +4,7 @@ date: 2026-02-20
 description: "Qwen3 Coder Next 8FP successfully processed 12+ hours of continuous Flutter documentation conversion with 64K max tokens, utilizing 102GB of 128GB system memory. This showcases the model's capability for demanding real-world document processing tasks on high-end local hardware."
 tags:
   - advanced
-  - benchmark-report
-  - benchmarks
+  - benchmarking
   - bullish
   - code-analysis
   - code-generation
@@ -23,7 +22,6 @@ tags:
   - inference-cost-latency
   - inference-optimization
   - intermediate
-  - llm-benchmarking
   - local-deployment
   - long-context-code-llm
   - long-context-code-understanding
@@ -34,7 +32,6 @@ tags:
   - memory-intensive-workloads
   - memory-optimization
   - memory-utilization
-  - model-benchmarking
   - model-comparison
   - model-stability
   - production-deployment

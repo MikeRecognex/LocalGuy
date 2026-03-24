@@ -9,7 +9,7 @@ tags:
   - agents
   - apple-silicon
   - autonomous-agents
-  - benchmark
+  - benchmarking
   - cost-saving
   - edge-deployment
   - local-first-deployment

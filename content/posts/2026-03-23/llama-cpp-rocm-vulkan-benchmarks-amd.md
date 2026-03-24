@@ -8,8 +8,7 @@ tags:
   - amd-gpu-optimization
   - amd-gpu-support
   - backend-selection
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - bullish
   - daily-digest
   - datacenter-gpu
@@ -21,7 +20,6 @@ tags:
   - llama-cpp
   - llm-deployment-optimization
   - local-deployment
-  - performance-benchmarking
   - performance-optimization
   - rocm-development
   - rocm-vulkan-comparison

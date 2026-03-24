@@ -4,7 +4,7 @@ date: 2026-03-08
 description: A developer demonstrates running specialized inference tasks—reverse-engineering legacy code—using a local instance of Codex, showcasing capability depth in locally-deployed code models.
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - case-study
   - code-analysis
   - code-llms

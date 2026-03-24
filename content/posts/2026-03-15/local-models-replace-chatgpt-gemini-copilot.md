@@ -4,13 +4,12 @@ date: 2026-03-15
 description: Users report successfully replacing multiple commercial AI subscriptions with locally-deployed models, demonstrating the viability of self-hosted inference for everyday tasks.
 tags:
   - ai-commoditization
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - cost-saving
   - data-privacy
   - local-deployment-economics
   - local-llm-competitiveness
-  - model-benchmarking
   - open-source
   - open-source-llms
   - quantization

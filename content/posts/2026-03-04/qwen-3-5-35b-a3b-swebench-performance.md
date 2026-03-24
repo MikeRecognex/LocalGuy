@@ -3,8 +3,7 @@ title: Qwen 3.5-35B-A3B Achieves 37.8% on SWE-bench Verified Hard
 date: 2026-03-04
 description: Qwen's 35B model hits near-Claude-Opus performance on the challenging SWE-bench Verified Hard benchmark, demonstrating significant capability for local code generation and software engineering tasks.
 tags:
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - code-generation
   - consumer-gpu
   - cost-saving

@@ -4,8 +4,7 @@ date: 2026-03-12
 description: A detailed benchmark of every major MoE backend for Qwen3.5-397B NVFP4 on workstation GPUs reveals actual sustained performance of 50.5 tok/s, significantly lower than commonly cited claims. The analysis uncovers kernel issues in Nvidia's own CUTLASS implementation.
 tags:
   - advanced
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - cautious
   - datacenter-gpu
   - gpu-kernel-optimization
@@ -16,7 +15,6 @@ tags:
   - moe
   - moe-benchmarking
   - moe-models
-  - performance-benchmarking
   - performance-validation
   - quantization
   - rlocalllama

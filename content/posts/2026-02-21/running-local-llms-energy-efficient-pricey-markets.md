@@ -3,8 +3,7 @@ title: I Run Local LLMs in One of the World's Priciest Energy Markets, and I Can
 date: 2026-02-21
 description: A practical case study demonstrating that running local LLMs remains economically viable even in high-energy-cost regions, with energy consumption being negligible compared to expectations.
 tags:
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - case-study
   - cost-analysis
   - cost-saving

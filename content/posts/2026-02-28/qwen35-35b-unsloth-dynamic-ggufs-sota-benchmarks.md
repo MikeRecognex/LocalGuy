@@ -4,15 +4,13 @@ date: 2026-02-28
 description: New state-of-the-art GGUF quantisations for Qwen3.5-35B released with 150+ KL Divergence benchmarks and 9TB of variants. Critical tool calling chat template bug fixed affecting all quantisation uploaders.
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - edge-computing
   - gguf
   - gguf-quantisation
   - hardware-optimization
-  - model-benchmarking
   - model-variants
-  - performance-benchmarking
   - production-deployment
   - quantization
   - qwen

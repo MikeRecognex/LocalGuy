@@ -5,7 +5,7 @@ description: A powerful and innovative technique for extending context windows f
 tags:
   - advanced
   - agents
-  - benchmarks
+  - benchmarking
   - context-extension
   - context-length-extension
   - context-window

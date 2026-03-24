@@ -4,8 +4,7 @@ date: 2026-03-21
 description: "Users report that Qwen 3.5 397B significantly outperforms competing local models including GPT-OSS 120B and Nemotron 120B for code generation tasks, despite slower inference speeds."
 tags:
   - advanced
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - bullish
   - code-generation
   - code-quality

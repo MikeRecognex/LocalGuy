@@ -4,7 +4,7 @@ date: 2026-02-28
 description: A practical guide exploring the trade-offs between model accuracy and inference speed when deploying LLMs locally, helping practitioners optimize for their specific use cases and hardware constraints.
 tags:
   - accuracy-vs-speed
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - hardware-benchmarking
   - inference

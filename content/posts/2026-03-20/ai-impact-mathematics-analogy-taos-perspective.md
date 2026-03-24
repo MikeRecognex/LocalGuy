@@ -7,7 +7,7 @@ tags:
   - ai-as-thought-partner
   - ai-in-mathematics
   - analysis
-  - benchmarks
+  - benchmarking
   - bullish
   - context-management
   - daily-digest

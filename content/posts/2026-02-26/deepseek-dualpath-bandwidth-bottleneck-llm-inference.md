@@ -9,7 +9,7 @@ tags:
   - bandwidth
   - bandwidth-efficiency
   - bandwidth-optimization
-  - benchmark-report
+  - benchmarking
   - bullish
   - consumer-gpu
   - daily-digest

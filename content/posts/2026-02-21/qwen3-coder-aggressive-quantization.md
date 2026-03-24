@@ -4,8 +4,7 @@ date: 2026-02-21
 description: Testing reveals that Qwen3 Coder Next maintains usability even at Q2 quantization levels, suggesting Qwen models offer better quantization resilience than comparable 30B alternatives for code tasks.
 tags:
   - advanced
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - code-generation
   - consumer-gpu
   - edge-computing

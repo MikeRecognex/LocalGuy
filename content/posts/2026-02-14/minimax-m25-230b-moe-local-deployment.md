@@ -5,7 +5,7 @@ description: MiniMax-M2.5, a 230B parameter mixture-of-experts model, is now ava
 tags:
   - advanced
   - apple-silicon
-  - benchmarks
+  - benchmarking
   - bullish
   - coding-reasoning
   - consumer-gpu
@@ -24,7 +24,6 @@ tags:
   - minimax
   - minimax-m25
   - mixture-of-experts
-  - model-benchmarking
   - model-optimization
   - model-performance
   - moe

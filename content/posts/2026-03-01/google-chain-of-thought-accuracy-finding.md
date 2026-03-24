@@ -4,7 +4,7 @@ date: 2026-03-01
 description: New Google research challenges assumptions about reasoning token length, revealing a -0.54 correlation between chain-of-thought length and accuracy across multiple model architectures and benchmarks.
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - chain-of-thought-fine-tuning
   - chain-of-thought-reasoning
   - inference-optimization

@@ -3,7 +3,7 @@ title: Qwen 3.5-35B RTX 5080 Benchmarks Confirm KV Q8_0 as Free Lunch, Q4_K_M Re
 date: 2026-02-28
 description: Comprehensive experiments on RTX 5080 16GB confirm that KV cache quantisation to Q8_0 provides free performance gains without quality loss, while Q4_K_M remains the optimal general-purpose quantisation. The study validates configuration optimisations that improve throughput by 7% through proper batch flag usage.
 tags:
-  - benchmark
+  - benchmarking
   - hardware
   - quantization
   - qwen

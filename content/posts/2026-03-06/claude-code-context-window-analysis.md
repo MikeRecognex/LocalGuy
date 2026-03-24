@@ -7,7 +7,7 @@ tags:
   - agent-design
   - agents
   - architecture-decisions
-  - benchmarks
+  - benchmarking
   - context-window
   - context-window-management
   - local-deployment

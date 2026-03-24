@@ -5,7 +5,7 @@ description: Analysis comparing web frameworks by token consumption when used wi
 tags:
   - agents
   - ai-agents
-  - benchmark
+  - benchmarking
   - daily-digest
   - edge-computing
   - edge-deployment

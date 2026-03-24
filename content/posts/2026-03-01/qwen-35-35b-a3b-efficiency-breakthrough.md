@@ -3,7 +3,7 @@ title: Qwen 3.5-35B-A3B Emerges as Efficient Daily Driver, Replacing 120B Models
 date: 2026-03-01
 description: Qwen 3.5-35B-A3B is delivering exceptional performance at one-third the size of previous daily drivers, offering significant efficiency gains for local deployment without sacrificing capability.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - cost-saving
   - edge-computing

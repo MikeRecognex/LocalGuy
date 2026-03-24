@@ -3,7 +3,7 @@ title: "Qwen 3.5 Small Models Released: 0.8B to 9B Parameters Optimized for On-D
 date: 2026-03-03
 description: Alibaba's Qwen team released a new family of small multimodal models (0.8B, 2B, 4B, 9B) designed specifically for on-device and edge deployment, with demonstrated improvements across the generational progression from Qwen 2.5 to 3.5.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-mobile
   - edge-computing
   - edge-deployment

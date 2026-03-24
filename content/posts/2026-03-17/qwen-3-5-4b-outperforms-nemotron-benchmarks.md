@@ -3,8 +3,6 @@ title: "Qwen 3.5 4B Outperforms Nvidia Nemotron 3 4B in Local Benchmarks"
 date: 2026-03-17
 description: "Community benchmarking reveals that Qwen 3.5 4B consistently outperforms Nvidia's newly released Nemotron 3 4B across demanding custom tests, challenging expectations for the Nemotron family."
 tags:
-  - benchmark
-  - benchmark-report
   - benchmarking
   - bullish
   - comparison
@@ -14,7 +12,6 @@ tags:
   - edge-ai
   - edge-computing
   - intermediate
-  - model-benchmarking
   - model-comparison
   - model-optimization
   - model-selection

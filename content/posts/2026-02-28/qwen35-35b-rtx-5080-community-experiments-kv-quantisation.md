@@ -4,8 +4,7 @@ date: 2026-02-28
 description: Follow-up benchmarking of Qwen3.5-35B-A3B on RTX 5080 16GB validates community-requested configurations, achieving 74.7 tokens/second and confirming KV cache quantisation strategies.
 tags:
   - advanced
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - configuration-optimization
   - consumer-gpu
   - hardware

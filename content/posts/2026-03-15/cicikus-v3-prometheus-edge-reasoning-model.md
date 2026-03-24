@@ -3,7 +3,7 @@ title: Cicikus v3 Prometheus 4.4B – An Experimental Franken-Merge for Edge Rea
 date: 2026-03-15
 description: A new 4.4B parameter model optimized for edge reasoning tasks, combining multiple models through merging techniques. This lightweight model is designed for on-device inference with improved reasoning capabilities.
 tags:
-  - benchmark
+  - benchmarking
   - edge-computing
   - edge-deployment
   - edge-inference

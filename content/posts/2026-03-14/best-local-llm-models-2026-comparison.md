@@ -3,7 +3,7 @@ title: "Best Local LLM Models 2026: Developer Comparison"
 date: 2026-03-14
 description: SitePoint's comparison guide evaluates the top LLM models available for local deployment in 2026, helping developers select the right model for their specific use cases and hardware constraints.
 tags:
-  - benchmark
+  - benchmarking
   - comparison
   - consumer-gpu
   - deployment-strategy

@@ -3,8 +3,7 @@ title: Qwen 3.5-35B Uncensored GGUF Models Now Available
 date: 2026-03-11
 description: Community releases optimized GGUF quantizations of Qwen 3.5-35B uncensored variants, enabling local deployment without refusal mechanisms. Multiple quantization levels tested on consumer GPUs.
 tags:
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - consumer-gpu
   - daily-digest
   - edge-computing
@@ -12,9 +11,7 @@ tags:
   - hardware-optimization
   - local-inference
   - model-accessibility
-  - model-benchmarking
   - model-safety
-  - performance-benchmarking
   - production-deployment
   - quantization
   - qwen

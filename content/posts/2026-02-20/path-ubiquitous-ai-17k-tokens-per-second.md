@@ -7,8 +7,7 @@ tags:
   - ai-ubiquity
   - analysis
   - attention-mechanisms
-  - benchmark-report
-  - benchmarks
+  - benchmarking
   - bullish
   - context-window
   - cost-saving

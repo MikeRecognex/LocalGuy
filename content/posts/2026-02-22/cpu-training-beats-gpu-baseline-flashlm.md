@@ -4,7 +4,7 @@ date: 2026-02-22
 description: A developer successfully trained FlashLM v5 'Thunderbolt' on CPU hardware, achieving a 1.36 perplexity with just 29.7M parameters and beating established GPU baselines. This demonstrates the viability of efficient CPU-based model training for resource-constrained environments.
 tags:
   - advanced
-  - benchmark
+  - benchmarking
   - cost-saving
   - cpu-inference
   - cpu-training

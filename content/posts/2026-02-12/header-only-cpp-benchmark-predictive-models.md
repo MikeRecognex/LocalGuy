@@ -4,7 +4,7 @@ date: 2026-02-12
 description: A lightweight C++ benchmarking framework has been released specifically for testing predictive models on raw binary streams, offering potential benefits for local LLM inference optimization.
 tags:
   - advanced
-  - benchmarks
+  - benchmarking
   - binary-stream-processing
   - c-benchmarking
   - developer-tooling

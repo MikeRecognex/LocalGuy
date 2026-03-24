@@ -3,16 +3,14 @@ title: Qwen 3.5 27B Achieves Strong Local Inference Performance
 date: 2026-03-08
 description: Users report impressive performance metrics with Qwen 3.5 27B running locally, achieving 90 tokens/second on consumer hardware and demonstrating competitive results against proprietary models.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - daily-digest
   - edge-computing
   - edge-deployment
   - inference-optimization
   - local-inference
-  - model-benchmarking
   - model-deployment
-  - model-evaluation
   - quantization
   - qwen
   - qwen-model

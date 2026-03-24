@@ -5,7 +5,7 @@ description: New techniques and optimisations enable local LLM inference to achi
 tags:
   - advanced
   - batching-optimization
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - cost-saving
   - data-privacy

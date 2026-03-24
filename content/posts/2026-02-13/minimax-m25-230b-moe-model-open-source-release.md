@@ -5,7 +5,7 @@ description: MiniMax officially confirms open-source release of M2.5, a 230B par
 tags:
   - advanced
   - benchmark-performance
-  - benchmarks
+  - benchmarking
   - code-generation-benchmarking
   - coding-llms
   - cost-saving

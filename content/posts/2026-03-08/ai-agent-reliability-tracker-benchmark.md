@@ -7,11 +7,10 @@ tags:
   - agent-failure-modes
   - agents
   - ai-agent-reliability
-  - benchmark
+  - benchmarking
   - evaluation
   - hacker-news
   - local-deployment
-  - model-evaluation
   - monitoring
   - neutral
   - princeton

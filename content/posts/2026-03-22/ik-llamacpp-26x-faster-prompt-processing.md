@@ -6,7 +6,6 @@ tags:
   - advanced
   - agentic-ai
   - batch-processing
-  - benchmark
   - benchmarking
   - bullish
   - consumer-gpu

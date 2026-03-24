@@ -5,8 +5,7 @@ description: Recent benchmarking reveals that specialized quantization strategie
 tags:
   - advanced
   - advanced-quantization
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - consumer-gpu
   - dynamic-bit-allocation
   - dynamic-quantization

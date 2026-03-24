@@ -3,14 +3,13 @@ title: Qwen3.5-27B Identified as Sweet Spot for Mid-Range Local Deployment
 date: 2026-02-25
 description: Users are reporting that Qwen3.5-27B offers the ideal balance of performance and resource efficiency for local inference, with verified setups running at 19.7 tokens/sec on consumer GPUs with reasonable memory footprints.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - context-window-management
   - hardware
   - inference-frameworks
   - inference-optimization
   - local-deployment
-  - performance-benchmarking
   - performance-efficiency
   - quantization
   - qwen

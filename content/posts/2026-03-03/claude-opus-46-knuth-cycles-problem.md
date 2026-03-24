@@ -3,11 +3,13 @@ title: Claude Opus 4.6 Solves Problem Posed by Don Knuth
 date: 2026-03-03
 description: A major LLM demonstrates solving a complex algorithmic problem from computer science legend Don Knuth, highlighting advancing reasoning capabilities relevant to local deployment of sophisticated models.
 tags:
+  - Knuth
   - advanced
   - algorithmic-complexity
   - api-independence
   - application-development
-  - benchmarks
+  - benchmarking
+  - blockchain-authentication
   - enterprise
   - llm-advancement
   - llm-reasoning
@@ -16,8 +18,6 @@ tags:
   - model-reasoning
   - reasoning
   - researcher
-  - blockchain-authentication
-  - Knuth
 mentions:
   - name: Don Knuth
     role: computer science legend

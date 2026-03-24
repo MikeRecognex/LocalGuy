@@ -9,7 +9,7 @@ tags:
   - agentic-replanning
   - agents
   - analysis
-  - benchmark
+  - benchmarking
   - browser-automation
   - bullish
   - daily-digest

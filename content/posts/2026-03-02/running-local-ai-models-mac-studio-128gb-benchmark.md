@@ -6,8 +6,7 @@ tags:
   - advanced
   - apple-silicon
   - apple-silicon-performance
-  - benchmark
-  - benchmark-report
+  - benchmarking
   - daily-digest
   - hardware-optimization
   - local-deployment
@@ -16,7 +15,6 @@ tags:
   - mlx
   - mlx-framework
   - model-scaling
-  - performance-benchmarking
   - quantization
 status: published
 ---

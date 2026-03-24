@@ -3,7 +3,7 @@ title: "Nvidia's Nemotron 3 Super: Understanding the Significance for Local LLM 
 date: 2026-03-15
 description: NVIDIA's Nemotron 3 Super release carries broader implications for local LLM deployment and optimization than initially apparent, with the model designed for efficient inference on consumer and professional GPUs. The community is recognizing its importance for self-hosted LLM practitioners.
 tags:
-  - benchmark
+  - benchmarking
   - consumer-gpu
   - datacenter-gpu
   - hardware

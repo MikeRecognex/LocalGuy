@@ -5,7 +5,7 @@ description: "Qwen3.5's mixture-of-experts variant achieves exceptional throughp
 tags:
   - advanced
   - backend-optimization
-  - benchmark-report
+  - benchmarking
   - bullish
   - consumer-gpu
   - consumer-hardware-performance
