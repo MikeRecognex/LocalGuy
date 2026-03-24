@@ -4,9 +4,9 @@ date: 2026-03-07
 description: A video discussion on Mojo, a programming language designed specifically for AI workloads, offering insights into language design for efficient local model training and inference.
 tags:
   - advanced
-  - ai-infrastructure
   - ai-programming-language
   - inference-optimization
+  - infrastructure
   - llm-performance
   - local-deployment
   - local-inference

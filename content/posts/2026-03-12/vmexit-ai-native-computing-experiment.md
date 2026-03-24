@@ -4,7 +4,6 @@ date: 2026-03-12
 description: VmExit explores fundamental reimagining of computing infrastructure optimized specifically for AI workloads, challenging conventional approaches to local model deployment.
 tags:
   - advanced
-  - ai-infrastructure
   - ai-native-computing
   - ai-native-hardware
   - compute-architecture

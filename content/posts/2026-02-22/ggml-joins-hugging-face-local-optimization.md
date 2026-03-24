@@ -3,7 +3,6 @@ title: "GGML Joins Hugging Face: What This Means for Local Model Optimization"
 date: 2026-02-22
 description: GGML, the foundational library for efficient local LLM inference, joins Hugging Face, promising deeper integration and optimization capabilities for edge deployment.
 tags:
-  - ai-infrastructure
   - commodity-hardware
   - commodity-hardware-deployment
   - cpu-inference
@@ -11,6 +10,7 @@ tags:
   - edge-computing
   - edge-deployment
   - ggml
+  - infrastructure
   - local-inference
   - model-availability
   - model-versioning
