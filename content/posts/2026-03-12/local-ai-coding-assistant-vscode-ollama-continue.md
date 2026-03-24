@@ -12,7 +12,7 @@ tags:
   - developer-productivity
   - developer-tooling
   - enterprise
-  - ide-integration
+  - integration
   - local-ai-development
   - offline-deployment
   - ollama

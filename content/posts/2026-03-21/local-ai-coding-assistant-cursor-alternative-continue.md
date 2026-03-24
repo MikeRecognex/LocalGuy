@@ -18,7 +18,7 @@ tags:
   - developer-tooling
   - development
   - enterprise-use-case
-  - ide-integration
+  - integration
   - intermediate
   - local-ai-development
   - local-coding-assistant

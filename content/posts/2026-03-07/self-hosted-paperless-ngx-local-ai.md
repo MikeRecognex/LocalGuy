@@ -7,7 +7,7 @@ tags:
   - data-privacy
   - document-classification
   - document-processing
-  - local-ai-integration
+  - integration
   - local-inference
   - ngx-local-ai
   - open-source

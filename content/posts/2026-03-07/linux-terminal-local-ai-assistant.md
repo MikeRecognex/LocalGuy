@@ -8,8 +8,8 @@ tags:
   - cpu-inference
   - data-privacy
   - developer-productivity
+  - integration
   - linux
-  - local-ai-integration
   - local-deployment
   - on-device-inference
   - practical-guide

@@ -16,10 +16,10 @@ tags:
   - github
   - godot
   - godot-mcp
+  - integration
   - intermediate
   - local-ai-applications
   - local-ai-automation
-  - local-ai-integration
   - local-automation
   - local-deployment
   - local-deployment-enhancement

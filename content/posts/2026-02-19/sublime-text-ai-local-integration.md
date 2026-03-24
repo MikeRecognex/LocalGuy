@@ -14,10 +14,9 @@ tags:
   - developer-workflow
   - developer-workflow-enhancement
   - editor-integration
-  - ide-integration
   - inference-optimization
+  - integration
   - intermediate
-  - local-ai-integration
   - local-ai-tooling
   - local-first-ai
   - local-llm-development

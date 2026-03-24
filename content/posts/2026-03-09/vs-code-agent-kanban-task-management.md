@@ -12,7 +12,7 @@ tags:
   - developer-productivity
   - developer-tooling
   - developer-workflow-integration
-  - ide-integration
+  - integration
   - intermediate
   - local-deployment
   - local-inference-deployment

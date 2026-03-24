@@ -12,7 +12,7 @@ tags:
   - cost-saving
   - developer
   - hardware-optimization
-  - ide-integration
+  - integration
   - intermediate
   - llama
   - local-deployment

@@ -15,8 +15,8 @@ tags:
   - developer
   - edge-inference
   - enterprise-applications
+  - integration
   - intermediate
-  - local-ai-integration
   - low-latency
   - neowin
   - news
