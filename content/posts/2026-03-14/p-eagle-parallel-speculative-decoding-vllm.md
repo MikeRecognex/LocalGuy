@@ -7,9 +7,9 @@ tags:
   - aws
   - consumer-gpu
   - cpu-inference
-  - deployment-strategy
   - edge-computing
   - inference-optimization
+  - llm-deployment
   - local-deployment
   - news
   - parallel-speculative-decoding

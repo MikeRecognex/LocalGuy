@@ -8,7 +8,6 @@ tags:
   - agents
   - consumer-gpu
   - cost-management
-  - deployment
   - deployment-architecture
   - distributed-inference
   - edge-computing
@@ -16,6 +15,7 @@ tags:
   - gpu-management
   - guide
   - infrastructure
+  - llm-deployment
   - llm-frameworks
   - llm-scaling-strategies
   - local-deployment

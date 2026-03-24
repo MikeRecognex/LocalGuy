@@ -7,10 +7,10 @@ tags:
   - cloud-independence
   - cost-saving
   - data-privacy
-  - deployment
   - developer-tooling
   - developer-workflows
   - integration
+  - llm-deployment
   - local-inference-adoption
   - local-llm-cli
   - local-llm-ecosystem

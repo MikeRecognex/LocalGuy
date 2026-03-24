@@ -14,12 +14,12 @@ tags:
   - inference
   - inference-optimization
   - intermediate
+  - llm-deployment
   - local-inference
   - long-context-processing
   - mamba-architecture
   - memory-optimization
   - model-architecture-comparison
-  - model-deployment
   - model-scaling
   - performance-optimization
   - rag

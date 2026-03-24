@@ -11,12 +11,12 @@ tags:
   - consumer-device-optimization
   - consumer-gpu
   - custom-asic
-  - deployment
   - edge-deployment
   - efficiency-optimization
   - experiment
   - hardware
   - infrastructure
+  - llm-deployment
   - local-deployment
   - news
   - next-gen-platforms

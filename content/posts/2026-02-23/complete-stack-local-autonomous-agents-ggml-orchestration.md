@@ -5,10 +5,10 @@ description: A comprehensive guide to building autonomous agent systems entirely
 tags:
   - advanced
   - agents
-  - deployment
   - edge-computing
   - ggml
   - inter-agent-communication
+  - llm-deployment
   - memory-optimization
   - on-device-inference
   - orchestration

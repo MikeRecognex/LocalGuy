@@ -15,8 +15,8 @@ tags:
   - free-resources
   - gpu-acceleration
   - inference-engine
+  - llm-deployment
   - local-llm-development
-  - model-deployment
   - news
   - offline-deployment
   - openclaw

@@ -5,13 +5,13 @@ description: The latest Qwen 3.5 lineup, including the 0.8B variant, demonstrate
 tags:
   - agents
   - consumer-gpu
-  - deployment-strategy
   - edge-ai
   - edge-computing
   - edge-deployment
   - edge-inference
   - inference-engines
   - inference-optimization
+  - llm-deployment
   - new-deployment-scenarios
   - news
   - on-device-inference

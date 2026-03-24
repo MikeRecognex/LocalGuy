@@ -3,7 +3,6 @@ title: Qwen 3.5 0.8B Successfully Deployed on 7-Year-Old Samsung S10E Using llam
 date: 2026-03-03
 description: Successful demonstration of running Qwen 3.5's 0.8B model on aging smartphone hardware using llama.cpp and Termux, achieving 12 tokens per second on a 2019 device.
 tags:
-  - deployment-guide
   - edge-computing
   - edge-hardware
   - edge-inference
@@ -11,9 +10,9 @@ tags:
   - inference-optimization
   - llama-cpp
   - llama-cpp-deployment
+  - llm-deployment
   - mobile-ai
   - mobile-ai-development
-  - model-deployment
   - older-hardware-compatibility
   - open-source
   - qwen

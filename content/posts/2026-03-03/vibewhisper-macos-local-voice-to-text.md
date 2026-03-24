@@ -9,10 +9,10 @@ tags:
   - cost-saving
   - data-privacy
   - edge-inference
+  - llm-deployment
   - local-llm-integration
   - macos
   - macos-optimization
-  - model-deployment
   - on-device-inference
   - open-source
   - speech-recognition

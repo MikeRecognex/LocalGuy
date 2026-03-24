@@ -7,10 +7,10 @@ tags:
   - agents
   - ai-auditability
   - ai-governance
-  - deployment
   - development-workflows
   - enterprise
   - enterprise-ai-infrastructure
+  - llm-deployment
   - local-coding-agents
   - local-llm-adoption
   - mcp

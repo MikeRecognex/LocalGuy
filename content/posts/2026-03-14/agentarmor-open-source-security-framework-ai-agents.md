@@ -8,8 +8,8 @@ tags:
   - cost-saving
   - data-privacy
   - defense-in-depth
-  - deployment
   - enterprise
+  - llm-deployment
   - news
   - open-source
   - open-source-ai-security

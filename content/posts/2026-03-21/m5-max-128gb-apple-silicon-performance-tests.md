@@ -15,7 +15,7 @@ tags:
   - hardware-transition
   - inference-optimization
   - intermediate
-  - large-model-deployment
+  - llm-deployment
   - local-inference
   - m5-max
   - model-capacity

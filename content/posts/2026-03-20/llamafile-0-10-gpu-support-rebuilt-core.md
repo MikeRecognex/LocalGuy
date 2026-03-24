@@ -7,7 +7,6 @@ tags:
   - consumer-gpu
   - cpu-inference
   - dependency-management
-  - deployment-strategy
   - developer
   - gpu-acceleration
   - inference
@@ -15,6 +14,7 @@ tags:
   - inference-optimization
   - intermediate
   - llamafile
+  - llm-deployment
   - local-deployment
   - local-inference
   - model-portability

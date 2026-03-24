@@ -10,10 +10,10 @@ tags:
   - bullish
   - code-execution
   - containerized-development
-  - deployment
   - developer
   - intermediate
   - lima-vm
+  - llm-deployment
   - native-virtualization
   - on-device-inference
   - open-source

@@ -6,8 +6,8 @@ tags:
   - agents
   - ai-agent-collaboration
   - data-privacy
-  - deployment
   - enterprise
+  - llm-deployment
   - local-llm-agents
   - news
   - on-device-inference

@@ -6,8 +6,8 @@ tags:
   - apple-silicon
   - apple-silicon-deployment
   - apple-silicon-hardware
-  - deployment-strategy
   - hardware
+  - llm-deployment
   - llm-performance
   - local-llms-on-apple-silicon
   - macos

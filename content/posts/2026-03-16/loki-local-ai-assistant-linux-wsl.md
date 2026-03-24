@@ -5,12 +5,12 @@ description: "LoKI is a new local AI assistant purpose-built for Linux and Windo
 tags:
   - assistant
   - bullish
-  - deployment-strategy
   - developer
   - intermediate
   - linux
   - linux-deployment
   - linux-wsl-deployment
+  - llm-deployment
   - local-ai-assistant
   - local-inference
   - local-inference-tools

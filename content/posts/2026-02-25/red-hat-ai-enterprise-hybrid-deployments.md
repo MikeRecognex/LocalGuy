@@ -5,12 +5,12 @@ description: Red Hat has released AI Enterprise, a platform designed to support 
 tags:
   - cloud-integration
   - data-governance
-  - deployment
   - enterprise
   - hybrid-ai-deployment
   - hybrid-deployment
   - hybrid-infrastructure
   - kubernetes-integration
+  - llm-deployment
   - local-deployment
   - local-inference
   - on-premises-inference

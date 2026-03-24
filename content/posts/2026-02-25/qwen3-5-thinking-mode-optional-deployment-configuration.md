@@ -5,11 +5,11 @@ description: Users can now disable Qwen3.5's thinking capability via llama.cpp c
 tags:
   - computational-efficiency
   - configuration
-  - deployment-strategy
   - inference
   - inference-optimization
   - instruction-following
   - llama-cpp
+  - llm-deployment
   - model-configuration
   - performance-optimization
   - qwen

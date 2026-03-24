@@ -15,6 +15,7 @@ tags:
   - kitten-tts
   - llama
   - llama-cpp
+  - llm-deployment
   - local-deployment
   - local-llm-integration
   - news
@@ -26,7 +27,6 @@ tags:
   - release
   - resource-constrained-ai
   - showcase
-  - small-model-deployment
   - speech-synthesis
   - text-to-speech
   - voice

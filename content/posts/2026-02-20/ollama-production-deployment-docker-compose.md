@@ -7,13 +7,13 @@ tags:
   - container-orchestration
   - cost-saving
   - data-privacy
-  - deployment-guide
   - developer
   - developer-tooling
   - docker-compose
   - docker-compose-deployment
   - enterprise
   - intermediate
+  - llm-deployment
   - local-deployment
   - local-inference
   - news

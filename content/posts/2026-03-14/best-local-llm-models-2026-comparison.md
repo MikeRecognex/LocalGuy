@@ -5,9 +5,9 @@ description: SitePoint's comparison guide evaluates the top LLM models available
 tags:
   - benchmarking
   - consumer-gpu
-  - deployment-strategy
   - edge-computing
   - guide
+  - llm-deployment
   - local-deployment
   - memory-optimization
   - model-comparison

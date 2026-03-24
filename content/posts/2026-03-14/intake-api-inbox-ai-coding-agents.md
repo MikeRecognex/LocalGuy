@@ -7,8 +7,8 @@ tags:
   - agent-tooling
   - agents
   - ai-coding-agents
-  - deployment
   - developer-tooling
+  - llm-deployment
   - local-deployment
   - news
   - open-source

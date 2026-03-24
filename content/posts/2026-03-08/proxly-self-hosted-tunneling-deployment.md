@@ -5,11 +5,11 @@ description: Proxly enables rapid deployment of self-hosted services with custom
 tags:
   - cloud-independence
   - data-residency
-  - deployment
   - edge-deployment
   - infrastructure
   - infrastructure-automation
   - infrastructure-management
+  - llm-deployment
   - local-first-architecture
   - local-service-exposure
   - news

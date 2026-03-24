@@ -8,10 +8,10 @@ tags:
   - ai-operator
   - ai-software-development
   - containerized-llm-deployment
-  - deployment
   - gitops-deployment
   - kubernetes
   - kubernetes-deployment
+  - llm-deployment
   - medium
   - multi-agent-workflows
   - news

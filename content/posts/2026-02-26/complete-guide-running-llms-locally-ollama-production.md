@@ -7,8 +7,6 @@ tags:
   - consumer-gpu
   - cost-saving
   - data-privacy
-  - deployment
-  - deployment-guide
   - developer
   - enterprise
   - hardware

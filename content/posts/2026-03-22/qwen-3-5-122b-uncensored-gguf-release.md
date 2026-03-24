@@ -13,7 +13,7 @@ tags:
   - edge-deployment
   - gguf-format
   - intermediate
-  - large-model-deployment
+  - llm-deployment
   - local-deployment
   - memory-optimization
   - model-format

@@ -8,8 +8,8 @@ tags:
   - edge-computing
   - edge-deployment
   - inference-optimization
+  - llm-deployment
   - local-inference
-  - model-deployment
   - news
   - quantization
   - qwen

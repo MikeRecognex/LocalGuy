@@ -14,6 +14,7 @@ tags:
   - ibm
   - ibm-granite
   - intermediate
+  - llm-deployment
   - local-speech-ai
   - multilingual-asr
   - multilingual-speech-recognition
@@ -26,7 +27,6 @@ tags:
   - real-time-transcription
   - release
   - showcase
-  - small-model-deployment
   - speech-recognition
   - speech-translation
   - translation-services

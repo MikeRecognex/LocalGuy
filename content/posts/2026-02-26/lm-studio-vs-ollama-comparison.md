@@ -4,7 +4,6 @@ date: 2026-02-26
 description: "A detailed comparison of two leading local LLM serving frameworks, examining their strengths, weaknesses, and suitability for different use cases. Helps practitioners choose the right tool for their deployment scenarios."
 tags:
   - bullish
-  - deployment-strategy
   - developer
   - developer-tooling
   - development-workflow
@@ -12,6 +11,7 @@ tags:
   - inference-configuration
   - inference-parameters
   - intermediate
+  - llm-deployment
   - llm-serving-frameworks
   - llm-serving-frameworks-comparison
   - lm-studio

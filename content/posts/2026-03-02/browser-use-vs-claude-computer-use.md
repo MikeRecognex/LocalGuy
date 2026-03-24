@@ -10,10 +10,10 @@ tags:
   - consumer-gpu
   - cpu-inference
   - data-privacy
-  - deployment
   - developer-tooling
   - infrastructure-management
   - latency-optimization
+  - llm-deployment
   - local-deployment
   - local-llm-evaluation
   - model-comparison

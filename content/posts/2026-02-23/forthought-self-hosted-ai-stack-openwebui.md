@@ -7,9 +7,9 @@ tags:
   - application-features
   - data-privacy
   - data-sovereignty
-  - deployment
   - enterprise
   - framework
+  - llm-deployment
   - llm-orchestration
   - local-deployment
   - open-source

@@ -10,11 +10,11 @@ tags:
   - cost-analysis
   - cost-saving
   - data-privacy
-  - deployment
   - developer
   - enterprise
   - inference-optimization
   - intermediate
+  - llm-deployment
   - local-deployment
   - local-llm-applications
   - makeuseof

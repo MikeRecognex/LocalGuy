@@ -6,12 +6,11 @@ tags:
   - ai-augmentation
   - analysis
   - best-practices
-  - deployment
-  - deployment-strategy
   - enterprise
   - enterprise-deployment
   - intermediate
   - leadership
+  - llm-deployment
   - llm-frameworks
   - local-deployment
   - neutral

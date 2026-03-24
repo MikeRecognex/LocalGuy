@@ -6,7 +6,6 @@ tags:
   - cohere
   - consumer-gpu
   - cost-saving
-  - deployment-strategy
   - developer-tooling
   - edge-ai
   - edge-computing
@@ -14,6 +13,7 @@ tags:
   - enterprise
   - fine-tuning
   - inference-optimization
+  - llm-deployment
   - model-adaptation
   - model-fine-tuning
   - multilingual-llm

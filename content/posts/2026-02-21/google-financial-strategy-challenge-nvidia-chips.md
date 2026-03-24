@@ -9,13 +9,13 @@ tags:
   - cpu-inference
   - custom-asic
   - datacenter-gpu
-  - deployment-strategy
   - enterprise
   - hardware
   - hardware-cost-reduction
   - hardware-economics
   - industry
   - inference-optimization
+  - llm-deployment
   - local-deployment
   - market-competition
   - on-device-inference-economics

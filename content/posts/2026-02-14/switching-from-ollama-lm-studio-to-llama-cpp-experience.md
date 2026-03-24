@@ -5,7 +5,6 @@ description: Detailed user experience comparing popular local LLM tools, highlig
 tags:
   - benchmarking
   - bullish
-  - deployment-strategy
   - developer
   - developer-tooling
   - gui-tools
@@ -17,6 +16,7 @@ tags:
   - llama-cpp
   - llama-cpp-optimization
   - llama-cpp-usage
+  - llm-deployment
   - llm-performance-comparison
   - lm-studio
   - local-llm-stack

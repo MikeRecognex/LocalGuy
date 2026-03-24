@@ -9,10 +9,10 @@ tags:
   - edge-deployment
   - inference-optimization
   - interpretability
+  - llm-deployment
   - local-llm-optimization
   - model-analysis
   - model-comparison
-  - model-deployment
   - model-fine-tuning
   - model-interpretability
   - model-safety

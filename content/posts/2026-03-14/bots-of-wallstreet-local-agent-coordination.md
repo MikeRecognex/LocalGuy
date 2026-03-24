@@ -7,8 +7,8 @@ tags:
   - agents
   - bots-of-wallstreet
   - data-privacy
-  - deployment
   - latency-optimization
+  - llm-deployment
   - local-inference
   - multi-agent
   - news

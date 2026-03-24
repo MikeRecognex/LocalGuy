@@ -4,11 +4,11 @@ date: 2026-03-18
 description: A narrative exploration of practical experiences deploying and interacting with local AI systems, offering insights from hands-on experimentation.
 tags:
   - conversational-ai
-  - deployment
   - developer
   - hands-on-experience
   - intermediate
   - latency-perception
+  - llm-deployment
   - local-deployment
   - local-model-deployment
   - model-behavior-analysis

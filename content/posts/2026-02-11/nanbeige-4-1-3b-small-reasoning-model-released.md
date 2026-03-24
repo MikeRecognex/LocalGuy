@@ -12,6 +12,7 @@ tags:
   - edge-computing
   - edge-deployment
   - general-purpose-llm
+  - llm-deployment
   - local-deployment
   - nanbeige
   - offline-deployment
@@ -24,7 +25,6 @@ tags:
   - resource-efficiency
   - resource-optimization
   - small-language-models
-  - small-model-deployment
 mentions:
   - name: Nanbeige LLM Lab
     role: developer

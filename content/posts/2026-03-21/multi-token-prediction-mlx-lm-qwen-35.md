@@ -11,9 +11,9 @@ tags:
   - hardware-optimization
   - inference-optimization
   - intermediate
+  - llm-deployment
   - local-inference
   - mlx
-  - model-deployment
   - multi-token-prediction
   - multitoken-prediction
   - news

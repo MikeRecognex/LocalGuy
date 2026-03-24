@@ -7,10 +7,10 @@ tags:
   - ai-agent-development
   - code-auditing
   - code-optimization
-  - deployment
   - enterprise
   - frameworks
   - llm-application-development
+  - llm-deployment
   - local-llm-deployment-security
   - local-llm-development
   - news

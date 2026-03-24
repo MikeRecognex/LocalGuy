@@ -13,7 +13,7 @@ tags:
   - hobbyist
   - inference-optimization
   - intermediate
-  - large-model-deployment
+  - llm-deployment
   - local-ai-applications
   - local-deployment
   - local-llm-applications

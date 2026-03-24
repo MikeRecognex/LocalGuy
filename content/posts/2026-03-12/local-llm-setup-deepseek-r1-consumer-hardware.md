@@ -13,9 +13,9 @@ tags:
   - hardware
   - hardware-setup
   - inference-optimization
+  - llm-deployment
   - local-deployment
   - local-inference-stack
-  - model-deployment
   - model-optimization
   - reasoning-models
   - sitepoint

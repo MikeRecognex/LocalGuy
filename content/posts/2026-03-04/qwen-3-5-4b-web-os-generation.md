@@ -9,12 +9,12 @@ tags:
   - developer-tooling
   - edge-computing
   - edge-deployment
+  - llm-deployment
   - mobile-device
   - os-generation
   - qwen
   - single-pass-generation
   - small-llm-capabilities
-  - small-model-deployment
 status: published
 ---
 

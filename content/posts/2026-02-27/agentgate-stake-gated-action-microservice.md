@@ -8,8 +8,8 @@ tags:
   - agent-control
   - agents
   - control
-  - deployment
   - economic-incentives
+  - llm-deployment
   - local-deployment
   - microservices
   - security-auditing

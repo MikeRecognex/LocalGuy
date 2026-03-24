@@ -7,9 +7,9 @@ tags:
   - benchmarking-frameworks
   - documentation-standards
   - evaluation
+  - llm-deployment
   - llm-evaluation
   - local-deployment
-  - model-deployment
   - model-hardware-optimization
   - news
   - open-source

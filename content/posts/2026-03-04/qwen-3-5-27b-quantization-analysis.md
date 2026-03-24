@@ -6,9 +6,9 @@ tags:
   - advanced
   - benchmarking
   - consumer-gpu
-  - deployment-strategy
   - gguf
   - gguf-format
+  - llm-deployment
   - local-deployment
   - model-comparison
   - model-optimization

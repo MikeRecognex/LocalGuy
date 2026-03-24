@@ -7,11 +7,11 @@ tags:
   - api-monitoring
   - bullish
   - cost-saving
-  - deployment-strategy
   - developer
   - developer-tooling
   - hybrid-ai-architectures
   - intermediate
+  - llm-deployment
   - llm-tooling
   - local-llm-workflows
   - macos-development

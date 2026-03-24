@@ -7,8 +7,6 @@ tags:
   - bullish
   - constrained-hardware-deployment
   - constrained-hardware-optimization
-  - deployment
-  - deployment-strategy
   - developer
   - edge-computing
   - edge-deployment
@@ -18,6 +16,7 @@ tags:
   - industrial-ai-deployment
   - industrial-deployment
   - intermediate
+  - llm-deployment
   - model-optimization
   - neutral
   - news

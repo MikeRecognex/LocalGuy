@@ -10,9 +10,9 @@ tags:
   - consumer-gpu
   - cost-saving
   - data-privacy
-  - deployment-guide
   - docker-deployment
   - enterprise
+  - llm-deployment
   - local-multi-agent-system
   - news
   - offline-deployment

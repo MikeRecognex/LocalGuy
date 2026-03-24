@@ -10,7 +10,7 @@ tags:
   - data-privacy
   - enterprise
   - inference-optimization
-  - large-model-deployment
+  - llm-deployment
   - mixture-of-experts
   - offline-deployment
   - open-source

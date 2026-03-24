@@ -6,9 +6,9 @@ tags:
   - inference-engine
   - inference-reliability
   - llama-cpp
+  - llm-deployment
   - local-inference
   - model-compatibility
-  - model-deployment
   - news
   - on-device-inference
   - open-source

@@ -18,8 +18,8 @@ tags:
   - edge-inference-optimization
   - enterprise
   - intermediate
+  - llm-deployment
   - mirai
-  - model-deployment
   - model-optimization
   - news
   - offline-deployment

@@ -7,7 +7,6 @@ tags:
   - cdn-for-model-delivery
   - cost-saving
   - cpu-inference
-  - deployment
   - edge-computing
   - git-workflow-optimization
   - gitdlivr

@@ -8,8 +8,8 @@ tags:
   - consumer-gpu
   - cost-saving
   - data-privacy
+  - llm-deployment
   - local-llm-viability
-  - model-deployment
   - open-source
   - open-source-llm-performance
   - qwen

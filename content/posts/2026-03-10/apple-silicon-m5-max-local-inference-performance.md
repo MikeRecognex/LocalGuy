@@ -15,9 +15,9 @@ tags:
   - inference-frameworks
   - inference-optimization
   - large-model-inference
+  - llm-deployment
   - local-inference
   - memory-bandwidth
-  - model-deployment
   - news
   - rlocalllama
 mentions:

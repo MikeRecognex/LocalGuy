@@ -4,8 +4,8 @@ date: 2026-02-25
 description: Alibaba released the complete Qwen3.5 model family including 27B, 35B-A3B, and 122B-A10B variants, each optimized for different deployment scenarios and providing extensive benchmark comparisons.
 tags:
   - benchmarking
-  - deployment-guide
   - deployment-optimization
+  - llm-deployment
   - local-llms
   - mixture-of-experts
   - model-lineup

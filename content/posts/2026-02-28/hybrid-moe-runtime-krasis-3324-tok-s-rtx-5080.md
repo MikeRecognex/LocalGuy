@@ -10,7 +10,7 @@ tags:
   - hardware-utilization
   - hybrid-inference
   - inference-optimization
-  - large-model-deployment
+  - llm-deployment
   - memory-optimization
   - mixture-of-experts
   - moe-efficiency

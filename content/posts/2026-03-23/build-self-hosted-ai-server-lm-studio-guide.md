@@ -5,11 +5,11 @@ description: "A comprehensive tutorial walks through deploying a self-hosted AI 
 tags:
   - api-server-configuration
   - bullish
-  - deployment
   - deployment-best-practices
   - developer
   - inference-server-deployment
   - intermediate
+  - llm-deployment
   - lm-studio
   - local-deployment
   - local-inference-server

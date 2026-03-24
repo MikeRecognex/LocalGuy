@@ -4,12 +4,12 @@ date: 2026-02-28
 description: A new tool enables seamless integration of markdown content serving with local LLMs in Next.js applications, simplifying the workflow for building AI-augmented web applications with on-device inference.
 tags:
   - ai-web-development
-  - deployment
   - deployment-tooling
   - developer-tooling
   - development-efficiency
   - framework-integration
   - knowledge-augmentation
+  - llm-deployment
   - llm-integration
   - markdown-llm-integration
   - markdown-serialization

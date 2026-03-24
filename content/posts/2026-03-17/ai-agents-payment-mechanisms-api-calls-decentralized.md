@@ -19,7 +19,6 @@ tags:
   - decentralized-access
   - decentralized-access-control
   - decentralized-payments
-  - deployment
   - developer
   - edge-computing
   - edge-deployment
@@ -27,6 +26,7 @@ tags:
   - hybrid-ai-architecture
   - hybrid-ai-architectures
   - intermediate
+  - llm-deployment
   - neutral
   - news
   - on-device-payments

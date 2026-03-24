@@ -9,7 +9,7 @@ tags:
   - greenboost
   - hardware
   - hardware-optimization
-  - large-model-deployment
+  - llm-deployment
   - local-deployment
   - memory-optimization
   - model-accessibility

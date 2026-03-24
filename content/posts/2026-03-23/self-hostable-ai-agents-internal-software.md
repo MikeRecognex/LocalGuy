@@ -9,13 +9,13 @@ tags:
   - cloud-agnostic-deployment
   - data-governance
   - data-privacy
-  - deployment
   - deployment-patterns
   - edge-computing
   - enterprise
   - github
   - intermediate
   - internal-software-framework
+  - llm-deployment
   - news
   - on-device-inference
   - open-source

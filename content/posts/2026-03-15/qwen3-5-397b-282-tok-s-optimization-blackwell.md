@@ -13,8 +13,8 @@ tags:
   - inference-optimization
   - kernel-optimization
   - large-model-inference
+  - llm-deployment
   - local-deployment
-  - model-deployment
   - moe-optimization
   - multi-gpu-inference
   - performance-optimization

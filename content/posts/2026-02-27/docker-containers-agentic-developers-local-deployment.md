@@ -7,10 +7,10 @@ tags:
   - consumer-gpu
   - containerization
   - dependency-management
-  - deployment
   - developer-tooling
   - docker
   - docker-containerization
+  - llm-deployment
   - local-deployment
   - model-experimentation
   - model-versioning

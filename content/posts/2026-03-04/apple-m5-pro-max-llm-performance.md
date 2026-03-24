@@ -12,9 +12,9 @@ tags:
   - edge-inference
   - hardware
   - hobbyist
+  - llm-deployment
   - llm-inference-speed
   - m5
-  - model-deployment
   - news
   - on-device-inference
   - performance

@@ -9,13 +9,13 @@ tags:
   - cross-platform
   - cross-platform-deployment
   - cross-platform-development
-  - deployment
   - desktop-ui-development
   - developer
   - edge-computing
   - frameworks
   - integration
   - intermediate
+  - llm-deployment
   - news
   - on-device-inference
   - qt

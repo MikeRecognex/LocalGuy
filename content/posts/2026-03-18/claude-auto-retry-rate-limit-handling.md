@@ -7,7 +7,6 @@ tags:
   - api-integration
   - api-rate-limiting
   - bullish
-  - deployment
   - developer
   - developer-tooling
   - edge-computing
@@ -15,6 +14,7 @@ tags:
   - edge-device-management
   - intermediate
   - lightweight-utility
+  - llm-deployment
   - local-inference
   - local-inference-orchestration
   - news

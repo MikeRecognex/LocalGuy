@@ -8,8 +8,8 @@ tags:
   - developer-tooling
   - development-workflows
   - inference-optimization
+  - llm-deployment
   - llm-development-tools
-  - model-deployment
   - neutral
   - news
   - platform-release

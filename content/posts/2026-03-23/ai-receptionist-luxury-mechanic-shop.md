@@ -11,13 +11,13 @@ tags:
   - context-management
   - customer-service-ai
   - data-privacy
-  - deployment
   - developer
   - edge-case-handling
   - enterprise-developer
   - graceful-degradation
   - intermediate
   - itsthatladydev
+  - llm-deployment
   - local-vs-cloud-deployment
   - model-comparison
   - model-customization

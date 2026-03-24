@@ -11,11 +11,11 @@ tags:
   - bullish
   - context-management
   - cost-saving
-  - deployment-strategy
   - developer
   - high-throughput-inference
   - inference-optimization
   - inference-throughput
+  - llm-deployment
   - local-deployment
   - model-optimization
   - multi-user-deployment
