@@ -12,12 +12,12 @@ tags:
   - model-architecture
   - model-optimization
   - model-profiling
-  - model-quantization
   - neutral
   - optimization
   - performance
   - performance-tuning
   - production-deployment
+  - quantization
   - tutorial
 mentions:
   - name: Hacker News

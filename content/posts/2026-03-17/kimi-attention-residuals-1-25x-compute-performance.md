@@ -25,7 +25,7 @@ tags:
   - local-deployment
   - open-source
   - performance-optimization
-  - quantisation
+  - quantization
   - release
   - resource-optimization
 mentions:

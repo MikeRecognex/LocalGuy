@@ -13,12 +13,12 @@ tags:
   - hardware-optimization
   - inference-optimization
   - inference-speed-optimization
-  - model-compression
   - news
   - on-device-inference
   - on-device-llm-execution
   - performance
   - power-efficiency
+  - quantization
   - resource-constrained-ai
   - transistor-level-ai
 mentions:

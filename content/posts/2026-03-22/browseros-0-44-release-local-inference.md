@@ -19,12 +19,12 @@ tags:
   - intermediate
   - local-ai-integration
   - low-latency
-  - model-quantization
   - neowin
   - open-source
   - privacy
   - privacy-by-design
   - privacy-preserving-ai
+  - quantization
   - release
   - web-applications
   - webassembly

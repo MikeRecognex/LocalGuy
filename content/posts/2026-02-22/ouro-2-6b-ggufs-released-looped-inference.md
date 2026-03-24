@@ -10,12 +10,11 @@ tags:
   - local-deployment
   - looped-inference
   - model-architecture
-  - model-quantization
   - model-release
   - model-release-strategy
   - news
   - ollama
-  - quantisation
+  - quantization
   - reasoning-capabilities
   - release
 status: published

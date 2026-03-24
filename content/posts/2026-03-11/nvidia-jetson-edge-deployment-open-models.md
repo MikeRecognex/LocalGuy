@@ -12,10 +12,10 @@ tags:
   - jetson
   - local-inference
   - local-llm-frameworks
-  - model-quantization
   - open-source
   - open-source-models
   - production-deployment
+  - quantization
 status: published
 ---
 

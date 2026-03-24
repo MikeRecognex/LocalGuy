@@ -12,11 +12,10 @@ tags:
   - local-deployment
   - mobile-ai
   - model-architecture
-  - model-quantization
   - multimodal-ai-model
   - news
   - on-device-inference
-  - quantisation
+  - quantization
   - the-tech-outlook
 mentions:
   - name: The Tech Outlook

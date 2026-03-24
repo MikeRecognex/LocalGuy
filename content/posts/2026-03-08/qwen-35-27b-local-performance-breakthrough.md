@@ -13,8 +13,7 @@ tags:
   - model-benchmarking
   - model-deployment
   - model-evaluation
-  - model-quantization
-  - quantisation
+  - quantization
   - qwen
   - qwen-model
   - rlocalllama

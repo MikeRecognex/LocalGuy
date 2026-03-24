@@ -12,10 +12,8 @@ tags:
   - inference-speed
   - local-deployment
   - memory-optimization
-  - model-compression
   - model-quality
-  - model-quantization
-  - quantisation
+  - quantization
   - qwen
   - release
   - unlsoth

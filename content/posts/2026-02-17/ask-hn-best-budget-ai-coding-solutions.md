@@ -16,14 +16,13 @@ tags:
   - local-deployment
   - local-llms
   - mistral
-  - model-quantization
   - neutral
   - offline-deployment
   - on-device-inference
   - open-source
   - privacy
   - privacy-compliance
-  - quantisation
+  - quantization
   - self-hosted
 mentions:
   - name: Hacker News

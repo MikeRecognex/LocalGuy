@@ -18,9 +18,9 @@ tags:
   - local-inference-enterprise
   - manufacturing-ai
   - model-optimization
-  - model-quantization
   - offline-deployment
   - practical-deployment
+  - quantization
   - real-time-ai
   - unity
 mentions:

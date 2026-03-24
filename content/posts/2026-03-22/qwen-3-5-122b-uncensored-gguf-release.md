@@ -17,11 +17,10 @@ tags:
   - local-deployment
   - model-format
   - model-formats
-  - model-quantization
   - model-release
   - open-source
   - privacy-preserving-ai
-  - quantisation
+  - quantization
   - qwen
   - release
   - rlocalllama

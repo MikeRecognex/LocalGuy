@@ -13,12 +13,11 @@ tags:
   - model-efficiency
   - model-inference
   - model-optimization
-  - model-quantization
   - model-release
   - novel-architecture
   - on-device-inference
   - ouro26b-model
-  - quantisation
+  - quantization
   - reasoning-tasks
   - release
 mentions:

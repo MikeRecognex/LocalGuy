@@ -14,11 +14,11 @@ tags:
   - inference-speed
   - local-inference
   - model-5-35b-a3b
-  - model-compression
   - model-efficiency
   - model-release
   - news
   - power-efficiency
+  - quantization
   - qwen
   - qwen-model
 mentions:

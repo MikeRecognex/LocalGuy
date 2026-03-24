@@ -8,10 +8,10 @@ tags:
   - edge-inference
   - inference-optimization
   - linux-distribution
-  - model-quantization
   - open-source
   - optimization
   - os-optimization
+  - quantization
   - release
   - resource-constrained-llms
   - sbc

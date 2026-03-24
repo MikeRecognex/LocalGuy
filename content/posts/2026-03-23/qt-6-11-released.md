@@ -18,9 +18,9 @@ tags:
   - hacker-news
   - integration
   - intermediate
-  - model-quantization
   - on-device-inference
   - qt
+  - quantization
   - release
   - ui-frameworks
 mentions:

@@ -4,10 +4,10 @@ date: 2026-03-02
 description: A developer demonstrates exceptional inference performance running Qwen 3.5 27B dense with 170K context window at 100+ tokens/second decode speed and 1500 tokens/second prefill on dual RTX 3090 GPUs, with optimizations supporting 8 simultaneous requests at 585 tokens/second throughput.
 tags:
   - daily-digest
-  - quantisation
-  - performance-benchmark
-  - qwen
   - hardware
+  - performance-benchmark
+  - quantization
+  - qwen
 status: published
 ---
 

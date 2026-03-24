@@ -23,7 +23,7 @@ tags:
   - privacy-compliance
   - privacy-preserving-ai
   - qualcomm
-  - quantisation
+  - quantization
   - voice-ai
 mentions:
   - name: Qualcomm Ventures

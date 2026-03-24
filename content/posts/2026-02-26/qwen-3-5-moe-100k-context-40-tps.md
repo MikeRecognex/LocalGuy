@@ -22,7 +22,7 @@ tags:
   - moe-inference
   - moe-inference-efficiency
   - performance
-  - quantisation
+  - quantization
   - qwen
   - rlocalllama
   - vulkan-backend

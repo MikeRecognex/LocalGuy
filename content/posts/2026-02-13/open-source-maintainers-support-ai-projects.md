@@ -17,7 +17,7 @@ tags:
   - open-source-maintainer-support
   - open-source-project-management
   - project-sustainability
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: GitHub

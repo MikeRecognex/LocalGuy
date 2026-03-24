@@ -13,10 +13,10 @@ tags:
   - hardware-limitations
   - local-inference
   - local-model-deployment
-  - model-quantization
   - on-device-fine-tuning
   - on-device-ml
   - privacy-first-ai
+  - quantization
   - release
 status: published
 ---

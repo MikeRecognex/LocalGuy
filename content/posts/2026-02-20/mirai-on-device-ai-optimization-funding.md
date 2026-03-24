@@ -33,7 +33,7 @@ tags:
   - privacy-critical-applications
   - privacy-preserving-ai
   - production-ops
-  - quantisation
+  - quantization
   - reface
   - resource-constrained-deployment
   - resource-optimization

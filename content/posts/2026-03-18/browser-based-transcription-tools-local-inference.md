@@ -16,11 +16,11 @@ tags:
   - edge-inference
   - intermediate
   - local-inference
-  - model-quantization
   - on-device-audio-processing
   - privacy
   - privacy-compliance
   - privacy-preserving-ai
+  - quantization
   - real-time-transcription
   - showcase
   - speech-to-text

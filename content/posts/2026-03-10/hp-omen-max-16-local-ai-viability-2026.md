@@ -19,9 +19,9 @@ tags:
   - local-deployment
   - local-inference
   - memory-management
-  - model-quantization
   - neutral
   - performance-testing
+  - quantization
   - review
   - thermal-management
 mentions:

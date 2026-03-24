@@ -22,10 +22,10 @@ tags:
   - local-llm-development
   - local-llm-experimentation
   - model-architecture
-  - model-quantization
   - neural-kore
   - neuralkore
   - open-source
+  - quantization
   - rapid-prototyping
   - showcase
   - web-development-tools

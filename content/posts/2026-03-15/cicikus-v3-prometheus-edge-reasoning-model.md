@@ -16,7 +16,7 @@ tags:
   - offline-deployment
   - on-device-inference
   - pthinc
-  - quantisation
+  - quantization
   - reasoning-capabilities
 mentions:
   - name: pthinc

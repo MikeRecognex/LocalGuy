@@ -17,12 +17,12 @@ tags:
   - local-deployment
   - local-inference-apis
   - model-performance
-  - model-quantization
   - msn
   - personal-ai-system
   - practical-deployment
   - privacy
   - privacy-compliance
+  - quantization
   - self-hosted
   - tutorial
   - windows

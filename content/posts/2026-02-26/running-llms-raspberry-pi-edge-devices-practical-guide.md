@@ -18,9 +18,8 @@ tags:
   - iot-ai
   - memory-optimization
   - model-optimization
-  - model-quantization
   - privacy-preserving-ai
-  - quantisation
+  - quantization
   - raspberry-pi
   - sitepoint
   - tutorial

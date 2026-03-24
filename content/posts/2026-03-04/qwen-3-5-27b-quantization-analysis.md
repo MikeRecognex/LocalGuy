@@ -15,8 +15,7 @@ tags:
   - model-benchmarking
   - model-evaluation
   - model-optimization
-  - model-quantization
-  - quantisation
+  - quantization
   - qwen
   - qwen-model
   - resource-optimization

@@ -20,12 +20,10 @@ tags:
   - mobile-ai-architectures
   - mobile-ai-optimization
   - mobile-chip
-  - model-quantization
   - news
   - on-device-inference
   - oppo
   - privacy-preserving-ai
-  - quantisation
   - quantization
   - showcase
 mentions:

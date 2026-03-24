@@ -14,9 +14,7 @@ tags:
   - llm-quantization
   - local-deployment
   - memory-optimization
-  - model-compression
   - model-optimization
-  - model-quantization
   - open-source
   - quantization
   - release

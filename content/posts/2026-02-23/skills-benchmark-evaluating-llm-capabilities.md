@@ -13,9 +13,9 @@ tags:
   - model-deployment
   - model-evaluation
   - model-hardware-optimization
-  - model-quantization
   - news
   - open-source
+  - quantization
   - testing
 status: published
 ---

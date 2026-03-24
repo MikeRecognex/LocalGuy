@@ -29,7 +29,6 @@ tags:
   - performance-bottlenecks
   - performance-optimization
   - production-ops
-  - quantisation
   - quantization
   - real-time-ai
   - real-time-inference

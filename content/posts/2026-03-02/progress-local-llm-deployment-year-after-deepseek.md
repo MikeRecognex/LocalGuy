@@ -15,7 +15,7 @@ tags:
   - local-deployment
   - local-deployment-economics
   - model-accessibility
-  - model-quantization
+  - quantization
 mentions:
   - name: r/LocalLLaMA
     role: source

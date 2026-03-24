@@ -14,7 +14,6 @@ tags:
   - ibm-granite
   - intermediate
   - local-speech-ai
-  - model-compression
   - multilingual-asr
   - multilingual-speech-recognition
   - multimodal-ai
@@ -24,6 +23,7 @@ tags:
   - open-source-speech-models
   - privacy-compliance
   - privacy-preserving-ai
+  - quantization
   - real-time-transcription
   - release
   - showcase

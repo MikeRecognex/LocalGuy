@@ -12,12 +12,12 @@ tags:
   - embedded
   - hardware
   - market-analysis
-  - model-compression
   - model-optimization
   - news
   - on-device-ai-education
   - open-source
   - open-source-ai
+  - quantization
   - robotics-education
 mentions:
   - name: Arduino

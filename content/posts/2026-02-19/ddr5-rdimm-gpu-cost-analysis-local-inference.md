@@ -18,8 +18,7 @@ tags:
   - hardware-strategy
   - local-llm-hardware
   - memory-pricing
-  - model-quantization
-  - quantisation
+  - quantization
   - server-memory
   - server-ram
 mentions:

@@ -9,7 +9,6 @@ tags:
   - hardware-optimization
   - local-deployment
   - model-fine-tuning
-  - model-quantization
   - model-release
   - model-sizes
   - msn
@@ -18,6 +17,7 @@ tags:
   - open-source-llms
   - open-source-models
   - private-inference
+  - quantization
   - reasoning
   - reasoning-models
   - release

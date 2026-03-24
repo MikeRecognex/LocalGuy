@@ -14,10 +14,10 @@ tags:
   - memory
   - memory-bandwidth
   - mobile-chip
-  - model-quantization
   - news
   - optimization
   - power-efficiency
+  - quantization
   - release
   - sk-hynix
 mentions:

@@ -12,11 +12,10 @@ tags:
   - local-deployment
   - mixture-of-experts
   - model-efficiency
-  - model-quantization
   - moe
   - open-source
   - open-source-models
-  - quantisation
+  - quantization
   - release
   - self-hosted
 status: published

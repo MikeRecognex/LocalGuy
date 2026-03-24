@@ -25,7 +25,7 @@ tags:
   - on-device-fine-tuning
   - on-device-privacy
   - open-source
-  - quantisation
+  - quantization
   - release
   - self-hosted
   - tether

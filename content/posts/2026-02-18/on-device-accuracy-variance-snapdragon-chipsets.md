@@ -22,7 +22,6 @@ tags:
   - production-ops
   - qualcomm
   - quality-assurance
-  - quantisation
   - quantization
 status: published
 ---

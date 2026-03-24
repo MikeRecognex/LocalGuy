@@ -15,13 +15,13 @@ tags:
   - local-llm-optimization
   - local-llm-prompting
   - model-architecture
-  - model-quantization
   - msn
   - neutral
   - optimization
   - prompt-engineering
   - prompting
   - prompting-strategies
+  - quantization
   - quantization-strategies
   - self-hosted
   - tutorial

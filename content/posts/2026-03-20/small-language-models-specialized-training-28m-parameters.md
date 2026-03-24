@@ -19,7 +19,6 @@ tags:
   - fine-tuning
   - intermediate
   - memory-footprint
-  - model-compression
   - model-optimization
   - model-ownership
   - model-size-limits
@@ -28,6 +27,7 @@ tags:
   - open-source
   - performance-evaluation
   - private-inference
+  - quantization
   - rlocalllama
   - showcase
   - small-language-models

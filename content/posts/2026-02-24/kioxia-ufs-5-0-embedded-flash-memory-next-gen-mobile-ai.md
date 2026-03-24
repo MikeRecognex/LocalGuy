@@ -9,9 +9,9 @@ tags:
   - hardware
   - mobile
   - mobile-ai
-  - model-quantization
   - on-device-inference
   - performance-optimization
+  - quantization
   - real-time-ai
   - release
   - storage

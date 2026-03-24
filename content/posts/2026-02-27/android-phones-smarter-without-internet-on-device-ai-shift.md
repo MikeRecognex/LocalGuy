@@ -12,13 +12,13 @@ tags:
   - mobile-ai-hardware
   - mobile-processors
   - mobile-soc
-  - model-quantization
   - news
   - offline-capabilities
   - offline-capability
   - offline-deployment
   - on-device-inference
   - privacy-preserving-ai
+  - quantization
 mentions:
   - name: MediaTek
     role: manufacturer

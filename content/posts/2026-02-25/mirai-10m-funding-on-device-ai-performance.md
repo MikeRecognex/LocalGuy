@@ -12,7 +12,6 @@ tags:
   - inference-optimization
   - local-inference-latency
   - local-llms
-  - model-compression
   - news
   - on-device-inference
   - optimization

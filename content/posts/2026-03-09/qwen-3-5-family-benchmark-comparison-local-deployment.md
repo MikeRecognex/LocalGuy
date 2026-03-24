@@ -21,9 +21,8 @@ tags:
   - model-benchmarking
   - model-optimization
   - model-performance
-  - model-quantization
   - neutral
-  - quantisation
+  - quantization
   - qwen
   - small-model-performance
   - unsloth

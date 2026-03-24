@@ -17,9 +17,9 @@ tags:
   - memory-optimization
   - microcontroller
   - microcontroller-ai
-  - model-compression
   - on-device-inference
   - privacy-preserving-ai
+  - quantization
   - resource-constrained-ai
   - resource-constrained-deployment
   - rtos-deployment

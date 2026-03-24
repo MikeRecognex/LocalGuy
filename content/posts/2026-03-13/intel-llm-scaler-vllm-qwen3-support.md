@@ -14,7 +14,7 @@ tags:
   - news
   - open-source
   - phoronix
-  - quantisation
+  - quantization
   - qwen-models
   - release
   - token-level-batching

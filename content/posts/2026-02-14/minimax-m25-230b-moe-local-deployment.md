@@ -34,7 +34,7 @@ tags:
   - privacy
   - privacy-benefits
   - privacy-compliance
-  - quantisation
+  - quantization
   - release
 status: draft
 ---

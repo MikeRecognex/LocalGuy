@@ -11,10 +11,9 @@ tags:
   - embedded-ai
   - inference-optimization
   - low-resource-deployment
-  - model-compression
   - model-optimization
   - offline-deployment
-  - quantisation
+  - quantization
   - resource-constrained-ai
   - specialized-models
 mentions:

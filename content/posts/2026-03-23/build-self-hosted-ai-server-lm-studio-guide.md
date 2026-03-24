@@ -15,9 +15,9 @@ tags:
   - local-deployment
   - local-inference-server
   - model-optimization
-  - model-quantization
   - performance-tuning
   - production-deployment
+  - quantization
   - self-hosted
   - self-hosted-ai-server
   - tutorial

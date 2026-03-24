@@ -12,10 +12,10 @@ tags:
   - ggml
   - inter-agent-communication
   - memory-management
-  - model-quantization
   - on-device-inference
   - orchestration
   - production-deployment
+  - quantization
   - tool-use
   - tutorial
 mentions:

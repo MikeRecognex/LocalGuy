@@ -14,7 +14,7 @@ tags:
   - memory-optimization
   - model-performance
   - optimization
-  - quantisation
+  - quantization
   - quantization-benchmarking
   - quantization-techniques
   - quantization-tradeoffs

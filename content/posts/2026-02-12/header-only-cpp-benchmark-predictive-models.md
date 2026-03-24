@@ -13,11 +13,10 @@ tags:
   - llama-cpp
   - llm-inference-optimization
   - model-architecture
-  - model-quantization
   - neutral
   - open-source-project
   - production-ops
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: GitHub

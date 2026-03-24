@@ -17,7 +17,6 @@ tags:
   - llama-cpp
   - local-deployment
   - local-llm-integration
-  - model-compression
   - offline-deployment
   - on-device-speech
   - on-device-speech-synthesis
@@ -26,6 +25,7 @@ tags:
   - open-source-models
   - privacy
   - privacy-compliance
+  - quantization
   - release
   - resource-constrained-ai
   - showcase

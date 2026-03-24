@@ -13,11 +13,10 @@ tags:
   - local-inference
   - model-accessibility
   - model-benchmarking
-  - model-quantization
   - model-safety
   - performance-benchmarking
   - production-deployment
-  - quantisation
+  - quantization
   - qwen
   - release
   - uncensored-models

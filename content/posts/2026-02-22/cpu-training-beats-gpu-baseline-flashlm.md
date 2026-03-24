@@ -11,11 +11,11 @@ tags:
   - efficiency
   - efficient-training
   - iterative-model-development
-  - model-quantization
   - news
   - on-device-training
   - open-source
   - performance-comparison
+  - quantization
   - training-on-commodity-hardware
 mentions:
   - name: r/LocalLLaMA

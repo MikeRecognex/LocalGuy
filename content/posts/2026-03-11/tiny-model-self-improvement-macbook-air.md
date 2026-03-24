@@ -17,9 +17,8 @@ tags:
   - iterative-reasoning
   - memory-optimization
   - model-enhancement
-  - model-quantization
   - model-self-improvement
-  - quantisation
+  - quantization
   - researcher
   - resource-constrained-ai
   - rlocalllama

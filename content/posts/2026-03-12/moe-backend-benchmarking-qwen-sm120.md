@@ -18,7 +18,7 @@ tags:
   - moe-models
   - performance-benchmarking
   - performance-validation
-  - quantisation
+  - quantization
   - rlocalllama
 mentions:
   - name: r/LocalLLaMA

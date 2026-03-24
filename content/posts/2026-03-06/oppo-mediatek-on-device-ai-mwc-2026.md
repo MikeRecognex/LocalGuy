@@ -14,9 +14,9 @@ tags:
   - memory-efficiency
   - mobile-ai-innovation
   - mobile-inference
-  - model-compression
   - on-device-inference
   - optimization-techniques
+  - quantization
 mentions:
   - name: OPPO
     role: innovator

@@ -18,11 +18,10 @@ tags:
   - local-deployment
   - local-inference
   - local-llm-experimentation
-  - model-quantization
   - on-device-inference
   - open-source
   - open-source-models
-  - quantisation
+  - quantization
   - release
   - resource-efficiency
   - rlocalllama

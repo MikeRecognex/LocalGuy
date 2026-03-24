@@ -16,7 +16,6 @@ tags:
   - home-lab
   - large-model-inference
   - local-inference
-  - model-quantization
   - multi-gpu-setup
   - nvidia
   - offline-deployment
@@ -24,7 +23,7 @@ tags:
   - p2p-communication
   - p2p-gpu-communication
   - production-ops
-  - quantisation
+  - quantization
 mentions:
   - name: Gigabyte
     role: hardware manufacturer

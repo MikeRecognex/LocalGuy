@@ -25,7 +25,7 @@ tags:
   - moe-architecture
   - mxfp4-precision
   - offline-deployment
-  - quantisation
+  - quantization
   - reddit
   - release
   - resource-efficiency

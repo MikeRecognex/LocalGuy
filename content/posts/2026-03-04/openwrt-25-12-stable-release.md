@@ -12,7 +12,6 @@ tags:
   - hardware
   - local-inference
   - local-semantic-search
-  - model-quantization
   - network-content-filtering
   - offline-deployment
   - on-device-inference
@@ -22,6 +21,7 @@ tags:
   - optimization
   - privacy-preserving-ai
   - privacy-preserving-recommendations
+  - quantization
   - release
 mentions:
   - name: OpenWrt

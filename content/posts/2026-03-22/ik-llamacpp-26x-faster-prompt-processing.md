@@ -17,10 +17,10 @@ tags:
   - intermediate
   - llama-cpp
   - llama-cpp-optimization
-  - model-quantization
   - news
   - performance-optimization
   - prompt-processing-speed
+  - quantization
   - qwen-model-optimization
   - showcase
 status: draft

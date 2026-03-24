@@ -14,12 +14,11 @@ tags:
   - ggml
   - local-inference
   - model-availability
-  - model-quantization
   - model-versioning
   - news
   - open-source
   - optimization
-  - quantisation
+  - quantization
   - workflow-optimization
 mentions:
   - name: GGML

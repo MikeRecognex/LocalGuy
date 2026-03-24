@@ -11,9 +11,7 @@ tags:
   - edge-deployment
   - edge-device
   - memory-efficiency
-  - model-compression
-  - model-quantization
-  - quantisation
+  - quantization
   - qwen-models
   - qwen3-coder-next
 mentions:

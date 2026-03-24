@@ -10,12 +10,12 @@ tags:
   - llama-cpp
   - local-inference
   - model-deployment-tooling
-  - model-quantization
   - news
   - on-device-inference
   - open-source
   - open-source-project-governance
   - production-deployment
+  - quantization
 mentions:
   - name: WinBuzzer
     role: publisher

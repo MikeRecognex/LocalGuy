@@ -12,9 +12,8 @@ tags:
   - inference-speed
   - memory-constrained-inference
   - model-performance
-  - model-quantization
   - model-selection
-  - quantisation
+  - quantization
   - resource-constrained-deployment
   - strix-halo-performance
 mentions:

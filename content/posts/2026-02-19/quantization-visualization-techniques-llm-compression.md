@@ -14,11 +14,9 @@ tags:
   - llama
   - llama-cpp
   - memory-optimization
-  - model-compression
   - model-optimization
-  - model-quantization
   - production-ops
-  - quantisation
+  - quantization
   - quantization-formats
   - quantization-visualization
 mentions:

@@ -8,12 +8,12 @@ tags:
   - local-deployment-strategy
   - local-inference
   - model-fine-tuning
-  - model-quantization
   - open-source
   - open-source-llms
   - open-source-models
   - open-weight-models
   - opinion
+  - quantization
   - strategy
   - tokenizer-architecture
   - vendor-lock-in

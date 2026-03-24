@@ -16,10 +16,8 @@ tags:
   - mac
   - mlx
   - mlx-framework
-  - model-quantization
   - model-scaling
   - performance-benchmarking
-  - quantisation
   - quantization
 status: published
 ---

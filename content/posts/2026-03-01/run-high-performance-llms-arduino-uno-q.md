@@ -15,8 +15,8 @@ tags:
   - microcontroller
   - microcontroller-deployment
   - model-distillation
-  - model-quantization
   - optimization
+  - quantization
   - resource-constrained-ai
   - tutorial
 mentions:

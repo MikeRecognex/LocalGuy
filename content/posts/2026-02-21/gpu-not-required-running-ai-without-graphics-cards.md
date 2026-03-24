@@ -12,9 +12,8 @@ tags:
   - local-deployment
   - market-expansion
   - model-optimization
-  - model-quantization
   - performance
-  - quantisation
+  - quantization
   - tutorial
 mentions:
   - name: MakeUseOf

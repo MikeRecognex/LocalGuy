@@ -7,13 +7,11 @@ tags:
   - edge-deployment
   - edge-device
   - hardware
-  - model-compression
   - model-efficiency
-  - model-quantization
   - on-device-inference
   - power-efficiency
   - qualcomm
-  - quantisation
+  - quantization
   - release
   - resource-constrained-ai
   - wearable-ai

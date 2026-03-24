@@ -21,7 +21,6 @@ tags:
   - local-deployment
   - local-inference
   - model-optimization
-  - model-quantization
   - quantization
   - startuphubai
   - tutorial

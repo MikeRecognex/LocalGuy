@@ -16,7 +16,7 @@ tags:
   - model-performance
   - news
   - optimization
-  - quantisation
+  - quantization
   - qwen
   - qwen-models
 mentions:

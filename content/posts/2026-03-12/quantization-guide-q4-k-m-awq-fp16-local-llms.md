@@ -11,7 +11,6 @@ tags:
   - local-deployment
   - memory-optimization
   - model-optimization
-  - model-quantization
   - neutral
   - optimization
   - performance

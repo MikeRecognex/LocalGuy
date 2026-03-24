@@ -13,7 +13,6 @@ tags:
   - local-vlm
   - local-vlms
   - memory-optimisation
-  - model-quantization
   - multimodal
   - neutral
   - offline-deployment
@@ -24,7 +23,7 @@ tags:
   - pii-detection-redaction
   - privacy
   - privacy-compliance
-  - quantisation
+  - quantization
   - qwen
   - qwen-3-vl
 mentions:

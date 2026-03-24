@@ -32,14 +32,13 @@ tags:
   - minimax-m25
   - model-availability
   - model-comparison
-  - model-quantization
   - multi-step-reasoning
   - neutral
   - new-model-release
   - news
   - offline-deployment
   - ollama
-  - quantisation
+  - quantization
   - release
   - resource-optimization
 mentions:

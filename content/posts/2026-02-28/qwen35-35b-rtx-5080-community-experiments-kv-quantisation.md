@@ -14,9 +14,8 @@ tags:
   - kv-cache-quantization
   - local-deployment
   - model-performance
-  - model-quantization
   - performance-optimization
-  - quantisation
+  - quantization
   - qwen
   - runtime-optimization
 mentions:

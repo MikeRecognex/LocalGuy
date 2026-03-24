@@ -14,13 +14,13 @@ tags:
   - memory-optimization
   - model-adaptation
   - model-architecture
-  - model-compression
   - model-degradation
   - model-fine-tuning
   - model-modification
   - model-optimization
   - model-performance-degradation
   - on-device-optimization
+  - quantization
   - research
   - research-report
   - researcher

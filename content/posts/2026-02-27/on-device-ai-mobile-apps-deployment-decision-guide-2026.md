@@ -14,10 +14,10 @@ tags:
   - mobile-ai-deployment
   - mobile-deployment
   - mobile-hardware-acceleration
-  - model-quantization
   - on-device-inference
   - optimization
   - privacy-compliance
+  - quantization
 status: published
 ---
 

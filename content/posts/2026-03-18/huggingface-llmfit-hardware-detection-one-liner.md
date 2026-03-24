@@ -21,10 +21,9 @@ tags:
   - llama-cpp-deployment
   - local-deployment
   - local-inference-pipelines
-  - model-quantization
   - model-selection
   - openclaw
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: OpenClaw

@@ -19,7 +19,7 @@ tags:
   - memory-optimization
   - model-optimization
   - model-size-on-consumer-hardware
-  - quantisation
+  - quantization
   - qwen
   - qwen-3-5-architecture
   - qwen-3-5-optimization

@@ -17,12 +17,10 @@ tags:
   - market-competition
   - memory-optimization
   - model-efficiency
-  - model-quantization
   - news
   - offline-deployment
   - open-source
   - open-source-llms
-  - quantisation
   - quantization
   - release
 mentions:

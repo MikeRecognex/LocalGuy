@@ -21,10 +21,10 @@ tags:
   - local-deployment
   - local-inference
   - mistral
-  - model-quantization
   - model-release
   - open-source
   - open-source-models
+  - quantization
   - release
   - testingcatalog
 mentions:

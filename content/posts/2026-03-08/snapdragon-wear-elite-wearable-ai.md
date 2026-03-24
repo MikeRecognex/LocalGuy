@@ -9,9 +9,9 @@ tags:
   - hardware
   - lightweight-model-deployment
   - model-efficiency
-  - model-quantization
   - news
   - on-device-applications
+  - quantization
   - release
   - resource-optimization
   - wearable-ai

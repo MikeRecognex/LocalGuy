@@ -12,11 +12,11 @@ tags:
   - edge-device
   - glm
   - minimax
-  - model-compression
   - model-compression-optimization
   - model-compression-technique
   - model-performance-preservation
   - offline-deployment
+  - quantization
   - ream-technique
   - release
   - samsung

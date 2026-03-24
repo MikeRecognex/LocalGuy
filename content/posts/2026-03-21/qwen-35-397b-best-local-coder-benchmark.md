@@ -18,7 +18,6 @@ tags:
   - local-models
   - model-accuracy
   - model-comparison
-  - model-quantization
   - model-scaling
   - quantization
   - qwen

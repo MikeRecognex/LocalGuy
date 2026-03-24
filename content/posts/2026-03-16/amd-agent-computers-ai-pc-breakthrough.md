@@ -18,10 +18,10 @@ tags:
   - intermediate
   - itpro
   - local-agent-ai
-  - model-quantization
   - news
   - npu
   - on-device-inference
+  - quantization
 mentions:
   - name: ITPro
     role: publisher

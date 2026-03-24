@@ -22,12 +22,12 @@ tags:
   - hardware-benchmarking
   - hardware-validation
   - intermediate
-  - model-quantization
   - news
   - npu
   - npu-development
   - npu-optimization
   - power-efficiency
+  - quantization
   - quantized-models
   - smart-city-ai
 status: draft

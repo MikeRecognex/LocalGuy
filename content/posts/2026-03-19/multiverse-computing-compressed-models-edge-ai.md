@@ -15,12 +15,11 @@ tags:
   - intermediate
   - latency-reduction
   - local-deployment
-  - model-compression
   - multiverse-computing
   - on-device-ai-ecosystem
   - on-device-inference
   - production-tools
-  - quantisation
+  - quantization
   - release
   - tipranks
 mentions:

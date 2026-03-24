@@ -15,12 +15,12 @@ tags:
   - inference-frameworks
   - local-deployment
   - memory-management
-  - model-quantization
   - news
   - open-source
   - os-compatibility
   - performance
   - performance-optimization
+  - quantization
   - release
   - resource-optimization
 mentions:

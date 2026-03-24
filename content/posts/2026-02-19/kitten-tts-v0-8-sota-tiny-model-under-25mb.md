@@ -14,12 +14,12 @@ tags:
   - llama
   - llama-cpp
   - local-inference
-  - model-compression
   - offline-deployment
   - ollama
   - on-device-inference
   - open-source
   - open-source-licensing
+  - quantization
   - release
   - speech-synthesis
   - text-to-speech

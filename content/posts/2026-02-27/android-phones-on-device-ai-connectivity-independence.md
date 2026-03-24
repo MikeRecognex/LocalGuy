@@ -11,12 +11,12 @@ tags:
   - edge-inference
   - local-deployment
   - mobile
-  - model-quantization
   - offline-deployment
   - on-device-inference
   - platform-evolution
   - privacy
   - privacy-benefits
+  - quantization
 mentions:
   - name: NokiaPowerUser
     role: publisher

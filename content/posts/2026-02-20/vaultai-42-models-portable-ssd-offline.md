@@ -18,12 +18,11 @@ tags:
   - local-deployment
   - local-inference
   - model-optimization
-  - model-quantization
   - offline-deployment
   - portable-ai
   - privacy
   - privacy-compliance
-  - quantisation
+  - quantization
   - reference-architecture
   - showcase
   - storage-density

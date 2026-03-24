@@ -16,7 +16,6 @@ tags:
   - mobile
   - mobile-ai
   - mobile-inference
-  - model-compression
   - model-optimization
   - offline-deployment
   - on-device-inference

@@ -17,11 +17,11 @@ tags:
   - latency-reduction
   - mobile-ai
   - model-optimization
-  - model-quantization
   - on-device-agents
   - on-device-inference
   - practical-deployment
   - privacy-preserving-ai
+  - quantization
   - release
 mentions:
   - name: Kakao

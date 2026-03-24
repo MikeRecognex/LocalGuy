@@ -17,13 +17,13 @@ tags:
   - intermediate
   - local-deployment
   - local-inference
-  - model-quantization
   - model-release
   - msn
   - on-device-inference
   - open-source
   - open-source-ai
   - open-source-models
+  - quantization
   - reasoning
   - reasoning-efficiency
   - release

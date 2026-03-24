@@ -16,10 +16,10 @@ tags:
   - metal-acceleration
   - mlx
   - mlx-framework
-  - model-quantization
   - news
   - on-device-inference
   - power-efficiency
+  - quantization
   - release
 status: published
 ---

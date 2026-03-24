@@ -20,7 +20,6 @@ tags:
   - low-latency-ai
   - market-growth
   - market-trends
-  - model-compression
   - model-optimization
   - news
   - offline-deployment

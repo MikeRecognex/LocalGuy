@@ -12,9 +12,9 @@ tags:
   - local-deployment-economics
   - local-llm-competitiveness
   - model-benchmarking
-  - model-quantization
   - open-source
   - open-source-llms
+  - quantization
   - self-hosted
 status: published
 ---

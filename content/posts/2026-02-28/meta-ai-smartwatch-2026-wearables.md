@@ -9,10 +9,10 @@ tags:
   - edge-inference
   - hardware
   - hardware-constraints
-  - model-compression
   - model-optimization
   - news
   - on-device-inference
+  - quantization
   - resource-constrained-ai
   - specialized-architectures
   - wearable-ai-applications

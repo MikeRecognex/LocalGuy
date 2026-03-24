@@ -16,7 +16,7 @@ tags:
   - offline-deployment
   - on-device-inference
   - privacy-preserving-ai
-  - quantisation
+  - quantization
   - release
   - resource-efficiency
   - small-language-models

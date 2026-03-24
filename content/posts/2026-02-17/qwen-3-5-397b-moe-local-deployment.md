@@ -20,11 +20,10 @@ tags:
   - model-benchmarking
   - model-evaluation
   - model-quantisation
-  - model-quantization
   - moe
   - news
   - offline-deployment
-  - quantisation
+  - quantization
   - qwen
   - release
   - spatial-reasoning

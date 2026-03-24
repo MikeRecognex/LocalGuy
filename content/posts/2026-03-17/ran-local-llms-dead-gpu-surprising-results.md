@@ -23,8 +23,8 @@ tags:
   - inference-optimization
   - intermediate
   - legacy-gpu-inference
-  - model-quantization
   - msn
+  - quantization
 mentions:
   - name: MSN
     role: publisher

@@ -26,7 +26,7 @@ tags:
   - multi-gpu-inference
   - news
   - performance
-  - quantisation
+  - quantization
   - qwen
   - rlocalllama
   - showcase

@@ -16,7 +16,7 @@ tags:
   - llm-accuracy
   - local-llms
   - model-efficiency
-  - quantisation
+  - quantization
   - structured-output
 mentions:
   - name: Hacker News

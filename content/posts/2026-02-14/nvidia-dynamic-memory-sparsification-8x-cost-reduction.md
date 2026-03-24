@@ -17,7 +17,6 @@ tags:
   - local-deployment
   - memory-optimisation
   - memory-optimization
-  - model-compression
   - model-efficiency
   - model-retrofitting
   - model-size-on-consumer-hardware
@@ -25,6 +24,7 @@ tags:
   - news
   - nvidia
   - offline-deployment
+  - quantization
   - reasoning-optimization
   - release
   - rlocalllama

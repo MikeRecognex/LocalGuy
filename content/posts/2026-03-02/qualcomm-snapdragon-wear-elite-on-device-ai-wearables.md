@@ -11,11 +11,11 @@ tags:
   - inference-optimization
   - local-inference
   - low-latency
-  - model-quantization
   - news
   - on-device-inference
   - privacy-compliance
   - qualcomm
+  - quantization
   - release
   - small-llms
   - wearable-ai

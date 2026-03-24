@@ -10,11 +10,11 @@ tags:
   - mobile-ai-development
   - mobile-ai-frameworks
   - model-distillation
-  - model-quantization
   - offline-capabilities
   - on-device-constraints
   - on-device-inference
   - privacy-benefits
+  - quantization
   - user-experience
 mentions:
   - name: AI Journal

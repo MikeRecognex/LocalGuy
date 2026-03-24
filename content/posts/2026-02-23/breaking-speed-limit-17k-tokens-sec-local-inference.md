@@ -15,7 +15,6 @@ tags:
   - optimization
   - performance
   - performance-optimization
-  - quantisation
   - quantization
   - real-time-ai
   - scalable-deployment

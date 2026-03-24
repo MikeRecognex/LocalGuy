@@ -14,7 +14,6 @@ tags:
   - llm-democratization
   - local-deployment
   - local-inference
-  - model-quantization
   - multi-gpu-inference
   - news
   - open-source

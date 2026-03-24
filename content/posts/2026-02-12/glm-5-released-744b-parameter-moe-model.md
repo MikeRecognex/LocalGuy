@@ -15,13 +15,12 @@ tags:
   - local-deployment
   - mixture-of-experts
   - model-performance
-  - model-quantization
   - model-safety
   - model-scaling
   - moe
   - moe-architecture
   - offline-deployment
-  - quantisation
+  - quantization
   - release
   - self-hosted
   - zhipu

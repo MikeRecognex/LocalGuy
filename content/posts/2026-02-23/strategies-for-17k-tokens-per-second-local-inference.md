@@ -15,10 +15,10 @@ tags:
   - inference-speed
   - memory-optimization
   - model-optimization
-  - model-quantization
   - optimisation
   - performance
   - privacy-compliance
+  - quantization
 mentions:
   - name: SitePoint
     role: publisher

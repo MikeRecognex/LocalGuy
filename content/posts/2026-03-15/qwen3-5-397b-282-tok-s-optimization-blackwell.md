@@ -18,7 +18,7 @@ tags:
   - moe-optimization
   - multi-gpu-inference
   - performance-optimization
-  - quantisation
+  - quantization
   - rlocalllama
   - tutorial
 mentions:

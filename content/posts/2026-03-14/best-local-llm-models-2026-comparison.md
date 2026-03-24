@@ -12,11 +12,11 @@ tags:
   - local-deployment
   - memory-optimization
   - model-comparison
-  - model-quantization
   - model-selection
   - on-device-inference
   - open-source
   - performance-optimization
+  - quantization
   - sitepoint
 mentions:
   - name: SitePoint

@@ -11,11 +11,10 @@ tags:
   - gguf-quantisation
   - hardware-optimization
   - model-benchmarking
-  - model-quantization
   - model-variants
   - performance-benchmarking
   - production-deployment
-  - quantisation
+  - quantization
   - qwen
   - release
   - tool-calling

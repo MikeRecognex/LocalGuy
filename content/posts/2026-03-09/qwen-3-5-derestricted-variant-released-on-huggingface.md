@@ -16,11 +16,10 @@ tags:
   - llm-experimentation
   - llm-safety
   - local-deployment
-  - model-quantization
   - model-release
   - open-source
   - open-source-models
-  - quantisation
+  - quantization
   - qwen
   - release
   - rlocalllama

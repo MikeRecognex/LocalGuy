@@ -9,10 +9,10 @@ tags:
   - local-llms
   - model-benchmarking
   - model-lineup
-  - model-quantization
   - moe
   - multimodal-ai
   - open-source
+  - quantization
   - qwen
   - release
 status: published

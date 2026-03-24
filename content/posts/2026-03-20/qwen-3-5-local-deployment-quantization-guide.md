@@ -16,10 +16,9 @@ tags:
   - model-capabilities
   - model-optimization
   - model-performance
-  - model-quantization
   - open-source
   - production-deployment
-  - quantisation
+  - quantization
   - qwen
   - rlocalllama
   - showcase

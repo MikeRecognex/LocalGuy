@@ -20,12 +20,11 @@ tags:
   - local-llm-market-growth
   - market-validation
   - model-optimization
-  - model-quantization
   - neural-network-optimization
   - news
   - nota
   - open-source
-  - quantisation
+  - quantization
 mentions:
   - name: Nota
     role: company

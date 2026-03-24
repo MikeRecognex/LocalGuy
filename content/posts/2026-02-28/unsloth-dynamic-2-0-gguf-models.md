@@ -13,9 +13,7 @@ tags:
   - memory-optimization
   - model-evaluation
   - model-optimization
-  - model-quantization
   - optimization
-  - quantisation
   - quantization
   - release
   - unsloth

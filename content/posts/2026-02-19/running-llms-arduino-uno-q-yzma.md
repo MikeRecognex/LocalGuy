@@ -12,14 +12,13 @@ tags:
   - memory-optimization
   - microcontroller-ai
   - model-optimization
-  - model-quantization
   - multimodal
   - offline-deployment
   - on-device-image-analysis
   - privacy
   - privacy-compliance
   - privacy-preserving-ai
-  - quantisation
+  - quantization
   - tutorial
   - vision-language-models
 mentions:

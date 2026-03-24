@@ -22,8 +22,8 @@ tags:
   - legacy-hardware-utilization
   - local-inference
   - local-llm-accessibility
-  - model-quantization
   - msn
+  - quantization
   - quantized-models
   - sustainable-ai
 mentions:

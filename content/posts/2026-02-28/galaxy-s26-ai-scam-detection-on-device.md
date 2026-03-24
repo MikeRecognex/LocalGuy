@@ -9,9 +9,9 @@ tags:
   - mobile
   - mobile-ai
   - model-optimization
-  - model-quantization
   - on-device-inference
   - privacy-compliance
+  - quantization
   - scam-detection
   - security
 mentions:

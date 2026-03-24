@@ -15,7 +15,7 @@ tags:
   - local-deployment
   - local-hardware
   - local-llm-benefits
-  - model-quantization
+  - quantization
   - qwen
   - rlocalllama
   - roi-analysis

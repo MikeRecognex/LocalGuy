@@ -17,12 +17,11 @@ tags:
   - model-benchmarking
   - model-comparison
   - model-optimization
-  - model-quantization
   - model-selection
   - neutral
   - open-source
   - open-source-llms
-  - quantisation
+  - quantization
 status: draft
 ---
 

@@ -10,12 +10,12 @@ tags:
   - client-side-deployment
   - inference-optimization
   - local-llm-applications
-  - model-quantization
   - news
   - open-source
   - practical-tools
   - privacy-compliance
   - prompt-engineering
+  - quantization
   - workflow-integration
 mentions:
   - name: Hacker News

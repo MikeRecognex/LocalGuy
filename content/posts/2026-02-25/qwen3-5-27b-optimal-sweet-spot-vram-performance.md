@@ -10,10 +10,9 @@ tags:
   - inference-frameworks
   - inference-speed
   - local-deployment
-  - model-quantization
   - performance-benchmarking
   - performance-efficiency
-  - quantisation
+  - quantization
   - qwen
   - qwen3-5-27b
   - tutorial

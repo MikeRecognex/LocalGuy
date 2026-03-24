@@ -16,7 +16,6 @@ tags:
   - local-inference
   - memory-usage
   - mistral
-  - model-quantization
   - multi-tasking-environments
   - neutral
   - news
@@ -25,7 +24,7 @@ tags:
   - offline-deployment
   - power-efficiency
   - production-ops
-  - quantisation
+  - quantization
   - resource-efficiency
   - resource-management
 mentions:

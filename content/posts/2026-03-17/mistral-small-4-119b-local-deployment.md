@@ -17,11 +17,10 @@ tags:
   - memory-optimization
   - mistral
   - model-quantisation
-  - model-quantization
   - model-release
   - model-size
   - open-source
-  - quantisation
+  - quantization
   - release
   - showcase
 status: draft

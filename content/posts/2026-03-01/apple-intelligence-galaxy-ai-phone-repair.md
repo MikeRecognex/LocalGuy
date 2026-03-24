@@ -11,9 +11,9 @@ tags:
   - edge-inference
   - mobile-ai-optimization
   - model-distillation
-  - model-quantization
   - offline-deployment
   - on-device-inference
+  - quantization
   - resource-constrained-ai
 mentions:
   - name: The AI Journal

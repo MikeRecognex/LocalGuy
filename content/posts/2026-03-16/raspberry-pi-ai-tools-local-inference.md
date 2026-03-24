@@ -20,9 +20,9 @@ tags:
   - memory-optimization
   - memory-optimized-inference
   - model-optimization
-  - model-quantization
   - open-source
   - performance-evaluation
+  - quantization
   - raspberry-pi
   - raspberry-pi-ai
   - showcase

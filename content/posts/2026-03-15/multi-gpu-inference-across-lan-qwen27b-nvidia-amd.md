@@ -13,12 +13,12 @@ tags:
   - llama-cpp-features
   - llama-cpp-rpc
   - long-context-inference
-  - model-quantization
   - multi-gpu
   - multi-gpu-inference
   - multi-gpu-orchestration
   - news
   - performance-optimization
+  - quantization
   - rlocalllama
 mentions:
   - name: r/LocalLLaMA

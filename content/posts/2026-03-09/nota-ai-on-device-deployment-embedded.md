@@ -19,7 +19,6 @@ tags:
   - industrial-ai-deployment
   - industrial-deployment
   - intermediate
-  - model-compression
   - model-optimization
   - neutral
   - nota-ai

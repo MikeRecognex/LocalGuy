@@ -12,7 +12,6 @@ tags:
   - mobile-inference
   - mobile-processor
   - mobile-soc
-  - model-quantization
   - news
   - npu-capabilities
   - npu-performance
@@ -20,6 +19,7 @@ tags:
   - on-device-llms
   - optimization
   - power-efficiency
+  - quantization
   - quantization-performance
   - snapdragon
 status: published

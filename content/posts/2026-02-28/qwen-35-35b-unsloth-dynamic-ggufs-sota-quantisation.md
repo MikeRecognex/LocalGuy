@@ -12,10 +12,9 @@ tags:
   - model-formats
   - model-performance-tradeoffs
   - model-quantisation
-  - model-quantization
   - open-source
   - performance-benchmarking
-  - quantisation
+  - quantization
   - qwen
   - release
   - tool-calling-bug-fix
