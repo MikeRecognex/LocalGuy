@@ -22,7 +22,7 @@ tags:
   - model-deployment
   - model-scaling
   - performance-optimization
-  - rag-pipeline
+  - rag
   - release
   - state-space-models
   - together-ai

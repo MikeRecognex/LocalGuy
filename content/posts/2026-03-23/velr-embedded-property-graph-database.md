@@ -19,7 +19,7 @@ tags:
   - model-performance
   - news
   - on-device-inference
-  - rag-pipeline
+  - rag
   - release
   - rust
   - showcase

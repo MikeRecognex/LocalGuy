@@ -19,7 +19,6 @@ tags:
   - offline-deployment
   - production-ops
   - rag
-  - rag-pipeline
   - release
 mentions:
   - name: GitHub

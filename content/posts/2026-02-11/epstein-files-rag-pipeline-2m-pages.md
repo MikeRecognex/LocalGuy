@@ -16,7 +16,6 @@ tags:
   - private-llm-deployment
   - rag
   - rag-chunking
-  - rag-pipeline
   - rag-retrieval-performance
   - rag-scaling
   - retrieval-optimization

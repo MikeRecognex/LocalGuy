@@ -20,7 +20,7 @@ tags:
   - news
   - open-source
   - prompt-caching
-  - rag-pipeline
+  - rag
   - resource-optimization
   - vram-efficiency
 status: draft

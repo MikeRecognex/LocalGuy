@@ -32,7 +32,6 @@ tags:
   - production-deployment
   - production-ops
   - rag
-  - rag-pipeline
   - rag-pipeline-optimization
   - rag-pipeline-performance
   - release

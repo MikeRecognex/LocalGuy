@@ -13,7 +13,7 @@ tags:
   - local-deployment
   - offline-deployment
   - open-source
-  - rag-pipeline
+  - rag
   - self-hosted-llm
   - use-case
 mentions:

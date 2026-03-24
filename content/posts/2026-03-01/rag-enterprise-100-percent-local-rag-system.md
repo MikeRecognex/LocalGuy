@@ -14,7 +14,6 @@ tags:
   - on-premises-deployment
   - open-source
   - rag
-  - rag-pipeline
 mentions:
   - name: Hacker News
     role: source

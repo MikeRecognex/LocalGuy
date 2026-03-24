@@ -26,7 +26,6 @@ tags:
   - privacy-preserving-rag
   - rag
   - rag-components
-  - rag-pipeline
   - rag-pipeline-components
   - retrieval-augmented-generation
   - sitepoint

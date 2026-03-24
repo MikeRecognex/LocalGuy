@@ -12,8 +12,8 @@ tags:
   - news
   - open-source
   - optimization
+  - rag
   - rag-applications
-  - rag-pipeline
   - release
   - semantic-search
   - semantic-understanding

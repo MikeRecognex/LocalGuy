@@ -21,9 +21,9 @@ tags:
   - multi-hop-question-answering
   - news
   - prompting
+  - rag
   - rag-architecture
   - rag-optimization
-  - rag-pipeline
   - reasoning-bottleneck
   - reasoning-optimization
   - retrieval-augmented-generation

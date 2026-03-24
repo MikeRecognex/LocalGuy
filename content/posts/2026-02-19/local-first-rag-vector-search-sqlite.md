@@ -22,7 +22,6 @@ tags:
   - on-device-inference
   - on-device-rag
   - rag
-  - rag-pipeline
   - resource-optimization
   - self-hosted
   - sitepoint

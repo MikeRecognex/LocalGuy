@@ -13,7 +13,6 @@ tags:
   - open-source
   - production-deployment
   - rag
-  - rag-pipeline
   - release
   - semantic-search
 mentions:

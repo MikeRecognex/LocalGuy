@@ -13,7 +13,6 @@ tags:
   - local-rag
   - open-source
   - rag
-  - rag-pipeline
   - release
 status: published
 ---

@@ -18,7 +18,6 @@ tags:
   - ocr
   - optical-character-recognition
   - rag
-  - rag-pipeline
   - release
   - voice
 status: published

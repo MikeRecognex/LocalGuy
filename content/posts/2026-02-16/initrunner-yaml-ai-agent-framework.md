@@ -15,7 +15,6 @@ tags:
   - offline-deployment
   - open-source
   - rag
-  - rag-pipeline
   - release
   - retrieval-augmented-generation
   - tutorial
