@@ -13,7 +13,6 @@ tags:
   - fine-tuning
   - inference-optimization
   - local-deployment
-  - model-fine-tuning
   - qlora-fine-tuning
   - qwen
   - rlocalllama

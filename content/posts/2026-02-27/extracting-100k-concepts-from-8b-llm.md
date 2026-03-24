@@ -7,13 +7,13 @@ tags:
   - advanced
   - concept-extraction
   - edge-deployment
+  - fine-tuning
   - inference-optimization
   - interpretability
   - llm-deployment
   - local-llm-optimization
   - model-analysis
   - model-comparison
-  - model-fine-tuning
   - model-interpretability
   - model-safety
   - optimization

@@ -16,7 +16,6 @@ tags:
   - memory-architecture
   - memory-compression
   - memory-optimization
-  - model-adaptation
   - orthogonal-lora
   - resource-optimization
 mentions:

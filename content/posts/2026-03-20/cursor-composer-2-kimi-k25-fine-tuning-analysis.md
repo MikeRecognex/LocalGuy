@@ -15,7 +15,6 @@ tags:
   - fine-tuning
   - intermediate
   - local-deployment
-  - model-adaptation
   - model-architecture
   - model-optimization
   - news

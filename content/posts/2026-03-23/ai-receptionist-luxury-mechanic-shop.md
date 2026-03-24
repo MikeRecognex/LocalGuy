@@ -14,13 +14,13 @@ tags:
   - developer
   - edge-case-handling
   - enterprise-developer
+  - fine-tuning
   - graceful-degradation
   - intermediate
   - itsthatladydev
   - llm-deployment
   - local-vs-cloud-deployment
   - model-comparison
-  - model-customization
   - news
   - on-device-inference
   - practical-guide

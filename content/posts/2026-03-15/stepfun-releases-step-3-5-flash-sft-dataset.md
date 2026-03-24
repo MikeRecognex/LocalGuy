@@ -8,7 +8,6 @@ tags:
   - domain-specific-ai
   - fine-tuning
   - local-llm-development
-  - model-fine-tuning
   - model-optimization
   - model-training-efficiency
   - open-source

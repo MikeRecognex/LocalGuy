@@ -9,11 +9,11 @@ tags:
   - efficiency
   - efficient-training
   - enterprise
+  - fine-tuning
   - llm-training-efficiency
   - local-deployment
   - local-llm-development
   - model-architecture-experimentation
-  - model-fine-tuning
   - open-source
   - optimization
   - rapid-model-iteration

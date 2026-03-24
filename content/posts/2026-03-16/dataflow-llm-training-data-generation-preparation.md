@@ -16,7 +16,6 @@ tags:
   - local-llm-training
   - local-model-fine-tuning
   - local-model-finetuning
-  - model-fine-tuning
   - news
   - open-source
   - opendcai

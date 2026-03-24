@@ -18,7 +18,6 @@ tags:
   - intermediate
   - local-model-training
   - mobile-ai
-  - model-fine-tuning
   - on-device-inference
   - on-device-pipelines
   - on-device-training

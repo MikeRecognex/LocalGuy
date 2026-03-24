@@ -9,8 +9,8 @@ tags:
   - data-privacy
   - document-generation
   - enterprise
+  - fine-tuning
   - inference-pipelines
-  - model-fine-tuning
   - on-device-inference
   - open-source
   - requirements-engineering-automation

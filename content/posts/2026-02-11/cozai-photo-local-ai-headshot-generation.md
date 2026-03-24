@@ -24,7 +24,6 @@ tags:
   - intermediate
   - local-deployment
   - local-inference
-  - model-customization
   - news
   - offline-deployment
   - practical-applications

@@ -13,7 +13,6 @@ tags:
   - local-hardware
   - local-model-specialization
   - model-comparison
-  - model-fine-tuning
   - model-optimization
   - qwen
   - resource-optimization

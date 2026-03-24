@@ -7,6 +7,7 @@ tags:
   - deployment-restrictions
   - developer
   - enterprise
+  - fine-tuning
   - hardware
   - intermediate
   - license-update
@@ -14,7 +15,6 @@ tags:
   - licensing-policy
   - local-deployment
   - local-inference
-  - model-customization
   - model-licensing
   - news
   - open-source

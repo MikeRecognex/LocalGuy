@@ -15,7 +15,6 @@ tags:
   - hardware-efficiency
   - hugging-face
   - matmul-free-architecture
-  - model-adaptation
   - model-architecture
   - offline-deployment
   - on-device-fine-tuning

@@ -14,8 +14,6 @@ tags:
   - fine-tuning
   - inference-optimization
   - llm-deployment
-  - model-adaptation
-  - model-fine-tuning
   - multilingual-llm
   - multilingual-models
   - offline-deployment

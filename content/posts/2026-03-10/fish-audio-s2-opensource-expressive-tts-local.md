@@ -5,10 +5,10 @@ description: Fish Audio released S2, an open-source TTS model supporting 80+ lan
 tags:
   - audio-latency
   - edge-computing
+  - fine-tuning
   - fish-audio
   - inference-optimization
   - local-ai-pipelines
-  - model-fine-tuning
   - multi-speaker-synthesis
   - multilingual-ai
   - multimodal

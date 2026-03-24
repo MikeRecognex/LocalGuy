@@ -21,7 +21,6 @@ tags:
   - inference-optimization
   - infrastructure-optimization
   - intermediate
-  - model-fine-tuning
   - on-device-fine-tuning
   - on-device-privacy
   - open-source

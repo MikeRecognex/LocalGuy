@@ -5,9 +5,9 @@ description: Sarvam has released open-source reasoning models in 30B and 105B si
 tags:
   - consumer-gpu
   - datacenter-gpu
+  - fine-tuning
   - hardware-optimization
   - local-deployment
-  - model-fine-tuning
   - model-sizes
   - msn
   - multi-gpu-deployment

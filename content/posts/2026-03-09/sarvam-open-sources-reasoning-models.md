@@ -7,12 +7,12 @@ tags:
   - bullish
   - consumer-gpu
   - developer
+  - fine-tuning
   - inference
   - intermediate
   - local-deployment
   - local-llms
   - logical-inference
-  - model-customization
   - model-scaling
   - model-sizes
   - news

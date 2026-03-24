@@ -4,12 +4,12 @@ date: 2026-03-11
 description: A new markup format designed specifically for structuring LLM outputs, enabling better integration between local language models and downstream applications that consume their responses.
 tags:
   - developer-tooling
+  - fine-tuning
   - framework
   - llm-integration
   - llm-markup-format
   - llm-output-structuring
   - local-deployment
-  - model-customization
   - news
   - open-source
   - output-parsing

@@ -15,7 +15,6 @@ tags:
   - gpu-data-processing
   - inference-optimization
   - local-inference
-  - model-fine-tuning
   - offline-deployment
   - production-ops
   - rag

@@ -5,9 +5,9 @@ description: Community observation that Anthropic's commitment to closed-source 
 tags:
   - anthropic
   - cautious
+  - fine-tuning
   - local-deployment-strategy
   - local-inference
-  - model-fine-tuning
   - open-source
   - open-weight-models
   - opinion
