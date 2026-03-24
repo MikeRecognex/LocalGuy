@@ -12,7 +12,6 @@ tags:
   - memory-optimization
   - model-tuning
   - performance-optimization
-  - performance-tuning
   - troubleshooting
   - tutorial
   - xda

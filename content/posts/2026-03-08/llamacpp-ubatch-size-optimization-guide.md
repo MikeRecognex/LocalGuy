@@ -15,7 +15,7 @@ tags:
   - llama-cpp-optimization
   - memory-management
   - optimization
-  - performance-tuning
+  - performance-optimization
   - prompt-processing-optimization
   - tutorial
   - ubatch-size-configuration

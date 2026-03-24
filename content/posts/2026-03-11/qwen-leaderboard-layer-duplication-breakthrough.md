@@ -13,7 +13,7 @@ tags:
   - model-optimization
   - news
   - on-device-inference
-  - performance-tuning
+  - performance-optimization
   - qwen
   - qwen2-model
   - researcher

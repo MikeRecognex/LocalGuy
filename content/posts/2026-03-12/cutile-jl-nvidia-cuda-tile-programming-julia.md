@@ -18,7 +18,6 @@ tags:
   - memory-bandwidth
   - performance
   - performance-optimization
-  - performance-tuning
   - resource-efficiency
 mentions:
   - name: Hacker News

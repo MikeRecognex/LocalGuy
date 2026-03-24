@@ -11,7 +11,7 @@ tags:
   - instruction-following
   - llama-cpp
   - model-configuration
-  - performance-tuning
+  - performance-optimization
   - qwen
   - release
   - sampling-parameters

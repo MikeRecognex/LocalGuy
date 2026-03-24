@@ -29,7 +29,7 @@ tags:
   - memory-optimization
   - numa-optimization
   - offline-deployment
-  - performance-tuning
+  - performance-optimization
   - production-ops
   - semiconductor-engineering
 mentions:

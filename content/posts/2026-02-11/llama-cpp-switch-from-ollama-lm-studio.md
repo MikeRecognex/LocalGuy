@@ -24,7 +24,6 @@ tags:
   - memory-management
   - ollama
   - performance-optimization
-  - performance-tuning
   - software-optimization
 mentions:
   - name: It's FOSS

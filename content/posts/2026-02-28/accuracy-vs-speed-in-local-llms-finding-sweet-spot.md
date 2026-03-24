@@ -15,7 +15,7 @@ tags:
   - neutral
   - optimization
   - performance
-  - performance-tuning
+  - performance-optimization
   - production-deployment
   - quantization
   - tutorial
