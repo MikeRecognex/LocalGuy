@@ -5,6 +5,7 @@ description: Google explores strategic investments and partnerships to compete w
 tags:
   - ai-accelerator-development
   - chips
+  - cloud-independence
   - cost-saving
   - cpu-inference
   - custom-asic
@@ -19,7 +20,6 @@ tags:
   - local-deployment
   - market-competition
   - on-device-inference-economics
-  - vendor-lock-in
 mentions:
   - name: Wall Street Journal
     role: publisher

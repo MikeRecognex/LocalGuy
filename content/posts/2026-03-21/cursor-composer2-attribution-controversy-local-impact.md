@@ -7,6 +7,7 @@ tags:
   - bullish
   - cautious
   - closed-source-transparency
+  - cloud-independence
   - cursor
   - developer
   - ethics
@@ -22,7 +23,6 @@ tags:
   - open-source
   - open-source-licensing
   - proprietary-models
-  - vendor-lock-in
 mentions:
   - name: Elon Musk
   - name: Cursor

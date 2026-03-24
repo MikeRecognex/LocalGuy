@@ -5,6 +5,7 @@ description: Community observation that Anthropic's commitment to closed-source 
 tags:
   - anthropic
   - cautious
+  - cloud-independence
   - fine-tuning
   - local-deployment-strategy
   - local-inference
@@ -14,7 +15,6 @@ tags:
   - quantization
   - strategy
   - tokenizer-architecture
-  - vendor-lock-in
 mentions:
   - name: Reddit
     role: platform

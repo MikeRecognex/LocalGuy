@@ -6,6 +6,7 @@ tags:
   - analysis
   - beginner-friendly
   - bullish
+  - cloud-independence
   - cost-analysis
   - cost-saving
   - data-privacy
@@ -20,7 +21,6 @@ tags:
   - open-source
   - opinion
   - self-hosted
-  - vendor-lock-in
 mentions:
   - name: MSN
     role: publisher

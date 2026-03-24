@@ -7,6 +7,7 @@ tags:
   - amd
   - amd-optimization
   - apple-silicon
+  - cloud-independence
   - consumer-gpu
   - copilot-plus
   - copilot-plus-integration
@@ -22,7 +23,6 @@ tags:
   - on-device-ai-legitimacy
   - on-device-inference
   - release
-  - vendor-lock-in
   - windows
   - windows-ai
 status: published

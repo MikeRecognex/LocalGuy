@@ -3,6 +3,7 @@ title: Huawei's SuperPoD Portfolio Creates New Option for Global Computing at MW
 date: 2026-03-01
 description: Huawei announces infrastructure solutions for distributed, on-premises computing, offering an alternative to cloud-dependent AI deployment models for enterprise self-hosted inference.
 tags:
+  - cloud-independence
   - data-sovereignty
   - distributed-ai
   - distributed-inference
@@ -16,7 +17,6 @@ tags:
   - open-source
   - release
   - self-hosted
-  - vendor-lock-in
 mentions:
   - name: The Malaysian Reserve
     role: publisher
