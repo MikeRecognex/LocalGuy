@@ -18,7 +18,7 @@ tags:
   - performance-optimization
   - performance-parity
   - quantization
-  - self-hosted-deployment
+  - self-hosted
 mentions:
   - name: r/LocalLLaMA
     role: publisher

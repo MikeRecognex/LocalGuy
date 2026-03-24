@@ -23,7 +23,7 @@ tags:
   - prompting
   - prompting-strategies
   - quantization-strategies
-  - self-hosted-deployment
+  - self-hosted
   - tutorial
 mentions:
   - name: MSN

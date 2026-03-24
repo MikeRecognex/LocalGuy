@@ -19,7 +19,6 @@ tags:
   - production-deployment
   - production-ops
   - self-hosted
-  - self-hosted-ai
   - tutorial
   - vllm
 mentions:

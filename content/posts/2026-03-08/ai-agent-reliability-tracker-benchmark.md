@@ -17,7 +17,7 @@ tags:
   - princeton
   - princeton-university
   - rag-systems
-  - self-hosting
+  - self-hosted
 mentions:
   - name: Princeton
     role: researcher

@@ -17,7 +17,7 @@ tags:
   - real-time-inference
   - retail
   - retail-ai-integration
-  - self-hosted-inference
+  - self-hosted
   - use-cases
 mentions:
   - name: Trend Hunter

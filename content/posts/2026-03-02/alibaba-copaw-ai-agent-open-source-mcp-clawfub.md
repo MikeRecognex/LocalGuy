@@ -19,7 +19,7 @@ tags:
   - open-source
   - open-source-ai
   - release
-  - self-hosted-ai
+  - self-hosted
   - tool-use
 status: published
 ---

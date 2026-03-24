@@ -15,7 +15,7 @@ tags:
   - model-quantization
   - open-source
   - open-source-llms
-  - self-hosted-inference
+  - self-hosted
 status: published
 ---
 

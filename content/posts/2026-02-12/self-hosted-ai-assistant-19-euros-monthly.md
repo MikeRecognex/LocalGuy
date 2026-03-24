@@ -15,7 +15,6 @@ tags:
   - performance-benchmarking
   - personal-ai-assistant
   - self-hosted
-  - self-hosting
   - troubleshooting
   - tutorial
   - voice-assistant

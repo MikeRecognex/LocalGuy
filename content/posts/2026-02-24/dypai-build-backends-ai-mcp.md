@@ -15,7 +15,7 @@ tags:
   - model-context-protocol
   - model-optimization
   - open-source
-  - self-hosted-ai
+  - self-hosted
   - tooling
 mentions:
   - name: Dypai

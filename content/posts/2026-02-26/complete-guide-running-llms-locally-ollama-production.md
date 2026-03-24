@@ -27,7 +27,7 @@ tags:
   - performance-optimization
   - production
   - production-deployment
-  - self-hosted-ai
+  - self-hosted
   - sitepoint
   - system-reliability
   - tutorial

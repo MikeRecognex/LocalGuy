@@ -23,7 +23,7 @@ tags:
   - open-source-llms
   - privacy
   - quantization
-  - self-hosting
+  - self-hosted
   - server-hardware
   - vram-optimization
 mentions:

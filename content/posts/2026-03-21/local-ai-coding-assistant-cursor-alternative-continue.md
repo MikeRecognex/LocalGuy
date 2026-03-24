@@ -24,7 +24,7 @@ tags:
   - local-coding-assistant
   - ollama
   - ollama-deployment
-  - self-hosting
+  - self-hosted
   - sitepoint
   - tooling
   - tutorial

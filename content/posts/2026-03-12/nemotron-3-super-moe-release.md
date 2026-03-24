@@ -18,7 +18,7 @@ tags:
   - open-source-models
   - quantisation
   - release
-  - self-hosting
+  - self-hosted
 status: published
 ---
 

@@ -27,8 +27,6 @@ tags:
   - production-ops
   - scalable-deployment
   - self-hosted
-  - self-hosted-ai
-  - self-hosted-inference
   - sitepoint
   - tutorial
 mentions:

@@ -18,7 +18,7 @@ tags:
   - open-source
   - open-source-ai
   - release
-  - self-hosted-ai
+  - self-hosted
   - vendor-lock-in
 mentions:
   - name: Financial Times

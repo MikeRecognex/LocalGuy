@@ -16,7 +16,7 @@ tags:
   - open-source
   - privacy-compliance
   - scalable-multi-agent-systems
-  - self-hosting
+  - self-hosted
 mentions:
   - name: Bots of WallStreet
     role: project

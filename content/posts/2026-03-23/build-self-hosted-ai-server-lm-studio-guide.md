@@ -19,7 +19,6 @@ tags:
   - performance-tuning
   - production-deployment
   - self-hosted
-  - self-hosted-ai
   - self-hosted-ai-server
   - tutorial
   - ytechb

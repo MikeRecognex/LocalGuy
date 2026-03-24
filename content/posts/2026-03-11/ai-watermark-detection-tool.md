@@ -15,7 +15,7 @@ tags:
   - model-analysis
   - neutral
   - open-source
-  - self-hosting
+  - self-hosted
   - tools
   - watermark-detection
 mentions:

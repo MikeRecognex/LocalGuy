@@ -17,7 +17,7 @@ tags:
   - local-inference
   - local-inference-tools
   - open-source
-  - self-hosted-ai
+  - self-hosted
   - self-hosted-llm
   - showcase
   - wsl-deployment

@@ -27,8 +27,7 @@ tags:
   - open-source
   - persistent-memory
   - release
-  - self-hosted-ai
-  - self-hosted-inference
+  - self-hosted
   - showcase
   - sqlite-integration
   - stateful-agent-deployment

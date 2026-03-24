@@ -22,8 +22,8 @@ tags:
   - open-source-models
   - privacy
   - proprietary-models
+  - self-hosted
   - self-hosted-llms
-  - self-hosting
   - uncompensated-data-training
   - uncompensated-data-use
 mentions:

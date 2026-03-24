@@ -27,7 +27,7 @@ tags:
   - rag
   - rag-pipeline
   - resource-optimization
-  - self-hosted-ai
+  - self-hosted
   - sitepoint
   - sqlite-vector-search
   - tutorial

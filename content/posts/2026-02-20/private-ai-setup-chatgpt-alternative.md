@@ -32,7 +32,6 @@ tags:
   - privacy-compliance
   - production-ops
   - self-hosted
-  - self-hosting
   - showcase
 mentions:
   - name: MakeUseOf

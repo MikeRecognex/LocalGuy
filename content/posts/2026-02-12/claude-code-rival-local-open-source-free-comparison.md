@@ -19,7 +19,6 @@ tags:
   - privacy
   - privacy-compliance
   - self-hosted
-  - self-hosting
 mentions:
   - name: ZDNET
     role: publisher

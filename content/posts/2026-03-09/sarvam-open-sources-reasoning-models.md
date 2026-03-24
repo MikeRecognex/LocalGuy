@@ -25,7 +25,7 @@ tags:
   - reasoning-workloads
   - release
   - sarvam
-  - self-hosting
+  - self-hosted
 mentions:
   - name: Sarvam
     role: AI lab

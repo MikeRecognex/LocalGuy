@@ -20,7 +20,6 @@ tags:
   - open-source
   - release
   - self-hosted
-  - self-hosted-ai
 mentions:
   - name: r/LocalLLaMA
     role: source

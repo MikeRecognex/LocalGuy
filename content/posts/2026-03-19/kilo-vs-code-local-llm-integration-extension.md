@@ -19,7 +19,7 @@ tags:
   - local-llm-integration
   - msn
   - open-source
-  - self-hosted-ai
+  - self-hosted
   - self-hosted-llms
   - showcase
   - tooling

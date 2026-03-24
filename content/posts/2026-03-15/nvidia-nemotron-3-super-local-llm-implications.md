@@ -17,7 +17,7 @@ tags:
   - open-source
   - production-deployment
   - release
-  - self-hosting
+  - self-hosted
   - signalbloomai
 mentions:
   - name: SignalBloom.ai

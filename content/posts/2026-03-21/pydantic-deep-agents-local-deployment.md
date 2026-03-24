@@ -26,7 +26,7 @@ tags:
   - pydantic
   - pydantic-agents
   - release
-  - self-hosting
+  - self-hosted
   - structured-output
   - tutorial
   - type-safety

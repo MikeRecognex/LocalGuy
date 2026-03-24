@@ -23,7 +23,6 @@ tags:
   - paperless-ngx
   - privacy-compliance
   - self-hosted
-  - self-hosted-inference
   - self-hosted-llms
   - showcase
   - system-integration

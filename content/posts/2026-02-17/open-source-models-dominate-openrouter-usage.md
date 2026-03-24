@@ -20,7 +20,6 @@ tags:
   - open-source-llms
   - production-ops
   - self-hosted
-  - self-hosting
   - vllm
 mentions:
   - name: OpenRouter

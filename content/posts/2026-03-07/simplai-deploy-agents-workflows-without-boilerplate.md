@@ -15,7 +15,7 @@ tags:
   - local-llm-deployment-security
   - local-llm-development
   - operational-efficiency
-  - self-hosting
+  - self-hosted
   - simplai
   - simplified-deployment
   - software-architecture

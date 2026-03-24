@@ -15,7 +15,7 @@ tags:
   - open-source
   - open-source-ai
   - persistent-memory
-  - self-hosted-ai
+  - self-hosted
   - stateful-agents
 mentions:
   - name: mem9-ai

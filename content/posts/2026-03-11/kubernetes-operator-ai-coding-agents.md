@@ -21,7 +21,7 @@ tags:
   - orchestration
   - private-infrastructure-deployment
   - self-building-agents
-  - self-hosted-ai
+  - self-hosted
   - vendor-lock-in-avoidance
 mentions:
   - name: Hacker News

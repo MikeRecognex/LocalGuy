@@ -16,7 +16,6 @@ tags:
   - openwebui
   - research-ai
   - self-hosted
-  - self-hosted-ai
 mentions:
   - name: Marios Adamidis
     handle: "@MariosAdamidis"

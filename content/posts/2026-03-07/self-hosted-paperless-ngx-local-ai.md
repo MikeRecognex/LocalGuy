@@ -9,13 +9,12 @@ tags:
   - document-processing
   - local-ai-integration
   - local-inference
+  - ngx-local-ai
   - open-source
   - open-source-tools
   - practical-guide
   - self-hosted
-  - self-hosting
   - tutorial
-  - ngx-local-ai
 mentions:
   - name: Adafruit
     role: publisher

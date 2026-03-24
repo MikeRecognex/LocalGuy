@@ -12,7 +12,7 @@ tags:
   - integration
   - local-model-integration
   - open-source
-  - self-hosted-deployment
+  - self-hosted
   - tools
 mentions:
   - name: Hacker News

@@ -18,7 +18,7 @@ tags:
   - open-source
   - open-source-ai-platform
   - release
-  - self-hosting
+  - self-hosted
   - vendor-lock-in-avoidance
   - web-ide
 status: published

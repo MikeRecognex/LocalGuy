@@ -38,8 +38,6 @@ tags:
   - resource-constrained-deployment
   - resource-optimization
   - self-hosted
-  - self-hosted-ai
-  - self-hosted-inference
   - whalesbook
 mentions:
   - name: Mirai

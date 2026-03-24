@@ -16,7 +16,6 @@ tags:
   - open-source
   - production-deployment
   - self-hosted
-  - self-hosted-deployment
   - vendor-lock-in-avoidance
 mentions:
   - name: Hacker News

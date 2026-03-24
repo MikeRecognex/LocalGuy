@@ -19,8 +19,8 @@ tags:
   - practical-deployment
   - privacy
   - privacy-compliance
+  - self-hosted
   - self-hosted-llms
-  - self-hosting
   - tutorial
   - workflow-automation
 mentions:

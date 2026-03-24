@@ -25,7 +25,6 @@ tags:
   - on-device-inference
   - prompt-engineering
   - self-hosted
-  - self-hosted-deployment
   - tokenization
   - tokenization-issues
   - training

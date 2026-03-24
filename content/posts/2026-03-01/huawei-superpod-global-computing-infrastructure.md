@@ -15,7 +15,7 @@ tags:
   - on-premises-deployment
   - open-source-tooling
   - release
-  - self-hosted-inference
+  - self-hosted
   - vendor-lock-in
 mentions:
   - name: The Malaysian Reserve

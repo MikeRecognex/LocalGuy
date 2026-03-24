@@ -20,7 +20,6 @@ tags:
   - privacy-compliance
   - regional-ai-development
   - self-hosted
-  - self-hosting
 mentions:
   - name: Hacker News
     role: publisher

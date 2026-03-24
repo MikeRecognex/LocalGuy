@@ -22,7 +22,6 @@ tags:
   - opinion
   - privacy
   - self-hosted
-  - self-hosting
   - vendor-lock-in
 mentions:
   - name: MSN

@@ -18,7 +18,6 @@ tags:
   - secure-inference
   - security
   - self-hosted
-  - self-hosting
   - self-hosting-security
   - tool-deployment
 mentions:

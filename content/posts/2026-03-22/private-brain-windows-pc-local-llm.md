@@ -23,7 +23,7 @@ tags:
   - practical-deployment
   - privacy
   - privacy-compliance
-  - self-hosted-ai
+  - self-hosted
   - tutorial
   - windows
   - windows-deployment

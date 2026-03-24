@@ -20,7 +20,7 @@ tags:
   - low-latency-inference
   - makeuseof
   - privacy
-  - self-hosting
+  - self-hosted
   - use-cases
 mentions:
   - name: MakeUseOf

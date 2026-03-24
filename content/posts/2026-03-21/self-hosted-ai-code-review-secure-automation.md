@@ -23,7 +23,7 @@ tags:
   - security
   - security-auditing
   - security-automation
-  - self-hosted-ai
+  - self-hosted
   - self-hosted-ai-code-review
   - sitepoint
   - tutorial

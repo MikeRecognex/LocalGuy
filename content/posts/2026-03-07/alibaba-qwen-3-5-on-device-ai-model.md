@@ -18,7 +18,7 @@ tags:
   - qwen
   - qwen-3-5
   - release
-  - self-hosting
+  - self-hosted
 status: published
 ---
 

@@ -25,7 +25,6 @@ tags:
   - privacy-compliance
   - quantisation
   - self-hosted
-  - self-hosting
 mentions:
   - name: Hacker News
     role: platform

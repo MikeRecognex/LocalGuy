@@ -27,7 +27,7 @@ tags:
   - open-source
   - quantisation
   - release
-  - self-hosted-ai
+  - self-hosted
   - tether
   - tethers-qvac
 mentions:

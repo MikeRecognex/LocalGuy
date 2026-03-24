@@ -16,7 +16,7 @@ tags:
   - mlx
   - model-capabilities
   - qwen
-  - self-hosted-ai
+  - self-hosted
   - tool-use
 mentions:
   - name: r/LocalLLaMA
