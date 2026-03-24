@@ -6,6 +6,7 @@ tags:
   - ai-web-development
   - deployment
   - deployment-tooling
+  - developer-tooling
   - development-efficiency
   - framework-integration
   - knowledge-augmentation
@@ -15,7 +16,6 @@ tags:
   - next-js
   - nextjs-development
   - on-device-inference
-  - tooling
 mentions:
   - name: kasin-it
     role: developer

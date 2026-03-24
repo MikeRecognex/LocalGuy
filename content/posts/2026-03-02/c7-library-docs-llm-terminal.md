@@ -10,13 +10,13 @@ tags:
   - cost-saving
   - data-privacy
   - developer-experience
+  - developer-tooling
   - documentation-integration
   - local-inference
   - local-model-utility
   - news
   - offline-llm-use
   - open-source
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

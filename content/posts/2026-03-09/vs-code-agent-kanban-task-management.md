@@ -10,7 +10,7 @@ tags:
   - data-privacy
   - developer
   - developer-productivity
-  - developer-tools
+  - developer-tooling
   - developer-workflow-integration
   - ide-integration
   - intermediate

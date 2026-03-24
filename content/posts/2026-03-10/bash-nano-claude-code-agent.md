@@ -9,6 +9,7 @@ tags:
   - ci-cd-integration
   - code-generation-agent
   - constrained-environments
+  - developer-tooling
   - edge-computing
   - github
   - lightweight-ai-agents
@@ -18,7 +19,6 @@ tags:
   - news
   - open-source
   - shareai-lab
-  - tools
 mentions:
   - name: GitHub
     role: platform

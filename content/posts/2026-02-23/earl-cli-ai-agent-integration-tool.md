@@ -7,11 +7,11 @@ tags:
   - agents
   - cli-abstraction
   - developer-experience
+  - developer-tooling
   - integration
   - local-model-integration
   - open-source
   - self-hosted
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

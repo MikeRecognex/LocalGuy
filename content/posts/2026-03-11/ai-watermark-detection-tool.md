@@ -7,6 +7,7 @@ tags:
   - ai-watermarking
   - compliance-assurance
   - detection
+  - developer-tooling
   - github
   - local-deployment
   - local-development
@@ -15,7 +16,6 @@ tags:
   - news
   - open-source
   - self-hosted
-  - tools
   - watermark-detection
 mentions:
   - name: GitHub

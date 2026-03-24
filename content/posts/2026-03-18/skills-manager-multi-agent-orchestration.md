@@ -14,6 +14,7 @@ tags:
   - bullish
   - data-privacy
   - developer
+  - developer-tooling
   - hybrid-ai-deployment
   - hybrid-model-deployment
   - intermediate
@@ -21,7 +22,6 @@ tags:
   - open-source
   - orchestration
   - showcase
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

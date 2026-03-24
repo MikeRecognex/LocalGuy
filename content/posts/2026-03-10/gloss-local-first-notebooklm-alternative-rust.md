@@ -5,6 +5,7 @@ description: A developer released Gloss, a privacy-focused research workspace fe
 tags:
   - data-governance
   - data-privacy
+  - developer-tooling
   - enterprise
   - hybrid-search
   - local-deployment
@@ -14,7 +15,6 @@ tags:
   - rag
   - rag-pipeline
   - release
-  - tools
 status: published
 ---
 

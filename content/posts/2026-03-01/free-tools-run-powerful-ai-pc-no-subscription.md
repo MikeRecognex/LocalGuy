@@ -7,6 +7,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - data-privacy
+  - developer-tooling
   - ease-of-use
   - hobbyist
   - inference-optimization
@@ -16,7 +17,6 @@ tags:
   - open-source
   - pc-deployment
   - tooling-accessibility
-  - tools
 mentions:
   - name: MakeUseOf
     role: publisher

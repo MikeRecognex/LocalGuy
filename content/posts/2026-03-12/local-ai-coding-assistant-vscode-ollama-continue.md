@@ -10,7 +10,7 @@ tags:
   - consumer-gpu
   - data-privacy
   - developer-productivity
-  - developer-tools
+  - developer-tooling
   - enterprise
   - ide-integration
   - local-ai-development

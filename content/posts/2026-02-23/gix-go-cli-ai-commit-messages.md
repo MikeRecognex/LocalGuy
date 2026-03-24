@@ -8,6 +8,7 @@ tags:
   - cost-saving
   - data-privacy
   - deployment
+  - developer-tooling
   - developer-workflows
   - integration
   - local-inference-adoption
@@ -16,7 +17,6 @@ tags:
   - local-model-integration
   - news
   - open-source
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

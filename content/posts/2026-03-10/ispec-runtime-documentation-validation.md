@@ -8,6 +8,7 @@ tags:
   - api-deployment
   - deployment-platform
   - deployment-reliability
+  - developer-tooling
   - github
   - local-deployment
   - model-validation
@@ -17,7 +18,6 @@ tags:
   - runtime-validation
   - specification-validation
   - system-consistency
-  - tools
 mentions:
   - name: John Fire
     role: creator

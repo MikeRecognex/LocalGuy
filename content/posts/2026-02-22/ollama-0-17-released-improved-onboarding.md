@@ -5,6 +5,7 @@ description: Ollama releases version 0.17 with enhancements to the OpenClaw onbo
 tags:
   - cost-saving
   - developer-onboarding
+  - developer-tooling
   - local-deployment
   - ollama
   - ollama-release
@@ -14,7 +15,6 @@ tags:
   - privacy-sensitive-ai
   - production-deployment
   - release
-  - tooling
 mentions:
   - name: Ollama
     role: tool-provider

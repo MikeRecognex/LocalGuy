@@ -8,6 +8,7 @@ tags:
   - bullish
   - data-privacy
   - developer
+  - developer-tooling
   - enterprise
   - inference-optimization
   - intermediate
@@ -22,7 +23,6 @@ tags:
   - production-deployment
   - rag
   - release
-  - tools
 mentions:
   - name: LM Studio
     role: developer

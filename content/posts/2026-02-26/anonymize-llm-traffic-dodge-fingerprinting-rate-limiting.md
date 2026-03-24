@@ -13,6 +13,7 @@ tags:
   - cost-saving
   - data-privacy
   - developer
+  - developer-tooling
   - enterprise
   - geofencing
   - github
@@ -30,7 +31,6 @@ tags:
   - security
   - security-audit
   - showcase
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

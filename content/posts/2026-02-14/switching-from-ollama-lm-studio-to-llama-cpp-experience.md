@@ -21,7 +21,6 @@ tags:
   - lm-studio
   - local-llm-stack
   - local-llm-tool-comparison
-  - local-llm-tools
   - model-comparison
   - neutral
   - offline-deployment

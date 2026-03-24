@@ -9,7 +9,6 @@ tags:
   - cost-saving
   - data-privacy
   - developer-tooling
-  - developer-tools
   - local-deployment
   - local-llm-alternatives
   - model-comparison

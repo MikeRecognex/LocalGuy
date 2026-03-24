@@ -11,6 +11,7 @@ tags:
   - code-generation-tooling
   - code-review
   - code-review-compliance
+  - developer-tooling
   - enterprise
   - framework
   - human-ai-collaboration
@@ -18,7 +19,6 @@ tags:
   - news
   - open-source
   - self-hosted-llms
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

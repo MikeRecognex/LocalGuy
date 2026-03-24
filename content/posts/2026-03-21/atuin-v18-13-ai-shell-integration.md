@@ -9,7 +9,7 @@ tags:
   - data-privacy
   - desktop-ai-tools
   - developer
-  - developer-tools
+  - developer-tooling
   - intermediate
   - local-deployment
   - local-inference
@@ -22,7 +22,6 @@ tags:
   - showcase
   - terminal-ai-tools
   - terminal-search
-  - tooling
 mentions:
   - name: Atuin
     role: developer

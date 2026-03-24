@@ -8,6 +8,7 @@ tags:
   - containerization
   - dependency-management
   - deployment
+  - developer-tooling
   - docker
   - docker-containerization
   - local-deployment
@@ -16,7 +17,6 @@ tags:
   - multi-component-ai-deployment
   - reproducible-environments
   - resource-constrained-deployment
-  - tools
   - tutorial
 mentions:
   - name: KDnuggets

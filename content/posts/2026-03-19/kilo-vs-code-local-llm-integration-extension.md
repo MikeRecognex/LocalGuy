@@ -11,6 +11,7 @@ tags:
   - developer
   - developer-experience
   - developer-productivity
+  - developer-tooling
   - enterprise
   - inference-optimization
   - intermediate
@@ -22,7 +23,6 @@ tags:
   - self-hosted
   - self-hosted-llms
   - showcase
-  - tooling
   - vs-code
   - vs-code-integration
 mentions:

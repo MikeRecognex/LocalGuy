@@ -3,6 +3,7 @@ title: LMF – LLM Markup Format
 date: 2026-03-11
 description: A new markup format designed specifically for structuring LLM outputs, enabling better integration between local language models and downstream applications that consume their responses.
 tags:
+  - developer-tooling
   - framework
   - llm-integration
   - llm-markup-format
@@ -15,7 +16,6 @@ tags:
   - production-systems
   - structured-output
   - structured-reasoning
-  - tools
 mentions:
   - name: Hacker News
     role: publisher

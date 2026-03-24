@@ -8,6 +8,7 @@ tags:
   - backend-automation
   - backend-infrastructure-management
   - deployment-workflow-automation
+  - developer-tooling
   - llm-tool-use
   - local-deployment
   - mcp
@@ -15,7 +16,6 @@ tags:
   - model-optimization
   - open-source
   - self-hosted
-  - tooling
 mentions:
   - name: Dypai
     role: tool-provider

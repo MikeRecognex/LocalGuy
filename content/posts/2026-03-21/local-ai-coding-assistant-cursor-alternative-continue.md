@@ -15,6 +15,7 @@ tags:
   - cursor
   - data-privacy
   - developer
+  - developer-tooling
   - development
   - enterprise-use-case
   - ide-integration
@@ -26,7 +27,6 @@ tags:
   - ollama-deployment
   - self-hosted
   - sitepoint
-  - tooling
   - tutorial
 mentions:
   - name: Cursor

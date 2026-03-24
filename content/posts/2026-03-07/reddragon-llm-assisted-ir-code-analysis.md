@@ -6,7 +6,6 @@ tags:
   - RedDragon
   - code-analysis
   - developer-tooling
-  - developer-tools
   - enterprise
   - intermediate-representation-analysis
   - llm-assisted-code-analysis

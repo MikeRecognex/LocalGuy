@@ -8,7 +8,7 @@ tags:
   - data-privacy
   - developer
   - developer-productivity
-  - developer-tools
+  - developer-tooling
   - eaglemann
   - intermediate
   - local-commit-generation

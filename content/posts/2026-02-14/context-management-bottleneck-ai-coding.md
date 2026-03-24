@@ -22,7 +22,6 @@ tags:
   - llama-cpp
   - local-coding-assistants
   - local-deployment
-  - local-llm-tools
   - long-context-handling
   - memory-optimization
   - model-scaling

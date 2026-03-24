@@ -9,13 +9,13 @@ tags:
   - ai-regulation
   - compliance
   - compliance-reporting
+  - developer-tooling
   - local-deployment
   - mcp
   - model-context-protocol
   - model-extension
   - production-deployment
   - regulatory-compliance
-  - tooling
 mentions:
   - name: Hacker News
     role: publisher

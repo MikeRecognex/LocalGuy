@@ -9,7 +9,7 @@ tags:
   - cost-saving
   - deployment-strategy
   - developer
-  - developer-tools
+  - developer-tooling
   - hybrid-ai-architectures
   - intermediate
   - llm-tooling
@@ -18,7 +18,6 @@ tags:
   - monitoring
   - news
   - showcase
-  - tools
   - usage-analytics
 mentions:
   - name: Hacker News

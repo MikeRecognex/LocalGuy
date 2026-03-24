@@ -7,7 +7,7 @@ tags:
   - code-assistance
   - code-generation
   - consumer-gpu
-  - developer-tools
+  - developer-tooling
   - domain-specific-ai
   - fine-tuning
   - local-deployment

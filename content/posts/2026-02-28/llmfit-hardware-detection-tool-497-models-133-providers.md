@@ -7,6 +7,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - cpu-inference
+  - developer-tooling
   - hardware
   - hardware-profiling
   - inference-optimization
@@ -15,7 +16,6 @@ tags:
   - model-comparison
   - model-optimization
   - open-source
-  - tools
 status: published
 ---
 

@@ -8,11 +8,11 @@ tags:
   - agents
   - ai-coding-agents
   - deployment
+  - developer-tooling
   - local-deployment
   - news
   - open-source
   - task-management
-  - tools
   - workflow-coordination
 mentions:
   - name: Hacker News

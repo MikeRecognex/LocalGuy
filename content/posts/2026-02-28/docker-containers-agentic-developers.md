@@ -6,6 +6,7 @@ tags:
   - agents
   - containerization
   - deployment
+  - developer-tooling
   - docker
   - docker-containers
   - docker-deployment
@@ -14,7 +15,6 @@ tags:
   - local-inference
   - local-inference-engines
   - reproducible-environments
-  - tools
   - tutorial
 mentions:
   - name: KDnuggets

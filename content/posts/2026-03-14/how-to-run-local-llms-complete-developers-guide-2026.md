@@ -7,13 +7,13 @@ tags:
   - deployment-practices
   - deployment-strategy
   - developer-guide
+  - developer-tooling
   - getting-started
   - llama-cpp-deployment
   - llm-tools
   - local-deployment
   - ollama-deployment
   - sitepoint
-  - tools
   - tutorial
 mentions:
   - name: SitePoint

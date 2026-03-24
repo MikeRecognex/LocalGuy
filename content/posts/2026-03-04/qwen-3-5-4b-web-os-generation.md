@@ -6,7 +6,7 @@ tags:
   - capability
   - code-generation
   - demonstration
-  - developer-tools
+  - developer-tooling
   - edge-computing
   - edge-deployment
   - mobile-device

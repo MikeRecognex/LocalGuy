@@ -6,7 +6,7 @@ tags:
   - bullish
   - deployment-strategy
   - developer
-  - developer-tools
+  - developer-tooling
   - development-workflow
   - ease-of-use
   - inference-configuration
@@ -18,7 +18,6 @@ tags:
   - local-deployment
   - local-inference
   - local-llm-serving
-  - local-llm-tools
   - model-comparison
   - neutral
   - news
@@ -27,7 +26,6 @@ tags:
   - sitepoint
   - tool-evaluation
   - tool-selection
-  - tools
   - ui-ux
   - workflow-optimization
 mentions:

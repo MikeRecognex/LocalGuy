@@ -8,6 +8,7 @@ tags:
   - developer
   - developer-education
   - developer-experience
+  - developer-tooling
   - education
   - interactive-code-blocks
   - interactive-coding
@@ -18,7 +19,6 @@ tags:
   - performance-optimization
   - showcase
   - technical-learning
-  - tools
 mentions:
   - name: Merrilin.ai
     role: product

@@ -9,7 +9,7 @@ tags:
   - deployment-prototyping
   - developer
   - developer-experience
-  - developer-tools
+  - developer-tooling
   - development-environment
   - framework
   - intermediate

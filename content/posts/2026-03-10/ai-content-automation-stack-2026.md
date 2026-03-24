@@ -7,6 +7,7 @@ tags:
   - benchmarking
   - community-insights
   - content-automation
+  - developer-tooling
   - discussion
   - framework-evaluation
   - hardware
@@ -18,7 +19,6 @@ tags:
   - news
   - open-source
   - quantization
-  - tools
 mentions:
   - name: Hacker News
     role: platform

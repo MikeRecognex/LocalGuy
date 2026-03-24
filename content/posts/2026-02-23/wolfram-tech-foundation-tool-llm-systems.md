@@ -5,6 +5,7 @@ description: Stephen Wolfram outlines integration of Wolfram computational engin
 tags:
   - advanced
   - cloud-independence
+  - developer-tooling
   - hybrid-ai-systems
   - integration
   - llm-tool-integration
@@ -18,7 +19,6 @@ tags:
   - scientific-computation
   - symbolic-reasoning
   - task-delegation
-  - tools
   - verifiable-computation
 mentions:
   - name: Stephen Wolfram

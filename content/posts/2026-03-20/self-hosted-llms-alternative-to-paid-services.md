@@ -10,10 +10,10 @@ tags:
   - cost-saving
   - data-privacy
   - developer
+  - developer-tooling
   - hobbyist
   - intermediate
   - local-llm-adoption
-  - local-llm-tools
   - model-comparison
   - msn
   - news

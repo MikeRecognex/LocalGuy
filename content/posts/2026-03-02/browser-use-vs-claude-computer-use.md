@@ -11,6 +11,7 @@ tags:
   - cpu-inference
   - data-privacy
   - deployment
+  - developer-tooling
   - infrastructure-management
   - latency-optimization
   - local-deployment
@@ -19,7 +20,6 @@ tags:
   - neutral
   - news
   - on-device-inference
-  - tools
 mentions:
   - name: Techstackups
     role: publisher

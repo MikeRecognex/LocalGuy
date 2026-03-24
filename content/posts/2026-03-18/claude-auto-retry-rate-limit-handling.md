@@ -9,6 +9,7 @@ tags:
   - bullish
   - deployment
   - developer
+  - developer-tooling
   - edge-computing
   - edge-deployment
   - edge-device-management
@@ -24,7 +25,6 @@ tags:
   - retry-logic
   - showcase
   - tmux-utility
-  - tools
 status: draft
 ---
 
