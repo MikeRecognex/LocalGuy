@@ -11,7 +11,6 @@ tags:
   - compliance-reporting
   - developer-tooling
   - local-deployment
-  - mcp
   - model-context-protocol
   - model-extension
   - production-deployment

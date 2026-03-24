@@ -12,7 +12,6 @@ tags:
   - local-ai-workflows
   - local-deployment
   - local-llms
-  - mcp
   - mcp-tools
   - model-context-protocol
   - offline-deployment

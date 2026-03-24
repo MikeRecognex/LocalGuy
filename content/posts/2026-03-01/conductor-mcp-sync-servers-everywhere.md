@@ -9,7 +9,6 @@ tags:
   - enterprise
   - infrastructure
   - local-deployment
-  - mcp
   - model-context-protocol
   - open-source
   - operational-efficiency

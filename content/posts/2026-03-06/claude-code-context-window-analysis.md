@@ -10,7 +10,7 @@ tags:
   - benchmarking
   - context-management
   - local-deployment
-  - mcp
+  - model-context-protocol
   - neutral
   - overhead-costs
   - tool-definition-overhead

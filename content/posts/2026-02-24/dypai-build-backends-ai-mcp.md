@@ -11,7 +11,6 @@ tags:
   - developer-tooling
   - llm-tool-use
   - local-deployment
-  - mcp
   - model-context-protocol
   - model-optimization
   - open-source

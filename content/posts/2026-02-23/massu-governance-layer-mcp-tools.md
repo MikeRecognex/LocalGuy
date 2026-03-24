@@ -13,7 +13,6 @@ tags:
   - llm-deployment
   - local-coding-agents
   - local-llm-adoption
-  - mcp
   - model-context-protocol
   - news
   - open-source

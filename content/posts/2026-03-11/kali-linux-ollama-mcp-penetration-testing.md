@@ -14,7 +14,7 @@ tags:
   - kali-linux-integration
   - local-deployment
   - local-llm-use-case
-  - mcp
+  - model-context-protocol
   - news
   - ollama
   - ollama-integration

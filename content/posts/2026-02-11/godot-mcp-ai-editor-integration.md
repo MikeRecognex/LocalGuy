@@ -23,7 +23,6 @@ tags:
   - local-automation
   - local-deployment
   - local-deployment-enhancement
-  - mcp
   - mcp-protocol
   - model-context-protocol
   - news

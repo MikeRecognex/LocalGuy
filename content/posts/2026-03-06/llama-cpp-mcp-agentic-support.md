@@ -9,7 +9,6 @@ tags:
   - api-independence
   - data-management
   - llama-cpp
-  - mcp
   - model-context-protocol
   - news
   - open-source

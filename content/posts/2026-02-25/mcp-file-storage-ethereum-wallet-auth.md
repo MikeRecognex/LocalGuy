@@ -10,7 +10,7 @@ tags:
   - decentralized-infrastructure
   - decentralized-storage
   - local-deployment
-  - mcp
+  - model-context-protocol
   - multi-modal-context-processing
   - offline-capability
   - on-device-agents

@@ -12,7 +12,6 @@ tags:
   - edge-computing
   - edge-deployment
   - local-deployment
-  - mcp
   - model-context-protocol
   - news
   - open-source
