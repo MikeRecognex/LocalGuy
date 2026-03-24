@@ -16,8 +16,8 @@ tags:
   - javascript-bindings
   - local-deployment
   - local-inference
-  - local-llm
   - local-llm-ecosystem
+  - local-llms
   - news
   - ollama
   - ollama-integration

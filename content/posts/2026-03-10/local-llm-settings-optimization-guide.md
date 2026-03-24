@@ -7,8 +7,8 @@ tags:
   - cost-saving
   - inference-optimization
   - local-deployment
-  - local-llm
   - local-llm-configuration
+  - local-llms
   - memory-optimization
   - model-tuning
   - performance-optimization

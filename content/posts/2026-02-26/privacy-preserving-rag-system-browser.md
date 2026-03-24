@@ -16,7 +16,7 @@ tags:
   - developer
   - intermediate
   - local-inference
-  - local-llm
+  - local-llms
   - local-rag
   - news
   - on-device-inference

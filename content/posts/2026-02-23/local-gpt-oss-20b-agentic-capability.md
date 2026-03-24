@@ -11,7 +11,7 @@ tags:
   - data-privacy
   - hardware-optimization
   - local-inference
-  - local-llm
+  - local-llms
   - model-optimization
   - model-size
   - news

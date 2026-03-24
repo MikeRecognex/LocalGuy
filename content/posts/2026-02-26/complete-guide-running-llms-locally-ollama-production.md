@@ -15,7 +15,7 @@ tags:
   - intermediate
   - llm-deployment
   - local-deployment
-  - local-llm
+  - local-llms
   - news
   - ollama
   - ollama-deployment
