@@ -16,7 +16,6 @@ tags:
   - news
   - open-source
   - reasoning
-  - reasoning-models
   - release
   - sarvam
 mentions:

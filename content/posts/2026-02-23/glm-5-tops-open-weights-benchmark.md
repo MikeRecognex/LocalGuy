@@ -14,7 +14,7 @@ tags:
   - neutral
   - news
   - open-source
-  - reasoning-tasks
+  - reasoning
 status: published
 ---
 

@@ -12,7 +12,6 @@ tags:
   - edge-deployment
   - hybrid-ai-systems
   - hybrid-inference
-  - iterative-reasoning
   - iterative-reasoning-failure
   - model-architecture
   - model-architecture-limitations
@@ -21,6 +20,7 @@ tags:
   - offline-deployment
   - on-device-inference
   - prompt-engineering
+  - reasoning
   - self-hosted
   - tokenization
   - tokenization-issues

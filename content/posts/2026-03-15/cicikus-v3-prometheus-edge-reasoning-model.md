@@ -16,7 +16,7 @@ tags:
   - on-device-inference
   - pthinc
   - quantization
-  - reasoning-capabilities
+  - reasoning
   - release
 mentions:
   - name: pthinc

@@ -16,7 +16,7 @@ tags:
   - information-synthesis
   - local-deployment
   - qwen
-  - reasoning-capabilities
+  - reasoning
 status: published
 ---
 

@@ -14,7 +14,7 @@ tags:
   - news
   - ollama
   - quantization
-  - reasoning-capabilities
+  - reasoning
   - release
 status: published
 ---

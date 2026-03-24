@@ -16,7 +16,6 @@ tags:
   - developer
   - developer-tooling
   - intermediate
-  - iterative-reasoning
   - language-models
   - llama
   - llama-cpp
@@ -29,13 +28,13 @@ tags:
   - minimax-m25
   - model-availability
   - model-comparison
-  - multi-step-reasoning
   - neutral
   - new-model-release
   - news
   - offline-deployment
   - ollama
   - quantization
+  - reasoning
   - release
   - resource-optimization
 mentions:

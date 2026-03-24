@@ -13,10 +13,10 @@ tags:
   - local-model-orchestration
   - mistral
   - multi-step-inference-pipelines
-  - multi-step-reasoning
   - news
   - open-source
   - privacy-enhancement
+  - reasoning
   - tool-use
   - workflow-automation
 status: published

@@ -16,7 +16,7 @@ tags:
   - on-device-inference
   - ouro26b-model
   - quantization
-  - reasoning-tasks
+  - reasoning
   - release
 mentions:
   - name: LocalLLaMA

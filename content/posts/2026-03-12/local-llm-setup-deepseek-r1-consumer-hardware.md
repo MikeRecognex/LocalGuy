@@ -17,7 +17,7 @@ tags:
   - local-deployment
   - local-inference-stack
   - model-optimization
-  - reasoning-models
+  - reasoning
   - sitepoint
   - tutorial
 mentions:

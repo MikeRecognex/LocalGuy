@@ -16,7 +16,6 @@ tags:
   - private-inference
   - quantization
   - reasoning
-  - reasoning-models
   - release
   - sarvam
 mentions:

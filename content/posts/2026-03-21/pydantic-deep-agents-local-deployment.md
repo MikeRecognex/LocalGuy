@@ -17,11 +17,11 @@ tags:
   - guide
   - intermediate
   - local-inference
-  - multi-step-reasoning
   - news
   - open-source
   - pydantic
   - pydantic-agents
+  - reasoning
   - release
   - self-hosted
   - structured-output

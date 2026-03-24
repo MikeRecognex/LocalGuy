@@ -13,7 +13,7 @@ tags:
   - multimodal-edge-ai
   - on-device-inference
   - qwen
-  - reasoning-tasks
+  - reasoning
   - release
   - small-models
   - vision-language-models

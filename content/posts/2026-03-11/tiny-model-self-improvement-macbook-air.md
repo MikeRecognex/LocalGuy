@@ -13,12 +13,12 @@ tags:
   - experiment
   - fine-tuning
   - hardware
-  - iterative-reasoning
   - memory-optimization
   - model-enhancement
   - model-self-improvement
   - news
   - quantization
+  - reasoning
   - researcher
   - resource-constrained-ai
   - rlocalllama

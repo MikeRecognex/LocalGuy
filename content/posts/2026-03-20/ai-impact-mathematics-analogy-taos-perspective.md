@@ -13,7 +13,6 @@ tags:
   - developer
   - inference-optimization
   - intermediate
-  - iterative-reasoning
   - knowledge-work-workflows
   - local-deployment-optimization
   - model-optimization
@@ -22,6 +21,7 @@ tags:
   - open-source
   - optimization
   - personal-knowledge-bases
+  - reasoning
   - research
   - research-methodology
   - researcher

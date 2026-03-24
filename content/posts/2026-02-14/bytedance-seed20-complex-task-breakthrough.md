@@ -24,7 +24,7 @@ tags:
   - news
   - offline-deployment
   - open-source
-  - reasoning-capabilities
+  - reasoning
   - release
   - seed-2
 mentions:

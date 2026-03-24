@@ -20,7 +20,6 @@ tags:
   - qwen
   - qwen-3-5
   - reasoning
-  - reasoning-capabilities
   - rlocalllama
   - showcase
   - task-decomposition

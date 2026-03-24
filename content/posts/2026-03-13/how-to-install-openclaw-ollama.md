@@ -15,7 +15,7 @@ tags:
   - open-source
   - openclaw
   - practical-deployment
-  - reasoning-models
+  - reasoning
   - simplified-deployment
   - tutorial
 mentions:

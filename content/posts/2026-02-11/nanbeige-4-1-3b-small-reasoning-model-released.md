@@ -19,7 +19,7 @@ tags:
   - on-device-inference
   - open-source
   - preference-alignment
-  - reasoning-capabilities
+  - reasoning
   - release
   - resource-constraints
   - resource-efficiency

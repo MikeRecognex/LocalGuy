@@ -11,8 +11,8 @@ tags:
   - news
   - optimization-strategy
   - performance-optimization
+  - reasoning
   - reasoning-budget
-  - reasoning-models
   - reasoning-quality
   - release
   - rlocalllama
