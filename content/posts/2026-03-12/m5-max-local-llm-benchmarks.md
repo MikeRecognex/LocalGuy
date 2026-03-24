@@ -13,8 +13,8 @@ tags:
   - hardware
   - hardware-architecture
   - large-model-inference
+  - local-inference
   - local-inference-deployment
-  - local-llm-inference
   - memory-management
   - memory-optimization
   - performance-comparison

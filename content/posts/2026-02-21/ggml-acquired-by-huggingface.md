@@ -14,8 +14,8 @@ tags:
   - infrastructure
   - llama-cpp
   - llama-cpp-development
+  - local-inference
   - local-llm-ecosystem
-  - local-llm-inference
   - news
   - on-device-inference
   - open-source

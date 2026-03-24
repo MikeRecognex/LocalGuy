@@ -13,7 +13,7 @@ tags:
   - hardware
   - hardware-software-optimization
   - inference-optimization
-  - local-llm-inference
+  - local-inference
   - news
   - nvidia-jetson
   - open-source-models

@@ -12,7 +12,7 @@ tags:
   - daily-digest
   - hardware-software-optimization
   - local-deployment
-  - local-llm-inference
+  - local-inference
   - mac
   - mlx
   - mlx-framework

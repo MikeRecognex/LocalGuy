@@ -16,7 +16,6 @@ tags:
   - hardware
   - linux-kernel-updates
   - local-inference
-  - local-llm-inference
   - news
   - optimization
   - phoronix

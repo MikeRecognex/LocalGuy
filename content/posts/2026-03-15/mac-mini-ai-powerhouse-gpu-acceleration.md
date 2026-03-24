@@ -14,7 +14,6 @@ tags:
   - inference-optimization
   - inference-speed
   - local-inference
-  - local-llm-inference
   - mac-mini-ai
   - macos-integration
   - model-management

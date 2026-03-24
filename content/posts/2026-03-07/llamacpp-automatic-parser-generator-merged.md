@@ -6,7 +6,7 @@ tags:
   - inference-engine
   - inference-reliability
   - llama-cpp
-  - local-inference-optimization
+  - local-inference
   - model-compatibility
   - model-deployment
   - news

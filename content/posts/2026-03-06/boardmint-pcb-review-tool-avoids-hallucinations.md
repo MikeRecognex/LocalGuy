@@ -3,6 +3,7 @@ title: "Show HN: BoardMint – A PCB Review Tool That Avoids AI Hallucinations"
 date: 2026-03-06
 description: BoardMint demonstrates practical application of AI systems designed to minimize hallucinations in technical domains. The tool shows how local AI models can provide reliable, grounded assistance for hardware design tasks.
 tags:
+  - BoardMint
   - agents
   - custom-post-processing
   - domain-specific-llms
@@ -12,12 +13,11 @@ tags:
   - hardware-design-assistance
   - local-ai-applications
   - local-deployment
-  - local-inference-benefits
+  - local-inference
   - model-grounding
   - open-source
   - practical-applications
   - validation-layers
-  - BoardMint
 mentions:
   - name: Hacker News
     role: publisher

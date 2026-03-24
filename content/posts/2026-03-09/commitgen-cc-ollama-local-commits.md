@@ -15,8 +15,8 @@ tags:
   - intermediate
   - local-commit-generation
   - local-deployment
+  - local-inference
   - local-llm-applications
-  - local-llm-inference
   - offline-ai
   - offline-capability
   - offline-development

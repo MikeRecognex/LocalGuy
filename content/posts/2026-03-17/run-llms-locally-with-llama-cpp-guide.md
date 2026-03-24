@@ -19,7 +19,7 @@ tags:
   - intermediate
   - llama-cpp
   - local-deployment
-  - local-inference-optimization
+  - local-inference
   - model-optimization
   - model-quantization
   - quantization

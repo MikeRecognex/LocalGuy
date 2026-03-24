@@ -12,7 +12,7 @@ tags:
   - function-calling
   - google
   - llm-tool-integration
-  - local-llm-inference
+  - local-inference
   - news
   - offline-inference
   - on-device-function-calling

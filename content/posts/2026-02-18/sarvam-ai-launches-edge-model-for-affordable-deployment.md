@@ -12,7 +12,7 @@ tags:
   - edge-device
   - google
   - local-deployment
-  - local-llm-inference
+  - local-inference
   - offline-deployment
   - on-device-inference
   - openai

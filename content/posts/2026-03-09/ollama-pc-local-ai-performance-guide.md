@@ -20,7 +20,7 @@ tags:
   - inference-optimization
   - inference-speed
   - intermediate
-  - local-llm-inference
+  - local-inference
   - msn
   - msncom
   - neutral

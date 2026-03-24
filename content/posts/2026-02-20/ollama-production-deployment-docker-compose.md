@@ -18,7 +18,6 @@ tags:
   - intermediate
   - local-deployment
   - local-inference
-  - local-llm-inference
   - offline-deployment
   - ollama
   - ollama-deployment

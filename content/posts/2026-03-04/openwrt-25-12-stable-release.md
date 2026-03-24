@@ -11,7 +11,7 @@ tags:
   - edge-inference
   - hacker-news
   - hardware
-  - local-llm-inference
+  - local-inference
   - local-semantic-search
   - model-quantization
   - network-content-filtering

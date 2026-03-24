@@ -14,7 +14,6 @@ tags:
   - llama-cpp
   - llama-cpp-configuration
   - local-inference
-  - local-inference-optimization
   - model-optimization
   - model-reliability
   - news

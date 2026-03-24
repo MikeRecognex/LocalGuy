@@ -16,7 +16,7 @@ tags:
   - inference-cost-reduction
   - intermediate
   - local-deployment
-  - local-inference-frameworks
+  - local-inference
   - model-quantization
   - model-release
   - msn

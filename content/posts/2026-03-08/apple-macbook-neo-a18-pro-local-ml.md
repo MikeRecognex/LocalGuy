@@ -11,7 +11,7 @@ tags:
   - edge-inference
   - hardware
   - hardware-limitations
-  - local-llm-inference
+  - local-inference
   - local-model-deployment
   - model-quantization
   - on-device-fine-tuning

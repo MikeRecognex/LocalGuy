@@ -10,7 +10,7 @@ tags:
   - inference-optimization
   - llm-performance
   - local-deployment
-  - local-inference-optimization
+  - local-inference
   - memory-optimization
   - mojo
   - mojo-language

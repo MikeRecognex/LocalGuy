@@ -11,13 +11,13 @@ tags:
   - hardware-aware-deployment
   - inference-acceleration
   - inference-optimization
-  - local-inference-optimization
+  - local-inference
   - model-optimization
   - news
   - pytorch
+  - pytorch-ecosystem
   - pytorch-integration
   - release
-  - pytorch-ecosystem
 mentions:
   - name: IBM Research
     role: developer

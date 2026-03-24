@@ -11,7 +11,7 @@ tags:
   - comparison
   - inference-framework
   - llama-cpp
-  - local-inference-frameworks
+  - local-inference
   - model-evaluation-discrepancies
   - model-evaluation-frameworks
   - neutral

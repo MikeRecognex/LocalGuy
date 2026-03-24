@@ -20,7 +20,6 @@ tags:
   - lm-studio
   - local-deployment
   - local-inference
-  - local-inference-frameworks
   - local-llms
   - minimax
   - minimax-m25

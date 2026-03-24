@@ -13,7 +13,6 @@ tags:
   - laptop-ai-accelerators
   - laptops
   - local-inference
-  - local-inference-frameworks
   - npu
   - performance-benchmark
   - power-efficient-inference

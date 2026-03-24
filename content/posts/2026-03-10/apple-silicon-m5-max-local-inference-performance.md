@@ -15,7 +15,7 @@ tags:
   - inference-frameworks
   - inference-optimization
   - large-model-inference
-  - local-llm-inference
+  - local-inference
   - memory-bandwidth
   - model-deployment
   - news

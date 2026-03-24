@@ -8,7 +8,6 @@ tags:
   - edge-deployment
   - edge-device
   - local-inference
-  - local-inference-frameworks
   - model-viability
   - multimodal
   - multimodal-edge-ai

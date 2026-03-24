@@ -15,7 +15,6 @@ tags:
   - inference-speed
   - intermediate
   - local-inference
-  - local-llm-inference
   - long-context-llms
   - long-context-processing
   - long-context-window

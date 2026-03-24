@@ -12,7 +12,7 @@ tags:
   - enterprise-llm-deployment
   - inference-speed
   - llm-benchmarking
-  - local-inference-benefits
+  - local-inference
   - local-llms
   - market-data-analysis
   - open-source

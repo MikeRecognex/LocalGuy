@@ -13,7 +13,7 @@ tags:
   - edge-optimization
   - embedded-ai
   - hardware-specific-optimization
-  - local-inference-optimization
+  - local-inference
   - minimal-inference-stack
   - minimal-stack
   - optimization

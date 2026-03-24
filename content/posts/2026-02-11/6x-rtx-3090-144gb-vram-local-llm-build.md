@@ -15,7 +15,7 @@ tags:
   - hobbyist
   - home-lab
   - large-model-inference
-  - local-llm-inference
+  - local-inference
   - model-quantization
   - multi-gpu-setup
   - nvidia

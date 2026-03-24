@@ -16,7 +16,6 @@ tags:
   - hardware-standardization
   - laptops
   - local-inference
-  - local-inference-benefits
   - local-inference-trend
   - low-latency-ai
   - market-growth

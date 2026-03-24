@@ -20,7 +20,6 @@ tags:
   - licensing
   - local-deployment
   - local-inference
-  - local-inference-frameworks
   - mistral
   - model-quantization
   - model-release

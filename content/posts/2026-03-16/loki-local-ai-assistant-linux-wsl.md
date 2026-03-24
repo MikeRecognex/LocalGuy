@@ -15,7 +15,6 @@ tags:
   - linux-wsl-deployment
   - local-ai-assistant
   - local-inference
-  - local-inference-optimization
   - local-inference-tools
   - open-source
   - self-hosted-ai

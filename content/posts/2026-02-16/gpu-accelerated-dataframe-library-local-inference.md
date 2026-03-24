@@ -15,7 +15,6 @@ tags:
   - gpu-data-processing
   - inference-optimization
   - local-inference
-  - local-inference-optimization
   - model-fine-tuning
   - offline-deployment
   - production-ops

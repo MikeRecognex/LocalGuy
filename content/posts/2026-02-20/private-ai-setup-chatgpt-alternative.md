@@ -24,7 +24,6 @@ tags:
   - intermediate
   - local-inference
   - local-inference-adoption
-  - local-inference-benefits
   - makeuseof
   - model-optimization
   - offline-deployment

@@ -7,9 +7,9 @@ tags:
   - hardware-accelerator
   - hardware-diversity
   - hardware-software-integration
+  - hyperexcel
   - inference-optimization
   - local-inference
-  - local-inference-optimization
   - lpu
   - lpu-accelerators
   - news
@@ -18,7 +18,6 @@ tags:
   - startup-ecosystem
   - startup-funding
   - technology-scaling
-  - hyperexcel
 mentions:
   - name: HyperExcel
     role: startup

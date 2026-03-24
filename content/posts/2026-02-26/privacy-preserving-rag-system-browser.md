@@ -16,7 +16,7 @@ tags:
   - data-security
   - developer
   - intermediate
-  - local-inference-benefits
+  - local-inference
   - local-llm
   - local-rag
   - on-device-ai
