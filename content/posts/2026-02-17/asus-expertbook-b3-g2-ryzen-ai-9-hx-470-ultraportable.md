@@ -18,7 +18,7 @@ tags:
   - news
   - npu-acceleration
   - offline-deployment
-  - on-device-deployment
+  - on-device-inference
   - portable-hardware
   - production-ops
   - release

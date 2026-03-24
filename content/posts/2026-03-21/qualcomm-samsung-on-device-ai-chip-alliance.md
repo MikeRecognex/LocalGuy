@@ -22,7 +22,6 @@ tags:
   - local-llms
   - mobile
   - news
-  - on-device-ai
   - on-device-inference
   - privacy-preserving-ai
 mentions:

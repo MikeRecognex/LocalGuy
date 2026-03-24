@@ -13,7 +13,7 @@ tags:
   - model-efficiency
   - model-optimization
   - news
-  - on-device-deployment
+  - on-device-inference
   - performance-tuning
   - qwen
   - qwen2-model

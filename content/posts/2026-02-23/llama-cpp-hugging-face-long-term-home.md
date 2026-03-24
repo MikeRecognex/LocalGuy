@@ -12,7 +12,7 @@ tags:
   - model-deployment-tooling
   - model-quantization
   - news
-  - on-device-ai
+  - on-device-inference
   - open-source
   - open-source-project-governance
   - production-deployment

@@ -14,7 +14,7 @@ tags:
   - model-efficiency
   - model-optimization
   - msn
-  - on-device-ai
+  - on-device-inference
   - opinion
   - optimization
   - resource-constrained-ai

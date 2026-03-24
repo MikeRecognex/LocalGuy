@@ -20,7 +20,7 @@ tags:
   - mobile-processor
   - model-optimization
   - neutral
-  - on-device-ai
+  - on-device-inference
   - performance-benchmarking
   - privacy-preserving-ai
   - token-throughput

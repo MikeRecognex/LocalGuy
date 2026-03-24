@@ -20,7 +20,7 @@ tags:
   - model-quantization
   - model-release
   - msn
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - open-source-ai
   - open-source-models

@@ -21,8 +21,6 @@ tags:
   - model-quantization
   - news
   - npu
-  - on-device
-  - on-device-ai
   - on-device-inference
 mentions:
   - name: ITPro

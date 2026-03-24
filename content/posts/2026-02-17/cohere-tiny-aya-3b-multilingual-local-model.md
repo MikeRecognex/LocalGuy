@@ -19,7 +19,7 @@ tags:
   - multilingual-llm
   - multilingual-models
   - offline-deployment
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - release
   - tiny-aya

@@ -19,7 +19,7 @@ tags:
   - neutral
   - news
   - offline-deployment
-  - on-device-ai
+  - on-device-inference
   - power-efficiency
   - release
   - samsung

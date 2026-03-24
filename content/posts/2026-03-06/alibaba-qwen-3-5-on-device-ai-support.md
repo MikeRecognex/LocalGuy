@@ -14,7 +14,7 @@ tags:
   - low-latency-ai
   - model-quantisation
   - model-release
-  - on-device-ai
+  - on-device-inference
   - privacy-preserving-ai
   - qwen
   - release

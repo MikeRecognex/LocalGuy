@@ -15,7 +15,7 @@ tags:
   - mobile-ai-innovation
   - mobile-inference
   - model-compression
-  - on-device-ai
+  - on-device-inference
   - optimization-techniques
 mentions:
   - name: OPPO

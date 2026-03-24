@@ -14,8 +14,7 @@ tags:
   - local-inference
   - market-trends
   - news
-  - on-device
-  - on-device-ai
+  - on-device-inference
   - privacy-compliance
   - privacy-preserving-ai
   - startup

@@ -14,7 +14,7 @@ tags:
   - local-inference
   - msn
   - news
-  - on-device-ai
+  - on-device-inference
   - open-source-llm-deployment
   - privacy-enhancement
 mentions:

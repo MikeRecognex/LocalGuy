@@ -15,7 +15,6 @@ tags:
   - inference-optimization
   - new-deployment-scenarios
   - news
-  - on-device-ai
   - on-device-inference
   - qwen
   - qwen-models

@@ -13,7 +13,7 @@ tags:
   - low-latency
   - model-quantization
   - news
-  - on-device-ai
+  - on-device-inference
   - privacy-compliance
   - qualcomm
   - release

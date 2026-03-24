@@ -19,8 +19,7 @@ tags:
   - multilingual-speech-recognition
   - multimodal-ai
   - news
-  - on-device-ai
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - open-source-speech-models
   - privacy-compliance

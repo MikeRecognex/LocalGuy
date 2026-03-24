@@ -18,7 +18,7 @@ tags:
   - npu
   - npu-accelerated
   - npu-acceleration
-  - on-device-deployment
+  - on-device-inference
   - resource-constrained-deployment
 mentions:
   - name: MSN

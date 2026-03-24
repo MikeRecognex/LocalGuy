@@ -18,7 +18,7 @@ tags:
   - mcp
   - ollama
   - ollama-integration
-  - on-device-ai
+  - on-device-inference
   - production-readiness
   - release
   - security

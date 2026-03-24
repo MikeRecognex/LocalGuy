@@ -32,10 +32,9 @@ tags:
   - local-inference
   - memory-bandwidth
   - memory-bandwidth-optimization
-  - on-device-ai
-  - on-device-deployment
   - on-device-deployment-frameworks
   - on-device-frameworks
+  - on-device-inference
   - open-source
   - performance-optimization
   - power-efficiency

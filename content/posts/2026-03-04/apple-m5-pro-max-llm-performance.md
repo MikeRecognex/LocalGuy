@@ -16,7 +16,7 @@ tags:
   - m5
   - model-deployment
   - news
-  - on-device-ai
+  - on-device-inference
   - performance
   - release
   - user-experience

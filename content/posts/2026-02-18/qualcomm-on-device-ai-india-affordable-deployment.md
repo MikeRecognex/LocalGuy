@@ -17,8 +17,8 @@ tags:
   - mobile-soc
   - news
   - offline-deployment
-  - on-device-ai
   - on-device-ai-infrastructure
+  - on-device-inference
   - privacy
   - privacy-compliance
   - privacy-preserving-ai

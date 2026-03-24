@@ -16,7 +16,7 @@ tags:
   - multi-modal
   - multimodal-applications
   - object-detection
-  - on-device-ai
+  - on-device-inference
   - open-source
   - optical-character-recognition
   - pipeline

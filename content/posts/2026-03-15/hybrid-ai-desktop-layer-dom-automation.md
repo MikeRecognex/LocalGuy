@@ -18,7 +18,7 @@ tags:
   - dom-automation
   - hacker-news
   - local-model-automation
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - workflow-automation
 mentions:

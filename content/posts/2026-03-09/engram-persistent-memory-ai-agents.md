@@ -23,7 +23,7 @@ tags:
   - local-ai-agents
   - local-deployment
   - memory-optimization
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - persistent-memory
   - release

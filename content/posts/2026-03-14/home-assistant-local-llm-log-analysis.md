@@ -12,7 +12,7 @@ tags:
   - local-llm-applications
   - log-analysis
   - msn
-  - on-device-ai
+  - on-device-inference
   - practical-deployment
   - predictive-maintenance
   - smart-home-automation

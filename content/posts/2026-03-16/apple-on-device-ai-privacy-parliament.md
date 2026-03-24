@@ -16,8 +16,7 @@ tags:
   - enterprise
   - intermediate
   - local-inference-privacy
-  - on-device
-  - on-device-ai
+  - on-device-inference
   - open-source-ai
   - open-source-llms
   - privacy

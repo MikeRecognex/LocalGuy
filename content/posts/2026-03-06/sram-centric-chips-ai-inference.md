@@ -14,12 +14,12 @@ tags:
   - memory-bandwidth
   - memory-optimization
   - model-efficiency
-  - on-device-deployment
+  - on-device-inference
   - on-device-llm
   - performance
   - specialized-hardware
-  - sram-architecture
   - sram
+  - sram-architecture
 mentions:
   - name: Hacker News
     role: publisher

@@ -15,8 +15,8 @@ tags:
   - inference-optimization
   - infrastructure
   - news
-  - on-device-ai
   - on-device-ai-adoption
+  - on-device-inference
   - production-deployment
   - semiconductors
   - specialized-hardware

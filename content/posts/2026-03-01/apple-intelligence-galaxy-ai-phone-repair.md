@@ -14,7 +14,7 @@ tags:
   - model-quantization
   - offline-ai
   - offline-inference
-  - on-device-ai
+  - on-device-inference
   - resource-constrained-ai
 mentions:
   - name: The AI Journal

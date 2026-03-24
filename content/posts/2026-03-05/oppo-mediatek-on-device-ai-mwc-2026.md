@@ -22,7 +22,6 @@ tags:
   - mobile-chip
   - model-quantization
   - news
-  - on-device-ai
   - on-device-inference
   - oppo
   - privacy-preserving-ai

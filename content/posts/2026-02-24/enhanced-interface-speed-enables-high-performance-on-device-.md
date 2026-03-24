@@ -12,8 +12,7 @@ tags:
   - mobile-llm-frameworks
   - model-optimization
   - news
-  - on-device
-  - on-device-ai
+  - on-device-inference
   - performance-optimization
   - power-efficiency
   - user-privacy

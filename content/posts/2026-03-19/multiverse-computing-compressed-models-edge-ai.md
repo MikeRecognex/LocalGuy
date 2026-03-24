@@ -18,7 +18,7 @@ tags:
   - model-compression
   - multiverse-computing
   - on-device-ai-ecosystem
-  - on-device-deployment
+  - on-device-inference
   - production-tools
   - quantisation
   - release

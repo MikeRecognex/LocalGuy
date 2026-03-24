@@ -21,7 +21,7 @@ tags:
   - npu
   - npu-hardware
   - npu-integration
-  - on-device-ai
+  - on-device-inference
   - power-efficiency
   - privacy-preserving-ai
   - release

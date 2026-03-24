@@ -11,7 +11,7 @@ tags:
   - model-viability
   - multimodal
   - multimodal-edge-ai
-  - on-device-ai
+  - on-device-inference
   - qwen
   - reasoning-tasks
   - release

@@ -26,7 +26,7 @@ tags:
   - news
   - offline-ai
   - offline-inference
-  - on-device-ai
+  - on-device-inference
   - on-device-learning
   - on-device-personalization
   - open-source

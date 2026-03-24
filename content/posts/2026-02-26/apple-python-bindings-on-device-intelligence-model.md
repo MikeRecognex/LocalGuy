@@ -21,8 +21,7 @@ tags:
   - local-inference
   - model-optimization
   - news
-  - on-device
-  - on-device-ai
+  - on-device-inference
   - on-device-processing
   - privacy-first-inference
   - privacy-preserving-ai

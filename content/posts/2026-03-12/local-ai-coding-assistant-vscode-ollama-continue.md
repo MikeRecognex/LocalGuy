@@ -16,7 +16,7 @@ tags:
   - local-ai-development
   - offline-deployment
   - ollama
-  - on-device-ai
+  - on-device-inference
   - sitepoint
   - tutorial
 mentions:

@@ -19,7 +19,7 @@ tags:
   - local-model-training
   - mobile-ai
   - model-fine-tuning
-  - on-device-ai
+  - on-device-inference
   - on-device-pipelines
   - on-device-training
   - release

@@ -13,10 +13,8 @@ tags:
   - mobile-development
   - mobile-frameworks
   - mobile-llm-optimization
-  - on-device
-  - on-device-ai
   - on-device-ai-benefits
-  - on-device-deployment
+  - on-device-inference
   - privacy-preserving-ai
 mentions:
   - name: The AI Journal

@@ -15,7 +15,6 @@ tags:
   - model-releases
   - model-strategy
   - news
-  - on-device-deployment
   - on-device-inference
   - open-source
   - open-source-llms

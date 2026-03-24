@@ -19,7 +19,7 @@ tags:
   - mobile
   - neutral
   - offline-capabilities
-  - on-device-ai
+  - on-device-inference
 mentions:
   - name: BBN Times
     role: publisher

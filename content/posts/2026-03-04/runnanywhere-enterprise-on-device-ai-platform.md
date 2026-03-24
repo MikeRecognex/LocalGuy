@@ -13,7 +13,7 @@ tags:
   - model-serving
   - multi-platform-deployment
   - offline-ai
-  - on-device-ai
+  - on-device-inference
   - orchestration
   - release
   - resource-optimization

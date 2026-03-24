@@ -14,7 +14,7 @@ tags:
   - local-first-applications
   - model-integration
   - native-application-development
-  - on-device-ai
+  - on-device-inference
   - open-source
   - production-application-development
   - productivity

@@ -28,7 +28,6 @@ tags:
   - multimodal-understanding
   - news
   - offline-deployment
-  - on-device-ai
   - on-device-inference
   - open-source
   - open-source-ai

@@ -24,7 +24,7 @@ tags:
   - neural-processing
   - news
   - npu-acceleration
-  - on-device-ai
+  - on-device-inference
   - performance
   - quantization-strategies
   - snapdragon-soc

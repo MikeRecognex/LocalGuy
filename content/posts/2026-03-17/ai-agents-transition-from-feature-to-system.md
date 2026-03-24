@@ -21,7 +21,6 @@ tags:
   - local-deployment
   - memory-management
   - neutral
-  - on-device-ai
   - on-device-inference
   - open-source
 mentions:

@@ -16,7 +16,6 @@ tags:
   - lima-vm
   - local-agents
   - native-virtualization
-  - on-device-ai
   - on-device-inference
   - open-source
   - privacy-sensitive-applications

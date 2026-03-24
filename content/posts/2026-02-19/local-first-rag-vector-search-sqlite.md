@@ -20,7 +20,6 @@ tags:
   - local-rag
   - offline-deployment
   - offline-inference
-  - on-device-ai
   - on-device-inference
   - on-device-rag
   - privacy

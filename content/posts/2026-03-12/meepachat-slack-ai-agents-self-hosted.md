@@ -12,7 +12,7 @@ tags:
   - hacker-news
   - local-llm-agents
   - multi-agent-systems
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - production-deployment
   - self-hosted

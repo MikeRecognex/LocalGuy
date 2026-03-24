@@ -12,7 +12,6 @@ tags:
   - model-distillation
   - model-quantization
   - offline-capabilities
-  - on-device
   - on-device-constraints
   - on-device-inference
   - privacy-benefits

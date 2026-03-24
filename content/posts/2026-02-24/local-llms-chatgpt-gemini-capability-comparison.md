@@ -14,7 +14,7 @@ tags:
   - local-vs-cloud-llms
   - model-limitations
   - neutral
-  - on-device-deployment
+  - on-device-inference
   - operational-constraints
   - opinion
   - privacy-benefits

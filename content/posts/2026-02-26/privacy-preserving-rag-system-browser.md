@@ -19,7 +19,7 @@ tags:
   - local-inference
   - local-llm
   - local-rag
-  - on-device-ai
+  - on-device-inference
   - on-device-processing
   - on-device-rag
   - performance-optimization

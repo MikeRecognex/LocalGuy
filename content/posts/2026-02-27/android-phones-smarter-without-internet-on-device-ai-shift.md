@@ -17,7 +17,7 @@ tags:
   - offline-capabilities
   - offline-capability
   - offline-inference
-  - on-device-ai
+  - on-device-inference
   - privacy-preserving-ai
 mentions:
   - name: MediaTek

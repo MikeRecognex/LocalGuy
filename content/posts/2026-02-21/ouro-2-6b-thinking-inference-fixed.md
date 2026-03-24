@@ -16,7 +16,7 @@ tags:
   - model-quantization
   - model-release
   - novel-architecture
-  - on-device-deployment
+  - on-device-inference
   - ouro26b-model
   - quantisation
   - reasoning-tasks

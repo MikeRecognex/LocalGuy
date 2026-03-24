@@ -19,8 +19,8 @@ tags:
   - inference-optimization
   - local-inference
   - multi-architecture-optimization
-  - on-device-ai
   - on-device-ai-legitimacy
+  - on-device-inference
   - release
   - vendor-lock-in
   - windows

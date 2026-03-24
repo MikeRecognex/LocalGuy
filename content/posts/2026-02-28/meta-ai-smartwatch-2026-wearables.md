@@ -12,7 +12,7 @@ tags:
   - model-compression
   - model-optimization
   - news
-  - on-device-ai
+  - on-device-inference
   - resource-constrained-ai
   - specialized-architectures
   - wearable-ai-applications

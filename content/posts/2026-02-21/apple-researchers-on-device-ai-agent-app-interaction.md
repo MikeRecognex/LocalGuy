@@ -15,8 +15,8 @@ tags:
   - latency-reduction
   - local-inference
   - news
-  - on-device
   - on-device-ai-agent
+  - on-device-inference
   - on-device-vs-cloud-ai
   - privacy-compliance
   - privacy-preserving-ai

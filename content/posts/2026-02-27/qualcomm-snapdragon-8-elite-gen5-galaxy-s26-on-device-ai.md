@@ -12,8 +12,8 @@ tags:
   - local-deployment
   - mobile
   - mobile-llm-deployment
-  - on-device-ai
   - on-device-ai-adoption
+  - on-device-inference
   - open-source-ai-development
   - performance
   - release

@@ -19,8 +19,8 @@ tags:
   - intermediate
   - local-ai-agents
   - local-first
-  - on-device
   - on-device-execution
+  - on-device-inference
   - openjarvis
   - privacy
   - privacy-preserving-ai

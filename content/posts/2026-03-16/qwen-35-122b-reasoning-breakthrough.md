@@ -14,8 +14,7 @@ tags:
   - edge-device
   - intermediate
   - local-llms
-  - on-device-ai
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - open-source-llms
   - planning-tasks

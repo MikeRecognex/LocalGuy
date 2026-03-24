@@ -14,7 +14,7 @@ tags:
   - mobile-ai
   - mobile-inference
   - news
-  - on-device-ai
+  - on-device-inference
   - privacy-preserving-ai
   - release
   - sk-hynix

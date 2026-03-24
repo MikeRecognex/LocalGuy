@@ -15,7 +15,7 @@ tags:
   - inference-speed-optimization
   - model-compression
   - news
-  - on-device-ai
+  - on-device-inference
   - on-device-llm-execution
   - performance
   - power-efficiency

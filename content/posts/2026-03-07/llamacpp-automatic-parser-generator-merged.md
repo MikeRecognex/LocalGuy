@@ -10,7 +10,7 @@ tags:
   - model-compatibility
   - model-deployment
   - news
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - parser-generation
   - parsing-infrastructure

@@ -19,7 +19,7 @@ tags:
   - model-quantization
   - neutral
   - offline-deployment
-  - on-device-ai
+  - on-device-inference
   - open-source
   - privacy
   - privacy-compliance

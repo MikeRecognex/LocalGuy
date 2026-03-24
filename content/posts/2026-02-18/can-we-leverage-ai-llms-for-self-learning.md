@@ -15,7 +15,7 @@ tags:
   - latency-reduction
   - local-inference
   - offline-deployment
-  - on-device-ai
+  - on-device-inference
   - personal-ai
   - personalized-learning
   - privacy

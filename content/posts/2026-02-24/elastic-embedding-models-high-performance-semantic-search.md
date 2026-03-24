@@ -8,7 +8,7 @@ tags:
   - embeddings
   - local-deployment
   - news
-  - on-device-ai
+  - on-device-inference
   - open-source
   - open-source-ai
   - privacy-compliance

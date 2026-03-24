@@ -10,7 +10,6 @@ tags:
   - model-compression
   - model-efficiency
   - model-quantization
-  - on-device-ai
   - on-device-inference
   - power-efficiency
   - qualcomm

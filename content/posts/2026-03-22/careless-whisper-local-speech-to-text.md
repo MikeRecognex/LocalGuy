@@ -17,7 +17,7 @@ tags:
   - local-speech-to-text
   - multimodal-ai
   - multimodal-llms
-  - on-device-ai
+  - on-device-inference
   - on-device-llms
   - open-source
   - privacy

@@ -25,7 +25,7 @@ tags:
   - local-deployment
   - murbotlabs
   - offline-deployment
-  - on-device-deployment
+  - on-device-inference
   - openclaw
   - production-deployment
   - production-ops

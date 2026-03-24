@@ -15,7 +15,7 @@ tags:
   - model-quantization
   - network-content-filtering
   - offline-inference
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - openwrt
   - openwrt-release

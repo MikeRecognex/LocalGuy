@@ -24,7 +24,7 @@ tags:
   - local-deployment-limitations
   - memory-management
   - neutral
-  - on-device-deployment
+  - on-device-inference
   - privacy-preserving-ai
 mentions:
   - name: Hacker News

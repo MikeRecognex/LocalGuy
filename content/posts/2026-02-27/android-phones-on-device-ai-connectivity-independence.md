@@ -13,7 +13,6 @@ tags:
   - mobile
   - model-quantization
   - offline-ai
-  - on-device-ai
   - on-device-inference
   - platform-evolution
   - privacy

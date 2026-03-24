@@ -10,7 +10,7 @@ tags:
   - local-first-workflows
   - local-llm-workflows
   - local-text-generation-ui
-  - on-device-ai
+  - on-device-inference
   - open-source
   - release
   - text-to-speech-integration

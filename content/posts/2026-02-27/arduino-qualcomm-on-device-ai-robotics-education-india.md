@@ -16,7 +16,7 @@ tags:
   - local-deployment
   - model-optimization
   - news
-  - on-device-ai
+  - on-device-inference
   - quantization
   - robotics
 mentions:

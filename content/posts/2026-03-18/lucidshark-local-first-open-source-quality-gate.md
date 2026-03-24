@@ -17,7 +17,7 @@ tags:
   - local-quality-assurance
   - lucidsharkcom
   - model-validation
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - privacy-preserving-ai
   - production-deployment

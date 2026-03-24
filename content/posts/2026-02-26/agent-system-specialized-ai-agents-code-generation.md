@@ -23,7 +23,7 @@ tags:
   - modular-ai-systems
   - multi-agent-system
   - multi-agent-systems
-  - on-device-ai
+  - on-device-inference
   - open-source
   - orchestration
   - showcase

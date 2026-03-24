@@ -16,8 +16,8 @@ tags:
   - mainstream-adoption
   - market-competition
   - news
-  - on-device-ai
   - on-device-ai-text-generation
+  - on-device-inference
   - privacy-preserving-ai
   - unknown
   - windows

@@ -10,7 +10,6 @@ tags:
   - mobile-ai
   - model-optimization
   - model-quantization
-  - on-device-ai
   - on-device-inference
   - privacy-compliance
   - scam-detection

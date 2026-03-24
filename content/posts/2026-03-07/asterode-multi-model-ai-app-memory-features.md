@@ -15,7 +15,7 @@ tags:
   - multi-model
   - multi-model-deployment
   - multi-model-inference
-  - on-device-ai
+  - on-device-inference
   - open-source
   - performance-optimization
   - resource-constrained-ai

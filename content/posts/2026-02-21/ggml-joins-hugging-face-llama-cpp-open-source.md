@@ -10,7 +10,7 @@ tags:
   - llama-cpp
   - local-llms
   - news
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - open-source-ai
   - open-source-principles

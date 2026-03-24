@@ -19,8 +19,7 @@ tags:
   - model-optimization
   - model-quantization
   - on-device-agents
-  - on-device-ai
-  - on-device-deployment
+  - on-device-inference
   - practical-deployment
   - privacy-preserving-ai
   - release

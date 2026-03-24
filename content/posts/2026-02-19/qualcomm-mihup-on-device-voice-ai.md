@@ -14,7 +14,7 @@ tags:
   - low-latency-processing
   - news
   - offline-deployment
-  - on-device-ai
+  - on-device-inference
   - on-device-voice-ai
   - privacy
   - privacy-compliance

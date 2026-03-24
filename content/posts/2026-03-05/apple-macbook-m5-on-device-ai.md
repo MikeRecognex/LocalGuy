@@ -18,7 +18,7 @@ tags:
   - mlx-framework
   - model-quantization
   - news
-  - on-device-ai
+  - on-device-inference
   - power-efficiency
   - release
 status: published

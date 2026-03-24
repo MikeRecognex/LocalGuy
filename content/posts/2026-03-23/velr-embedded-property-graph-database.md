@@ -19,7 +19,7 @@ tags:
   - local-llms
   - local-storage
   - model-performance
-  - on-device-deployment
+  - on-device-inference
   - rag-pipeline
   - release
   - rust

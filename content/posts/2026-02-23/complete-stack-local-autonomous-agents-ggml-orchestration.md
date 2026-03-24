@@ -13,7 +13,7 @@ tags:
   - inter-agent-communication
   - memory-management
   - model-quantization
-  - on-device-ai
+  - on-device-inference
   - orchestration
   - production-deployment
   - tool-use

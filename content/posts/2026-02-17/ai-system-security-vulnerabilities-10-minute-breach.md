@@ -13,7 +13,7 @@ tags:
   - edge-deployment
   - langgraph
   - local-ai-security
-  - on-device-deployment
+  - on-device-inference
   - production-deployment
   - production-ops
   - security

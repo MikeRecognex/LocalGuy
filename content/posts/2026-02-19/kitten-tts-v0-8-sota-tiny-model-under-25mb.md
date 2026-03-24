@@ -18,7 +18,7 @@ tags:
   - offline-ai
   - offline-deployment
   - ollama
-  - on-device-deployment
+  - on-device-inference
   - open-source
   - open-source-licensing
   - release

@@ -14,7 +14,7 @@ tags:
   - local-llms
   - model-compression
   - news
-  - on-device-ai
+  - on-device-inference
   - optimization
   - privacy-first-ai
   - privacy-preserving-ai

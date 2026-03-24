@@ -12,7 +12,7 @@ tags:
   - model-licensing
   - model-optimization
   - model-release
-  - on-device-ai
+  - on-device-inference
   - open-source
   - privacy-compliance
   - qwen

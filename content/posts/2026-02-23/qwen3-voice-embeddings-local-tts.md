@@ -9,7 +9,7 @@ tags:
   - inference
   - memory-optimization
   - multimodal-ai
-  - on-device-ai
+  - on-device-inference
   - open-source
   - qwen3
   - text-to-speech
