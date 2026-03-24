@@ -7,6 +7,7 @@ tags:
   - cpu-only
   - custom-asic
   - daily-digest
+  - data-privacy
   - edge-device
   - enterprise
   - hardware
@@ -18,7 +19,6 @@ tags:
   - npu-acceleration
   - on-device-inference
   - performance-optimization
-  - privacy-compliance
   - processor-variants
   - release
   - software-ecosystem

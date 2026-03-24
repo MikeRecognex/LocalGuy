@@ -8,6 +8,7 @@ tags:
   - cautious
   - community-ai-development
   - daily-digest
+  - data-privacy
   - data-sovereignty
   - edge-deployment
   - local-deployment
@@ -17,7 +18,6 @@ tags:
   - open-source
   - open-source-ai
   - opinion
-  - privacy-compliance
   - regional-ai-development
   - self-hosted
 mentions:

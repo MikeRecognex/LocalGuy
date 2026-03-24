@@ -21,7 +21,6 @@ tags:
   - open-source-ecosystem
   - open-source-tooling
   - paperless-ngx
-  - privacy-compliance
   - self-hosted
   - self-hosted-llms
   - showcase

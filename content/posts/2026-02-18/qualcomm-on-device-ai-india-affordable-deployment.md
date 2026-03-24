@@ -6,6 +6,7 @@ tags:
   - advanced
   - cloud-decentralization
   - cost-saving
+  - data-privacy
   - developer-tooling
   - edge-ai
   - edge-deployment
@@ -19,9 +20,6 @@ tags:
   - offline-deployment
   - on-device-ai-infrastructure
   - on-device-inference
-  - privacy
-  - privacy-compliance
-  - privacy-preserving-ai
   - qualcomm
   - quantization
   - voice-ai

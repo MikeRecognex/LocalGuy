@@ -4,6 +4,7 @@ date: 2026-03-04
 description: The latest stable release of OpenWrt, the popular open-source router OS, with improvements relevant to edge AI inference on network devices. Enables deployment of lightweight LLMs directly on routers and edge gateways.
 tags:
   - cpu-only
+  - data-privacy
   - edge-ai-inference
   - edge-deployment
   - edge-device
@@ -19,7 +20,6 @@ tags:
   - openwrt
   - openwrt-release
   - optimization
-  - privacy-preserving-ai
   - privacy-preserving-recommendations
   - quantization
   - release

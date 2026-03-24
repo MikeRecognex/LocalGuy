@@ -15,7 +15,6 @@ tags:
   - npu-performance
   - on-device-inference
   - performance-benchmark
-  - privacy-compliance
   - release
 mentions:
   - name: MSN

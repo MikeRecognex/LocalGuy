@@ -6,6 +6,7 @@ tags:
   - consumer-ai
   - consumer-device
   - consumer-gpu
+  - data-privacy
   - edge-ai-adoption
   - edge-device
   - edge-inference
@@ -19,7 +20,6 @@ tags:
   - open-source-models
   - operating-system-integration
   - os-integration
-  - privacy-preserving-ai
   - windows
 status: published
 ---

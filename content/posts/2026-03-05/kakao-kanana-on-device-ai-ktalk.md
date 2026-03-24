@@ -8,6 +8,7 @@ tags:
   - chosuncom
   - consumer-gpu
   - consumer-hardware-deployment
+  - data-privacy
   - edge-ai
   - edge-device
   - edge-inference
@@ -20,7 +21,6 @@ tags:
   - on-device-agents
   - on-device-inference
   - practical-deployment
-  - privacy-preserving-ai
   - quantization
   - release
 mentions:

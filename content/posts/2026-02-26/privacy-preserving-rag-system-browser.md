@@ -23,7 +23,6 @@ tags:
   - on-device-processing
   - on-device-rag
   - performance-optimization
-  - privacy
   - privacy-preserving-rag
   - rag
   - rag-components

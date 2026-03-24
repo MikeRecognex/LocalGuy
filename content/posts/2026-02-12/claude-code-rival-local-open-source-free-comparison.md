@@ -15,8 +15,6 @@ tags:
   - local-llm-alternatives
   - offline-deployment
   - open-source
-  - privacy
-  - privacy-compliance
   - self-hosted
 mentions:
   - name: ZDNET

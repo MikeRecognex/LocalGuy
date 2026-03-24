@@ -26,8 +26,6 @@ tags:
   - local-deployment
   - model-routing
   - neutral
-  - privacy
-  - privacy-compliance
   - rate-limit-circumvention
   - regulatory-compliance
   - security

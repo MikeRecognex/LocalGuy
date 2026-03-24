@@ -7,6 +7,7 @@ tags:
   - business-model
   - consumer-deployment
   - cost-saving
+  - data-privacy
   - edge-ai
   - edge-deployment
   - enterprise
@@ -18,7 +19,6 @@ tags:
   - news
   - on-device-ai-text-generation
   - on-device-inference
-  - privacy-preserving-ai
   - unknown
   - windows
   - windows-integration

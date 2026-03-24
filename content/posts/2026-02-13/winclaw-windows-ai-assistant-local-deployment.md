@@ -13,8 +13,6 @@ tags:
   - offline-deployment
   - open-source
   - open-source-software
-  - privacy
-  - privacy-compliance
   - project-winclaw
   - release
   - windows-ai-assistant

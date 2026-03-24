@@ -3,9 +3,11 @@ title: VibeWhisper – macOS Voice-to-Text with 100% Local Processing Option
 date: 2026-03-03
 description: A new macOS application enables push-to-talk voice transcription with the option to run entirely locally without cloud dependencies. This demonstrates practical integration of speech recognition models for on-device inference.
 tags:
+  - VibeWhisper
   - apple-silicon
   - consumer-gpu
   - cost-saving
+  - data-privacy
   - edge-inference
   - local-llm-integration
   - macos
@@ -13,10 +15,8 @@ tags:
   - model-deployment
   - on-device-inference
   - open-source
-  - privacy-compliance
   - speech-recognition
   - voice-transcription
-  - VibeWhisper
 mentions:
   - name: VibeWhisper
     role: project

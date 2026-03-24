@@ -10,6 +10,7 @@ tags:
   - cost-efficient
   - cost-efficient-ai
   - cpu-only
+  - data-privacy
   - edge-inference
   - frugal-ai
   - hardware
@@ -17,7 +18,6 @@ tags:
   - local-deployment
   - local-inference-strategy
   - on-device-inference
-  - privacy-compliance
   - resource-optimization
 mentions:
   - name: Hindustan Times

@@ -27,8 +27,6 @@ tags:
   - model-optimization
   - offline-deployment
   - ohdoylerulescom
-  - privacy
-  - privacy-compliance
   - tutorial
 mentions:
   - name: Hacker News

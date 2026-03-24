@@ -6,6 +6,7 @@ tags:
   - api-independence
   - consumer-gpu
   - daily-digest
+  - data-privacy
   - datacenter-gpu
   - edge-deployment
   - hardware-optimization
@@ -17,7 +18,6 @@ tags:
   - news
   - open-source
   - open-source-models
-  - privacy-compliance
   - reasoning
   - reasoning-models
   - release

@@ -5,6 +5,7 @@ description: NVIDIA is positioning its Jetson platform as a complete edge deploy
 tags:
   - channellife
   - consumer-gpu
+  - data-privacy
   - edge-deployment
   - edge-device
   - edge-hardware
@@ -16,7 +17,6 @@ tags:
   - news
   - nvidia-jetson
   - open-source-models
-  - privacy-compliance
   - production-deployment
 mentions:
   - name: ChannelLife

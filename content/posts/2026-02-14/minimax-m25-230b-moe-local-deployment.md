@@ -31,9 +31,6 @@ tags:
   - moe-architecture
   - offline-deployment
   - on-device-inference
-  - privacy
-  - privacy-benefits
-  - privacy-compliance
   - quantization
   - release
 status: draft

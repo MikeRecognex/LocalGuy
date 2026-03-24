@@ -4,6 +4,7 @@ date: 2026-03-10
 description: SK Hynix announces the world's first 1c-node LPDDR6 DRAM chip, featuring 33% more data processing power for mobile on-device AI inference with mass production starting in H2 2026.
 tags:
   - advanced
+  - data-privacy
   - edge-ai
   - edge-device
   - hardware
@@ -15,7 +16,6 @@ tags:
   - mobile-inference
   - news
   - on-device-inference
-  - privacy-preserving-ai
   - release
   - sk-hynix
 mentions:

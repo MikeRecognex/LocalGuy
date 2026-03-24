@@ -11,7 +11,6 @@ tags:
   - local-llm-workflows
   - local-rag
   - open-source
-  - privacy
   - rag
   - rag-pipeline
   - release

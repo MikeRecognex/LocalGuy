@@ -5,6 +5,7 @@ description: OPPO and MediaTek demonstrated new on-device AI capabilities for sm
 tags:
   - ai-model-development
   - bullish
+  - data-privacy
   - developer
   - ecosystem-integration
   - edge-ai-frameworks
@@ -23,7 +24,6 @@ tags:
   - news
   - on-device-inference
   - oppo
-  - privacy-preserving-ai
   - quantization
   - showcase
 mentions:

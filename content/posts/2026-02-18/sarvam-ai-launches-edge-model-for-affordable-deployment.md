@@ -16,8 +16,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - openai
-  - privacy
-  - privacy-compliance
   - release
   - resource-optimization
 mentions:

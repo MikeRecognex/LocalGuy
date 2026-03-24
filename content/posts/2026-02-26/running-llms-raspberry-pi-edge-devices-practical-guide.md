@@ -6,6 +6,7 @@ tags:
   - analysis
   - bullish
   - daily-digest
+  - data-privacy
   - developer
   - edge-deployment
   - edge-device
@@ -18,7 +19,6 @@ tags:
   - iot-ai
   - memory-optimization
   - model-optimization
-  - privacy-preserving-ai
   - quantization
   - raspberry-pi
   - sitepoint

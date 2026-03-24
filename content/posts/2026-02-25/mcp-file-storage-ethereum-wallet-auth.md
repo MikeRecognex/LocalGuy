@@ -7,6 +7,7 @@ tags:
   - agents
   - ai-agents
   - blockchain-authentication
+  - data-privacy
   - decentralized-infrastructure
   - decentralized-storage
   - local-deployment
@@ -15,7 +16,6 @@ tags:
   - offline-capability
   - on-device-agents
   - on-device-inference
-  - privacy-compliance
   - storage
   - verifiable-storage
 mentions:

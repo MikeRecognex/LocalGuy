@@ -5,6 +5,7 @@ description: A developer demonstrates building a large-scale RAG (Retrieval-Augm
 tags:
   - advanced
   - chunking-optimization
+  - data-privacy
   - document-processing
   - embedding-generation
   - enterprise
@@ -12,7 +13,6 @@ tags:
   - local-data-processing
   - offline-deployment
   - optimization-techniques
-  - privacy-compliance
   - private-llm-deployment
   - rag
   - rag-chunking

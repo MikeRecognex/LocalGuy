@@ -8,6 +8,7 @@ tags:
   - cloud-independence
   - cost-saving
   - daily-digest
+  - data-privacy
   - developer
   - developer-tooling
   - edge-ai-systems
@@ -20,8 +21,6 @@ tags:
   - model-optimization
   - offline-deployment
   - portable-ai
-  - privacy
-  - privacy-compliance
   - quantization
   - reference-architecture
   - showcase

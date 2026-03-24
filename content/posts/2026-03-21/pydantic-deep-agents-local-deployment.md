@@ -10,6 +10,7 @@ tags:
   - bullish
   - cost-saving
   - daily-digest
+  - data-privacy
   - deep-agent-frameworks
   - deep-agents
   - developer
@@ -22,7 +23,6 @@ tags:
   - local-inference
   - multi-step-reasoning
   - open-source
-  - privacy-compliance
   - pydantic
   - pydantic-agents
   - release

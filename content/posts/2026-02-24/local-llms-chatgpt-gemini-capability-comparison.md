@@ -6,6 +6,7 @@ tags:
   - benchmark
   - comparison
   - cost-saving
+  - data-privacy
   - edge-device
   - evaluation
   - latency-optimization
@@ -16,7 +17,6 @@ tags:
   - on-device-inference
   - operational-constraints
   - opinion
-  - privacy-benefits
   - privacy-sensitive-ai
 mentions:
   - name: Make Tech Easier

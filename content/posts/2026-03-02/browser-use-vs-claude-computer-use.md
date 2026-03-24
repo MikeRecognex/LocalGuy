@@ -12,6 +12,7 @@ tags:
   - consumer-gpu
   - cpu-only
   - daily-digest
+  - data-privacy
   - deployment
   - infrastructure-management
   - latency-optimization
@@ -19,7 +20,6 @@ tags:
   - local-llm-evaluation
   - neutral
   - on-device-inference
-  - privacy-compliance
   - tools
 mentions:
   - name: Techstackups

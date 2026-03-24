@@ -3,6 +3,7 @@ title: Elastic Introduces Best-in-Class Embedding Models for High Performance Se
 date: 2026-02-24
 description: Elastic announces optimized embedding models designed for efficient semantic search, enabling local deployment of vector search capabilities without cloud dependencies.
 tags:
+  - data-privacy
   - edge-device
   - embedding-models
   - embeddings
@@ -11,7 +12,6 @@ tags:
   - on-device-inference
   - open-source
   - open-source-ai
-  - privacy-compliance
   - production-deployment
   - rag
   - rag-pipeline

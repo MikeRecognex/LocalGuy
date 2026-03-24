@@ -22,8 +22,6 @@ tags:
   - on-premises-deployment
   - open-source
   - paperless-ngx
-  - privacy
-  - privacy-compliance
   - production-ops
   - self-hosted
   - self-hosted-llms

@@ -17,8 +17,6 @@ tags:
   - msn
   - open-source
   - practical-deployment
-  - privacy
-  - privacy-compliance
   - self-hosted
   - self-hosted-llms
   - tutorial

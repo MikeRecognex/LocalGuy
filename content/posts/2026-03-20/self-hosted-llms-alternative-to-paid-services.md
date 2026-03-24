@@ -20,7 +20,6 @@ tags:
   - open-source
   - open-source-llms
   - opinion
-  - privacy
   - self-hosted
   - vendor-lock-in
 mentions:

@@ -10,6 +10,7 @@ tags:
   - cloud-agnostic-deployment
   - daily-digest
   - data-governance
+  - data-privacy
   - deployment
   - deployment-patterns
   - edge-device
@@ -20,7 +21,6 @@ tags:
   - internal-software-framework
   - on-device-inference
   - open-source
-  - privacy-preserving-ai
   - project-showcase
   - release
   - rootcx

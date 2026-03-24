@@ -12,6 +12,7 @@ tags:
   - custom-application-development
   - custom-applications
   - daily-digest
+  - data-privacy
   - developer
   - edge-device
   - edge-inference
@@ -24,7 +25,6 @@ tags:
   - on-device-inference
   - on-device-processing
   - privacy-first-inference
-  - privacy-preserving-ai
   - python
   - python-sdk
   - release

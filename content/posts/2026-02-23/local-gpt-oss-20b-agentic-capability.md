@@ -10,13 +10,13 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
+  - data-privacy
   - hardware-optimization
   - local-inference
   - local-llm
   - model-optimization
   - model-size
   - open-source
-  - privacy-compliance
 status: published
 ---
 

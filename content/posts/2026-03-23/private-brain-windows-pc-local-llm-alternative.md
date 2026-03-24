@@ -22,7 +22,6 @@ tags:
   - local-llm-frameworks
   - local-llm-tooling
   - msn
-  - privacy
   - self-hosted
   - showcase
   - windows

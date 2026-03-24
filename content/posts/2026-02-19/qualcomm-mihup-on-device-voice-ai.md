@@ -16,8 +16,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - on-device-voice-ai
-  - privacy
-  - privacy-compliance
   - production-ops
   - qualcomm
   - regulatory-compliance

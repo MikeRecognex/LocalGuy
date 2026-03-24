@@ -6,6 +6,7 @@ tags:
   - applications
   - content-processing
   - content-summarization
+  - data-privacy
   - inference-optimization
   - llm-tools
   - local-inference
@@ -14,7 +15,6 @@ tags:
   - open-source
   - open-source-ai
   - open-source-project
-  - privacy-benefits
   - summarization
 mentions:
   - name: GitHub

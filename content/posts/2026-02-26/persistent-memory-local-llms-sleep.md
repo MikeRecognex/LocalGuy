@@ -31,7 +31,6 @@ tags:
   - open-source
   - persistent-memory
   - personalization
-  - privacy-preserving-ai
   - rag-alternative
   - rlocalllama
   - showcase

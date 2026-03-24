@@ -22,8 +22,6 @@ tags:
   - on-device-execution
   - on-device-inference
   - openjarvis
-  - privacy
-  - privacy-preserving-ai
   - showcase
 mentions:
   - name: Dataconomy

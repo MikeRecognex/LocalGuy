@@ -14,6 +14,7 @@ tags:
   - autonomous-systems
   - cautious
   - daily-digest
+  - data-privacy
   - developer
   - discussion
   - edge-ai-challenges
@@ -25,7 +26,6 @@ tags:
   - memory-optimization
   - neutral
   - on-device-inference
-  - privacy-preserving-ai
 mentions:
   - name: Hacker News
     role: publisher

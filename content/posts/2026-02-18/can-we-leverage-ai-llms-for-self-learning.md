@@ -18,9 +18,6 @@ tags:
   - on-device-inference
   - personal-ai
   - personalized-learning
-  - privacy
-  - privacy-compliance
-  - privacy-preserving-ai
 mentions:
   - name: techne98.com
     role: publisher

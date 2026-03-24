@@ -4,6 +4,7 @@ date: 2026-03-07
 description: Alibaba has released Qwen 3.5, a new AI model designed with on-device inference capabilities. This release expands the ecosystem of locally-deployable models optimized for edge devices and self-hosted environments.
 tags:
   - consumer-gpu
+  - data-privacy
   - edge-ai
   - edge-device
   - edge-inference
@@ -14,7 +15,6 @@ tags:
   - model-release
   - on-device-inference
   - open-source
-  - privacy-compliance
   - qwen
   - qwen-3-5
   - release

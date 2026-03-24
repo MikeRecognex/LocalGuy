@@ -8,6 +8,7 @@ tags:
   - benchmark
   - consumer-gpu
   - cost-saving
+  - data-privacy
   - edge-deployment
   - edge-device
   - gpu-memory-optimization
@@ -16,7 +17,6 @@ tags:
   - model-optimization
   - optimisation
   - performance
-  - privacy-compliance
   - quantization
 mentions:
   - name: SitePoint

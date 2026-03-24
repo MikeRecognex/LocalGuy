@@ -14,8 +14,6 @@ tags:
   - in-database-inference
   - llm-scalability
   - local-inference
-  - privacy
-  - privacy-compliance
   - production-ops
   - scalable-deployment
   - transaction-management

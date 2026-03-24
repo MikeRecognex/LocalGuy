@@ -18,7 +18,6 @@ tags:
   - local-deployment
   - local-llm-applications
   - makeuseof
-  - privacy
   - self-hosted
   - use-cases
 mentions:

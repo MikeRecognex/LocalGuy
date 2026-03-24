@@ -13,7 +13,6 @@ tags:
   - inventory-management-ai
   - model-optimization
   - performance-requirements
-  - privacy-preserving-ai
   - real-time-inference
   - retail
   - retail-ai-integration

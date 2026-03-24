@@ -18,8 +18,6 @@ tags:
   - mcp-tools
   - model-context-protocol
   - offline-deployment
-  - privacy
-  - privacy-compliance
   - reusable-components
   - security
   - tool-integration

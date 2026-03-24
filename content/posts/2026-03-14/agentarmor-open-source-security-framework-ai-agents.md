@@ -8,6 +8,7 @@ tags:
   - agents
   - ai-agent-security
   - cost-saving
+  - data-privacy
   - defense-in-depth
   - deployment
   - enterprise
@@ -15,7 +16,6 @@ tags:
   - local-agent-deployment
   - open-source
   - open-source-ai-security
-  - privacy-compliance
   - prompt-injection-defense
   - security
 mentions:

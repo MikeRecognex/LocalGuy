@@ -20,8 +20,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - open-source
-  - privacy
-  - privacy-compliance
   - quantization
   - self-hosted
 mentions:

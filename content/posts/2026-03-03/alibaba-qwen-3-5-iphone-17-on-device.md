@@ -4,6 +4,7 @@ date: 2026-03-03
 description: Alibaba releases Qwen 3.5, a lightweight AI model optimized for on-device inference on Apple's iPhone 17. This breakthrough demonstrates practical edge deployment of capable language models on consumer mobile hardware.
 tags:
   - apple-silicon
+  - data-privacy
   - edge-ai
   - edge-device
   - edge-inference
@@ -15,7 +16,6 @@ tags:
   - model-optimization
   - offline-deployment
   - on-device-inference
-  - privacy-preserving-ai
   - quantization
   - release
   - resource-efficiency

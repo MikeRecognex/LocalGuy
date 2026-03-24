@@ -4,6 +4,7 @@ date: 2026-03-01
 description: A new open-source RAG system designed for enterprise document processing that runs entirely locally, enabling organizations to implement retrieval-augmented generation without cloud dependencies or data exposure.
 tags:
   - cost-saving
+  - data-privacy
   - domain-specific-ai
   - enterprise
   - enterprise-ai
@@ -12,7 +13,6 @@ tags:
   - local-rag
   - on-premises-deployment
   - open-source
-  - privacy-compliance
   - rag
   - rag-pipeline
 mentions:

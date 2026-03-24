@@ -7,11 +7,11 @@ tags:
   - agents
   - autonomous-agents
   - coding-assistant
+  - data-privacy
   - local-agents
   - local-deployment
   - open-source
   - open-webui
-  - privacy-compliance
   - qwen
   - release
   - rlocalllama

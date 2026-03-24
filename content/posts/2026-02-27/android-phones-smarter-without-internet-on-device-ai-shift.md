@@ -4,6 +4,7 @@ date: 2026-02-27
 description: Exploration of how Android devices are increasingly running AI models natively without internet connectivity, marking a fundamental shift in mobile computing toward true local inference.
 tags:
   - android
+  - data-privacy
   - edge-deployment
   - edge-device
   - edge-inference
@@ -17,7 +18,6 @@ tags:
   - offline-capability
   - offline-deployment
   - on-device-inference
-  - privacy-preserving-ai
   - quantization
 mentions:
   - name: MediaTek

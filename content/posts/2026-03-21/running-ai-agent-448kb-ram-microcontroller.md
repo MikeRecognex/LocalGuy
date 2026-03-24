@@ -7,6 +7,7 @@ tags:
   - analysis
   - bullish
   - daily-digest
+  - data-privacy
   - developer
   - edge-device
   - edge-inference
@@ -18,7 +19,6 @@ tags:
   - microcontroller
   - microcontroller-ai
   - on-device-inference
-  - privacy-preserving-ai
   - quantization
   - resource-constrained-ai
   - resource-constrained-deployment

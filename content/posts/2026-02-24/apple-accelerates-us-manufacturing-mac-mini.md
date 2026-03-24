@@ -6,6 +6,7 @@ tags:
   - apple-silicon
   - apple-silicon-ecosystem
   - cost-saving
+  - data-privacy
   - edge-inference
   - hardware
   - hardware-availability
@@ -15,7 +16,6 @@ tags:
   - mlx-framework
   - news
   - on-device-inference
-  - privacy-compliance
 mentions:
   - name: Hacker News
     role: publisher

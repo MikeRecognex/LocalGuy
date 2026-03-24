@@ -5,6 +5,7 @@ description: Qualcomm unveiled the Snapdragon Wear Elite chip at MWC 2026, bring
 tags:
   - arm-processor
   - daily-digest
+  - data-privacy
   - edge-device
   - edge-inference
   - hardware
@@ -13,7 +14,6 @@ tags:
   - low-latency
   - news
   - on-device-inference
-  - privacy-compliance
   - qualcomm
   - quantization
   - release

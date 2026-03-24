@@ -20,8 +20,6 @@ tags:
   - msn
   - personal-ai-system
   - practical-deployment
-  - privacy
-  - privacy-compliance
   - quantization
   - self-hosted
   - tutorial

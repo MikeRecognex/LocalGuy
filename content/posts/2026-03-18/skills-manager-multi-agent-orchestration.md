@@ -22,7 +22,6 @@ tags:
   - intermediate
   - open-source
   - orchestration
-  - privacy-compliance
   - showcase
   - tools
 mentions:

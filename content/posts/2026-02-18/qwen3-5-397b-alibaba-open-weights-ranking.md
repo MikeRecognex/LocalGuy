@@ -7,6 +7,7 @@ tags:
   - alibaba
   - benchmarks
   - cost-saving
+  - data-privacy
   - enterprise
   - inference-optimization
   - large-model-deployment
@@ -18,7 +19,6 @@ tags:
   - open-source
   - open-source-llms
   - open-source-models
-  - privacy-compliance
   - production-ops
   - release
   - self-hosted

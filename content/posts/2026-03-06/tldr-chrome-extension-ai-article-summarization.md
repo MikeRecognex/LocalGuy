@@ -8,12 +8,12 @@ tags:
   - browser-extension
   - browser-inference
   - client-side-deployment
+  - data-privacy
   - inference-optimization
   - local-llm-applications
   - news
   - open-source
   - practical-tools
-  - privacy-compliance
   - prompt-engineering
   - quantization
   - workflow-integration

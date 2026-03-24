@@ -10,6 +10,7 @@ tags:
   - cost-effectiveness
   - cost-saving
   - cpu-only
+  - data-privacy
   - decentralized-ai
   - edge-ai
   - edge-deployment
@@ -22,9 +23,6 @@ tags:
   - news
   - offline-deployment
   - on-device-inference
-  - privacy
-  - privacy-compliance
-  - privacy-preserving-ai
   - product-pricing
   - release
 mentions:

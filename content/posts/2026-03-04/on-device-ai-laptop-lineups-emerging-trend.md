@@ -25,7 +25,6 @@ tags:
   - offline-deployment
   - on-device-ai-hardware
   - on-device-ai-laptops
-  - privacy-compliance
   - quantization
 status: published
 ---

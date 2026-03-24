@@ -12,6 +12,7 @@ tags:
   - bullish
   - cautious
   - daily-digest
+  - data-privacy
   - developer
   - enterprise
   - intermediate
@@ -19,9 +20,6 @@ tags:
   - on-device-inference
   - open-source-ai
   - open-source-llms
-  - privacy
-  - privacy-compliance
-  - privacy-preserving-ai
   - regulation
   - regulatory-compliance
 mentions:

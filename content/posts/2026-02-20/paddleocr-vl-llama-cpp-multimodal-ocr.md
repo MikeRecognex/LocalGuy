@@ -9,6 +9,7 @@ tags:
   - cost-saving
   - cpu-only
   - daily-digest
+  - data-privacy
   - developer
   - document-processing
   - edge-deployment
@@ -32,7 +33,6 @@ tags:
   - open-source
   - open-source-ai
   - paddleocr
-  - privacy-compliance
   - release
 status: draft
 ---

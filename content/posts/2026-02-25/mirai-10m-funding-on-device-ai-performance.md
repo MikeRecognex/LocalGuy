@@ -5,6 +5,7 @@ description: Mirai has secured $10 million in funding to optimize AI model perfo
 tags:
   - consumer-devices
   - consumer-gpu
+  - data-privacy
   - edge-device
   - funding
   - hardware-optimization
@@ -16,7 +17,6 @@ tags:
   - on-device-inference
   - optimization
   - privacy-first-ai
-  - privacy-preserving-ai
   - quantization
 mentions:
   - name: Mirai

@@ -8,6 +8,7 @@ tags:
   - consumer-gpu-inference
   - consumer-hardware-deployment
   - daily-digest
+  - data-privacy
   - developer
   - edge-deployment
   - edge-device
@@ -20,7 +21,6 @@ tags:
   - model-formats
   - model-release
   - open-source
-  - privacy-preserving-ai
   - quantization
   - qwen
   - release

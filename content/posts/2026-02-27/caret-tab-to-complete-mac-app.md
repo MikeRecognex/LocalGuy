@@ -8,6 +8,7 @@ tags:
   - code-completion
   - consumer-gpu
   - context-switching
+  - data-privacy
   - edge-inference
   - inference-optimization
   - local-deployment
@@ -15,7 +16,6 @@ tags:
   - macos
   - model-optimization
   - on-device-inference
-  - privacy-preserving-ai
   - productivity
   - user-demand
 mentions:

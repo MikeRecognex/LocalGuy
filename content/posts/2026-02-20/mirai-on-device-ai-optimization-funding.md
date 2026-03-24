@@ -9,6 +9,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
+  - data-privacy
   - developer
   - distillation
   - edge-ai
@@ -27,11 +28,8 @@ tags:
   - on-device-ai-optimization
   - on-device-inference-optimization
   - prisma
-  - privacy
-  - privacy-compliance
   - privacy-critical-ai
   - privacy-critical-applications
-  - privacy-preserving-ai
   - production-ops
   - quantization
   - reface

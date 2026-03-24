@@ -8,6 +8,7 @@ tags:
   - ai-safety
   - anthropic
   - cautious
+  - data-privacy
   - local-deployment
   - local-deployment-safety
   - model-comparison
@@ -15,7 +16,6 @@ tags:
   - neutral
   - offline-deployment
   - open-source
-  - privacy-compliance
   - research-report
   - researcher
 mentions:

@@ -6,6 +6,7 @@ tags:
   - ai-ecosystem-growth
   - android
   - android-ai-hardware
+  - data-privacy
   - edge-deployment
   - edge-device
   - edge-inference
@@ -14,8 +15,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - platform-evolution
-  - privacy
-  - privacy-benefits
   - quantization
 mentions:
   - name: NokiaPowerUser

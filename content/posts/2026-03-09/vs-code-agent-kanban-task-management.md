@@ -22,7 +22,6 @@ tags:
   - local-inference-deployment
   - local-llm-workflow-coordination
   - open-source
-  - privacy-compliance
   - showcase
   - task-management
   - vs-code-extension

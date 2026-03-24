@@ -19,8 +19,6 @@ tags:
   - offline-deployment
   - ollama
   - on-device-inference
-  - privacy
-  - privacy-compliance
   - release
   - resource-optimization
 mentions:

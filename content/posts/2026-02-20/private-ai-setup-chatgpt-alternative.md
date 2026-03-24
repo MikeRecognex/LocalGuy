@@ -28,8 +28,6 @@ tags:
   - model-optimization
   - offline-deployment
   - operational-efficiency
-  - privacy
-  - privacy-compliance
   - production-ops
   - self-hosted
   - showcase

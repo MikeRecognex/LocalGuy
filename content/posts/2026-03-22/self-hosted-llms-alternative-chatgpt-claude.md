@@ -21,7 +21,6 @@ tags:
   - msn
   - open-source
   - open-source-llms
-  - privacy
   - quantization
   - self-hosted
   - server-hardware

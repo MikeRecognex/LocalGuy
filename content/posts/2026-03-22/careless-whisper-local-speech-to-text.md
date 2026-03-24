@@ -6,6 +6,7 @@ tags:
   - bullish
   - consumer-gpu
   - daily-digest
+  - data-privacy
   - developer
   - edge-deployment
   - edge-device
@@ -20,8 +21,6 @@ tags:
   - on-device-inference
   - on-device-llms
   - open-source
-  - privacy
-  - privacy-preserving-ai
   - showcase
   - speech-recognition
   - speech-to-text

@@ -28,8 +28,6 @@ tags:
   - model-customization
   - offline-deployment
   - practical-applications
-  - privacy
-  - privacy-compliance
   - real-world-applications
   - showcase
 mentions:

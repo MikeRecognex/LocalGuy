@@ -7,6 +7,7 @@ tags:
   - analysis
   - bullish
   - content-moderation
+  - data-privacy
   - developer
   - edge-device
   - edge-inference
@@ -19,7 +20,6 @@ tags:
   - model-validation
   - on-device-inference
   - open-source
-  - privacy-preserving-ai
   - production-deployment
   - quality-assurance
   - security

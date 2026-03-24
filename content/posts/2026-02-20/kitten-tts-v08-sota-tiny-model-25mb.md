@@ -5,6 +5,7 @@ description: "Kitten ML has released three new open-source expressive TTS models
 tags:
   - bullish
   - daily-digest
+  - data-privacy
   - developer
   - developer-tooling
   - edge-ai
@@ -23,8 +24,6 @@ tags:
   - open-source
   - open-source-ai
   - open-source-models
-  - privacy
-  - privacy-compliance
   - quantization
   - release
   - resource-constrained-ai

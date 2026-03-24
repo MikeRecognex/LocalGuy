@@ -8,6 +8,7 @@ tags:
   - benchmark
   - consumer-cpu
   - consumer-laptop
+  - data-privacy
   - edge-deployment
   - edge-device
   - edge-inference
@@ -21,7 +22,6 @@ tags:
   - neutral
   - on-device-inference
   - performance-benchmarking
-  - privacy-preserving-ai
   - token-throughput
 mentions:
   - name: Hacker News

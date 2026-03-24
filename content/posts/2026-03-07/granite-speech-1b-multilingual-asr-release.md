@@ -6,6 +6,7 @@ tags:
   - bullish
   - cloud-independence
   - compact-models
+  - data-privacy
   - developer
   - edge-device
   - edge-inference
@@ -21,8 +22,6 @@ tags:
   - on-device-inference
   - open-source
   - open-source-speech-models
-  - privacy-compliance
-  - privacy-preserving-ai
   - quantization
   - real-time-transcription
   - release

@@ -4,6 +4,7 @@ date: 2026-02-23
 description: An analysis of how on-device LLM inference is reshaping mobile app development, from privacy and latency benefits to new UX patterns. The article explores practical implications for developers building AI-powered mobile experiences.
 tags:
   - cloud-vs-local-inference
+  - data-privacy
   - edge-device
   - edge-inference
   - mobile
@@ -13,7 +14,6 @@ tags:
   - offline-capabilities
   - on-device-constraints
   - on-device-inference
-  - privacy-benefits
   - quantization
   - user-experience
 mentions:

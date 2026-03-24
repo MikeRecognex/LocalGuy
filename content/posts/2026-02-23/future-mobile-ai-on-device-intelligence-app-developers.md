@@ -5,6 +5,7 @@ description: Analysis of how on-device AI intelligence is reshaping mobile appli
 tags:
   - app-development
   - daily-digest
+  - data-privacy
   - edge-device
   - edge-inference
   - local-llm-features
@@ -15,7 +16,6 @@ tags:
   - mobile-llm-optimization
   - on-device-ai-benefits
   - on-device-inference
-  - privacy-preserving-ai
 mentions:
   - name: The AI Journal
     role: publisher

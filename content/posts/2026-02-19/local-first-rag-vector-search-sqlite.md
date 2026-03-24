@@ -21,8 +21,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - on-device-rag
-  - privacy
-  - privacy-compliance
   - rag
   - rag-pipeline
   - resource-optimization

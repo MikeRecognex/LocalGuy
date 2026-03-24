@@ -4,6 +4,7 @@ date: 2026-02-22
 description: A deep dive into NPU-equipped AI PCs and the privacy implications of on-device inference, clarifying misconceptions about local AI processing capabilities.
 tags:
   - advanced
+  - data-privacy
   - edge-device
   - edge-inference
   - enterprise
@@ -20,7 +21,6 @@ tags:
   - npu-privacy
   - on-device-inference
   - on-device-privacy
-  - privacy
 mentions:
   - name: Techgenyz
     role: publisher

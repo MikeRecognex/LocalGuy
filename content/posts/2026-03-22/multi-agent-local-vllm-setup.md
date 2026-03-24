@@ -11,6 +11,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
+  - data-privacy
   - deployment-guide
   - docker-deployment
   - enterprise
@@ -20,7 +21,6 @@ tags:
   - on-premise-deployment
   - open-source
   - parallel-inference
-  - privacy-preserving-ai
   - showcase
   - vllm
   - vllm-inference

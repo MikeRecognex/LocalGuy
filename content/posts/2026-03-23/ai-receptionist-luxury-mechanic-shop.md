@@ -11,6 +11,7 @@ tags:
   - context-management
   - customer-service-ai
   - daily-digest
+  - data-privacy
   - deployment
   - developer
   - edge-case-handling
@@ -24,7 +25,6 @@ tags:
   - model-selection
   - on-device-inference
   - practical-guide
-  - privacy-compliance
   - production
   - production-llm-deployment
   - system-design

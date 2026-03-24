@@ -9,10 +9,10 @@ tags:
   - context-management
   - cost-saving
   - data-curation
+  - data-privacy
   - knowledge-retrieval
   - local-deployment
   - performance-optimization
-  - privacy-compliance
 mentions:
   - name: Hacker News
     role: publisher

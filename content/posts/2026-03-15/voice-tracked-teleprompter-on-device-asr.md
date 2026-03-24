@@ -14,7 +14,6 @@ tags:
   - local-first-ai
   - on-device-asr
   - open-source
-  - privacy-preserving-ai
   - serverless-ai
   - tutorial
   - voice-tracking

@@ -6,6 +6,7 @@ tags:
   - apple
   - apple-silicon
   - audio-transcription
+  - data-privacy
   - document-processing
   - edge-deployment
   - enterprise
@@ -16,10 +17,7 @@ tags:
   - on-device-inference
   - open-source
   - open-source-ai
-  - privacy
-  - privacy-compliance
   - privacy-first-ai
-  - privacy-preserving-ai
   - professional
   - speech-recognition
   - voice

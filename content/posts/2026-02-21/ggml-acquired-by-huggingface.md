@@ -7,6 +7,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - cpu-only
+  - data-privacy
   - developer-tooling
   - edge-deployment
   - edge-device
@@ -20,7 +21,6 @@ tags:
   - on-device-inference
   - open-source
   - open-source-ai
-  - privacy-compliance
   - quantized-inference
 mentions:
   - name: GGML.AI

@@ -3,6 +3,7 @@ title: "On-Device AI in Mobile Apps: What Should Run on the Phone vs the Cloud (
 date: 2026-02-27
 description: A comprehensive guide for developers deciding which AI workloads to run locally on mobile devices versus offload to cloud infrastructure, with practical considerations for 2026 deployment strategies.
 tags:
+  - data-privacy
   - edge-device
   - edge-inference
   - enterprise
@@ -16,7 +17,6 @@ tags:
   - mobile-hardware-acceleration
   - on-device-inference
   - optimization
-  - privacy-compliance
   - quantization
 status: published
 ---

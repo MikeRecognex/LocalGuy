@@ -12,14 +12,12 @@ tags:
   - cloud-independence
   - cost-saving
   - cpu-only
+  - data-privacy
   - developer
   - edge-inference
   - intermediate
   - local-inference
   - on-device-audio-processing
-  - privacy
-  - privacy-compliance
-  - privacy-preserving-ai
   - quantization
   - real-time-transcription
   - showcase

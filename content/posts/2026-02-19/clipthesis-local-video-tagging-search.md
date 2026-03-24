@@ -13,9 +13,6 @@ tags:
   - multimodal-ai
   - offline-deployment
   - on-device-inference
-  - privacy
-  - privacy-compliance
-  - privacy-preserving-ai
   - professional-user
   - security
   - video-analysis

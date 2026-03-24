@@ -22,7 +22,6 @@ tags:
   - open-source
   - photo-management
   - photoprism
-  - privacy-preserving-ai
 mentions:
   - name: PhotoPrism
     role: application developer

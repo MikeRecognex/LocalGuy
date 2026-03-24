@@ -10,6 +10,7 @@ tags:
   - apple-silicon
   - autonomous-ai
   - consumer-device
+  - data-privacy
   - edge-device
   - edge-inference
   - inference-optimization
@@ -18,8 +19,6 @@ tags:
   - on-device-ai-agent
   - on-device-inference
   - on-device-vs-cloud-ai
-  - privacy-compliance
-  - privacy-preserving-ai
 mentions:
   - name: 9to5Mac
     role: publisher

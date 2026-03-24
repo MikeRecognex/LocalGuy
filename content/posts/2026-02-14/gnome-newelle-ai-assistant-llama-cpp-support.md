@@ -10,6 +10,7 @@ tags:
   - command-execution
   - consumer-gpu
   - cpu-only
+  - data-privacy
   - desktop-ai-assistant
   - desktop-integration
   - developer
@@ -28,8 +29,6 @@ tags:
   - offline-deployment
   - open-source
   - phoronix
-  - privacy
-  - privacy-compliance
   - privacy-focused-inference
   - release
   - showcase

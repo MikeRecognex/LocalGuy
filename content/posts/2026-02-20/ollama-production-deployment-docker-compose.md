@@ -20,8 +20,6 @@ tags:
   - offline-deployment
   - ollama
   - ollama-deployment
-  - privacy
-  - privacy-compliance
   - production-deployment
   - production-ops
   - scalable-deployment

@@ -9,6 +9,7 @@ tags:
   - cautious
   - daily-digest
   - data-governance
+  - data-privacy
   - developer
   - enterprise
   - hacker-news
@@ -20,7 +21,6 @@ tags:
   - medium
   - open-source
   - open-source-models
-  - privacy
   - proprietary-models
   - self-hosted
   - self-hosted-llms

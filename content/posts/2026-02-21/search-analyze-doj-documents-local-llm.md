@@ -5,6 +5,7 @@ description: A practical demonstration of deploying local LLMs for large-scale d
 tags:
   - advanced
   - audit-trails
+  - data-privacy
   - data-sovereignty
   - document-analysis
   - enterprise
@@ -12,8 +13,6 @@ tags:
   - local-deployment
   - offline-deployment
   - open-source
-  - privacy
-  - privacy-preserving-ai
   - rag-pipeline
   - self-hosted-llm
   - use-case

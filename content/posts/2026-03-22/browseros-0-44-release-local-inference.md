@@ -21,9 +21,7 @@ tags:
   - low-latency
   - neowin
   - open-source
-  - privacy
   - privacy-by-design
-  - privacy-preserving-ai
   - quantization
   - release
   - web-applications

@@ -12,8 +12,6 @@ tags:
   - ollama
   - ollama-deployment
   - ollama-security
-  - privacy
-  - privacy-compliance
   - production-deployment
   - production-ops
   - security

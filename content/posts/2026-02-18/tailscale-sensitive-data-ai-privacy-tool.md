@@ -20,8 +20,6 @@ tags:
   - model-optimization
   - offline-deployment
   - openai
-  - privacy
-  - privacy-compliance
   - privacy-control
   - production-ops
   - regulatory-compliance

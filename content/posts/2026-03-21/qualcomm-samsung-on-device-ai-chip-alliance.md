@@ -7,6 +7,7 @@ tags:
   - bullish
   - consumer-device
   - daily-digest
+  - data-privacy
   - developer
   - edge-ai
   - edge-device
@@ -23,7 +24,6 @@ tags:
   - mobile
   - news
   - on-device-inference
-  - privacy-preserving-ai
 mentions:
   - name: kmjournal.net
     role: publisher

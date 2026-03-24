@@ -6,6 +6,7 @@ tags:
   - ai-accelerators
   - consumer-device
   - consumer-hardware
+  - data-privacy
   - data-throughput
   - edge-device
   - edge-inference
@@ -18,7 +19,6 @@ tags:
   - on-device-inference
   - on-device-llm
   - performance
-  - privacy-compliance
   - storage
   - storage-performance
   - ufs-5-0

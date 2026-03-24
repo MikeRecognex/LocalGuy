@@ -3,6 +3,7 @@ title: Mirai Tech Raises $10 Million for On-Device AI Innovation
 date: 2026-02-24
 description: Ukrainian-founded startup Mirai Tech secures significant funding to advance on-device AI technologies, signaling strong market demand and investment in local LLM deployment solutions.
 tags:
+  - data-privacy
   - edge-ai
   - edge-deployment
   - edge-device
@@ -15,8 +16,6 @@ tags:
   - market-trends
   - news
   - on-device-inference
-  - privacy-compliance
-  - privacy-preserving-ai
   - startup
 mentions:
   - name: Mirai Tech

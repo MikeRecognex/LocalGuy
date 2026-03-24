@@ -13,8 +13,6 @@ tags:
   - local-first-security
   - news
   - offline-deployment
-  - privacy
-  - privacy-compliance
   - secure-inference
   - security
   - self-hosted

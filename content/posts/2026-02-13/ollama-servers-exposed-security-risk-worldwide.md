@@ -6,6 +6,7 @@ tags:
   - authentication-vulnerability
   - cautious
   - data-exposure
+  - data-privacy
   - default-configuration-risks
   - exposed-servers
   - local-deployment
@@ -15,7 +16,6 @@ tags:
   - ollama
   - ollama-configuration
   - ollama-security
-  - privacy-compliance
   - production-ops
   - production-security
   - reverse-proxy-authentication

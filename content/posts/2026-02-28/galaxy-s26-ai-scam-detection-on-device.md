@@ -3,6 +3,7 @@ title: Galaxy S26 Debuts AI-Powered Scam Detection in Bold Security Push
 date: 2026-02-28
 description: Samsung's Galaxy S26 implements on-device AI models for real-time scam detection, demonstrating practical deployment of edge inference for security-critical mobile applications.
 tags:
+  - data-privacy
   - edge-device
   - edge-inference
   - latency-optimization
@@ -10,7 +11,6 @@ tags:
   - mobile-ai
   - model-optimization
   - on-device-inference
-  - privacy-compliance
   - quantization
   - scam-detection
   - security

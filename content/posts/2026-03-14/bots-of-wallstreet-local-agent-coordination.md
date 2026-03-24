@@ -7,6 +7,7 @@ tags:
   - agent-orchestration
   - agents
   - bots-of-wallstreet
+  - data-privacy
   - deployment
   - hacker-news
   - latency-optimization
@@ -14,7 +15,6 @@ tags:
   - multi-agent
   - multi-agent-systems
   - open-source
-  - privacy-compliance
   - scalable-multi-agent-systems
   - self-hosted
 mentions:

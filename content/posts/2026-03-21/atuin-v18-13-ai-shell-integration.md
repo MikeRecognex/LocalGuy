@@ -18,7 +18,6 @@ tags:
   - local-integration
   - news
   - open-source
-  - privacy-preserving-ai
   - release
   - shell-ai-integration
   - shell-integration

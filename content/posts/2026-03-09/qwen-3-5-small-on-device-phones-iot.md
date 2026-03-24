@@ -6,6 +6,7 @@ tags:
   - advanced
   - bullish
   - daily-digest
+  - data-privacy
   - developer
   - edge-ai
   - edge-deployment
@@ -20,7 +21,6 @@ tags:
   - offline-deployment
   - on-device-inference
   - open-source
-  - privacy-preserving-ai
   - quantization
   - qwen
   - release

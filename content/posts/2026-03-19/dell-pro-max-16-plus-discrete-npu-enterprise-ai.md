@@ -8,6 +8,7 @@ tags:
   - bullish
   - consumer-npu
   - custom-asic
+  - data-privacy
   - dell
   - edge-device
   - enterprise
@@ -22,7 +23,6 @@ tags:
   - npu-integration
   - on-device-inference
   - power-efficiency
-  - privacy-preserving-ai
   - release
 mentions:
   - name: Dell
