@@ -11,7 +11,7 @@ tags:
   - hardware-profiling
   - inference-optimization
   - local-deployment
-  - memory-management
+  - memory-optimization
   - model-optimization
   - model-selection
   - open-source

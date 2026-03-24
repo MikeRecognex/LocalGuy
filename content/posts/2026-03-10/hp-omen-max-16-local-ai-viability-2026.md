@@ -18,7 +18,7 @@ tags:
   - local-ai-viability
   - local-deployment
   - local-inference
-  - memory-management
+  - memory-optimization
   - neutral
   - performance-testing
   - quantization

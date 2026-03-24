@@ -17,7 +17,7 @@ tags:
   - llama-cpp
   - llama-cpp-optimization
   - local-deployment
-  - memory-management
+  - memory-optimization
   - news
   - numa-performance
   - offline-deployment

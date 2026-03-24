@@ -25,7 +25,7 @@ tags:
   - local-deployment
   - local-llm-tools
   - long-context-handling
-  - memory-management
+  - memory-optimization
   - model-scaling
   - model-scaling-strategy
   - multi-file-context

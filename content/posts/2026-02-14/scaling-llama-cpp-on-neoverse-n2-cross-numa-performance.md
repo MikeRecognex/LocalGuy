@@ -25,7 +25,6 @@ tags:
   - local-inference
   - local-inference-scaling
   - memory-access-patterns
-  - memory-management
   - memory-optimization
   - numa-optimization
   - offline-deployment

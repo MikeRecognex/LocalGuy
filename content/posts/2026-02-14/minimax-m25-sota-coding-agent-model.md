@@ -26,7 +26,6 @@ tags:
   - local-deployment
   - local-development
   - m2-5-model
-  - memory-management
   - memory-optimization
   - minimax
   - minimax-m25

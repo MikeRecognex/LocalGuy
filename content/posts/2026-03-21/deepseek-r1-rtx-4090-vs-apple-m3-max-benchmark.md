@@ -20,7 +20,7 @@ tags:
   - infrastructure-planning
   - intermediate
   - local-deployment
-  - memory-management
+  - memory-optimization
   - neutral
   - performance-benchmarking
   - performance-optimization

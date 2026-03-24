@@ -24,7 +24,6 @@ tags:
   - open-source
   - release
   - rlocalllama
-  - vram-optimization
 mentions:
   - name: r/LocalLLaMA
     role: source

@@ -14,7 +14,7 @@ tags:
   - hardware
   - inference-frameworks
   - local-deployment
-  - memory-management
+  - memory-optimization
   - news
   - open-source
   - os-compatibility

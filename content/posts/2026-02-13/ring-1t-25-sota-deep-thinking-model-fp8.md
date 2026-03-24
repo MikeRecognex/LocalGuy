@@ -19,7 +19,6 @@ tags:
   - intermediate
   - local-deployment
   - local-deployment-efficiency
-  - memory-optimisation
   - memory-optimization
   - multi-step-reasoning
   - offline-deployment

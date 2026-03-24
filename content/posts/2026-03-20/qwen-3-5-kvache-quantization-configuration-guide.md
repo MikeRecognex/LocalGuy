@@ -26,7 +26,6 @@ tags:
   - qwen-models
   - reddit
   - tutorial
-  - vram-optimization
 mentions:
   - name: Reddit
     role: community-platform

@@ -9,7 +9,6 @@ tags:
   - hacker-news
   - local-deployment
   - local-inference
-  - memory-management
   - memory-optimization
   - model-orchestration
   - multi-model

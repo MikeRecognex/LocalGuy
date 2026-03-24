@@ -10,7 +10,7 @@ tags:
   - edge-device
   - hardware-acceleration
   - inference-optimization
-  - memory-management
+  - memory-optimization
   - optimization
   - performance
   - performance-optimization

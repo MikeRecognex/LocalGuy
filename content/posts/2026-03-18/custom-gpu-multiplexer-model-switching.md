@@ -19,6 +19,7 @@ tags:
   - intermediate
   - legacy-hardware
   - legacy-hardware-repurposing
+  - memory-optimization
   - model-hot-swapping
   - model-multiplexing
   - model-switching-latency
@@ -27,7 +28,6 @@ tags:
   - performance-optimization
   - resource-optimization
   - showcase
-  - vram-optimization
 status: draft
 ---
 

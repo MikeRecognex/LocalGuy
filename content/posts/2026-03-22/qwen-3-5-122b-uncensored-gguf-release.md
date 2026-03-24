@@ -15,6 +15,7 @@ tags:
   - intermediate
   - large-model-deployment
   - local-deployment
+  - memory-optimization
   - model-format
   - model-formats
   - model-release
@@ -27,7 +28,6 @@ tags:
   - uncensored-ai
   - uncensored-llm
   - uncensored-models
-  - vram-optimization
 mentions:
   - name: r/LocalLLaMA
     role: community

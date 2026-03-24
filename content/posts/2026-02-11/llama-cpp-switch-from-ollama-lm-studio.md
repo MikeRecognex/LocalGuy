@@ -21,7 +21,7 @@ tags:
   - lm-studio
   - local-deployment
   - local-llm-optimization
-  - memory-management
+  - memory-optimization
   - ollama
   - performance-optimization
   - software-optimization

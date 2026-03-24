@@ -18,6 +18,7 @@ tags:
   - inference-frameworks
   - intermediate
   - local-deployment
+  - memory-optimization
   - msn
   - open-source
   - open-source-llms
@@ -25,7 +26,6 @@ tags:
   - quantization
   - self-hosted
   - server-hardware
-  - vram-optimization
 mentions:
   - name: MSN
     role: publisher

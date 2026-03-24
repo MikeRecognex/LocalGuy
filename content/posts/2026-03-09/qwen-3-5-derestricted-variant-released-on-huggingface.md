@@ -16,6 +16,7 @@ tags:
   - llm-experimentation
   - llm-safety
   - local-deployment
+  - memory-optimization
   - model-release
   - open-source
   - open-source-models
@@ -23,7 +24,6 @@ tags:
   - qwen
   - release
   - rlocalllama
-  - vram-optimization
 mentions:
   - name: ArliAI
     role: publisher

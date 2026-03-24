@@ -11,7 +11,7 @@ tags:
   - edge-inference
   - hardware
   - iot-ai
-  - memory-management
+  - memory-optimization
   - microcontroller
   - microcontroller-deployment
   - model-distillation

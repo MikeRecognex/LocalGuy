@@ -18,6 +18,7 @@ tags:
   - local-deployment
   - local-inference
   - local-llm-experimentation
+  - memory-optimization
   - on-device-inference
   - open-source
   - open-source-models
@@ -27,7 +28,6 @@ tags:
   - rlocalllama
   - showcase
   - tool-calling
-  - vram-optimization
 status: draft
 ---
 

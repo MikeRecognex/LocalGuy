@@ -12,7 +12,7 @@ tags:
   - developer-tooling
   - document-processing
   - local-deployment
-  - memory-management
+  - memory-optimization
   - offline-deployment
   - open-source
   - rag

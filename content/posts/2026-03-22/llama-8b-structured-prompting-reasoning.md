@@ -18,6 +18,7 @@ tags:
   - llama
   - llm-reasoning
   - local-deployment-economics
+  - memory-optimization
   - model-comparison
   - model-optimization
   - multi-hop-question-answering
@@ -29,7 +30,6 @@ tags:
   - reasoning-optimization
   - retrieval-augmented-generation
   - structured-prompting
-  - vram-optimization
 status: draft
 ---
 

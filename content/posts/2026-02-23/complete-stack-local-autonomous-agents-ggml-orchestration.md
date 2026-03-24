@@ -11,7 +11,7 @@ tags:
   - edge-device
   - ggml
   - inter-agent-communication
-  - memory-management
+  - memory-optimization
   - on-device-inference
   - orchestration
   - production-deployment

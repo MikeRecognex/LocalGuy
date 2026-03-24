@@ -15,7 +15,6 @@ tags:
   - large-model-inference
   - local-inference
   - local-inference-deployment
-  - memory-management
   - memory-optimization
   - performance-comparison
   - unified-memory

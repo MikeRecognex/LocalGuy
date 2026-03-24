@@ -11,7 +11,7 @@ tags:
   - hybrid-inference
   - inference-optimization
   - large-model-deployment
-  - memory-management
+  - memory-optimization
   - moe
   - moe-efficiency
   - moe-models

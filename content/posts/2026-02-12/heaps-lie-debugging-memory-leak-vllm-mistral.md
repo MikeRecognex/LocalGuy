@@ -9,8 +9,7 @@ tags:
   - inference-stability
   - long-context-inference
   - long-duration-inference
-  - memory-management
-  - memory-optimisation
+  - memory-optimization
   - mistral
   - neutral
   - production-ops

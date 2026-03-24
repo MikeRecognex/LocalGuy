@@ -15,7 +15,6 @@ tags:
   - intermediate
   - kv-cache-management
   - local-deployment
-  - memory-optimisation
   - memory-optimization
   - model-optimization
   - model-retrofitting

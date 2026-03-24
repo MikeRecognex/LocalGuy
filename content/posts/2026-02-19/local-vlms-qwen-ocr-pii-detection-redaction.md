@@ -12,7 +12,7 @@ tags:
   - enterprise
   - local-vlm
   - local-vlms
-  - memory-optimisation
+  - memory-optimization
   - multimodal
   - neutral
   - offline-deployment

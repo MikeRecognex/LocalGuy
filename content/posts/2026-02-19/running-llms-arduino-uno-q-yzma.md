@@ -8,7 +8,6 @@ tags:
   - edge-device
   - edge-inference
   - local-deployment
-  - memory-optimisation
   - memory-optimization
   - microcontroller-ai
   - model-optimization

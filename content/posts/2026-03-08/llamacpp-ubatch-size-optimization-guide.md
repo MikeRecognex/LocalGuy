@@ -13,7 +13,7 @@ tags:
   - large-model-optimization
   - llama-cpp
   - llama-cpp-optimization
-  - memory-management
+  - memory-optimization
   - optimization
   - performance-optimization
   - prompt-processing-optimization

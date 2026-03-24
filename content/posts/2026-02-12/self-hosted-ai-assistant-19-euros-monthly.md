@@ -8,7 +8,6 @@ tags:
   - cost-saving
   - llm-deployment
   - local-deployment
-  - memory-optimisation
   - memory-optimization
   - neutral
   - offline-deployment

@@ -32,7 +32,7 @@ tags:
   - long-context-window
   - memory-efficiency
   - memory-intensive-workloads
-  - memory-management
+  - memory-optimization
   - memory-utilization
   - model-benchmarking
   - model-comparison

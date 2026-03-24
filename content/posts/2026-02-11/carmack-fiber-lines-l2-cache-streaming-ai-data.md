@@ -13,7 +13,7 @@ tags:
   - memory-bandwidth
   - memory-hardware
   - memory-hierarchy
-  - memory-management
+  - memory-optimization
   - model-size-constraints
   - offline-deployment
   - performance-optimization

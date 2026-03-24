@@ -19,7 +19,7 @@ tags:
   - langchain
   - llamaindex
   - local-deployment
-  - memory-management
+  - memory-optimization
   - neutral
   - on-device-inference
   - open-source

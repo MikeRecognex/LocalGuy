@@ -10,8 +10,7 @@ tags:
   - inference-optimization
   - llm-inference-optimization
   - memory-leak-debugging
-  - memory-management
-  - memory-optimisation
+  - memory-optimization
   - mistral
   - neutral
   - nvidia

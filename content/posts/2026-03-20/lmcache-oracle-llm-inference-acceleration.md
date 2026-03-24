@@ -24,7 +24,6 @@ tags:
   - rag-pipeline
   - resource-optimization
   - vram-efficiency
-  - vram-optimization
 status: draft
 ---
 

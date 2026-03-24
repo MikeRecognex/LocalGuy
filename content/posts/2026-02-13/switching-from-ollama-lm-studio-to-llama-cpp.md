@@ -13,7 +13,7 @@ tags:
   - llm-parameter-tuning
   - lm-studio
   - local-llm-deployment-strategy
-  - memory-management
+  - memory-optimization
   - ollama
   - production-ops
   - resource-optimization

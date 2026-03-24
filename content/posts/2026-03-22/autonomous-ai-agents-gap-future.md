@@ -22,7 +22,7 @@ tags:
   - intermediate
   - local-deployment
   - local-deployment-limitations
-  - memory-management
+  - memory-optimization
   - neutral
   - on-device-inference
   - privacy-preserving-ai

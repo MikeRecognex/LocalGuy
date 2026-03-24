@@ -17,7 +17,6 @@ tags:
   - low-bit-quantization
   - low-precision-training
   - memory-efficiency
-  - memory-optimisation
   - memory-optimization
   - mixture-of-experts
   - model-censorship

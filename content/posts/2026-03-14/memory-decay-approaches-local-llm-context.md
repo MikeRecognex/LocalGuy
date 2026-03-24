@@ -13,7 +13,6 @@ tags:
   - inference-optimization
   - llm-agents
   - local-llm-frameworks
-  - memory-management
   - memory-optimization
   - performance
   - research
