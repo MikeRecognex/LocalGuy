@@ -20,7 +20,6 @@ tags:
   - model-optimization
   - model-quantization
   - offline-deployment
-  - offline-inference
   - portable-ai
   - privacy
   - privacy-compliance

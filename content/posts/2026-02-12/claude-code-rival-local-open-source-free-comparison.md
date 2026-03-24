@@ -14,7 +14,6 @@ tags:
   - local-deployment
   - local-llm-alternatives
   - offline-deployment
-  - offline-inference
   - open-source
   - privacy
   - privacy-compliance

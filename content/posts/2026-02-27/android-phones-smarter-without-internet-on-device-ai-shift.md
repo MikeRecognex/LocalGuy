@@ -16,7 +16,7 @@ tags:
   - news
   - offline-capabilities
   - offline-capability
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - privacy-preserving-ai
 mentions:

@@ -17,8 +17,8 @@ tags:
   - local-deployment
   - local-inference
   - local-llm-applications
-  - offline-ai
   - offline-capability
+  - offline-deployment
   - offline-development
   - ollama
   - open-source

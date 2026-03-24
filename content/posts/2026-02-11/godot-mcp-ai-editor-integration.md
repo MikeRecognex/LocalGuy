@@ -29,7 +29,6 @@ tags:
   - mcp-protocol
   - model-context-protocol
   - news
-  - offline-ai
   - offline-deployment
   - open-source
   - protocol-integration

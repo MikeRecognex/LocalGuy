@@ -16,7 +16,7 @@ tags:
   - mobile
   - mobile-deployment
   - msn
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - open-source
   - production-deployment

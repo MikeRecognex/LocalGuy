@@ -20,7 +20,7 @@ tags:
   - infrastructure-strategy
   - intermediate
   - local-vs-cloud
-  - offline-inference
+  - offline-deployment
   - open-source
   - resource-management
   - strategy

@@ -14,7 +14,7 @@ tags:
   - llm-tool-integration
   - local-inference
   - news
-  - offline-inference
+  - offline-deployment
   - on-device-function-calling
   - open-source
   - release

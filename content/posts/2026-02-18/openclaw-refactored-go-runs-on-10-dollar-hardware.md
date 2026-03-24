@@ -11,7 +11,6 @@ tags:
   - go-programming
   - low-cost-inference
   - minimal-hardware-ai
-  - offline-ai
   - offline-deployment
   - openclaw
   - release

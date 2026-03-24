@@ -10,7 +10,7 @@ tags:
   - enterprise
   - enterprise-ai-applications
   - local-deployment
-  - offline-inference
+  - offline-deployment
   - open-source
   - privacy
   - privacy-preserving-ai

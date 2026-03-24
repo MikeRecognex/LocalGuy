@@ -15,7 +15,7 @@ tags:
   - local-ai-agents
   - local-first-ai
   - local-inference
-  - offline-ai
+  - offline-deployment
   - open-source
   - os-integration
   - os-level-ai

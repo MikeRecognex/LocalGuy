@@ -12,7 +12,7 @@ tags:
   - model-lifecycle-management
   - model-serving
   - multi-platform-deployment
-  - offline-ai
+  - offline-deployment
   - on-device-inference
   - orchestration
   - release

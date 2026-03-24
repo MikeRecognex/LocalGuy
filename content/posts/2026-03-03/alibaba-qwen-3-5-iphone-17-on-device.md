@@ -13,7 +13,7 @@ tags:
   - mobile
   - mobile-ai
   - model-optimization
-  - offline-ai
+  - offline-deployment
   - on-device-inference
   - privacy-preserving-ai
   - quantisation

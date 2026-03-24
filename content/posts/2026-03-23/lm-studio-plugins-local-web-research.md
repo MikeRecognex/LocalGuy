@@ -18,8 +18,7 @@ tags:
   - lm-studio-features
   - local-web-research
   - model-reliability
-  - offline-ai
-  - offline-inference
+  - offline-deployment
   - production-deployment
   - rag
   - release

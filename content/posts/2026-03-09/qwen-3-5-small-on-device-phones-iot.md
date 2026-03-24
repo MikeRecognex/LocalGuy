@@ -18,7 +18,7 @@ tags:
   - mobile-inference
   - model-compression
   - model-optimization
-  - offline-ai
+  - offline-deployment
   - on-device-inference
   - open-source
   - privacy-preserving-ai

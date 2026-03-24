@@ -19,7 +19,7 @@ tags:
   - manufacturing-ai
   - model-optimization
   - model-quantization
-  - offline-ai
+  - offline-deployment
   - practical-deployment
   - real-time-ai
   - unity

@@ -18,7 +18,6 @@ tags:
   - local-deployment
   - local-llm-integration
   - model-compression
-  - offline-ai
   - offline-deployment
   - on-device-speech
   - on-device-speech-synthesis

@@ -10,7 +10,6 @@ tags:
   - hardware-integration
   - home-lab
   - local-ai-systems
-  - offline-ai
   - offline-deployment
   - radio-communication
   - resilience

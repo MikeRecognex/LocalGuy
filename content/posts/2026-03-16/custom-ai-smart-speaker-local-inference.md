@@ -20,7 +20,7 @@ tags:
   - intermediate
   - local-inference
   - local-smart-speakers
-  - offline-ai
+  - offline-deployment
   - openhome
   - privacy-preservation
   - showcase

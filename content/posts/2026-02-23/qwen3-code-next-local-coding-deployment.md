@@ -15,7 +15,7 @@ tags:
   - local-deployment
   - mlx
   - mlx-framework
-  - offline-ai
+  - offline-deployment
   - open-source-llms
   - production-deployment
   - qwen3

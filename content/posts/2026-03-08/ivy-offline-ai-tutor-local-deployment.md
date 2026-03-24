@@ -12,7 +12,7 @@ tags:
   - local-inference
   - local-llms
   - offline-ai-tutor
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - open-source
   - proactive-ai

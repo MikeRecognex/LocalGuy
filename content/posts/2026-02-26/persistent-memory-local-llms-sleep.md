@@ -24,8 +24,7 @@ tags:
   - model-personalization
   - model-weight-modification
   - news
-  - offline-ai
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - on-device-learning
   - on-device-personalization

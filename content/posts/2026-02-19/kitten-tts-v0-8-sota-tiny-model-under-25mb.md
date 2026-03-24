@@ -15,7 +15,6 @@ tags:
   - llama-cpp
   - local-inference
   - model-compression
-  - offline-ai
   - offline-deployment
   - ollama
   - on-device-inference

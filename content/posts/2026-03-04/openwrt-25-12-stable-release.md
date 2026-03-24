@@ -14,7 +14,7 @@ tags:
   - local-semantic-search
   - model-quantization
   - network-content-filtering
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - open-source
   - openwrt

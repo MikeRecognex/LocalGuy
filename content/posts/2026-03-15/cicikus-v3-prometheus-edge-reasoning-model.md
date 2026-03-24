@@ -13,7 +13,7 @@ tags:
   - model-architecture
   - model-merging
   - model-release
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - pthinc
   - quantisation

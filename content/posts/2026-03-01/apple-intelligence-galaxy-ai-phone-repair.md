@@ -12,8 +12,7 @@ tags:
   - mobile-ai-optimization
   - model-distillation
   - model-quantization
-  - offline-ai
-  - offline-inference
+  - offline-deployment
   - on-device-inference
   - resource-constrained-ai
 mentions:

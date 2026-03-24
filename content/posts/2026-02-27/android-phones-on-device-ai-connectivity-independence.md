@@ -12,7 +12,7 @@ tags:
   - local-deployment
   - mobile
   - model-quantization
-  - offline-ai
+  - offline-deployment
   - on-device-inference
   - platform-evolution
   - privacy

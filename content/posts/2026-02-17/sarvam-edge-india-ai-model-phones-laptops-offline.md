@@ -16,7 +16,6 @@ tags:
   - local-inference
   - model-viability
   - news
-  - offline-ai
   - offline-deployment
   - ollama
   - on-device-inference

@@ -23,7 +23,7 @@ tags:
   - model-compression
   - model-optimization
   - news
-  - offline-ai
+  - offline-deployment
   - on-device-ai-hardware
   - on-device-ai-laptops
   - privacy-compliance

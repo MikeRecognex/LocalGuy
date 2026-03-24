@@ -17,7 +17,6 @@ tags:
   - local-llm-applicability
   - model-auditing
   - model-reliability
-  - offline-ai
   - offline-deployment
   - open-source
   - release

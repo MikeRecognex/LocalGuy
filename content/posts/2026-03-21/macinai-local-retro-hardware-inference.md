@@ -16,7 +16,7 @@ tags:
   - intermediate
   - local-only
   - memory-optimization
-  - offline-inference
+  - offline-deployment
   - optimization
   - resource-constrained-inference
   - resource-constrained-optimization
