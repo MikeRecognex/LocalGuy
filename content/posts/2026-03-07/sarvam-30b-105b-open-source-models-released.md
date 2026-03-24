@@ -10,11 +10,11 @@ tags:
   - llm-ecosystem-growth
   - local-deployment
   - model-diversity
-  - model-training
   - open-source
   - open-source-llm
   - release
   - sarvam-ai
+  - training
 mentions:
   - name: Sarvam AI
     role: developer

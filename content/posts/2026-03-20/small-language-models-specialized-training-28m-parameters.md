@@ -22,7 +22,6 @@ tags:
   - model-optimization
   - model-ownership
   - model-size-limits
-  - model-training
   - neutral
   - news
   - open-source
@@ -33,6 +32,7 @@ tags:
   - small-language-models
   - small-models
   - tiny-llms
+  - training
 mentions:
   - name: r/LocalLLaMA
     role: source

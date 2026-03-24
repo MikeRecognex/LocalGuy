@@ -22,7 +22,6 @@ tags:
   - low-cost-model-training
   - low-cost-training
   - model-architecture
-  - model-training
   - model-training-specialization
   - multimodal
   - multimodal-llm

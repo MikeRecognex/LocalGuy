@@ -12,7 +12,6 @@ tags:
   - llama-cpp
   - local-deployment
   - ml-pipeline-automation
-  - model-training
   - open-source
   - training
 status: published
