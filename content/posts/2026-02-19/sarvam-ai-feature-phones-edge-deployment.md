@@ -6,7 +6,6 @@ tags:
   - advanced
   - cost-saving
   - distillation
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - embedded-ai

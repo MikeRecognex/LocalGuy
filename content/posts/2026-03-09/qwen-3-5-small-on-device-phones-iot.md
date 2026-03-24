@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - edge-ai
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - edge-inference

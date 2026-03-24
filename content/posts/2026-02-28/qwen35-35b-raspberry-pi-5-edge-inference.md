@@ -5,7 +5,7 @@ description: Demonstration of Qwen3.5-35B inference on Raspberry Pi 5 (16GB and 
 tags:
   - api-independence
   - arm-processor
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - edge-device-inference
   - edge-inference

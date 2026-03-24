@@ -12,7 +12,7 @@ tags:
   - decentralized-communication
   - developer
   - distributed-llm
-  - edge-ai-deployment
+  - edge-deployment
   - edge-infrastructure
   - enterprise
   - federated-learning

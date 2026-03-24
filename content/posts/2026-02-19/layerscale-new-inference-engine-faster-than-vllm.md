@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - enterprise
   - inference-engine

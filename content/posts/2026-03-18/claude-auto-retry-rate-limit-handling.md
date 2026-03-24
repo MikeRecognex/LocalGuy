@@ -9,8 +9,8 @@ tags:
   - bullish
   - deployment
   - developer
+  - edge-deployment
   - edge-device
-  - edge-device-deployment
   - edge-device-management
   - hacker-news
   - intermediate

@@ -22,7 +22,7 @@ tags:
   - decentralized-payments
   - deployment
   - developer
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - ethereum-l2-base
   - hacker-news

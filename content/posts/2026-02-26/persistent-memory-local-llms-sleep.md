@@ -13,7 +13,7 @@ tags:
   - data-privacy
   - decentralized-ai
   - developer
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - fine-tuning
   - latency-reduction

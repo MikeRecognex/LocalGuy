@@ -12,7 +12,6 @@ tags:
   - data-privacy
   - developer
   - developer-tooling
-  - edge-ai-deployment
   - edge-deployment
   - gpt-oss
   - hugging-face

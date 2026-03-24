@@ -7,7 +7,7 @@ tags:
   - code-generation
   - demonstration
   - developer-tools
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - mobile-device
   - os-generation

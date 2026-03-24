@@ -10,7 +10,6 @@ tags:
   - consumer-hardware
   - daily-digest
   - developer
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - energy-efficiency

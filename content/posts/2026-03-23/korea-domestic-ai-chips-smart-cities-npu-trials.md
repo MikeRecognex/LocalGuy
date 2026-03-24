@@ -13,8 +13,8 @@ tags:
   - developer
   - domestic-ai-chips
   - edge-ai
-  - edge-ai-deployment
   - edge-computing
+  - edge-deployment
   - edge-device
   - edge-inference
   - enterprise

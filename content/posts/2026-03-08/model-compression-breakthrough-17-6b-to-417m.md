@@ -6,7 +6,6 @@ tags:
   - advanced
   - ai-architecture
   - cautious
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - mobile-device

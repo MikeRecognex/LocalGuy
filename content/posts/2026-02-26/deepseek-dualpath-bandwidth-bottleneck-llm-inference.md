@@ -16,7 +16,6 @@ tags:
   - developer
   - dualpath-technique
   - edge-ai
-  - edge-ai-deployment
   - edge-ai-model-deployment
   - edge-deployment
   - edge-device

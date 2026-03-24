@@ -6,8 +6,8 @@ tags:
   - advanced
   - daily-digest
   - edge-computing-applications
+  - edge-deployment
   - edge-device
-  - edge-device-deployment
   - edge-inference
   - hardware
   - iot-ai

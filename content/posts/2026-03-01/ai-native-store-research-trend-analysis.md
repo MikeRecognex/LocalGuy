@@ -6,7 +6,7 @@ tags:
   - applications
   - commercial-applications
   - data-privacy
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - edge-inference
   - enterprise

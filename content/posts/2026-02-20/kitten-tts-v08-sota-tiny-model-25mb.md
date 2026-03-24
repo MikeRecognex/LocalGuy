@@ -8,7 +8,6 @@ tags:
   - developer
   - developer-tooling
   - edge-ai
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - intermediate

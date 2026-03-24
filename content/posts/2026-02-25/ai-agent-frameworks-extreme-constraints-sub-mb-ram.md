@@ -9,7 +9,6 @@ tags:
   - agents
   - constraints
   - cpu-only
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - edge-inference

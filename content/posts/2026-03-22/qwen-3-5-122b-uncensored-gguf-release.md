@@ -9,7 +9,7 @@ tags:
   - consumer-hardware-deployment
   - daily-digest
   - developer
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - gguf-format
   - intermediate

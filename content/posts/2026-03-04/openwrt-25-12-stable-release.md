@@ -7,7 +7,6 @@ tags:
   - edge-ai-inference
   - edge-deployment
   - edge-device
-  - edge-device-deployment
   - edge-inference
   - hacker-news
   - hardware

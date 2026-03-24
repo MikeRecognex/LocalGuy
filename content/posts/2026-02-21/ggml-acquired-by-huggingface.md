@@ -8,8 +8,8 @@ tags:
   - cost-saving
   - cpu-only
   - developer-tooling
+  - edge-deployment
   - edge-device
-  - edge-device-deployment
   - inference-optimization
   - infrastructure
   - llama-cpp

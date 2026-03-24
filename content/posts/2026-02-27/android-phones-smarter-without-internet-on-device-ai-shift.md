@@ -4,7 +4,7 @@ date: 2026-02-27
 description: Exploration of how Android devices are increasingly running AI models natively without internet connectivity, marking a fundamental shift in mobile computing toward true local inference.
 tags:
   - android
-  - edge-ai-deployment
+  - edge-deployment
   - edge-device
   - edge-inference
   - enterprise

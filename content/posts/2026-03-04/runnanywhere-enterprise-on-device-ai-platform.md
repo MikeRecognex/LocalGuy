@@ -5,7 +5,6 @@ description: RunAnywhere has released a production-ready platform designed to de
 tags:
   - ai-inference-management
   - deployment-tools
-  - edge-ai-deployment
   - edge-deployment
   - edge-device
   - enterprise
