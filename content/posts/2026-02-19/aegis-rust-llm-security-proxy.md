@@ -9,7 +9,7 @@ tags:
   - developer-tooling
   - enterprise
   - llm-security-proxy
-  - local-llm-deployment
+  - local-deployment
   - open-source
   - open-source-security
   - production-ops

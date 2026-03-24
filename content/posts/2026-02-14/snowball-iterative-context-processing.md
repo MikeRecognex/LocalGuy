@@ -20,7 +20,6 @@ tags:
   - llama
   - llama-cpp
   - local-deployment
-  - local-llm-deployment
   - model-agnostic-techniques
   - news
   - offline-deployment

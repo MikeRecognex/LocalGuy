@@ -6,9 +6,9 @@ tags:
   - configuration
   - cost-saving
   - inference-speed
+  - local-deployment
   - local-llm
   - local-llm-configuration
-  - local-llm-deployment
   - memory-optimization
   - model-tuning
   - performance-optimization

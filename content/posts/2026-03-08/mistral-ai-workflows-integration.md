@@ -9,7 +9,7 @@ tags:
   - edge-ai
   - edge-device
   - latency-reduction
-  - local-llm-deployment
+  - local-deployment
   - local-model-orchestration
   - mistral
   - multi-step-inference-pipelines

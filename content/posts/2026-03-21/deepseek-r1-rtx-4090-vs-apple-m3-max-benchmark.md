@@ -19,7 +19,7 @@ tags:
   - inference-speed
   - infrastructure-planning
   - intermediate
-  - local-llm-deployment
+  - local-deployment
   - memory-management
   - neutral
   - performance-benchmarking

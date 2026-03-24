@@ -8,7 +8,7 @@ tags:
   - document-processing
   - edge-deployment
   - hobbyist
-  - local-ai-deployment
+  - local-deployment
   - local-first-ai
   - multimodal-ai
   - offline-deployment

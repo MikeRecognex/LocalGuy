@@ -9,7 +9,7 @@ tags:
   - cpu-only
   - hobbyist
   - inference-engine
-  - local-llm-deployment
+  - local-deployment
   - market-expansion
   - model-optimization
   - model-quantization

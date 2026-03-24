@@ -11,8 +11,8 @@ tags:
   - data-privacy
   - developer-tooling
   - developer-tools
+  - local-deployment
   - local-llm-alternatives
-  - local-llm-deployment
   - offline-deployment
   - offline-inference
   - open-source

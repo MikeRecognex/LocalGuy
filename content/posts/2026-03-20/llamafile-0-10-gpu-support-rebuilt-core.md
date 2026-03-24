@@ -16,8 +16,8 @@ tags:
   - inference-speed
   - intermediate
   - llamafile
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - model-portability
   - open-source
   - phoronix

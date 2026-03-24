@@ -10,7 +10,7 @@ tags:
   - hardware
   - hardware-profiling
   - inference-speed
-  - local-llm-deployment
+  - local-deployment
   - memory-management
   - model-optimization
   - model-selection

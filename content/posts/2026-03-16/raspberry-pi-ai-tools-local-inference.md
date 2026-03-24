@@ -16,7 +16,7 @@ tags:
   - howtogeek
   - intermediate
   - lightweight-models
-  - local-llm-deployment
+  - local-deployment
   - memory-optimization
   - memory-optimized-inference
   - model-optimization

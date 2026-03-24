@@ -10,8 +10,8 @@ tags:
   - enterprise
   - eu-ai-act
   - eu-ai-act-compliance
+  - local-deployment
   - local-inference-compliance
-  - local-llm-deployment
   - logging
   - open-source
   - open-source-tooling

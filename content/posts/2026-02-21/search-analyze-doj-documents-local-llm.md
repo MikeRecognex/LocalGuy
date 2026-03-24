@@ -9,7 +9,7 @@ tags:
   - document-analysis
   - enterprise
   - enterprise-ai-applications
-  - local-llm-deployment
+  - local-deployment
   - offline-inference
   - open-source
   - privacy

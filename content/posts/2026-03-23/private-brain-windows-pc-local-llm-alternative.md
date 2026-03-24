@@ -17,9 +17,8 @@ tags:
   - developer
   - hobbyist
   - intermediate
-  - local-ai-deployment
   - local-ai-infrastructure
-  - local-llm-deployment
+  - local-deployment
   - local-llm-frameworks
   - local-llm-tooling
   - msn

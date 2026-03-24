@@ -13,7 +13,7 @@ tags:
   - data-privacy
   - developer
   - intermediate
-  - local-llm-deployment
+  - local-deployment
   - msn
   - open-source
   - practical-deployment

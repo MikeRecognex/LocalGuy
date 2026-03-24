@@ -12,7 +12,7 @@ tags:
   - edge-inference
   - hacker-news
   - kv-cache-optimization
-  - local-ai-deployment
+  - local-deployment
   - local-llm-agents
   - memory-architecture
   - memory-optimization

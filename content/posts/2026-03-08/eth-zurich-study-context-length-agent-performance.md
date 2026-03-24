@@ -16,8 +16,8 @@ tags:
   - eth-zurich
   - inference-cost-optimization
   - llm-agent-context
+  - local-deployment
   - local-deployment-strategy
-  - local-llm-deployment
   - neutral
   - optimization
   - research

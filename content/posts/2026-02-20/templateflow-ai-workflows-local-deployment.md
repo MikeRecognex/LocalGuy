@@ -23,7 +23,6 @@ tags:
   - latency-reduction
   - llm-orchestration
   - local-deployment
-  - local-llm-deployment
   - multi-agent-systems
   - multi-step-inference
   - offline-deployment

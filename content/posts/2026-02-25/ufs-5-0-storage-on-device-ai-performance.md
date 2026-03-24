@@ -12,7 +12,7 @@ tags:
   - hardware
   - inference-latency
   - io-bottlenecks
-  - local-llm-deployment
+  - local-deployment
   - model-caching
   - news
   - on-device-inference

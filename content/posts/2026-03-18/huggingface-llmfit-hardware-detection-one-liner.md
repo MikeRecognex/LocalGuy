@@ -19,8 +19,8 @@ tags:
   - intermediate
   - llama-cpp
   - llama-cpp-deployment
+  - local-deployment
   - local-inference-pipelines
-  - local-llm-deployment
   - model-quantization
   - model-selection
   - openclaw

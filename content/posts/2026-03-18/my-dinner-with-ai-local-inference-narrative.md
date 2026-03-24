@@ -10,7 +10,7 @@ tags:
   - hands-on-experience
   - intermediate
   - latency-perception
-  - local-llm-deployment
+  - local-deployment
   - local-model-deployment
   - model-behavior-analysis
   - neutral

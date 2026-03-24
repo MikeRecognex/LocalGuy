@@ -18,7 +18,7 @@ tags:
   - gpu
   - hardware
   - inference
-  - local-ai-deployment
+  - local-deployment
   - local-inference
   - model-optimization
   - multi-model-inference

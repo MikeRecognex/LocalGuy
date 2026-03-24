@@ -13,7 +13,7 @@ tags:
   - inference-speed
   - kernel-optimization
   - large-model-inference
-  - local-llm-deployment
+  - local-deployment
   - model-deployment
   - moe-optimization
   - multi-gpu-inference

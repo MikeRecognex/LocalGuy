@@ -17,7 +17,6 @@ tags:
   - hacker-news
   - intermediate
   - local-deployment
-  - local-llm-deployment
   - model-efficiency
   - model-specialization
   - modular-ai-architecture

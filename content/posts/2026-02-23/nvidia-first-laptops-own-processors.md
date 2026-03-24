@@ -14,7 +14,7 @@ tags:
   - hardware
   - hardware-efficiency
   - laptop-processors
-  - local-llm-deployment
+  - local-deployment
   - matrix-multiplication-optimization
   - memory-bandwidth
   - news

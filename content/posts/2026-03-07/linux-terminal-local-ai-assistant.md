@@ -10,7 +10,7 @@ tags:
   - developer-productivity
   - linux
   - local-ai-integration
-  - local-llm-deployment
+  - local-deployment
   - on-device-inference
   - practical-guide
   - self-hosted

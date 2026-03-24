@@ -18,7 +18,7 @@ tags:
   - infrastructure
   - llm-frameworks
   - llm-scaling-strategies
-  - local-llm-infrastructure
+  - local-deployment
   - production-deployment
   - quantization
 mentions:

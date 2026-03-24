@@ -12,7 +12,7 @@ tags:
   - hardware
   - inference
   - inference-frameworks
-  - local-llm-deployment
+  - local-deployment
   - new-hardware
   - npu
   - npu-acceleration

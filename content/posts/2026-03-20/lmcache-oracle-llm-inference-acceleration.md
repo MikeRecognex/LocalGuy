@@ -16,8 +16,8 @@ tags:
   - kv-cache-optimization
   - llm-inference-acceleration
   - lm-cache
+  - local-deployment
   - local-deployment-optimization
-  - local-llm-deployment
   - memory-optimization
   - news
   - open-source

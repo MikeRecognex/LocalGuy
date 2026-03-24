@@ -16,7 +16,6 @@ tags:
   - inference-speed
   - llm-serving
   - local-deployment
-  - local-llm-deployment
   - memory-optimization
   - nvidia
   - offline-deployment

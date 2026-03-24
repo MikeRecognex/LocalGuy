@@ -19,7 +19,7 @@ tags:
   - inference-speed
   - latency-reduction
   - local-ai-strategy
-  - local-llm-deployment
+  - local-deployment
   - local-llm-frameworks
   - m5
   - memory-bandwidth

@@ -11,7 +11,7 @@ tags:
   - developer-tooling
   - gpt4all
   - hardware-optimization
-  - local-llm-deployment
+  - local-deployment
   - local-llm-ecosystem
   - local-llm-platforms
   - macos-ai

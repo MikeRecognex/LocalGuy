@@ -7,7 +7,7 @@ tags:
   - cost-analysis
   - cost-saving
   - llm-deployment
-  - local-llm-deployment
+  - local-deployment
   - memory-optimisation
   - memory-optimization
   - neutral

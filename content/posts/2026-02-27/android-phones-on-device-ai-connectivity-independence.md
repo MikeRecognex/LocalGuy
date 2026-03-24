@@ -9,7 +9,7 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - local-llm-deployment
+  - local-deployment
   - mobile
   - model-quantization
   - offline-ai

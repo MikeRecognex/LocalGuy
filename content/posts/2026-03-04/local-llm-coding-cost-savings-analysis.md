@@ -12,9 +12,9 @@ tags:
   - cost-saving
   - economics
   - enterprise
+  - local-deployment
   - local-hardware
   - local-llm-benefits
-  - local-llm-deployment
   - model-quantization
   - qwen
   - rlocalllama

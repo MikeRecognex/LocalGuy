@@ -14,8 +14,8 @@ tags:
   - hardware
   - hobbyist
   - intermediate
+  - local-deployment
   - local-inference-apis
-  - local-llm-deployment
   - model-performance
   - model-quantization
   - msn

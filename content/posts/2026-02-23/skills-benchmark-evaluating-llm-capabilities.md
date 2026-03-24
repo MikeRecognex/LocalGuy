@@ -8,7 +8,7 @@ tags:
   - documentation-standards
   - evaluation
   - llm-evaluation
-  - local-llm-deployment
+  - local-deployment
   - model-benchmarking
   - model-deployment
   - model-evaluation

@@ -7,7 +7,7 @@ tags:
   - enterprise
   - geopolitical-impact
   - geopolitical-risk
-  - local-deployment-benefits
+  - local-deployment
   - market-analysis
   - model-distillation
   - neutral

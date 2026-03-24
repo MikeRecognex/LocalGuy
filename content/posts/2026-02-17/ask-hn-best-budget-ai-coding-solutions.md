@@ -13,7 +13,7 @@ tags:
   - edge-deployment
   - latency-reduction
   - llama
-  - local-llm-deployment
+  - local-deployment
   - local-llms
   - mistral
   - model-quantization

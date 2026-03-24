@@ -12,7 +12,6 @@ tags:
   - enterprise
   - ide
   - local-agents
-  - local-ai-deployment
   - local-deployment
   - news
   - on-premises-llm-deployment

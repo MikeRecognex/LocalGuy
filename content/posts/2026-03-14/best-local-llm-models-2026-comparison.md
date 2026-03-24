@@ -9,7 +9,7 @@ tags:
   - deployment-strategy
   - edge-device
   - guide
-  - local-llm-deployment
+  - local-deployment
   - memory-optimization
   - model-comparison
   - model-quantization

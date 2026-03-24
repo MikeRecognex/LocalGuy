@@ -12,8 +12,8 @@ tags:
   - inference-engine
   - llama-cpp
   - llm-democratization
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - model-quantization
   - multi-gpu-inference
   - news

@@ -7,7 +7,7 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - local-llm-deployment
+  - local-deployment
   - memory-optimisation
   - memory-optimization
   - microcontroller-ai

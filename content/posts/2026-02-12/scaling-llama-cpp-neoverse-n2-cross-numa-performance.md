@@ -18,7 +18,7 @@ tags:
   - llama
   - llama-cpp
   - llama-cpp-optimization
-  - local-llm-deployment
+  - local-deployment
   - memory-bottlenecks
   - numa-optimization
   - offline-deployment

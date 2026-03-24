@@ -12,16 +12,16 @@ tags:
   - alignment
   - autonomous-workflows
   - cautious
+  - consciios
   - enterprise-deployment
   - framework
   - human-in-the-loop
-  - local-llm-deployment
+  - local-deployment
   - model-alignment
   - model-failure-modes
   - multi-turn-interactions
   - open-source
   - systems-architecture
-  - consciios
 mentions:
   - name: Hacker News
     role: publisher

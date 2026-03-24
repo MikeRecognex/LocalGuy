@@ -6,7 +6,6 @@ tags:
   - cost-optimization
   - developer-onboarding
   - local-deployment
-  - local-llm-deployment
   - ollama
   - ollama-release
   - onboarding-experience

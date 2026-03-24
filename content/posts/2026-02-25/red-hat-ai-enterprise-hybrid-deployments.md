@@ -11,8 +11,8 @@ tags:
   - hybrid-deployment
   - hybrid-infrastructure
   - kubernetes-integration
+  - local-deployment
   - local-inference-benefits
-  - local-llm-deployment
   - on-premises-inference
   - open-source
   - privacy-conscious-ai

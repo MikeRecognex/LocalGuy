@@ -17,7 +17,6 @@ tags:
   - llama
   - llama-cpp
   - local-deployment
-  - local-llm-deployment
   - local-llm-integration
   - model-compression
   - offline-ai

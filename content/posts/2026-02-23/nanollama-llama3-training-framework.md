@@ -11,7 +11,6 @@ tags:
   - llama-3-pretraining
   - llama-cpp
   - local-deployment
-  - local-llm-deployment
   - ml-pipeline-automation
   - model-training
   - open-source

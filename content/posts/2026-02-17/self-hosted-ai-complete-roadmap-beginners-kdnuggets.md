@@ -12,7 +12,7 @@ tags:
   - llama-cpp
   - llm-frameworks
   - llm-operations
-  - local-llm-deployment
+  - local-deployment
   - offline-deployment
   - ollama
   - on-premise-ai

@@ -10,7 +10,6 @@ tags:
   - cautious
   - local-deployment
   - local-deployment-safety
-  - local-llm-deployment
   - model-comparison
   - model-failure-modes
   - neutral

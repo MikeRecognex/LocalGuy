@@ -9,7 +9,7 @@ tags:
   - hardware
   - inference-frameworks
   - inference-speed
-  - local-llm-deployment
+  - local-deployment
   - model-quantization
   - performance-benchmarking
   - performance-efficiency

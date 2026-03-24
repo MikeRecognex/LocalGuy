@@ -12,8 +12,8 @@ tags:
   - deepseek
   - hardware
   - inference-optimization
+  - local-deployment
   - local-deployment-economics
-  - local-llm-deployment
   - model-accessibility
   - model-quantization
 mentions:

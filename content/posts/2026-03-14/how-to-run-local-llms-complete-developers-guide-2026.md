@@ -10,7 +10,7 @@ tags:
   - getting-started
   - llama-cpp-deployment
   - llm-tools
-  - local-llm-deployment
+  - local-deployment
   - ollama-deployment
   - sitepoint
   - tools

@@ -10,7 +10,6 @@ tags:
   - hardware
   - hardware-software-optimization
   - local-deployment
-  - local-deployment-benefits
   - mobile-ai
   - model-architecture
   - model-quantization

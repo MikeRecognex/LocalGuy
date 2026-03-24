@@ -14,8 +14,8 @@ tags:
   - frugal-ai
   - hardware
   - intel
+  - local-deployment
   - local-inference-strategy
-  - local-llm-deployment
   - on-device-inference
   - privacy-compliance
   - resource-optimization

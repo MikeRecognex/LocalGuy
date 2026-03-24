@@ -10,7 +10,7 @@ tags:
   - backend-infrastructure-management
   - deployment-workflow-automation
   - llm-tool-use
-  - local-llm-deployment
+  - local-deployment
   - mcp
   - model-context-protocol
   - model-optimization

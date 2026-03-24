@@ -10,7 +10,7 @@ tags:
   - edge-inference
   - hardware
   - ipad
-  - local-llm-deployment
+  - local-deployment
   - ml-frameworks
   - model-optimization
   - on-device-inference

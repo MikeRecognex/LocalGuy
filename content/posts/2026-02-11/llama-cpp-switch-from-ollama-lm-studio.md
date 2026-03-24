@@ -19,7 +19,7 @@ tags:
   - llama-cpp-optimization
   - llm-tool-comparison
   - lm-studio
-  - local-llm-deployment
+  - local-deployment
   - local-llm-optimization
   - memory-management
   - ollama

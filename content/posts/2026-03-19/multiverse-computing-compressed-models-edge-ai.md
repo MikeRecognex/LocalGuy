@@ -14,7 +14,7 @@ tags:
   - hardware-optimization
   - intermediate
   - latency-reduction
-  - local-llm-deployment
+  - local-deployment
   - model-compression
   - multiverse-computing
   - on-device-ai-ecosystem

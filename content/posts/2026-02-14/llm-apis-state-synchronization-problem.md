@@ -14,8 +14,6 @@ tags:
   - hacker-news
   - llm-api-design
   - local-deployment
-  - local-llm-deployment
-  - local-llm-infrastructure
   - multi-user-systems
   - neutral
   - offline-deployment

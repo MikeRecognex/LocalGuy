@@ -20,7 +20,7 @@ tags:
   - gpu-resource-optimization
   - intermediate
   - llm-benchmarking
-  - local-llm-deployment
+  - local-deployment
   - model-benchmarking
   - model-evaluation
   - model-performance

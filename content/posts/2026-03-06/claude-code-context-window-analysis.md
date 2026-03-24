@@ -10,7 +10,7 @@ tags:
   - benchmarks
   - context-window
   - context-window-management
-  - local-llm-deployment
+  - local-deployment
   - mcp
   - neutral
   - overhead-costs

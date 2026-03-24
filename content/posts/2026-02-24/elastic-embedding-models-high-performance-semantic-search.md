@@ -7,7 +7,6 @@ tags:
   - embedding-models
   - embeddings
   - local-deployment
-  - local-llm-deployment
   - news
   - on-device-ai
   - open-source

@@ -16,7 +16,7 @@ tags:
   - hamming-distance
   - intermediate
   - latency-reduction
-  - local-llm-deployment
+  - local-deployment
   - local-rag
   - offline-deployment
   - offline-inference

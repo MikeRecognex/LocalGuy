@@ -15,7 +15,7 @@ tags:
   - formal-verification
   - lean-4-programming
   - lean-4-proof-assistant
-  - local-ai-deployment
+  - local-deployment
   - mathematical-reasoning
   - mistral
   - model-release

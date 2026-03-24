@@ -12,9 +12,8 @@ tags:
   - inference-server-deployment
   - intermediate
   - lm-studio
+  - local-deployment
   - local-inference-server
-  - local-llm-deployment
-  - local-llm-infrastructure
   - model-optimization
   - model-quantization
   - performance-tuning

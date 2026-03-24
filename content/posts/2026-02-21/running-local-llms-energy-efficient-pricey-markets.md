@@ -12,9 +12,8 @@ tags:
   - enterprise
   - hardware
   - inference-optimization
-  - local-deployment-benefits
+  - local-deployment
   - local-inference-cost
-  - local-llm-deployment
   - on-device-inference
 mentions:
   - name: XDA

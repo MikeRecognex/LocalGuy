@@ -11,7 +11,6 @@ tags:
   - llm-architectures
   - llm-augmentation-patterns
   - local-deployment
-  - local-llm-deployment
   - mcp
   - model-context-protocol
   - model-extension-patterns

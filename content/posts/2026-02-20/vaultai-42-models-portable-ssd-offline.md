@@ -15,7 +15,6 @@ tags:
   - edge-device
   - hacker-news
   - intermediate
-  - local-ai-deployment
   - local-deployment
   - local-inference
   - model-optimization

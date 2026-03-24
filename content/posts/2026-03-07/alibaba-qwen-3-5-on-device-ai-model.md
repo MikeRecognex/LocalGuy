@@ -9,7 +9,6 @@ tags:
   - edge-inference
   - latency-reduction
   - local-deployment
-  - local-llm-deployment
   - model-licensing
   - model-optimization
   - model-release

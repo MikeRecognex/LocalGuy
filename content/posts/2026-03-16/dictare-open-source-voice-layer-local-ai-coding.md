@@ -15,8 +15,8 @@ tags:
   - dictare
   - hacker-news
   - intermediate
-  - local-ai-deployment
   - local-ai-workflows
+  - local-deployment
   - local-inference
   - mlx-acceleration
   - mlx-framework

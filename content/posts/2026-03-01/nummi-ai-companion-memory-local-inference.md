@@ -13,7 +13,7 @@ tags:
   - hobbyist
   - incremental-model-adaptation
   - llm-inference-optimization
-  - local-llm-deployment
+  - local-deployment
   - memory-constrained-inference
   - memory-optimization
   - news

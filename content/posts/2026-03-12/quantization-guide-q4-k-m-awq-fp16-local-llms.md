@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - consumer-hardware-optimization
   - floating-point-precision
-  - local-llm-deployment
+  - local-deployment
   - memory-optimization
   - model-optimization
   - model-quantization

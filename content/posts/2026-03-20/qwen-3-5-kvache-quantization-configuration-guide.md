@@ -15,7 +15,6 @@ tags:
   - intermediate
   - kv-cache-quantization
   - local-deployment
-  - local-llm-deployment
   - long-context-inference
   - memory-optimization
   - model-optimization

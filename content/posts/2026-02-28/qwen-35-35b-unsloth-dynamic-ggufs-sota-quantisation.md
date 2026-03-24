@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - evaluation-metrics
   - local-deployment
-  - local-llm-deployment
   - model-formats
   - model-performance-tradeoffs
   - model-quantisation

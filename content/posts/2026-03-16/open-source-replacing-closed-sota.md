@@ -14,8 +14,8 @@ tags:
   - industry-trend
   - intermediate
   - llm-commoditization
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - model-commoditization
   - model-comparison
   - model-performance

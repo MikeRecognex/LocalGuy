@@ -9,7 +9,7 @@ tags:
   - cost-saving
   - fiber-optic-memory
   - inference-optimization
-  - local-llm-deployment
+  - local-deployment
   - memory-bandwidth
   - memory-hardware
   - memory-hierarchy

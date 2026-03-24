@@ -11,7 +11,7 @@ tags:
   - distributed-inference
   - edge-ai-deployment
   - edge-device
-  - local-ai-deployment
+  - local-deployment
   - minimal-infrastructure-deployment
   - offline-deployment
   - production-ops

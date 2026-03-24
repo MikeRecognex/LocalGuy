@@ -14,9 +14,9 @@ tags:
   - javascript
   - javascript-ai-development
   - javascript-bindings
+  - local-deployment
   - local-inference
   - local-llm
-  - local-llm-deployment
   - local-llm-ecosystem
   - low-latency-inference
   - ollama

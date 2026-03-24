@@ -18,7 +18,6 @@ tags:
   - latency-reduction
   - local-deployment
   - local-embeddings
-  - local-llm-deployment
   - open-source
 mentions:
   - name: ZeroClaw Labs

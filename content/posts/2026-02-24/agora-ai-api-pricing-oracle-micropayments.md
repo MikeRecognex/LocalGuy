@@ -13,7 +13,7 @@ tags:
   - distributed-inference
   - enterprise
   - llm-monetization
-  - local-llm-deployment
+  - local-deployment
   - micropayments
   - monetization
   - open-source

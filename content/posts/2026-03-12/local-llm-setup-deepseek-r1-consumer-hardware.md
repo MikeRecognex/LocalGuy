@@ -13,8 +13,8 @@ tags:
   - hardware
   - hardware-setup
   - inference-optimization
+  - local-deployment
   - local-inference-stack
-  - local-llm-deployment
   - model-deployment
   - model-optimization
   - reasoning-models

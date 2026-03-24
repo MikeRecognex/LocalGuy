@@ -13,7 +13,7 @@ tags:
   - hardware-optimization
   - linux
   - linux-npu-support
-  - local-llm-deployment
+  - local-deployment
   - multi-modal-ai
   - npu
   - npu-performance

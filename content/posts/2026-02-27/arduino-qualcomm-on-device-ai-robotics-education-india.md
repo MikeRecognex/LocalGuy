@@ -13,7 +13,7 @@ tags:
   - education
   - hobbyist
   - inference-acceleration
-  - local-llm-deployment
+  - local-deployment
   - model-optimization
   - news
   - on-device-ai

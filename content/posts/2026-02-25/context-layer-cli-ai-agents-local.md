@@ -10,7 +10,6 @@ tags:
   - cost-saving
   - data-curation
   - knowledge-retrieval
-  - local-ai-deployment
   - local-deployment
   - performance-optimization
   - privacy-compliance

@@ -11,7 +11,7 @@ tags:
   - context-management
   - developer-tooling
   - document-processing
-  - local-llm-deployment
+  - local-deployment
   - memory-management
   - offline-deployment
   - open-source

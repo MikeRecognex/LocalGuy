@@ -10,7 +10,7 @@ tags:
   - distributed-deployment
   - enterprise
   - local-ai-agents
-  - local-llm-deployment
+  - local-deployment
   - mcp
   - model-context-protocol
   - open-source

@@ -15,8 +15,8 @@ tags:
   - developer
   - enterprise
   - intermediate
+  - local-deployment
   - local-llm-applications
-  - local-llm-deployment
   - low-latency-inference
   - makeuseof
   - privacy

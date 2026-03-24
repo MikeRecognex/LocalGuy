@@ -24,7 +24,6 @@ tags:
   - local-agent-deployment
   - local-deployment
   - local-inference
-  - local-llm-deployment
   - neutral
   - optimization
   - prompt-decay

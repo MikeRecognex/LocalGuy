@@ -12,8 +12,7 @@ tags:
   - llm-automation
   - llm-tool-integration
   - local-ai-workflows
-  - local-deployment-benefits
-  - local-llm-deployment
+  - local-deployment
   - local-llms
   - mcp
   - mcp-tools

@@ -24,7 +24,7 @@ tags:
   - inference-privacy
   - inference-security
   - intermediate
-  - local-llm-deployment
+  - local-deployment
   - model-routing
   - neutral
   - privacy

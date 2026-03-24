@@ -10,7 +10,6 @@ tags:
   - llm-markup-format
   - llm-output-structuring
   - local-deployment
-  - local-llm-deployment
   - model-customization
   - open-source
   - open-source-ai

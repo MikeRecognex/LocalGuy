@@ -13,9 +13,9 @@ tags:
   - developer-tools
   - hacker-news
   - intermediate
+  - local-deployment
   - local-inference
   - local-integration
-  - local-llm-deployment
   - news
   - open-source
   - privacy-preserving-ai

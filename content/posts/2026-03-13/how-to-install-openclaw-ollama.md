@@ -9,8 +9,7 @@ tags:
   - hackernoon
   - hobbyist
   - llm-accessibility
-  - local-llm-deployment
-  - local-llm-infrastructure
+  - local-deployment
   - ollama
   - ollama-integration
   - open-source

@@ -10,7 +10,7 @@ tags:
   - edge-inference
   - hardware
   - hardware-fragmentation
-  - local-llm-deployment
+  - local-deployment
   - mobile-npu
   - model-optimization
   - news
@@ -18,9 +18,9 @@ tags:
   - npu-architecture
   - npu-hardware
   - personal-ai
+  - qualcomm
   - release
   - wearables
-  - qualcomm
 mentions:
   - name: Gizmochina
     role: publisher

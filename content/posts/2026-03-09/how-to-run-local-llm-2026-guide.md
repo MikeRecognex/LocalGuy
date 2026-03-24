@@ -17,7 +17,7 @@ tags:
   - inference-frameworks
   - intermediate
   - llm-infrastructure
-  - local-llm-deployment
+  - local-deployment
   - memory-optimization
   - model-optimization
   - model-selection

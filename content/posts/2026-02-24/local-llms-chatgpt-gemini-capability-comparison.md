@@ -11,7 +11,6 @@ tags:
   - evaluation
   - latency-optimization
   - local-deployment
-  - local-llm-deployment
   - local-vs-cloud-llms
   - model-limitations
   - neutral

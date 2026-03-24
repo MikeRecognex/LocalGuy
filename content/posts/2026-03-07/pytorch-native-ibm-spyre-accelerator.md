@@ -15,7 +15,7 @@ tags:
   - heterogeneous-deployment
   - inference-cost-reduction
   - inference-optimization
-  - local-llm-deployment
+  - local-deployment
   - news
   - on-device-inference
   - pytorch

@@ -11,7 +11,7 @@ tags:
   - benchmark-report
   - daily-digest
   - hardware-software-optimization
-  - local-llm-deployment
+  - local-deployment
   - local-llm-inference
   - mac
   - mlx

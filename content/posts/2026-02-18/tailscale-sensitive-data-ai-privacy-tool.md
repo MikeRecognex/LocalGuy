@@ -14,9 +14,9 @@ tags:
   - enterprise-local-ai-adoption
   - google
   - hardware-acceleration
+  - local-deployment
   - local-inference
   - local-inference-security
-  - local-llm-deployment
   - model-efficiency
   - offline-deployment
   - openai

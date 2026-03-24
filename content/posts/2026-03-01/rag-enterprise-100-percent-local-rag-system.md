@@ -9,7 +9,6 @@ tags:
   - enterprise-ai
   - latency-reduction
   - local-deployment
-  - local-llm-deployment
   - local-rag
   - on-premises-deployment
   - open-source

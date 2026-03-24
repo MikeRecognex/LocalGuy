@@ -17,7 +17,6 @@ tags:
   - intermediate
   - local-deployment
   - local-inference-frameworks
-  - local-llm-deployment
   - model-quantization
   - model-release
   - msn

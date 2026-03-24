@@ -13,7 +13,7 @@ tags:
   - hacker-news
   - hardware
   - inference-frameworks
-  - local-llm-deployment
+  - local-deployment
   - memory-management
   - model-quantization
   - news

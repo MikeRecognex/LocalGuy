@@ -11,7 +11,7 @@ tags:
   - enterprise
   - framework
   - llm-orchestration
-  - local-llm-deployment
+  - local-deployment
   - open-source
   - openwebui
   - research-ai

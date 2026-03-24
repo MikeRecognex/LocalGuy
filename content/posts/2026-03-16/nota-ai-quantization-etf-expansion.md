@@ -16,8 +16,7 @@ tags:
   - enterprise
   - hardware
   - intermediate
-  - local-llm-deployment
-  - local-llm-infrastructure
+  - local-deployment
   - local-llm-market-growth
   - market-validation
   - model-optimization

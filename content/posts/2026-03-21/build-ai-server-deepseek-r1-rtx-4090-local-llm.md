@@ -18,7 +18,6 @@ tags:
   - intermediate
   - local-deployment
   - local-inference
-  - local-llm-deployment
   - model-serving
   - model-serving-frameworks
   - on-premise-ai

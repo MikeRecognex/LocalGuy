@@ -22,7 +22,7 @@ tags:
   - inference-speed-optimization
   - kimi
   - llm-architecture
-  - local-llm-deployment
+  - local-deployment
   - open-source
   - performance-optimization
   - quantisation

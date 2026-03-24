@@ -12,7 +12,7 @@ tags:
   - enterprise
   - inference
   - local-coding-assistant
-  - local-deployment-benefits
+  - local-deployment
   - mlx
   - mlx-framework
   - offline-ai

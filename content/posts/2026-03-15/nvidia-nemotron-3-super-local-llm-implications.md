@@ -9,7 +9,7 @@ tags:
   - hardware
   - hardware-optimization
   - inference-efficiency
-  - local-llm-deployment
+  - local-deployment
   - model-performance
   - model-release
   - model-selection

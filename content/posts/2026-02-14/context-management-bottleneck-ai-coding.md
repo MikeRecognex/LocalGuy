@@ -22,7 +22,7 @@ tags:
   - llama
   - llama-cpp
   - local-coding-assistants
-  - local-llm-deployment
+  - local-deployment
   - local-llm-tools
   - long-context-handling
   - memory-management

@@ -18,8 +18,8 @@ tags:
   - intermediate
   - latency-reduction
   - llm-deployment
+  - local-deployment
   - local-llm
-  - local-llm-deployment
   - ollama
   - ollama-deployment
   - ollama-setup

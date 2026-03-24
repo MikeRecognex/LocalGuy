@@ -10,8 +10,8 @@ tags:
   - enterprise
   - funding
   - latency-optimization
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - market-trends
   - news
   - on-device

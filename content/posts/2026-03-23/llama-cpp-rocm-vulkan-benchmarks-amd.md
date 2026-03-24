@@ -20,7 +20,7 @@ tags:
   - intermediate
   - llama-cpp
   - llm-deployment-optimization
-  - local-llm-deployment
+  - local-deployment
   - performance-benchmarking
   - performance-optimization
   - rocm-development

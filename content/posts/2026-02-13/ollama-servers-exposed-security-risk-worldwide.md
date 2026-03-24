@@ -8,7 +8,7 @@ tags:
   - data-exposure
   - default-configuration-risks
   - exposed-servers
-  - local-llm-deployment
+  - local-deployment
   - local-llm-security
   - network-security
   - news

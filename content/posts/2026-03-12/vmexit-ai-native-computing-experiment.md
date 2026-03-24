@@ -19,7 +19,6 @@ tags:
   - hardware
   - infrastructure
   - local-deployment
-  - local-llm-deployment
   - next-gen-platforms
   - optimization
   - vmexit

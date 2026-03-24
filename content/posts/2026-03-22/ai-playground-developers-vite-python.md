@@ -17,8 +17,8 @@ tags:
   - intermediate
   - llm-development-workflow
   - llm-experimentation
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - local-llm-development
   - local-llm-experimentation
   - model-architecture

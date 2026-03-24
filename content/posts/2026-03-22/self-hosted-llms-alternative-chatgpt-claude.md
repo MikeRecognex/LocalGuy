@@ -17,7 +17,7 @@ tags:
   - hardware
   - inference-frameworks
   - intermediate
-  - local-llm-deployment
+  - local-deployment
   - msn
   - open-source
   - open-source-llms

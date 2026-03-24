@@ -16,7 +16,7 @@ tags:
   - inference-acceleration
   - inference-speed
   - intermediate
-  - local-llm-deployment
+  - local-deployment
   - msn
   - npu
   - npu-hardware

@@ -16,8 +16,8 @@ tags:
   - docker-compose-deployment
   - enterprise
   - intermediate
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - local-llm-inference
   - offline-deployment
   - ollama

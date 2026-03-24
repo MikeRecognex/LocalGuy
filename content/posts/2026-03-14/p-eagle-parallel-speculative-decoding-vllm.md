@@ -13,7 +13,7 @@ tags:
   - inference-speed
   - inference-speed-optimization
   - latency-reduction
-  - local-llm-deployment
+  - local-deployment
   - news
   - parallel-speculative-decoding
   - performance

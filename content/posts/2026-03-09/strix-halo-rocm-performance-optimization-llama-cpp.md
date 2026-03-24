@@ -28,9 +28,9 @@ tags:
   - llama-cpp
   - llama-cpp-optimisation
   - llama-cpp-optimizations
+  - local-deployment
   - local-inference
   - local-inference-performance
-  - local-llm-deployment
   - power-efficiency
   - rocm
   - rocm-optimisation

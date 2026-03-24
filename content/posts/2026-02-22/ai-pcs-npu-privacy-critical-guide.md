@@ -9,8 +9,8 @@ tags:
   - enterprise
   - enterprise-ai
   - hardware
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - model-optimization
   - neutral
   - npu

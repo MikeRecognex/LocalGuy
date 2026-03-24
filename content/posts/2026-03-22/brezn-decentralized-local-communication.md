@@ -19,7 +19,7 @@ tags:
   - hacker-news
   - horizontal-scaling
   - intermediate
-  - local-llm-infrastructure
+  - local-deployment
   - networking
   - offline-capability
   - open-source

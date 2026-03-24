@@ -14,7 +14,6 @@ tags:
   - inference-frameworks
   - infrastructure-management
   - local-deployment
-  - local-llm-deployment
   - model-selection
   - neutral
   - open-source

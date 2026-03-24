@@ -8,7 +8,6 @@ tags:
   - enterprise
   - funding-round
   - hardware-optimization
-  - local-ai-deployment
   - local-ai-infrastructure
   - local-deployment
   - market-analysis

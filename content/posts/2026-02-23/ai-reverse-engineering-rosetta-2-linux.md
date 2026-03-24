@@ -17,8 +17,8 @@ tags:
   - hardware
   - heterogeneous-hardware
   - inference
+  - local-deployment
   - local-inference-democratization
-  - local-llm-deployment
   - news
   - open-source
   - optimization

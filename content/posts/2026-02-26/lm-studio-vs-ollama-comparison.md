@@ -17,8 +17,8 @@ tags:
   - llm-serving-frameworks
   - llm-serving-frameworks-comparison
   - lm-studio
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - local-llm-serving
   - local-llm-tools
   - neutral

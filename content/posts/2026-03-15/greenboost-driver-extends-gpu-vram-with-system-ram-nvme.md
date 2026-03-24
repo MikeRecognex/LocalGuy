@@ -10,7 +10,7 @@ tags:
   - hardware
   - hardware-optimization
   - large-model-deployment
-  - local-llm-deployment
+  - local-deployment
   - memory-management
   - memory-optimization
   - model-accessibility

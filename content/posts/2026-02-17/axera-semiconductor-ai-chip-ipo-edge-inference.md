@@ -18,7 +18,7 @@ tags:
   - inference-efficiency
   - ipo
   - ipo-funding
-  - local-llm-deployment
+  - local-deployment
   - market-trends
   - neutral
   - news

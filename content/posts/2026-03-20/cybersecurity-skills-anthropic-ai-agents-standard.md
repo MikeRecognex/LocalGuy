@@ -20,7 +20,7 @@ tags:
   - infrastructure-automation
   - intermediate
   - local-agent-deployment
-  - local-llm-deployment
+  - local-deployment
   - on-device-agents
   - open-source
   - regulatory-compliance

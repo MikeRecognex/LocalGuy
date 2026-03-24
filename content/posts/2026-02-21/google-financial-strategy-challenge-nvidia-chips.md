@@ -16,7 +16,7 @@ tags:
   - hardware-economics
   - industry
   - inference-acceleration
-  - local-llm-deployment
+  - local-deployment
   - market-competition
   - on-device-inference-economics
   - specialized-hardware

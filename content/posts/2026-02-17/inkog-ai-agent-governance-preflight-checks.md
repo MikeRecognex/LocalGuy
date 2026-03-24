@@ -12,7 +12,7 @@ tags:
   - ai-governance
   - developer-tooling
   - enterprise
-  - local-llm-deployment
+  - local-deployment
   - policy-enforcement
   - pre-deployment-security
   - production-ops

@@ -10,15 +10,15 @@ tags:
   - deployment
   - edge-device
   - git-workflow-optimization
+  - gitdlivr
   - infrastructure
   - llm-deployment
-  - local-llm-deployment
+  - local-deployment
   - model-download-acceleration
   - open-source
   - release
   - scalability
   - serverless-architecture
-  - gitdlivr
 mentions:
   - name: GitDelivr
     role: service provider

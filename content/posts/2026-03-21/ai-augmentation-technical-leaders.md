@@ -14,7 +14,7 @@ tags:
   - intermediate
   - leadership
   - llm-frameworks
-  - local-llm-infrastructure
+  - local-deployment
   - neutral
   - on-device-vs-cloud
   - organizational

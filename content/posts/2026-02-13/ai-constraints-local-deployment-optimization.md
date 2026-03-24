@@ -18,8 +18,8 @@ tags:
   - hardware-constraints
   - intermediate
   - llm-optimization
+  - local-deployment
   - local-inference
-  - local-llm-deployment
   - model-architecture
   - model-optimization
   - neutral

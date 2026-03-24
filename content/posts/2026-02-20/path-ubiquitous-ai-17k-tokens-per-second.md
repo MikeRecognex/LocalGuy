@@ -22,7 +22,6 @@ tags:
   - inference-throughput
   - llm-optimization
   - local-deployment
-  - local-llm-deployment
   - model-optimization
   - multi-user-deployment
   - neutral

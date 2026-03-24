@@ -16,8 +16,7 @@ tags:
   - infrastructure
   - language-design
   - language-design-for-ai
-  - local-llm-deployment
-  - local-llm-infrastructure
+  - local-deployment
   - opinion
   - performance
   - rust
