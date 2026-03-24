@@ -19,7 +19,7 @@ tags:
   - llama-cpp-deployment
   - local-deployment
   - local-inference-pipelines
-  - model-selection
+  - model-comparison
   - openclaw
   - quantization
   - release

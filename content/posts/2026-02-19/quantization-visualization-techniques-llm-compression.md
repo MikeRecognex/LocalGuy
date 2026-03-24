@@ -4,7 +4,6 @@ date: 2026-02-19
 description: Community members have developed improved visualization techniques for quantization methods, providing clearer insights into how different compression strategies affect model performance and inference characteristics.
 tags:
   - benchmarking
-  - comparison
   - consumer-gpu
   - cost-saving
   - developer-tooling
@@ -13,6 +12,7 @@ tags:
   - llama
   - llama-cpp
   - memory-optimization
+  - model-comparison
   - model-optimization
   - production-ops
   - quantization

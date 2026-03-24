@@ -18,8 +18,8 @@ tags:
   - gpu-resource-optimization
   - intermediate
   - local-deployment
+  - model-comparison
   - model-performance
-  - model-selection
   - neutral
   - news
   - performance

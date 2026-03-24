@@ -19,7 +19,6 @@ tags:
   - model-comparison
   - model-performance
   - model-performance-evaluation
-  - model-selection
   - model-specialization
   - neutral
   - news

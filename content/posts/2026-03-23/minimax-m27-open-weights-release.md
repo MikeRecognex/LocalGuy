@@ -9,8 +9,8 @@ tags:
   - intermediate
   - local-deployment
   - minimax
+  - model-comparison
   - model-releases
-  - model-selection
   - model-size
   - news
   - open-source

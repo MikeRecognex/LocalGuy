@@ -4,7 +4,6 @@ date: 2026-02-11
 description: New analysis compares specialized energy-based models with large frontier AI systems for Sudoku solving, exploring efficiency advantages of task-specific local models.
 tags:
   - advanced
-  - comparison
   - cost-saving
   - edge-computing
   - edge-deployment
@@ -12,8 +11,8 @@ tags:
   - inference-optimization
   - local-deployment
   - memory-optimization
+  - model-comparison
   - model-optimization
-  - model-selection
   - offline-deployment
   - power-efficiency
   - resource-optimization

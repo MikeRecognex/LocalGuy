@@ -13,7 +13,7 @@ tags:
   - inference-frameworks
   - infrastructure-management
   - local-deployment
-  - model-selection
+  - model-comparison
   - neutral
   - news
   - open-source

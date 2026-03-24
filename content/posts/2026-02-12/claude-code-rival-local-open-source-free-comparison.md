@@ -5,7 +5,6 @@ description: Hands-on comparison of a local, open-source alternative to Claude's
 tags:
   - code-generation
   - coding
-  - comparison
   - consumer-gpu
   - cost-saving
   - data-privacy
@@ -13,6 +12,7 @@ tags:
   - developer-tools
   - local-deployment
   - local-llm-alternatives
+  - model-comparison
   - offline-deployment
   - open-source
   - self-hosted

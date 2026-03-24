@@ -4,12 +4,12 @@ date: 2026-03-12
 description: An in-depth technical guide comparing major quantization formats used in local LLM deployment, covering trade-offs between model size, inference speed, and quality.
 tags:
   - advanced
-  - comparison
   - consumer-gpu
   - floating-point-precision
   - hardware-optimization
   - local-deployment
   - memory-optimization
+  - model-comparison
   - model-optimization
   - neutral
   - optimization

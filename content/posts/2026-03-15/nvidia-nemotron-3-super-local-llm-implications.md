@@ -10,8 +10,8 @@ tags:
   - hardware-optimization
   - inference-optimization
   - local-deployment
+  - model-comparison
   - model-performance
-  - model-selection
   - nemotron-3-super
   - open-source
   - production-deployment

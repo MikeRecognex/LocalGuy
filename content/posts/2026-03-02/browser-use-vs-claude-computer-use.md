@@ -7,7 +7,6 @@ tags:
   - agentic-ai-deployment
   - agents
   - automation
-  - comparison
   - consumer-gpu
   - cpu-inference
   - data-privacy
@@ -16,6 +15,7 @@ tags:
   - latency-optimization
   - local-deployment
   - local-llm-evaluation
+  - model-comparison
   - neutral
   - news
   - on-device-inference

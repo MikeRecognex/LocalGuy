@@ -5,12 +5,12 @@ description: Community-driven quantization sweep compares multiple GGUF quantiza
 tags:
   - advanced
   - benchmarking
-  - comparison
   - consumer-gpu
   - deployment-strategy
   - gguf
   - gguf-format
   - local-deployment
+  - model-comparison
   - model-optimization
   - quantization
   - qwen

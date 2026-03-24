@@ -7,12 +7,12 @@ tags:
   - collaboration
   - collaboration-tools
   - collaborative-fine-tuning
-  - comparison
   - eigent
   - framework-integration
   - frameworks
   - local-ai-infrastructure
   - local-deployment
+  - model-comparison
   - model-management
   - news
   - open-source

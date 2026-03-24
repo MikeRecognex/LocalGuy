@@ -10,8 +10,8 @@ tags:
   - hardware
   - inference-optimization
   - memory-constrained-inference
+  - model-comparison
   - model-performance
-  - model-selection
   - quantization
   - resource-constrained-deployment
   - strix-halo-performance

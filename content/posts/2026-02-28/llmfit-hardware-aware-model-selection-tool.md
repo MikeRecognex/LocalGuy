@@ -8,8 +8,8 @@ tags:
   - deployment-workflow
   - hardware
   - hardware-aware-model-selection
+  - model-comparison
   - model-memory-management
-  - model-selection
   - open-source
   - performance-optimization
   - release

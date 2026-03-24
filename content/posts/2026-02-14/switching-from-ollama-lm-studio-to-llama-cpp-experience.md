@@ -5,7 +5,6 @@ description: Detailed user experience comparing popular local LLM tools, highlig
 tags:
   - benchmarking
   - bullish
-  - comparison
   - deployment-strategy
   - developer
   - developer-tooling
@@ -23,6 +22,7 @@ tags:
   - local-llm-stack
   - local-llm-tool-comparison
   - local-llm-tools
+  - model-comparison
   - neutral
   - offline-deployment
   - ollama

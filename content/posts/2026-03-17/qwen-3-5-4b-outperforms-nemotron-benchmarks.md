@@ -5,7 +5,6 @@ description: "Community benchmarking reveals that Qwen 3.5 4B consistently outpe
 tags:
   - benchmarking
   - bullish
-  - comparison
   - consumer-gpu
   - developer
   - edge-ai
@@ -13,7 +12,6 @@ tags:
   - intermediate
   - model-comparison
   - model-optimization
-  - model-selection
   - neutral
   - news
   - open-source

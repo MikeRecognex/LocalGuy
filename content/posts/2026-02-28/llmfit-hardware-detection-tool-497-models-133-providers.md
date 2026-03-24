@@ -12,8 +12,8 @@ tags:
   - inference-optimization
   - local-deployment
   - memory-optimization
+  - model-comparison
   - model-optimization
-  - model-selection
   - open-source
   - tools
 status: published

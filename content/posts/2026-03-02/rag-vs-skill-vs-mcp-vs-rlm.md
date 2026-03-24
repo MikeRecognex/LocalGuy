@@ -5,12 +5,12 @@ description: A comparative analysis of four major architectural patterns for aug
 tags:
   - agents
   - architecture
-  - comparison
   - infrastructure-optimization
   - llm-architectures
   - llm-augmentation-patterns
   - local-deployment
   - mcp
+  - model-comparison
   - model-context-protocol
   - model-extension-patterns
   - neutral

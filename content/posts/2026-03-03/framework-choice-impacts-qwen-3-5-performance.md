@@ -9,10 +9,10 @@ tags:
   - benchmarking
   - cautious
   - chain-of-thought-reasoning
-  - comparison
   - inference-framework
   - llama-cpp
   - local-inference
+  - model-comparison
   - model-evaluation-discrepancies
   - model-evaluation-frameworks
   - neutral

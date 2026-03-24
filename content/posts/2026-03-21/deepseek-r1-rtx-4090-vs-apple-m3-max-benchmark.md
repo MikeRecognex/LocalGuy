@@ -5,7 +5,6 @@ description: "Comprehensive performance comparison between DeepSeek R1 running o
 tags:
   - apple-silicon
   - benchmarking
-  - comparison
   - consumer-gpu
   - cost-saving
   - deepseek
@@ -18,6 +17,7 @@ tags:
   - intermediate
   - local-deployment
   - memory-optimization
+  - model-comparison
   - neutral
   - news
   - performance-optimization

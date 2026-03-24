@@ -5,7 +5,6 @@ description: "Nvidia's newest Nemotron Cascade 2 30B model offers a distinct non
 tags:
   - benchmarking
   - bullish
-  - comparison
   - consumer-gpu
   - consumer-gpu-inference
   - cuda-optimization

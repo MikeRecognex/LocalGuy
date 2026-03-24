@@ -10,7 +10,7 @@ tags:
   - inference-optimization
   - local-ai-ecosystem
   - market-trends
-  - model-selection
+  - model-comparison
   - news
   - open-source
   - open-source-strategy

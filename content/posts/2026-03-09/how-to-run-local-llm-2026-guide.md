@@ -17,8 +17,8 @@ tags:
   - llm-infrastructure
   - local-deployment
   - memory-optimization
+  - model-comparison
   - model-optimization
-  - model-selection
   - news
   - ollama
   - ollama-deployment

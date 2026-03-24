@@ -4,13 +4,11 @@ date: 2026-03-03
 description: Comprehensive benchmark visualization comparing all Qwen 3.5 models against Qwen 3 predecessors, showing measurable improvements across reasoning, coding, and knowledge tasks at each size tier.
 tags:
   - benchmarking
-  - comparison
   - cost-saving
   - fine-tuning
   - infrastructure-planning
   - llm-capabilities
   - model-comparison
-  - model-selection
   - model-upgrades
   - performance
   - qwen

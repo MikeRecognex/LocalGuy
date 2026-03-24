@@ -19,7 +19,6 @@ tags:
   - local-deployment
   - local-inference
   - model-comparison
-  - model-selection
   - news
   - offline-deployment
   - on-device-inference

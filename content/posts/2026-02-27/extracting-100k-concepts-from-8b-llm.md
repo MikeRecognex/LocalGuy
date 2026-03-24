@@ -11,11 +11,11 @@ tags:
   - interpretability
   - local-llm-optimization
   - model-analysis
+  - model-comparison
   - model-deployment
   - model-fine-tuning
   - model-interpretability
   - model-safety
-  - model-selection
   - optimization
   - research
 mentions:

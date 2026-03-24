@@ -13,7 +13,7 @@ tags:
   - intermediate-step-inspection
   - local-observability
   - model-ab-testing
-  - model-selection
+  - model-comparison
   - neutral
   - output-validation
   - pipeline-architecture

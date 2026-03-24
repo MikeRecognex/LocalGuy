@@ -19,8 +19,8 @@ tags:
   - intermediate
   - itsthatladydev
   - local-vs-cloud-deployment
+  - model-comparison
   - model-customization
-  - model-selection
   - news
   - on-device-inference
   - practical-guide
