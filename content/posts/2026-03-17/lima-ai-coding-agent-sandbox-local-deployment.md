@@ -14,7 +14,6 @@ tags:
   - developer
   - intermediate
   - lima-vm
-  - local-agents
   - native-virtualization
   - on-device-inference
   - open-source

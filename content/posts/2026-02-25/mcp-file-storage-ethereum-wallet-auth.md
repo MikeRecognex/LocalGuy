@@ -5,7 +5,6 @@ description: A Model Context Protocol implementation providing decentralized fil
 tags:
   - advanced
   - agents
-  - ai-agents
   - blockchain-authentication
   - data-privacy
   - decentralized-infrastructure

@@ -6,9 +6,7 @@ tags:
   - advanced
   - agent-loop-detection
   - agent-validation
-  - agentic-ai
   - agents
-  - ai-agent-security
   - ai-governance
   - developer-tooling
   - enterprise

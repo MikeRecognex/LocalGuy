@@ -4,16 +4,13 @@ date: 2026-03-14
 description: A new open-source security framework specifically designed for autonomous AI agents provides eight layers of protection against prompt injection, jailbreaks, and malicious outputs. This addresses a critical gap in local agent deployment where security is often overlooked.
 tags:
   - advanced
-  - agent-security
   - agents
-  - ai-agent-security
   - cost-saving
   - data-privacy
   - defense-in-depth
   - deployment
   - enterprise
   - hacker-news
-  - local-agent-deployment
   - open-source
   - open-source-ai-security
   - prompt-injection-defense

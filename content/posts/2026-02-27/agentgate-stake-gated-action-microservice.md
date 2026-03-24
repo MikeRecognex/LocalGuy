@@ -6,15 +6,12 @@ tags:
   - advanced
   - agent-authorization
   - agent-control
-  - agent-orchestration
   - agents
-  - ai-agents
   - control
   - deployment
   - economic-incentives
   - local-deployment
   - microservices
-  - multi-agent-systems
   - security-auditing
   - stake-gating
 mentions:

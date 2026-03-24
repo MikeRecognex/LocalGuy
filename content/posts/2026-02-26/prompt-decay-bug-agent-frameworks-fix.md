@@ -4,9 +4,6 @@ date: 2026-02-26
 description: "A critical analysis identifies prompt decay as a common vulnerability in agent frameworks, where model outputs gradually degrade over extended interactions. A practical fix is proposed and shared."
 tags:
   - advanced
-  - agent-frameworks
-  - agent-orchestration
-  - agentic-systems
   - agents
   - analysis
   - bullish
@@ -21,7 +18,6 @@ tags:
   - llm-output-quality-degradation
   - llm-performance
   - llm-performance-degradation
-  - local-agent-deployment
   - local-deployment
   - local-inference
   - neutral

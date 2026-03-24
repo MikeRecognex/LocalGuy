@@ -3,8 +3,6 @@ title: 5 Useful Docker Containers for Agentic Developers
 date: 2026-02-27
 description: A practical resource highlighting Docker containerization strategies specifically designed for developers building agentic AI systems, enabling easier local deployment and experimentation.
 tags:
-  - agentic-ai
-  - agentic-systems
   - agents
   - consumer-gpu
   - containerization

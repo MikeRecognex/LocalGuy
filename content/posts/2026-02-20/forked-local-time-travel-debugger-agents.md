@@ -5,9 +5,7 @@ description: "Forked introduces time-travel debugging capabilities for local LLM
 tags:
   - advanced
   - agent-debugging
-  - agent-frameworks
   - agent-monitoring
-  - agent-orchestration
   - agents
   - analysis
   - bullish
@@ -19,9 +17,7 @@ tags:
   - hacker-news
   - introspection-tooling
   - llm-agent-production
-  - llm-agents
   - llm-debugging
-  - local-agents
   - local-deployment
   - murbotlabs
   - offline-deployment

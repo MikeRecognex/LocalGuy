@@ -3,7 +3,6 @@ title: Apple Researchers Develop On-Device AI Agent That Interacts With Apps for
 date: 2026-02-21
 description: Apple researchers have created an on-device AI agent capable of autonomously interacting with applications, advancing the state of local inference and edge AI capabilities on consumer devices.
 tags:
-  - agent-deployment
   - agents
   - app-interaction
   - apple

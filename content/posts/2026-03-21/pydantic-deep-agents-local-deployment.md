@@ -4,7 +4,6 @@ date: 2026-03-21
 description: "Pydantic releases production-ready deep agent frameworks for building and deploying AI agents with structured outputs, enabling developers to run complex multi-step AI reasoning locally with type safety."
 tags:
   - advanced
-  - agentic-systems
   - agents
   - ai-agent-deployment
   - bullish
@@ -19,7 +18,6 @@ tags:
   - guide
   - hacker-news
   - intermediate
-  - local-agent-deployment
   - local-inference
   - multi-step-reasoning
   - open-source

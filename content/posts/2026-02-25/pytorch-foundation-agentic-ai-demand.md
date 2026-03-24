@@ -4,7 +4,6 @@ date: 2026-02-25
 description: The PyTorch Foundation is expanding its membership and focusing on agentic AI frameworks, reflecting growing demand for agent-based systems that can run locally. The foundation's initiatives support development of inference frameworks suitable for edge deployment.
 tags:
   - agent-design
-  - agentic-ai
   - agents
   - ai-architecture
   - beginner-friendly
@@ -14,7 +13,6 @@ tags:
   - edge-deployment
   - framework
   - inference-optimization
-  - local-ai-agents
   - local-deployment
   - neutral
   - news

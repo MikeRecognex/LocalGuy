@@ -4,10 +4,7 @@ date: 2026-03-09
 description: "A new runtime environment provides isolated, secure execution for AI agents, addressing critical security concerns in local agent deployments."
 tags:
   - advanced
-  - agent-security
   - agents
-  - ai-agent-security
-  - autonomous-agents
   - bullish
   - consumer-gpu
   - daily-digest
@@ -20,7 +17,6 @@ tags:
   - hacker-news
   - hardware
   - intermediate
-  - local-agent-deployment
   - local-deployment
   - open-source
   - production-deployment

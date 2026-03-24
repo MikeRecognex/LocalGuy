@@ -4,7 +4,6 @@ date: 2026-03-11
 description: A new Kubernetes operator enables orchestration of AI coding agents for planning, coding, review, and shipping—providing infrastructure for deploying multi-agent AI systems at scale in self-hosted environments.
 tags:
   - advanced
-  - agent-orchestration
   - agents
   - ai-operator
   - ai-software-development
@@ -16,7 +15,6 @@ tags:
   - kubernetes
   - kubernetes-deployment
   - medium
-  - multi-agent-systems
   - multi-agent-workflows
   - orchestration
   - private-infrastructure-deployment

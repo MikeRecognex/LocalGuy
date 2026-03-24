@@ -5,14 +5,11 @@ description: A novel verification system designed specifically to detect and aut
 tags:
   - advanced
   - agent-authentication
-  - agent-frameworks
   - agents
   - ai-agent-verification
-  - autonomous-agents
   - imrobot
   - llm-automation
   - local-deployment
-  - multi-agent-systems
   - neutral
   - open-source
   - production-systems

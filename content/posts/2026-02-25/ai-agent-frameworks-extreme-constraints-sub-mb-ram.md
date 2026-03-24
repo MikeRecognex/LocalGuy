@@ -5,7 +5,6 @@ description: A deep dive into the fundamental constraints and trade-offs when de
 tags:
   - advanced
   - agent-architecture
-  - agent-systems
   - agents
   - constraints
   - cpu-inference

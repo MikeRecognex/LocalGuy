@@ -4,7 +4,6 @@ date: 2026-02-14
 description: MiniMax announces M2.5, a new language model claiming state-of-the-art performance in coding tasks and agent applications, designed specifically for agent frameworks.
 tags:
   - advanced
-  - agent-frameworks
   - agents
   - analysis
   - apple-silicon

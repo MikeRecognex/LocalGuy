@@ -4,7 +4,6 @@ date: 2026-03-14
 description: A practical demonstration of multiple AI agents coordinating on tasks using local inference, showing how agents can debate, collaborate, and make predictions without relying on cloud APIs. Illustrates scalable patterns for local multi-agent systems.
 tags:
   - agent-collaboration
-  - agent-orchestration
   - agents
   - bots-of-wallstreet
   - data-privacy
@@ -13,7 +12,6 @@ tags:
   - latency-optimization
   - local-inference
   - multi-agent
-  - multi-agent-systems
   - open-source
   - scalable-multi-agent-systems
   - self-hosted

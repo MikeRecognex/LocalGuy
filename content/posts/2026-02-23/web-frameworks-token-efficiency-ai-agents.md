@@ -4,7 +4,6 @@ date: 2026-02-23
 description: Analysis comparing web frameworks by token consumption when used with AI agents, helping developers optimize inference costs and latency in local deployments.
 tags:
   - agents
-  - ai-agents
   - benchmarking
   - daily-digest
   - edge-computing

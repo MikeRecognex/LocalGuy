@@ -4,7 +4,6 @@ date: 2026-02-23
 description: Massu introduces a governance and orchestration layer for AI coding assistants, integrating 51 Model Context Protocol tools. This addresses control and safety concerns for developers deploying local LLM-based coding agents.
 tags:
   - advanced
-  - agent-orchestration
   - agents
   - ai-auditability
   - ai-governance

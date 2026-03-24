@@ -5,7 +5,7 @@ description: Community PSA reveals significant performance and correctness diffe
 tags:
   - abstraction-layer-issues
   - advanced
-  - agentic-ai
+  - agents
   - benchmarking
   - cautious
   - chain-of-thought-reasoning

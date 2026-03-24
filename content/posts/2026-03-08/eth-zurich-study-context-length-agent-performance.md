@@ -5,7 +5,6 @@ description: A peer-reviewed study from ETH Zurich demonstrates that larger cont
 tags:
   - advanced
   - agent-performance-evaluation
-  - agent-systems
   - agents
   - cautious
   - consumer-gpu

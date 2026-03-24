@@ -3,7 +3,6 @@ title: "Bash-Based Claude Code Agent: Lightweight Local AI Coding Assistant"
 date: 2026-03-10
 description: A new open-source project demonstrates building a Claude Code-like agent using only Bash, showing practical patterns for lightweight local AI deployment without heavy frameworks.
 tags:
-  - agent-orchestration
   - agents
   - bash-agents
   - bash-scripting

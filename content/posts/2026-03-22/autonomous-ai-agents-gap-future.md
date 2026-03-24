@@ -10,7 +10,6 @@ tags:
   - ai-applications
   - analysis
   - architecture
-  - autonomous-agents
   - autonomous-systems
   - cautious
   - daily-digest

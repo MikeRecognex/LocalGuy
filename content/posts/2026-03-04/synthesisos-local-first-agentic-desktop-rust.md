@@ -5,14 +5,12 @@ description: A new open-source desktop environment written in Rust that enables 
 tags:
   - advanced
   - agent-development
-  - agentic-ai
   - agents
   - data-locality
   - data-privacy
   - edge-inference
   - hacker-news
   - inference-optimization
-  - local-ai-agents
   - local-first-ai
   - local-inference
   - offline-deployment

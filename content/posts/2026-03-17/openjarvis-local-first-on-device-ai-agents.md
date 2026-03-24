@@ -3,8 +3,6 @@ title: "OpenJarvis: Local-First AI Agents That Run Entirely On-Device"
 date: 2026-03-17
 description: "OpenJarvis introduces a framework for building AI agents that execute entirely on local hardware, eliminating cloud dependencies and enabling privacy-preserving autonomous workflows."
 tags:
-  - agent-frameworks
-  - agent-orchestration
   - agents
   - analysis
   - bullish
@@ -16,7 +14,6 @@ tags:
   - developer
   - edge-computing
   - intermediate
-  - local-ai-agents
   - local-first
   - on-device-execution
   - on-device-inference

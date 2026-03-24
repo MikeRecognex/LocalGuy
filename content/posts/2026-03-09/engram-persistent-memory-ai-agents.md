@@ -19,8 +19,6 @@ tags:
   - hacker-news
   - hardware
   - intermediate
-  - local-agents
-  - local-ai-agents
   - local-deployment
   - memory-optimization
   - on-device-inference

@@ -3,7 +3,6 @@ title: "Self-Hostable AI Agents and Internal Software Framework Released"
 date: 2026-03-23
 description: "RootCX introduces a new framework for deploying self-hosted AI agents and internal software, enabling developers to run autonomous AI systems on their own infrastructure without reliance on cloud providers."
 tags:
-  - agent-orchestration
   - agents
   - autonomous-ai
   - bullish

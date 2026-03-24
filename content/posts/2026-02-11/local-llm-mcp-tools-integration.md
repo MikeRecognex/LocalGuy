@@ -4,11 +4,9 @@ date: 2026-02-11
 description: A comprehensive guide exploring how to integrate Model Context Protocol (MCP) tools with local LLM deployments for enhanced functionality and automation.
 tags:
   - agents
-  - ai-agents
   - cost-saving
   - data-privacy
   - developer-tooling
-  - llm-agents
   - llm-automation
   - llm-tool-integration
   - local-ai-workflows

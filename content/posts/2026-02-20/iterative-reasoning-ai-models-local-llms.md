@@ -17,7 +17,6 @@ tags:
   - hybrid-inference
   - iterative-reasoning
   - iterative-reasoning-failure
-  - local-agents
   - model-architecture
   - model-architecture-limitations
   - neutral

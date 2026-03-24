@@ -6,9 +6,7 @@ tags:
   - advanced
   - agent-architecture
   - agent-design-patterns
-  - agent-orchestration
   - agent-skill-management
-  - agent-systems
   - agents
   - ai-agent-skills
   - ai-system-scaling

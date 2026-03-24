@@ -8,7 +8,6 @@ tags:
   - edge-ai
   - edge-computing
   - hacker-news
-  - local-agents
   - local-deployment
   - mem9-ai
   - memory-optimization

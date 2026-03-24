@@ -4,7 +4,6 @@ date: 2026-03-02
 description: A technical comparison of two emerging frameworks for autonomous agent control, relevant to deploying agentic AI systems with local or hybrid model backends.
 tags:
   - agent-automation-frameworks
-  - agent-frameworks
   - agentic-ai-deployment
   - agents
   - automation

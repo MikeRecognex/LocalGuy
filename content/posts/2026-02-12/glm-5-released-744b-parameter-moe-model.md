@@ -5,7 +5,6 @@ description: Zhipu AI releases GLM-5, a massive 744B parameter MoE model with 32
 tags:
   - advanced
   - advanced-reasoning
-  - agentic-ai
   - agents
   - complex-systems-engineering
   - consumer-gpu

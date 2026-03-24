@@ -4,7 +4,6 @@ date: 2026-02-27
 description: A new Ruby gem simplifies building AI agents within Rails applications, making it easier to integrate local LLMs into web frameworks for practical deployment scenarios.
 tags:
   - agent-development-tools
-  - agent-orchestration
   - agents
   - ai-agent-development
   - developer-experience

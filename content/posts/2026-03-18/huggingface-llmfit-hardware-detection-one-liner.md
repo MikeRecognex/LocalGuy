@@ -3,9 +3,7 @@ title: Hugging Face Releases One-Liner for Automatic Hardware Detection and Mode
 date: 2026-03-18
 description: Hugging Face has released an automated tool using llmfit that detects hardware capabilities, selects optimal models and quantizations, and automatically spins up a llama.cpp server with Pi agent support.
 tags:
-  - agent-frameworks
-  - agent-orchestration
-  - ai-agents
+  - agents
   - bullish
   - deployment-efficiency
   - deployment-speed

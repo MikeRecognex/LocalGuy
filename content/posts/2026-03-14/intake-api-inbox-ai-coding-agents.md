@@ -4,14 +4,12 @@ date: 2026-03-14
 description: A new API framework provides a standardized inbox/queue system for local AI coding agents, enabling better coordination and management of agent tasks in self-hosted environments. This tooling addresses operational challenges in deploying multiple local agents.
 tags:
   - advanced
-  - agent-orchestration
   - agent-tooling
   - agents
   - ai-coding-agents
   - deployment
   - hacker-news
   - local-deployment
-  - multi-agent-systems
   - news
   - open-source
   - task-management

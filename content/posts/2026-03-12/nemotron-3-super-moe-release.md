@@ -5,7 +5,6 @@ description: Nvidia has released Nemotron 3 Super, a 120B mixture-of-experts mod
 tags:
   - advanced
   - agentic-reasoning
-  - agentic-systems
   - agents
   - consumer-gpu
   - inference-optimization

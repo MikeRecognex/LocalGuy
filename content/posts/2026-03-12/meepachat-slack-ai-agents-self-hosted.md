@@ -3,7 +3,6 @@ title: MeepaChat – Slack for AI Agents (iOS, macOS, Web / Cloud, Self-Hosted)
 date: 2026-03-12
 description: MeepaChat is a new open-source platform providing Slack-like collaboration tools for AI agents, with support for cloud and self-hosted deployment models.
 tags:
-  - agent-orchestration
   - agents
   - ai-agent-collaboration
   - data-privacy
@@ -11,7 +10,6 @@ tags:
   - enterprise
   - hacker-news
   - local-llm-agents
-  - multi-agent-systems
   - on-device-inference
   - open-source
   - production-deployment

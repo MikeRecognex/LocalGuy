@@ -4,8 +4,6 @@ date: 2026-03-06
 description: A new systems architecture framework addressing alignment between human operators and AI systems in production deployments. The paper explores structural approaches to ensuring local and self-hosted LLMs remain aligned with user intent.
 tags:
   - advanced
-  - agent-systems
-  - agentic-ai
   - agents
   - ai-alignment
   - ai-safety

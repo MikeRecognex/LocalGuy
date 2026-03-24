@@ -3,7 +3,6 @@ title: Qwen3.5-35B-A3B Emerges as Game-Changer for Agentic Coding Tasks
 date: 2026-02-25
 description: The newly released Qwen3.5-35B-A3B model with MoE architecture is delivering exceptional performance for coding agents on consumer hardware, with users reporting impressive results running on a single RTX 3090.
 tags:
-  - agentic-ai
   - agentic-coding
   - agents
   - benchmarking

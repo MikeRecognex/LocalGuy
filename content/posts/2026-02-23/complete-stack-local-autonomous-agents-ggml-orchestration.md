@@ -4,9 +4,7 @@ date: 2026-02-23
 description: A comprehensive guide to building autonomous agent systems entirely on local hardware, covering quantisation with GGML through deployment orchestration. This resource addresses the full pipeline needed for production local agent deployment.
 tags:
   - advanced
-  - agent-orchestration
   - agents
-  - autonomous-agents
   - deployment
   - edge-computing
   - ggml

@@ -3,7 +3,6 @@ title: 5 Useful Docker Containers for Agentic Developers
 date: 2026-02-28
 description: KDnuggets highlights essential Docker container setups for developers building agentic AI systems, providing practical deployment patterns for local model inference.
 tags:
-  - agentic-ai
   - agents
   - containerization
   - deployment
@@ -12,7 +11,6 @@ tags:
   - docker-deployment
   - edge-deployment
   - environment-management
-  - llm-agents
   - local-inference
   - local-inference-engines
   - reproducible-environments

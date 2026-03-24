@@ -4,9 +4,7 @@ date: 2026-02-17
 description: Security researcher demonstrates critical vulnerabilities in self-built AI systems, highlighting the importance of hardening locally-deployed models against common attack vectors.
 tags:
   - advanced
-  - agent-frameworks
   - agents
-  - ai-agent-security
   - cautious
   - developer-tooling
   - edge-deployment

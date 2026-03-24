@@ -4,7 +4,6 @@ date: 2026-02-26
 description: "A new multi-agent system coordinates seven specialized agents to handle planning, development, verification, and deployment of code. This demonstrates practical frameworks for orchestrating local LLMs in complex workflows."
 tags:
   - advanced
-  - agent-orchestration
   - agents
   - analysis
   - bullish
@@ -22,7 +21,6 @@ tags:
   - modular-ai-architecture
   - modular-ai-systems
   - multi-agent-system
-  - multi-agent-systems
   - on-device-inference
   - open-source
   - orchestration

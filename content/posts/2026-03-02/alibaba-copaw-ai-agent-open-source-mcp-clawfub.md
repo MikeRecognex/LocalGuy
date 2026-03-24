@@ -5,7 +5,6 @@ description: Alibaba released CoPaw, an open-source AI agent framework compatibl
 tags:
   - advanced
   - agent-skills
-  - agentic-ai
   - agents
   - ai-agent-framework
   - ai-workflow-orchestration

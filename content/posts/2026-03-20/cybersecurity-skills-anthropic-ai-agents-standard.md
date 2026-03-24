@@ -4,7 +4,6 @@ date: 2026-03-20
 description: "A new repository implements the agentskills.io standard for equipping AI agents with cybersecurity capabilities. This standardization effort enables more reliable and secure local agent deployments."
 tags:
   - advanced
-  - agent-security
   - agent-skill-standardization
   - agent-standardization
   - agents
@@ -19,7 +18,6 @@ tags:
   - hacker-news
   - infrastructure-automation
   - intermediate
-  - local-agent-deployment
   - local-deployment
   - on-device-agents
   - open-source

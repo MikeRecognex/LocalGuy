@@ -3,8 +3,7 @@ title: Qwen 3.5 Ultra-Compact Models Enable On-Device AI from Watches to Gaming
 date: 2026-03-10
 description: The latest Qwen 3.5 lineup, including the 0.8B variant, demonstrates that state-of-the-art small language models can now run on severely constrained devices while maintaining impressive capabilities, from vision tasks to game-playing agents.
 tags:
-  - agent-orchestration
-  - ai-agents
+  - agents
   - consumer-gpu
   - deployment-strategy
   - edge-ai

@@ -3,7 +3,6 @@ title: "AMD Declares 'AI on the PC Has Crossed an Important Line' – Agent Comp
 date: 2026-03-16
 description: "AMD signals that on-device AI inference has reached a critical inflection point, positioning local agent computing as the next major evolution in personal computing. This reflects industry momentum toward reducing cloud dependence for AI workloads."
 tags:
-  - agent-systems
   - agents
   - analysis
   - bullish

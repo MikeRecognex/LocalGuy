@@ -4,7 +4,6 @@ date: 2026-02-11
 description: Nanbeige LLM Lab releases a new open-source 3B parameter model designed to achieve strong reasoning, preference alignment, and agentic behavior in a compact form factor ideal for local deployment.
 tags:
   - advanced
-  - agentic-ai
   - agentic-capabilities
   - agents
   - consumer-gpu

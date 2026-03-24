@@ -8,7 +8,6 @@ tags:
   - agents
   - ai-safety
   - analysis
-  - autonomous-agents
   - bullish
   - code-execution
   - daily-digest

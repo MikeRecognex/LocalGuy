@@ -4,7 +4,6 @@ date: 2026-03-14
 description: A new memory architecture demonstrates significant efficiency gains for local LLM agents, reducing memory footprint from 156 MB to just 8 KB while maintaining performance at 10K token contexts. This breakthrough is critical for deploying agents on resource-constrained devices.
 tags:
   - advanced
-  - agent-deployment
   - agents
   - amabito
   - consumer-gpu
@@ -16,7 +15,6 @@ tags:
   - local-llm-agents
   - memory-architecture
   - memory-optimization
-  - multi-agent-systems
   - performance
   - reasoning-workloads
   - recurrent-state-memory

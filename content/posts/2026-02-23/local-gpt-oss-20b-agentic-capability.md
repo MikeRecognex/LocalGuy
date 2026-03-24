@@ -4,7 +4,6 @@ date: 2026-02-23
 description: A 20B parameter open-source model running entirely locally has proven capable of executing complex agentic tasks with proper configuration. This demonstrates the viability of autonomous agents without cloud dependencies.
 tags:
   - agent-framework
-  - agentic-ai
   - agents
   - cloud-independence
   - consumer-gpu

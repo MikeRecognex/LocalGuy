@@ -4,14 +4,12 @@ date: 2026-03-14
 description: Research on memory decay mechanisms suggests that implementing forgetting patterns in local LLM systems could improve efficiency and realism in agent behavior. This approach addresses context accumulation problems in long-running local inference workloads.
 tags:
   - advanced
-  - agent-orchestration
   - agents
   - context-window-management
   - decay-memory
   - efficiency-optimization
   - hacker-news
   - inference-optimization
-  - llm-agents
   - local-llm-frameworks
   - memory-optimization
   - performance

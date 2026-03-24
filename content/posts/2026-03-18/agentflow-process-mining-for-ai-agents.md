@@ -5,7 +5,6 @@ description: AgentFlow is a new tool for process mining and observability in AI 
 tags:
   - advanced
   - agent-debugging
-  - agent-frameworks
   - agent-observability
   - agent-tool-use
   - agentflow
@@ -19,7 +18,6 @@ tags:
   - langchain
   - llamaindex
   - local-agent-systems
-  - local-agents
   - local-deployment
   - observability
   - open-source

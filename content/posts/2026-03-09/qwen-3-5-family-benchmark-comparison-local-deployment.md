@@ -3,7 +3,7 @@ title: "Qwen 3.5 Family Benchmark Comparison Shows Strong Performance Across Sma
 date: 2026-03-09
 description: "New benchmarks reveal that Qwen 3.5's 27B, 35B, and 122B variants retain most of the flagship model's performance, while smaller 2B and 0.8B models show steeper degradation on long-context and agent tasks."
 tags:
-  - agentic-ai
+  - agents
   - analysis
   - benchmarking
   - bullish

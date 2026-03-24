@@ -9,8 +9,6 @@ tags:
   - api-independence
   - data-management
   - llama-cpp
-  - local-agents
-  - local-ai-agents
   - mcp
   - model-context-protocol
   - news

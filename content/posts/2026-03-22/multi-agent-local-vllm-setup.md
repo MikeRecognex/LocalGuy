@@ -4,7 +4,6 @@ date: 2026-03-22
 description: "A practical demonstration of running multiple AI agents entirely offline using vLLM for parallel inference orchestration. The setup coordinates 4 concurrent agents for collaborative coding without any cloud provider dependencies."
 tags:
   - advanced
-  - agent-orchestration
   - agents
   - bullish
   - collaborative-ai
@@ -16,7 +15,6 @@ tags:
   - docker-deployment
   - enterprise
   - local-multi-agent-system
-  - multi-agent-systems
   - offline-deployment
   - on-premise-deployment
   - open-source

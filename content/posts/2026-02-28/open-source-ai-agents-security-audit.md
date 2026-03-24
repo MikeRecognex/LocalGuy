@@ -4,14 +4,11 @@ date: 2026-02-28
 description: A comprehensive security audit of popular open-source AI agents reveals vulnerabilities and best practices for securing locally-deployed agentic systems, critical for production deployments.
 tags:
   - advanced
-  - agent-security
   - agents
-  - ai-agent-security
   - audit-report
   - best-practices
   - cautious
   - input-validation
-  - local-agent-deployment
   - on-device-ai-security
   - open-source
   - prompt-injection

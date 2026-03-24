@@ -3,7 +3,6 @@ title: ".ispec: Runtime Specification Validation for AI System Consistency"
 date: 2026-03-10
 description: A new tool provides runtime validation of system specifications, helping ensure AI agents and local deployments behave according to documented contracts.
 tags:
-  - agent-orchestration
   - agent-reliability
   - agents
   - api-deployment

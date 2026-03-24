@@ -4,11 +4,9 @@ date: 2026-03-06
 description: A developer successfully ran Qwen 3.5 9B as an autonomous agent on an M1 Pro MacBook with 16GB RAM, completing actual production tasks. Results demonstrate that capable local agents no longer require high-end hardware.
 tags:
   - advanced
-  - agent-deployment
   - agent-performance
   - agents
   - apple-silicon
-  - autonomous-agents
   - benchmarking
   - cost-saving
   - edge-deployment

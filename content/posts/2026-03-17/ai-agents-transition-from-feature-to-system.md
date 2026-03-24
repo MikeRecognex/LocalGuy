@@ -5,7 +5,6 @@ description: A critical analysis of how AI agents have evolved from isolated fea
 tags:
   - advanced
   - agent-communication
-  - agent-orchestration
   - agents
   - ai-agent-evolution
   - analysis

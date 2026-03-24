@@ -3,7 +3,6 @@ title: "Show HN: Dypai – Build Backends from Your IDE Using AI and MCP"
 date: 2026-02-24
 description: Dypai enables developers to build backend infrastructure using AI agents through Model Context Protocol integration, streamlining deployment workflows for local LLM applications. This tooling advance simplifies the infrastructure layer for self-hosted AI deployments.
 tags:
-  - agent-orchestration
   - agents
   - ai-powered-backend-development
   - backend-automation

@@ -4,7 +4,6 @@ date: 2026-03-17
 description: Explores emerging payment mechanisms and verification protocols for autonomous AI agents accessing external APIs, relevant for local agentic systems that need to interact with cloud services.
 tags:
   - advanced
-  - agent-orchestration
   - agentic-system-security
   - agentic-systems-security
   - agents

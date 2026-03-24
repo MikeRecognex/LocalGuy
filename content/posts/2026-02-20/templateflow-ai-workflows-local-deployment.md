@@ -4,7 +4,7 @@ date: 2026-02-20
 description: "TemplateFlow introduces a workflow-based approach to local LLM deployment, moving beyond simple prompt engineering to structured, reproducible AI pipelines. This framework simplifies complex multi-step inference tasks."
 tags:
   - advanced
-  - agent-orchestration
+  - agents
   - ai-pipelines
   - ai-workflow-design
   - ai-workflows
@@ -23,7 +23,6 @@ tags:
   - latency-optimization
   - llm-orchestration
   - local-deployment
-  - multi-agent-systems
   - multi-step-inference
   - offline-deployment
   - production-ops
