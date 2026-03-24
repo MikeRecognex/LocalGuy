@@ -13,7 +13,7 @@ tags:
   - daily-digest
   - datacenter-gpu
   - developer
-  - inference-speed
+  - inference-optimization
   - intermediate
   - llama-cpp
   - llama-cpp-optimization

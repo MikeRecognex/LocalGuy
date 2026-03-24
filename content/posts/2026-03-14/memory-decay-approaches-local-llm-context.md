@@ -10,7 +10,7 @@ tags:
   - decay-memory
   - efficiency-optimization
   - hacker-news
-  - inference-latency
+  - inference-optimization
   - llm-agents
   - local-llm-frameworks
   - memory-management

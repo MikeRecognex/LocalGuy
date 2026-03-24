@@ -14,8 +14,8 @@ tags:
   - edge-deployment
   - edge-device
   - hamming-distance
+  - inference-optimization
   - intermediate
-  - latency-reduction
   - local-deployment
   - local-rag
   - offline-deployment

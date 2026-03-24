@@ -15,7 +15,6 @@ tags:
   - hardware-efficiency
   - inference-latency-optimization
   - inference-optimization
-  - inference-speed
   - intermediate
   - llama-cpp
   - local-deployment

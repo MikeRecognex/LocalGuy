@@ -12,7 +12,6 @@ tags:
   - edge-device
   - gpu-memory-optimization
   - inference-optimization
-  - inference-speed
   - memory-optimization
   - model-optimization
   - optimisation

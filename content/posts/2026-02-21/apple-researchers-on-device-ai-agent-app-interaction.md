@@ -12,7 +12,7 @@ tags:
   - consumer-device
   - edge-device
   - edge-inference
-  - latency-reduction
+  - inference-optimization
   - local-inference
   - news
   - on-device-ai-agent

@@ -8,7 +8,7 @@ tags:
   - edge-device
   - edge-inference
   - hardware-aware-optimization
-  - inference-latency
+  - inference-optimization
   - lightweight-models
   - mobile
   - mobile-ai

@@ -12,7 +12,6 @@ tags:
   - hardware-acceleration
   - hardware-optimization
   - inference-optimization
-  - inference-speed-optimization
   - news
   - on-device-inference
   - on-device-llm-execution

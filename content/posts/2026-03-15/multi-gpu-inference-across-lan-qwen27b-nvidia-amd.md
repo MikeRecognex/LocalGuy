@@ -9,7 +9,7 @@ tags:
   - hardware
   - heterogeneous-hardware
   - heterogeneous-hardware-inference
-  - inference-speed
+  - inference-optimization
   - llama-cpp-features
   - llama-cpp-rpc
   - long-context-inference

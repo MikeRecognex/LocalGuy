@@ -18,8 +18,6 @@ tags:
   - hardware-performance-tuning
   - inference-frameworks
   - inference-optimization
-  - inference-speed
-  - inference-speed-optimization
   - kimi
   - llm-architecture
   - local-deployment

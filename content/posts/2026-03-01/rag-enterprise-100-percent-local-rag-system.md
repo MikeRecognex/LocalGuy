@@ -7,7 +7,7 @@ tags:
   - domain-specific-ai
   - enterprise
   - enterprise-ai
-  - latency-reduction
+  - inference-optimization
   - local-deployment
   - local-rag
   - on-premises-deployment

@@ -11,7 +11,7 @@ tags:
   - cpu-only
   - edge-deployment
   - edge-device
-  - inference-speed
+  - inference-optimization
   - intel
   - local-inference
   - memory-usage

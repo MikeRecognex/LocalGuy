@@ -13,7 +13,6 @@ tags:
   - hardware
   - hobbyist
   - inference-optimization
-  - inference-speed
   - intermediate
   - large-model-deployment
   - local-ai-applications

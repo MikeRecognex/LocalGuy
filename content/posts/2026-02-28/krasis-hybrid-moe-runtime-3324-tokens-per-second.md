@@ -9,7 +9,7 @@ tags:
   - framework
   - hardware
   - hybrid-runtime
-  - inference-speed
+  - inference-optimization
   - memory-optimization
   - mixture-of-experts
   - model-scaling

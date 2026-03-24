@@ -14,7 +14,7 @@ tags:
   - daily-digest
   - developer-tooling
   - hardware-optimization
-  - inference-speed
+  - inference-optimization
   - kernel-fusion
   - mixture-of-experts
   - model-optimization

@@ -12,8 +12,8 @@ tags:
   - deployment-patterns
   - embedded-llms
   - enterprise
+  - inference-optimization
   - integration
-  - latency-reduction
   - llm-tools
   - local-model-integration
   - productivity

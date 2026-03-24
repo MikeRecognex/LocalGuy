@@ -12,7 +12,7 @@ tags:
   - developer-experience
   - developer-productivity
   - enterprise
-  - inference-latency
+  - inference-optimization
   - intermediate
   - kilo
   - llm-inference-engines

@@ -18,7 +18,6 @@ tags:
   - hardware-bottlenecks
   - hardware-selection
   - inference-optimization
-  - inference-speed
   - intermediate
   - local-inference
   - msn

@@ -5,7 +5,7 @@ description: A practical guide exploring often-overlooked configuration paramete
 tags:
   - configuration
   - cost-saving
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - local-llm
   - local-llm-configuration

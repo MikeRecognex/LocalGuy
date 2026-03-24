@@ -12,7 +12,7 @@ tags:
   - enterprise
   - gpu-acceleration
   - hardware
-  - inference-speed
+  - inference-optimization
   - integrated-hardware-system
   - llm-deployment
   - local-inference

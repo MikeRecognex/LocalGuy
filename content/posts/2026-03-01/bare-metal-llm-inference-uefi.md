@@ -15,7 +15,6 @@ tags:
   - hardware
   - hardware-optimization
   - inference-optimization
-  - latency-reduction
   - minimal-footprint-deployment
   - optimization
   - uefi-deployment

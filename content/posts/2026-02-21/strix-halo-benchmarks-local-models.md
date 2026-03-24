@@ -9,7 +9,7 @@ tags:
   - consumer-gpu
   - edge-device
   - hardware
-  - inference-speed
+  - inference-optimization
   - memory-constrained-inference
   - model-performance
   - model-selection

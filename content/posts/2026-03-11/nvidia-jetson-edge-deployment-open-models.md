@@ -8,7 +8,7 @@ tags:
   - edge-device
   - edge-inference
   - hardware
-  - inference-speed
+  - inference-optimization
   - jetson
   - local-inference
   - local-llm-frameworks

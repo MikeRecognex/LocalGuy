@@ -15,7 +15,7 @@ tags:
   - edge-inference-chips
   - enterprise
   - hardware-strategy
-  - inference-efficiency
+  - inference-optimization
   - ipo
   - ipo-funding
   - local-deployment

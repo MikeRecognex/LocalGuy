@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - inference-optimization
-  - inference-speed
   - intermediate
   - kv-cache-optimization
   - llm-inference-acceleration

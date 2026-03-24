@@ -9,7 +9,7 @@ tags:
   - cpu-only
   - hardware
   - hardware-profiling
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - memory-management
   - model-optimization

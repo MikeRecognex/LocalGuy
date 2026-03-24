@@ -15,7 +15,7 @@ tags:
   - hardware-cost-reduction
   - hardware-economics
   - industry
-  - inference-acceleration
+  - inference-optimization
   - local-deployment
   - market-competition
   - on-device-inference-economics

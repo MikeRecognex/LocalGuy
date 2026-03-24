@@ -12,9 +12,8 @@ tags:
   - developer
   - developer-tooling
   - error-correction
-  - inference-efficiency
   - inference-error-correction
-  - inference-speed
+  - inference-optimization
   - intermediate
   - llm-model
   - local-inference

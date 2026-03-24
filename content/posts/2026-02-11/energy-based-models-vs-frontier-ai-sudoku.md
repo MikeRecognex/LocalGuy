@@ -9,7 +9,7 @@ tags:
   - edge-deployment
   - edge-device
   - energy-based-models
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - memory-optimization
   - model-efficiency

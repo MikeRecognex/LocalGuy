@@ -18,9 +18,9 @@ tags:
   - enterprise
   - hacker-news
   - heyaohuo
+  - inference-optimization
   - intermediate
   - latency-optimization
-  - latency-reduction
   - llm-orchestration
   - local-deployment
   - multi-agent-systems

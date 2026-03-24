@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - edge-ai
   - edge-device
-  - latency-reduction
+  - inference-optimization
   - local-deployment
   - local-model-orchestration
   - mistral

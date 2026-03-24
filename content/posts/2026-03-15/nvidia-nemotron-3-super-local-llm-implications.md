@@ -8,7 +8,7 @@ tags:
   - datacenter-gpu
   - hardware
   - hardware-optimization
-  - inference-efficiency
+  - inference-optimization
   - local-deployment
   - model-performance
   - model-release

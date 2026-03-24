@@ -11,7 +11,7 @@ tags:
   - coding-assistants
   - consumer-gpu
   - consumer-hardware-deployment
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - mixture-of-experts
   - model-architecture

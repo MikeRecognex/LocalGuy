@@ -12,7 +12,7 @@ tags:
   - edge-device
   - edge-inference
   - hardware
-  - inference-speed
+  - inference-optimization
   - llm-optimization
   - local-deployment
   - local-llm-performance

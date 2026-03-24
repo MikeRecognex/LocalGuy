@@ -9,7 +9,7 @@ tags:
   - hardware
   - hardware-utilization
   - hybrid-inference
-  - inference-speed
+  - inference-optimization
   - large-model-deployment
   - memory-management
   - moe

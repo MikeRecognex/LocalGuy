@@ -15,7 +15,7 @@ tags:
   - edge-device
   - hardware
   - hardware-transition
-  - inference-speed
+  - inference-optimization
   - intermediate
   - large-model-deployment
   - local-inference

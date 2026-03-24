@@ -12,9 +12,9 @@ tags:
   - daily-digest
   - developer
   - edge-inference
-  - efficient-inference
   - future-of-ai
   - hardware
+  - inference-optimization
   - intermediate
   - itpro
   - local-agent-ai

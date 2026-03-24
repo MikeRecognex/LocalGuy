@@ -13,7 +13,6 @@ tags:
   - developer
   - hardware
   - inference-optimization
-  - inference-speed
   - intermediate
   - local-deployment
   - long-context-window

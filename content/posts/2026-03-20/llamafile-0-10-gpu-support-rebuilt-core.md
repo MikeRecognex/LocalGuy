@@ -13,7 +13,7 @@ tags:
   - gpu-acceleration
   - inference
   - inference-engine
-  - inference-speed
+  - inference-optimization
   - intermediate
   - llamafile
   - local-deployment

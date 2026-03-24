@@ -10,8 +10,8 @@ tags:
   - data-privacy
   - developer
   - enterprise
+  - inference-optimization
   - intermediate
-  - latency-reduction
   - llama-cpp
   - llm-plugins
   - lm-studio

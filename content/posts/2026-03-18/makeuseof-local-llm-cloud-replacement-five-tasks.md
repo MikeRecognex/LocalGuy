@@ -14,10 +14,10 @@ tags:
   - deployment
   - developer
   - enterprise
+  - inference-optimization
   - intermediate
   - local-deployment
   - local-llm-applications
-  - low-latency-inference
   - makeuseof
   - privacy
   - self-hosted

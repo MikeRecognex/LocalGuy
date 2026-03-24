@@ -17,7 +17,7 @@ tags:
   - gpu-repurposing
   - hardware
   - inference
-  - inference-speed
+  - inference-optimization
   - intermediate
   - legacy-hardware-utilization
   - local-inference

@@ -7,7 +7,7 @@ tags:
   - advanced
   - concept-extraction
   - edge-deployment
-  - inference-efficiency
+  - inference-optimization
   - interpretability
   - local-llm-optimization
   - model-analysis

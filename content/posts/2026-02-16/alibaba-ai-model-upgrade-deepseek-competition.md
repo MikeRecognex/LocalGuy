@@ -11,7 +11,7 @@ tags:
   - edge-deployment
   - edge-device
   - hardware-optimization
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - local-inference
   - market-competition

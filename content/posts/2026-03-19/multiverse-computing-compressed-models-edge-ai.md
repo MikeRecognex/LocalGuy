@@ -12,8 +12,8 @@ tags:
   - edge-inference
   - hardware
   - hardware-optimization
+  - inference-optimization
   - intermediate
-  - latency-reduction
   - local-deployment
   - multiverse-computing
   - on-device-ai-ecosystem

@@ -10,7 +10,7 @@ tags:
   - docker-deployment
   - flashinfer
   - hardware
-  - inference-speed
+  - inference-optimization
   - kernel-optimization
   - large-model-inference
   - local-deployment

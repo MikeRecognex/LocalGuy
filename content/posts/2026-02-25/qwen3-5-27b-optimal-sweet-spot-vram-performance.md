@@ -8,7 +8,7 @@ tags:
   - context-window-management
   - hardware
   - inference-frameworks
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - performance-benchmarking
   - performance-efficiency

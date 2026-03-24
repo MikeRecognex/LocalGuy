@@ -9,8 +9,7 @@ tags:
   - configuration-optimization
   - consumer-gpu
   - hardware
-  - inference-speed
-  - inference-speed-optimization
+  - inference-optimization
   - kv-cache-quantization
   - local-deployment
   - model-performance

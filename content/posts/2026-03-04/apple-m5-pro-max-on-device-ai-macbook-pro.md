@@ -16,8 +16,6 @@ tags:
   - hardware
   - hothardwarecom
   - inference-optimization
-  - inference-speed
-  - latency-reduction
   - local-ai-strategy
   - local-deployment
   - local-llm-frameworks

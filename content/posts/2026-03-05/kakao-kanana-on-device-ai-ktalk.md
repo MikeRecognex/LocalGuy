@@ -12,9 +12,9 @@ tags:
   - edge-device
   - edge-inference
   - google-news
+  - inference-optimization
   - kakao
   - kanana
-  - latency-reduction
   - mobile-ai
   - model-optimization
   - on-device-agents

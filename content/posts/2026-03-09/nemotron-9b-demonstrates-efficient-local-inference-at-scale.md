@@ -12,7 +12,6 @@ tags:
   - developer
   - hardware
   - inference-optimization
-  - inference-speed
   - intermediate
   - local-deployment
   - local-inference

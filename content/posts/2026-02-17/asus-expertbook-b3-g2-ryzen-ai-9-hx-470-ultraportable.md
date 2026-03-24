@@ -11,8 +11,7 @@ tags:
   - edge-deployment
   - edge-device
   - enterprise
-  - inference-speed
-  - latency-reduction
+  - inference-optimization
   - local-inference
   - mobile-deployment
   - news

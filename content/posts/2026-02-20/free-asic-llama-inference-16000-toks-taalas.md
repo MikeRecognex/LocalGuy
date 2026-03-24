@@ -20,7 +20,7 @@ tags:
   - hardware
   - hardware-alternatives
   - hardware-diversification
-  - inference-speed
+  - inference-optimization
   - intermediate
   - latency-optimization
   - llama

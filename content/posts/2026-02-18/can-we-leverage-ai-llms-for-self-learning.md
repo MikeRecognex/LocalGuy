@@ -12,7 +12,7 @@ tags:
   - education-technology
   - fine-tuning
   - hobbyist
-  - latency-reduction
+  - inference-optimization
   - local-inference
   - offline-deployment
   - on-device-inference

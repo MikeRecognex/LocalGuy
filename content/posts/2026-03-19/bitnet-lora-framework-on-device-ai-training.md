@@ -18,9 +18,9 @@ tags:
   - edge-inference
   - enterprise
   - fine-tuning
+  - inference-optimization
   - infrastructure-optimization
   - intermediate
-  - latency-reduction
   - model-fine-tuning
   - on-device-fine-tuning
   - on-device-privacy

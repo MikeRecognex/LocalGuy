@@ -13,7 +13,7 @@ tags:
   - frugal-ai
   - hardware
   - hardware-accessibility
-  - inference-efficiency
+  - inference-optimization
   - news
   - npu
   - npu-accelerated

@@ -7,8 +7,8 @@ tags:
   - alibaba
   - benchmarks
   - cost-saving
-  - efficient-inference
   - enterprise
+  - inference-optimization
   - large-model-deployment
   - mixture-of-experts
   - model-benchmarking

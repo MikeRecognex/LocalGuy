@@ -16,7 +16,7 @@ tags:
   - hardware
   - hardware-comparison
   - hardware-selection
-  - inference-speed
+  - inference-optimization
   - infrastructure-planning
   - intermediate
   - local-deployment

@@ -12,11 +12,11 @@ tags:
   - document-processing
   - edge-deployment
   - enterprise
+  - inference-optimization
   - intermediate
   - local-first-architecture
   - local-llm-applications
   - local-llm-architecture
-  - low-latency-inference
   - msn
   - offline-deployment
   - on-premises-deployment

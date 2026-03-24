@@ -13,8 +13,7 @@ tags:
   - enterprise
   - enterprise-llm-deployment
   - hardware
-  - inference-acceleration
-  - inference-speed
+  - inference-optimization
   - intermediate
   - local-deployment
   - msn

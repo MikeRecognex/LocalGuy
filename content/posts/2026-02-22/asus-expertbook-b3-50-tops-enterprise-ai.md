@@ -9,8 +9,8 @@ tags:
   - enterprise-adoption
   - enterprise-hardware
   - hardware
+  - inference-optimization
   - laptop-cpu
-  - low-latency-inference
   - npu
   - npu-performance
   - on-device-inference

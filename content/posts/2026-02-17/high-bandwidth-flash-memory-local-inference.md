@@ -10,7 +10,7 @@ tags:
   - datacenter-gpu
   - enterprise
   - high-bandwidth-flash
-  - inference-latency
+  - inference-optimization
   - local-inference
   - memory-bandwidth
   - memory-expansion

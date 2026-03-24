@@ -14,8 +14,8 @@ tags:
   - enterprise
   - gpt-oss
   - inference
+  - inference-optimization
   - large-language-models
-  - latency-reduction
   - local-deployment
   - local-embeddings
   - open-source

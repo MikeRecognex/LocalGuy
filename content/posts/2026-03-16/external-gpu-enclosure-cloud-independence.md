@@ -20,9 +20,8 @@ tags:
   - hardware
   - hardware-diversification
   - inference
-  - inference-latency
+  - inference-optimization
   - intermediate
-  - latency-reduction
   - local-inference
   - multi-gpu-inference
   - runtime-portability

@@ -20,7 +20,7 @@ tags:
   - hardware
   - hardware-evaluation
   - inference-latency-reduction
-  - inference-speed
+  - inference-optimization
   - integrated-gpu
   - integrated-gpu-inference
   - integrated-gpu-performance

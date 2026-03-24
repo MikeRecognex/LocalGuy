@@ -13,7 +13,7 @@ tags:
   - daily-digest
   - developer
   - hacker-news
-  - inference-speed
+  - inference-optimization
   - intermediate
   - iterative-reasoning
   - knowledge-work-workflows

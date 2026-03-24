@@ -10,7 +10,7 @@ tags:
   - edge-inference
   - google
   - hardware-ecosystem
-  - latency-reduction
+  - inference-optimization
   - local-inference
   - msn
   - news

@@ -12,7 +12,7 @@ tags:
   - hardware-efficiency
   - hardware-optimization
   - hobbyist
-  - inference-speed
+  - inference-optimization
   - integrated-gpu
   - integrated-gpu-inference
   - integrated-gpu-performance

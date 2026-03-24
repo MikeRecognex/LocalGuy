@@ -21,7 +21,6 @@ tags:
   - hardware-optimization
   - inference
   - inference-optimization
-  - inference-speed
   - intermediate
   - llm-framework-optimization
   - llm-optimization

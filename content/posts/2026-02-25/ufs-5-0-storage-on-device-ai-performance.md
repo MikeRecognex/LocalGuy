@@ -10,7 +10,7 @@ tags:
   - edge-device
   - edge-inference
   - hardware
-  - inference-latency
+  - inference-optimization
   - io-bottlenecks
   - local-deployment
   - model-caching

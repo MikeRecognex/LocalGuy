@@ -12,7 +12,6 @@ tags:
   - hardware
   - inference
   - inference-optimization
-  - inference-speed
   - local-deployment
   - on-device-inference
   - optimization

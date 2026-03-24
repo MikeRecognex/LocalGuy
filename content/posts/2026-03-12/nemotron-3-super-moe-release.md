@@ -8,7 +8,7 @@ tags:
   - agentic-systems
   - agents
   - consumer-gpu
-  - efficient-inference
+  - inference-optimization
   - local-deployment
   - mixture-of-experts
   - model-efficiency

@@ -18,7 +18,6 @@ tags:
   - editor-integration
   - hacker-news
   - ide-integration
-  - inference-latency
   - inference-optimization
   - intermediate
   - local-ai-integration

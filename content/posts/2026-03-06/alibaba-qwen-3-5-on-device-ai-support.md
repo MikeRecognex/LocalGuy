@@ -9,7 +9,7 @@ tags:
   - edge-inference
   - enterprise
   - industry-trends
-  - inference-efficiency
+  - inference-optimization
   - local-deployment
   - low-latency-ai
   - model-quantisation

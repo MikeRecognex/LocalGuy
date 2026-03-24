@@ -10,7 +10,6 @@ tags:
   - cost-saving
   - developer-tooling
   - inference-optimization
-  - inference-speed
   - llama
   - llama-cpp
   - memory-optimization

@@ -11,7 +11,7 @@ tags:
   - edge-device
   - efficiency
   - hardware-optimization
-  - inference-speed
+  - inference-optimization
   - local-inference
   - model-5-35b-a3b
   - model-efficiency

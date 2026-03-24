@@ -12,7 +12,7 @@ tags:
   - gpu-utilization
   - hacker-news
   - hardware
-  - inference-speed
+  - inference-optimization
   - julia-programming
   - llm-inference
   - memory-bandwidth

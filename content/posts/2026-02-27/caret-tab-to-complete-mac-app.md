@@ -9,7 +9,7 @@ tags:
   - consumer-gpu
   - context-switching
   - edge-inference
-  - latency-reduction
+  - inference-optimization
   - local-deployment
   - local-inference
   - macos

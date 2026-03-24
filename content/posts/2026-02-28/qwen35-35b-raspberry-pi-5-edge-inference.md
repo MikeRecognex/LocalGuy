@@ -10,7 +10,7 @@ tags:
   - edge-device-inference
   - edge-inference
   - hardware
-  - inference-speed
+  - inference-optimization
   - memory-optimization
   - model-optimization
   - offline-operation

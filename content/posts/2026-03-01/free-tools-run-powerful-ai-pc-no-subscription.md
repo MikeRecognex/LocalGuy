@@ -9,7 +9,7 @@ tags:
   - data-privacy
   - ease-of-use
   - hobbyist
-  - latency-reduction
+  - inference-optimization
   - local-deployment
   - local-inference
   - ollama

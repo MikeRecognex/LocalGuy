@@ -6,8 +6,8 @@ tags:
   - audio-latency
   - edge-device
   - fish-audio
+  - inference-optimization
   - local-ai-pipelines
-  - low-latency-inference
   - model-fine-tuning
   - multi-speaker-synthesis
   - multilingual-ai

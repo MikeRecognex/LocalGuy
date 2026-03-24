@@ -8,7 +8,7 @@ tags:
   - daily-digest
   - edge-deployment
   - edge-device
-  - inference-speed
+  - inference-optimization
   - local-inference
   - model-benchmarking
   - model-deployment

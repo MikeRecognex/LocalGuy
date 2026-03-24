@@ -10,7 +10,6 @@ tags:
   - edge-device
   - hacker-news
   - inference-optimization
-  - inference-speed
   - llm-quantization
   - local-deployment
   - memory-optimization

@@ -13,9 +13,9 @@ tags:
   - cost-saving
   - developer
   - developer-tooling
-  - efficient-inference
   - hacker-news
   - hardware-constraints
+  - inference-optimization
   - intermediate
   - llm-optimization
   - local-deployment

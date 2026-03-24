@@ -16,7 +16,7 @@ tags:
   - edge-deployment
   - edge-device
   - fine-tuning
-  - latency-reduction
+  - inference-optimization
   - local-deployment
   - memory-optimization
   - model-learning

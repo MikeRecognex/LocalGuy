@@ -9,7 +9,6 @@ tags:
   - ecosystem-development
   - hardware-acceleration
   - hardware-aware-deployment
-  - inference-acceleration
   - inference-optimization
   - local-inference
   - model-optimization

@@ -10,6 +10,7 @@ tags:
   - daily-digest
   - developer
   - electron-ai
+  - inference-optimization
   - intermediate
   - javascript
   - javascript-ai-development
@@ -18,7 +19,6 @@ tags:
   - local-inference
   - local-llm
   - local-llm-ecosystem
-  - low-latency-inference
   - ollama
   - ollama-integration
   - on-device-inference

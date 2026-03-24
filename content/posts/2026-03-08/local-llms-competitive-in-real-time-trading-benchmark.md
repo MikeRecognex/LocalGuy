@@ -10,7 +10,7 @@ tags:
   - decision-making-ai
   - enterprise
   - enterprise-llm-deployment
-  - inference-speed
+  - inference-optimization
   - llm-benchmarking
   - local-inference
   - local-llms

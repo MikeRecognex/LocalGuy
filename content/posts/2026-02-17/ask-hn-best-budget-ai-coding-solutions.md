@@ -11,7 +11,7 @@ tags:
   - developer-tooling
   - discussion
   - edge-deployment
-  - latency-reduction
+  - inference-optimization
   - llama
   - local-deployment
   - local-llms

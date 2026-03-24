@@ -9,7 +9,7 @@ tags:
   - gpu-optimization
   - gpu-utilization
   - hardware-optimization
-  - inference-speed
+  - inference-optimization
   - large-model-optimization
   - llama-cpp
   - llama-cpp-optimization

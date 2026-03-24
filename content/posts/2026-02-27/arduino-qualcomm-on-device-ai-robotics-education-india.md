@@ -12,7 +12,7 @@ tags:
   - edge-inference
   - education
   - hobbyist
-  - inference-acceleration
+  - inference-optimization
   - local-deployment
   - model-optimization
   - news

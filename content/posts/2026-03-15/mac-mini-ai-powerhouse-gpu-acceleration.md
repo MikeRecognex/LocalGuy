@@ -12,7 +12,6 @@ tags:
   - gpu-acceleration
   - hardware
   - inference-optimization
-  - inference-speed
   - local-inference
   - mac-mini-ai
   - macos-integration

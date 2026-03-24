@@ -11,8 +11,8 @@ tags:
   - edge-ai
   - edge-device
   - edge-inference
+  - inference-optimization
   - intermediate
-  - latency-reduction
   - mobile
   - mobile-deployment
   - msn

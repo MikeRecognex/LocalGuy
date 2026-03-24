@@ -11,7 +11,7 @@ tags:
   - domain-specific-training
   - enterprise
   - fine-tuning
-  - inference-latency
+  - inference-optimization
   - local-deployment
   - model-fine-tuning
   - qlora-fine-tuning

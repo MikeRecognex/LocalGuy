@@ -16,7 +16,6 @@ tags:
   - inference-management
   - inference-optimization
   - intermediate
-  - latency-reduction
   - llm-deployment
   - local-deployment
   - local-llm

@@ -18,7 +18,6 @@ tags:
   - hacker-news
   - high-throughput-inference
   - inference-optimization
-  - inference-speed
   - inference-throughput
   - llm-optimization
   - local-deployment

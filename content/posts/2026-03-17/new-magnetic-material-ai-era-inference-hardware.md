@@ -16,8 +16,7 @@ tags:
   - hacker-news
   - hardware
   - hardware-efficiency
-  - inference-acceleration
-  - inference-efficiency
+  - inference-optimization
   - local-inference-acceleration
   - material-science
   - memory-subsystems

@@ -11,7 +11,7 @@ tags:
   - developer
   - edge-device
   - hardware
-  - inference-latency
+  - inference-optimization
   - intermediate
   - memory-bandwidth
   - mlx-framework

@@ -8,9 +8,9 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - efficient-inference
   - hardware
   - hardware-optimization
+  - inference-optimization
   - linux
   - linux-npu-support
   - local-deployment

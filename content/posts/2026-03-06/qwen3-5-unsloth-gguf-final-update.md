@@ -9,7 +9,7 @@ tags:
   - edge-deployment
   - edge-device
   - gguf
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - memory-optimization
   - model-quality

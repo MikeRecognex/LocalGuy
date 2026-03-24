@@ -9,8 +9,7 @@ tags:
   - daily-digest
   - edge-device
   - hardware-acceleration
-  - inference-speed
-  - low-latency-inference
+  - inference-optimization
   - memory-management
   - optimization
   - performance

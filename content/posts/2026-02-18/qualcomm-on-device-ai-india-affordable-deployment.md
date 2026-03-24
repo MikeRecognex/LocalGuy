@@ -10,10 +10,10 @@ tags:
   - edge-ai
   - edge-deployment
   - edge-device
-  - efficient-inference
   - enterprise
   - google
   - hardware-software-co-optimization
+  - inference-optimization
   - mobile-soc
   - news
   - offline-deployment

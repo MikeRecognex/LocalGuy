@@ -12,7 +12,6 @@ tags:
   - edge-device
   - inference
   - inference-optimization
-  - inference-speed
   - intermediate
   - local-inference
   - long-context-llms

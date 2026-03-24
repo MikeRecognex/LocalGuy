@@ -13,7 +13,6 @@ tags:
   - enterprise
   - inference-engine
   - inference-optimization
-  - inference-speed
   - llm-serving
   - local-deployment
   - memory-optimization

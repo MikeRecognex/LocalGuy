@@ -13,7 +13,7 @@ tags:
   - energy-efficiency
   - hardware
   - hardware-selection
-  - inference-efficiency
+  - inference-optimization
   - local-deployment
   - memory-footprint
   - model-benchmarking

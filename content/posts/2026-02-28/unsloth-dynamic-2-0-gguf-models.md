@@ -7,7 +7,7 @@ tags:
   - edge-device
   - gguf
   - gguf-format
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - local-inference
   - memory-optimization

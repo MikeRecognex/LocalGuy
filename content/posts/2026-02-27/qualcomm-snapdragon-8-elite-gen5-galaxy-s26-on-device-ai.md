@@ -8,7 +8,6 @@ tags:
   - hardware
   - hardware-acceleration
   - inference-optimization
-  - inference-speed
   - local-deployment
   - mobile
   - mobile-llm-deployment

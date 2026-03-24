@@ -7,7 +7,7 @@ tags:
   - edge-ai
   - edge-device
   - edge-inference
-  - latency-reduction
+  - inference-optimization
   - local-deployment
   - model-licensing
   - model-optimization

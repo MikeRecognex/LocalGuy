@@ -13,9 +13,9 @@ tags:
   - deep-thinking
   - developer
   - developer-tooling
-  - efficient-inference
   - fp8-quantization
   - inclusionai
+  - inference-optimization
   - intermediate
   - local-deployment
   - local-deployment-efficiency

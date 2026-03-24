@@ -8,7 +8,7 @@ tags:
   - edge-hardware
   - edge-inference
   - hardware-longevity
-  - inference-speed
+  - inference-optimization
   - llama-cpp
   - llama-cpp-deployment
   - mobile-ai-development

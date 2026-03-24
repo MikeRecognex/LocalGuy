@@ -9,7 +9,7 @@ tags:
   - cost-saving
   - data-privacy
   - fine-tuning
-  - inference-speed
+  - inference-optimization
   - local-deployment
   - local-hardware
   - local-model-specialization

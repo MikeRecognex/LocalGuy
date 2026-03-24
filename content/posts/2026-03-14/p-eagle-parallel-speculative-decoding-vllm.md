@@ -10,9 +10,6 @@ tags:
   - deployment-strategy
   - edge-device
   - inference-optimization
-  - inference-speed
-  - inference-speed-optimization
-  - latency-reduction
   - local-deployment
   - news
   - parallel-speculative-decoding

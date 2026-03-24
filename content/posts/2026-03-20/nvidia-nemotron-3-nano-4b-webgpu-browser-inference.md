@@ -14,9 +14,8 @@ tags:
   - developer
   - edge-deployment
   - edge-inference
-  - inference-speed
+  - inference-optimization
   - intermediate
-  - low-latency-inference
   - model-architecture
   - model-size-optimization
   - news
