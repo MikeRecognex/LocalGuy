@@ -6,7 +6,7 @@ tags:
   - advanced
   - community-hardware
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - custom-hardware-builds
   - gpu-interconnect
   - gpu-interconnect-bandwidth

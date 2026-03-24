@@ -10,7 +10,7 @@ tags:
   - consumer-gpu
   - copilot-plus
   - copilot-plus-integration
-  - cpu-only
+  - cpu-inference
   - edge-ai
   - edge-computing
   - enterprise

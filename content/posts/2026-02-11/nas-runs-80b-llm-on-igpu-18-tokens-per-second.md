@@ -7,7 +7,7 @@ tags:
   - consumer-gpu
   - cost-effective-deployment
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - edge-computing
   - hardware-efficiency
   - hardware-optimization

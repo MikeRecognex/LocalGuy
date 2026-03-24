@@ -6,7 +6,7 @@ tags:
   - advanced
   - benchmark
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - cpu-training
   - efficiency
   - efficient-training

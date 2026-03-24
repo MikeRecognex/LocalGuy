@@ -6,7 +6,7 @@ tags:
   - advanced
   - air-gapped-deployment
   - bullish
-  - cpu-only
+  - cpu-inference
   - daily-digest
   - developer
   - edge-computing

@@ -6,7 +6,6 @@ tags:
   - accessibility
   - beginner-friendly
   - cpu-inference
-  - cpu-only
   - hobbyist
   - inference-engine
   - local-deployment

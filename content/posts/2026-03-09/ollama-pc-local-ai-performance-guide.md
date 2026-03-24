@@ -8,7 +8,7 @@ tags:
   - bullish
   - consumer-gpu
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - daily-digest
   - developer
   - gpu

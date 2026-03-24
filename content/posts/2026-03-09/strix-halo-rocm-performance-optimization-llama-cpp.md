@@ -13,7 +13,7 @@ tags:
   - consumer-apu
   - consumer-cpu
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - daily-digest
   - developer
   - efficiency-gains

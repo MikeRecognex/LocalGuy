@@ -6,7 +6,7 @@ tags:
   - acquisition
   - consumer-gpu
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - developer-tooling
   - edge-computing

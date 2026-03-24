@@ -7,7 +7,7 @@ tags:
   - browser-based-inference
   - browser-inference
   - browser-ml
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - hacker-news
   - local-asr-deployment

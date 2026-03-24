@@ -9,7 +9,7 @@ tags:
   - bullish
   - command-execution
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - desktop-ai-assistant
   - desktop-integration

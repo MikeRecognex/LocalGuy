@@ -7,7 +7,6 @@ tags:
   - ai-accessibility
   - bopalvelut-prog
   - cpu-inference
-  - cpu-only
   - cpu-optimization
   - edge-computing
   - gpu-free-inference

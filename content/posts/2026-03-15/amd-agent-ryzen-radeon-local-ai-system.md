@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - cost-saving
   - cpu-gpu-integration
-  - cpu-only
+  - cpu-inference
   - enterprise
   - gpu-acceleration
   - hardware

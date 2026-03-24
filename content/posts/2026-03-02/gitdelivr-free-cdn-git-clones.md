@@ -6,7 +6,7 @@ tags:
   - bandwidth-optimization
   - cdn-for-model-delivery
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - deployment
   - edge-computing
   - git-workflow-optimization

@@ -6,7 +6,7 @@ tags:
   - ai-accelerator-development
   - chips
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - custom-asic
   - datacenter-gpu
   - deployment-strategy

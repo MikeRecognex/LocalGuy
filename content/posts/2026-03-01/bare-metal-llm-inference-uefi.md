@@ -6,7 +6,7 @@ tags:
   - advanced
   - bare-metal
   - bare-metal-inference
-  - cpu-only
+  - cpu-inference
   - edge-computing
   - edge-deployment
   - edge-inference

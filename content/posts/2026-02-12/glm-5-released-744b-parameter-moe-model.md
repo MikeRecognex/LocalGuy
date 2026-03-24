@@ -9,7 +9,7 @@ tags:
   - agents
   - complex-systems-engineering
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - developer-tooling
   - glm
   - local-deployment

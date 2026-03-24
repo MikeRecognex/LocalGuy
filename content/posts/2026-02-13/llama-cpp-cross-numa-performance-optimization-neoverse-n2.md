@@ -9,7 +9,7 @@ tags:
   - arm-server
   - arm-servers
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - edge-computing
   - enterprise
   - llama

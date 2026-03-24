@@ -4,7 +4,7 @@ date: 2026-03-02
 description: AMD announced an expanded lineup of Ryzen AI 400 Series processors, bringing more hardware options for local AI inference across consumer laptops and business workstations. The expansion increases accessibility of dedicated NPU hardware for on-device LLM deployment.
 tags:
   - amd
-  - cpu-only
+  - cpu-inference
   - custom-asic
   - daily-digest
   - data-privacy

@@ -10,7 +10,7 @@ tags:
   - automation
   - comparison
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - daily-digest
   - data-privacy
   - deployment

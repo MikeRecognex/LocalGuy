@@ -10,7 +10,7 @@ tags:
   - consumer-gpu
   - cost-comparison
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - developer-tooling
   - hardware-economics
   - hardware-optimization

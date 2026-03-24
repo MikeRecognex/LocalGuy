@@ -5,7 +5,7 @@ description: "Mozilla's Llamafile, the portable single-file LLM runner, reaches 
 tags:
   - bullish
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - daily-digest
   - dependency-management
   - deployment-strategy

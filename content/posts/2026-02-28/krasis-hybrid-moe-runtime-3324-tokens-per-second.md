@@ -5,7 +5,7 @@ description: New open-source runtime optimises mixture-of-experts models by spli
 tags:
   - advanced
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - framework
   - hardware
   - hybrid-runtime

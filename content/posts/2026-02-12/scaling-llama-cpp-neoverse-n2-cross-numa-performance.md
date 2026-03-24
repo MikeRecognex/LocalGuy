@@ -9,7 +9,7 @@ tags:
   - arm-inference
   - arm-processor
   - arm-processor-inference
-  - cpu-only
+  - cpu-inference
   - edge-ai
   - edge-computing
   - edge-deployment

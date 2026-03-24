@@ -3,7 +3,7 @@ title: Intel Updates LLM-Scaler-vLLM With Support For More Qwen3/3.5 Models
 date: 2026-03-13
 description: Intel has expanded LLM-Scaler-vLLM compatibility to include additional Qwen3 and Qwen3.5 models, improving inference optimization for self-hosted deployments on Intel hardware.
 tags:
-  - cpu-only
+  - cpu-inference
   - datacenter-cpu
   - efficient-deployment
   - hardware

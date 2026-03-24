@@ -6,7 +6,7 @@ tags:
   - advanced
   - aws
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - deployment-strategy
   - edge-computing
   - inference-optimization

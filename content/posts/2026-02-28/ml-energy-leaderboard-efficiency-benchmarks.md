@@ -5,7 +5,7 @@ description: ML.energy launches a comprehensive leaderboard benchmarking model e
 tags:
   - benchmark
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - custom-asic
   - edge-computing
   - edge-deployment

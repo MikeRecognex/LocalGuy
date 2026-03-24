@@ -9,7 +9,7 @@ tags:
   - consumer-gpu
   - cost-effectiveness
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - decentralized-ai
   - edge-ai

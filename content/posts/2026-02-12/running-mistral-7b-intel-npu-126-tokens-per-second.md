@@ -7,8 +7,8 @@ tags:
   - benchmarks
   - consumer-gpu
   - cost-saving
+  - cpu-inference
   - cpu-npu
-  - cpu-only
   - edge-computing
   - edge-deployment
   - inference-optimization

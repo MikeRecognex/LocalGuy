@@ -9,7 +9,7 @@ tags:
   - consumer-gpu
   - cost-efficient
   - cost-efficient-ai
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - edge-inference
   - frugal-ai

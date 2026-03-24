@@ -6,7 +6,7 @@ tags:
   - automated-compatibility-checking
   - benchmark
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - deployment-reliability
   - hardware-assessment
   - hardware-model-matching

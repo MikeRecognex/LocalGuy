@@ -4,7 +4,7 @@ date: 2026-02-16
 description: A new DataFrame library that runs on GPUs, accelerators, and alternative hardware, enabling efficient data processing for local AI inference pipelines.
 tags:
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - data-preprocessing
   - data-processing-optimization
   - developer-tooling

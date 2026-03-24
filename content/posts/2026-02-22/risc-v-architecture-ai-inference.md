@@ -6,7 +6,7 @@ tags:
   - advanced
   - architecture
   - cost-effective-hardware
-  - cpu-only
+  - cpu-inference
   - custom-asic
   - custom-silicon-deployment
   - edge-computing

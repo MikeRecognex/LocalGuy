@@ -6,7 +6,6 @@ tags:
   - consumer-gpu
   - context-window
   - cpu-inference
-  - cpu-only
   - daily-digest
   - edge-computing
   - inference-engine

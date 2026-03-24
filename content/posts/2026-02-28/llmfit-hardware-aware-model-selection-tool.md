@@ -4,7 +4,7 @@ date: 2026-02-28
 description: New terminal utility automatically detects hardware capabilities and recommends optimal LLM models from 497 options across 133 providers, scoring models on quality, speed, and fit.
 tags:
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - deployment-workflow
   - hardware
   - hardware-aware-model-selection

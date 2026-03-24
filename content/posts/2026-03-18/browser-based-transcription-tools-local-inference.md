@@ -11,7 +11,7 @@ tags:
   - bullish
   - cloud-independence
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - developer
   - edge-inference

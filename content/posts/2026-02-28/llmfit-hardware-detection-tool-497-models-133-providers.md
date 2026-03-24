@@ -6,7 +6,7 @@ tags:
   - benchmarking
   - consumer-gpu
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - hardware
   - hardware-profiling
   - inference-optimization

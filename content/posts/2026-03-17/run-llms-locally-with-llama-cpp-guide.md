@@ -8,7 +8,7 @@ tags:
   - context-length-optimization
   - cost-effective-ai
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - daily-digest
   - developer
   - hardware

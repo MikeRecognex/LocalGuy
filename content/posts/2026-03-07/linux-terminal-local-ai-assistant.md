@@ -5,7 +5,7 @@ description: A practical guide demonstrating how to integrate a local AI assista
 tags:
   - ai-customization
   - cli-tools
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - developer-productivity
   - linux

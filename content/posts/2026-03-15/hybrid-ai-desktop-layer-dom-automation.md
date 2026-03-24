@@ -9,7 +9,7 @@ tags:
   - automation
   - biamos
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - data-privacy
   - desktop-ai-layer
   - desktop-inference

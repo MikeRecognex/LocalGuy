@@ -4,7 +4,7 @@ date: 2026-02-22
 description: Ouro 2.6B, a looped inference model, is now available as quantized GGUFs (Q8_0 at 2.7GB and Q4_K_M at 1.6GB) compatible with LM Studio, Ollama, and llama.cpp. This enables accessible local deployment of an innovative thinking model architecture.
 tags:
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - gguf-format
   - inference
   - local-deployment

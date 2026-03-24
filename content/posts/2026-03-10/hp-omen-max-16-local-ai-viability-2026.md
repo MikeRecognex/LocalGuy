@@ -6,7 +6,7 @@ tags:
   - benchmark
   - benchmark-report
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - digital-reviews-network
   - gaming-hardware
   - hardware

@@ -7,7 +7,6 @@ tags:
   - commodity-hardware
   - commodity-hardware-deployment
   - cpu-inference
-  - cpu-only
   - developer-tooling
   - edge-computing
   - edge-deployment

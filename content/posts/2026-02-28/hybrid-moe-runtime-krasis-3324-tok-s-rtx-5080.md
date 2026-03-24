@@ -5,7 +5,7 @@ description: A new hybrid CPU/GPU runtime for mixture-of-experts models delivers
 tags:
   - advanced
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - hardware
   - hardware-utilization
   - hybrid-inference

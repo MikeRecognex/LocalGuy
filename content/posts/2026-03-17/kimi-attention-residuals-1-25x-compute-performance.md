@@ -10,7 +10,7 @@ tags:
   - bullish
   - compute-performance
   - consumer-gpu
-  - cpu-only
+  - cpu-inference
   - developer
   - edge-computing
   - energy-efficiency

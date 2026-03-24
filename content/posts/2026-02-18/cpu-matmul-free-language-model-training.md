@@ -5,7 +5,7 @@ description: Researcher demonstrates training a 13.6M parameter language model e
 tags:
   - advanced
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - cpu-training
   - developer-tooling
   - edge-deployment

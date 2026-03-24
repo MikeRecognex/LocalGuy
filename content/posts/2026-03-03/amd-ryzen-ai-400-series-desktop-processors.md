@@ -8,7 +8,7 @@ tags:
   - copilot-plus
   - copilot-plus-integration
   - cost-effective-hardware
-  - cpu-only
+  - cpu-inference
   - desktop-ai
   - ecosystem-integration
   - edge-computing

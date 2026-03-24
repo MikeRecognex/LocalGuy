@@ -5,7 +5,7 @@ description: A new open-source driver called GreenBoost extends NVIDIA GPU VRAM 
 tags:
   - consumer-gpu
   - cost-saving
-  - cpu-only
+  - cpu-inference
   - greenboost
   - hardware
   - hardware-optimization

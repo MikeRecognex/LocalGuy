@@ -12,7 +12,7 @@ tags:
   - arm-server
   - arm-silicon
   - bullish
-  - cpu-only
+  - cpu-inference
   - datacenter-cpu
   - developer
   - developer-tooling

@@ -10,7 +10,6 @@ tags:
   - arm-sme2-technology
   - cost-saving
   - cpu-inference
-  - cpu-only
   - edge-computing
   - edge-deployment
   - hardware-optimization

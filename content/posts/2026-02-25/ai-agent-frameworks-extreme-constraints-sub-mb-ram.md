@@ -8,7 +8,7 @@ tags:
   - agent-systems
   - agents
   - constraints
-  - cpu-only
+  - cpu-inference
   - edge-computing
   - edge-deployment
   - edge-inference
