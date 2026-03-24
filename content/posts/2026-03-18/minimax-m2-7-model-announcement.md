@@ -14,7 +14,6 @@ tags:
   - llama
   - local-inference
   - model-optimization
-  - multimodal
   - multimodal-ai
   - multimodal-models
   - multimodal-rag

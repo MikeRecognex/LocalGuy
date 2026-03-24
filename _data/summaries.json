@@ -117,15 +117,47 @@
       "postCount": 15
     },
     "2026-03-13": {
-      "text": "Intel updates LLM-Scaler-vLLM with Qwen3 and Qwen3.5 model support.",
-      "postCount": 5
+      "text": "Intel updates LLM-Scaler-vLLM to support Qwen3 and Qwen3.5 models.",
+      "postCount": 4
     },
     "2026-03-14": {
       "text": "QWEN 3.5 27B achieves 2000 tokens per second on RTX-5090 hardware.",
       "postCount": 15
     },
     "2026-03-15": {
-      "text": "AMD launches Ryzen-based Agent System for local AI inference with Radeon GPU acceleration.",
+      "text": "NVIDIA's Nemotron 3 Super enables efficient local LLM deployment on consumer GPUs.",
+      "postCount": 16
+    },
+    "2026-03-16": {
+      "text": "NVIDIA updates Nemotron 3 122B license for local inference.",
+      "postCount": 15
+    },
+    "2026-03-17": {
+      "text": "Mistral releases Leanstral and Small 4 models for local AI applications.",
+      "postCount": 15
+    },
+    "2026-03-18": {
+      "text": "Hugging Face releases llmfit for automatic hardware detection and model selection on local deployments.",
+      "postCount": 15
+    },
+    "2026-03-19": {
+      "text": "Dell's Pro Max 16 Plus features a dedicated NPU for on-device AI inference.",
+      "postCount": 5
+    },
+    "2026-03-20": {
+      "text": "NVIDIA's Nemotron 3 Nano 4B model runs in web browsers via WebGPU.",
+      "postCount": 15
+    },
+    "2026-03-21": {
+      "text": "Atuin v18.13 integrates AI for shell command prediction and history search on local terminals.",
+      "postCount": 15
+    },
+    "2026-03-22": {
+      "text": "ik_llama.cpp fork delivers 26x faster prompt processing on Qwen 3.5 27B models.",
+      "postCount": 15
+    },
+    "2026-03-23": {
+      "text": "Alibaba open-sources Qwen and Wan models for local LLM deployment.",
       "postCount": 15
     }
   },
@@ -149,6 +181,14 @@
     "2026-03-09": {
       "text": "<p>Nemotron 9B and Qwen 3.5 models were highlighted for large-scale local inference. Nota AI showcased on-device AI optimization.</p>\n<p>Posts like \"Fine-Tuned Qwen SLMs\" and \"Qwen 3.5 Ultra-Compact Models\" stood out for local AI advancements.</p>",
       "postCount": 94
+    },
+    "2026-03-16": {
+      "text": "<p>Major stories this week include AMD's declaration that on-device AI inference has reached a critical point, and Apple's on-device AI raising privacy concerns in the British Parliament. Other notable developments include the release of OmniCoder-9B, an efficient coding model for 8GB GPUs, and NVIDIA's update to the Nemotron 3 122B license, removing deployment restrictions.</p>\n<p>Standout posts include \"I Switched to a Local LLM for These 5 Tasks and the Cloud Version Hasn't Been Worth It Since\", which analyzes the cost-benefit of self-hosted LLMs, and \"Ultra-Compact 28M Parameter Models Show Promise for Specialized Domain Tasks\", exploring the potential of tiny models for resource-constrained devices. Additionally, \"Why You Should Use Both ChatGPT and Local LLMs: A Practical Hybrid Approach\" discusses the benefits of a hybrid strategy combining cloud-based and locally-hosted language models.</p>",
+      "postCount": 95
+    },
+    "2026-03-23": {
+      "text": "<p>Alibaba committed to open-sourcing Qwen and Wan models, and Sarvam released 30B and 105B reasoning models.</p>\n<p>Don't miss \"Building a Production AI Receptionist\" and \"Powerful AI Search Engine Built on Single GeForce RTX 5090\" for local LLM insights.</p>",
+      "postCount": 15
     }
   }
 }

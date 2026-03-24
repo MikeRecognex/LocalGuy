@@ -12,7 +12,7 @@ tags:
   - memory-optimization
   - microcontroller-ai
   - model-optimization
-  - multimodal
+  - multimodal-ai
   - offline-deployment
   - on-device-image-analysis
   - quantization

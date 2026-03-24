@@ -9,7 +9,7 @@ tags:
   - edge-deployment
   - local-inference
   - model-viability
-  - multimodal
+  - multimodal-ai
   - multimodal-edge-ai
   - on-device-inference
   - qwen

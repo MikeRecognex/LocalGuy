@@ -11,7 +11,7 @@ tags:
   - local-ai-pipelines
   - multi-speaker-synthesis
   - multilingual-ai
-  - multimodal
+  - multimodal-ai
   - natural-language-control
   - on-device-ai-pipelines
   - open-source

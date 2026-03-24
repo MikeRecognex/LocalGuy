@@ -14,7 +14,7 @@ tags:
   - local-vlm
   - local-vlms
   - memory-optimization
-  - multimodal
+  - multimodal-ai
   - neutral
   - offline-deployment
   - ollama

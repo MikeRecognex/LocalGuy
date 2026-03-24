@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tag Manager — LocalGuy</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    [x-cloak] { display: none !important; }
+    .spinner { animation: spin 1s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen">
+
+  <div id="app" class="max-w-7xl mx-auto px-4 py-6">
+    <!-- Header -->
+    <div class="flex items-center justify-between mb-6">
+      <h1 class="text-2xl font-bold">Tag Manager</h1>
+      <div class="text-sm text-gray-400" id="stats"></div>
+    </div>
+
+    <!-- Tabs -->
+    <div class="flex gap-1 mb-6 border-b border-gray-800">
+      <button onclick="switchTab('dashboard')" data-tab="dashboard"
+        class="tab-btn px-4 py-2 text-sm font-medium rounded-t-lg">Dashboard</button>
+      <button onclick="switchTab('ai')" data-tab="ai"
+        class="tab-btn px-4 py-2 text-sm font-medium rounded-t-lg">AI Merge Suggestions</button>
+      <button onclick="switchTab('history')" data-tab="history"
+        class="tab-btn px-4 py-2 text-sm font-medium rounded-t-lg">History / Undo</button>
+    </div>
+
+    <!-- Tab: Dashboard -->
+    <div id="tab-dashboard" class="tab-content">
+      <!-- Controls -->
+      <div class="flex flex-wrap gap-3 mb-4 items-center">
+        <input type="text" id="search" placeholder="Search tags..."
+          class="bg-gray-900 border border-gray-700 rounded-lg px-3 py-2 text-sm w-64 focus:outline-none focus:border-blue-500"
+          oninput="filterTags()">
+        <div class="flex gap-1 flex-wrap" id="filter-chips"></div>
+        <button onclick="mergeSelected()"
+          class="ml-auto bg-purple-600 hover:bg-purple-700 px-3 py-2 rounded-lg text-sm font-medium hidden"
+          id="merge-btn">Merge Selected (<span id="merge-count">0</span>)</button>
+      </div>
+
+      <!-- Tag Table -->
+      <div class="overflow-x-auto rounded-lg border border-gray-800">
+        <table class="w-full text-sm">
+          <thead class="bg-gray-900">
+            <tr>
+              <th class="px-3 py-2 text-left w-8"><input type="checkbox" id="select-all" onchange="toggleSelectAll()"></th>
+              <th class="px-3 py-2 text-left cursor-pointer hover:text-blue-400" onclick="sortBy('name')">Name</th>
+              <th class="px-3 py-2 text-left cursor-pointer hover:text-blue-400 w-20" onclick="sortBy('count')">Count</th>
+              <th class="px-3 py-2 text-left cursor-pointer hover:text-blue-400 w-32" onclick="sortBy('category')">Category</th>
+              <th class="px-3 py-2 text-left w-48">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="tag-table"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Tab: AI Merge Suggestions -->
+    <div id="tab-ai" class="tab-content hidden">
+      <div class="mb-4">
+        <button onclick="analyzeTags()" id="analyze-btn"
+          class="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-lg text-sm font-medium">
+          Analyze Tags with Gemini
+        </button>
+        <button onclick="applyAllMerges()" id="apply-all-btn"
+          class="bg-green-600 hover:bg-green-700 px-4 py-2 rounded-lg text-sm font-medium ml-2 hidden">
+          Apply All Undismissed
+        </button>
+        <span id="ai-status" class="ml-3 text-sm text-gray-400"></span>
+      </div>
+      <div id="ai-results" class="grid gap-4"></div>
+    </div>
+
+    <!-- Tab: History / Undo -->
+    <div id="tab-history" class="tab-content hidden">
+      <div class="mb-4">
+        <button onclick="loadHistory()"
+          class="bg-gray-700 hover:bg-gray-600 px-4 py-2 rounded-lg text-sm font-medium">
+          Refresh History
+        </button>
+      </div>
+      <div id="history-list" class="space-y-2"></div>
+    </div>
+
+    <!-- Modal -->
+    <div id="modal" class="fixed inset-0 bg-black/70 flex items-center justify-center z-50 hidden">
+      <div class="bg-gray-900 rounded-xl border border-gray-700 p-6 max-w-lg w-full max-h-[80vh] overflow-y-auto">
+        <div class="flex justify-between items-center mb-4">
+          <h3 id="modal-title" class="text-lg font-semibold"></h3>
+          <button onclick="closeModal()" class="text-gray-400 hover:text-white text-xl">&times;</button>
+        </div>
+        <div id="modal-body"></div>
+        <div id="modal-actions" class="mt-4 flex gap-2 justify-end"></div>
+      </div>
+    </div>
+  </div>
+
+<script>
+// State
+let allTags = [];
+let totalPosts = 0;
+let selectedTags = new Set();
+let currentSort = { key: 'count', dir: 'desc' };
+let currentFilter = 'all';
+let aiSuggestions = [];
+let dismissedGroups = new Set();
+
+// --- Init ---
+async function init() {
+  await loadTags();
+  switchTab('dashboard');
+}
+
+// --- API helpers ---
+async function api(path, opts = {}) {
+  const res = await fetch(path, {
+    headers: { 'Content-Type': 'application/json' },
+    ...opts,
+    body: opts.body ? JSON.stringify(opts.body) : undefined,
+  });
+  return res.json();
+}
+
+// --- Load tags ---
+async function loadTags() {
+  const data = await api('/api/tags');
+  allTags = data.tags;
+  totalPosts = data.totalPosts;
+  document.getElementById('stats').textContent =
+    `${allTags.length} tags across ${totalPosts} posts`;
+  buildFilterChips();
+  renderTags();
+}
+
+// --- Filter chips ---
+function buildFilterChips() {
+  const categories = ['all', ...new Set(allTags.map(t => t.category))].sort();
+  // Add special filters
+  const special = ['singletons', 'classifiers'];
+  const chips = [...categories, ...special];
+
+  document.getElementById('filter-chips').innerHTML = chips.map(c =>
+    `<button onclick="setFilter('${c}')" data-filter="${c}"
+      class="filter-chip px-3 py-1 rounded-full text-xs font-medium border
+        ${c === currentFilter ? 'bg-blue-600 border-blue-500 text-white' : 'bg-gray-800 border-gray-700 text-gray-300 hover:border-gray-500'}">
+      ${c}
+    </button>`
+  ).join('');
+}
+
+function setFilter(f) {
+  currentFilter = f;
+  buildFilterChips();
+  renderTags();
+}
+
+// --- Sorting ---
+function sortBy(key) {
+  if (currentSort.key === key) {
+    currentSort.dir = currentSort.dir === 'asc' ? 'desc' : 'asc';
+  } else {
+    currentSort = { key, dir: key === 'count' ? 'desc' : 'asc' };
+  }
+  renderTags();
+}
+
+// --- Render tags table ---
+function renderTags() {
+  const search = document.getElementById('search').value.toLowerCase();
+  let filtered = allTags.filter(t => {
+    if (search && !t.name.includes(search)) return false;
+    if (currentFilter === 'all') return true;
+    if (currentFilter === 'singletons') return t.count === 1;
+    if (currentFilter === 'classifiers') return t.isClassifier;
+    return t.category === currentFilter;
+  });
+
+  filtered.sort((a, b) => {
+    const mul = currentSort.dir === 'asc' ? 1 : -1;
+    if (currentSort.key === 'count') return (a.count - b.count) * mul;
+    return a[currentSort.key].localeCompare(b[currentSort.key]) * mul;
+  });
+
+  const tbody = document.getElementById('tag-table');
+  tbody.innerHTML = filtered.map(t => `
+    <tr class="border-t border-gray-800 hover:bg-gray-900/50">
+      <td class="px-3 py-2">
+        <input type="checkbox" data-tag="${t.name}"
+          ${selectedTags.has(t.name) ? 'checked' : ''}
+          onchange="toggleSelect('${t.name}')">
+      </td>
+      <td class="px-3 py-2 font-mono text-blue-300">${esc(t.name)}</td>
+      <td class="px-3 py-2">${t.count}</td>
+      <td class="px-3 py-2">
+        <span class="px-2 py-0.5 rounded-full text-xs ${categoryColor(t.category)}">${t.category}</span>
+      </td>
+      <td class="px-3 py-2 flex gap-1">
+        <button onclick="showRenameModal('${esc(t.name)}')"
+          class="px-2 py-1 bg-yellow-600/20 text-yellow-400 rounded text-xs hover:bg-yellow-600/40">Rename</button>
+        <button onclick="confirmDelete('${esc(t.name)}', ${t.count})"
+          class="px-2 py-1 bg-red-600/20 text-red-400 rounded text-xs hover:bg-red-600/40">Delete</button>
+        <button onclick="viewPosts('${esc(t.name)}')"
+          class="px-2 py-1 bg-gray-600/20 text-gray-300 rounded text-xs hover:bg-gray-600/40">Posts</button>
+      </td>
+    </tr>
+  `).join('');
+}
+
+function categoryColor(cat) {
+  const colors = {
+    companies: 'bg-blue-900/50 text-blue-300',
+    models: 'bg-green-900/50 text-green-300',
+    tools: 'bg-purple-900/50 text-purple-300',
+    topics: 'bg-orange-900/50 text-orange-300',
+    uncategorized: 'bg-gray-800 text-gray-400',
+  };
+  return colors[cat] || colors.uncategorized;
+}
+
+function esc(s) { return s.replace(/'/g, "\\'").replace(/"/g, '&quot;'); }
+
+// --- Selection ---
+function toggleSelect(tag) {
+  if (selectedTags.has(tag)) selectedTags.delete(tag);
+  else selectedTags.add(tag);
+  updateMergeBtn();
+}
+
+function toggleSelectAll() {
+  const checked = document.getElementById('select-all').checked;
+  document.querySelectorAll('#tag-table input[type=checkbox]').forEach(cb => {
+    const tag = cb.dataset.tag;
+    if (checked) selectedTags.add(tag);
+    else selectedTags.delete(tag);
+    cb.checked = checked;
+  });
+  updateMergeBtn();
+}
+
+function updateMergeBtn() {
+  const btn = document.getElementById('merge-btn');
+  const count = selectedTags.size;
+  document.getElementById('merge-count').textContent = count;
+  btn.classList.toggle('hidden', count < 2);
+}
+
+// --- Modals ---
+function showModal(title, body, actions = '') {
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-body').innerHTML = body;
+  document.getElementById('modal-actions').innerHTML = actions;
+  document.getElementById('modal').classList.remove('hidden');
+}
+
+function closeModal() {
+  document.getElementById('modal').classList.add('hidden');
+}
+
+function showRenameModal(tag) {
+  showModal('Rename Tag', `
+    <div class="mb-3 text-gray-300">Rename <code class="text-blue-300">${tag}</code> to:</div>
+    <input type="text" id="rename-input" value="${tag}"
+      class="w-full bg-gray-800 border border-gray-600 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-blue-500">
+  `, `
+    <button onclick="closeModal()" class="px-4 py-2 bg-gray-700 rounded-lg text-sm">Cancel</button>
+    <button onclick="doRename('${tag}')" class="px-4 py-2 bg-yellow-600 rounded-lg text-sm font-medium">Rename</button>
+  `);
+  document.getElementById('rename-input').focus();
+}
+
+async function doRename(from) {
+  const to = document.getElementById('rename-input').value.trim();
+  if (!to || to === from) return;
+  closeModal();
+  const data = await api('/api/tags/rename', { method: 'POST', body: { from, to } });
+  showToast(`Renamed "${from}" → "${to}" in ${data.modified} posts`);
+  await loadTags();
+}
+
+function confirmDelete(tag, count) {
+  showModal('Delete Tag', `
+    <p class="text-gray-300">Remove <code class="text-red-300">${tag}</code> from <strong>${count}</strong> posts?</p>
+    <p class="text-gray-500 text-sm mt-2">A git commit will be created before this operation for undo safety.</p>
+  `, `
+    <button onclick="closeModal()" class="px-4 py-2 bg-gray-700 rounded-lg text-sm">Cancel</button>
+    <button onclick="doDelete('${tag}')" class="px-4 py-2 bg-red-600 rounded-lg text-sm font-medium">Delete</button>
+  `);
+}
+
+async function doDelete(tag) {
+  closeModal();
+  const data = await api('/api/tags/delete', { method: 'POST', body: { tag } });
+  showToast(`Deleted "${tag}" from ${data.modified} posts`);
+  selectedTags.delete(tag);
+  await loadTags();
+}
+
+async function viewPosts(tag) {
+  const data = await api(`/api/tags/${encodeURIComponent(tag)}/posts`);
+  const list = data.posts.map(p =>
+    `<div class="py-1 text-sm"><span class="text-gray-400">${p.file}</span><br><span class="text-gray-200">${p.title}</span></div>`
+  ).join('');
+  showModal(`Posts tagged "${tag}" (${data.posts.length})`, `<div class="max-h-96 overflow-y-auto divide-y divide-gray-800">${list}</div>`);
+}
+
+// --- Merge selected ---
+function mergeSelected() {
+  const tags = [...selectedTags];
+  const options = tags.map(t =>
+    `<option value="${t}">${t}</option>`
+  ).join('');
+
+  showModal('Merge Tags', `
+    <p class="text-gray-300 mb-3">Merge these tags into one canonical tag:</p>
+    <div class="flex flex-wrap gap-1 mb-3">
+      ${tags.map(t => `<span class="px-2 py-1 bg-gray-800 rounded text-xs font-mono text-blue-300">${t}</span>`).join('')}
+    </div>
+    <label class="text-sm text-gray-400 block mb-1">Canonical tag:</label>
+    <select id="merge-canonical" class="w-full bg-gray-800 border border-gray-600 rounded-lg px-3 py-2 text-sm">
+      ${options}
+    </select>
+  `, `
+    <button onclick="closeModal()" class="px-4 py-2 bg-gray-700 rounded-lg text-sm">Cancel</button>
+    <button onclick="doMerge()" class="px-4 py-2 bg-purple-600 rounded-lg text-sm font-medium">Merge</button>
+  `);
+}
+
+async function doMerge() {
+  const canonical = document.getElementById('merge-canonical').value;
+  const sources = [...selectedTags];
+  closeModal();
+  const data = await api('/api/tags/merge', { method: 'POST', body: { sources, canonical } });
+  showToast(`Merged ${sources.length} tags → "${canonical}" in ${data.modified} posts`);
+  selectedTags.clear();
+  updateMergeBtn();
+  await loadTags();
+}
+
+// --- AI Tab ---
+async function analyzeTags() {
+  const btn = document.getElementById('analyze-btn');
+  const status = document.getElementById('ai-status');
+  btn.disabled = true;
+  status.textContent = 'Analyzing with Gemini 2.5 Flash...';
+
+  try {
+    const data = await api('/api/ai/suggest-merges', { method: 'POST' });
+    aiSuggestions = data.suggestions || [];
+    dismissedGroups = new Set();
+    renderAISuggestions();
+    status.textContent = `Found ${aiSuggestions.length} merge groups`;
+    document.getElementById('apply-all-btn').classList.toggle('hidden', aiSuggestions.length === 0);
+  } catch (err) {
+    status.textContent = 'Error: ' + err.message;
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+function renderAISuggestions() {
+  const container = document.getElementById('ai-results');
+  if (!aiSuggestions.length) {
+    container.innerHTML = '<p class="text-gray-500">No suggestions yet. Click "Analyze Tags" to start.</p>';
+    return;
+  }
+
+  container.innerHTML = aiSuggestions.map((group, i) => {
+    if (dismissedGroups.has(i)) return '';
+    const tagChips = group.tags.map(t =>
+      `<span class="inline-flex items-center gap-1 px-2 py-1 rounded text-xs font-mono
+        ${t.name === group.canonical ? 'bg-green-900/50 text-green-300 ring-1 ring-green-500' : 'bg-gray-800 text-gray-300'}">
+        ${t.name} <span class="text-gray-500">(${t.count})</span>
+      </span>`
+    ).join('');
+
+    return `
+      <div class="border border-gray-800 rounded-lg p-4 bg-gray-900/50" data-group="${i}">
+        <div class="flex flex-wrap gap-1.5 mb-3">${tagChips}</div>
+        <div class="flex items-center gap-2 mb-2">
+          <label class="text-xs text-gray-400">Canonical:</label>
+          <input type="text" value="${group.canonical}" id="canonical-${i}"
+            class="bg-gray-800 border border-gray-700 rounded px-2 py-1 text-sm font-mono text-green-300 flex-1">
+        </div>
+        <p class="text-xs text-gray-500 mb-3">${group.reason || ''}</p>
+        <div class="flex gap-2">
+          <button onclick="applyAIMerge(${i})"
+            class="px-3 py-1.5 bg-green-600 hover:bg-green-700 rounded text-xs font-medium">Apply Merge</button>
+          <button onclick="dismissGroup(${i})"
+            class="px-3 py-1.5 bg-gray-700 hover:bg-gray-600 rounded text-xs font-medium">Dismiss</button>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+async function applyAIMerge(index) {
+  const group = aiSuggestions[index];
+  const canonical = document.getElementById(`canonical-${index}`).value.trim();
+  const sources = group.tags.map(t => t.name);
+  const data = await api('/api/tags/merge', { method: 'POST', body: { sources, canonical } });
+  showToast(`Merged → "${canonical}" in ${data.modified} posts`);
+  dismissedGroups.add(index);
+  renderAISuggestions();
+  await loadTags();
+}
+
+function dismissGroup(index) {
+  dismissedGroups.add(index);
+  renderAISuggestions();
+}
+
+async function applyAllMerges() {
+  for (let i = 0; i < aiSuggestions.length; i++) {
+    if (dismissedGroups.has(i)) continue;
+    await applyAIMerge(i);
+  }
+}
+
+// --- History Tab ---
+async function loadHistory() {
+  const data = await api('/api/history');
+  const container = document.getElementById('history-list');
+
+  if (!data.commits?.length) {
+    container.innerHTML = '<p class="text-gray-500">No recent commits found.</p>';
+    return;
+  }
+
+  container.innerHTML = data.commits.map(c => `
+    <div class="flex items-center justify-between border border-gray-800 rounded-lg px-4 py-3 bg-gray-900/50">
+      <div>
+        <code class="text-yellow-400 text-sm">${c.hash}</code>
+        <span class="text-gray-300 text-sm ml-2">${c.message}</span>
+      </div>
+      <button onclick="restoreCommit('${c.hash}')"
+        class="px-3 py-1.5 bg-orange-600/20 text-orange-400 rounded text-xs hover:bg-orange-600/40">Restore</button>
+    </div>
+  `).join('');
+}
+
+async function restoreCommit(hash) {
+  if (!confirm(`Restore content/posts/ to commit ${hash}? Current changes will be overwritten.`)) return;
+  const data = await api('/api/history/restore', { method: 'POST', body: { hash } });
+  showToast(`Restored posts to ${hash}`);
+  await loadTags();
+}
+
+// --- Tabs ---
+function switchTab(name) {
+  document.querySelectorAll('.tab-content').forEach(el => el.classList.add('hidden'));
+  document.getElementById(`tab-${name}`).classList.remove('hidden');
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    const isActive = btn.dataset.tab === name;
+    btn.classList.toggle('bg-gray-800', isActive);
+    btn.classList.toggle('text-white', isActive);
+    btn.classList.toggle('text-gray-400', !isActive);
+  });
+  if (name === 'history') loadHistory();
+}
+
+function filterTags() { renderTags(); }
+
+// --- Toast ---
+function showToast(msg) {
+  const toast = document.createElement('div');
+  toast.className = 'fixed bottom-4 right-4 bg-gray-800 border border-gray-700 text-gray-100 px-4 py-3 rounded-lg shadow-lg text-sm z-50 transition-opacity';
+  toast.textContent = msg;
+  document.body.appendChild(toast);
+  setTimeout(() => { toast.style.opacity = '0'; setTimeout(() => toast.remove(), 300); }, 3000);
+}
+
+// --- Boot ---
+init();
+</script>
+</body>
+</html>

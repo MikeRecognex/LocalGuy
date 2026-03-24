@@ -23,7 +23,7 @@ tags:
   - low-cost-training
   - model-architecture
   - model-training-specialization
-  - multimodal
+  - multimodal-ai
   - multimodal-llm
   - release
   - researcher

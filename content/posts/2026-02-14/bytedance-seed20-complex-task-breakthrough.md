@@ -19,7 +19,6 @@ tags:
   - model-capabilities
   - model-compatibility
   - model-weights
-  - multimodal
   - multimodal-ai
   - news
   - offline-deployment

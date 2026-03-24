@@ -22,7 +22,7 @@ tags:
   - local-inference
   - marktechpost
   - multi-modal-ai
-  - multimodal
+  - multimodal-ai
   - news
   - nvidia
   - nvidia-gpu

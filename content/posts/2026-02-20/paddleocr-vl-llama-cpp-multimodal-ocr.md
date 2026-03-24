@@ -23,7 +23,6 @@ tags:
   - local-ai-applications
   - local-document-processing
   - multilingual-ocr
-  - multimodal
   - multimodal-ai
   - multimodal-understanding
   - news

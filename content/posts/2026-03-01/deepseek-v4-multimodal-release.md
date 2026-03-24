@@ -12,7 +12,7 @@ tags:
   - infrastructure-management
   - local-deployment
   - model-architecture
-  - multimodal
+  - multimodal-ai
   - multimodal-generation
   - on-device-inference
   - open-source

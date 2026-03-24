@@ -8,7 +8,6 @@ tags:
   - edge-ai
   - edge-computing
   - local-inference
-  - multimodal
   - multimodal-ai
   - news
   - qwen3
