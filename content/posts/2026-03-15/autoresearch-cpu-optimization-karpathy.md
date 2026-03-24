@@ -14,7 +14,6 @@ tags:
   - hacker-news
   - hardware
   - hardware-accessibility
-  - hardware-compatibility
   - hardware-optimization
   - inference
   - open-source

@@ -10,7 +10,6 @@ tags:
   - autonomous-agents
   - bullish
   - consumer-gpu
-  - consumer-hardware
   - daily-digest
   - developer
   - edge-device
@@ -19,6 +18,7 @@ tags:
   - execution-sandboxing
   - gyro-claw
   - hacker-news
+  - hardware
   - intermediate
   - local-agent-deployment
   - local-deployment

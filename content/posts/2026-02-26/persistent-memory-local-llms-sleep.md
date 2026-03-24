@@ -7,7 +7,6 @@ tags:
   - apple-silicon
   - bullish
   - consumer-gpu
-  - consumer-hardware
   - conversational-memory
   - daily-digest
   - data-privacy
@@ -16,6 +15,7 @@ tags:
   - edge-deployment
   - edge-device
   - fine-tuning
+  - hardware
   - inference-optimization
   - local-deployment
   - memory-optimization

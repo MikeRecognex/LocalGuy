@@ -5,12 +5,12 @@ description: ASUS launches the ExpertBook B3 G2, an ultralight laptop featuring 
 tags:
   - amd
   - asus
-  - consumer-hardware
   - cpu-only
   - edge-ai
   - edge-deployment
   - edge-device
   - enterprise
+  - hardware
   - inference-optimization
   - local-inference
   - mobile-deployment

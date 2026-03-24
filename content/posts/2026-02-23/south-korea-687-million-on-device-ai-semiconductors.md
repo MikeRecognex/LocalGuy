@@ -19,7 +19,6 @@ tags:
   - on-device-inference
   - production-deployment
   - semiconductors
-  - specialized-hardware
 mentions:
   - name: MSN
     role: publisher

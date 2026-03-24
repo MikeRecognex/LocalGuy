@@ -11,7 +11,6 @@ tags:
   - edge-device
   - gpu-drivers
   - hardware
-  - hardware-compatibility
   - hardware-utilization
   - hobbyist
   - linux

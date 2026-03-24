@@ -26,7 +26,6 @@ tags:
   - real-time-adaptation
   - seoul-economic-daily
   - showcase
-  - specialized-hardware
 mentions:
   - name: KAIST
     role: developer

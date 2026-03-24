@@ -10,7 +10,6 @@ tags:
   - bun-sqlite-stack
   - cloud-independence
   - consumer-gpu
-  - consumer-hardware
   - daily-digest
   - data-autonomy
   - developer
@@ -18,6 +17,7 @@ tags:
   - edge-deployment
   - edge-device
   - hacker-news
+  - hardware
   - intermediate
   - local-agents
   - local-ai-agents

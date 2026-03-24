@@ -6,10 +6,10 @@ tags:
   - apple-silicon
   - coding
   - coding-assistants
-  - consumer-hardware
   - cost-saving
   - data-privacy
   - enterprise
+  - hardware
   - inference
   - local-coding-assistant
   - local-deployment

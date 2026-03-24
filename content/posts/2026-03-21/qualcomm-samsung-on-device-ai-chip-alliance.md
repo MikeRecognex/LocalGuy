@@ -5,7 +5,6 @@ description: "Strategic partnership expansion between Qualcomm and Samsung focus
 tags:
   - analysis
   - bullish
-  - consumer-device
   - daily-digest
   - data-privacy
   - developer

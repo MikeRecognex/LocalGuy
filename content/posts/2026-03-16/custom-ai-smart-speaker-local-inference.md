@@ -5,7 +5,6 @@ description: "A new project enables building fully local AI-powered smart speake
 tags:
   - bullish
   - cloud-independence
-  - consumer-hardware
   - consumer-hardware-ai
   - consumer-hardware-integration
   - daily-digest

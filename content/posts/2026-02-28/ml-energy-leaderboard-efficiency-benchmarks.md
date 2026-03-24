@@ -12,7 +12,6 @@ tags:
   - energy-consumption
   - energy-efficiency
   - hardware
-  - hardware-selection
   - inference-optimization
   - local-deployment
   - memory-footprint

@@ -19,7 +19,6 @@ tags:
   - local-deployment
   - market-competition
   - on-device-inference-economics
-  - specialized-hardware
   - vendor-lock-in
 mentions:
   - name: Wall Street Journal

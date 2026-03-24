@@ -6,7 +6,6 @@ tags:
   - ai-laptop-market
   - beginner-friendly
   - consumer-gpu
-  - consumer-hardware
   - consumer-laptop-ai-hardware
   - data-privacy
   - edge-deployment

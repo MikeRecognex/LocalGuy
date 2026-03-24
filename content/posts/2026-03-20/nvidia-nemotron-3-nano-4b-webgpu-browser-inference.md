@@ -7,13 +7,13 @@ tags:
   - apple-silicon
   - browser-inference
   - bullish
-  - consumer-device
   - consumer-gpu
   - daily-digest
   - deployment-simplification
   - developer
   - edge-deployment
   - edge-inference
+  - hardware
   - inference-optimization
   - intermediate
   - model-architecture

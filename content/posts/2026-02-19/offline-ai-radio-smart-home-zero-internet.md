@@ -5,8 +5,8 @@ description: A developer in Ukraine built a fully offline AI assistant using a M
 tags:
   - advanced
   - apple-silicon
-  - consumer-hardware
   - edge-device
+  - hardware
   - hardware-integration
   - home-lab
   - local-ai-systems

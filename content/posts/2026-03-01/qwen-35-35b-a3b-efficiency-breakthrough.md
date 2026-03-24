@@ -5,11 +5,11 @@ description: Qwen 3.5-35B-A3B is delivering exceptional performance at one-third
 tags:
   - benchmark
   - consumer-gpu
-  - consumer-hardware
   - cost-saving
   - edge-deployment
   - edge-device
   - efficiency
+  - hardware
   - hardware-optimization
   - inference-optimization
   - local-inference

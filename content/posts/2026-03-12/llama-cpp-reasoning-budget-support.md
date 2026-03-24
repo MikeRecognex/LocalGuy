@@ -3,8 +3,8 @@ title: Llama.cpp Adds True Reasoning Budget Support
 date: 2026-03-12
 description: Llama.cpp has implemented full support for reasoning budgets, allowing users to control and optimize inference costs for reasoning models. This feature moves beyond previous stub implementations to provide real control over thinking token allocation.
 tags:
-  - consumer-hardware
   - cost-saving
+  - hardware
   - inference-optimization
   - llama-cpp
   - local-deployment

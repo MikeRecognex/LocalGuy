@@ -16,7 +16,7 @@ tags:
   - enterprise
   - gemini
   - glm
-  - hardware-selection
+  - hardware
   - intermediate
   - llm-evaluation
   - local-deployment

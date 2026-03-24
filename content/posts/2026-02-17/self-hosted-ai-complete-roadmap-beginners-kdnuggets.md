@@ -7,7 +7,7 @@ tags:
   - beginner-friendly
   - best-practices
   - developer-tooling
-  - hardware-selection
+  - hardware
   - llama
   - llama-cpp
   - llm-frameworks

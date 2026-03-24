@@ -10,7 +10,6 @@ tags:
   - cautious
   - coding
   - consumer-gpu
-  - consumer-hardware
   - context-management
   - context-management-optimization
   - context-window
@@ -18,6 +17,7 @@ tags:
   - developer
   - developer-tooling
   - hacker-news
+  - hardware
   - intermediate
   - llama
   - llama-cpp

@@ -15,7 +15,6 @@ tags:
   - enterprise
   - hardware
   - hardware-comparison
-  - hardware-selection
   - inference-optimization
   - infrastructure-planning
   - intermediate

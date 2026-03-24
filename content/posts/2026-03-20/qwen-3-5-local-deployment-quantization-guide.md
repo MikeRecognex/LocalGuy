@@ -9,7 +9,7 @@ tags:
   - daily-digest
   - developer
   - framework-compatibility
-  - hardware-compatibility
+  - hardware
   - inference-frameworks
   - intermediate
   - local-inference

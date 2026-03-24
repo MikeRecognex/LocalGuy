@@ -6,12 +6,12 @@ tags:
   - advanced
   - bullish
   - consumer-gpu
-  - consumer-hardware
   - cost-saving
   - decoding-methods
   - developer
   - developer-tooling
   - error-correction
+  - hardware
   - inference-error-correction
   - inference-optimization
   - intermediate

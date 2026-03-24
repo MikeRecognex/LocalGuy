@@ -17,7 +17,6 @@ tags:
   - on-device-inference
   - on-device-llm
   - performance
-  - specialized-hardware
   - sram
   - sram-architecture
 mentions:

@@ -7,7 +7,6 @@ tags:
   - analysis
   - bullish
   - consumer-gpu
-  - consumer-hardware
   - cost-saving
   - cpu-only
   - daily-digest
@@ -16,7 +15,6 @@ tags:
   - guide
   - hardware
   - hardware-bottlenecks
-  - hardware-selection
   - inference-optimization
   - intermediate
   - local-inference

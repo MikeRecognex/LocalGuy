@@ -4,7 +4,6 @@ date: 2026-03-22
 description: "A comprehensive guide for Windows users seeking to build a private, local AI system on their PC, eliminating the need for cloud-based AI subscriptions while maintaining full data sovereignty and control."
 tags:
   - bullish
-  - consumer-hardware
   - consumer-pc
   - cost-saving
   - daily-digest

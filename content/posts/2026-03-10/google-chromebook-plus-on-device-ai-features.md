@@ -4,11 +4,10 @@ date: 2026-03-10
 description: Google integrates on-device AI capabilities into the latest Chromebook Plus, enabling local inference for productivity and creative tasks without external cloud connectivity.
 tags:
   - chromebook
-  - consumer-device
   - consumer-devices
-  - consumer-hardware
   - edge-inference
   - google
+  - hardware
   - hardware-ecosystem
   - inference-optimization
   - local-inference

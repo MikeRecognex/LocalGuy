@@ -7,7 +7,6 @@ tags:
   - ai-hardware-materials
   - analysis
   - bullish
-  - consumer-hardware
   - daily-digest
   - developer
   - edge-deployment

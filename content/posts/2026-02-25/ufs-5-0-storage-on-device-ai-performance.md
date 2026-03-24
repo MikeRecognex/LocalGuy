@@ -4,8 +4,6 @@ date: 2026-02-25
 description: UFS 5.0 storage technology is enabling faster on-device AI inference by dramatically improving data throughput on mobile and edge devices. This hardware advancement removes I/O bottlenecks that previously limited local LLM deployment on consumer hardware.
 tags:
   - ai-accelerators
-  - consumer-device
-  - consumer-hardware
   - data-privacy
   - data-throughput
   - edge-device

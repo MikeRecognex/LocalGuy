@@ -9,12 +9,12 @@ tags:
   - cloud-alternative
   - consumer-ai-workstations
   - consumer-gpu
-  - consumer-hardware
   - consumer-pc
   - cost-saving
   - daily-digest
   - data-privacy
   - developer
+  - hardware
   - hobbyist
   - intermediate
   - local-ai-infrastructure

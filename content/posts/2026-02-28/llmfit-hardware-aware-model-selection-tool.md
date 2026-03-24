@@ -8,7 +8,6 @@ tags:
   - deployment-workflow
   - hardware
   - hardware-aware-model-selection
-  - hardware-compatibility
   - model-memory-management
   - model-selection
   - open-source

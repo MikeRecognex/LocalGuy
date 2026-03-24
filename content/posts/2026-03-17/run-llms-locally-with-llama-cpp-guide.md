@@ -5,13 +5,13 @@ description: "A practical guide on leveraging llama.cpp for efficient local LLM 
 tags:
   - bullish
   - consumer-gpu
-  - consumer-hardware
   - context-length-optimization
   - cost-effective-ai
   - cost-saving
   - cpu-only
   - daily-digest
   - developer
+  - hardware
   - hardware-efficiency
   - inference-latency-optimization
   - inference-optimization

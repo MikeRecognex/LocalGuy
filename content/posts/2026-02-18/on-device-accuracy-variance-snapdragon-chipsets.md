@@ -9,7 +9,7 @@ tags:
   - device-heterogeneity
   - edge-device
   - enterprise
-  - hardware-compatibility
+  - hardware
   - hardware-optimization
   - hardware-validation
   - integer-arithmetic

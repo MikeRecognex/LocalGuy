@@ -10,7 +10,7 @@ tags:
   - discussion
   - framework-evaluation
   - hacker-news
-  - hardware-selection
+  - hardware
   - inference-frameworks
   - infrastructure-management
   - local-deployment

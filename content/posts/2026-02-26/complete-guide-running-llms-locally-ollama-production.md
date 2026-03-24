@@ -5,7 +5,6 @@ description: "A comprehensive guide covering the full lifecycle of deploying LLM
 tags:
   - bullish
   - consumer-gpu
-  - consumer-hardware
   - cost-saving
   - daily-digest
   - data-privacy
@@ -13,6 +12,7 @@ tags:
   - deployment-guide
   - developer
   - enterprise
+  - hardware
   - inference-management
   - inference-optimization
   - intermediate

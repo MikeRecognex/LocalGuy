@@ -8,12 +8,12 @@ tags:
   - bullish
   - complex-problem-solving
   - consumer-gpu
-  - consumer-hardware
   - cost-saving
   - deep-thinking
   - developer
   - developer-tooling
   - fp8-quantization
+  - hardware
   - inclusionai
   - inference-optimization
   - intermediate

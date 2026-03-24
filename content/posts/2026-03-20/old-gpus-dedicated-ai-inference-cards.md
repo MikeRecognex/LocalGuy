@@ -7,7 +7,6 @@ tags:
   - bullish
   - cloud-cost-comparison
   - consumer-gpu
-  - consumer-hardware
   - cost-saving
   - cpu-only
   - daily-digest

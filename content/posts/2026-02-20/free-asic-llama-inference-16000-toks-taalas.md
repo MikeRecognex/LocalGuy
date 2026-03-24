@@ -28,7 +28,6 @@ tags:
   - offline-deployment
   - release
   - rlocalllama
-  - specialized-hardware
   - taalas
 status: draft
 ---

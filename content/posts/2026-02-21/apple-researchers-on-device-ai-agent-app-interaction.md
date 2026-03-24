@@ -9,10 +9,10 @@ tags:
   - apple
   - apple-silicon
   - autonomous-ai
-  - consumer-device
   - data-privacy
   - edge-device
   - edge-inference
+  - hardware
   - inference-optimization
   - local-inference
   - news
