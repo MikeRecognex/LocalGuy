@@ -12,7 +12,6 @@ tags:
   - local-deployment
   - model-licensing
   - model-optimization
-  - model-release
   - on-device-inference
   - open-source
   - qwen

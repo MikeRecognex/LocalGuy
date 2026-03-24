@@ -13,7 +13,6 @@ tags:
   - local-llms
   - logical-inference
   - model-customization
-  - model-release
   - model-scaling
   - model-sizes
   - news

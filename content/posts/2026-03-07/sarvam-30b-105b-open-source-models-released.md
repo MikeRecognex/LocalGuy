@@ -10,7 +10,6 @@ tags:
   - llm-ecosystem-growth
   - local-deployment
   - model-diversity
-  - model-release
   - model-training
   - open-source
   - open-source-llm

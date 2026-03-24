@@ -17,7 +17,6 @@ tags:
   - memory-optimization
   - mistral
   - model-quantisation
-  - model-release
   - model-size
   - open-source
   - quantization

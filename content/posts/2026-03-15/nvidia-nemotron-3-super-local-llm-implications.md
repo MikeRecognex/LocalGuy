@@ -11,7 +11,6 @@ tags:
   - inference-optimization
   - local-deployment
   - model-performance
-  - model-release
   - model-selection
   - nemotron-3-super
   - open-source

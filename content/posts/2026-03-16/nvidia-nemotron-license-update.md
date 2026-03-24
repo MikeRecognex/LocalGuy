@@ -16,10 +16,10 @@ tags:
   - local-inference
   - model-customization
   - model-licensing
-  - model-release
   - news
   - open-source
   - production-deployment
+  - release
   - rlocalllama
 mentions:
   - name: r/LocalLLaMA

@@ -10,7 +10,6 @@ tags:
   - local-llm-development
   - model-fine-tuning
   - model-optimization
-  - model-release
   - model-training-efficiency
   - open-source
   - release

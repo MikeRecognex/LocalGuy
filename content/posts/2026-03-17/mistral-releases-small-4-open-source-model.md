@@ -20,7 +20,6 @@ tags:
   - local-deployment
   - local-inference
   - mistral
-  - model-release
   - news
   - open-source
   - quantization

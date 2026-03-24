@@ -11,7 +11,6 @@ tags:
   - hardware-optimization
   - local-deployment
   - model-optimization
-  - model-release
   - model-scaling
   - msn
   - news

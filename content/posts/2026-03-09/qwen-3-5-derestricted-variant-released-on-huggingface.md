@@ -16,7 +16,6 @@ tags:
   - llm-safety
   - local-deployment
   - memory-optimization
-  - model-release
   - news
   - open-source
   - quantization

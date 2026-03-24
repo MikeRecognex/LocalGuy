@@ -17,11 +17,11 @@ tags:
   - model-comparison
   - model-diversity
   - model-performance
-  - model-release
   - news
   - nvidia
   - open-source
   - production-deployment
+  - release
   - rlocalllama
   - supply-chain-risk
 mentions:

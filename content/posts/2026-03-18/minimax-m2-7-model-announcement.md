@@ -13,7 +13,6 @@ tags:
   - intermediate
   - local-inference
   - model-optimization
-  - model-release
   - multimodal
   - multimodal-ai
   - multimodal-models

@@ -12,7 +12,6 @@ tags:
   - model-compatibility
   - model-inference
   - model-optimization
-  - model-release
   - novel-architecture
   - on-device-inference
   - ouro26b-model

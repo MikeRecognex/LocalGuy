@@ -18,7 +18,6 @@ tags:
   - local-deployment
   - mathematical-reasoning
   - mistral
-  - model-release
   - open-source
   - open-source-code-agent
   - release

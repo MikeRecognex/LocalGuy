@@ -8,7 +8,6 @@ tags:
   - hardware-optimization
   - local-deployment
   - model-fine-tuning
-  - model-release
   - model-sizes
   - msn
   - multi-gpu-deployment

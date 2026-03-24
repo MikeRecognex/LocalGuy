@@ -15,12 +15,12 @@ tags:
   - local-inference
   - model-5-35b-a3b
   - model-optimization
-  - model-release
   - news
   - power-efficiency
   - quantization
   - qwen
   - qwen-model
+  - release
 mentions:
   - name: r/LocalLLaMA
     role: community

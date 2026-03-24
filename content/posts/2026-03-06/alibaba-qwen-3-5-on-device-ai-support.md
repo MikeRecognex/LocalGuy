@@ -14,7 +14,6 @@ tags:
   - local-deployment
   - low-latency-ai
   - model-quantisation
-  - model-release
   - on-device-inference
   - qwen
   - release

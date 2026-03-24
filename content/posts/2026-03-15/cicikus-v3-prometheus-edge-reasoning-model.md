@@ -11,13 +11,13 @@ tags:
   - efficient-models
   - model-architecture
   - model-merging
-  - model-release
   - news
   - offline-deployment
   - on-device-inference
   - pthinc
   - quantization
   - reasoning-capabilities
+  - release
 mentions:
   - name: pthinc
     role: model-developer

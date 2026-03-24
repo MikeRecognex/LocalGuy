@@ -10,7 +10,6 @@ tags:
   - local-deployment
   - looped-inference
   - model-architecture
-  - model-release
   - model-release-strategy
   - news
   - ollama

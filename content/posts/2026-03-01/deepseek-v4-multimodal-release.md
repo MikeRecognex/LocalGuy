@@ -11,7 +11,6 @@ tags:
   - infrastructure-management
   - local-deployment
   - model-architecture
-  - model-release
   - multimodal
   - multimodal-generation
   - on-device-inference

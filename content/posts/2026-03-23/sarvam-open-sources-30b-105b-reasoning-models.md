@@ -16,7 +16,6 @@ tags:
   - intermediate
   - local-deployment
   - local-inference
-  - model-release
   - msn
   - news
   - on-device-inference

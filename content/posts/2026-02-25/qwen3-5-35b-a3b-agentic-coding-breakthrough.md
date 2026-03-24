@@ -14,7 +14,6 @@ tags:
   - local-deployment
   - mixture-of-experts
   - model-architecture
-  - model-release
   - open-source
   - qwen
   - release

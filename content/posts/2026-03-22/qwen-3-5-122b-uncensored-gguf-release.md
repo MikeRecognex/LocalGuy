@@ -18,7 +18,6 @@ tags:
   - memory-optimization
   - model-format
   - model-formats
-  - model-release
   - news
   - open-source
   - quantization

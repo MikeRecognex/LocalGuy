@@ -9,9 +9,9 @@ tags:
   - cautious
   - meta
   - model-monitoring
-  - model-release
   - open-source
   - open-source-safety
+  - release
   - responsible-ai-deployment
   - safety
 mentions:
