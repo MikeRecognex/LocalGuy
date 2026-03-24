@@ -13,6 +13,7 @@ tags:
   - experiment
   - fine-tuning
   - hardware
+  - llama
   - memory-optimization
   - model-enhancement
   - model-self-improvement
@@ -21,7 +22,6 @@ tags:
   - reasoning
   - researcher
   - resource-constrained-ai
-  - rlocalllama
   - self-improvement-loops
 mentions:
   - name: r/LocalLLaMA

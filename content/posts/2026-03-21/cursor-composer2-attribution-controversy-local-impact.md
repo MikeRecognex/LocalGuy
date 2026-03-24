@@ -13,6 +13,7 @@ tags:
   - intermediate
   - licensing
   - licensing-compliance
+  - llama
   - local-inference
   - model-attribution
   - model-provenance
@@ -21,7 +22,6 @@ tags:
   - open-source
   - open-source-licensing
   - proprietary-models
-  - rlocalllama
   - vendor-lock-in
 mentions:
   - name: Elon Musk

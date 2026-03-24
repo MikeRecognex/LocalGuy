@@ -6,12 +6,12 @@ tags:
   - agents
   - coding-assistant
   - data-privacy
+  - llama
   - local-deployment
   - open-source
   - open-webui
   - qwen
   - release
-  - rlocalllama
   - system-administration
   - system-automation
   - terminal-integration

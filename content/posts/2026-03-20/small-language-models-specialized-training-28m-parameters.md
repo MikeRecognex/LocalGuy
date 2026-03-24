@@ -17,6 +17,7 @@ tags:
   - experiment
   - fine-tuning
   - intermediate
+  - llama
   - memory-footprint
   - model-optimization
   - model-ownership
@@ -28,7 +29,6 @@ tags:
   - performance-evaluation
   - private-inference
   - quantization
-  - rlocalllama
   - showcase
   - small-language-models
   - small-models

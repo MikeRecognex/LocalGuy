@@ -12,12 +12,12 @@ tags:
   - cost-saving
   - economics
   - enterprise
+  - llama
   - local-deployment
   - local-hardware
   - local-llm-benefits
   - quantization
   - qwen
-  - rlocalllama
   - roi-analysis
   - self-hosted-models
 mentions:

@@ -7,6 +7,7 @@ tags:
   - benchmark-performance
   - benchmarking
   - layer-duplication
+  - llama
   - low-resource-optimization
   - model-architecture
   - model-optimization
@@ -16,7 +17,6 @@ tags:
   - qwen
   - qwen2-model
   - researcher
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: source

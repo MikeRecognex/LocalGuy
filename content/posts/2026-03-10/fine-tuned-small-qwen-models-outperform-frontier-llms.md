@@ -9,6 +9,7 @@ tags:
   - data-privacy
   - fine-tuning
   - inference-optimization
+  - llama
   - local-deployment
   - local-hardware
   - local-model-specialization
@@ -16,7 +17,6 @@ tags:
   - model-optimization
   - qwen
   - resource-optimization
-  - rlocalllama
   - small-language-models
   - small-models
   - task-specific-ai

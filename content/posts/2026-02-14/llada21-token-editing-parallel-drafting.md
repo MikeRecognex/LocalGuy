@@ -15,6 +15,7 @@ tags:
   - inference-error-correction
   - inference-optimization
   - intermediate
+  - llama
   - llm-model
   - local-inference
   - localllama
@@ -24,7 +25,6 @@ tags:
   - production-ops
   - release
   - retroactive-token-editing
-  - rlocalllama
   - token-editing
 
 mentions:

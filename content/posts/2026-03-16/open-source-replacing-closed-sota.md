@@ -11,6 +11,7 @@ tags:
   - enterprise
   - industry-trend
   - intermediate
+  - llama
   - llm-commoditization
   - local-deployment
   - local-inference
@@ -22,7 +23,6 @@ tags:
   - open-source-parity
   - production-deployment
   - proprietary-vs-open-source
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: publisher

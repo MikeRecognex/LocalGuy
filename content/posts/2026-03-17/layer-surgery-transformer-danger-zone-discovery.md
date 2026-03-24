@@ -11,6 +11,7 @@ tags:
   - cost-saving
   - developer
   - fine-tuning
+  - llama
   - memory-optimization
   - model-architecture
   - model-degradation
@@ -22,7 +23,6 @@ tags:
   - research
   - research-report
   - researcher
-  - rlocalllama
   - transformer-architecture
   - transformer-optimization
 mentions:

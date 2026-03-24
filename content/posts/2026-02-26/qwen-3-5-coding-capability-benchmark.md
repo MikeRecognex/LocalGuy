@@ -17,6 +17,7 @@ tags:
   - gpu-resource-management
   - gpu-resource-optimization
   - intermediate
+  - llama
   - local-deployment
   - model-comparison
   - model-performance
@@ -26,7 +27,6 @@ tags:
   - qwen
   - resource-allocation
   - resource-management
-  - rlocalllama
 status: draft
 ---
 

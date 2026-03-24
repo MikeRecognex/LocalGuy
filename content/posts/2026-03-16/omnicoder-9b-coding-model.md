@@ -14,6 +14,7 @@ tags:
   - hardware-optimization
   - ide-integration
   - intermediate
+  - llama
   - local-deployment
   - local-inference
   - local-llm-experimentation
@@ -24,7 +25,6 @@ tags:
   - quantization
   - release
   - resource-efficiency
-  - rlocalllama
   - showcase
   - tool-calling
 status: draft

@@ -13,6 +13,7 @@ tags:
   - edge-deployment
   - gguf-format
   - intermediate
+  - llama
   - llm-deployment
   - local-deployment
   - memory-optimization
@@ -23,7 +24,6 @@ tags:
   - quantization
   - qwen
   - release
-  - rlocalllama
   - uncensored-ai
   - uncensored-llm
   - uncensored-models

@@ -9,6 +9,7 @@ tags:
   - inference-optimization
   - inference-performance-tuning
   - intermediate
+  - llama
   - llama-cpp
   - llama-cpp-optimization
   - model-behavior-control
@@ -19,7 +20,6 @@ tags:
   - prompt-engineering
   - qwen
   - qwen-3-5-reasoning-loops
-  - rlocalllama
   - token-efficiency
   - token-management
   - tutorial

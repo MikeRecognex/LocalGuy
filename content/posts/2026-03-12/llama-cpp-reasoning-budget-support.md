@@ -6,6 +6,7 @@ tags:
   - cost-saving
   - hardware
   - inference-optimization
+  - llama
   - llama-cpp
   - local-deployment
   - news
@@ -15,7 +16,6 @@ tags:
   - reasoning-budget
   - reasoning-quality
   - release
-  - rlocalllama
   - token-management
   - vram-management
 mentions:

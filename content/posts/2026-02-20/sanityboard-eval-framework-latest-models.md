@@ -15,6 +15,7 @@ tags:
   - glm
   - hardware
   - intermediate
+  - llama
   - llm-evaluation
   - local-deployment
   - local-inference
@@ -26,7 +27,6 @@ tags:
   - production-ops
   - qwen
   - release
-  - rlocalllama
   - sanityboard
   - showcase
   - sonnet

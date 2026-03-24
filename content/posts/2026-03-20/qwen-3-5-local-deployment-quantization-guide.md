@@ -11,6 +11,7 @@ tags:
   - hardware
   - inference-frameworks
   - intermediate
+  - llama
   - local-inference
   - model-capabilities
   - model-optimization
@@ -20,7 +21,6 @@ tags:
   - production-deployment
   - quantization
   - qwen
-  - rlocalllama
   - showcase
 mentions:
   - name: r/LocalLLaMA

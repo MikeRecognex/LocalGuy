@@ -11,6 +11,7 @@ tags:
   - developer
   - inference-optimization
   - intermediate
+  - llama
   - local-inference
   - model-architecture
   - model-comparison
@@ -21,7 +22,6 @@ tags:
   - open-source
   - production-deployment
   - release
-  - rlocalllama
   - supply-chain-risk
 mentions:
   - name: r/LocalLLaMA

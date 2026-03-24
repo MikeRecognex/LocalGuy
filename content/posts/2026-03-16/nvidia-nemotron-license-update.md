@@ -13,6 +13,7 @@ tags:
   - license-update
   - licensing
   - licensing-policy
+  - llama
   - local-deployment
   - local-inference
   - model-licensing
@@ -20,7 +21,6 @@ tags:
   - open-source
   - production-deployment
   - release
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: community

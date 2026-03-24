@@ -11,6 +11,7 @@ tags:
   - heterogeneous-hardware
   - heterogeneous-hardware-inference
   - inference-optimization
+  - llama
   - llama-cpp-features
   - llama-cpp-rpc
   - multi-gpu
@@ -19,7 +20,6 @@ tags:
   - news
   - performance-optimization
   - quantization
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: source

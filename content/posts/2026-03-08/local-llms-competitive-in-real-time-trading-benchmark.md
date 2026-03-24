@@ -10,13 +10,13 @@ tags:
   - enterprise
   - enterprise-llm-deployment
   - inference-optimization
+  - llama
   - local-inference
   - local-llms
   - market-data-analysis
   - open-source
   - real-time-trading
   - real-world-application
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: source

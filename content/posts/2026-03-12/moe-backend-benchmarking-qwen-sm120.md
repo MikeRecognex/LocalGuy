@@ -11,13 +11,13 @@ tags:
   - hardware
   - hardware-procurement
   - inference-performance
+  - llama
   - local-deployment
   - mixture-of-experts
   - moe-benchmarking
   - moe-models
   - performance-validation
   - quantization
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: community

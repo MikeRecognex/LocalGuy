@@ -13,13 +13,13 @@ tags:
   - inference-optimization
   - kernel-optimization
   - large-model-inference
+  - llama
   - llm-deployment
   - local-deployment
   - moe-optimization
   - multi-gpu-inference
   - performance-optimization
   - quantization
-  - rlocalllama
   - tutorial
 mentions:
   - name: FlashInfer

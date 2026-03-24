@@ -13,6 +13,7 @@ tags:
   - efficient-model-training
   - efficient-training
   - gpt-oss
+  - llama
   - local-deployment
   - low-bit-quantization
   - low-precision-training
@@ -26,7 +27,6 @@ tags:
   - reddit
   - release
   - resource-efficiency
-  - rlocalllama
   - training
   - uncensored-models
 mentions:

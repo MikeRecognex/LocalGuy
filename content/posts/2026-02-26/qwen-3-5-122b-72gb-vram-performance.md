@@ -13,6 +13,7 @@ tags:
   - hobbyist
   - inference-optimization
   - intermediate
+  - llama
   - llm-deployment
   - local-ai-applications
   - local-deployment
@@ -26,7 +27,6 @@ tags:
   - performance
   - quantization
   - qwen
-  - rlocalllama
   - showcase
 mentions:
   - name: r/LocalLLaMA

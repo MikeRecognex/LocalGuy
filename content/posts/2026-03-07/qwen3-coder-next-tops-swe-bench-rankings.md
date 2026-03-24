@@ -9,12 +9,12 @@ tags:
   - error-recovery
   - instruction-tuning
   - iterative-refinement
+  - llama
   - local-coding-assistants
   - local-development
   - open-source
   - qwen
   - qwen3-coder-next
-  - rlocalllama
   - software-development-ai
   - swe-bench
 mentions:

@@ -21,6 +21,7 @@ tags:
   - inference
   - inference-optimization
   - intermediate
+  - llama
   - llm-framework-optimization
   - local-deployment
   - local-deployment-at-scale
@@ -31,7 +32,6 @@ tags:
   - optimization
   - peking-university
   - release
-  - rlocalllama
   - storage-bandwidth-bottlenecks
   - throughput-optimization
   - tsinghua-university

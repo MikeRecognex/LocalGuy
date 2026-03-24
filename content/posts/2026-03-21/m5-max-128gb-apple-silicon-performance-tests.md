@@ -15,6 +15,7 @@ tags:
   - hardware-transition
   - inference-optimization
   - intermediate
+  - llama
   - llm-deployment
   - local-inference
   - m5-max
@@ -22,7 +23,6 @@ tags:
   - news
   - pcie-bottlenecks
   - production-inference-systems
-  - rlocalllama
   - unified-memory-architecture
 mentions:
   - name: r/LocalLLaMA

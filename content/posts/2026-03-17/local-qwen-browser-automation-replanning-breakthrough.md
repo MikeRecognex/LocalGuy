@@ -14,13 +14,13 @@ tags:
   - bullish
   - developer
   - intermediate
+  - llama
   - local-llm-efficiency
   - model-optimization
   - news
   - open-source
   - qwen
   - reasoning
-  - rlocalllama
   - showcase
   - small-llms
 mentions:

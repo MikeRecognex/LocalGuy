@@ -16,6 +16,7 @@ tags:
   - dhi-5b
   - hobbyist
   - intermediate
+  - llama
   - llm-architecture
   - low-budget-training
   - low-cost-model-training
@@ -27,7 +28,6 @@ tags:
   - multimodal-llm
   - release
   - researcher
-  - rlocalllama
   - training
   - training-optimization
 mentions:

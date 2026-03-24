@@ -11,6 +11,7 @@ tags:
   - derestricted-models
   - developer
   - intermediate
+  - llama
   - llm-deployment
   - llm-experimentation
   - llm-safety
@@ -21,7 +22,6 @@ tags:
   - quantization
   - qwen
   - release
-  - rlocalllama
 mentions:
   - name: ArliAI
     role: publisher

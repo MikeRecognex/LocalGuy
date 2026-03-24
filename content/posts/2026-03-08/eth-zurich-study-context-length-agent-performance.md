@@ -14,6 +14,7 @@ tags:
   - engineers-codex
   - eth-zurich
   - inference-cost-optimization
+  - llama
   - llm-agent-context
   - local-deployment
   - local-deployment-strategy
@@ -21,7 +22,6 @@ tags:
   - optimization
   - research
   - research-report
-  - rlocalllama
 mentions:
   - name: ETH Zurich
     role: research institution

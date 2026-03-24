@@ -14,6 +14,7 @@ tags:
   - inference-cost-reduction
   - intermediate
   - kv-cache-management
+  - llama
   - local-deployment
   - memory-optimization
   - model-optimization
@@ -26,7 +27,6 @@ tags:
   - quantization
   - reasoning-optimization
   - release
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: community-forum

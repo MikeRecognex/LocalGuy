@@ -12,6 +12,7 @@ tags:
   - edge-computing
   - edge-deployment
   - intermediate
+  - llama
   - local-llms
   - news
   - on-device-inference
@@ -20,7 +21,6 @@ tags:
   - qwen
   - qwen-3-5
   - reasoning
-  - rlocalllama
   - showcase
   - task-decomposition
 mentions:

@@ -15,11 +15,11 @@ tags:
   - inference-frameworks
   - inference-optimization
   - large-model-inference
+  - llama
   - llm-deployment
   - local-inference
   - memory-bandwidth
   - news
-  - rlocalllama
 mentions:
   - name: Hardware Canucks
     role: publisher

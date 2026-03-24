@@ -8,13 +8,13 @@ tags:
   - edge-computing
   - edge-deployment
   - inference-optimization
+  - llama
   - llm-deployment
   - local-inference
   - news
   - quantization
   - qwen
   - qwen-model
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: community-forum

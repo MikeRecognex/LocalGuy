@@ -11,6 +11,7 @@ tags:
   - inference-optimization
   - intermediate
   - knowledge-sharing
+  - llama
   - local-deployment
   - model-optimization
   - model-output-quality
@@ -25,7 +26,6 @@ tags:
   - qwen-35-optimization
   - qwen-models
   - resource-optimization
-  - rlocalllama
   - token-efficiency
 mentions:
   - name: r/LocalLLaMA

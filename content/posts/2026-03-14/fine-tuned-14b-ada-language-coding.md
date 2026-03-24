@@ -12,10 +12,10 @@ tags:
   - enterprise
   - fine-tuning
   - inference-optimization
+  - llama
   - local-deployment
   - qlora-fine-tuning
   - qwen
-  - rlocalllama
   - safety-critical-ai
   - specialization
   - specialized-llms

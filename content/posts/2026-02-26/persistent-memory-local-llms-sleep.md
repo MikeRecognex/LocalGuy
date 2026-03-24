@@ -16,6 +16,7 @@ tags:
   - fine-tuning
   - hardware
   - inference-optimization
+  - llama
   - local-deployment
   - memory-optimization
   - model-learning
@@ -31,7 +32,6 @@ tags:
   - persistent-memory
   - personalization
   - rag-alternative
-  - rlocalllama
   - showcase
   - simplified-deployment
   - sleep-mechanism

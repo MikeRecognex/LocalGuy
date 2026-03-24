@@ -11,6 +11,7 @@ tags:
   - edge-deployment
   - efficient-models
   - intermediate
+  - llama
   - local-inference
   - model-optimization
   - multimodal
@@ -19,7 +20,6 @@ tags:
   - multimodal-rag
   - news
   - release
-  - rlocalllama
   - visual-qa
 mentions:
   - name: r/LocalLLaMA

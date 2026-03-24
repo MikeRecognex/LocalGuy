@@ -13,6 +13,7 @@ tags:
   - developer
   - intermediate
   - large-models-on-consumer-hardware
+  - llama
   - local-models
   - model-accuracy
   - model-comparison
@@ -20,7 +21,6 @@ tags:
   - news
   - quantization
   - qwen
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: community

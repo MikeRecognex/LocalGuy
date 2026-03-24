@@ -27,7 +27,6 @@ tags:
   - news
   - offline-deployment
   - release
-  - rlocalllama
   - taalas
 status: draft
 ---

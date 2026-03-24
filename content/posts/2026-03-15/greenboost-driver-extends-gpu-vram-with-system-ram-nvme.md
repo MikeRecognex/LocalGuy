@@ -9,6 +9,7 @@ tags:
   - greenboost
   - hardware
   - hardware-optimization
+  - llama
   - llm-deployment
   - local-deployment
   - memory-optimization
@@ -19,7 +20,6 @@ tags:
   - open-source-software
   - performance-optimization
   - phoronix
-  - rlocalllama
   - tiered-memory
   - vram-expansion
 mentions:

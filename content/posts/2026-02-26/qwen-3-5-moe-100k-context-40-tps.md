@@ -14,6 +14,7 @@ tags:
   - hardware
   - inference-optimization
   - intermediate
+  - llama
   - local-deployment
   - mixture-of-experts
   - moe-inference
@@ -22,7 +23,6 @@ tags:
   - performance
   - quantization
   - qwen
-  - rlocalllama
   - vulkan-backend
   - vulkan-optimization
 mentions:

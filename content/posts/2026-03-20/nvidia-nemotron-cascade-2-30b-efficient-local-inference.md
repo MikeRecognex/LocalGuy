@@ -13,6 +13,7 @@ tags:
   - edge-deployment
   - hardware
   - intermediate
+  - llama
   - local-deployment
   - local-inference
   - memory-optimization
@@ -22,7 +23,6 @@ tags:
   - nvidia
   - open-source
   - release
-  - rlocalllama
 mentions:
   - name: r/LocalLLaMA
     role: source

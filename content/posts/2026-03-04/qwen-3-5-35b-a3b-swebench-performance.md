@@ -8,12 +8,12 @@ tags:
   - consumer-gpu
   - cost-saving
   - data-privacy
+  - llama
   - llm-deployment
   - local-llm-viability
   - open-source
   - open-source-llm-performance
   - qwen
-  - rlocalllama
   - self-hosted
   - software-engineering-ai
   - swe-bench-benchmark
