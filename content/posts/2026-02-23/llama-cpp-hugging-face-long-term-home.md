@@ -4,8 +4,8 @@ date: 2026-02-23
 description: The popular llama.cpp project, essential infrastructure for local LLM inference, has secured a long-term home at Hugging Face. This partnership ensures continued development and maintenance of the widely-used C++ inference engine.
 tags:
   - consumer-gpu
-  - consumer-hardware-optimization
   - cpu-only
+  - hardware-optimization
   - inference
   - llama-cpp
   - local-inference

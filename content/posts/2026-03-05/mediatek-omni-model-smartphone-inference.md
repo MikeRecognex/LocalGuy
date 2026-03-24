@@ -8,7 +8,7 @@ tags:
   - edge-device
   - edge-inference
   - hardware
-  - hardware-software-optimization
+  - hardware-optimization
   - local-deployment
   - mobile-ai
   - model-architecture

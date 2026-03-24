@@ -7,7 +7,6 @@ tags:
   - architecture
   - cloud-fallback
   - consumer-gpu
-  - consumer-hardware-optimization
   - cost-saving
   - device-constraints
   - edge-ai-models
@@ -15,6 +14,7 @@ tags:
   - edge-device
   - edge-inference
   - guide
+  - hardware-optimization
   - local-inference-strategy
   - mobile
   - neutral

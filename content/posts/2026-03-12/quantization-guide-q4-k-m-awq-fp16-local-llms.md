@@ -6,8 +6,8 @@ tags:
   - advanced
   - comparison
   - consumer-gpu
-  - consumer-hardware-optimization
   - floating-point-precision
+  - hardware-optimization
   - local-deployment
   - memory-optimization
   - model-optimization

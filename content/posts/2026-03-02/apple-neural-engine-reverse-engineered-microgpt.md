@@ -7,13 +7,13 @@ tags:
   - apple-neural-engine
   - apple-neural-engine-reverse-engineering
   - apple-silicon
-  - apple-silicon-optimization
   - consumer-gpu
   - coreml-bypass
   - daily-digest
   - fine-tuning
   - hardware
   - hardware-acceleration
+  - hardware-optimization
   - mlx
   - news
   - on-device-training

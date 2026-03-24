@@ -6,9 +6,9 @@ tags:
   - benchmarks
   - comparison
   - consumer-gpu
-  - consumer-hardware-optimization
   - cost-saving
   - developer-tooling
+  - hardware-optimization
   - inference-optimization
   - llama
   - llama-cpp

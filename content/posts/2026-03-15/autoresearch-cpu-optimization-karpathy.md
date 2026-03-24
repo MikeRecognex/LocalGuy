@@ -11,11 +11,11 @@ tags:
   - cpu-optimization
   - edge-device
   - gpu-free-inference
-  - gpu-optimization
   - hacker-news
   - hardware
   - hardware-accessibility
   - hardware-compatibility
+  - hardware-optimization
   - inference
   - open-source
   - research-automation

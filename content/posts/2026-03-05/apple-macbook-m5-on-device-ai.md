@@ -9,7 +9,7 @@ tags:
   - compute-density
   - edge-inference
   - hardware
-  - hardware-software-optimization
+  - hardware-optimization
   - local-inference
   - m5
   - memory-bandwidth

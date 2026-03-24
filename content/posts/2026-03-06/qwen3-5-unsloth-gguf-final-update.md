@@ -5,10 +5,10 @@ description: Unsloth releases final GGUF quantizations for Qwen3.5-122B-A10B and
 tags:
   - benchmark
   - consumer-gpu
-  - consumer-hardware-optimization
   - edge-deployment
   - edge-device
   - gguf
+  - hardware-optimization
   - inference-optimization
   - local-deployment
   - memory-optimization

@@ -12,8 +12,8 @@ tags:
   - cost-saving
   - cpu-only
   - developer-tooling
-  - gpu-optimization
   - hardware-economics
+  - hardware-optimization
   - hardware-roi
   - hardware-strategy
   - local-llm-hardware

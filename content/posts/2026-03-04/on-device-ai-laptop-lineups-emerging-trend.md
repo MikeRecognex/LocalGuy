@@ -12,7 +12,7 @@ tags:
   - edge-deployment
   - enterprise
   - hardware
-  - hardware-software-optimization
+  - hardware-optimization
   - hardware-standardization
   - laptops
   - local-inference

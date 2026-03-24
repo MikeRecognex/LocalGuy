@@ -5,9 +5,9 @@ description: Mirai has secured $10 million in funding to optimize AI model perfo
 tags:
   - consumer-devices
   - consumer-gpu
-  - consumer-hardware-optimization
   - edge-device
   - funding
+  - hardware-optimization
   - hardware-software-co-optimization
   - inference-optimization
   - local-inference-latency

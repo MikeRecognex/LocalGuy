@@ -9,14 +9,13 @@ tags:
   - bullish
   - case-study
   - consumer-gpu
-  - consumer-hardware-optimization
   - cost-effective-inference
   - cost-saving
   - daily-digest
   - developer
-  - gpu-optimization
   - hardware-benchmarking
   - hardware-efficiency
+  - hardware-optimization
   - hardware-reuse
   - hobbyist
   - inference-optimization

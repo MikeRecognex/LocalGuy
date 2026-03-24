@@ -8,10 +8,10 @@ tags:
   - cuda
   - cuda-tile-programming
   - datacenter-gpu
-  - gpu-optimization
   - gpu-utilization
   - hacker-news
   - hardware
+  - hardware-optimization
   - inference-optimization
   - julia-programming
   - llm-inference

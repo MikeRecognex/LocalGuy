@@ -5,7 +5,6 @@ description: GPT4All emerges as a compelling alternative to Ollama for macOS use
 tags:
   - apple
   - apple-silicon
-  - apple-silicon-optimization
   - benchmark-report
   - benchmarks
   - developer-tooling

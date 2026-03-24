@@ -5,12 +5,11 @@ description: A comprehensive benchmark test evaluated performance of local LLM i
 tags:
   - advanced
   - apple-silicon
-  - apple-silicon-optimization
   - apple-silicon-performance
   - benchmark
   - benchmark-report
   - daily-digest
-  - hardware-software-optimization
+  - hardware-optimization
   - local-deployment
   - local-inference
   - mac

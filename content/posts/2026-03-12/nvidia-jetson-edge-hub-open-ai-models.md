@@ -10,7 +10,7 @@ tags:
   - edge-hardware
   - enterprise
   - hardware
-  - hardware-software-optimization
+  - hardware-optimization
   - inference-optimization
   - local-inference
   - news

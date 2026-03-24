@@ -6,11 +6,11 @@ tags:
   - advanced
   - cerebras
   - consumer-gpu
-  - consumer-hardware-optimization
   - deepseek
   - edge-deployment
   - edge-device
   - glm
+  - hardware-optimization
   - minimax
   - model-compression-optimization
   - model-compression-technique

@@ -4,13 +4,13 @@ date: 2026-03-15
 description: A new approach enables Mac Mini systems to leverage external NVIDIA and AMD GPUs for dramatically enhanced local LLM inference performance.
 tags:
   - apple-silicon
-  - apple-silicon-optimization
   - apple-silicon-workarounds
   - consumer-gpu
   - cost-effective-ai
   - external-gpu-acceleration
   - gpu-acceleration
   - hardware
+  - hardware-optimization
   - inference-optimization
   - local-inference
   - mac-mini-ai

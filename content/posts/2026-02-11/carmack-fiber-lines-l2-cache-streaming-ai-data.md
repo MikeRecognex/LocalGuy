@@ -5,9 +5,9 @@ description: John Carmack explores using fiber optic lines as an alternative to 
 tags:
   - advanced
   - consumer-gpu
-  - consumer-hardware-optimization
   - cost-saving
   - fiber-optic-memory
+  - hardware-optimization
   - inference-optimization
   - local-deployment
   - memory-bandwidth

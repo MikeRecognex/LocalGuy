@@ -6,7 +6,6 @@ tags:
   - advanced
   - batch-size-optimization
   - consumer-gpu
-  - gpu-optimization
   - gpu-utilization
   - hardware-optimization
   - inference-optimization
