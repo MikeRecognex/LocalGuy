@@ -6,12 +6,12 @@ tags:
   - ai-output-standardization
   - edge-computing
   - edge-deployment
-  - hacker-news
   - interoperability
   - jse-v2-ai
   - llm-interoperability
   - local-ai-stack
   - local-inference-architecture
+  - news
   - open-source
   - release
   - specifications

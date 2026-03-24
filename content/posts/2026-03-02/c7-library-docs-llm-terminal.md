@@ -8,12 +8,12 @@ tags:
   - code-generation
   - context-management
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer-experience
   - documentation-integration
   - local-inference
   - local-model-utility
+  - news
   - offline-llm-use
   - open-source
   - tools

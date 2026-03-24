@@ -9,7 +9,6 @@ tags:
   - benchmarking
   - cloud-to-local-transition
   - consumer-gpu
-  - daily-digest
   - data-throughput
   - enterprise
   - hardware
@@ -22,6 +21,7 @@ tags:
   - local-ai-workflows
   - local-inference
   - local-inference-platform
+  - news
   - on-device-inference
   - productivity-gains
   - quantization

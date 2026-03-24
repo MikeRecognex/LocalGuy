@@ -7,7 +7,6 @@ tags:
   - air-gapped-deployment
   - bullish
   - cpu-inference
-  - daily-digest
   - developer
   - edge-computing
   - edge-deployment
@@ -16,6 +15,7 @@ tags:
   - intermediate
   - local-only
   - memory-optimization
+  - news
   - offline-deployment
   - optimization
   - resource-constrained-inference

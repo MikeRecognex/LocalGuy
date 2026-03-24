@@ -8,7 +8,6 @@ tags:
   - bullish
   - cost-analysis
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - hobbyist
@@ -17,6 +16,7 @@ tags:
   - local-llm-tools
   - model-comparison
   - msn
+  - news
   - open-source
   - opinion
   - self-hosted

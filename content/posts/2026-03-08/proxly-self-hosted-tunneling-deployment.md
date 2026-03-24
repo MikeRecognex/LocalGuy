@@ -7,12 +7,12 @@ tags:
   - data-residency
   - deployment
   - edge-deployment
-  - hacker-news
   - infrastructure
   - infrastructure-automation
   - infrastructure-management
   - local-first-architecture
   - local-service-exposure
+  - news
   - open-source
   - proxly
   - rapid-deployment

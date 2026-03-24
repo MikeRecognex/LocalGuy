@@ -7,18 +7,17 @@ tags:
   - cloud-independence
   - consumer-hardware-ai
   - consumer-hardware-integration
-  - daily-digest
   - data-privacy
   - developer
   - edge-computing
   - edge-deployment
   - edge-inference
-  - hacker-news
   - hardware
   - hobbyist
   - intermediate
   - local-inference
   - local-smart-speakers
+  - news
   - offline-deployment
   - openhome
   - privacy-preservation

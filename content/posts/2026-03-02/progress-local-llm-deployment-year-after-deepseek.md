@@ -6,7 +6,6 @@ tags:
   - benchmarking
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - deepseek
   - hardware
@@ -14,6 +13,7 @@ tags:
   - local-deployment
   - local-deployment-economics
   - model-accessibility
+  - news
   - quantization
 mentions:
   - name: r/LocalLLaMA

@@ -8,9 +8,9 @@ tags:
   - data-privacy
   - edge-deployment
   - educational-ai
-  - hacker-news
   - local-inference
   - local-llms
+  - news
   - offline-ai-tutor
   - offline-deployment
   - on-device-inference

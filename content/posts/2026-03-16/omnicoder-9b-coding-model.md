@@ -10,7 +10,6 @@ tags:
   - coding-model
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - developer
   - hardware-optimization
   - ide-integration
@@ -19,6 +18,7 @@ tags:
   - local-inference
   - local-llm-experimentation
   - memory-optimization
+  - news
   - on-device-inference
   - open-source
   - quantization

@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - cost-saving
   - cpu-inference
-  - daily-digest
   - developer
   - gpu
   - gpu-repurposing
@@ -21,6 +20,7 @@ tags:
   - local-inference
   - local-llm-accessibility
   - msn
+  - news
   - quantization
   - quantized-models
   - sustainable-ai

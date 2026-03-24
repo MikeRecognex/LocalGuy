@@ -7,7 +7,6 @@ tags:
   - api-free
   - bullish
   - cost-saving
-  - daily-digest
   - developer
   - electron-ai
   - inference-optimization
@@ -19,6 +18,7 @@ tags:
   - local-inference
   - local-llm
   - local-llm-ecosystem
+  - news
   - ollama
   - ollama-integration
   - on-device-inference

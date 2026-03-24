@@ -11,10 +11,8 @@ tags:
   - bullish
   - context-window
   - cost-saving
-  - daily-digest
   - deployment-strategy
   - developer
-  - hacker-news
   - high-throughput-inference
   - inference-optimization
   - inference-throughput
@@ -22,6 +20,7 @@ tags:
   - model-optimization
   - multi-user-deployment
   - neutral
+  - news
   - offline-deployment
   - performance-bottlenecks
   - performance-optimization

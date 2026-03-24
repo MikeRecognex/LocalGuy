@@ -10,7 +10,7 @@ tags:
   - defense-in-depth
   - deployment
   - enterprise
-  - hacker-news
+  - news
   - open-source
   - open-source-ai-security
   - prompt-injection-defense

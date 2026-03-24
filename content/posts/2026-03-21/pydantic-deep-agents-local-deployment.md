@@ -8,7 +8,6 @@ tags:
   - ai-agent-deployment
   - bullish
   - cost-saving
-  - daily-digest
   - data-privacy
   - deep-agent-frameworks
   - deep-agents
@@ -16,10 +15,10 @@ tags:
   - enterprise
   - framework
   - guide
-  - hacker-news
   - intermediate
   - local-inference
   - multi-step-reasoning
+  - news
   - open-source
   - pydantic
   - pydantic-agents

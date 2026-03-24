@@ -7,7 +7,6 @@ tags:
   - analysis
   - bullish
   - business-applications
-  - daily-digest
   - developer
   - domain-specific-models
   - edge-ai
@@ -24,6 +23,7 @@ tags:
   - model-size-limits
   - model-training
   - neutral
+  - news
   - open-source
   - performance-evaluation
   - private-inference

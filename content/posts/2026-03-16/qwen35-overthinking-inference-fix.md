@@ -5,7 +5,6 @@ description: "Community members share techniques to mitigate Qwen 3.5's verbose 
 tags:
   - analysis
   - bullish
-  - daily-digest
   - developer
   - inference-optimization
   - inference-performance-tuning
@@ -16,6 +15,7 @@ tags:
   - model-behavior-tuning
   - model-optimization
   - model-verbosity-control
+  - news
   - prompt-engineering
   - qwen
   - qwen-3-5-reasoning-loops

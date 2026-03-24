@@ -8,7 +8,6 @@ tags:
   - bullish
   - community-driven-insights
   - consumer-gpu
-  - daily-digest
   - developer
   - inference
   - inference-engines
@@ -19,6 +18,7 @@ tags:
   - memory-optimization
   - model-optimization
   - model-size-on-consumer-hardware
+  - news
   - quantization
   - qwen
   - qwen-3-5-architecture

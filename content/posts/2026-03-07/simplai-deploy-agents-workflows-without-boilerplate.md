@@ -10,10 +10,10 @@ tags:
   - deployment
   - enterprise
   - frameworks
-  - hacker-news
   - llm-application-development
   - local-llm-deployment-security
   - local-llm-development
+  - news
   - operational-efficiency
   - self-hosted
   - simplai

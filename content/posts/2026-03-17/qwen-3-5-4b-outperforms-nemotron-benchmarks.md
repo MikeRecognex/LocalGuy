@@ -7,7 +7,6 @@ tags:
   - bullish
   - comparison
   - consumer-gpu
-  - daily-digest
   - developer
   - edge-ai
   - edge-computing
@@ -16,6 +15,7 @@ tags:
   - model-optimization
   - model-selection
   - neutral
+  - news
   - open-source
   - quantization
 status: draft

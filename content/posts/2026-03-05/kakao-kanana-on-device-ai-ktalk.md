@@ -12,12 +12,12 @@ tags:
   - edge-ai
   - edge-computing
   - edge-inference
-  - google-news
   - inference-optimization
   - kakao
   - kanana
   - mobile-ai
   - model-optimization
+  - news
   - on-device-agents
   - on-device-inference
   - practical-deployment

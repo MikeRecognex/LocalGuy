@@ -8,10 +8,10 @@ tags:
   - bots-of-wallstreet
   - data-privacy
   - deployment
-  - hacker-news
   - latency-optimization
   - local-inference
   - multi-agent
+  - news
   - open-source
   - scalable-multi-agent-systems
   - self-hosted

@@ -11,15 +11,14 @@ tags:
   - case-study
   - code-generation
   - cursor
-  - daily-digest
   - developer
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
   - model-adaptation
   - model-architecture
   - model-optimization
+  - news
   - open-source
   - reddit
   - reinforcement-learning-fine-tuning

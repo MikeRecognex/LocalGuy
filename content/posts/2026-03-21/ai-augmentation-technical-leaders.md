@@ -6,7 +6,6 @@ tags:
   - ai-augmentation
   - analysis
   - best-practices
-  - daily-digest
   - deployment
   - deployment-strategy
   - enterprise
@@ -16,6 +15,7 @@ tags:
   - llm-frameworks
   - local-deployment
   - neutral
+  - news
   - on-device-vs-cloud
   - organizational
   - organizational-adoption

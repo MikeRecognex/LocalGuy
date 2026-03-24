@@ -11,11 +11,11 @@ tags:
   - constrained-environments
   - edge-computing
   - github
-  - hacker-news
   - lightweight-ai-agents
   - lightweight-llms
   - local-deployment
   - minimal-dependencies
+  - news
   - open-source
   - shareai-lab
   - tools

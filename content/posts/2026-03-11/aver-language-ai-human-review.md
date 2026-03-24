@@ -11,12 +11,11 @@ tags:
   - code-generation-tooling
   - code-review
   - code-review-compliance
-  - daily-digest
   - enterprise
   - framework
-  - hacker-news
   - human-ai-collaboration
   - language-design
+  - news
   - open-source
   - self-hosted-llms
   - tools

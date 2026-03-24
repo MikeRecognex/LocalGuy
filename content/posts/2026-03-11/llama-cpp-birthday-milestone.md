@@ -6,7 +6,6 @@ tags:
   - consumer-gpu
   - context-window
   - cpu-inference
-  - daily-digest
   - edge-computing
   - inference-engine
   - llama-cpp

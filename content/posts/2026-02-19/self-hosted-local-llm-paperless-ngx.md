@@ -6,7 +6,6 @@ tags:
   - analysis
   - bullish
   - cost-saving
-  - daily-digest
   - data-privacy
   - document-management
   - document-processing
@@ -18,6 +17,7 @@ tags:
   - local-llm-applications
   - local-llm-architecture
   - msn
+  - news
   - offline-deployment
   - on-premises-deployment
   - open-source

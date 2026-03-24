@@ -5,7 +5,6 @@ description: Analysis comparing web frameworks by token consumption when used wi
 tags:
   - agents
   - benchmarking
-  - daily-digest
   - edge-computing
   - edge-deployment
   - inference-cost-optimization
@@ -13,6 +12,7 @@ tags:
   - local-deployment-optimization
   - memory-optimization
   - neutral
+  - news
   - optimization
   - resource-management
   - token-efficiency

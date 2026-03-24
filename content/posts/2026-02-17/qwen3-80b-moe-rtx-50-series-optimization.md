@@ -11,7 +11,6 @@ tags:
   - consumer-gpu
   - consumer-hardware-ai
   - cost-saving
-  - daily-digest
   - developer-tooling
   - hardware-optimization
   - inference-optimization
@@ -21,6 +20,7 @@ tags:
   - moe
   - moe-architecture
   - multi-gpu-inference
+  - news
   - qwen
   - tutorial
   - vram-management

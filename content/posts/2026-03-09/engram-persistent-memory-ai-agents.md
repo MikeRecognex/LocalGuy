@@ -10,17 +10,16 @@ tags:
   - bun-sqlite-stack
   - cloud-independence
   - consumer-gpu
-  - daily-digest
   - data-autonomy
   - developer
   - edge-computing
   - edge-database
   - edge-deployment
-  - hacker-news
   - hardware
   - intermediate
   - local-deployment
   - memory-optimization
+  - news
   - on-device-inference
   - open-source
   - persistent-memory

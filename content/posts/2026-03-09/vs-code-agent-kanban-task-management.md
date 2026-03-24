@@ -7,18 +7,17 @@ tags:
   - ai-task-management
   - appsoftware
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - developer-productivity
   - developer-tools
   - developer-workflow-integration
-  - hacker-news
   - ide-integration
   - intermediate
   - local-deployment
   - local-inference-deployment
   - local-llm-workflow-coordination
+  - news
   - open-source
   - showcase
   - task-management

@@ -6,14 +6,13 @@ tags:
   - ai-content-transparency
   - ai-watermarking
   - compliance-assurance
-  - daily-digest
   - detection
   - github
-  - hacker-news
   - local-deployment
   - local-development
   - model-analysis
   - neutral
+  - news
   - open-source
   - self-hosted
   - tools

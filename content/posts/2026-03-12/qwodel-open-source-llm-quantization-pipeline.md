@@ -8,12 +8,12 @@ tags:
   - development-workflow
   - edge-computing
   - edge-deployment
-  - hacker-news
   - inference-optimization
   - llm-quantization
   - local-deployment
   - memory-optimization
   - model-optimization
+  - news
   - open-source
   - quantization
   - release

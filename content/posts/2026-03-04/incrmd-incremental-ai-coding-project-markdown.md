@@ -13,11 +13,11 @@ tags:
   - developer-productivity
   - development-tools
   - fine-tuning
-  - hacker-news
   - incrmd
   - llm-prompt-engineering
   - local-llm-development
   - local-model-efficiency
+  - news
   - open-source
 mentions:
   - name: Incrmd

@@ -13,12 +13,12 @@ tags:
   - bullish
   - debugging
   - developer
-  - hacker-news
   - intermediate
   - langchain
   - llamaindex
   - local-agent-systems
   - local-deployment
+  - news
   - observability
   - open-source
   - process-mining

@@ -5,7 +5,6 @@ description: "A comprehensive tutorial walks through deploying a self-hosted AI 
 tags:
   - api-server-configuration
   - bullish
-  - daily-digest
   - deployment
   - deployment-best-practices
   - developer
@@ -15,6 +14,7 @@ tags:
   - local-deployment
   - local-inference-server
   - model-optimization
+  - news
   - performance-optimization
   - production-deployment
   - quantization

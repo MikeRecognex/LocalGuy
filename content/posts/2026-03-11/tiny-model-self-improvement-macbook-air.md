@@ -7,7 +7,6 @@ tags:
   - code-generation
   - consumer-gpu
   - consumer-laptop
-  - daily-digest
   - distributed-learning
   - edge-ai
   - edge-computing
@@ -18,6 +17,7 @@ tags:
   - memory-optimization
   - model-enhancement
   - model-self-improvement
+  - news
   - quantization
   - researcher
   - resource-constrained-ai

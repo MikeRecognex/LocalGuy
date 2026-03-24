@@ -9,7 +9,6 @@ tags:
   - community-optimization
   - consumer-gpu
   - consumer-hardware-deployment
-  - daily-digest
   - developer
   - edge-computing
   - edge-deployment
@@ -22,6 +21,7 @@ tags:
   - local-inference
   - mistral
   - model-release
+  - news
   - open-source
   - quantization
   - release

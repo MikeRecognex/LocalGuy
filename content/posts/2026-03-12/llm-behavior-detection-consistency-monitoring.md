@@ -6,7 +6,6 @@ tags:
   - advanced
   - aelitium-dev
   - deployment-tools
-  - hacker-news
   - inference-reliability
   - llm-monitoring
   - model-behavioral-monitoring
@@ -14,6 +13,7 @@ tags:
   - model-optimization
   - model-reproducibility
   - monitoring
+  - news
   - production
   - production-deployment
   - reliability

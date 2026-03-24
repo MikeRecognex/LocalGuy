@@ -5,7 +5,6 @@ description: "A practical guide for deploying language models on resource-constr
 tags:
   - analysis
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - edge-computing
@@ -19,6 +18,7 @@ tags:
   - iot-ai
   - memory-optimization
   - model-optimization
+  - news
   - quantization
   - raspberry-pi
   - sitepoint

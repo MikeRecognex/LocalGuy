@@ -5,7 +5,6 @@ description: A novel approach to running Claude Code as a static page with Unix/
 tags:
   - advanced
   - cost-saving
-  - daily-digest
   - deployment-architecture
   - developer-tooling
   - distributed-inference
@@ -13,6 +12,7 @@ tags:
   - edge-deployment
   - local-deployment
   - minimal-infrastructure-deployment
+  - news
   - offline-deployment
   - production-ops
   - static-asset-ai

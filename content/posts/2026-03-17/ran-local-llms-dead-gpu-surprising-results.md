@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - cost-effective-inference
   - cost-saving
-  - daily-digest
   - developer
   - hardware-benchmarking
   - hardware-efficiency
@@ -20,6 +19,7 @@ tags:
   - intermediate
   - legacy-gpu-inference
   - msn
+  - news
   - quantization
 mentions:
   - name: MSN

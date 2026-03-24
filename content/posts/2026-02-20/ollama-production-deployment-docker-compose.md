@@ -6,7 +6,6 @@ tags:
   - bullish
   - container-orchestration
   - cost-saving
-  - daily-digest
   - data-privacy
   - deployment-guide
   - developer
@@ -17,6 +16,7 @@ tags:
   - intermediate
   - local-deployment
   - local-inference
+  - news
   - offline-deployment
   - ollama
   - ollama-deployment

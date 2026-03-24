@@ -4,7 +4,6 @@ date: 2026-03-02
 description: Qualcomm unveiled the Snapdragon Wear Elite chip at MWC 2026, bringing dedicated on-device AI capabilities to smartwatches and wearables. This represents a significant upgrade in edge inference capabilities for constrained devices.
 tags:
   - arm-processor
-  - daily-digest
   - data-privacy
   - edge-computing
   - edge-inference

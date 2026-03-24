@@ -11,10 +11,10 @@ tags:
   - coding-assistants
   - cost-saving
   - data-privacy
-  - hacker-news
   - inference
   - local-code-models
   - local-vs-cloud-deployment
+  - news
   - open-source
   - program-comprehension
   - reverse-engineering

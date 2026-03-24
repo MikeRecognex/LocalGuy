@@ -7,7 +7,6 @@ tags:
   - bullish
   - constrained-hardware-deployment
   - constrained-hardware-optimization
-  - daily-digest
   - deployment
   - deployment-strategy
   - developer
@@ -21,6 +20,7 @@ tags:
   - intermediate
   - model-optimization
   - neutral
+  - news
   - nota-ai
   - on-device-ai-optimization
   - production

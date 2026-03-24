@@ -11,11 +11,11 @@ tags:
   - conversation-serialization
   - developer
   - developer-tooling
-  - hacker-news
   - llm-api-design
   - local-deployment
   - multi-user-systems
   - neutral
+  - news
   - offline-deployment
   - ollama
   - opinion

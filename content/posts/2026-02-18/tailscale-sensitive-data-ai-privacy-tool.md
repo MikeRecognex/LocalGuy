@@ -4,7 +4,6 @@ date: 2026-02-18
 description: Tailscale has developed a tool designed to ensure organizations can keep sensitive data local while preventing accidental exposure to cloud AI APIs, reinforcing the security case for local inference.
 tags:
   - cloud-security
-  - daily-digest
   - data-leakage-prevention
   - data-locality
   - data-privacy
@@ -18,6 +17,7 @@ tags:
   - local-inference
   - local-inference-security
   - model-optimization
+  - news
   - offline-deployment
   - openai
   - privacy-control

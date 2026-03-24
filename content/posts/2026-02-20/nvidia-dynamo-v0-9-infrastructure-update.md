@@ -6,7 +6,6 @@ tags:
   - bullish
   - consumer-gpu
   - creative-generation
-  - daily-digest
   - datacenter-gpu
   - developer
   - developer-tooling

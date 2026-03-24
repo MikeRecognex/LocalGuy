@@ -8,7 +8,6 @@ tags:
   - batch-processing
   - bullish
   - consumer-gpu
-  - daily-digest
   - developer
   - hardware
   - inference-optimization
@@ -19,6 +18,7 @@ tags:
   - model-optimization
   - natural-language-processing
   - nemotron
+  - news
   - patent-classification
   - real-time-ai
   - showcase

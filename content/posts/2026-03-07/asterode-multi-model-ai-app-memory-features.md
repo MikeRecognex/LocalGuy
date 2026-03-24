@@ -6,7 +6,6 @@ tags:
   - asterodeai
   - edge-computing
   - edge-device-optimization
-  - hacker-news
   - local-deployment
   - local-inference
   - memory-optimization
@@ -14,6 +13,7 @@ tags:
   - multi-model
   - multi-model-deployment
   - multi-model-inference
+  - news
   - on-device-inference
   - open-source
   - performance-optimization

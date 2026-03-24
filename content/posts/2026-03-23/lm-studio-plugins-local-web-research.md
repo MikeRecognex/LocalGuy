@@ -6,7 +6,6 @@ tags:
   - analysis
   - api-independence
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - enterprise
@@ -18,6 +17,7 @@ tags:
   - lm-studio-features
   - local-web-research
   - model-reliability
+  - news
   - offline-deployment
   - production-deployment
   - rag

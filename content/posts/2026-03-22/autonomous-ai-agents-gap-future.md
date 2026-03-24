@@ -12,18 +12,17 @@ tags:
   - architecture
   - autonomous-systems
   - cautious
-  - daily-digest
   - data-privacy
   - developer
   - discussion
   - edge-ai-challenges
   - edge-computing
-  - hacker-news
   - intermediate
   - local-deployment
   - local-deployment-limitations
   - memory-optimization
   - neutral
+  - news
   - on-device-inference
 mentions:
   - name: Hacker News

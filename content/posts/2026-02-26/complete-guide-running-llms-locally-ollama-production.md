@@ -6,7 +6,6 @@ tags:
   - bullish
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - deployment
   - deployment-guide
@@ -19,6 +18,7 @@ tags:
   - llm-deployment
   - local-deployment
   - local-llm
+  - news
   - ollama
   - ollama-deployment
   - ollama-setup

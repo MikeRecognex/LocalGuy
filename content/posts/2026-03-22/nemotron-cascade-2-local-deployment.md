@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - consumer-gpu-inference
   - cuda-optimization
-  - daily-digest
   - developer
   - inference-optimization
   - intermediate
@@ -19,6 +18,7 @@ tags:
   - model-diversity
   - model-performance
   - model-release
+  - news
   - nvidia
   - open-source
   - production-deployment

@@ -9,12 +9,12 @@ tags:
   - consumer-gpu
   - edge-computing
   - edge-inference
-  - hacker-news
   - kv-cache-optimization
   - local-deployment
   - local-llm-agents
   - memory-architecture
   - memory-optimization
+  - news
   - performance
   - reasoning-workloads
   - recurrent-state-memory

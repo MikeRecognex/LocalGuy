@@ -8,7 +8,6 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
-  - daily-digest
   - datacenter-gpu
   - developer
   - edge-computing
@@ -20,6 +19,7 @@ tags:
   - model-optimization
   - model-performance
   - neutral
+  - news
   - quantization
   - qwen
   - small-model-performance

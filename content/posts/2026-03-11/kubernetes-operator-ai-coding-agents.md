@@ -8,14 +8,13 @@ tags:
   - ai-operator
   - ai-software-development
   - containerized-llm-deployment
-  - daily-digest
   - deployment
   - gitops-deployment
-  - hacker-news
   - kubernetes
   - kubernetes-deployment
   - medium
   - multi-agent-workflows
+  - news
   - orchestration
   - private-infrastructure-deployment
   - self-building-agents

@@ -4,7 +4,6 @@ date: 2026-02-18
 description: Sarvam AI has released an Edge model designed specifically for affordable, on-device inference, positioning itself as a competitive alternative to cloud-based AI from Google and OpenAI.
 tags:
   - cost-saving
-  - daily-digest
   - data-privacy
   - decentralized-ai
   - edge-ai
@@ -13,6 +12,7 @@ tags:
   - google
   - local-deployment
   - local-inference
+  - news
   - offline-deployment
   - on-device-inference
   - openai

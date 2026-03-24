@@ -8,18 +8,17 @@ tags:
   - apple-silicon
   - bullish
   - consumer-gpu
-  - daily-digest
   - data-privacy
   - developer
   - developer-experience
   - dictare
-  - hacker-news
   - intermediate
   - local-ai-workflows
   - local-deployment
   - local-inference
   - mlx-acceleration
   - mlx-framework
+  - news
   - open-source
   - showcase
   - voice-ai-agents

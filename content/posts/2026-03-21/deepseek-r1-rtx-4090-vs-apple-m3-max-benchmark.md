@@ -8,7 +8,6 @@ tags:
   - comparison
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - deepseek
   - developer
   - enterprise
@@ -20,6 +19,7 @@ tags:
   - local-deployment
   - memory-optimization
   - neutral
+  - news
   - performance-optimization
   - sitepoint
 mentions:

@@ -6,7 +6,6 @@ tags:
   - ai-penetration-testing
   - cybersecurity-automation
   - cybersecuritynews
-  - daily-digest
   - data-privacy
   - data-sovereignty
   - enterprise-security
@@ -16,6 +15,7 @@ tags:
   - local-deployment
   - local-llm-use-case
   - mcp
+  - news
   - ollama
   - ollama-integration
   - on-device-inference

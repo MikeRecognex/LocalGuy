@@ -9,7 +9,6 @@ tags:
   - bullish
   - consumer-gpu
   - consumer-hardware-performance
-  - daily-digest
   - developer
   - hardware
   - inference-optimization
@@ -20,6 +19,7 @@ tags:
   - moe-architecture
   - moe-inference
   - moe-inference-efficiency
+  - news
   - performance
   - quantization
   - qwen

@@ -9,7 +9,6 @@ tags:
   - apple-silicon
   - consumer-gpu
   - coreml-bypass
-  - daily-digest
   - fine-tuning
   - hardware
   - hardware-acceleration

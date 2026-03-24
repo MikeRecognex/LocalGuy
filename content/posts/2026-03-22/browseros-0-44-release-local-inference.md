@@ -10,7 +10,6 @@ tags:
   - browseros
   - bullish
   - cost-saving
-  - daily-digest
   - data-privacy
   - deployment-architecture
   - developer
@@ -20,6 +19,7 @@ tags:
   - local-ai-integration
   - low-latency
   - neowin
+  - news
   - open-source
   - privacy-by-design
   - quantization

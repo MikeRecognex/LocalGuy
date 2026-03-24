@@ -13,7 +13,6 @@ tags:
   - cloud-independence
   - cost-analysis
   - cost-saving
-  - daily-digest
   - data-privacy
   - decentralized-inference
   - developer
@@ -26,6 +25,7 @@ tags:
   - local-inference-adoption
   - makeuseof
   - model-optimization
+  - news
   - offline-deployment
   - operational-efficiency
   - production-ops

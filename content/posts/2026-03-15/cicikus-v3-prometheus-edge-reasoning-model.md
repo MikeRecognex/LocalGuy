@@ -9,10 +9,10 @@ tags:
   - edge-inference
   - edge-reasoning
   - efficient-models
-  - hacker-news
   - model-architecture
   - model-merging
   - model-release
+  - news
   - offline-deployment
   - on-device-inference
   - pthinc

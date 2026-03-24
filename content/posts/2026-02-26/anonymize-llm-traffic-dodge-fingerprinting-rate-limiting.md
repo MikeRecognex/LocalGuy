@@ -11,13 +11,11 @@ tags:
   - bullish
   - claw-shield
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - enterprise
   - geofencing
   - github
-  - hacker-news
   - hybrid-deployment
   - hybrid-model-deployment
   - inference-privacy
@@ -26,6 +24,7 @@ tags:
   - local-deployment
   - model-routing
   - neutral
+  - news
   - rate-limit-circumvention
   - regulatory-compliance
   - security

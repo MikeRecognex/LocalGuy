@@ -9,12 +9,12 @@ tags:
   - ai-agent-framework
   - ai-workflow-orchestration
   - alibaba
-  - daily-digest
   - edge-computing
   - edge-deployment
   - local-deployment
   - mcp
   - model-context-protocol
+  - news
   - open-source
   - release
   - self-hosted

@@ -14,13 +14,13 @@ tags:
   - developer
   - edge-computing
   - energy-efficiency
-  - hacker-news
   - hardware-performance-tuning
   - inference-frameworks
   - inference-optimization
   - kimi
   - llm-architecture
   - local-deployment
+  - news
   - open-source
   - performance-optimization
   - quantization

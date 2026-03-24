@@ -15,8 +15,8 @@ tags:
   - desktop-integration
   - desktop-productivity
   - dom-automation
-  - hacker-news
   - local-model-automation
+  - news
   - on-device-inference
   - open-source
   - workflow-automation

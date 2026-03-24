@@ -6,11 +6,11 @@ tags:
   - advanced
   - batch-processing
   - consumer-gpu
-  - daily-digest
   - edge-computing
   - hardware-acceleration
   - inference-optimization
   - memory-optimization
+  - news
   - optimization
   - performance
   - performance-optimization

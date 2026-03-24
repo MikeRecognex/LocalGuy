@@ -8,7 +8,6 @@ tags:
   - benchmarking
   - benchmarking-framework
   - bullish
-  - daily-digest
   - developer
   - edge-deployment
   - enterprise
@@ -21,6 +20,7 @@ tags:
   - local-inference
   - model-comparison
   - model-selection
+  - news
   - offline-deployment
   - on-device-inference
   - open-source

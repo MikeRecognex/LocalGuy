@@ -13,7 +13,6 @@ tags:
   - continue-extension
   - cost-saving
   - cursor
-  - daily-digest
   - data-privacy
   - developer
   - development
@@ -22,6 +21,7 @@ tags:
   - intermediate
   - local-ai-development
   - local-coding-assistant
+  - news
   - ollama
   - ollama-deployment
   - self-hosted

@@ -5,7 +5,6 @@ description: Community member demonstrates a portable gaming and AI workstation 
 tags:
   - advanced
   - consumer-gpu
-  - daily-digest
   - edge-ai
   - edge-computing
   - gpu-cooling
@@ -13,6 +12,7 @@ tags:
   - inference
   - inference-optimization
   - local-deployment
+  - news
   - on-device-inference
   - optimization
   - portable-ai-workstation

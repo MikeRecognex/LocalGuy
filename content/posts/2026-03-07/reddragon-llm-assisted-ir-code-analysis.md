@@ -3,21 +3,21 @@ title: "Show HN: RedDragon – LLM-Assisted IR Analysis of Code Across Languages
 date: 2026-03-07
 description: An open-source tool leveraging LLMs for intermediate representation analysis and code interpretation across multiple programming languages, enabling local-first code analysis workflows.
 tags:
+  - RedDragon
   - code-analysis
   - developer-tooling
   - developer-tools
   - enterprise
-  - hacker-news
   - intermediate-representation-analysis
   - llm-assisted-code-analysis
   - local-code-analysis
   - local-inference
   - local-llm-applications
+  - news
   - open-source
   - reddragon
   - security-auditing
   - static-code-analysis
-  - RedDragon
 mentions:
   - name: RedDragon
     role: project

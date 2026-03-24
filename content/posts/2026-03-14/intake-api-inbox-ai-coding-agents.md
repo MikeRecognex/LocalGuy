@@ -8,7 +8,6 @@ tags:
   - agents
   - ai-coding-agents
   - deployment
-  - hacker-news
   - local-deployment
   - news
   - open-source

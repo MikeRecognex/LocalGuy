@@ -5,12 +5,12 @@ description: Users report impressive performance metrics with Qwen 3.5 27B runni
 tags:
   - benchmarking
   - consumer-gpu
-  - daily-digest
   - edge-computing
   - edge-deployment
   - inference-optimization
   - local-inference
   - model-deployment
+  - news
   - quantization
   - qwen
   - qwen-model

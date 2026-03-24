@@ -6,7 +6,6 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
-  - daily-digest
   - developer
   - framework-compatibility
   - hardware
@@ -16,6 +15,7 @@ tags:
   - model-capabilities
   - model-optimization
   - model-performance
+  - news
   - open-source
   - production-deployment
   - quantization

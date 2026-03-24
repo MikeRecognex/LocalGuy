@@ -7,18 +7,17 @@ tags:
   - bullish
   - cloud-independence
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - developer-tooling
   - edge-ai-systems
   - edge-computing
   - edge-deployment
-  - hacker-news
   - intermediate
   - local-deployment
   - local-inference
   - model-optimization
+  - news
   - offline-deployment
   - portable-ai
   - quantization

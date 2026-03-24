@@ -7,7 +7,6 @@ tags:
   - benchmarking
   - bullish
   - cost-saving
-  - daily-digest
   - developer
   - enterprise
   - industry-trend
@@ -18,6 +17,7 @@ tags:
   - model-commoditization
   - model-comparison
   - model-performance
+  - news
   - open-source
   - open-source-parity
   - production-deployment

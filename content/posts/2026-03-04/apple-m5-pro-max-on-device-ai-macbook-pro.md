@@ -12,7 +12,6 @@ tags:
   - edge-inference
   - energy-efficiency
   - enterprise
-  - google-news
   - hardware
   - hothardwarecom
   - inference-optimization

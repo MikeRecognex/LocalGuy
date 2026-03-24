@@ -4,7 +4,6 @@ date: 2026-03-09
 description: "HackerNoon publishes an updated comprehensive guide for running local LLMs, covering current best practices and tooling in 2026. The guide serves as a practical reference for practitioners setting up self-hosted inference systems."
 tags:
   - bullish
-  - daily-digest
   - deployment
   - deployment-efficiency
   - deployment-patterns
@@ -12,7 +11,6 @@ tags:
   - developer
   - developer-experience
   - guide
-  - hacker-news
   - hackernoon
   - inference-frameworks
   - intermediate
@@ -21,6 +19,7 @@ tags:
   - memory-optimization
   - model-optimization
   - model-selection
+  - news
   - ollama
   - ollama-deployment
   - optimization-strategies

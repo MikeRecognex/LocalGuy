@@ -8,7 +8,6 @@ tags:
   - consumer-gpu
   - consumer-hardware-deployment
   - cost-effective-ai
-  - daily-digest
   - developer
   - hardware
   - hobbyist

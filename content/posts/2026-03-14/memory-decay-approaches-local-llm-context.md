@@ -8,10 +8,10 @@ tags:
   - context-window-management
   - decay-memory
   - efficiency-optimization
-  - hacker-news
   - inference-optimization
   - local-llm-frameworks
   - memory-optimization
+  - news
   - performance
   - research
   - stack-research

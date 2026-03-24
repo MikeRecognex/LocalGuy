@@ -12,7 +12,6 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
-  - daily-digest
   - developer
   - dualpath-technique
   - edge-ai
@@ -21,7 +20,6 @@ tags:
   - edge-deployment
   - edge-device-ai
   - efficiency-optimization
-  - hacker-news
   - inference-architecture
   - inference-optimization
   - inference-performance
@@ -30,6 +28,7 @@ tags:
   - local-inference
   - memory-bandwidth
   - memory-bandwidth-optimization
+  - news
   - on-device-deployment-frameworks
   - on-device-frameworks
   - on-device-inference

@@ -7,13 +7,13 @@ tags:
   - benchmarking
   - bullish
   - code-generation
-  - daily-digest
   - data-privacy
   - developer
   - edge-computing
   - edge-deployment
   - intermediate
   - local-llms
+  - news
   - on-device-inference
   - open-source
   - planning-tasks

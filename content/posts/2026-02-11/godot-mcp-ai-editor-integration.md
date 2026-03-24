@@ -17,7 +17,6 @@ tags:
   - github
   - godot
   - godot-mcp
-  - hacker-news
   - intermediate
   - local-ai-applications
   - local-ai-automation

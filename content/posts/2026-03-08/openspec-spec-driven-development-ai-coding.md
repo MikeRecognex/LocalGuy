@@ -10,10 +10,10 @@ tags:
   - development-methodology
   - fission-ai
   - frameworks
-  - hacker-news
   - hallucination-reduction
   - local-development
   - model-reliability
+  - news
   - open-source
   - open-source-tool
   - production-deployment

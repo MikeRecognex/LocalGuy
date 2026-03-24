@@ -9,7 +9,6 @@ tags:
   - cpu-optimization
   - cpu-orchestration
   - custom-asic
-  - daily-digest
   - developer
   - edge-computing
   - edge-inference
@@ -18,6 +17,7 @@ tags:
   - hardware
   - industrial-hardware
   - intermediate
+  - news
   - npu
   - npu-inference
   - performance-per-watt

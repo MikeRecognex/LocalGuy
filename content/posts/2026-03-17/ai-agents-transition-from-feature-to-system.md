@@ -14,12 +14,12 @@ tags:
   - developer
   - edge-computing
   - edge-deployment
-  - hacker-news
   - langchain
   - llamaindex
   - local-deployment
   - memory-optimization
   - neutral
+  - news
   - on-device-inference
   - open-source
 mentions:

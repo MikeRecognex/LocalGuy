@@ -8,7 +8,6 @@ tags:
   - bullish
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - enterprise
@@ -19,6 +18,7 @@ tags:
   - infrastructure-strategy
   - intermediate
   - local-vs-cloud
+  - news
   - offline-deployment
   - open-source
   - resource-management

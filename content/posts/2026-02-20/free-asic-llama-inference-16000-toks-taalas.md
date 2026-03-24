@@ -11,7 +11,6 @@ tags:
   - consumer-gpu
   - cost-saving
   - custom-asic
-  - daily-digest
   - developer
   - developer-tooling
   - gpu-constraints
@@ -25,6 +24,7 @@ tags:
   - llama
   - local-deployment
   - local-deployment-accessibility
+  - news
   - offline-deployment
   - release
   - rlocalllama

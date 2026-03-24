@@ -7,7 +7,6 @@ tags:
   - consumer-gpu
   - consumer-gpu-inference
   - consumer-hardware-deployment
-  - daily-digest
   - data-privacy
   - developer
   - edge-computing
@@ -20,6 +19,7 @@ tags:
   - model-format
   - model-formats
   - model-release
+  - news
   - open-source
   - quantization
   - qwen

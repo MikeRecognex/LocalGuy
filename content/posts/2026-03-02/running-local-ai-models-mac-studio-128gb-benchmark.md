@@ -7,7 +7,6 @@ tags:
   - apple-silicon
   - apple-silicon-performance
   - benchmarking
-  - daily-digest
   - hardware-optimization
   - local-deployment
   - local-inference
@@ -15,6 +14,7 @@ tags:
   - mlx
   - mlx-framework
   - model-scaling
+  - news
   - quantization
 status: published
 ---

@@ -7,7 +7,6 @@ tags:
   - agents
   - ai-auditability
   - ai-governance
-  - daily-digest
   - deployment
   - development-workflows
   - enterprise
@@ -16,6 +15,7 @@ tags:
   - local-llm-adoption
   - mcp
   - model-context-protocol
+  - news
   - open-source
   - security
   - security-controls

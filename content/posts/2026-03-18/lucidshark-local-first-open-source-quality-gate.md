@@ -11,13 +11,13 @@ tags:
   - developer
   - edge-computing
   - edge-inference
-  - hacker-news
   - intermediate
   - local-first
   - local-inference
   - local-quality-assurance
   - lucidsharkcom
   - model-validation
+  - news
   - on-device-inference
   - open-source
   - production-deployment

@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - cost-saving
   - cpu-inference
-  - daily-digest
   - developer
   - gpu
   - guide
@@ -21,6 +20,7 @@ tags:
   - msn
   - msncom
   - neutral
+  - news
   - ollama
   - ollama-optimization
   - ollama-performance

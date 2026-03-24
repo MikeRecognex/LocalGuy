@@ -9,13 +9,13 @@ tags:
   - content-automation
   - discussion
   - framework-evaluation
-  - hacker-news
   - hardware
   - inference-frameworks
   - infrastructure-management
   - local-deployment
   - model-selection
   - neutral
+  - news
   - open-source
   - quantization
   - tools

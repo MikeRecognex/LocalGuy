@@ -11,7 +11,6 @@ tags:
   - arm-silicon
   - binary-translation
   - compatibility-layers
-  - daily-digest
   - edge-ai
   - edge-computing
   - hardware

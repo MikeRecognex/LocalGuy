@@ -9,7 +9,6 @@ tags:
   - cost-effective-ai
   - cost-saving
   - cpu-inference
-  - daily-digest
   - developer
   - hardware
   - hardware-efficiency
@@ -20,6 +19,7 @@ tags:
   - local-deployment
   - local-inference
   - model-optimization
+  - news
   - quantization
   - startuphubai
   - tutorial

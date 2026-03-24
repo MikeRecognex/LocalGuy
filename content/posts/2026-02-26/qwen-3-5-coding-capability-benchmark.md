@@ -12,7 +12,6 @@ tags:
   - coding
   - coding-llms
   - consumer-gpu
-  - daily-digest
   - developer
   - evaluation-methodology
   - gpu-resource-management
@@ -22,6 +21,7 @@ tags:
   - model-performance
   - model-selection
   - neutral
+  - news
   - performance
   - qwen
   - resource-allocation

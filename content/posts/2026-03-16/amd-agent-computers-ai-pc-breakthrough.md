@@ -8,7 +8,6 @@ tags:
   - bullish
   - cloud-independence
   - consumer-gpu
-  - daily-digest
   - developer
   - edge-inference
   - future-of-ai

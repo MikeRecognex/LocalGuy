@@ -7,7 +7,6 @@ tags:
   - chosunbiz
   - consumer-gpu
   - cross-platform-compatibility
-  - daily-digest
   - edge-ai
   - edge-computing
   - edge-inference
@@ -17,6 +16,7 @@ tags:
   - low-power
   - low-power-inference
   - microcontroller
+  - news
   - npu-hardware
   - npu-mcu
   - open-source

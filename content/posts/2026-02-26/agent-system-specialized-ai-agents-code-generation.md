@@ -10,10 +10,8 @@ tags:
   - code-generation
   - computational-efficiency
   - cost-saving
-  - daily-digest
   - developer
   - error-handling
-  - hacker-news
   - intermediate
   - local-deployment
   - model-optimization
@@ -21,6 +19,7 @@ tags:
   - modular-ai-architecture
   - modular-ai-systems
   - multi-agent-system
+  - news
   - on-device-inference
   - open-source
   - orchestration

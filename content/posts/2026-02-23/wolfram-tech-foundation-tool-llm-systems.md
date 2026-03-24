@@ -5,13 +5,13 @@ description: Stephen Wolfram outlines integration of Wolfram computational engin
 tags:
   - advanced
   - cloud-independence
-  - daily-digest
   - hybrid-ai-systems
   - integration
   - llm-tool-integration
   - local-deployment
   - local-llms
   - natural-language-understanding
+  - news
   - open-source
   - reasoning
   - release

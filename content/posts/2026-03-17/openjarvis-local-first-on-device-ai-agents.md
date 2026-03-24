@@ -8,13 +8,13 @@ tags:
   - bullish
   - cloud-independence
   - cloud-to-edge-migration
-  - daily-digest
   - data-privacy
   - dataconomy
   - developer
   - edge-computing
   - intermediate
   - local-first
+  - news
   - on-device-execution
   - on-device-inference
   - openjarvis

@@ -7,12 +7,12 @@ tags:
   - ai-infrastructure-gaps
   - cautious
   - community-ai-development
-  - daily-digest
   - data-privacy
   - data-sovereignty
   - edge-deployment
   - local-deployment
   - local-model-development
+  - news
   - offline-deployment
   - on-device-inference
   - open-source

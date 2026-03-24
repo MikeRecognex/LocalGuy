@@ -11,12 +11,12 @@ tags:
   - deterministic-policy-engine
   - edge-inference
   - enterprise
-  - hacker-news
   - llm-governance
   - local-deployment
   - local-llm-applicability
   - model-auditing
   - model-reliability
+  - news
   - offline-deployment
   - open-source
   - release

@@ -7,7 +7,6 @@ tags:
   - autonomous-ai
   - bullish
   - cloud-agnostic-deployment
-  - daily-digest
   - data-governance
   - data-privacy
   - deployment
@@ -15,9 +14,9 @@ tags:
   - edge-computing
   - enterprise
   - github
-  - hacker-news
   - intermediate
   - internal-software-framework
+  - news
   - on-device-inference
   - open-source
   - project-showcase

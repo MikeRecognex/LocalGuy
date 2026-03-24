@@ -8,7 +8,6 @@ tags:
   - bullish
   - code-assistance
   - consumer-gpu
-  - daily-digest
   - data-privacy
   - developer
   - developer-tooling
@@ -16,7 +15,6 @@ tags:
   - developer-workflow
   - developer-workflow-enhancement
   - editor-integration
-  - hacker-news
   - ide-integration
   - inference-optimization
   - intermediate
@@ -25,6 +23,7 @@ tags:
   - local-first-ai
   - local-llm-development
   - model-optimization
+  - news
   - offline-deployment
   - ohdoylerulescom
   - tutorial

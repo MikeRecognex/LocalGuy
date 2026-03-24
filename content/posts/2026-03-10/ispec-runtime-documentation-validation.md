@@ -9,9 +9,9 @@ tags:
   - deployment-platform
   - deployment-reliability
   - github
-  - hacker-news
   - local-deployment
   - model-validation
+  - news
   - open-source
   - production-reliability
   - runtime-validation

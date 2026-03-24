@@ -12,11 +12,11 @@ tags:
   - edge-computing
   - edge-deployment
   - edge-device-management
-  - hacker-news
   - intermediate
   - lightweight-utility
   - local-inference
   - local-inference-orchestration
+  - news
   - optimization
   - production-deployment
   - resource-constrained-deployment

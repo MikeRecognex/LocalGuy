@@ -10,7 +10,6 @@ tags:
   - code-privacy
   - code-quality-analysis
   - code-review
-  - daily-digest
   - data-sovereignty
   - enterprise
   - git-integration
@@ -18,6 +17,7 @@ tags:
   - intermediate
   - local-inference
   - local-llms
+  - news
   - prompt-engineering
   - risk-reduction
   - security

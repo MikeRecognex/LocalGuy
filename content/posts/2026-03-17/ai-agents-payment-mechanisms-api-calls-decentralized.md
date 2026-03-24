@@ -24,11 +24,11 @@ tags:
   - edge-computing
   - edge-deployment
   - ethereum-l2-base
-  - hacker-news
   - hybrid-ai-architecture
   - hybrid-ai-architectures
   - intermediate
   - neutral
+  - news
   - on-device-payments
   - open-source
   - paywatcher

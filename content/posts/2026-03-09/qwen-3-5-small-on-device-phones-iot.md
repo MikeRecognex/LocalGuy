@@ -5,7 +5,6 @@ description: "Alibaba's Qwen 3.5 Small model brings efficient LLM inference to m
 tags:
   - advanced
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - edge-ai
@@ -16,6 +15,7 @@ tags:
   - intermediate
   - mobile-ai
   - model-optimization
+  - news
   - offline-deployment
   - on-device-inference
   - open-source

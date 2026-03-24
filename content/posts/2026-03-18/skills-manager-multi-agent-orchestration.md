@@ -14,10 +14,10 @@ tags:
   - bullish
   - data-privacy
   - developer
-  - hacker-news
   - hybrid-ai-deployment
   - hybrid-model-deployment
   - intermediate
+  - news
   - open-source
   - orchestration
   - showcase

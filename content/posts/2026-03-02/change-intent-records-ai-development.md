@@ -8,7 +8,6 @@ tags:
   - analysis
   - bullish
   - change-intent-records
-  - daily-digest
   - developer
   - developer-experience
   - developer-intent
@@ -18,13 +17,13 @@ tags:
   - edge-inference
   - fine-tuning
   - fine-tuning-datasets
-  - hacker-news
   - intermediate
   - local-inference
   - local-model-fine-tuning
   - local-model-optimization
   - model-optimization
   - model-performance
+  - news
   - specialized-inference-models
   - specialized-models
   - training-data-quality

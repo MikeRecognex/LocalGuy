@@ -5,19 +5,18 @@ description: "A new open-source tool enabling local speech-to-text processing wi
 tags:
   - bullish
   - consumer-gpu
-  - daily-digest
   - data-privacy
   - developer
   - edge-computing
   - edge-deployment
   - edge-inference
-  - hacker-news
   - input-modality
   - intermediate
   - latency-optimization
   - local-speech-to-text
   - multimodal-ai
   - multimodal-llms
+  - news
   - on-device-inference
   - on-device-llms
   - open-source

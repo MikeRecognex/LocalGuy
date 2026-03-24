@@ -7,10 +7,10 @@ tags:
   - context-management
   - edge-ai
   - edge-computing
-  - hacker-news
   - local-deployment
   - mem9-ai
   - memory-optimization
+  - news
   - open-source
   - persistent-memory
   - self-hosted

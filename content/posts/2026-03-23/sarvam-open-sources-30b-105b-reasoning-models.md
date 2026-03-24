@@ -7,7 +7,6 @@ tags:
   - ai-accessibility
   - bullish
   - consumer-gpu
-  - daily-digest
   - data-privacy
   - developer
   - edge-ai
@@ -19,6 +18,7 @@ tags:
   - local-inference
   - model-release
   - msn
+  - news
   - on-device-inference
   - open-source
   - quantization

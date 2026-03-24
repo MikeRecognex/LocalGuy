@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - cost-saving
   - cross-platform-inference
-  - daily-digest
   - developer
   - external-gpu
   - external-gpu-enclosure
@@ -24,6 +23,7 @@ tags:
   - intermediate
   - local-inference
   - multi-gpu-inference
+  - news
   - runtime-portability
   - showcase
   - techradar

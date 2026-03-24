@@ -10,7 +10,6 @@ tags:
   - complex-task-solving
   - developer
   - developer-tooling
-  - hacker-news
   - hardware-constraints
   - inference-framework-compatibility
   - inference-frameworks

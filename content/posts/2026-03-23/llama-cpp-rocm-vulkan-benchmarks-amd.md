@@ -10,7 +10,6 @@ tags:
   - backend-selection
   - benchmarking
   - bullish
-  - daily-digest
   - datacenter-gpu
   - developer
   - enterprise
@@ -20,6 +19,7 @@ tags:
   - llama-cpp
   - llm-deployment-optimization
   - local-deployment
+  - news
   - performance-optimization
   - rocm-development
   - rocm-vulkan-comparison

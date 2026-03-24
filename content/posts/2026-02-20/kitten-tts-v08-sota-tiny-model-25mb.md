@@ -4,7 +4,6 @@ date: 2026-02-20
 description: "Kitten ML has released three new open-source expressive TTS models (80M, 40M, 14M parameters) under Apache 2.0 license, with the smallest model weighing less than 25 MB. This breakthrough enables high-quality speech synthesis on severely resource-constrained devices and edge deployments."
 tags:
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - developer-tooling
@@ -18,6 +17,7 @@ tags:
   - llama-cpp
   - local-deployment
   - local-llm-integration
+  - news
   - offline-deployment
   - on-device-speech
   - on-device-speech-synthesis

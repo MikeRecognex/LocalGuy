@@ -13,7 +13,6 @@ tags:
   - cost-saving
   - developer
   - developer-tooling
-  - hacker-news
   - hardware-constraints
   - inference-optimization
   - intermediate
@@ -22,6 +21,7 @@ tags:
   - model-architecture
   - model-optimization
   - neutral
+  - news
   - offline-deployment
   - optimization-strategies
   - resource-constraints

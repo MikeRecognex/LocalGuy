@@ -6,7 +6,6 @@ tags:
   - bullish
   - consumer-gpu
   - cpu-inference
-  - daily-digest
   - dependency-management
   - deployment-strategy
   - developer
@@ -19,6 +18,7 @@ tags:
   - local-deployment
   - local-inference
   - model-portability
+  - news
   - open-source
   - phoronix
   - release

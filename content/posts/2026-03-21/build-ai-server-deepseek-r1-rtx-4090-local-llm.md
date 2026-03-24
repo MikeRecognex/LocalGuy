@@ -9,7 +9,6 @@ tags:
   - bullish
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - deepseek
   - enterprise
@@ -20,6 +19,7 @@ tags:
   - local-inference
   - model-serving
   - model-serving-frameworks
+  - news
   - on-premise-ai
   - on-premise-inference
   - server-setup

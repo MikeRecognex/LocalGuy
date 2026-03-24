@@ -4,12 +4,12 @@ date: 2026-02-23
 description: Elastic releases optimized embedding models designed for local deployment and semantic search applications. These models enable efficient vector search on-device without external API dependencies.
 tags:
   - consumer-gpu
-  - daily-digest
   - data-privacy
   - embedding-models
   - embeddings
   - local-deployment
   - model-optimization
+  - news
   - open-source
   - optimization
   - rag-applications

@@ -8,11 +8,9 @@ tags:
   - analysis
   - bullish
   - context-management
-  - daily-digest
   - debugging
   - developer
   - github-gist
-  - hacker-news
   - inference-pipeline-control
   - llm-output-degradation
   - llm-output-quality-degradation
@@ -21,6 +19,7 @@ tags:
   - local-deployment
   - local-inference
   - neutral
+  - news
   - optimization
   - prompt-decay
   - prompt-engineering

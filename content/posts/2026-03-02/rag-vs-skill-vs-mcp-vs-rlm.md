@@ -6,7 +6,6 @@ tags:
   - agents
   - architecture
   - comparison
-  - daily-digest
   - infrastructure-optimization
   - llm-architectures
   - llm-augmentation-patterns
@@ -15,6 +14,7 @@ tags:
   - model-context-protocol
   - model-extension-patterns
   - neutral
+  - news
   - rag
   - retrieval-augmented-generation
   - retrieval-language-models

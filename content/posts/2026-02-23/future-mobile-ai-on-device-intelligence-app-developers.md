@@ -4,7 +4,6 @@ date: 2026-02-23
 description: Analysis of how on-device AI intelligence is reshaping mobile application development and what implications this has for developers building local LLM-powered features. Covers practical considerations for mobile AI deployment.
 tags:
   - app-development
-  - daily-digest
   - data-privacy
   - edge-computing
   - edge-inference
@@ -13,6 +12,7 @@ tags:
   - mobile-development
   - mobile-frameworks
   - mobile-llm-optimization
+  - news
   - on-device-ai-benefits
   - on-device-inference
 mentions:

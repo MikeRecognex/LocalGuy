@@ -6,13 +6,13 @@ tags:
   - advanced
   - advanced-reasoning
   - consumer-gpu
-  - daily-digest
   - framework
   - framework-agnostic-ai
   - local-inference
   - model-composition
   - model-optimization
   - model-scaffolding
+  - news
   - open-source
   - performance-optimization
   - performance-parity

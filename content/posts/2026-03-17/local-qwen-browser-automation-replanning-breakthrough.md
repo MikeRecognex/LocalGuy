@@ -12,12 +12,12 @@ tags:
   - benchmarking
   - browser-automation
   - bullish
-  - daily-digest
   - developer
   - intermediate
   - iterative-reasoning
   - local-llm-efficiency
   - model-optimization
+  - news
   - open-source
   - qwen
   - rlocalllama

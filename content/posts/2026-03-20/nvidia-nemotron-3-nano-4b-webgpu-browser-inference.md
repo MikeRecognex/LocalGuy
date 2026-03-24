@@ -8,7 +8,6 @@ tags:
   - browser-inference
   - bullish
   - consumer-gpu
-  - daily-digest
   - deployment-simplification
   - developer
   - edge-deployment

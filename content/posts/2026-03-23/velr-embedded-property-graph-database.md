@@ -5,13 +5,11 @@ description: "Velr introduces an embedded property-graph database built in Rust 
 tags:
   - advanced
   - bullish
-  - daily-digest
   - databases
   - developer
   - edge-computing
   - edge-deployment
   - embedded-database
-  - hacker-news
   - intermediate
   - knowledge-graphs
   - local-data-storage
@@ -19,6 +17,7 @@ tags:
   - local-llms
   - local-storage
   - model-performance
+  - news
   - on-device-inference
   - rag-pipeline
   - release

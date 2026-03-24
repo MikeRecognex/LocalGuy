@@ -11,7 +11,6 @@ tags:
   - bullish
   - client-side-ai
   - cloud-vs-local-performance
-  - daily-digest
   - data-privacy
   - data-security
   - developer
@@ -19,6 +18,7 @@ tags:
   - local-inference
   - local-llm
   - local-rag
+  - news
   - on-device-inference
   - on-device-processing
   - on-device-rag

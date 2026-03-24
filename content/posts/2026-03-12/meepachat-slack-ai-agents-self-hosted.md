@@ -8,8 +8,8 @@ tags:
   - data-privacy
   - deployment
   - enterprise
-  - hacker-news
   - local-llm-agents
+  - news
   - on-device-inference
   - open-source
   - production-deployment

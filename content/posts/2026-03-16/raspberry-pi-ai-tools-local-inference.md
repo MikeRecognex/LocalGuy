@@ -5,7 +5,6 @@ description: "A survey of practical AI tools optimized for Raspberry Pi and othe
 tags:
   - bullish
   - consumer-gpu
-  - daily-digest
   - developer
   - edge-ai
   - edge-computing
@@ -20,6 +19,7 @@ tags:
   - memory-optimization
   - memory-optimized-inference
   - model-optimization
+  - news
   - open-source
   - performance-evaluation
   - quantization

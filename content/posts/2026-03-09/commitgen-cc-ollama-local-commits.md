@@ -5,18 +5,17 @@ description: "A practical tool that generates conventional commit messages entir
 tags:
   - bullish
   - conventional-commits
-  - daily-digest
   - data-privacy
   - developer
   - developer-productivity
   - developer-tools
   - eaglemann
-  - hacker-news
   - intermediate
   - local-commit-generation
   - local-deployment
   - local-inference
   - local-llm-applications
+  - news
   - offline-capability
   - offline-deployment
   - offline-development

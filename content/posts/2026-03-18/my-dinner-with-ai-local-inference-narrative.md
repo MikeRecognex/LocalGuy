@@ -6,7 +6,6 @@ tags:
   - conversational-ai
   - deployment
   - developer
-  - hacker-news
   - hands-on-experience
   - intermediate
   - latency-perception
@@ -14,6 +13,7 @@ tags:
   - local-model-deployment
   - model-behavior-analysis
   - neutral
+  - news
   - open-source
   - opinion
   - practical-guide

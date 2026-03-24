@@ -6,14 +6,12 @@ tags:
   - bullish
   - consumer-gpu
   - context-window-management
-  - daily-digest
   - deployment-prototyping
   - developer
   - developer-experience
   - developer-tools
   - development-environment
   - framework
-  - hacker-news
   - intermediate
   - llm-development-workflow
   - llm-experimentation
@@ -24,6 +22,7 @@ tags:
   - model-architecture
   - neural-kore
   - neuralkore
+  - news
   - open-source
   - quantization
   - rapid-prototyping

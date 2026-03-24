@@ -6,7 +6,6 @@ tags:
   - advanced
   - benchmark-performance
   - benchmarking
-  - daily-digest
   - layer-duplication
   - low-resource-optimization
   - model-architecture

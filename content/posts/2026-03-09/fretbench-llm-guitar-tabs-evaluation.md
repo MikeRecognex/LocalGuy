@@ -6,14 +6,12 @@ tags:
   - benchmark-results
   - benchmarking
   - bullish
-  - daily-digest
   - developer
   - evaluation
   - fine-tuning
   - fretbench
   - fretbench-benchmark
   - guitar-tablature-interpretation
-  - hacker-news
   - intermediate
   - llm-evaluation
   - local-deployment-optimization
@@ -24,6 +22,7 @@ tags:
   - model-selection
   - model-specialization
   - neutral
+  - news
   - open-source
   - specialized-ai-tasks
   - specialized-llm-tasks

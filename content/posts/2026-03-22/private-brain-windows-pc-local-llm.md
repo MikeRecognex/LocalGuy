@@ -6,7 +6,6 @@ tags:
   - bullish
   - consumer-pc
   - cost-saving
-  - daily-digest
   - data-privacy
   - data-sovereignty
   - developer
@@ -17,6 +16,7 @@ tags:
   - local-inference-apis
   - model-performance
   - msn
+  - news
   - personal-ai-system
   - practical-deployment
   - quantization

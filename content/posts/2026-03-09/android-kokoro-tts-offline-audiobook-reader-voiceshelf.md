@@ -6,7 +6,6 @@ tags:
   - android
   - android-inference
   - bullish
-  - daily-digest
   - developer
   - edge-ai
   - edge-computing
@@ -16,6 +15,7 @@ tags:
   - low-latency
   - mobile-device
   - mobile-quantization
+  - news
   - offline-audiobook-reader
   - on-device-tts
   - open-source

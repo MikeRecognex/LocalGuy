@@ -8,7 +8,6 @@ tags:
   - bullish
   - consumer-gpu
   - conversational-memory
-  - daily-digest
   - data-privacy
   - decentralized-ai
   - developer

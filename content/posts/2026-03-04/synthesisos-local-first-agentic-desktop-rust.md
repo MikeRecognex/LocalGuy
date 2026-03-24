@@ -9,10 +9,10 @@ tags:
   - data-locality
   - data-privacy
   - edge-inference
-  - hacker-news
   - inference-optimization
   - local-first-ai
   - local-inference
+  - news
   - offline-deployment
   - open-source
   - os-integration

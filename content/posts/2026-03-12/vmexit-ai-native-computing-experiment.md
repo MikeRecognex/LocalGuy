@@ -15,10 +15,10 @@ tags:
   - edge-deployment
   - efficiency-optimization
   - experiment
-  - hacker-news
   - hardware
   - infrastructure
   - local-deployment
+  - news
   - next-gen-platforms
   - optimization
   - vmexit

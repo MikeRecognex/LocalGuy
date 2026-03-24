@@ -8,7 +8,6 @@ tags:
   - cloud-cost-reduction
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - distillation

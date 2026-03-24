@@ -7,17 +7,16 @@ tags:
   - api-monitoring
   - bullish
   - cost-saving
-  - daily-digest
   - deployment-strategy
   - developer
   - developer-tools
-  - hacker-news
   - hybrid-ai-architectures
   - intermediate
   - llm-tooling
   - local-llm-workflows
   - macos-development
   - monitoring
+  - news
   - showcase
   - tools
   - usage-analytics

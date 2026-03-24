@@ -16,7 +16,6 @@ tags:
   - context-window-limitations
   - developer
   - developer-tooling
-  - hacker-news
   - hardware
   - intermediate
   - llama
@@ -31,6 +30,7 @@ tags:
   - multi-file-context
   - multi-file-context-handling
   - neutral
+  - news
   - offline-deployment
   - ollama
   - opinion

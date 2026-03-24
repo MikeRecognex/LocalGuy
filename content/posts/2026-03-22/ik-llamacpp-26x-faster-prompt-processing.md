@@ -9,7 +9,6 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
-  - daily-digest
   - datacenter-gpu
   - developer
   - inference-optimization

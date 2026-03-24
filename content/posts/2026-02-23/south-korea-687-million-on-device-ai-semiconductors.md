@@ -7,7 +7,6 @@ tags:
   - ai-policy
   - consumer-gpu
   - custom-asic
-  - daily-digest
   - edge-computing
   - edge-inference
   - hardware

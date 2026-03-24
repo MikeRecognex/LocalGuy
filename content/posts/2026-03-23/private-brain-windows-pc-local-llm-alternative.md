@@ -11,7 +11,6 @@ tags:
   - consumer-gpu
   - consumer-pc
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - hardware
@@ -22,6 +21,7 @@ tags:
   - local-llm-frameworks
   - local-llm-tooling
   - msn
+  - news
   - self-hosted
   - showcase
   - windows

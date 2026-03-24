@@ -12,13 +12,12 @@ tags:
   - analysis
   - auditable-security
   - bullish
-  - daily-digest
   - developer
   - enterprise
-  - hacker-news
   - infrastructure-automation
   - intermediate
   - local-deployment
+  - news
   - on-device-agents
   - open-source
   - regulatory-compliance

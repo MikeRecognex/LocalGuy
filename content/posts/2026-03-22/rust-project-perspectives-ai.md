@@ -7,16 +7,15 @@ tags:
   - analysis
   - bullish
   - consumer-gpu
-  - daily-digest
   - datacenter-gpu
   - developer
   - edge-computing
-  - hacker-news
   - inference-optimization
   - infrastructure
   - language-design
   - language-design-for-ai
   - local-deployment
+  - news
   - opinion
   - performance
   - rust

@@ -5,12 +5,12 @@ description: Qwen3's TTS system uses low-dimensional voice embeddings (1024-2048
 tags:
   - accent-modification
   - advanced
-  - daily-digest
   - edge-ai
   - edge-computing
   - local-inference
   - multimodal
   - multimodal-ai
+  - news
   - qwen3
   - voice
   - voice-cloning

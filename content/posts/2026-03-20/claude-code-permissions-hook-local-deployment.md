@@ -10,14 +10,13 @@ tags:
   - analysis
   - bullish
   - code-execution
-  - daily-digest
   - developer
   - edge-computing
   - edge-deployment
-  - hacker-news
   - intermediate
   - llm-permission-delegation
   - local-deployment
+  - news
   - open-source
   - permissions-delegation
   - secure-code-execution

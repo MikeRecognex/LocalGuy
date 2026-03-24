@@ -11,7 +11,6 @@ tags:
   - consumer-gpu
   - consumer-gpu-inference
   - cost-saving
-  - daily-digest
   - developer
   - enterprise
   - gamegpu
@@ -22,6 +21,7 @@ tags:
   - local-inference
   - model-optimization
   - multi-model-inference
+  - news
   - on-premise-ai-economics
   - rag-systems
   - search-system-components

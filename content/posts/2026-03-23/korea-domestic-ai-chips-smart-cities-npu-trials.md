@@ -9,7 +9,6 @@ tags:
   - chip-design
   - chip-manufacturing
   - custom-asic
-  - daily-digest
   - developer
   - domestic-ai-chips
   - edge-ai

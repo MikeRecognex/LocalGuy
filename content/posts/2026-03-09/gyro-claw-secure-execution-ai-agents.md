@@ -7,17 +7,16 @@ tags:
   - agents
   - bullish
   - consumer-gpu
-  - daily-digest
   - developer
   - edge-computing
   - enterprise
   - execution-containment
   - execution-sandboxing
   - gyro-claw
-  - hacker-news
   - hardware
   - intermediate
   - local-deployment
+  - news
   - open-source
   - production-deployment
   - prompt-injection-protection

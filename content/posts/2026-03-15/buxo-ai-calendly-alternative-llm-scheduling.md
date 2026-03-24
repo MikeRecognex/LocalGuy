@@ -12,12 +12,12 @@ tags:
   - edge-computing
   - edge-deployment
   - enterprise
-  - hacker-news
   - inference
   - intelligent-scheduling
   - llm-application
   - llm-integration
   - local-vs-cloud-deployment
+  - news
   - practical-application
   - scheduling-automation
 mentions:

@@ -9,17 +9,16 @@ tags:
   - agents
   - analysis
   - bullish
-  - daily-digest
   - debugging-tools
   - developer
   - developer-tooling
   - edge-deployment
-  - hacker-news
   - introspection-tooling
   - llm-agent-production
   - llm-debugging
   - local-deployment
   - murbotlabs
+  - news
   - offline-deployment
   - on-device-inference
   - openclaw

@@ -9,11 +9,11 @@ tags:
   - edge-computing
   - edge-deployment
   - edge-inference
-  - hacker-news
   - hardware
   - local-inference
   - local-semantic-search
   - network-content-filtering
+  - news
   - offline-deployment
   - on-device-inference
   - open-source

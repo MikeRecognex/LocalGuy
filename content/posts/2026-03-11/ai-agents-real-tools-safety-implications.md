@@ -9,9 +9,8 @@ tags:
   - agents
   - autonomous-agent-behavior
   - cautious
-  - daily-digest
-  - hacker-news
   - local-deployment
+  - news
   - safety
   - security
   - unintended-agent-behavior

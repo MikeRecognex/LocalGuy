@@ -8,7 +8,6 @@ tags:
   - batch-inference
   - benchmarking
   - bullish
-  - daily-digest
   - developer
   - inference-optimization
   - intermediate

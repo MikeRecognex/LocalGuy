@@ -11,12 +11,12 @@ tags:
   - british-parliament
   - bullish
   - cautious
-  - daily-digest
   - data-privacy
   - developer
   - enterprise
   - intermediate
   - local-inference-privacy
+  - news
   - on-device-inference
   - open-source
   - regulation

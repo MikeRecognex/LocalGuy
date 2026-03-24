@@ -8,7 +8,6 @@ tags:
   - analysis
   - bullish
   - cost-saving
-  - daily-digest
   - developer
   - digital-today
   - edge-computing

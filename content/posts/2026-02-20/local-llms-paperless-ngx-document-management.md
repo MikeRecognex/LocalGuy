@@ -6,7 +6,6 @@ tags:
   - analysis
   - bullish
   - cost-saving
-  - daily-digest
   - data-ownership
   - data-privacy
   - developer
@@ -17,6 +16,7 @@ tags:
   - intermediate
   - local-inference-economics
   - msn
+  - news
   - open-source
   - open-source-ecosystem
   - paperless-ngx

@@ -9,12 +9,12 @@ tags:
   - bullish
   - cost-saving
   - cpp-inference
-  - daily-digest
   - data-privacy
   - developer
   - intermediate
   - local-deployment
   - msn
+  - news
   - open-source
   - practical-deployment
   - self-hosted

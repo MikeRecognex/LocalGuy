@@ -9,10 +9,10 @@ tags:
   - ai-agent-reliability
   - benchmarking
   - evaluation
-  - hacker-news
   - local-deployment
   - monitoring
   - neutral
+  - news
   - princeton
   - princeton-university
   - rag-systems

@@ -10,7 +10,6 @@ tags:
   - freebsd-compatibility
   - freebsd-deployment
   - freebsd-release
-  - hacker-news
   - hardware
   - inference-frameworks
   - local-deployment

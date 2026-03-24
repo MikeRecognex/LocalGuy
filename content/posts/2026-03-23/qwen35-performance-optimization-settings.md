@@ -6,7 +6,6 @@ tags:
   - analysis
   - bullish
   - community-collaboration
-  - daily-digest
   - developer
   - enterprise
   - inference-optimization
@@ -16,6 +15,7 @@ tags:
   - model-optimization
   - model-output-quality
   - model-tuning
+  - news
   - overthinking-mitigation
   - performance-optimization
   - production-deployment

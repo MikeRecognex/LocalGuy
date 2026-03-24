@@ -8,13 +8,13 @@ tags:
   - cloud-independence
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - hardware-optimization
   - local-inference
   - local-llm
   - model-optimization
   - model-size
+  - news
   - open-source
 status: published
 ---

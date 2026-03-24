@@ -5,7 +5,6 @@ description: "A detailed comparison of two leading local LLM serving frameworks,
 tags:
   - bullish
   - comparison
-  - daily-digest
   - deployment-strategy
   - developer
   - developer-tools
@@ -22,6 +21,7 @@ tags:
   - local-llm-serving
   - local-llm-tools
   - neutral
+  - news
   - ollama
   - ollama-features
   - sitepoint

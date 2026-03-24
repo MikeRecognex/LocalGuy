@@ -6,7 +6,6 @@ tags:
   - advanced
   - ai-infrastructure
   - ai-programming-language
-  - hacker-news
   - inference-optimization
   - llm-performance
   - local-deployment
@@ -14,6 +13,7 @@ tags:
   - memory-optimization
   - mojo
   - mojo-language
+  - news
   - performance
   - programming-language
   - programming-language-design

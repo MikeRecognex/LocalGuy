@@ -5,7 +5,6 @@ description: Indian AI startup Sarvam has released open-source reasoning models 
 tags:
   - api-independence
   - consumer-gpu
-  - daily-digest
   - data-privacy
   - datacenter-gpu
   - edge-deployment

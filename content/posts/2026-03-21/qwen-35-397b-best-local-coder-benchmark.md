@@ -10,7 +10,6 @@ tags:
   - code-quality
   - coding
   - consumer-gpu
-  - daily-digest
   - developer
   - intermediate
   - large-models-on-consumer-hardware
@@ -18,6 +17,7 @@ tags:
   - model-accuracy
   - model-comparison
   - model-scaling
+  - news
   - quantization
   - qwen
   - rlocalllama

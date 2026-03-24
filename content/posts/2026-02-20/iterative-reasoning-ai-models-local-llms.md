@@ -8,11 +8,9 @@ tags:
   - analysis
   - context-window
   - context-window-management
-  - daily-digest
   - developer
   - developer-tooling
   - edge-deployment
-  - hacker-news
   - hybrid-ai-systems
   - hybrid-inference
   - iterative-reasoning
@@ -20,6 +18,7 @@ tags:
   - model-architecture
   - model-architecture-limitations
   - neutral
+  - news
   - offline-deployment
   - on-device-inference
   - prompt-engineering

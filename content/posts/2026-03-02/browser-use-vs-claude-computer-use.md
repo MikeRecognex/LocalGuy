@@ -10,7 +10,6 @@ tags:
   - comparison
   - consumer-gpu
   - cpu-inference
-  - daily-digest
   - data-privacy
   - deployment
   - infrastructure-management
@@ -18,6 +17,7 @@ tags:
   - local-deployment
   - local-llm-evaluation
   - neutral
+  - news
   - on-device-inference
   - tools
 mentions:

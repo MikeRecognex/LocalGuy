@@ -4,18 +4,17 @@ date: 2026-03-16
 description: "Merrilin.ai introduces interactive code blocks in digital books, likely leveraging local or self-hosted LLMs to provide executable code examples without external API calls during reading."
 tags:
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - developer-education
   - developer-experience
   - education
-  - hacker-news
   - interactive-code-blocks
   - interactive-coding
   - intermediate
   - local-inference
   - merrilinai
+  - news
   - performance-optimization
   - showcase
   - technical-learning

@@ -9,13 +9,13 @@ tags:
   - cuda-tile-programming
   - datacenter-gpu
   - gpu-utilization
-  - hacker-news
   - hardware
   - hardware-optimization
   - inference-optimization
   - julia-programming
   - llm-inference
   - memory-bandwidth
+  - news
   - performance
   - performance-optimization
   - resource-efficiency

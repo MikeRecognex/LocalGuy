@@ -13,7 +13,6 @@ tags:
   - context-window
   - context-window-size
   - cost-saving
-  - daily-digest
   - developer
   - developer-tooling
   - document-processing
@@ -34,6 +33,7 @@ tags:
   - memory-utilization
   - model-comparison
   - model-stability
+  - news
   - production-deployment
   - production-ops
   - showcase

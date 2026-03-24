@@ -8,7 +8,6 @@ tags:
   - cautious
   - closed-source-transparency
   - cursor
-  - daily-digest
   - developer
   - ethics
   - intermediate
@@ -18,6 +17,7 @@ tags:
   - model-attribution
   - model-provenance
   - model-transparency
+  - news
   - open-source
   - open-source-licensing
   - proprietary-models

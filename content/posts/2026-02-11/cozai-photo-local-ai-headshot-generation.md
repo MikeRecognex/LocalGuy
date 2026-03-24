@@ -20,12 +20,12 @@ tags:
   - developer-tooling
   - fine-tuning
   - generative-ai-applications
-  - hacker-news
   - image-generation
   - intermediate
   - local-deployment
   - local-inference
   - model-customization
+  - news
   - offline-deployment
   - practical-applications
   - real-world-applications

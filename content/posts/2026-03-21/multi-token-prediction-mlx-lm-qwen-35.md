@@ -7,7 +7,6 @@ tags:
   - bullish
   - consumer-gpu
   - consumer-hardware-inference
-  - daily-digest
   - developer
   - hardware-optimization
   - inference-optimization

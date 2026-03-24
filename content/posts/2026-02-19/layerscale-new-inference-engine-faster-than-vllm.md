@@ -7,7 +7,6 @@ tags:
   - algorithmic-innovation
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - edge-computing
   - edge-deployment
   - enterprise
@@ -16,6 +15,7 @@ tags:
   - llm-serving
   - local-deployment
   - memory-optimization
+  - news
   - nvidia
   - offline-deployment
   - production-ops

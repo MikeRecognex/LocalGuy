@@ -6,7 +6,6 @@ tags:
   - ai-generated-commits
   - cloud-independence
   - cost-saving
-  - daily-digest
   - data-privacy
   - deployment
   - developer-workflows
@@ -15,6 +14,7 @@ tags:
   - local-llm-cli
   - local-llm-ecosystem
   - local-model-integration
+  - news
   - open-source
   - tools
 mentions:

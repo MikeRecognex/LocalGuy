@@ -4,7 +4,6 @@ date: 2026-03-16
 description: "NVIDIA has revised the Nemotron Super 3 122B license to eliminate restrictive clauses and permit unrestricted modifications and deployment, significantly improving its viability for open-source and commercial local inference."
 tags:
   - bullish
-  - daily-digest
   - deployment-restrictions
   - developer
   - enterprise

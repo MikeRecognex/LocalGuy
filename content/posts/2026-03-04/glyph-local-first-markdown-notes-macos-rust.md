@@ -7,13 +7,13 @@ tags:
   - data-privacy
   - edge-inference
   - glyph
-  - hacker-news
   - lightweight-model-integration
   - llm-integration
   - local-data-processing
   - local-first-applications
   - model-integration
   - native-application-development
+  - news
   - on-device-inference
   - open-source
   - production-application-development

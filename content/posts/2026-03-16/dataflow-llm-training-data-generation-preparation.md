@@ -4,13 +4,11 @@ date: 2026-03-16
 description: "DataFlow is an open-source tool for generating, cleaning, and preparing training datasets for LLMs in a unified pipeline, enabling practitioners to build and fine-tune local models with curated data."
 tags:
   - bullish
-  - daily-digest
   - data-pipeline-management
   - data-preparation
   - data-privacy
   - developer
   - fine-tuning
-  - hacker-news
   - intermediate
   - llm-training-data-preparation
   - llm-training-pipeline
@@ -19,6 +17,7 @@ tags:
   - local-model-fine-tuning
   - local-model-finetuning
   - model-fine-tuning
+  - news
   - open-source
   - opendcai
   - showcase

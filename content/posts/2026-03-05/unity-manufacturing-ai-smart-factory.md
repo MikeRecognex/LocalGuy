@@ -9,7 +9,6 @@ tags:
   - edge-deployment
   - edge-inference
   - enterprise
-  - google-news
   - hardware
   - hardware-acceleration
   - industrial-ai
@@ -18,6 +17,7 @@ tags:
   - local-inference-enterprise
   - manufacturing-ai
   - model-optimization
+  - news
   - offline-deployment
   - practical-deployment
   - quantization

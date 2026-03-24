@@ -7,7 +7,6 @@ tags:
   - arliai
   - bullish
   - consumer-gpu
-  - daily-digest
   - derestricted-llms
   - derestricted-models
   - developer
@@ -18,6 +17,7 @@ tags:
   - local-deployment
   - memory-optimization
   - model-release
+  - news
   - open-source
   - quantization
   - qwen

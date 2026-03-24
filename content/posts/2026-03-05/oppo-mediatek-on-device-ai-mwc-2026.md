@@ -12,7 +12,6 @@ tags:
   - edge-computing
   - edge-deployment
   - edge-inference
-  - google-news
   - hardware
   - intermediate
   - mediatek

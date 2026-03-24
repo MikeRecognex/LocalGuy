@@ -9,7 +9,6 @@ tags:
   - bullish
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - developer
   - edge-computing
   - graph-rag
@@ -20,6 +19,7 @@ tags:
   - model-comparison
   - model-optimization
   - multi-hop-question-answering
+  - news
   - prompting
   - rag-architecture
   - rag-optimization

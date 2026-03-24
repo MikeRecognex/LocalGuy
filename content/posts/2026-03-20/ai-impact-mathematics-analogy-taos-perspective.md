@@ -10,9 +10,7 @@ tags:
   - benchmarking
   - bullish
   - context-management
-  - daily-digest
   - developer
-  - hacker-news
   - inference-optimization
   - intermediate
   - iterative-reasoning
@@ -20,6 +18,7 @@ tags:
   - local-deployment-optimization
   - model-optimization
   - neutral
+  - news
   - open-source
   - optimization
   - personal-knowledge-bases

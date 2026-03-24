@@ -9,7 +9,6 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
-  - daily-digest
   - developer
   - edge-computing
   - hardware
@@ -20,6 +19,7 @@ tags:
   - local-inference
   - m5-max
   - model-capacity
+  - news
   - pcie-bottlenecks
   - production-inference-systems
   - rlocalllama

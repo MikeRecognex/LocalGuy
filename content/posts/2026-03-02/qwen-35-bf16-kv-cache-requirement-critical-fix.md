@@ -5,7 +5,6 @@ description: Community member Daniel Han alerts users that Qwen 3.5 models requi
 tags:
   - advanced
   - cautious
-  - daily-digest
   - inference-engine
   - kv-cache-precision
   - llama-cpp

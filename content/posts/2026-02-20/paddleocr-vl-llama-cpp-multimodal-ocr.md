@@ -8,7 +8,6 @@ tags:
   - consumer-gpu
   - cost-saving
   - cpu-inference
-  - daily-digest
   - data-privacy
   - developer
   - document-processing

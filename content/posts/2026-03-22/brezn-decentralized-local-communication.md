@@ -5,7 +5,6 @@ description: "An open-source project enabling peer-to-peer communication for loc
 tags:
   - analysis
   - bullish
-  - daily-digest
   - data-privacy
   - decentralized
   - decentralized-ai
@@ -16,11 +15,11 @@ tags:
   - edge-infrastructure
   - enterprise
   - federated-learning
-  - hacker-news
   - horizontal-scaling
   - intermediate
   - local-deployment
   - networking
+  - news
   - offline-capability
   - open-source
   - peer-to-peer-networking

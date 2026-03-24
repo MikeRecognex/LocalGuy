@@ -9,12 +9,12 @@ tags:
   - collaborative-ai
   - consumer-gpu
   - cost-saving
-  - daily-digest
   - data-privacy
   - deployment-guide
   - docker-deployment
   - enterprise
   - local-multi-agent-system
+  - news
   - offline-deployment
   - on-premise-deployment
   - open-source

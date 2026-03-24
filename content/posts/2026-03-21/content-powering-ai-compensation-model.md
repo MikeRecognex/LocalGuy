@@ -7,18 +7,17 @@ tags:
   - analysis
   - bullish
   - cautious
-  - daily-digest
   - data-governance
   - data-privacy
   - developer
   - enterprise
-  - hacker-news
   - industry
   - intermediate
   - local-deployment
   - local-inference
   - market-trends
   - medium
+  - news
   - open-source
   - proprietary-models
   - self-hosted

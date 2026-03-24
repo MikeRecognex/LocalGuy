@@ -6,18 +6,17 @@ tags:
   - advanced
   - analysis
   - bullish
-  - daily-digest
   - data-privacy
   - developer
   - edge-computing
   - edge-inference
   - embedded
   - github
-  - hacker-news
   - local-inference
   - memory-optimization
   - microcontroller
   - microcontroller-ai
+  - news
   - on-device-inference
   - quantization
   - resource-constrained-ai

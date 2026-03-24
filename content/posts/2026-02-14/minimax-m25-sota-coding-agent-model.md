@@ -15,7 +15,6 @@ tags:
   - coding-llms
   - developer
   - developer-tooling
-  - hacker-news
   - intermediate
   - iterative-reasoning
   - language-models

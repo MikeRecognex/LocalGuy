@@ -8,7 +8,6 @@ tags:
   - bullish
   - code-generation
   - consumer-gpu
-  - daily-digest
   - developer
   - edge-computing
   - edge-deployment
@@ -19,6 +18,7 @@ tags:
   - memory-optimization
   - model-architecture
   - model-optimization
+  - news
   - nvidia
   - open-source
   - release

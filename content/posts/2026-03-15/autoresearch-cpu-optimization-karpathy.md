@@ -10,11 +10,11 @@ tags:
   - cpu-optimization
   - edge-computing
   - gpu-free-inference
-  - hacker-news
   - hardware
   - hardware-accessibility
   - hardware-optimization
   - inference
+  - news
   - open-source
   - research-automation
   - tutorial

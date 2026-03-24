@@ -6,7 +6,6 @@ tags:
   - amd
   - cpu-inference
   - custom-asic
-  - daily-digest
   - data-privacy
   - edge-computing
   - enterprise
@@ -15,6 +14,7 @@ tags:
   - inference-frameworks
   - local-deployment
   - new-hardware
+  - news
   - npu
   - npu-acceleration
   - on-device-inference

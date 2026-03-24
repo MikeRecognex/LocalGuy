@@ -10,7 +10,6 @@ tags:
   - arxiv
   - bullish
   - consumer-gpu
-  - daily-digest
   - data-access-optimization
   - deepseek
   - developer
@@ -28,6 +27,7 @@ tags:
   - memory-bandwidth
   - model-optimization
   - model-throughput
+  - news
   - optimization
   - peking-university
   - release

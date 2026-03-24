@@ -10,7 +10,6 @@ tags:
   - consumer-hardware-performance
   - consumer-pc
   - cost-saving
-  - daily-digest
   - data-privacy
   - developer
   - hardware
@@ -19,6 +18,7 @@ tags:
   - local-deployment
   - memory-optimization
   - msn
+  - news
   - open-source
   - quantization
   - self-hosted

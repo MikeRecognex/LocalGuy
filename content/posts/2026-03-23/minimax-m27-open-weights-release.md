@@ -5,7 +5,6 @@ description: "MiniMax's M2.7 model will be made available as open weights, expan
 tags:
   - benchmarking
   - bullish
-  - daily-digest
   - developer
   - intermediate
   - local-deployment

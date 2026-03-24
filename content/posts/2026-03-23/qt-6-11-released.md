@@ -9,15 +9,14 @@ tags:
   - cross-platform
   - cross-platform-deployment
   - cross-platform-development
-  - daily-digest
   - deployment
   - desktop-ui-development
   - developer
   - edge-computing
   - frameworks
-  - hacker-news
   - integration
   - intermediate
+  - news
   - on-device-inference
   - qt
   - quantization

@@ -9,9 +9,9 @@ tags:
   - browser-ml
   - cpu-inference
   - data-privacy
-  - hacker-news
   - local-asr-deployment
   - local-first-ai
+  - news
   - on-device-asr
   - open-source
   - serverless-ai

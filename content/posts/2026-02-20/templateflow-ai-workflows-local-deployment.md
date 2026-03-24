@@ -12,11 +12,9 @@ tags:
   - bullish
   - complex-reasoning
   - context-window-management
-  - daily-digest
   - developer
   - developer-tooling
   - enterprise
-  - hacker-news
   - heyaohuo
   - inference-optimization
   - intermediate
@@ -24,6 +22,7 @@ tags:
   - llm-orchestration
   - local-deployment
   - multi-step-inference
+  - news
   - offline-deployment
   - production-ops
   - prompt-engineering

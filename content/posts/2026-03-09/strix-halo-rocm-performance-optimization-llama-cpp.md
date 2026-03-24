@@ -13,7 +13,6 @@ tags:
   - consumer-cpu
   - consumer-gpu
   - cpu-inference
-  - daily-digest
   - developer
   - efficiency-gains
   - hardware
@@ -30,6 +29,7 @@ tags:
   - local-deployment
   - local-inference
   - local-inference-performance
+  - news
   - power-efficiency
   - rocm
   - rocm-optimisation

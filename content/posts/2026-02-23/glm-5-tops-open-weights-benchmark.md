@@ -7,7 +7,6 @@ tags:
   - benchmarking
   - community-resource
   - consumer-gpu
-  - daily-digest
   - glm-5
   - hobbyist
   - local-deployment

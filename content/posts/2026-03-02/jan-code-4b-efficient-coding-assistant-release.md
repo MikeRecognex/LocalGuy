@@ -7,13 +7,13 @@ tags:
   - code-assistance
   - code-generation
   - consumer-gpu
-  - daily-digest
   - developer-tools
   - domain-specific-ai
   - fine-tuning
   - local-deployment
   - model-optimization
   - model-specialization
+  - news
   - open-source
   - qwen
   - release
