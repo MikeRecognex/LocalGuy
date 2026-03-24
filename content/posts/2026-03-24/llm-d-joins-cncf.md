@@ -18,4 +18,4 @@ CNCF membership brings several practical benefits to the local LLM ecosystem: it
 For developers working on local LLM infrastructure, llm-d's CNCF acceptance signals that the ecosystem is consolidating around proven open-source solutions. This reduces fragmentation, encourages interoperability between tools, and increases the likelihood that contributions to core infrastructure will persist and be maintained long-term.
 
 ---
-*Source: [Techzine Global](https://www.techzine.eu) · Relevance: 8/10*
+*Source: [Techzine Global]([https://www.techzine.eu](https://www.techzine.eu/news/infrastructure/139839/llm-d-joins-the-cncf/)) · Relevance: 8/10*
