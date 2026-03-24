@@ -20,7 +20,6 @@ tags:
   - on-device-inference
   - quantization
   - resource-constrained-ai
-  - resource-constrained-deployment
   - rtos-deployment
   - showcase
 mentions:

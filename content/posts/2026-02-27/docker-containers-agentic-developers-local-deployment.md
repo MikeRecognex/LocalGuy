@@ -16,7 +16,7 @@ tags:
   - model-versioning
   - multi-component-ai-deployment
   - reproducible-environments
-  - resource-constrained-deployment
+  - resource-constrained-ai
   - tutorial
 mentions:
   - name: KDnuggets

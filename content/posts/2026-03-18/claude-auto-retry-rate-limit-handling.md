@@ -20,7 +20,7 @@ tags:
   - news
   - optimization
   - production-deployment
-  - resource-constrained-deployment
+  - resource-constrained-ai
   - resource-constrained-environments
   - retry-logic
   - showcase

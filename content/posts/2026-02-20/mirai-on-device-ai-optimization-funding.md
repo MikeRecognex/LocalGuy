@@ -31,7 +31,7 @@ tags:
   - production-ops
   - quantization
   - reface
-  - resource-constrained-deployment
+  - resource-constrained-ai
   - resource-optimization
   - self-hosted
   - whalesbook

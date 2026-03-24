@@ -17,7 +17,7 @@ tags:
   - open-source
   - performance-optimization
   - release
-  - resource-constrained-deployment
+  - resource-constrained-ai
   - workload-distribution
 mentions:
   - name: Krasis

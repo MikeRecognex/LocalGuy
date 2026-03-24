@@ -17,7 +17,7 @@ tags:
   - open-source
   - os-integration
   - os-level-ai
-  - resource-constrained-deployment
+  - resource-constrained-ai
   - resource-optimization
   - rust
   - rust-development

@@ -19,7 +19,7 @@ tags:
   - npu-accelerated
   - npu-acceleration
   - on-device-inference
-  - resource-constrained-deployment
+  - resource-constrained-ai
 mentions:
   - name: MSN
     role: publisher

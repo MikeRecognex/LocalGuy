@@ -13,7 +13,7 @@ tags:
   - model-comparison
   - model-performance
   - quantization
-  - resource-constrained-deployment
+  - resource-constrained-ai
   - strix-halo-performance
 mentions:
   - name: r/LocalLLaMA
