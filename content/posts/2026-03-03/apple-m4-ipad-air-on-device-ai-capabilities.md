@@ -6,7 +6,7 @@ tags:
   - apple-m4
   - apple-silicon
   - consumer-llm-deployment
-  - cost-efficiency
+  - cost-saving
   - edge-inference
   - hardware
   - ipad

@@ -8,7 +8,6 @@ tags:
   - arm-architecture
   - arm-server
   - arm-servers
-  - cost-efficiency
   - cost-saving
   - cpu-only
   - edge-device

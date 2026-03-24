@@ -5,7 +5,6 @@ description: Novel tool integrating local AI inference directly into PostgreSQL 
 tags:
   - advanced
   - batch-processing
-  - cost-optimization
   - cost-saving
   - data-privacy
   - database-integration

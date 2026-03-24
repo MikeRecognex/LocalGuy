@@ -8,7 +8,6 @@ tags:
   - cloud-cost-comparison
   - consumer-gpu
   - consumer-hardware
-  - cost-optimization
   - cost-saving
   - cpu-only
   - daily-digest

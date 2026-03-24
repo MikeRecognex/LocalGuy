@@ -9,7 +9,7 @@ tags:
   - code-analysis
   - code-llms
   - coding-assistants
-  - cost-optimization
+  - cost-saving
   - data-privacy
   - hacker-news
   - inference

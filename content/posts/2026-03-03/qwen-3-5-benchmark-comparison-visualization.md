@@ -6,7 +6,7 @@ tags:
   - benchmark
   - benchmark-report
   - comparison
-  - cost-optimization
+  - cost-saving
   - fine-tuning
   - infrastructure-planning
   - llm-capabilities

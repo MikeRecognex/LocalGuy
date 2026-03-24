@@ -5,7 +5,6 @@ description: "SitePoint publishes a comprehensive guide for deploying Ollama in 
 tags:
   - bullish
   - container-orchestration
-  - cost-optimization
   - cost-saving
   - daily-digest
   - data-privacy

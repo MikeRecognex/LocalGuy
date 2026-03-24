@@ -9,7 +9,6 @@ tags:
   - benchmark-report
   - bullish
   - consumer-gpu
-  - cost-optimization
   - cost-saving
   - daily-digest
   - developer

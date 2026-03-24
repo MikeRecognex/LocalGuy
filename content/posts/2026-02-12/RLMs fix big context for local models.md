@@ -10,7 +10,6 @@ tags:
   - context-length-extension
   - context-window
   - context-window-extension
-  - cost-optimization
   - cost-saving
   - document-processing
   - inference-optimization

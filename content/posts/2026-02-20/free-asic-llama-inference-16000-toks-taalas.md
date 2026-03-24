@@ -9,7 +9,6 @@ tags:
   - benchmarks
   - bullish
   - consumer-gpu
-  - cost-optimization
   - cost-saving
   - custom-asic
   - daily-digest

@@ -7,7 +7,7 @@ tags:
   - caching-strategies
   - compute-optimization
   - consumer-gpu
-  - cost-optimization
+  - cost-saving
   - inference-optimization
   - llm-extraction
   - local-inference

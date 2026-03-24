@@ -6,7 +6,6 @@ tags:
   - analysis
   - benchmark
   - bullish
-  - cost-reduction
   - cost-saving
   - daily-digest
   - developer

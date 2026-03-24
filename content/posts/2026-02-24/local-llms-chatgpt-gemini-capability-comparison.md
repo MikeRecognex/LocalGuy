@@ -5,7 +5,6 @@ description: A practical analysis comparing local LLM capabilities with cloud-ba
 tags:
   - benchmark
   - comparison
-  - cost-optimization
   - cost-saving
   - edge-device
   - evaluation

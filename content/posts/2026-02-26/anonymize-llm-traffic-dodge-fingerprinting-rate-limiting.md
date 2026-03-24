@@ -10,7 +10,6 @@ tags:
   - api-security
   - bullish
   - claw-shield
-  - cost-optimization
   - cost-saving
   - daily-digest
   - data-privacy

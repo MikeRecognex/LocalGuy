@@ -6,7 +6,6 @@ tags:
   - ai-commoditization
   - benchmark
   - consumer-gpu
-  - cost-optimization
   - cost-saving
   - data-privacy
   - local-deployment-economics

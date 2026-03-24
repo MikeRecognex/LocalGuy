@@ -8,7 +8,6 @@ tags:
   - case-study
   - consumer-gpu
   - cost-analysis
-  - cost-optimization
   - cost-saving
   - data-privacy
   - deployment

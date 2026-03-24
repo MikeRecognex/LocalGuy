@@ -10,7 +10,7 @@ tags:
   - bullish
   - consumer-gpu
   - consumer-gpu-inference
-  - cost-efficiency
+  - cost-saving
   - daily-digest
   - developer
   - enterprise

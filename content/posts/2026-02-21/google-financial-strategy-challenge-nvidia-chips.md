@@ -5,7 +5,7 @@ description: Google explores strategic investments and partnerships to compete w
 tags:
   - ai-accelerator-development
   - chips
-  - cost-reduction
+  - cost-saving
   - cpu-only
   - custom-asic
   - datacenter-gpu

@@ -5,8 +5,7 @@ description: Community analysis shows dramatic cost and performance improvements
 tags:
   - benchmark
   - consumer-gpu
-  - cost-optimization
-  - cost-reduction
+  - cost-saving
   - daily-digest
   - data-privacy
   - deepseek

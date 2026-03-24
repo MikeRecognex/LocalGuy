@@ -5,7 +5,7 @@ description: LLmFit is a new command-line tool that automatically detects system
 tags:
   - benchmarking
   - consumer-gpu
-  - cost-efficiency
+  - cost-saving
   - cpu-only
   - hardware
   - hardware-profiling

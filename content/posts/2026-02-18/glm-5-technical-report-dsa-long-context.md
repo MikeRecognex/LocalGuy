@@ -6,7 +6,6 @@ tags:
   - advanced
   - alibaba
   - context-window
-  - cost-reduction
   - cost-saving
   - deployment-optimization
   - distributed-scaling-architecture

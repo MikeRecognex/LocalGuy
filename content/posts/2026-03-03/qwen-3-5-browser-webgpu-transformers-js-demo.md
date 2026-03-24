@@ -7,7 +7,7 @@ tags:
   - browser-inference
   - client-side-inference
   - consumer-gpu
-  - cost-optimization
+  - cost-saving
   - multimodal-inference
   - open-source
   - privacy-focused-ai

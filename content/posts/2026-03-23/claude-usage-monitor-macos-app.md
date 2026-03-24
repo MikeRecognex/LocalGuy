@@ -6,7 +6,6 @@ tags:
   - api-management
   - api-monitoring
   - bullish
-  - cost-optimization
   - cost-saving
   - daily-digest
   - deployment-strategy

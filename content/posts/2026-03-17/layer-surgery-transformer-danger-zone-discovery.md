@@ -8,7 +8,7 @@ tags:
   - architecture
   - bullish
   - cautious
-  - cost-optimization
+  - cost-saving
   - developer
   - fine-tuning
   - memory-optimization

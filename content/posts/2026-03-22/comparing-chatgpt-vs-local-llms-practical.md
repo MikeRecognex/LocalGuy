@@ -7,8 +7,7 @@ tags:
   - benchmarking
   - bullish
   - consumer-gpu
-  - cost-optimization
-  - cost-reduction
+  - cost-saving
   - daily-digest
   - data-privacy
   - developer

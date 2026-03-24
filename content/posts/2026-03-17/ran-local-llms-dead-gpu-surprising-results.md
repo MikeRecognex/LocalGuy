@@ -11,7 +11,6 @@ tags:
   - consumer-gpu
   - consumer-hardware-optimization
   - cost-effective-inference
-  - cost-reduction
   - cost-saving
   - daily-digest
   - developer

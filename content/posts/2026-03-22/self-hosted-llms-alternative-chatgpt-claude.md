@@ -9,7 +9,6 @@ tags:
   - consumer-gpu
   - consumer-hardware-performance
   - consumer-pc
-  - cost-reduction
   - cost-saving
   - daily-digest
   - data-privacy
