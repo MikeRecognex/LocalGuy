@@ -20,7 +20,6 @@ tags:
   - intermediate
   - npu
   - npu-inference
-  - npu-performance
   - performance-per-watt
   - release
   - smbtech

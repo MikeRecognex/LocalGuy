@@ -16,7 +16,6 @@ tags:
   - neutral
   - npu
   - npu-hardware
-  - npu-performance
   - npu-platforms
   - npu-privacy
   - on-device-inference

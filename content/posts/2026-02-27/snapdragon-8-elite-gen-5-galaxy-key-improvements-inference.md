@@ -13,8 +13,8 @@ tags:
   - mobile-processor
   - mobile-soc
   - news
+  - npu
   - npu-capabilities
-  - npu-performance
   - on-device-inference
   - on-device-llms
   - optimization

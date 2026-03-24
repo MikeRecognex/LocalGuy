@@ -12,7 +12,6 @@ tags:
   - inference-optimization
   - laptop-cpu
   - npu
-  - npu-performance
   - on-device-inference
   - performance-benchmark
   - release

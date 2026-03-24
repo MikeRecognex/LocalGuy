@@ -16,7 +16,6 @@ tags:
   - hybrid-compute
   - new-hardware-launch
   - npu
-  - npu-performance
   - on-device-llm-deployment
   - release
   - ryzen

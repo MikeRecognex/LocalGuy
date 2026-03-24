@@ -16,7 +16,6 @@ tags:
   - local-deployment
   - multi-modal-ai
   - npu
-  - npu-performance
   - release
 status: published
 ---
