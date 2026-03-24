@@ -16,8 +16,8 @@ tags:
   - local-ai-workflows
   - local-deployment
   - local-inference
+  - mlx
   - mlx-acceleration
-  - mlx-framework
   - news
   - open-source
   - showcase

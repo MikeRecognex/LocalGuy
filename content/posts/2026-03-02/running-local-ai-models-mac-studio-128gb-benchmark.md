@@ -12,7 +12,6 @@ tags:
   - local-inference
   - mac
   - mlx
-  - mlx-framework
   - model-scaling
   - news
   - quantization

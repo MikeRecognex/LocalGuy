@@ -14,7 +14,6 @@ tags:
   - local-coding-assistant
   - local-deployment
   - mlx
-  - mlx-framework
   - offline-deployment
   - open-source
   - production-deployment

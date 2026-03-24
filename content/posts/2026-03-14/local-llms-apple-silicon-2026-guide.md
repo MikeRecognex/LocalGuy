@@ -12,7 +12,6 @@ tags:
   - local-llms-on-apple-silicon
   - macos
   - mlx
-  - mlx-framework
   - model-optimization
   - model-releases
   - news

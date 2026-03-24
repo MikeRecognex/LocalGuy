@@ -13,7 +13,7 @@ tags:
   - m-series
   - mac-mini-availability
   - manufacturing
-  - mlx-framework
+  - mlx
   - news
   - on-device-inference
 mentions:

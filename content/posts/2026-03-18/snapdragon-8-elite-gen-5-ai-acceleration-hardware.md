@@ -14,7 +14,7 @@ tags:
   - inference-optimization
   - intermediate
   - memory-bandwidth
-  - mlx-framework
+  - mlx
   - mobile-ai
   - mobile-ai-deployment
   - mobile-device

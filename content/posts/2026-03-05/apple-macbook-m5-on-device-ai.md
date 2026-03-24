@@ -15,7 +15,6 @@ tags:
   - memory-bandwidth
   - metal-acceleration
   - mlx
-  - mlx-framework
   - news
   - on-device-inference
   - power-efficiency
