@@ -15,7 +15,7 @@ tags:
   - production-ops
   - prompt-injection-detection
   - release
-  - rust-development
+  - rust
   - security
   - security-guardrails
   - security-validation

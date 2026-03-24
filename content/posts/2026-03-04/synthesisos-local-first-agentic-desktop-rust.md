@@ -20,7 +20,6 @@ tags:
   - resource-constrained-ai
   - resource-optimization
   - rust
-  - rust-development
   - rust-for-ai
   - rust-programming
   - self-hosted-llms

@@ -19,7 +19,6 @@ tags:
   - production-application-development
   - productivity
   - rust
-  - rust-development
 mentions:
   - name: Glyph
     role: project

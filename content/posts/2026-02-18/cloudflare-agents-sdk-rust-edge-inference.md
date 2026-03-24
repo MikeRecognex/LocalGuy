@@ -16,7 +16,7 @@ tags:
   - performance-optimization
   - production-ops
   - release
-  - rust-development
+  - rust
   - rust-performance
   - sdk-update
   - serverless-ai

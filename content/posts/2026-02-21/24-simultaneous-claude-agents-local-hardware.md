@@ -18,7 +18,6 @@ tags:
   - production-deployment
   - resource-optimization
   - rust
-  - rust-development
   - rust-programming
 mentions:
   - name: Hacker News
