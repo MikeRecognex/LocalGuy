@@ -17,7 +17,6 @@ tags:
   - optimization
   - quantization
   - qwen
-  - qwen-models
 mentions:
   - name: Daniel Han
     role: community member

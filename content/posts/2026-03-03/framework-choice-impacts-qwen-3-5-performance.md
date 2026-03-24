@@ -17,7 +17,7 @@ tags:
   - model-evaluation-frameworks
   - neutral
   - ollama
-  - qwen-models
+  - qwen
   - rag-pipelines
   - tool-use
   - vllm

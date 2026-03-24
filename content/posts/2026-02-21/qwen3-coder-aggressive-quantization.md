@@ -11,7 +11,7 @@ tags:
   - edge-deployment
   - memory-efficiency
   - quantization
-  - qwen-models
+  - qwen
   - qwen3-coder-next
 mentions:
   - name: r/LocalLLaMA

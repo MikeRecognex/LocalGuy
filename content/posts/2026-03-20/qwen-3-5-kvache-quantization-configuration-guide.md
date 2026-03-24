@@ -23,7 +23,6 @@ tags:
   - qwen
   - qwen-3-5-architecture
   - qwen-3-5-optimization
-  - qwen-models
   - reddit
   - tutorial
 mentions:

@@ -15,7 +15,7 @@ tags:
   - open-source
   - phoronix
   - quantization
-  - qwen-models
+  - qwen
   - release
   - token-level-batching
   - vllm

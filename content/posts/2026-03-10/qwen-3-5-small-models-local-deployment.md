@@ -16,7 +16,6 @@ tags:
   - news
   - on-device-inference
   - qwen
-  - qwen-models
   - small-language-models
   - small-models
   - vision-language-models

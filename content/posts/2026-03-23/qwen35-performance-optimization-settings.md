@@ -24,7 +24,6 @@ tags:
   - prompting
   - qwen
   - qwen-35-optimization
-  - qwen-models
   - resource-optimization
   - token-efficiency
 mentions:
