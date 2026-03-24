@@ -4,7 +4,6 @@ date: 2026-02-24
 description: This discussion explores how local LLMs and AI agents can automate requirements engineering processes, potentially streamlining project planning for teams building inference applications. The approach demonstrates practical productivity gains for development workflows.
 tags:
   - agents
-  - automation
   - cost-saving
   - data-privacy
   - document-generation

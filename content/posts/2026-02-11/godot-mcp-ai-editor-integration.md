@@ -9,7 +9,6 @@ tags:
   - ai-development-workflow
   - ai-game-development
   - ai-tool-integration
-  - automation
   - bullish
   - cloud-independence
   - developer

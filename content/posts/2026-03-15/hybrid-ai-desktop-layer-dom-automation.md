@@ -5,7 +5,6 @@ description: A new desktop AI layer that combines DOM automation with API integr
 tags:
   - agents
   - ai-agent-orchestration
-  - automation
   - biamos
   - consumer-gpu
   - cpu-inference

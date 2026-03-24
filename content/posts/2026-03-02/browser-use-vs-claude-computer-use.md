@@ -6,7 +6,6 @@ tags:
   - agent-automation-frameworks
   - agentic-ai-deployment
   - agents
-  - automation
   - consumer-gpu
   - cpu-inference
   - data-privacy
@@ -20,6 +19,7 @@ tags:
   - neutral
   - news
   - on-device-inference
+  - workflow-automation
 mentions:
   - name: Techstackups
     role: publisher

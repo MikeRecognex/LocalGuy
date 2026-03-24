@@ -4,7 +4,6 @@ date: 2026-03-21
 description: "Tutorial on implementing secure, on-device AI-powered code review using local LLMs, enabling organizations to automate code quality checks while maintaining code privacy and avoiding cloud dependencies."
 tags:
   - advanced
-  - automation
   - bullish
   - ci-cd-integration
   - code-privacy
@@ -28,6 +27,7 @@ tags:
   - sitepoint
   - tutorial
   - webhook-configuration
+  - workflow-automation
 mentions:
   - name: SitePoint
     role: publisher

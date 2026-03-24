@@ -4,7 +4,6 @@ date: 2026-03-22
 description: "A practical guide demonstrating how to build an automated article summarization pipeline using self-hosted LLMs, eliminating the need for cloud-based services while maintaining privacy and reducing costs."
 tags:
   - article-summarization
-  - automation
   - batch-processing
   - bullish
   - cost-saving
