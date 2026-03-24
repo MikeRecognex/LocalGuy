@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: SMBtech
     role: publisher
-status: draft
+status: published
 ---
 
 ASUS has released the ExpertCenter PN55, a ruggedized industrial mini PC explicitly designed for AI workloads at the edge. The system combines an AMD AI-optimized processor with a dedicated 55 TOPS neural processing unit (NPU), delivering meaningful inference capability in a compact, temperature-hardened form factor suitable for deployment in factories, vehicles, and field locations where traditional servers aren't practical.

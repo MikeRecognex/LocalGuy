@@ -23,7 +23,7 @@ tags:
   - retro-hardware
   - showcase
   - vintage-hardware-ai
-status: draft
+status: published
 ---
 
 MacinAI Local represents a remarkable achievement in pushing LLM inference to extreme edge cases—successfully running TinyLlama 1.1B on a PowerBook G4 from 2002 with Mac OS 9 and no internet connectivity. This project goes beyond novelty to demonstrate what's possible when inference is fully optimized for severely resource-constrained hardware, using techniques that strip away all unnecessary dependencies and cloud connectivity.

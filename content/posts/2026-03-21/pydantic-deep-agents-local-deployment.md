@@ -34,7 +34,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 Pydantic's new Deep Agents framework brings production-grade tooling for building and deploying AI agents with guaranteed structured outputs. For local LLM practitioners, this represents an important development in making on-device models reliable enough for production agent applications, where output consistency and type safety are critical.

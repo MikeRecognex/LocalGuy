@@ -22,7 +22,7 @@ tags:
 mentions:
   - name: Birgitta Boeckeler
     role: speaker
-status: draft
+status: published
 ---
 
 This talk from Birgitta Boeckeler examines how technical leaders should approach AI augmentation in their teams, with considerations that directly apply to organizations evaluating local LLM deployment. The discussion likely covers tool evaluation, team productivity impacts, and strategic decisions around on-device versus cloud-based inference.

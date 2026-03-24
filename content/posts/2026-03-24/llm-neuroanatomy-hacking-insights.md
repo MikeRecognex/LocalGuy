@@ -8,7 +8,7 @@ tags:
   - model-optimization
   - research
   - mechanistic-interpretability
-status: draft
+status: published
 ---
 
 Understanding LLM internals is crucial for effective local deployment optimization. This post dives into the neuroanatomy of modern language models, examining internal mechanisms that can inform better quantization strategies, pruning decisions, and architectural modifications for edge devices.

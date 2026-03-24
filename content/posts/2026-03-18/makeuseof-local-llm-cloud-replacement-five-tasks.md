@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
-status: draft
+status: published
 ---
 
 As cloud LLM API costs continue to accumulate, more practitioners are discovering that local deployment provides superior economics and performance for specific task categories. This firsthand account identifies five concrete use cases where running models locally has eliminated the need for cloud subscriptions entirely, offering practical guidance for teams evaluating similar migrations.

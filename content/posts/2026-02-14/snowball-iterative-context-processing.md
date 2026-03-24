@@ -27,7 +27,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 A new technique called SnowBall has been introduced to address one of the most persistent challenges in local LLM deployment: processing content that exceeds available context windows. This iterative approach allows models to work through large documents or complex tasks by breaking them into manageable chunks while maintaining coherence across the entire process.

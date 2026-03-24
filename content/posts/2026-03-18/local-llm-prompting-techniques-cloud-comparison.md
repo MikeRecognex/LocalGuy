@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Local LLMs require fundamentally different prompting approaches compared to their cloud-based counterparts, yet many practitioners continue using techniques optimized for commercial APIs. This gap in methodology can significantly impact inference quality, latency, and resource utilization in self-hosted deployments.

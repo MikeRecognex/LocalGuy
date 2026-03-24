@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Beyond tools and frameworks, understanding real-world experiences with local LLM deployment is invaluable. This narrative piece provides firsthand insights into the practical realities of running and interacting with local AI systems, from setup challenges to surprising discoveries about model behavior.

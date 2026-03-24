@@ -27,7 +27,7 @@ tags:
   - resource-efficiency
   - showcase
   - tool-calling
-status: draft
+status: published
 ---
 
 OmniCoder-9B is garnering attention from the local LLM community as a specialized coding model that delivers professional-grade tool-calling and code generation capabilities within the constraints of 8GB VRAM cards. Users report that despite its modest size, the model demonstrates impressive abilities to generate complete toolkits and handle complex coding requests with proper function calling reliability.

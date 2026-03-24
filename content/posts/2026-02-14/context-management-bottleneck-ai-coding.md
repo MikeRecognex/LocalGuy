@@ -37,7 +37,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 A significant discussion on Hacker News has identified context management as the primary bottleneck limiting AI-assisted coding effectiveness, particularly for local deployments. Rather than model intelligence or coding capabilities being the limiting factor, practitioners are finding that efficiently managing and utilizing context windows presents the biggest operational challenge.

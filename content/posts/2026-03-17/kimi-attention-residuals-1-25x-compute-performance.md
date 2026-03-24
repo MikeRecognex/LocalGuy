@@ -31,7 +31,7 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Kimi's latest research introduces Attention Residuals, a breakthrough technique that delivers a 1.25x speedup in transformer inference with less than 2% computational overhead. This development is particularly significant for practitioners running LLMs on resource-constrained hardware, as it demonstrates how architectural modifications can yield substantial performance gains without requiring additional parameters or memory.

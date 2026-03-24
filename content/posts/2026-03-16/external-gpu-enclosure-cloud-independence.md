@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: TechRadar
     role: publisher
-status: draft
+status: published
 ---
 
 External GPU enclosures represent a practical middle ground for users unable or unwilling to replace their entire PC for AI workloads. By connecting via Thunderbolt or PCIe over USB-C, these devices let existing machines leverage discrete GPU acceleration for local LLM inference without the expense or complexity of a full system upgrade.

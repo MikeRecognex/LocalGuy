@@ -21,7 +21,7 @@ tags:
   - quantization
   - qwen-model-optimization
   - showcase
-status: draft
+status: published
 ---
 
 A significant performance breakthrough has emerged from the community with the [ik_llama.cpp fork](https://www.reddit.com/r/LocalLLaMA/comments/1s07ysr/ik_llamacpp_gives_26x_faster_prompt_processing_on/), which achieves 26x faster prompt processing compared to mainline llama.cpp on Qwen 3.5 27B. Real-world testing on Blackwell RTX PRO 4000 GPUs (24GB VRAM) shows this fork delivering dramatic improvements for agentic coding tasks that are bottlenecked by context processing.

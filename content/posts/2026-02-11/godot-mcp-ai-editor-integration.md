@@ -39,7 +39,7 @@ mentions:
     role: repository-host
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 A new open-source project called Godot MCP has emerged that allows AI assistants to gain full access to the Godot game engine editor through the Model Context Protocol (MCP). This integration represents a significant step forward in AI-assisted development workflows, enabling local AI models to directly manipulate game development environments and automate complex tasks.

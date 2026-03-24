@@ -32,7 +32,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Engram addresses a critical challenge in local AI agent deployment: maintaining persistent state across sessions without relying on cloud infrastructure. By combining Bun's performance characteristics with SQLite's lightweight footprint, this open-source project enables developers to build stateful AI agents that retain context and learning across multiple interactions—all running on-device.

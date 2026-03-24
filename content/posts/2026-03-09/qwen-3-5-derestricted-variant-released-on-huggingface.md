@@ -27,7 +27,7 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 The open-source model ecosystem continues expanding with [a derestricted Qwen 3.5 27B variant](https://huggingface.co/ArliAI/Qwen-3.5-27B-Derestricted) now available for local deployment. This release reflects the ongoing trend of community-driven model variants that remove safety constraints, enabling researchers and practitioners to experiment with unrestricted inference.

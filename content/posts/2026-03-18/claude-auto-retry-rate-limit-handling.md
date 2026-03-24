@@ -25,7 +25,7 @@ tags:
   - retry-logic
   - showcase
   - tmux-utility
-status: draft
+status: published
 ---
 
 Rate limiting is a practical challenge when integrating local LLM workflows with external APIs or when managing resource constraints in production deployments. This zero-dependency retry utility demonstrates a pragmatic approach to handling subscription rate limits using standard Unix tools (tmux), making it trivially deployable in any environment.

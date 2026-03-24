@@ -32,7 +32,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-source
-status: draft
+status: published
 ---
 
 A new uncensored version of GPT-OSS 120B has been released, featuring 117 billion total parameters with a mixture-of-experts architecture using 128 experts and top-4 routing, resulting in approximately 5.1 billion active parameters during inference. The model supports 128K context length and is notable for being trained in native MXFP4 precision rather than being post-training quantized.

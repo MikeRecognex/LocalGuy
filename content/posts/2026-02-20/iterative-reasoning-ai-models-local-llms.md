@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Understanding where local LLMs fail provides crucial guidance for deployment strategies and architectural decisions. This analysis examines the specific failure modes in iterative reasoning—tasks requiring multiple steps of thought refinement, feedback integration, or correction cycles.

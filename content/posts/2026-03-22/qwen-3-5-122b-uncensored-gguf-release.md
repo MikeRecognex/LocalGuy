@@ -32,7 +32,7 @@ mentions:
     role: community
   - name: Qwen
     role: model-developer
-status: draft
+status: published
 ---
 
 The community has been waiting for this release, and the [Qwen 3.5 122B Aggressive variant](https://www.reddit.com/r/LocalLLaMA/comments/1s0aa1y/qwen35122ba10b_uncensored_aggressive_gguf_release/) is now available in GGUF format with new K_P quantisation options. Unlike previous uncensored attempts that altered the model's personality, this aggressive version strips away refusals while preserving the original model's core characteristics and reasoning capabilities.

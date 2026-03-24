@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
-status: draft
+status: published
 ---
 
 Mozilla has released Llamafile 0.10, bringing significant improvements to their lightweight, single-file LLM execution tool. The headline features include native GPU support for faster inference and a completely rebuilt core that improves stability and performance across different hardware configurations. This is a major milestone for the project, which aims to make local LLM deployment as simple as running a single executable file.

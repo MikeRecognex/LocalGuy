@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 Community practitioners have been sharing practical settings and prompting strategies for Qwen 3.5 models (35B and 27B variants) that successfully mitigate the overthinking and reasoning loop issues some users have reported. This crowdsourced optimization work is invaluable for others deploying these models locally, as it provides battle-tested configurations that improve both output quality and inference efficiency.

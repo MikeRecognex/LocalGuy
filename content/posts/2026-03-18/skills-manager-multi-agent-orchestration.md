@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Managing capabilities and skills across heterogeneous agent systems—mixing local models with API-based solutions—is increasingly common in modern AI deployments. Skills Manager provides a unified interface for defining, versioning, and deploying agent skills across different model backends, reducing duplication and improving maintainability.

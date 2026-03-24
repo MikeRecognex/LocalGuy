@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: TestingCatalog
     role: publisher
-status: draft
+status: published
 ---
 
 Mistral's latest Small 4 model release represents a significant milestone for the local LLM community. Released under Apache 2.0, this model eliminates licensing barriers that often constrain commercial deployment of open-source alternatives. The Small series has historically proven valuable for resource-constrained environments, making this release particularly relevant for edge inference, on-device applications, and self-hosted deployments.

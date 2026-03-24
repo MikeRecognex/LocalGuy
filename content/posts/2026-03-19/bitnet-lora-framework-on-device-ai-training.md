@@ -34,7 +34,7 @@ mentions:
     role: developer
   - name: BTC Times
     role: publisher
-status: draft
+status: published
 ---
 
 Tether's QVAC has unveiled a new cross-platform BitNet LoRA framework designed to enable efficient fine-tuning of language models on edge devices. This framework addresses one of the major pain points in local LLM deployment: the ability to adapt pre-trained models to specific use cases without requiring cloud infrastructure or massive computational resources.

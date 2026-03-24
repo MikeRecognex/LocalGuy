@@ -29,7 +29,7 @@ mentions:
     role: tool-developer
   - name: TipRanks
     role: publisher
-status: draft
+status: published
 ---
 
 Multiverse Computing has introduced compressed model variants and a dedicated API portal aimed at democratizing on-device AI deployment. The compressed models are engineered to run efficiently on resource-constrained hardware while maintaining usable performance levels, addressing a critical gap for organizations seeking to deploy LLMs locally without sacrificing accuracy.

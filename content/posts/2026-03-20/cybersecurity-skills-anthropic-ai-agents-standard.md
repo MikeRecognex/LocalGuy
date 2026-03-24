@@ -29,7 +29,7 @@ mentions:
     role: standard-project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 The open-source community is building standardized frameworks for AI agent capabilities. The [agentskills.io cybersecurity standard implementation](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) provides a structured approach to equipping locally-deployed agents with security-aware behaviors and capabilities. This standardization is crucial as autonomous agents become more prevalent in infrastructure automation.

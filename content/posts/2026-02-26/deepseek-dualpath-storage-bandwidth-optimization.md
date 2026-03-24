@@ -44,7 +44,7 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 Storage bandwidth has become an increasingly critical bottleneck for deploying large language models locally, particularly when running agentic systems with high-frequency memory access patterns. DeepSeek's latest research paper introduces DualPath, a novel approach developed jointly with leading Chinese universities that specifically addresses this constraint without requiring custom hardware or major architectural changes.

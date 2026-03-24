@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Local LLM practitioners are discovering powerful synergies between open-source document management systems and on-device language models. Integrating local LLMs with Paperless-ngx enables intelligent document classification, extraction, and organization without sending sensitive data to cloud services.

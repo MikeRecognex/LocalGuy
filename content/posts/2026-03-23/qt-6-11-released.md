@@ -29,7 +29,7 @@ mentions:
     role: framework provider
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Qt 6.11's release is relevant to local LLM practitioners building cross-platform desktop and embedded applications that integrate on-device inference. The framework continues to improve its deployment tooling, which matters when you're trying to package applications that bundle quantized models, runtime dependencies, and inference engines across Windows, macOS, Linux, iOS, and embedded systems.

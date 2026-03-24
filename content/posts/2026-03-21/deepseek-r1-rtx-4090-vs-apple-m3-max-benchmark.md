@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Selecting the right hardware for local LLM inference remains a critical decision for on-device AI practitioners. This benchmark comparison between DeepSeek R1 performance on NVIDIA's RTX 4090 and Apple's M3 Max provides essential data for making informed deployment choices. The analysis covers inference speed, memory utilization, and cost-effectiveness across different workload scenarios.

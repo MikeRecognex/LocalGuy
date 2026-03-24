@@ -41,7 +41,7 @@ mentions:
     role: publisher
   - name: paywatcher
     role: publisher
-status: draft
+status: published
 ---
 
 As AI agents become autonomous economic actors, questions about payment authorization and verification become increasingly important. This article examines how to design systems where local AI agents can autonomously pay for external API calls using mechanisms like HTTP 402 Payment Required status codes and blockchain-based verification on networks like Base (Ethereum's L2). While this might seem tangential to pure local deployment, many practical agent systems require hybrid architectures that combine on-device inference with selective cloud API calls.

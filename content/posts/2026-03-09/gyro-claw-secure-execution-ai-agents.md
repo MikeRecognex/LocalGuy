@@ -30,7 +30,7 @@ mentions:
     role: publisher
   - name: Gyro-Claw
     role: project
-status: draft
+status: published
 ---
 
 Gyro-Claw addresses a fundamental challenge in local AI agent deployment: safely executing agent-generated code without compromising system security. As LLM agents become more autonomous and capable of taking actions on systems, the need for execution sandboxing becomes critical. This tool provides a runtime environment that isolates agent execution, preventing malicious or buggy code from compromising the underlying system.

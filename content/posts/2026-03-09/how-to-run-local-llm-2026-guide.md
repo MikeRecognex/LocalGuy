@@ -31,7 +31,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 HackerNoon has published an updated 2026 edition guide for running local LLMs, consolidating current best practices and the latest tooling ecosystem. With rapid changes in model optimization, quantization techniques, and inference frameworks, such updated guides serve as essential reference materials for both newcomers and experienced practitioners.

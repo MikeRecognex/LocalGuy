@@ -30,7 +30,7 @@ mentions:
     role: project-creator
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Custom AI smart speakers represent the practical edge of local LLM deployment, moving inference from cloud-dependent commercial devices into user-controlled hardware. This project demonstrates how the maturing landscape of lightweight local models now makes voice assistants feasible without relying on proprietary cloud infrastructure.

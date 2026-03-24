@@ -28,7 +28,7 @@ tags:
   - quantization
   - quantized-models
   - smart-city-ai
-status: draft
+status: published
 ---
 
 South Korea is accelerating deployment of domestically-manufactured AI chips designed specifically for neural processing units (NPUs) across smart city infrastructure. This strategic initiative represents a major move toward reducing dependency on foreign semiconductor suppliers and building regional expertise in edge AI hardware.

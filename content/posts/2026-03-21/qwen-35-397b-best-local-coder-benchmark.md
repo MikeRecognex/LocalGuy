@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 Qwen 3.5 397B has emerged as a standout performer for local code generation workloads. Community members who tested the model against smaller variants (122B, 35B, 27B) and competing implementations like GPT-OSS 120B, StepFun 3.5, and the newly released Super Nemotron 120B report that the larger Qwen model delivers substantially better knowledge retention and fewer bugs in generated code.

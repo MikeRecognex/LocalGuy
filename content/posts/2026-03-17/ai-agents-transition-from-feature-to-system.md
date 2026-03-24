@@ -31,7 +31,7 @@ mentions:
     role: publisher
   - name: comuniq.xyz
     role: publisher
-status: draft
+status: published
 ---
 
 This article explores the paradigm shift in how AI agents are being conceptualized and deployed, transitioning from single-purpose capabilities embedded within applications to full-fledged autonomous systems. This transition has profound implications for local LLM deployment, as it fundamentally changes how practitioners should architect their on-device inference infrastructure.

@@ -35,7 +35,7 @@ tags:
   - rocm-optimisation
   - rocm-optimizations
   - unified-memory
-status: draft
+status: published
 ---
 
 AMD's Strix Halo platform is emerging as a viable alternative for local LLM deployment, with [recent ROCm 7.2 benchmarks](https://i.redd.it/nznwscltjyng1.gif) demonstrating practical inference speeds across the Qwen 3.5 model family. Testing on the Ryzen AI Max+ 395 with 128GB unified memory shows that the platform can efficiently run larger models that would otherwise require discrete GPUs.

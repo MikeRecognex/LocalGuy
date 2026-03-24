@@ -22,7 +22,7 @@ tags:
   - patent-classification
   - real-time-ai
   - showcase
-status: draft
+status: published
 ---
 
 Nemotron 9B is emerging as a surprisingly capable model for serious local inference workloads. A recent project [classified 3.5M US patents](https://www.reddit.com/r/LocalLLaMA/comments/1ro52cu/i_classified_35m_us_patents_with_nemotron_9b_on_a/) using a single RTX 5090 in approximately 48 hours, with results indexed into a 74GB SQLite database and exposed via a BM25-powered search engine. This demonstrates that even modest-sized models can tackle large-scale batch processing when optimized properly.

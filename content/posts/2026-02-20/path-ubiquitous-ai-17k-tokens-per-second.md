@@ -30,7 +30,7 @@ tags:
   - real-time-inference
   - self-hosted
   - ubiquitousai
-status: draft
+status: published
 ---
 
 High-throughput local inference remains the bottleneck for practical LLM deployment, and this analysis targets the specific performance metrics needed for ubiquitous adoption. Achieving 17,000 tokens per second represents the threshold where local inference becomes competitive with API-based solutions for latency-sensitive applications.

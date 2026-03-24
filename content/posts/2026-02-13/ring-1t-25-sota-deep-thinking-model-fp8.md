@@ -30,7 +30,7 @@ mentions:
   - name: inclusionAI
   - name: inclusionAI
     role: developer
-status: draft
+status: published
 ---
 inclusionAI has released [Ring-1T-2.5](https://huggingface.co/inclusionAI/Ring-1T-2.5-FP8), positioning it as achieving state-of-the-art performance on deep thinking and reasoning tasks. The model is distributed in FP8 format, representing significant memory optimization for local deployment scenarios.
 

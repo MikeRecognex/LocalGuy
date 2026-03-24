@@ -33,7 +33,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Choosing the right serving framework is fundamental to successful local LLM deployments, and [this comparison](https://www.sitepoint.com) directly addresses the decision between LM Studio and Ollama—the two most popular desktop-focused LLM serving solutions. Both tools have matured significantly and serve different user profiles and use cases.

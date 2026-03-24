@@ -28,7 +28,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 VS Code Agent Kanban demonstrates how local LLM agents can integrate into existing developer workflows for practical productivity gains. By embedding task management and AI coordination directly in VS Code, developers can use local models to organize work, prioritize tasks, and coordinate multi-step development processes without leaving their editor or relying on cloud services.

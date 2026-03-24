@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Windows represents a significant portion of the personal computing landscape, yet local LLM deployment guides often focus on Linux or macOS. This article addresses that gap by providing a practical path for Windows users to establish a self-hosted LLM system without relying on external cloud services.

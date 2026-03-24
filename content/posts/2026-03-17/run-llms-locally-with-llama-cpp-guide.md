@@ -28,7 +28,7 @@ mentions:
     role: publisher
   - name: StartupHub.ai
     role: publisher
-status: draft
+status: published
 ---
 
 llama.cpp continues to be the de facto standard for running large language models efficiently on local hardware, and this comprehensive guide demonstrates why it remains essential infrastructure for the local LLM ecosystem. The framework's C++ implementation and aggressive optimization techniques enable inference speeds and memory efficiency that rival or exceed cloud-based alternatives, while keeping your data private and reducing operational costs.

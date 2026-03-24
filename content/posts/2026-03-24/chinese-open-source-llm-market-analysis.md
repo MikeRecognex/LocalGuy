@@ -8,7 +8,7 @@ tags:
   - model-release
   - market-analysis
   - international
-status: draft
+status: published
 ---
 
 A detailed [community breakdown of the Chinese LLM landscape](https://www.reddit.com/r/LocalLLaMA/comments/1s1gm9z/the_current_state_of_the_chinese_llms_scene/) reveals the rapidly maturing ecosystem driving local inference innovation globally. ByteDance's Doubao (dola-seed) leads the proprietary market with an open-source 36B variant, while Alibaba (Qwen), Deepseek, and emerging players contribute diverse model architectures and training approaches. The scene demonstrates that competitive pressure on capability and efficiency spans across borders and is accelerating open-source releases.

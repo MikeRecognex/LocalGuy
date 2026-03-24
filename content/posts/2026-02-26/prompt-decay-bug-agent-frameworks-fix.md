@@ -30,7 +30,7 @@ mentions:
     role: platform
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 Prompt decay—the degradation of LLM output quality over extended agent interactions—is identified as a systemic issue across popular agent frameworks. As agents make successive API calls or reasoning steps, the accumulated context and prompt instructions gradually become less effective, leading to increasingly poor outputs and task failures. This is particularly problematic for long-running local LLM deployments.

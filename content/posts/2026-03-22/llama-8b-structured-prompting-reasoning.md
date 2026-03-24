@@ -28,7 +28,7 @@ tags:
   - reasoning-optimization
   - retrieval-augmented-generation
   - structured-prompting
-status: draft
+status: published
 ---
 
 Experimental results demonstrate that [Llama 8B can match 70B model performance on multi-hop question answering through structured prompting techniques](https://www.reddit.com/r/LocalLLaMA/comments/1s05thz/llama_8b_matching_70b_on_multihop_qa_with/) without requiring any fine-tuning. The key insight emerged from Graph RAG (KET-RAG) experiments: retrieval is effectively solved (77-91% of answers present in context), while reasoning remains the actual bottleneck where 73-84% of failures occur.

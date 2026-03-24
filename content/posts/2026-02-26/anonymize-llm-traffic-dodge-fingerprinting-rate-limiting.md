@@ -36,7 +36,7 @@ mentions:
     role: publisher
   - name: GitHub
     role: platform
-status: draft
+status: published
 ---
 
 The claw-shield project demonstrates growing interest in masking and anonymizing LLM API traffic to prevent fingerprinting and rate-limit detection. While primarily focused on API usage, this tool reflects broader concerns about privacy, cost optimization, and access patterns when working with language models—concerns that are equally relevant to local deployment scenarios.

@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 A notable trend emerging in the local LLM community is the consistent pattern of open-source models displacing the previous year's proprietary SOTA models. Models like GLM5 and Kimi K2.5 are now achieving performance parity with closed-source alternatives such as Anthropic's Claude 3.5 Sonnet from 2024, suggesting a predictable annual cycle of capability redistribution toward open-source alternatives.

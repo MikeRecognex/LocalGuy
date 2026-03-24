@@ -8,7 +8,7 @@ tags:
   - observability
   - open-source
   - production-deployment
-status: draft
+status: published
 ---
 
 Production-grade local LLM deployments require robust monitoring and debugging infrastructure. Rubric fills a critical gap by providing open-source observability tools purpose-built for AI applications, offering capabilities like error tracking, performance metrics, and debugging insights that traditional application monitoring tools weren't designed to handle.

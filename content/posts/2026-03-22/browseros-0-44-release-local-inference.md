@@ -32,7 +32,7 @@ mentions:
   - name: BrowserOS
   - name: Neowin
     role: publisher
-status: draft
+status: published
 ---
 
 BrowserOS represents an emerging frontier in local LLM deployment: executing models directly within browser runtimes through WebAssembly and related technologies. This 0.44.0 release likely includes optimizations for on-device inference, reducing reliance on server-side API calls and enabling privacy-preserving AI features in web applications.

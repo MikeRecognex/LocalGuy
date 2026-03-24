@@ -23,7 +23,7 @@ tags:
   - rag
   - resource-optimization
   - vram-efficiency
-status: draft
+status: published
 ---
 
 Oracle has integrated LMCache, an advanced key-value cache optimization technique, into their OCI Data Science AI Quick Actions, enabling practitioners to dramatically accelerate LLM inference. LMCache addresses a fundamental bottleneck in transformer inference: the KV cache (key-value activations from previous tokens) grows linearly with sequence length and consumes significant memory bandwidth. By intelligently reusing and compressing these caches across related prompts, LMCache reduces computational overhead and memory pressure.

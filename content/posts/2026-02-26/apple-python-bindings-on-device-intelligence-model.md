@@ -31,7 +31,7 @@ mentions:
     role: publisher
   - name: GitHub
     role: platform
-status: draft
+status: published
 ---
 
 Apple has released official Python bindings for its on-device Apple Intelligence model through the python-apple-fm-sdk repository. This is a significant development for local LLM deployment, as it provides developers with a straightforward path to integrate Apple's proprietary on-device models into Python applications without relying on cloud APIs.

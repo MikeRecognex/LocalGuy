@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 Brezn addresses an emerging requirement in local LLM deployments: enabling communication between multiple local models and inference nodes without reliance on centralized cloud infrastructure. As organizations deploy LLM clusters across edge locations, distributed inference becomes necessary, requiring reliable peer-to-peer communication primitives.

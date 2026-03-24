@@ -30,7 +30,7 @@ tags:
   - on-device-inference
   - quantization
   - release
-status: draft
+status: published
 ---
 
 MiniMax-M2.5, a 230 billion parameter mixture-of-experts model, has been released and is now available for local deployment through GGUF quantizations. The model is showing impressive performance in early benchmarks, with community members already creating optimized quants for various hardware configurations including M3 Max systems with 128GB RAM.

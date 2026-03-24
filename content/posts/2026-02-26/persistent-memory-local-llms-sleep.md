@@ -38,7 +38,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 A breakthrough in local LLM capabilities: researchers have developed a memory consolidation system that allows models to learn and retain facts from conversations without external databases or retrieval systems. After four months of research and development, the technique enables models to remember learned information across restarts with an empty context window—the facts persist in the model weights themselves.

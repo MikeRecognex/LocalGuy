@@ -33,7 +33,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Code review automation represents one of the most immediate practical applications for local LLMs, particularly in security-conscious organizations. By running code review AI on-premises, teams eliminate vendor lock-in, maintain proprietary code confidentiality, and integrate directly with existing CI/CD pipelines. This guide demonstrates how to build a self-hosted code review system that identifies bugs, security issues, and style violations before human review.

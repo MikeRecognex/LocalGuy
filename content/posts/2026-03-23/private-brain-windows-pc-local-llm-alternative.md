@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 An enthusiast has documented the practical setup of a local large language model on a Windows PC, eliminating recurring costs associated with subscription-based AI services while maintaining complete data privacy. This implementation serves as a compelling proof-of-concept for mainstream users seeking alternatives to cloud-dependent AI solutions.

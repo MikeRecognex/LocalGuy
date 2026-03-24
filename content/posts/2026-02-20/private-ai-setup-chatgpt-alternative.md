@@ -36,7 +36,7 @@ mentions:
     role: publisher
   - name: MakeUseOf
     role: publisher
-status: draft
+status: published
 ---
 
 The economics of local LLM deployment continue to shift in favor of on-device inference as practitioners demonstrate viable alternatives to commercial API services. This piece from [MakeUseOf](https://www.makeuseof.com) showcases real-world decision-making: moving away from recurring ChatGPT subscriptions toward a sustainable self-hosted setup.

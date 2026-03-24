@@ -35,7 +35,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 RAG systems represent a practical frontier for local LLMs, combining retrieval with generation to build more grounded and up-to-date applications. [This guide on building RAG entirely in the browser](https://www.sitepoint.com) demonstrates how the local LLM ecosystem has matured enough to support sophisticated architectures without any external dependencies.

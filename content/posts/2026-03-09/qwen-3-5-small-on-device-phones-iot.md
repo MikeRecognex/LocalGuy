@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: GeekyGadgets.com
     role: publisher
-status: draft
+status: published
 ---
 
 Alibaba has released Qwen 3.5 Small, a new lightweight model specifically optimized for on-device inference on phones and IoT devices. This release marks a significant milestone for bringing practical LLM capabilities to resource-constrained environments where users require offline operation without relying on cloud infrastructure.

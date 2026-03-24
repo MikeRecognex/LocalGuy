@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Building truly local-first RAG systems just became more practical with the emergence of SQLite-based vector search implementations using Hamming distance. This approach enables practitioners to deploy document retrieval pipelines entirely on-device without relying on cloud-hosted vector databases, reducing latency and improving privacy.

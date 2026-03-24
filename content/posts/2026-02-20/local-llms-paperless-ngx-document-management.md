@@ -31,7 +31,7 @@ mentions:
     role: tool
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Practical applications combining local LLMs with open-source document management tools represent the maturation of self-hosted inference ecosystems. Integrating local language models with [Paperless-ngx](https://docs.paperless-ngx.com) enables document classification, OCR enhancement, and metadata extraction entirely within a user's own infrastructure.

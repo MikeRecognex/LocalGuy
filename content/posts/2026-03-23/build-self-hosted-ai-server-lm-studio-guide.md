@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: YTECHB
     role: publisher
-status: draft
+status: published
 ---
 
 A step-by-step guide has been published demonstrating how to set up a self-hosted AI server using LM Studio, a popular framework that simplifies local LLM deployment. The tutorial covers the entire setup process, making advanced AI infrastructure accessible to developers and enthusiasts without deep systems engineering expertise.

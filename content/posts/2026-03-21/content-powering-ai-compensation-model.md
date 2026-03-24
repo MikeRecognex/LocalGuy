@@ -29,7 +29,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 This article highlights systemic issues with how large AI companies harvest training data from web content without compensation or transparency, creating an important context for why open-source and locally-deployed models matter. The piece underscores the data governance and ethical concerns that drive adoption of self-hosted LLM solutions.

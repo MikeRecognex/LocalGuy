@@ -34,7 +34,7 @@ tags:
 mentions:
   - name: Semiconductor Engineering
     role: publisher
-status: draft
+status: published
 ---
 
 Engineers have identified and solved critical performance bottlenecks when running llama.cpp on ARM Neoverse N2 processors, particularly around cross-NUMA memory access patterns. The research reveals how improper memory topology handling can severely impact inference performance on multi-socket ARM servers.

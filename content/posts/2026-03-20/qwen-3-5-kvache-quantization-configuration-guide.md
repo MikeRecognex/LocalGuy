@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: Reddit
     role: community-platform
-status: draft
+status: published
 ---
 
 The Qwen 3.5 community is rapidly establishing practical quantization configurations, with particular focus on KV cache optimization strategies. [Discussions around Q6K weight quantization with various KV cache approaches](https://www.reddit.com/r/LocalLLaMA/comments/1ryoab7/qwen_35_27b_quantize_kv_cache_or_not/) indicate that the model's architecture tolerates aggressive KV cache quantization (Q8 and below) without significant quality degradation. This finding is critical because KV cache quantization can reduce memory overhead by 40-50% during long-context inference.

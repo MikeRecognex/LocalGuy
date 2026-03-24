@@ -27,7 +27,7 @@ tags:
   - qwen
   - resource-allocation
   - resource-management
-status: draft
+status: published
 ---
 
 While Qwen3.5 has generated considerable enthusiasm in the local LLM community, a rigorous benchmark using the APEX Testing framework reveals critical limitations for software development use cases. Testing across all Qwen3.5 variants on 70 real-world repositories shows substantially lower performance on complex coding tasks compared to competitors, contradicting broader claims about the model's general-purpose excellence.

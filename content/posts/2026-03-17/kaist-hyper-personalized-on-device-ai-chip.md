@@ -33,7 +33,7 @@ mentions:
     role: research-institution
   - name: Seoul Economic Daily
     role: publisher
-status: draft
+status: published
 ---
 
 KAIST's breakthrough in on-device AI chip design marks a significant advancement in hardware-software co-optimization for local LLM inference. The hyper-personalized AI chip specifically targets the challenge of adapting language models to individual user preferences while maintaining computational efficiency on mobile and edge devices. This represents a maturation of the local AI hardware ecosystem beyond generic accelerators toward domain-specific solutions optimized for contemporary inference workloads.

@@ -31,7 +31,7 @@ mentions:
     role: publisher
   - name: How-To Geek
     role: publisher
-status: draft
+status: published
 ---
 
 The proliferation of Raspberry Pi AI tools highlights how local LLM inference is moving down the compute stack. OpenClaw and similar projects prove that meaningful language model inference no longer requires high-end GPUs—enabling deployment scenarios from IoT devices to offline rural infrastructure.

@@ -30,7 +30,7 @@ mentions:
     role: publisher
   - name: lucidshark.com
     role: publisher
-status: draft
+status: published
 ---
 
 LucidShark represents an important advancement in local LLM infrastructure by providing an open-source, privacy-preserving approach to quality gates and security validation. Rather than relying on external APIs, developers can now perform content moderation, safety checks, and output validation entirely on-device, which is critical for applications handling sensitive data or operating in restricted network environments.

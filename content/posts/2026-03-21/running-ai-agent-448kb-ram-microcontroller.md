@@ -27,7 +27,7 @@ mentions:
     role: platform
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 This project demonstrates a remarkable achievement in edge AI: running a functional AI agent on a microcontroller with just 448KB of RAM using Zephyr RTOS. This represents a significant breakthrough for local LLM practitioners working in IoT and embedded systems contexts where traditional model deployment was previously infeasible.

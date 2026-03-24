@@ -39,7 +39,7 @@ mentions:
     role: platform
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 SanityBoard has significantly expanded its evaluation coverage with 27 new benchmark results, providing the community with data-driven comparisons of the latest model releases. The update includes fresh evaluations of Qwen 3.5 Plus, GLM 5, Gemini 3.1 Pro, Sonnet 4.6, and three emerging open-source agent frameworks—exactly the models and tools practitioners are evaluating for local deployment decisions.

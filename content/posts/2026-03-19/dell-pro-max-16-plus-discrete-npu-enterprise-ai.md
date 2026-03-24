@@ -31,7 +31,7 @@ mentions:
     role: manufacturer
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Dell's Pro Max 16 Plus introduces an enterprise-grade discrete Neural Processing Unit (NPU), marking a significant hardware advancement for local LLM deployment in professional environments. Dedicated NPUs represent a major departure from relying solely on CPU and GPU resources, offering specialized silicon optimized specifically for neural network inference.

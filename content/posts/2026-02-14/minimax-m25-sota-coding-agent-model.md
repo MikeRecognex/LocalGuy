@@ -40,7 +40,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 MiniMax has released M2.5, a new language model positioned as state-of-the-art for coding and agent applications. The model is specifically designed for integration with agent frameworks and multi-step reasoning tasks, which could make it particularly valuable for local deployments where specialized agent workflows are common.

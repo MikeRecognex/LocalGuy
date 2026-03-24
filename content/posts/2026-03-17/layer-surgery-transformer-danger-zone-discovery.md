@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
-status: draft
+status: published
 ---
 
 A researcher conducted extensive layer surgery experiments across six transformer architectures—including dense, hybrid, and MoE variants—revealing a universal architectural weakness at approximately 50-56% model depth. When layers were duplicated at this critical zone, all tested architectures experienced severe performance degradation, regardless of parameter count or base architecture type.

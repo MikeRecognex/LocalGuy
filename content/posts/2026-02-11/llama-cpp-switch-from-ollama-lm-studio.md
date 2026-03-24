@@ -30,7 +30,7 @@ mentions:
     role: publisher
   - name: It's FOSS
     role: publisher
-status: draft
+status: published
 ---
 
 A comprehensive analysis from It's FOSS explores why switching from popular GUI tools like Ollama and LM Studio to raw llama.cpp can provide superior performance and control for local LLM deployment. The author details their experience moving away from user-friendly interfaces in favor of direct command-line interaction with the underlying inference engine.

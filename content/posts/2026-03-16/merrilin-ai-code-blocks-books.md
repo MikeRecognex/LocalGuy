@@ -24,7 +24,7 @@ mentions:
     role: product
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Merrilin.ai innovates in how developers interact with technical content by embedding executable code blocks directly in books. This type of tool becomes particularly powerful when backed by local LLM inference—readers can get real-time code explanations, suggestions, and corrections without sending content to external servers.

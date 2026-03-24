@@ -27,7 +27,7 @@ mentions:
   - name: LM Studio
     role: developer
   - name: LM Studio
-status: draft
+status: published
 ---
 
 LM Studio has published reworked versions of its plugin ecosystem, including improved DuckDuckGo and website visiting plugins now available on the LM Studio Hub. These updates represent a significant step forward in creating truly self-contained, locally-runnable AI applications that don't require external API dependencies or internet connectivity for core functionality.

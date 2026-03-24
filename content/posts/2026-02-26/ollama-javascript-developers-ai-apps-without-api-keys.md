@@ -32,7 +32,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 JavaScript has become the dominant language for full-stack development, and [this guide](https://www.sitepoint.com) addresses a critical gap: enabling JavaScript developers to integrate local LLMs directly into their applications. Traditionally, JavaScript developers building AI features relied on external APIs, but Ollama makes it possible to bundle models with applications for completely local inference.

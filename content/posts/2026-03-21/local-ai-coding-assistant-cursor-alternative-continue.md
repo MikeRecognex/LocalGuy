@@ -37,7 +37,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 The cost and privacy implications of cloud-based AI coding assistants like Cursor have driven interest in self-hosted alternatives. This guide demonstrates how to implement a fully local coding assistant using VS Code, Ollama for model serving, and the Continue extension for IDE integration. The setup maintains all code and inference on-device, eliminating concerns about proprietary code exposure to cloud providers.

@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 A new GitHub project has surfaced that addresses a critical concern for developers running LLMs locally: how to safely permit code execution while maintaining security guardrails. The [claude-code-permissions-hook](https://github.com/panuhorsmalahti/claude-code-permissions-hook) tool allows operators to delegate permission approvals directly to the running LLM, creating a more autonomous yet controlled execution environment.

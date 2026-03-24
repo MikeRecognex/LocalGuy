@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: ITPro
     role: publisher
-status: draft
+status: published
 ---
 
 AMD's recent commentary on the maturation of on-device AI suggests the hardware landscape is finally catching up to local LLM deployment ambitions. The company's framing of 'Agent Computers' indicates a shift toward systems where AI reasoning and action happen directly on user hardware rather than relying on cloud APIs.

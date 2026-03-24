@@ -32,7 +32,7 @@ mentions:
     role: developer
   - name: together.ai
     role: publisher
-status: draft
+status: published
 ---
 
 Mamba 3 represents a significant architectural innovation in the pursuit of efficient local LLM inference. Unlike transformer-based models that scale quadratically with sequence length, state space models like Mamba offer linear scaling characteristics, making them inherently more memory-efficient and faster for long-context workloads—a critical advantage for resource-constrained edge and local deployments.

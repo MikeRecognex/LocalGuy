@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: kmjournal.net
     role: publisher
-status: draft
+status: published
 ---
 
 The competitive landscape for local AI inference is rapidly evolving as major semiconductor manufacturers prioritize on-device AI capabilities. Qualcomm and Samsung's deepening collaboration signals sustained industry investment in edge AI infrastructure, moving beyond experimental deployments toward mainstream consumer and enterprise applications. This alliance focuses on developing optimized chips and software stacks specifically designed for local model inference.

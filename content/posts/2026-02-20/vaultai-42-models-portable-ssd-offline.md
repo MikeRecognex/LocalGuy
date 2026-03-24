@@ -31,7 +31,7 @@ mentions:
     role: product
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 VaultAI addresses a critical pain point for local LLM deployment: portability and offline accessibility. By bundling 42 pre-optimized AI models on a portable SSD with a $399 price point, the project eliminates infrastructure costs and cloud dependencies entirely.

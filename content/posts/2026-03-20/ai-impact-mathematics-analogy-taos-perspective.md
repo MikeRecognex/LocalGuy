@@ -30,7 +30,7 @@ mentions:
     role: Mathematician
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 Renowned mathematician Terence Tao has offered a [thought-provoking analogy](https://mathstodon.xyz/@tao/116252708577614828) about AI's transformative role in mathematics: just as the automobile fundamentally reshaped cities—changing not just transportation but architecture, social structure, and possibility—AI is reshaping how mathematical research is conducted, what problems are tractable, and which approaches yield discovery.

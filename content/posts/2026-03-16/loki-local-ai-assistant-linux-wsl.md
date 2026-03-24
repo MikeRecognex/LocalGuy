@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 LoKI represents a focused effort to bring fully local AI assistants to Linux ecosystems, which have traditionally lagged behind macOS (with MLX) and Windows in terms of optimized local inference tools. By targeting both native Linux and WSL, the tool expands accessibility for developers and sysadmins who prefer open-source operating systems.

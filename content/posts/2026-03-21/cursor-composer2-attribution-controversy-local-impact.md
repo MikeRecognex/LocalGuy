@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Elon Musk
   - name: Cursor
-status: draft
+status: published
 ---
 
 The discovery that Cursor's new Composer 2 model appears to be built on Kimi K2.5 without proper attribution has sparked significant community discussion about model transparency and licensing practices. Even prominent figures like Elon Musk have engaged with the controversy, underscoring the broader industry tension between closed implementations and open-source accountability.

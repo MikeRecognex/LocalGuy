@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: Transformers.js
     role: library
-status: draft
+status: published
 ---
 
 NVIDIA's [Nemotron 3 Nano 4B model now runs natively in web browsers](https://v.redd.it/owg2ok0lp2qg1) using WebGPU, marking a significant milestone in browser-based inference. Achieving ~75 tokens per second on an M4 Max, this hybrid Mamba + Attention architecture delivers practical performance for in-browser applications without requiring any local installation or server infrastructure. The WebGPU demo powered by Transformers.js showcases true zero-friction edge deployment.

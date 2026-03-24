@@ -16,7 +16,7 @@ tags:
   - news
   - open-source
   - quantization
-status: draft
+status: published
 ---
 
 A detailed community benchmark comparison has highlighted unexpected performance gaps in Nvidia's newly released Nemotron 3 4B model. A local LLM practitioner ran Q8 quantised versions of both models through demanding custom tests, finding that [Qwen 3.5 4B consistently passed all benchmarks while Nemotron 3 4B underperformed](https://www.reddit.com/gallery/1rvw9j8).

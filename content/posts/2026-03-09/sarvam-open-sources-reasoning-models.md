@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: Sarvam
     role: AI lab
-status: draft
+status: published
 ---
 
 Sarvam has open-sourced two new reasoning models at 30B and 105B parameters, expanding the available options for developers building self-hosted AI systems. These models fill an important gap in the open-source ecosystem by providing reasoning capabilities that were previously dominated by closed commercial systems like OpenAI's o1.

@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: Trend Hunter
     role: publisher
-status: draft
+status: published
 ---
 
 Browser-based transcription tools represent a practical convergence of local inference technology and web standards, enabling real-time audio processing directly in users' browsers without cloud transmission. Solutions like Whisper.cpp compiled to WebAssembly demonstrate that sophisticated AI models can run entirely locally, preserving privacy while maintaining acceptable performance for consumer applications. This architectural pattern opens new possibilities for building privacy-first applications that don't require backend infrastructure.

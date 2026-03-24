@@ -31,7 +31,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Production-ready deployment guidance for Ollama using Docker Compose has emerged as essential infrastructure knowledge for teams moving local LLM inference beyond experimentation. This guide addresses one of the most common pain points for practitioners: transitioning from single-machine setups to scalable, production-grade deployments.

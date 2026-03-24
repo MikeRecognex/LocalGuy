@@ -35,7 +35,7 @@ mentions:
     role: framework-provider
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 TemplateFlow represents an important shift in how developers approach local LLM deployment by providing abstractions above raw prompts. Rather than treating LLMs as single-shot tools, the framework enables building complex workflows where multiple inference steps can be chained together with proper state management and error handling.

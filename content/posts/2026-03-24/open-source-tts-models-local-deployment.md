@@ -8,7 +8,7 @@ tags:
   - open-source
   - local-inference
   - edge-deployment
-status: draft
+status: published
 ---
 
 Text-to-speech has become an essential complement to large language models in local AI deployments. This guide covers the best open-source TTS models available for on-device inference, allowing developers to build complete voice-enabled applications without relying on cloud services like Google Cloud TTS or Azure Speech Services.

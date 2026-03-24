@@ -30,7 +30,7 @@ mentions:
     role: extension
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Kilo is a VS Code extension designed to integrate seamlessly with any local LLM, solving a long-standing pain point for developers who want to use self-hosted models instead of cloud-based coding assistants like GitHub Copilot. The extension's flexibility in supporting multiple LLM backends means developers can choose or switch between different models—whether Ollama-based, llama.cpp, or other inference engines—without reconfiguring their environment.

@@ -35,7 +35,7 @@ tags:
 mentions:
   - name: IBM
     role: provider
-status: draft
+status: published
 ---
 
 IBM has released Granite-4.0-1b-speech as part of their Granite model family, providing a purpose-built solution for speech-to-text and speech-to-speech translation tasks. The 1B parameter footprint makes it extremely viable for edge devices, embedded systems, and resource-constrained environments where typical LLMs are prohibitively expensive.

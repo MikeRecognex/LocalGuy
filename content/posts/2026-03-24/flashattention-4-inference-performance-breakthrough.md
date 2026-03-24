@@ -8,7 +8,7 @@ tags:
   - quantisation
   - performance-benchmark
   - gpu-kernels
-status: draft
+status: published
 ---
 
 FlashAttention-4 represents a major leap forward for local LLM inference performance. The new implementation achieves 1,613 TFLOPs/s on NVIDIA B200 GPUs with BF16 forward passes, effectively pushing attention computation to matmul speed—eliminating one of the primary bottlenecks in transformer inference. Written entirely in Python, this is surprisingly more efficient than hand-optimized Triton kernels by 2.1-2.7x.

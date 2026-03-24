@@ -43,7 +43,7 @@ mentions:
     role: repository
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 DeepSeek has published a research paper on DualPath, a technique aimed at breaking the bandwidth bottleneck that constrains LLM inference performance on local hardware. Bandwidth limitations—the rate at which data moves between memory and compute units—represent a critical performance ceiling for on-device inference, especially on consumer and edge devices.

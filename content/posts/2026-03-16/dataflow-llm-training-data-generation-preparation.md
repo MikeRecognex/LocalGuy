@@ -26,7 +26,7 @@ mentions:
     role: project-owner
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 DataFlow addresses a persistent bottleneck in the local LLM pipeline: preparing high-quality training data. While model architectures and inference optimization have received substantial community attention, data preparation remains labor-intensive. This all-in-one tool streamlines dataset generation, cleaning, and preprocessing—critical for practitioners looking to fine-tune local models on domain-specific tasks.

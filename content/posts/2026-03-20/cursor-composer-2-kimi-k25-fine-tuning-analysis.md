@@ -28,7 +28,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Community researchers have published findings suggesting that [Cursor's Composer 2 model](https://old.reddit.com/r/singularity/comments/1ryrs2w/cursors_composer_2_model_is_apparently_just_kimi/) is based on Kimi K2.5 with additional reinforcement learning fine-tuning applied for code generation tasks. This reverse-engineering effort reveals practical insights into how foundation models are adapted for specialized agent behaviors.

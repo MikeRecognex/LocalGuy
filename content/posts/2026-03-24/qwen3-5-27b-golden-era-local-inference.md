@@ -8,7 +8,7 @@ tags:
   - model-release
   - single-gpu
   - local-deployment
-status: draft
+status: published
 ---
 
 Qwen3.5-27B has crystallized as the go-to model for users running local inference on single-GPU setups with 24GB of VRAM. Community members report it consistently outperforms alternatives at this parameter scale, with multiple appreciation posts highlighting superior reasoning capabilities and practical usability. The model achieves an optimal balance between capability and resource requirements that makes it accessible to mainstream users without requiring enterprise-grade hardware.

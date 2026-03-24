@@ -28,7 +28,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Edge device inference represents the frontier of true local LLM deployment, and [this practical guide](https://www.sitepoint.com) tackles the unique challenges of running models on resource-constrained hardware like Raspberry Pi. This is particularly relevant as quantization techniques and optimized inference engines continue to improve, making it feasible to run capable models on devices with single-digit GB of RAM.

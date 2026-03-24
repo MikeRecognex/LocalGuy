@@ -28,7 +28,7 @@ tags:
   - offline-deployment
   - release
   - taalas
-status: draft
+status: published
 ---
 
 Taalas has released a compelling proof-of-concept for ASIC-accelerated LLM inference with their free API endpoint and web interface running Llama 3.1 8B. The 16,000 tokens/second throughput represents a significant leap from typical GPU/CPU inference speeds, demonstrating that specialized silicon designed for LLM workloads can deliver production-grade performance at scale.

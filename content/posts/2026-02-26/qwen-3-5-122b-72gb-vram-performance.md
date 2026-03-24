@@ -31,7 +31,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 A significant milestone for local LLM practitioners: Qwen3.5 122B can run efficiently on consumer-grade hardware when distributed across multiple GPUs. Users report 25 tokens per second throughput with the full model and context loaded into VRAM, with the key breakthrough being proper configuration to avoid infinite "but wait" loops that plagued early deployments.

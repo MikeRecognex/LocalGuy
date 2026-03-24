@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 MiniMax has announced the M2.7 model, continuing the trend of developing compact, efficient models suitable for local deployment. Community discussion suggests the model may include multimodal capabilities, which would expand its utility for local systems handling both text and image inputs—a capability increasingly important for practical applications.

@@ -17,7 +17,7 @@ tags:
   - on-device-inference
   - open-source
   - qwen
-status: draft
+status: published
 ---
 
 Alibaba has officially confirmed its commitment to continuously open-source new Qwen and Wan models, a significant announcement for the local LLM community. This pledge demonstrates the company's dedication to supporting the open-source AI ecosystem and ensuring that practitioners have access to cutting-edge, locally-deployable models.

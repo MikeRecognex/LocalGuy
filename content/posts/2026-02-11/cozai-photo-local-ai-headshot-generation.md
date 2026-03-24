@@ -34,7 +34,7 @@ mentions:
     role: solution-provider
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 When commercial AI headshot services consistently produced fake-looking results, one developer took matters into their own hands and spent two weeks building a custom local AI solution. This project, CozAI Photo, represents exactly the kind of innovation that local LLM deployment enables: complete control over model behavior, data privacy, and the ability to fine-tune for specific use cases that commercial services can't address well.

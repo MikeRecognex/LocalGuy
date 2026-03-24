@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: Atomic Object
     role: publisher
-status: draft
+status: published
 ---
 
 Lima is a lightweight VM manager that's gaining traction for containerized local development, and this article demonstrates a practical use case: sandboxing AI coding agents. By combining Lima's minimal overhead with local LLM inference, developers can create isolated environments where AI agents can safely execute code without risking the host system. This is increasingly important as agentic AI patterns become more prevalent.

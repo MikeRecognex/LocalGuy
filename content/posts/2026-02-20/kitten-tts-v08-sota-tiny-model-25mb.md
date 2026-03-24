@@ -35,7 +35,7 @@ tags:
 mentions:
   - name: Kitten ML
     role: developer
-status: draft
+status: published
 ---
 
 Kitten TTS V0.8 marks a significant milestone for on-device speech synthesis. The release includes three models—80M, 40M, and 14M parameters—all under 25 MB, making them viable for edge devices, mobile applications, and resource-constrained environments. With open-source weights and code released under the permissive Apache 2.0 license, practitioners can now integrate expressive, low-latency TTS directly into local LLM pipelines.

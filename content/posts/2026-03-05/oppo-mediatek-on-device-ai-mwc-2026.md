@@ -36,7 +36,7 @@ mentions:
     role: collaborator
   - name: Google News
     role: publisher
-status: draft
+status: published
 ---
 
 OPPO and MediaTek have put on-device AI front and center at MWC 2026, showcasing innovations that bring inference capabilities directly to smartphones. The partnership highlights significant progress on their Omni model alongside advances in cross-ecosystem connectivity, signaling a major industry momentum toward privacy-preserving, latency-free edge inference.

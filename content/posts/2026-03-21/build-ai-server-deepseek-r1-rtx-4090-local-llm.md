@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 As local LLM inference becomes mainstream, accessible hardware guidance helps practitioners build cost-effective deployment infrastructure. A $1,500 server capable of running DeepSeek-R1 represents a significant value point for organizations evaluating self-hosted versus cloud inference. This guide addresses the complete build process, from component selection and assembly through software configuration and optimization.

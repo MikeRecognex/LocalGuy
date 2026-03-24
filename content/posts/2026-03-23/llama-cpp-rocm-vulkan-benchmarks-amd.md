@@ -25,7 +25,7 @@ tags:
   - rocm-vulkan-comparison
   - rocm-vulkan-support
   - throughput-latency
-status: draft
+status: published
 ---
 
 Community benchmarks comparing llama.cpp's ROCm 7 and Vulkan backends on AMD Mi50 GPUs offer valuable performance insights for practitioners deploying models on AMD hardware. As AMD gains traction in the AI acceleration space, having detailed comparisons between backend implementations helps developers make informed decisions about which stack will deliver optimal performance for their workloads.

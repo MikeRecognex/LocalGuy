@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Many technologists have discovered that older GPUs—GTX 1080s, RTX 2080s, even older Kepler-generation cards—still deliver excellent value as dedicated LLM inference accelerators. These cards, often gathering dust or used minimally, become profitable again when tasked with running language models locally. Compared to purchasing new hardware or renting cloud compute, repurposing existing GPUs represents a dramatically economical path to local inference infrastructure.

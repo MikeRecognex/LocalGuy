@@ -8,7 +8,7 @@ tags:
   - edge-inference
   - tutorial
   - open-source
-status: draft
+status: published
 ---
 
 Building a reliable local voice assistant requires careful integration of multiple components: speech-to-text processing, language model inference, and text-to-speech synthesis. Adafruit's detailed walkthrough shares lessons learned from developing an end-to-end system that runs entirely on-device, without cloud dependencies or network calls.

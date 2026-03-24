@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 A growing number of users are making the economic case for self-hosted LLMs, completely bypassing subscription fees for ChatGPT Plus, Perplexity, Claude, and Gemini. By leveraging open-source models and local infrastructure, these users eliminate recurring monthly costs while gaining complete control over their data and model behavior. This trend reflects maturation in the local LLM ecosystem—models are now good enough for real work, and deployment tools are simple enough for non-experts.

@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 LLaDA2.1 has been released with groundbreaking Token-to-Token (T2T) editing capabilities alongside traditional Mask-to-Token decoding. Unlike conventional models that lock in tokens once generated, LLaDA2.1 can retroactively correct errors during inference, enabling much more aggressive parallel drafting strategies for significant speed improvements.

@@ -30,7 +30,7 @@ mentions:
     handle: "boraoztunc"
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 The agent-system project showcases a practical implementation of multi-agent workflows using specialized agents for different development phases: planning, building, verification, and shipping. This is a compelling example of how local LLMs can be orchestrated to handle complex, multi-step tasks that traditionally required human oversight or expensive API calls.

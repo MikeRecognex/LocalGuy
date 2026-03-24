@@ -31,7 +31,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Qualcomm's latest Snapdragon 8 Elite Gen 5 processor delivers meaningful improvements to mobile AI acceleration through enhanced neural processing units and optimized compute fabric, creating a real opportunity for running sophisticated language models directly on flagship smartphones. The generational improvements in tensor performance and memory bandwidth address historical bottlenecks that constrained local inference quality and speed on mobile hardware. This advancement narrows the performance gap between cloud and mobile inference for many practical applications.

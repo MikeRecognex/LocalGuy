@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
-status: draft
+status: published
 ---
 
 While the trend toward full self-hosting is strong, a pragmatic view recognizes that cloud-based and local LLMs serve different needs in a sophisticated user's workflow. This article explores when each approach excels and how to build a hybrid strategy that maximizes value.

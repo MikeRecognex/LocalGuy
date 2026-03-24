@@ -8,7 +8,7 @@ tags:
   - hardware
   - benchmarking
   - deployment
-status: draft
+status: published
 ---
 
 Selecting the right local LLM for your hardware has historically required manual research, trial-and-error testing, and deep technical knowledge. A new open-source tool streamlines this process by automatically scanning your system's CPU, GPU, RAM, and storage, then recommending compatible models with realistic performance expectations.

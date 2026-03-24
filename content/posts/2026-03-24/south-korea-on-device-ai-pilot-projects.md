@@ -8,7 +8,7 @@ tags:
   - edge-inference
   - government
   - deployment
-status: draft
+status: published
 ---
 
 Government adoption of on-device AI infrastructure represents a major validation of local LLM technology's maturity and value. South Korea's science ministry is explicitly seeking pilot projects that leverage locally-hosted AI for public services, recognizing advantages including data privacy, reduced latency, and independence from cloud provider availability.

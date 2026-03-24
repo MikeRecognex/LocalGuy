@@ -8,7 +8,7 @@ tags:
   - autonomous-systems
   - research
   - applications
-status: draft
+status: published
 ---
 
 This research showcases the practical capabilities of modern AI agents in handling complex, real-world tasks autonomously. The ability to manage experimental physics workflows demonstrates that sufficiently capable language models—which can run locally—can orchestrate intricate multi-step processes without human intervention.

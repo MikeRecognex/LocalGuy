@@ -41,7 +41,7 @@ tags:
 mentions:
   - name: MarkTechPost
     role: publisher
-status: draft
+status: published
 ---
 
 NVIDIA's continued investment in inference infrastructure through Dynamo updates demonstrates vendor commitment to optimizing local and edge deployment scenarios. The v0.9.0 release introduces FlashIndexer—a performance-critical component for efficient index operations—alongside multi-modal model support, directly addressing deployment challenges for practitioners running vision-language models locally.

@@ -36,7 +36,7 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Neural Kore's AI Playground addresses a practical pain point for developers: the friction between building and deploying local LLM applications. By combining Vite (a modern frontend build tool) with Python backends, it provides a unified development environment that bridges web interfaces with local model inference—eliminating the typical separation between frontend and ML infrastructure.

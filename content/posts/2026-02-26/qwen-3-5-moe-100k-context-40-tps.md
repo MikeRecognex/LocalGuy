@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 Long context windows are increasingly valuable for local LLM applications, and Qwen3.5's mixture-of-experts variant demonstrates surprisingly efficient handling of 100,000 token contexts on a single RTX 5060 Ti (16GB). Achieving 41+ tokens per second generation speed with such a large context window on mid-range hardware is a significant engineering accomplishment that challenges previous assumptions about context scaling costs.

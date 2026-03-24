@@ -26,7 +26,7 @@ mentions:
     role: project
   - name: Dataconomy
     role: publisher
-status: draft
+status: published
 ---
 
 OpenJarvis represents a significant shift in how developers approach autonomous AI agents—moving beyond cloud-dependent architectures toward fully on-device execution. This framework enables complex agent workflows to run entirely locally, maintaining data privacy while eliminating latency and dependency on external APIs. For organizations handling sensitive information or operating in bandwidth-constrained environments, this represents a crucial capability gap that OpenJarvis addresses.

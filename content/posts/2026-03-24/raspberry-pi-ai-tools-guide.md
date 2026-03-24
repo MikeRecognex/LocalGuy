@@ -8,7 +8,7 @@ tags:
   - edge-inference
   - hardware
   - tools
-status: draft
+status: published
 ---
 
 Raspberry Pi has become the de facto platform for hobbyist and commercial local LLM deployment, yet discovering which tools actually work well on the hardware remains challenging. This guide surfaces four practical AI tools specifically tested and optimized for Pi's ARM architecture and limited resources, complementing the popular OpenClaw project.

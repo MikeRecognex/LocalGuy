@@ -29,7 +29,7 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 This [Hacker News discussion](https://news.ycombinator.com/item?id=47476297) explores a fundamental challenge in local LLM agent development: the architectural or functional gaps preventing truly autonomous on-device systems. As local models mature in capability, practitioners increasingly deploy them as agents—systems that perceive environments, make decisions, and take actions with minimal human intervention.

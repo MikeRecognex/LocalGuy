@@ -29,7 +29,7 @@ mentions:
     role: company
   - name: Digital Today
     role: publisher
-status: draft
+status: published
 ---
 
 Nota's expansion into technology and growth ETFs indicates investor recognition that AI efficiency—quantization, pruning, and hardware-software co-optimization—is a durable market category. The company's focus on making neural networks more efficient directly supports the local LLM mission of reducing computational and power requirements.

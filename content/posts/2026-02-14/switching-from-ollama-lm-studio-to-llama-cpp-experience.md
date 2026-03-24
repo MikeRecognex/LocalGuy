@@ -32,7 +32,7 @@ tags:
 mentions:
   - name: It's FOSS
     role: publisher
-status: draft
+status: published
 ---
 
 An experienced local LLM user has documented their transition from popular GUI tools like Ollama and LM Studio to using llama.cpp directly, reporting significant improvements in performance and control. The comparison reveals how direct command-line usage can offer better resource utilization and inference speed.

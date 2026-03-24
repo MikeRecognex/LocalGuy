@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 ByteDance has officially released Seed2.0, positioning it as a breakthrough in handling complex real-world tasks. The model appears to build on the multimodal capabilities of the original Seed model, potentially offering improved reasoning and task completion abilities that could benefit local deployment scenarios requiring robust problem-solving capabilities.

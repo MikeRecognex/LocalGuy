@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source-community
-status: draft
+status: published
 ---
 
 Real-world performance data is arriving for the Apple M5 Max with 128GB unified memory, marking a significant step up in consumer-grade local inference hardware. A practitioner transitioning from Raspberry Pi prototyping and M3 Pro experimentation reports on actual inference speeds and model capacity, providing concrete benchmarks for developers considering this hardware tier for serious local LLM work.

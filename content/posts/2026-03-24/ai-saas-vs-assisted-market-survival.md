@@ -8,7 +8,7 @@ tags:
   - deployment-models
   - saas
   - local-vs-cloud
-status: draft
+status: published
 ---
 
 This discussion explores fundamental architectural and business choices that directly impact local LLM deployment decisions. The debate between AI-first (where AI is the core offering) versus AI-assisted (where AI enhances existing products) influences whether to run models locally or depend on APIs, and how to optimize for cost and performance.

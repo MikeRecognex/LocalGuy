@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 While Qwen models have dominated recent discussions, [Nvidia's Nemotron Cascade 2 30B](https://www.reddit.com/r/LocalLLaMA/comments/1rzud2z/dont_sleep_on_the_new_nemotron_cascade/) represents a compelling alternative that merits serious consideration. Despite its similar 30B size to Qwen 3.5, the Nemotron Cascade operates on an entirely different architecture not based on Qwen, offering practitioners model diversity for local deployment.

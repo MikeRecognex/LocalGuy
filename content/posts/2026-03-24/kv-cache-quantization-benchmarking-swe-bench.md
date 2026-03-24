@@ -8,7 +8,7 @@ tags:
   - kv-cache
   - benchmark
   - memory-optimization
-status: draft
+status: published
 ---
 
 Systematic benchmarking work on KV cache quantization levels provides crucial empirical guidance for practitioners optimizing memory-constrained local deployments. Using the practical SWE-bench-lite benchmark (which emphasizes coding and reasoning tasks), researchers are collecting real-world performance data across quantization levels—moving beyond theoretical analysis to show actual quality trade-offs. [The live dashboard](https://huggingface.co/spaces/burakaydinofficial/Quantuzo) and [repository](https://github.com) track these results as the study expands.

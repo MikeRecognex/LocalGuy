@@ -30,7 +30,7 @@ mentions:
     role: developer
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Sarvam AI has open-sourced two new reasoning models—a 30B parameter version and a 105B parameter version—providing developers with powerful alternatives for local deployment. These models are particularly significant for practitioners looking to run reasoning-heavy workloads without relying on commercial API services.

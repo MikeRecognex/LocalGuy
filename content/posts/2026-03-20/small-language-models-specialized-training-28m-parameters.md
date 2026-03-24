@@ -36,7 +36,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 A practitioner's [experiment with ultra-compact 28M parameter models](https://www.reddit.com/r/LocalLLaMA/comments/1ryq2lg/experiment_how_far_can_a_28m_model_go_in_business/) trained on synthetic domain data reveals that practical utility doesn't require massive parameter counts. By fine-tuning on business email data, the model produces reasonably coherent domain-specific text despite being 1000x smaller than typical production models. While instruction-following remains challenging at this scale, the approach demonstrates viable workflows for specialists who want complete ownership of their models.

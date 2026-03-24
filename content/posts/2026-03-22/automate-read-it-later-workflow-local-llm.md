@@ -23,7 +23,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Building practical automation workflows with local LLMs is becoming increasingly feasible as inference tools mature. This article explores how to integrate self-hosted language models into a read-it-later system, enabling automatic overnight article summarization without relying on cloud APIs like ChatGPT or Gemini.

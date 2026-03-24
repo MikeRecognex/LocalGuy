@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-forum
-status: draft
+status: published
 ---
 
 NVIDIA has developed Dynamic Memory Sparsification (DMS), a breakthrough technique that dramatically reduces LLM inference costs by up to 8x without sacrificing accuracy. The method works by retrofitting existing models so that attention layers can output learned "keep or evict" signals for each token in the KV cache, enabling much more intelligent memory management during inference.

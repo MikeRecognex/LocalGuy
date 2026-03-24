@@ -22,7 +22,7 @@ tags:
   - open-source-code-agent
   - release
   - researcher
-status: draft
+status: published
 ---
 
 Mistral AI has released [Leanstral-2603](https://huggingface.co/mistralai/Leanstral-2603), a specialised model fine-tuned for the Lean 4 proof assistant—marking the first open-source code agent designed for formal mathematical verification. Lean 4 enables expression of complex mathematical objects including perfectoid spaces and software specifications, making this a significant capability gap that Leanstral now addresses.

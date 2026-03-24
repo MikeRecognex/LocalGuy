@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Running local LLMs in development workflows is becoming increasingly practical, and this guide on integrating AI into Sublime Text demonstrates the maturity of the ecosystem. By running models locally, developers get real-time code assistance without latency, privacy concerns, or dependency on external services—critical for proprietary codebases or offline work.

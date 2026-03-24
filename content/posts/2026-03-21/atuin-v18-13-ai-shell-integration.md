@@ -29,7 +29,7 @@ mentions:
     role: developer
   - name: Hacker News
     role: source
-status: draft
+status: published
 ---
 
 Atuin v18.13 introduces AI-powered shell capabilities that can leverage locally-deployed LLMs for intelligent command prediction and history search. This release demonstrates a practical, everyday application of local inference: augmenting developer workflows with AI-assisted terminal interactions while maintaining full privacy and control over inference.

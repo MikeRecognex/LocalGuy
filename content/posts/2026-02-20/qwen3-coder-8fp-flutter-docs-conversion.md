@@ -37,7 +37,7 @@ tags:
   - production-ops
   - showcase
   - zhipu
-status: draft
+status: published
 ---
 
 Qwen3 Coder Next 8FP has demonstrated impressive real-world performance in a practical benchmark: converting extensive Flutter documentation over 12+ hours with a 64K token context window on a single high-end system (128GB RAM). This achievement is notable because it shows the model's ability to handle sustained, memory-intensive workloads—a critical requirement for production local deployments processing large codebases or documentation repositories.

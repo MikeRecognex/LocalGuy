@@ -32,7 +32,7 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Debugging local LLM agents presents unique challenges because execution traces are complex, non-deterministic, and difficult to reproduce. Forked addresses this by implementing time-travel debugging—the ability to step backward through agent execution history and inspect intermediate states.

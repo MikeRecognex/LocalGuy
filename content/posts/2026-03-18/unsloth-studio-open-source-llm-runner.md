@@ -31,7 +31,7 @@ mentions:
     role: competitor
   - name: Unsloth Studio
     role: developer
-status: draft
+status: published
 ---
 
 Unsloth has announced Unsloth Studio, a new open-source web UI designed to streamline both training and inference of LLMs on local hardware. Available under the Apache license, the tool integrates seamlessly with the llama.cpp ecosystem and offers a unified interface for managing models—a significant development for practitioners who've relied on LMStudio as their primary GGUF runner.

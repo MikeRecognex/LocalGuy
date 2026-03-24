@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: Nota AI
     role: developer
-status: draft
+status: published
 ---
 
 Nota AI is bringing end-to-end on-device AI solutions to Embedded World 2026, demonstrating the complete workflow from model optimization to real-world industrial deployment. This presentation reflects the maturation of on-device AI as a production-grade discipline rather than an experimental edge case.

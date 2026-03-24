@@ -20,7 +20,7 @@ tags:
   - resource-constrained-ai
   - small-llms
   - tooling-diversity
-status: draft
+status: published
 ---
 
 MiniMax has announced that its M2.7 model will be released as open weights, providing the community with another strong option for efficient local deployment. This move reflects the growing trend of major model developers open-sourcing their work to support the broader AI ecosystem and capture mindshare in the local inference space.

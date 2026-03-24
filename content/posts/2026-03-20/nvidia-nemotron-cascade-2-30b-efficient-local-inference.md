@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 NVIDIA has released [Nemotron Cascade 2 30B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B), a significant step forward in efficient model design for local inference. Built on the Nemotron 3 Nano architecture with enhanced post-training, this 30B model demonstrates competitive performance with 120B+ parameter models on math and code benchmarks—a remarkable 4x efficiency gain. This positions it as one of the best value propositions for practitioners balancing inference speed, VRAM requirements, and raw capability.

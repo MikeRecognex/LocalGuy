@@ -26,7 +26,7 @@ mentions:
     role: regulator
   - name: ABC Money
     role: publisher
-status: draft
+status: published
 ---
 
 As major tech companies invest in on-device AI, regulators are beginning to examine the privacy claims and implementation details. Apple's approach has drawn scrutiny in UK Parliament, signaling that 'local processing' alone doesn't guarantee privacy without transparent, auditable execution.

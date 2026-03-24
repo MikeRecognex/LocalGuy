@@ -41,7 +41,7 @@ mentions:
     role: project
   - name: Phoronix
     role: publisher
-status: draft
+status: published
 ---
 
 GNOME's AI assistant project Newelle has received significant updates, including native llama.cpp integration for local inference and new command execution tools. This development brings sophisticated AI assistance directly to Linux desktop environments without requiring cloud dependencies.

@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: OpenClaw
     role: backer
-status: draft
+status: published
 ---
 
 Hugging Face has introduced a streamlined one-liner tool that abstracts away the complexity of local LLM deployment by automatically detecting hardware capabilities and selecting the most appropriate model and quantization scheme. The tool spins up a llama.cpp server and launches Pi, an agent backed by OpenClaw, enabling users to get productive with local inference without manual configuration.

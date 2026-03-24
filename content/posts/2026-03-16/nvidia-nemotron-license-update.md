@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 NVIDIA has made a significant policy reversal by updating the Nemotron Super 3 122B license to remove the restrictive "rug-pull" clauses that previously limited how practitioners could modify, rebrand, and deploy the model. The updated license now permits unrestricted modifications, removes attribution requirements, and eliminates guardrail constraints that had made the model unattractive for many use cases.

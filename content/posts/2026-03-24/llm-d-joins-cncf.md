@@ -8,7 +8,7 @@ tags:
   - infrastructure
   - cncf
   - standardization
-status: draft
+status: published
 ---
 
 CNCF membership represents institutional validation that local LLM deployment infrastructure has reached production maturity and deserves standardized governance. The llm-d project's acceptance into the foundation signals that open-source tooling for on-device inference is moving into mainstream infrastructure engineering—similar to how Kubernetes and other CNCF projects shaped cloud-native development.

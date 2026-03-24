@@ -28,7 +28,7 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Dictare addresses a critical gap in local AI agent tooling by providing a fully self-contained voice input layer for coding assistants. Running 100% locally means no audio streaming to cloud services, making it ideal for privacy-conscious developers and enterprise environments with data sensitivity requirements.

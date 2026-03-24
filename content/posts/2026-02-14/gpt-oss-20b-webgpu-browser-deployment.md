@@ -31,7 +31,7 @@ tags:
   - webgpu
   - webgpu-acceleration
   - webml-community
-status: draft
+status: published
 ---
 
 A breakthrough in browser-based AI deployment has been achieved with GPT-OSS 20B now running entirely within web browsers using WebGPU acceleration. This implementation leverages Transformers.js v4 (preview) and ONNX Runtime Web to enable client-side inference without any server dependencies or data transmission.

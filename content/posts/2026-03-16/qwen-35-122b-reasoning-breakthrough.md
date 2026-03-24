@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 Users building local applications with Qwen 3.5 122B are reporting impressive reasoning capabilities that rival closed-source alternatives. One developer highlighted the model's ability to naturally decompose complex tasks, showing explicit planning behavior such as examining existing code patterns before implementing new features—a sign of genuine reasoning rather than pattern matching.

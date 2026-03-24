@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: VoiceShelf
     role: project
-status: draft
+status: published
 ---
 
 Local LLM practitioners continue expanding beyond text inference into multimodal and synthetic speech applications. [VoiceShelf demonstrates](https://v.redd.it/63gkyfpuqxng1) what's now possible with on-device neural TTS by running Kokoro TTS entirely offline on Android hardware, converting EPUB files into audiobooks without any cloud dependency.

@@ -30,7 +30,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 As local LLMs become more prevalent in development workflows, the quality of training data becomes increasingly important. Change Intent Records propose a new artifact: explicit documentation of *why* code changes happen, not just what changed. This metadata becomes invaluable for fine-tuning local models and improving their understanding of developer workflows.

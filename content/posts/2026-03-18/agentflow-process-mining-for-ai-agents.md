@@ -30,7 +30,7 @@ mentions:
     role: solution-provider
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 As AI agents become more complex and are increasingly deployed locally, understanding their execution patterns and debugging their behavior becomes critical. AgentFlow provides process mining capabilities specifically designed for agent systems, allowing developers to visualize and analyze the flow of multi-step agent operations in real-time.

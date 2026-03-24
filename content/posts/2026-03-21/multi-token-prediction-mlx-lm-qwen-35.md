@@ -22,7 +22,7 @@ tags:
   - qwen
   - real-time-ai-applications
   - realtime-ai-applications
-status: draft
+status: published
 ---
 
 Multi-Token Prediction (MTP) support is arriving in MLX-LM, bringing significant inference speedup to Qwen 3.5 deployments on Apple Silicon. This optimization technique enables the model to predict and generate multiple tokens in a single forward pass rather than the traditional one-token-per-pass approach, reducing latency and improving throughput for interactive use cases.

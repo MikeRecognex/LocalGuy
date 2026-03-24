@@ -22,7 +22,7 @@ tags:
   - quantization
   - release
   - showcase
-status: draft
+status: published
 ---
 
 Mistral AI has released the Mistral Small 4 119B model family, marking a significant milestone for local LLM deployment. The release includes [official NVFP4 quantisation variants](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4), a lower-precision format optimised for NVIDIA hardware that reduces memory footprint while maintaining competitive inference performance.

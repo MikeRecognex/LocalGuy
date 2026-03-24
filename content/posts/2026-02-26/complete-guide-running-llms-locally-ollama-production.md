@@ -33,7 +33,7 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
-status: draft
+status: published
 ---
 
 Running LLMs locally has become increasingly accessible, and [this comprehensive guide](https://www.sitepoint.com) addresses the full journey from initial setup to production deployment. The guide likely covers essential tools like Ollama, model selection strategies, performance optimization, and best practices for managing inference workloads on commodity hardware.

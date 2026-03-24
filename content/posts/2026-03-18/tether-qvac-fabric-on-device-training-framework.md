@@ -31,7 +31,7 @@ mentions:
     role: developer
   - name: The Cryptonomist
     role: publisher
-status: draft
+status: published
 ---
 
 Tether's introduction of QVAC Fabric represents a significant leap forward for on-device AI, extending local model capabilities from inference-only to include training and adaptation on edge hardware. This framework enables devices to train billion-parameter models locally, fundamentally changing the architecture of AI applications deployed at the edge. The ability to fine-tune models on-device while maintaining privacy and reducing reliance on cloud infrastructure addresses critical pain points for privacy-sensitive applications.

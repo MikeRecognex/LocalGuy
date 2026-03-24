@@ -29,7 +29,7 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Velr represents an important development for local LLM practitioners who need to build context-aware systems with persistent knowledge representations. By embedding a property-graph database directly into applications via Rust and SQLite, developers can implement sophisticated retrieval-augmented generation (RAG) systems entirely on-device without requiring separate database servers or cloud infrastructure.

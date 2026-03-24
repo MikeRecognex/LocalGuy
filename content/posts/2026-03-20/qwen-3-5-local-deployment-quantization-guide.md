@@ -25,7 +25,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 Qwen 3.5 is proving to be an exceptionally practical model for local deployment, with community developers actively creating and testing multiple quantization variants. [One practitioner reports baking three dozen custom quantizations](https://www.reddit.com/r/LocalLLaMA/comments/1ryljps/qwen35_is_a_working_dog/) across different execution engines, demonstrating the model's flexibility across various hardware constraints. The model family spans from 27B to 397B parameters, with aggressive quantization strategies (like IQ4_XS) enabling even large variants to run on consumer GPUs.

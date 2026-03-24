@@ -31,7 +31,7 @@ tags:
   - open-source
   - paddleocr
   - release
-status: draft
+status: published
 ---
 
 The integration of PaddleOCR-VL into llama.cpp extends the inference engine's capabilities from pure text generation into multimodal document understanding. At 900M parameters, this model is lightweight enough to run on modest hardware while delivering strong performance for multilingual optical character recognition—addressing a frequent bottleneck in local document processing pipelines.

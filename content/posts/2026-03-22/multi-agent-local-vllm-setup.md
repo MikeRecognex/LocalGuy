@@ -22,7 +22,7 @@ tags:
   - showcase
   - vllm
   - vllm-inference
-status: draft
+status: published
 ---
 
 A developer has demonstrated a [fully local, parallel multi-agent architecture](https://v.redd.it/ejygpp5kriqg1) using vLLM to orchestrate concurrent inference across multiple agent instances. The setup showcases vLLM deployed in Docker managing 4 collaborative agents with gpt-oss-120b, entirely offline and without cloud provider APIs. Agent orchestration points at a local vLLM endpoint, enabling real-time coordination between parallel inference processes.

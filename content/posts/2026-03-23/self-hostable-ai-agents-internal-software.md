@@ -34,7 +34,7 @@ mentions:
     role: platform
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 RootCX has emerged as a practical solution for teams looking to deploy AI agents locally within their organizations. This self-hostable framework eliminates the need to route sensitive business logic and data through third-party cloud APIs, making it particularly valuable for enterprises with strict data governance requirements.

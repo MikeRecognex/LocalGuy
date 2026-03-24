@@ -29,7 +29,7 @@ mentions:
     role: developer-community
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Rust's position in the AI infrastructure stack has become increasingly important as local LLM deployment demands performance and safety. [The Rust project's official perspectives](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html) examine how systems programming language design intersects with AI development—a critical consideration for anyone building high-performance local inference engines.

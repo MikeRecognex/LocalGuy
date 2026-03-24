@@ -24,7 +24,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 This real-world experiment showcases a fundamental principle that drives the local LLM movement: impressive inference performance doesn't require cutting-edge hardware. By demonstrating successful LLM deployment on older or 'dead' GPUs, the article challenges the assumption that local inference requires expensive enterprise hardware. For budget-conscious practitioners and hobbyists, this represents concrete evidence that functional AI capabilities remain within reach using existing consumer-grade equipment.

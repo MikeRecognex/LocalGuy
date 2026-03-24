@@ -27,7 +27,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Careless Whisper represents a significant step forward for practitioners building multimodal local LLM applications. By providing local speech-to-text capabilities, this tool eliminates the need to send audio data to cloud services, preserving privacy and reducing latency—critical requirements for on-device AI agents and personal assistants.

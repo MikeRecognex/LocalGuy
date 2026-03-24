@@ -28,7 +28,7 @@ tags:
   - performance-optimization
   - resource-optimization
   - showcase
-status: draft
+status: published
 ---
 
 A community member has developed an innovative hardware solution addressing a practical constraint of local multi-model deployments: switching between loaded models with minimal latency. Using repurposed Bitcoin mining GPUs and a custom Linux kernel module, they achieved sub-millisecond model switching (0.3ms) across six GPU dies multiplexed through a single PCIe slot—a significant engineering accomplishment.

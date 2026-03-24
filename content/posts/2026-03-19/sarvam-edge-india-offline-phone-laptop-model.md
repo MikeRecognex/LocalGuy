@@ -30,7 +30,7 @@ mentions:
     role: product
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 Sarvam AI has released Sarvam Edge, a language model engineered specifically for offline execution on smartphones and laptops without requiring internet access. This release is significant because it demonstrates that practical, capable AI models can run entirely on consumer-grade devices, eliminating cloud dependency and addressing privacy concerns inherent in cloud-based AI services.

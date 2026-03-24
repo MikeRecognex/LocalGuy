@@ -30,7 +30,7 @@ mentions:
     role: publisher
   - name: msn.com
     role: publisher
-status: draft
+status: published
 ---
 
 MSN's analysis identifies a crucial performance factor for Ollama deployments on consumer PCs that many practitioners overlook. While various hardware specifications matter for local LLM inference, the article highlights one particular aspect that disproportionately impacts real-world performance and user experience.

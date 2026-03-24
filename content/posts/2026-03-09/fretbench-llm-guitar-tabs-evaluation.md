@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: FretBench
     role: project
-status: draft
+status: published
 ---
 
 FretBench provides valuable empirical data for local LLM practitioners evaluating which models to deploy for specialized tasks. By testing 14 different models on guitar tab interpretation—a domain requiring spatial reasoning and pattern recognition—the benchmark reveals that most mainstream models struggle with this specific task. This highlights a critical consideration for local deployments: not all models perform equally across different use cases.

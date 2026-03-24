@@ -250,6 +250,21 @@ async function main() {
     fs.writeFileSync(SUMMARIES_PATH, JSON.stringify(summaries, null, 2) + "\n");
   }
 
+  // Flip any remaining draft posts to published
+  if (!dryRun) {
+    const glob = require("glob");
+    const allFiles = glob.sync("**/*.md", { cwd: POSTS_DIR, absolute: true });
+    let published = 0;
+    for (const file of allFiles) {
+      const raw = fs.readFileSync(file, "utf8");
+      if (/^status: draft$/m.test(raw)) {
+        fs.writeFileSync(file, raw.replace(/^status: draft$/m, "status: published"), "utf8");
+        published++;
+      }
+    }
+    if (published) console.log(`[summaries] Published ${published} draft posts.`);
+  }
+
   console.log(
     `[summaries] Done. Daily: ${dailyGenerated} generated, ${dailySkipped} skipped. Weekly: ${weeklyGenerated} generated, ${weeklySkipped} skipped.`
   );

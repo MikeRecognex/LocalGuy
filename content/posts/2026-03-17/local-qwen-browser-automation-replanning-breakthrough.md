@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
-status: draft
+status: published
 ---
 
 A practitioner demonstrated a significant breakthrough in local LLM agent reliability by changing how Qwen models approach browser automation tasks. Instead of asking models to plan entire sequences upfront before seeing real page state, the iterative approach has models [complete one step, observe the actual result, then replan](https://v.redd.it/0hwqt35sjjpg1)—achieving dramatically higher success rates.

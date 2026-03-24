@@ -46,7 +46,7 @@ mentions:
     role: developer
   - name: Whalesbook
     role: publisher
-status: draft
+status: published
 ---
 
 The venture capital community's validation of on-device AI optimization signals structural changes in ML infrastructure economics. Mirai's $10M Series A funding, led by experienced app developers (Reface and Prisma founders), reflects growing recognition that edge inference—not cloud processing—represents the future of latency-sensitive and privacy-critical applications.

@@ -28,7 +28,7 @@ tags:
 mentions:
   - name: Unsloth
     role: provider
-status: draft
+status: published
 ---
 
 The Qwen 3.5 model family is proving to be a solid option for local deployment across multiple size tiers. [Recent benchmark comparisons](https://i.redd.it/krs0xrebcung1.png) show that the 27B, 35B, and 122B variants maintain a significant portion of the flagship model's performance on standard benchmarks, making them practical choices for resource-constrained environments.

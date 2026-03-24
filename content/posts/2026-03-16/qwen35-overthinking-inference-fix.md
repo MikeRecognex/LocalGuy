@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
-status: draft
+status: published
 ---
 
 Qwen 3.5's internal reasoning blocks (the "But wait..." thinking loops) are consuming additional tokens and latency during local inference, prompting community members to develop practical mitigation techniques. Practitioners have identified inference-level fixes available in llama.cpp that can suppress or curtail these refinement loops, enabling faster response times for production deployments.

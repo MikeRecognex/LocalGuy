@@ -26,7 +26,7 @@ tags:
 mentions:
   - name: MSN
     role: publisher
-status: draft
+status: published
 ---
 
 The economics of local LLM deployment continue to shift in favor of self-hosting as open-source models like Llama 2/3, Mistral, and Phi reach feature parity with commercial alternatives. Users are increasingly choosing to deploy these models on personal hardware—whether Windows PCs, Mac minis with Apple Silicon, or repurposed servers—to eliminate ongoing subscription costs.

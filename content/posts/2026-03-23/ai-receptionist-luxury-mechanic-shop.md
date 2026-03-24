@@ -33,7 +33,7 @@ mentions:
     role: source
   - name: itsthatlady.dev
     role: publisher
-status: draft
+status: published
 ---
 
 This hands-on case study provides valuable insights for practitioners considering local LLM deployments in real-world business contexts. Building an AI receptionist for a luxury mechanic shop requires balancing model capability, response latency, cost considerations, and reliability—constraints that differ significantly from research or hobby projects.

@@ -28,7 +28,7 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 commitgen-cc demonstrates the maturity of local LLM inference by solving a real developer workflow problem entirely on-device. Rather than sending commit diffs to cloud APIs, developers can now run a local Ollama-powered tool that understands code changes and generates properly formatted conventional commits—a format increasingly critical for automated changelog generation and semantic versioning.

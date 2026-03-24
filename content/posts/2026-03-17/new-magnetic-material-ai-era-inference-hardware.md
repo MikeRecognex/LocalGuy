@@ -28,7 +28,7 @@ mentions:
     role: research institution
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 Researchers at Tohoku University have developed a new magnetic material specifically engineered for AI workloads, addressing a fundamental challenge in local LLM deployment: hardware efficiency at the physical layer. While the technical details require further investigation, magnetic materials research typically targets improved energy efficiency and reduced thermal output—both critical factors in on-device inference where power consumption directly impacts device performance and battery life.

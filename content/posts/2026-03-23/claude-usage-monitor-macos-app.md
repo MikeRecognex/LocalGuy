@@ -22,7 +22,7 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
-status: draft
+status: published
 ---
 
 The Claude Usage Monitor addresses a practical pain point for developers integrating Claude into their local applications and workflows. By providing a lightweight menu bar interface on macOS, developers can track their API consumption in real-time without leaving their development environment, helping catch unexpected usage spikes and manage costs effectively.

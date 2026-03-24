@@ -8,7 +8,7 @@ tags:
   - memory-optimization
   - quantisation
   - budget-hardware
-status: draft
+status: published
 ---
 
 FOMOE (Fast Opportunistic Mixture of Experts) breakthrough enables local inference of massive 397-billion parameter flagship models on consumer hardware by solving a fundamental MoE constraint: the enormous memory overhead of keeping all expert weights loaded. Traditional MoE inference requires hundreds of gigabytes of VRAM, but FOMOE leverages the key insight that only a sparse subset of experts activate per token—enabling intelligent caching with NVMe backing to dramatically reduce peak memory requirements.

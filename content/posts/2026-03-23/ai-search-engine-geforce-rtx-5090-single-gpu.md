@@ -29,7 +29,7 @@ tags:
 mentions:
   - name: GameGPU
     role: publisher
-status: draft
+status: published
 ---
 
 A developer has successfully implemented a complete AI-powered search engine on a single GeForce RTX 5090 graphics card, showcasing how modern consumer-grade GPUs can handle sophisticated inference workloads that were previously considered server-class tasks. This achievement demonstrates the rapid convergence of gaming hardware and AI compute capabilities.
