@@ -3,12 +3,33 @@ title: "Ollama Gets Blazing Fast on Macs with Full MLX Support and 2× Speedups"
 date: 2026-04-05
 description: "Ollama has integrated full MLX support for macOS, delivering up to 2× performance improvements and NVIDIA-quality 4-bit quantisation inference on Apple silicon. This major update significantly accelerates local LLM inference for Mac users."
 tags:
+  - 4-bit-quantization
+  - apple-silicon
+  - apple-silicon-deployment
+  - bullish
   - daily-digest
-  - ollama
+  - developer
+  - edge-ai-deployment
+  - inference-optimization
+  - inference-speed
+  - intermediate
+  - large-model-inference
+  - local-llm-accessibility
   - mlx
+  - mlx-integration
+  - mlx-optimization
+  - ollama
+  - ollama-integration
   - performance
   - quantisation
-status: draft
+  - quasa-connect
+  - release
+mentions:
+  - name: Ollama
+    role: platform-provider
+  - name: QUASA Connect
+    role: publisher
+status: published
 ---
 
 Ollama's latest update brings comprehensive MLX framework support to macOS, marking a significant milestone for Apple silicon-based local LLM deployment. The integration delivers up to 2× performance improvements compared to previous implementations and enables NVIDIA-quality 4-bit quantisation, making efficient inference accessible to Mac users without requiring external GPU acceleration.

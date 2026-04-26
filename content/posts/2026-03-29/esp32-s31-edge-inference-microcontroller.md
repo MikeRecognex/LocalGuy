@@ -3,12 +3,33 @@ title: "ESP32-S31: 320MHz 2-Core Microcontroller with 512KB SRAM and Networking"
 date: 2026-03-29
 description: "Espressif announces the ESP32-S31, a new microcontroller featuring dual cores, 512KB SRAM, Gigabit Ethernet, and 802.11ax WiFi, opening new possibilities for extreme edge LLM inference on IoT devices."
 tags:
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - microcontroller
+  - espressif
+  - hacker-news
+  - hardware
+  - inference-runtimes
+  - intermediate
   - iot
-status: draft
+  - iot-ai
+  - microcontroller
+  - model-quantization
+  - news
+  - offline-ai
+  - release
+  - resource-constrained-ai
+mentions:
+  - name: Espressif
+    role: manufacturer
+  - name: Espressif
+    role: manufacturer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The ESP32-S31 represents a milestone in edge computing hardware, bringing substantial improvements for running quantized LLMs on ultra-constrained devices. With 320MHz dual-core performance, 512KB SRAM, and integrated gigabit networking, this microcontroller bridges the gap between traditional IoT devices and meaningful on-device inference. The 802.11ax WiFi support enables low-latency communication patterns for distributed edge deployments, while the ethernet connectivity opens industrial and embedded applications.

@@ -3,12 +3,36 @@ title: "Qwen 3.6 Free Model Available via OpenRouter"
 date: 2026-04-05
 description: "Alibaba's Qwen 3.6 model is now available as a free inference option, providing accessible baseline for local LLM practitioners evaluating model quality and performance. This release expands the ecosystem of deployable models with strong performance-to-cost ratios."
 tags:
-  - daily-digest
-  - model-release
+  - analysis
   - benchmark
-  - open-source
+  - bullish
   - cost-optimization
-status: draft
+  - daily-digest
+  - developer
+  - free-model-access
+  - hacker-news
+  - intermediate
+  - local-deployment-economics
+  - local-inference-engines
+  - local-llm-deployment
+  - model-benchmarking
+  - model-capabilities
+  - model-quantization
+  - model-release
+  - neutral
+  - open-source
+  - openrouter
+  - quantization-tradeoffs
+  - qwen-model
+  - release
+mentions:
+  - name: OpenRouter
+    role: platform
+  - name: OpenRouter
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The availability of Qwen 3.6 as a free model represents a significant milestone in democratizing access to capable language models. For local LLM practitioners, this creates a valuable reference point for benchmarking local deployments against cloud alternatives. Qwen models have consistently demonstrated strong performance on reasoning and coding tasks, making this free tier particularly useful for developers evaluating whether to quantize and deploy the model locally or use cloud inference.

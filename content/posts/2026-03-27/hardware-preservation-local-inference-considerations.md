@@ -3,12 +3,33 @@ title: "Hold on to Your Hardware: Implications for Local LLM Deployment"
 date: 2026-03-27
 description: "An article examining hardware longevity and sustainability raises important considerations for practitioners investing in local inference infrastructure."
 tags:
+  - analysis
+  - cautious
+  - consumer-gpu
+  - cost-of-ownership
+  - custom-asic
   - daily-digest
-  - hardware
-  - infrastructure
+  - datacenter-gpu
   - deployment-strategy
+  - developer
+  - enterprise
+  - hacker-news
+  - hardware
+  - hardware-lifecycle-management
+  - hardware-longevity
+  - infrastructure
+  - infrastructure-investment
+  - intermediate
+  - local-inference-infrastructure
+  - model-optimization
+  - neutral
+  - on-device-inference
+  - quantization
   - sustainability
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [This perspective on hardware preservation](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) addresses a practical concern for local LLM practitioners: the infrastructure investment required for on-device and self-hosted inference. As organizations move away from cloud-dependent LLM APIs and toward local deployment, hardware reliability, compatibility, and longevity become critical business considerations.

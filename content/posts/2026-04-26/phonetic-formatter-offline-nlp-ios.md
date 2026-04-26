@@ -3,11 +3,35 @@ title: "Show HN: Phonetic Formatter – Offline English Text to IPA on iPhone an
 date: 2026-04-26
 description: "A new tool demonstrates practical offline linguistic processing on mobile devices, showcasing how specialized NLP tasks can run entirely on-device without cloud dependencies. This exemplifies the growing ecosystem of edge-optimized language processing tools."
 tags:
+  - analysis
+  - apple-silicon
+  - beginner-friendly
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - edge-ai
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hacker-news
+  - hobbyist
+  - intermediate
   - mobile
+  - model-quantization
+  - neutral
+  - nlp-applications
+  - offline-processing
+  - on-device-ai
   - open-source
-status: draft
+  - phonetic-formatter
+  - showcase
+  - specialized-models
+  - text-to-ipa
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 [Phonetic Formatter](https://apps.apple.com/us/app/phonetic-formatter-english/id6757941187) demonstrates the maturation of on-device language processing capabilities, delivering English text-to-IPA (International Phonetic Alphabet) conversion entirely offline on iOS devices. This represents a growing category of specialized linguistic tools that operate at the edge without requiring cloud infrastructure.

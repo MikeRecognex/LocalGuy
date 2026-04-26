@@ -3,11 +3,30 @@ title: "Blueprint: AI Hardware Design"
 date: 2026-04-26
 description: "A new framework for designing AI hardware specifically targets the hardware-software co-design space critical for optimized local LLM inference. Blueprint addresses the emerging need for specialized compute platforms suited to on-device and edge LLM deployment."
 tags:
+  - advanced
+  - ai-hardware-design
+  - analysis
+  - blueprint
+  - bullish
+  - custom-hardware-design
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-llm-deployment
   - hardware
-  - optimization
+  - hardware-optimization
+  - hardware-software-co-design
   - inference
-status: draft
+  - local-llm-inference-optimization
+  - optimization
+  - specialized-compute
+mentions:
+  - name: Blueprint
+    role: framework-developer
+  - name: Blueprint
+    role: design framework
+status: published
 ---
 
 As local LLM deployments scale, hardware-software co-design becomes increasingly important for achieving optimal inference performance. [Blueprint](https://www.blueprint.am/) represents an emerging framework for thinking about AI hardware architecture in ways that directly benefit edge and on-device inference workloads.

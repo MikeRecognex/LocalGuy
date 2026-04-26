@@ -3,12 +3,33 @@ title: "Waterloo's Live AI-Goose Tracker: Real-Time Edge Vision"
 date: 2026-04-19
 description: "An innovative real-time computer vision project using local AI to track geese across Waterloo, Ontario, demonstrating practical edge inference for public safety and wildlife monitoring."
 tags:
-  - daily-digest
+  - bullish
   - computer-vision
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
-  - real-time
+  - hacker-news
+  - hobbyist
+  - intermediate
+  - local-inference
   - local-models
-status: draft
+  - local-vision-ai
+  - neutral
+  - privacy-preserving-ai
+  - real-time
+  - real-time-inference
+  - real-time-vision
+  - showcase
+  - waddleloo
+  - wildlife-monitoring
+mentions:
+  - name: Waddleloo
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Waterloo goose tracker is a delightful real-world example of how local AI inference enables novel applications that would be impractical with cloud-based solutions. Real-time video analysis requires minimal latency and works better without constant network communication, making it an ideal use case for edge-deployed vision models.

@@ -3,12 +3,29 @@ title: "Talking to a Local LLM in the Firefox Sidebar"
 date: 2026-04-14
 description: "A developer has created a practical implementation integrating Ollama with Firefox, allowing users to interact with local LLMs directly from the browser sidebar. This showcases real-world browser-based local AI deployment."
 tags:
-  - daily-digest
-  - ollama
+  - beginner-friendly
+  - browser-extensions
   - browser-integration
+  - bullish
+  - daily-digest
+  - data-privacy
+  - developer
   - firefox
+  - hacker-news
+  - hobbyist
+  - intermediate
+  - local-llm-applications
+  - ollama
+  - on-device-ai
   - practical-guide
-status: draft
+  - showcase
+  - sovereign-ai
+  - tutorial
+  - user-accessibility
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A developer has published a practical guide on [integrating Ollama with Firefox's sidebar](https://code.mendhak.com/firefox-local-chatbot-ollama/), creating a seamless interface for running local LLMs directly within the browser. This implementation demonstrates how to run a fully self-hosted AI assistant without any cloud dependencies or data leaving your machine.

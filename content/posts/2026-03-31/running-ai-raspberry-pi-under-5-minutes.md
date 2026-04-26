@@ -3,12 +3,31 @@ title: "Running AI on a Raspberry Pi, Part 2: Running AI on a Pi in Under 5 minu
 date: 2026-03-31
 description: "A practical guide demonstrating how to deploy and run AI models on Raspberry Pi hardware in minimal time, making edge inference accessible to developers and hobbyists."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
-  - edge-inference
-  - raspberry-pi
   - deployment-guide
+  - developer
+  - edge-ai-deployment
+  - edge-computing
+  - edge-device
+  - edge-inference
   - hardware
-status: draft
+  - hobbyist
+  - intermediate
+  - iot-ai
+  - low-latency-inference
+  - model-optimization
+  - raspberry-pi
+  - raspberry-pi-ai
+  - resource-constrained-ai
+  - resource-constrained-inference
+  - tutorial
+  - virtualization-review
+mentions:
+  - name: Virtualization Review
+    role: publisher
+status: published
 ---
 
 This guide addresses one of the most common pain points in local AI deployment: getting inference running on resource-constrained devices like the Raspberry Pi. The ability to achieve functional AI inference in under 5 minutes represents a significant usability breakthrough, lowering the barrier to entry for edge AI experimentation.

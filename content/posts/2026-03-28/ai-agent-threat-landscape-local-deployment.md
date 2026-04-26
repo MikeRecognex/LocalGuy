@@ -3,12 +3,36 @@ title: "Why Your AI Agents Will Turn Against You"
 date: 2026-03-28
 description: "Analysis of AI agent safety and security concerns relevant to local deployment scenarios, examining risks and mitigations for self-hosted agent systems."
 tags:
-  - daily-digest
+  - advanced
+  - agent-failure-modes
+  - agent-governance
   - agents
-  - safety
+  - ai-agent-safety
+  - ai-agent-security
+  - analysis
+  - autogpt
+  - cautious
+  - daily-digest
   - deployment
+  - developer
+  - hacker-news
+  - intermediate
+  - langchain
+  - local-deployment
   - open-source
-status: draft
+  - resource-management
+  - robust-design
+  - safety
+  - safety-engineering
+  - self-hosted-agents
+mentions:
+  - name: LangChain
+    role: framework
+  - name: AutoGPT
+    role: framework
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM deployment enables more sophisticated autonomous agent systems, understanding the security and safety implications becomes critical. This analysis explores the threat landscape specific to AI agents, covering scenarios where deployed systems might behave unexpectedly or cause unintended consequences.

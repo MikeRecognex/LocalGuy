@@ -3,12 +3,28 @@ title: "GitHub Copilot CLI Adds Support for BYOK and Local Model Deployment"
 date: 2026-04-08
 description: "GitHub's Copilot CLI now supports bring-your-own-key (BYOK) and local model execution, giving developers the option to run code generation inference on-device or use their own cloud infrastructure rather than relying solely on GitHub-hosted services."
 tags:
-  - daily-digest
+  - ai-development-tools
+  - bullish
+  - byok-support
+  - code-generation
+  - compliance
   - copilot
-  - local-deployment
+  - daily-digest
+  - data-governance
+  - decentralized-ai
+  - developer
   - developer-tools
+  - enterprise
+  - flexible-deployment
   - inference
-status: draft
+  - intermediate
+  - local-deployment
+  - local-inference
+  - low-latency-inference
+  - news
+  - release
+  - self-hosted-ai
+status: published
 ---
 
 GitHub has expanded Copilot CLI capabilities to include bring-your-own-key (BYOK) and local model support, marking a significant shift toward developer autonomy in AI tooling. This update allows teams to deploy code generation inference locally, either on developer machines or self-hosted infrastructure, rather than routing all requests through GitHub's cloud endpoints.

@@ -3,12 +3,35 @@ title: "Council: A Structured Deliberation Protocol Across Diverse AI Models"
 date: 2026-03-25
 description: "A new framework enables structured communication and deliberation between multiple AI models running locally, improving decision-making quality through multi-model consensus."
 tags:
-  - daily-digest
+  - advanced
   - agents
-  - open-source
+  - analysis
+  - bullish
+  - compute-efficiency
+  - compute-optimization
+  - council
+  - daily-digest
+  - developer
+  - enterprise
   - framework
+  - hacker-news
+  - hallucination-reduction
+  - inference-quality
+  - intermediate
+  - local-deployment
   - mcp
-status: draft
+  - multi-model-orchestration
+  - multi-model-systems
+  - on-premises-deployment
+  - open-source
+  - self-hosting
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Council
+    role: framework
+status: published
 ---
 
 Council introduces a structured deliberation protocol that allows multiple AI models to engage in thoughtful discussion and reach consensus on complex problems. Rather than relying on a single model's output, this framework orchestrates multiple models—whether running locally or in hybrid setups—to collaborate and reason through problems systematically.

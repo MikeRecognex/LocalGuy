@@ -3,12 +3,30 @@ title: "Miasma: A Tool to Protect Data from AI Web Scrapers"
 date: 2026-03-29
 description: "Miasma, a new open-source tool that creates adversarial noise to trap and confuse AI web scrapers, helps protect locally-hosted content and APIs from unauthorized data harvesting."
 tags:
+  - adversarial-ai
+  - adversarial-defense
+  - anti-scraping
+  - api-security
+  - bullish
   - daily-digest
-  - security
-  - privacy
-  - open-source
+  - data-privacy
+  - data-protection
   - defense
-status: draft
+  - deployment-security
+  - developer
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-llm-security
+  - open-source
+  - privacy
+  - security
+  - self-hosted-ai-security
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM deployments become more common, protecting the data and APIs that power them becomes increasingly critical. Miasma introduces an interesting defensive approach—creating a "poison pit" of adversarial data that confuses and traps scrapers attempting to harvest training data or harvest model outputs at scale. For developers running inference services locally or on their own infrastructure, this tool provides a practical mechanism to defend against unauthorized data collection.

@@ -3,12 +3,28 @@ title: "Qwen 3.5 397B Reduced to 35% Parameters With Usable Quality on 96GB GPU"
 date: 2026-04-05
 description: "A community researcher successfully compressed Qwen 3.5 397B to 35% of its original size while maintaining practical quality, enabling the model to run on dual GPU setups. The REAP35 variant demonstrates advanced parameter reduction techniques for enterprise-scale model deployment."
 tags:
-  - daily-digest
-  - quantisation
-  - model-compression
-  - hardware
+  - advanced
+  - analysis
   - benchmark
-status: draft
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - datacenter-gpu
+  - enterprise
+  - enterprise-deployment
+  - gpu-deployment
+  - hardware
+  - hardware-accessibility
+  - intermediate
+  - local-deployment
+  - model-compression
+  - on-premise-deployment
+  - parameter-reduction
+  - quantisation
+  - showcase
+status: published
 ---
 
 A significant breakthrough in model compression has emerged with the successful reduction of Qwen 3.5 397B to just 35% of its original parameter count while maintaining usable inference quality. The REAP35 variant (A17B configuration) enables what was previously a prohibitively expensive model to run on dual-GPU setups with 96GB total VRAM, substantially lowering the hardware barrier for enterprise-scale local deployment.

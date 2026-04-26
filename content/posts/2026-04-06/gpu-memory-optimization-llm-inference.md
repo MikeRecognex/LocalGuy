@@ -3,12 +3,36 @@ title: "GPU Memory for LLM Inference (Part 1)"
 date: 2026-04-06
 description: "A detailed technical guide exploring GPU memory optimization strategies for running large language models efficiently during inference, critical knowledge for anyone deploying LLMs locally with limited VRAM."
 tags:
+  - advanced
+  - analysis
+  - batch-size-optimization
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - memory-optimization
+  - darshanfofadiyacom
+  - developer
+  - edge-device
   - gpu
-  - inference
+  - gpu-memory-constraints
+  - gpu-memory-optimization
+  - hacker-news
   - hardware
-status: draft
+  - inference
+  - inference-throughput
+  - kv-cache-management
+  - llm-frameworks
+  - llm-inference-optimization
+  - memory-optimization
+  - neutral
+  - quantization
+  - tutorial
+  - vram-management
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: darshanfofadiya.com
+    role: publisher
+status: published
 ---
 
 This technical deep-dive addresses one of the most pressing challenges in local LLM deployment: managing GPU memory constraints during inference. Understanding memory usage patterns is essential for practitioners working with limited VRAM, whether on consumer GPUs, mobile devices, or edge hardware.

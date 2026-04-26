@@ -3,12 +3,31 @@ title: "Mixed KV Cache Quantization: Performance Risks and Pitfalls"
 date: 2026-03-29
 description: "A technical deep-dive warning against mixed-precision KV cache quantization, revealing accuracy degradation that contradicts common optimization assumptions."
 tags:
+  - advanced
+  - analysis
+  - cautious
+  - consumer-gpu
+  - context-length-optimization
+  - correction
   - daily-digest
-  - quantization
-  - performance
+  - developer
   - kv-cache
+  - kv-cache-quantization
+  - llm-deployment-optimization
+  - memory-efficiency
+  - memory-optimization
+  - model-accuracy
+  - model-validation
   - optimization
-status: draft
+  - performance
+  - performance-issues
+  - quantization
+  - quantization-strategies
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community-forum
+status: published
 ---
 
 A community member has published [warnings against mixed-precision KV cache quantization](https://www.reddit.com/r/LocalLLaMA/comments/1s6a488/do_not_use_mixed_kv_cache_quantization/), challenging a common optimization strategy where practitioners attempt to retain higher precision for KV caches while quantizing other model components. Despite theoretical appeal—trading memory for accuracy—the technique demonstrates significant accuracy degradation in practice.

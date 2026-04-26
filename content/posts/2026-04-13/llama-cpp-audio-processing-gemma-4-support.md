@@ -3,12 +3,24 @@ title: "Audio Processing Support Lands in llama.cpp with Gemma-4"
 date: 2026-04-13
 description: "llama.cpp now supports speech-to-text functionality with Gemma-4 E2A and E4A models, enabling local multimodal inference on consumer hardware. This expansion brings audio capabilities to the most widely-used local LLM inference engine."
 tags:
-  - daily-digest
-  - llama-cpp
   - audio-processing
-  - multimodal
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
   - gemma-4
-status: draft
+  - intermediate
+  - llama-cpp
+  - local-inference
+  - multimodal
+  - multimodal-ai
+  - multimodal-inference
+  - on-device-ai
+  - privacy-security
+  - release
+  - speech-to-text
+  - voice-processing
+status: published
 ---
 
 A major capability expansion has arrived for local LLM inference: [llama.cpp now natively supports speech-to-text processing](https://www.reddit.com/r/LocalLLaMA/comments/1sjhxrw/audio_processing_landed_in_llamaserver_with_gemma4/) with Gemma-4's E2A and E4A models. This means practitioners can build fully local multimodal applications—combining text and audio—without relying on cloud APIs or external speech services.

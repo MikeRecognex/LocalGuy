@@ -3,12 +3,26 @@ title: "Intel Launches Arc Pro B70/B65 with 32GB VRAM for Local AI Inference"
 date: 2026-03-26
 description: "Intel has released the Arc Pro B70 and B65 GPUs with 32GB GDDR6 memory at competitive pricing, offering 608 GB/s bandwidth and 290W power consumption. The hardware is positioned as an affordable option for running quantized local LLMs like Qwen 3.5 27B."
 tags:
+  - analysis
+  - bullish
+  - consumer-gpu
+  - continuous-inference
+  - cost-saving
   - daily-digest
-  - hardware
+  - developer
+  - energy-efficiency
   - gpu
+  - hardware
   - inference
+  - intermediate
   - local-deployment
-status: draft
+  - local-inference
+  - local-inference-adoption
+  - market-competition
+  - model-quantization
+  - release
+  - vram-capacity
+status: published
 ---
 
 Intel has launched the Arc Pro B70 and B65 GPUs with 32GB of GDDR6 VRAM, positioned at approximately $949, making them compelling alternatives to NVIDIA's offerings for local LLM deployment. With 608 GB/s bandwidth (comparable to NVIDIA's RTX 5070) and a modest 290W power draw, these GPUs are engineered for running quantized models efficiently on consumer and prosumer hardware.

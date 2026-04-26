@@ -3,12 +3,36 @@ title: "MCP-Manticore: Let Your AI Assistant Write Manticore Queries for You"
 date: 2026-03-26
 description: "A new tool integrating AI assistance with Manticore search engine for automated query generation. Demonstrates practical integration patterns for local LLMs with specialized tools and databases."
 tags:
+  - agent-orchestration
+  - analysis
+  - automated-query-generation
+  - bullish
   - daily-digest
-  - tools
+  - data-locality
+  - developer
+  - efficiency-optimization
+  - hacker-news
   - integration
+  - intermediate
+  - llm-integration
+  - local-llm-applications
+  - local-llm-capabilities
+  - manticore
   - mcp
+  - query-generation
   - search
-status: draft
+  - search-engine-integration
+  - showcase
+  - tool-integration
+  - tools
+mentions:
+  - name: Manticore
+    role: search-engine-provider
+  - name: Manticore
+    role: tool
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Integration patterns matter deeply when deploying local LLMs in real-world applications, and [MCP-Manticore](https://medium.com/@s_nikolaev/mcp-manticore-let-your-ai-assistant-write-manticore-queries-for-you-82b3a3efe24d) showcases a practical example of connecting LLMs to specialized search infrastructure. By enabling local AI models to generate Manticore search queries, the tool bridges the gap between natural language understanding and structured search operations.

@@ -3,12 +3,30 @@ title: "Memjar: Uncompromising Local-First Second Brain"
 date: 2026-04-19
 description: "Memjar is a new open-source second brain application designed for local-first operation, enabling private knowledge management and AI-powered search without relying on cloud services."
 tags:
+  - ai-search
+  - application-architecture
+  - bullish
   - daily-digest
-  - local-llm
-  - open-source
+  - developer
+  - hacker-news
+  - intermediate
   - knowledge-management
+  - llm-integration
+  - local-first-architecture
+  - local-llm
+  - local-search
+  - memjar
+  - on-device-inference
+  - open-source
   - privacy
-status: draft
+  - privacy-preserving-ai
+  - showcase
+mentions:
+  - name: Memjar
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Memjar represents an interesting approach to building practical applications around local LLMs. By designing for local-first operation, it addresses a key concern for users who want to keep their data private and maintain full control over their knowledge management systems without depending on external APIs or cloud infrastructure.

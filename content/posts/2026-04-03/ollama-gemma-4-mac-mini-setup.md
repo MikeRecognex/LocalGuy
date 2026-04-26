@@ -3,12 +3,33 @@ title: "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini"
 date: 2026-04-03
 description: "A community-contributed quick-start guide documents practical steps for deploying Gemma 4 on Mac mini hardware using Ollama, providing a reference implementation for local inference setup."
 tags:
+  - apple-silicon
+  - benchmark-report
+  - bullish
   - daily-digest
-  - ollama
-  - gemma
-  - macos
   - deployment-guide
-status: draft
+  - developer
+  - gemma
+  - greenstevester
+  - hacker-news
+  - hardware-setup
+  - hardware-software-compatibility
+  - intermediate
+  - local-inference
+  - local-inference-platform-evaluation
+  - macos
+  - neutral
+  - ollama
+  - ollama-deployment
+  - performance-optimization
+  - performance-snapshot
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: greenstevester
+    role: author
+status: published
 ---
 
 This gist captures the current best practices for deploying Gemma 4 on Mac mini hardware—a popular choice for local LLM servers due to its balance of cost and capability. The guide reflects lessons learned from the community as model sizes and optimization techniques continue to evolve.

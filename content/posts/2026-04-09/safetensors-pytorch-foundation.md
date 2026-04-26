@@ -3,11 +3,33 @@ title: "Hugging Face Moves Safetensors Under PyTorch Foundation"
 date: 2026-04-09
 description: "Safetensors, the secure model serialization format, is now officially hosted by the PyTorch Foundation alongside PyTorch, vLLM, and DeepSpeed. This strengthens governance and adoption for the local LLM ecosystem."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - open-source
+  - developer
   - framework
   - infrastructure
-status: draft
+  - intermediate
+  - local-inference-ecosystem
+  - local-llm-ecosystem
+  - model-distribution
+  - model-loading-security
+  - model-security
+  - model-serialization
+  - news
+  - open-source
+  - open-source-governance
+  - pytorch-foundation
+  - rlocalllama
+  - safetensors-standard
+mentions:
+  - name: PyTorch Foundation
+    role: governing-body
+  - name: r/LocalLLaMA
+    role: source
+  - name: Pytorch Foundation
+    role: maintainer
+status: published
 ---
 
 Hugging Face has officially transferred Safetensors to the PyTorch Foundation, positioning the format alongside core open-source AI infrastructure projects like PyTorch, vLLM, DeepSpeed, and Ray. This move establishes Safetensors as a vendor-neutral, community-governed standard for secure model serialization.

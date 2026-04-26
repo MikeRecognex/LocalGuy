@@ -3,12 +3,32 @@ title: "Gemma 4 GGUF Models Updated with Critical Quantization Fixes"
 date: 2026-04-09
 description: "Unsloth has released updated Gemma 4 GGUF quantizations addressing kv-cache issues and other inference problems. New versions are available for both 26B and 31B model sizes."
 tags:
-  - daily-digest
-  - gemma
-  - quantisation
-  - llama-cpp
   - benchmark
-status: draft
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - gemma
+  - gemma-4
+  - inference-stability
+  - intermediate
+  - kv-cache-optimization
+  - llama-cpp
+  - memory-efficiency
+  - model-quantization
+  - news
+  - performance-optimization
+  - quantisation
+  - release
+  - rlocalllama
+  - unsloth
+mentions:
+  - name: Unsloth
+    role: developer
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 Unsloth has pushed [updated Gemma 4 GGUF quantizations](https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) addressing critical issues with kv-cache handling and inference stability. The updates affect both the 26B and 31B variants, with [multiple quantization levels available](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF). Users should re-download these quantizations to ensure they're running the corrected versions.

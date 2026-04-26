@@ -3,12 +3,34 @@ title: "AI Quota Inflation Is No Token Effort. It's Baked In"
 date: 2026-04-20
 description: "Analysis of how API providers are inflating token quotas and pricing, highlighting the economic advantages of local LLM deployment and self-hosted inference."
 tags:
-  - daily-digest
-  - economics
+  - ai-quota-inflation
+  - analysis
+  - bullish
   - cloud-costs
-  - local-deployment
   - cost-optimization
-status: draft
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - economics
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-inference-frameworks
+  - local-inference-infrastructure
+  - local-llm-deployment
+  - on-device-deployment
+  - self-hosted-inference
+  - the-register
+  - total-cost-of-ownership
+mentions:
+  - name: The Register
+    role: publisher
+  - name: The Register
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As cloud-based LLM API pricing escalates through quota inflation and hidden costs, the economic case for local deployment becomes increasingly compelling. This investigation into [AI quota inflation](https://www.theregister.com/2026/04/20/inflation_ai_quota/) reveals how providers are restructuring pricing to extract higher revenues from customers—a trend that directly motivates organizations to consider self-hosted alternatives.

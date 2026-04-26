@@ -3,11 +3,28 @@ title: "Gemma 4 KV Cache Memory Issues Fixed in llama.cpp"
 date: 2026-04-04
 description: "llama.cpp has released critical fixes for Gemma 4's KV cache implementation, dramatically reducing VRAM consumption and making the model practical for local deployment on consumer hardware."
 tags:
+  - apple-silicon
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - llama-cpp
-  - memory-optimization
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - gemma
-status: draft
+  - gemma-model
+  - intermediate
+  - kv-cache-optimization
+  - llama-cpp
+  - local-deployment
+  - local-llm-deployment
+  - memory-optimization
+  - model-capabilities
+  - news
+  - open-source-tooling
+  - release
+  - vram-optimization
+status: published
 ---
 
 Gemma 4 had a critical limitation on local hardware due to excessive KV cache memory usage, rendering it impractical for most users running on consumer GPUs and CPUs. The latest [llama.cpp update](https://www.reddit.com/r/LocalLLaMA/comments/1sbwkou/finally_gemma_4_kv_cache_is_fixed/) has resolved this issue, eliminating the "petabytes" of spurious VRAM allocation that plagued early implementations.

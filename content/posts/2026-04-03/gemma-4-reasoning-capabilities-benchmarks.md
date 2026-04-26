@@ -3,12 +3,27 @@ title: "Gemma 4 Shows Strong Reasoning Performance with Thinking Tokens"
 date: 2026-04-03
 description: "Gemma 4 26B and 31B variants demonstrate competitive reasoning abilities on complex tasks like cipher cracking, joining Deepseek 3.2 as rare open-source models capable of advanced chain-of-thought inference without tool use."
 tags:
-  - daily-digest
+  - advanced
+  - analysis
   - benchmark
-  - reasoning
+  - bullish
+  - chain-of-thought-inference
+  - cloud-independence
+  - complex-problem-solving
+  - daily-digest
+  - developer
   - gemma
+  - gemma-4
   - inference
-status: draft
+  - intermediate
+  - interpretable-reasoning
+  - local-deployment
+  - open-source-inference
+  - reasoning
+  - reasoning-performance
+  - showcase
+  - thinking-tokens
+status: published
 ---
 
 Gemma 4's thinking token capability delivers impressive results on complex reasoning tasks when deployed locally. [Community testing](https://www.reddit.com/r/LocalLLaMA/comments/1sav9wg/gemma_4_is_efficient_with_thinking_tokens_but_it/) reveals both the 26B and 31B variants can solve challenging ciphers without external tools—a feat previously limited to proprietary models like OpenAI's o1 variants and Kimi 2.5 Thinking.

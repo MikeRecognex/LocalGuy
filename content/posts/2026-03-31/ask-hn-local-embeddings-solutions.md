@@ -3,11 +3,29 @@ title: "Ask HN: What do you use for local embeddings?"
 date: 2026-03-31
 description: "Community discussion on Hacker News exploring the best tools and approaches for running embedding models locally without external API dependencies."
 tags:
+  - analysis
+  - bullish
+  - cost-saving
   - daily-digest
+  - developer
+  - embedding-models
   - embeddings
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-embeddings
   - local-inference
+  - offline-ai
   - open-source
-status: draft
+  - privacy-compliance
+  - production-deployment
+  - rag-pipeline
+mentions:
+  - name: Hacker News
+    role: community forum
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A timely question on [Hacker News](https://news.ycombinator.com/item?id=47585025) asking the community about their preferred solutions for local embedding generation. This is a critical component of RAG (Retrieval-Augmented Generation) pipelines and many production local LLM deployments, yet embedding model selection often receives less attention than base model choices.

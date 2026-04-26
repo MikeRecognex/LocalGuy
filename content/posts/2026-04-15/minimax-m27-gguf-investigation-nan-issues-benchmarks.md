@@ -3,12 +3,27 @@ title: "MiniMax M2.7 GGUF Investigation Reveals NaN Issues Affecting 21-38% of H
 date: 2026-04-15
 description: "Investigation into MiniMax-M2.7 GGUF quantizations found perplexity calculation errors affecting up to 38% of community GGUF uploads on Hugging Face, signaling broader quantization quality issues in the ecosystem."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
-  - minimax
+  - advanced
+  - analysis
   - benchmarking
-status: draft
+  - cautious
+  - daily-digest
+  - developer
+  - gguf
+  - gguf-models
+  - minimax
+  - model-evaluation
+  - model-quantization
+  - model-validation
+  - perplexity-errors
+  - quantisation
+  - quantization-quality
+  - reproducible-benchmarking
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 A critical quality assurance finding: [investigation into MiniMax-M2.7 GGUF quantizations](https://www.reddit.com/r/LocalLLaMA/comments/1slk4di/minimax_m27_gguf_investigation_fixes_benchmarks/) uncovered NaN (Not-a-Number) errors during perplexity evaluation that impact between 21-38% of GGUF files across the Hugging Face ecosystem. The research showed that the issue isn't isolated to MiniMax uploads—other popular community quantizers also exhibited high failure rates, with some creators already deleting affected models from the platform.

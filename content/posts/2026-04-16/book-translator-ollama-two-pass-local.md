@@ -3,12 +3,36 @@ title: "Book Translator: Two-Pass Local Translation with Self-Reflection via Oll
 date: 2026-04-16
 description: "A new open-source tool enables high-quality book translation using local LLMs via Ollama, employing a two-pass approach with self-reflection to improve translation quality. This showcases practical applications of local inference for content localization without cloud APIs."
 tags:
-  - daily-digest
-  - ollama
+  - advanced
+  - algorithmic-innovation
   - applications
+  - book-localization
+  - book-translation
+  - bullish
+  - content-localization
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - developer
+  - hacker-news
+  - iterative-refinement
+  - kazkozdev
+  - local-deployment
   - local-inference
+  - local-llm-deployment
+  - multi-pass-reasoning
+  - ollama
   - open-source
-status: draft
+  - self-reflection-llm
+  - showcase
+mentions:
+  - name: KazKozDev
+    role: creator
+  - name: Hacker News
+    role: publisher
+  - name: KazKozDev
+    role: developer
+status: published
 ---
 
 A practical application demonstrating the maturity of local LLM inference: [Book Translator uses Ollama to translate entire books locally](https://github.com/KazKozDev/book-translator) with a sophisticated two-pass approach where the model reflects on its own output to improve quality. This workflow—initial translation followed by self-review and refinement—shows how local deployments can match or exceed simple API-based approaches through algorithmic sophistication rather than just raw model size.

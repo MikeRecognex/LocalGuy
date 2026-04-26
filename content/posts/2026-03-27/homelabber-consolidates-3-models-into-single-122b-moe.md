@@ -3,12 +3,31 @@ title: "Homelab Consolidation: Replacing 3 Models with Single 122B MoE Model on 
 date: 2026-03-27
 description: "A homelabber consolidated their inference setup from three separate models down to a single 122B mixture-of-experts model on consumer hardware (Ryzen AI MAX+ 395 with 128GB RAM), providing detailed benchmarks and practical insights on model consolidation strategy."
 tags:
-  - daily-digest
-  - hardware
-  - moe
+  - advanced
+  - ai-infrastructure-optimization
+  - apu-inference
   - benchmark
+  - bullish
+  - case-study
+  - consumer-apu
+  - consumer-hardware
+  - cpu-gpu-hybrid
+  - daily-digest
+  - gpu-memory-management
+  - hardware
+  - hobbyist
   - homelab
-status: draft
+  - homelab-optimization
+  - intermediate
+  - local-llm-deployment
+  - mixture-of-experts
+  - model-consolidation
+  - model-efficiency
+  - moe
+  - moe-models
+  - self-hosting
+  - showcase
+status: published
 ---
 
 This case study demonstrates a practical approach to optimizing personal AI infrastructure. The author moved from running three separate text models (GLM-4 Flash 30B MoE, Qwen 2.5 32B, and a smaller specialized model) to a single 122B mixture-of-experts model on a Ryzen AI MAX+ 395 CPU-GPU hybrid setup. The consolidation reduces operational complexity, improves resource utilization via shared GPU memory (96GB via Vulkan/RADV), and simplified the infrastructure stack using Proxmox with LXC containers and llama-server.

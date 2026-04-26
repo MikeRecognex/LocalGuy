@@ -3,12 +3,32 @@ title: "Google's Gemma 4: The Most Practical Local LLM Despite Not Being The Sma
 date: 2026-04-16
 description: "An experienced practitioner explains why Gemma 4 has become their go-to local LLM model, prioritizing pragmatism, efficiency, and real-world usability over raw benchmark performance."
 tags:
+  - analysis
+  - bullish
+  - comparison
+  - consumer-gpu
   - daily-digest
-  - gemma
-  - model-evaluation
+  - developer
   - efficiency
+  - gemma
+  - inference-optimization
+  - intermediate
   - local-deployment
-status: draft
+  - local-llms
+  - model-comparison
+  - model-efficiency
+  - model-evaluation
+  - model-selection
+  - practical-llm-deployment
+  - real-world-inference
+  - vram-optimization
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 Model selection is one of the most consequential decisions when deploying local LLMs, and raw benchmark scores don't always translate to practical utility. [XDA's assessment of Google's Gemma 4](https://xda.com) highlights an important trend: practitioners increasingly favor models that balance capability with resource constraints, even if they're not the absolute smartest option available.

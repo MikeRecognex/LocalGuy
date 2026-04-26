@@ -3,12 +3,29 @@ title: "Dynamic Expert Cache in llama.cpp Achieves 27% Faster Inference on Large
 date: 2026-04-15
 description: "A new optimization technique for llama.cpp improves CPU+GPU token generation speed by 27% on Qwen3.5-122B through dynamic expert caching, raising practical inference rates from 15 to 23 tokens per second."
 tags:
-  - daily-digest
-  - llama-cpp
-  - moe-models
-  - memory-optimization
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
   - cpu-gpu-offload
-status: draft
+  - cpu-only
+  - daily-digest
+  - developer
+  - dynamic-expert-caching
+  - dynamic-vram-cache
+  - hybrid-inference
+  - inference-speed-optimization
+  - large-model-inference
+  - llama-cpp
+  - llama-cpp-optimization
+  - memory-bandwidth-optimization
+  - memory-optimization
+  - mixture-of-experts-models
+  - moe-architecture
+  - moe-models
+  - news
+  - selective-expert-loading
+status: published
 ---
 
 A practical performance win for users running large Mixture-of-Experts models: [dynamic expert caching in llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1slue0z/hot_experts_in_your_vram_dynamic_expert_cache_in/) demonstrates 27% faster token generation on Qwen3.5-122B when distributing computation across CPU and GPU hardware. The technique improves from 15 tok/s to 23 tok/s by intelligently keeping frequently-used expert layers in VRAM rather than constantly shuffling them between memory tiers.

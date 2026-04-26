@@ -3,12 +3,32 @@ title: "Coding Implementation to Run Qwen3.5 Reasoning Models Distilled With Cla
 date: 2026-03-27
 description: "A new implementation enables running distilled Qwen3.5 reasoning models with 4-bit quantization and GGUF format, making advanced reasoning capabilities accessible on consumer hardware. This combines distillation, quantization, and standardized formats for practical local deployment."
 tags:
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - qwen
-  - quantization
+  - developer
   - gguf
+  - gguf-quantization
+  - intermediate
+  - iterative-reasoning
+  - local-deployment
+  - local-inference
+  - marktechpost
+  - model-distillation
+  - model-format
+  - model-optimization
+  - model-quantization
+  - quantization
+  - qwen
+  - qwen-models
   - reasoning
-status: draft
+  - showcase
+mentions:
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 The ability to run reasoning-capable models like Qwen3.5 with aggressive 4-bit quantization represents a major breakthrough for local inference. This implementation combines multiple optimization techniques—distillation for model compression, 4-bit quantization for memory efficiency, and GGUF standardization for compatibility with tools like llama.cpp and Ollama.

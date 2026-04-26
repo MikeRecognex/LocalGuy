@@ -3,12 +3,33 @@ title: "Kokoro TTS Achieves 20× Realtime Speed on CPU-Only On-Device Inference"
 date: 2026-04-04
 description: "A developer has successfully deployed Kokoro text-to-speech with 20× realtime performance using only CPU inference via MLX Swift on iOS, enabling high-quality, low-latency speech synthesis entirely on-device."
 tags:
+  - apple-silicon
+  - apple-silicon-optimization
+  - bullish
+  - cpu-inference
+  - cpu-only
   - daily-digest
-  - tts
-  - mlx
+  - developer
+  - edge-device
+  - inference-speed
+  - intermediate
   - ios
+  - ios-development
+  - mlx
+  - mlx-framework
+  - mobile-ai-deployment
+  - mobile-power-efficiency
+  - multimodal-ai
   - on-device
-status: draft
+  - on-device-ai
+  - rlocalllama
+  - showcase
+  - text-to-speech
+  - tts
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 A developer has achieved a significant milestone in [on-device speech synthesis](https://v.redd.it/l5ymm7zyq4tg1), running Kokoro TTS at 20× realtime speed using CPU-only inference on iOS via MLX Swift. This demonstrates that high-quality, natural-sounding speech generation is now practical for edge devices without GPU acceleration, addressing a long-standing gap in local AI deployment.

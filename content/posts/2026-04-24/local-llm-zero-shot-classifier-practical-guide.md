@@ -3,12 +3,30 @@ title: "Using a Local LLM as a Zero-Shot Classifier"
 date: 2026-04-24
 description: "Detailed guide demonstrating how to leverage locally-running language models for zero-shot text classification tasks without fine-tuning, reducing infrastructure costs and inference latency."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
+  - developer
+  - edge-device
+  - enterprise
   - fine-tuning
   - inference
-  - practical-guide
+  - inference-latency
+  - inference-optimization
+  - intermediate
+  - llm-applications
+  - local-llms
   - optimization
-status: draft
+  - practical-guide
+  - prompt-engineering
+  - text-classification
+  - towards-data-science
+  - tutorial
+  - zero-shot-classification
+mentions:
+  - name: Towards Data Science
+    role: publisher
+status: published
 ---
 
 This practical guide explores how to repurpose locally-deployed LLMs for zero-shot classification without the overhead of fine-tuning or cloud API calls. By leveraging prompt engineering and in-context learning, practitioners can build efficient classification pipelines entirely on-device, dramatically reducing operational costs and response latency.

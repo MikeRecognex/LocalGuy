@@ -3,12 +3,29 @@ title: "Show HN: Willitrun – Check if Any ML Model Runs on Any Device (Benchma
 date: 2026-04-07
 description: "Willitrun is a new tool that helps developers determine whether specific machine learning models can run on particular devices, backed by real benchmarking data to guide local deployment decisions."
 tags:
-  - daily-digest
   - benchmark
-  - hardware-compatibility
+  - benchmark-report
+  - benchmarking
+  - bullish
+  - daily-digest
   - deployment-tools
+  - developer
+  - hacker-news
+  - hardware-compatibility
+  - intermediate
+  - local-deployment
   - local-inference
-status: draft
+  - local-inference-adoption
+  - local-llm-tooling
+  - model-benchmarking
+  - model-compatibility
+  - model-performance
+  - self-hosted-ai
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A critical pain point for local LLM deployment is the uncertainty around hardware compatibility and performance: will a particular model actually run on my device? [Willitrun](https://github.com/smoothyy3/willitrun) addresses this directly by providing a benchmark-backed compatibility checker that eliminates guesswork from the deployment equation.

@@ -3,12 +3,28 @@ title: "The Case for Out-of-Process Enforcement for AI Agents"
 date: 2026-04-17
 description: "A security framework proposal for enforcing constraints and safety policies on locally-deployed AI agents through separate enforcement layers rather than relying on in-process controls."
 tags:
-  - daily-digest
+  - advanced
+  - agent-safety
   - agents
-  - security
+  - ai-agent-security
+  - analysis
+  - autonomous-code-generation
+  - bullish
+  - daily-digest
+  - developer
+  - local-ai-agents
+  - local-ai-security
   - local-inference
   - open-source
-status: draft
+  - out-of-process-enforcement
+  - prompt-injection-defense
+  - runtime-guard
+  - safety-policy-management
+  - security
+mentions:
+  - name: Runtime Guard
+    role: publisher
+status: published
 ---
 
 As AI agents running on local hardware become more autonomous and powerful, ensuring they operate within defined safety boundaries becomes critical. This article presents a compelling architecture pattern: implementing guardrails and enforcement mechanisms as separate out-of-process services rather than embedding them directly in the agent runtime.

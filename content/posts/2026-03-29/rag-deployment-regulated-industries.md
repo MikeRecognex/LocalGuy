@@ -3,12 +3,27 @@ title: "RAG Deployment Lessons from Regulated Industries"
 date: 2026-03-29
 description: "Practical insights from deploying RAG-powered local AI assistants in highly regulated sectors including construction, aged care, and mining operations."
 tags:
-  - daily-digest
-  - rag
-  - deployment
+  - advanced
+  - analysis
   - best-practices
+  - bullish
+  - case-study
+  - chunk-size-tuning
+  - compliance-auditing
+  - daily-digest
+  - deployment
+  - enterprise
+  - intermediate
+  - local-ai
+  - local-rag
   - production
-status: draft
+  - query-expansion
+  - rag
+  - rag-deployment
+  - rag-strategy
+  - regulated-industries
+  - regulated-industry-deployment
+status: published
 ---
 
 An experienced practitioner has shared [detailed lessons from deploying RAG-powered local AI assistants](https://www.reddit.com/r/LocalLLaMA/comments/1s6oiuq/lessons_from_deploying_rag_bots_for_regulated/) in high-stakes regulated environments across Australian construction sites, aged care facilities, and mining operations. The insights cover critical optimization decisions that differ significantly from conventional RAG wisdom, with query expansion identified as more impactful than the commonly obsessed-over chunk size tuning.

@@ -3,12 +3,32 @@ title: "Reverse-Engineering the Apollo 11 Code with AI"
 date: 2026-03-28
 description: "Researchers use AI systems to reverse-engineer and understand the Apollo 11 codebase, demonstrating practical applications of local LLMs in code analysis and historical software preservation."
 tags:
-  - daily-digest
+  - advanced
   - agents
-  - code-analysis
+  - airealistai
   - benchmark
+  - bullish
+  - code-analysis
+  - code-modernization
+  - code-reverse-engineering
+  - daily-digest
+  - developer
+  - documentation-generation
+  - hacker-news
+  - intermediate
+  - knowledge-extraction
+  - local-llms
   - open-source
-status: draft
+  - prompt-engineering
+  - reverse-engineering
+  - showcase
+  - software-preservation
+mentions:
+  - name: Airealist.ai
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 A fascinating application of AI demonstrates how locally-deployed language models can tackle complex real-world tasks: reverse-engineering and understanding the Apollo 11 guidance computer code. This project showcases the practical value of having capable AI systems under your own control, particularly for specialized analysis work that requires deep understanding of historical and technical context.

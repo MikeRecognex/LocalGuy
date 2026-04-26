@@ -3,12 +3,24 @@ title: "Speculative Decoding Achieves 29% Speed Boost for Gemma-4 31B"
 date: 2026-04-13
 description: "Benchmarks show speculative decoding with Gemma-4 E2B draft model delivers 29% average throughput improvement and 50% gains on code tasks. This practical optimization technique significantly accelerates local inference on consumer GPUs."
 tags:
+  - analysis
+  - benchmark
+  - benchmark-report
+  - bullish
+  - code-generation
+  - consumer-gpu
   - daily-digest
+  - developer
   - gemma-4
   - inference-optimization
+  - inference-speed
+  - intermediate
+  - latency-reduction
+  - llama-cpp-integration
+  - local-inference
+  - model-quantization
   - speculative-decoding
-  - benchmark
-status: draft
+status: published
 ---
 
 Speculative decoding—a technique where a smaller draft model generates token candidates that a larger model validates—has proven highly effective for Gemma-4 31B. [Recent controlled benchmarks](https://www.reddit.com/r/LocalLLaMA/comments/1sjct6a/speculative_decoding_works_great_for_gemma_4_31b/) show 29% average throughput improvements and 50% speedups on code generation tasks when using Gemma-4 E2B (4.65B) as the draft model on RTX 5090 hardware.

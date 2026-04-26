@@ -3,11 +3,33 @@ title: "SiGit Code: Local-First Coding Agent"
 date: 2026-04-25
 description: "A new local-first coding agent tool that enables AI-assisted development entirely on-device, providing developers with autonomous code generation without cloud dependencies."
 tags:
-  - daily-digest
+  - agent-implementation
+  - agentic-ai
   - agents
-  - open-source
+  - ai-coding-assistance
+  - bullish
+  - code-generation
+  - daily-digest
+  - data-privacy
+  - developer
   - development-tools
-status: draft
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-coding-agent
+  - local-llm-applications
+  - on-device-ai-development
+  - open-source
+  - security-compliance
+  - showcase
+  - sigit
+  - vendor-lock-in-avoidance
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Sigit
+    role: developer
+status: published
 ---
 
 SiGit Code represents an important step forward in bringing agentic AI capabilities to local development environments. This tool enables developers to run autonomous coding agents entirely on their own hardware, eliminating the need for cloud-based AI coding assistants and the associated privacy concerns.

@@ -3,12 +3,26 @@ title: "MiniMax M2.7 Achieves SOTA Performance Under 64GB on Mac with TQ Quantiz
 date: 2026-04-14
 description: "A community member successfully quantized MiniMax M2.7 to run on Mac systems under 64GB RAM, achieving 91% MMLU scores using TQ quantization. This makes enterprise-grade model performance accessible to Mac users, including base M-series machines."
 tags:
-  - daily-digest
-  - quantization
+  - advanced
   - apple-silicon
-  - minimax
+  - apple-silicon-deployment
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
   - edge-deployment
-status: draft
+  - intermediate
+  - mac-deployment
+  - memory-optimization
+  - minimax
+  - model-benchmarking
+  - model-quantization
+  - news
+  - on-device-inference
+  - quantization
+  - showcase
+  - sota-inference
+status: published
 ---
 
 A major breakthrough for Mac-based local LLM deployment: the community has successfully optimized MiniMax M2.7 to run on consumer Mac hardware with under 64GB RAM while maintaining state-of-the-art performance. The achievement uses TQ (likely referring to tensor quantization) as the quantization method, delivering 91% MMLU benchmark scores—competitive with cloud-based APIs.

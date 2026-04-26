@@ -3,12 +3,30 @@ title: "Local AI didn't replace my subscriptions, but it did take over these 6 t
 date: 2026-03-31
 description: "A practical analysis of which specific workflows and tasks are most effective for local AI tools, helping practitioners identify high-impact use cases for self-hosted deployment."
 tags:
+  - analysis
+  - bullish
+  - cloud-vs-local-ai
   - daily-digest
-  - use-cases
+  - data-privacy
   - deployment-guide
-  - practical-applications
+  - deployment-strategy
+  - developer
+  - intermediate
+  - local-ai-use-cases
+  - local-deployment
+  - low-latency-inference
+  - model-optimization
+  - msn
+  - neutral
   - optimization
-status: draft
+  - practical-applications
+  - self-hosted-deployment
+  - use-cases
+  - value-proposition
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This real-world assessment of local AI capabilities is valuable because it moves beyond hype to identify genuine high-impact use cases. Rather than claiming local AI replaces all cloud services, it provides a grounded perspective on which specific tasks benefit most from local deployment—likely including content generation, code assistance, document analysis, and other inference-heavy workloads where privacy and latency matter.

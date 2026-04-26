@@ -3,12 +3,29 @@ title: "Show HN: Turn Photos Into Wordle Puzzles with AI That Runs 100% in Your 
 date: 2026-04-06
 description: "A practical demonstration of running computer vision and generative AI models entirely in-browser without server-side processing, showcasing the feasibility of edge AI inference for consumer applications."
 tags:
-  - daily-digest
   - browser
-  - edge-inference
-  - open-source
+  - browser-based-ai
+  - browser-inference
+  - bullish
+  - client-side-ai
+  - computer-vision
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - edge-inference
+  - hacker-news
+  - intermediate
+  - multimodal-ai
+  - open-source
+  - privacy-preserving-ai
+  - showcase
+  - web-inference-frameworks
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Browser-based LLM and AI inference has matured significantly, and this project exemplifies the practical benefits of true edge deployment. By running AI models [entirely in the browser](https://momentsgame.com/), the application eliminates latency, bandwidth costs, and privacy concerns associated with cloud-based alternatives. Users process their photos locally without uploading sensitive data to external servers.

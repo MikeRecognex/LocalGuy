@@ -3,12 +3,30 @@ title: "Externalization in LLM Agents: Unified Review of Memory and Harness Engi
 date: 2026-04-23
 description: "A comprehensive research paper reviewing memory externalization and harness engineering patterns for LLM agents, examining how to optimize agent performance through external memory systems."
 tags:
-  - daily-digest
+  - advanced
+  - agent-harness-engineering
+  - agent-optimization
+  - agentic-systems
   - agents
-  - memory-optimization
-  - research
+  - analysis
   - architecture
-status: draft
+  - bullish
+  - consumer-gpu
+  - context-management
+  - daily-digest
+  - developer
+  - external-memory-management
+  - gpu-memory-management
+  - inference-cost-reduction
+  - memory-externalization
+  - memory-optimization
+  - model-quantization
+  - multi-step-reasoning
+  - neutral
+  - research
+  - researcher
+  - scalable-deployment
+status: published
 ---
 
 This arxiv paper provides essential research on memory externalization patterns for LLM agents—a critical consideration when deploying local models with extended context requirements and multi-step reasoning. Rather than relying solely on model context windows, externalized memory systems allow agents to efficiently manage knowledge without proportional increases in VRAM or latency.

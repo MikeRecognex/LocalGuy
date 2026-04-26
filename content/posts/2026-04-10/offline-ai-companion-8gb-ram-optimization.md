@@ -3,12 +3,32 @@ title: "Building Offline AI Companions on Severely Constrained Hardware (8GB RAM
 date: 2026-04-10
 description: "A practical case study demonstrates deploying local LLMs for accessibility applications with extreme hardware constraints, addressing real-world use cases where cloud deployment is infeasible."
 tags:
-  - daily-digest
-  - hardware-optimization
-  - memory-optimization
   - accessibility
+  - accessibility-ai
+  - ai-accessibility
+  - bullish
+  - case-study
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
+  - efficient-inference
+  - embedded-system
+  - hardware-optimization
+  - intermediate
+  - low-resource-deployment
+  - memory-optimization
+  - model-optimization
+  - offline-ai
   - ollama
-status: draft
+  - opinion
+  - privacy-compliance
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 A compelling real-world application has emerged from r/LocalLLaMA: [building an offline AI companion for accessibility](https://www.reddit.com/gallery/1sh9uxg) with only 8GB of RAM available. The creator is developing a system for her husband with limited mobility, where offline operation and privacy are non-negotiable requirements that cloud LLMs cannot meet.

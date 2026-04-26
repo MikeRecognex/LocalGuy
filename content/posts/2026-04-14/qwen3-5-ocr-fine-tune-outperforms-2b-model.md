@@ -3,12 +3,25 @@ title: "Fine-Tuned Qwen3.5-0.8B for OCR Outperforms Previous 2B Release"
 date: 2026-04-14
 description: "A developer released an improved fine-tuned version of Qwen3.5-0.8B optimized for OCR tasks, surpassing the performance of their earlier 2B model with better training data and inference efficiency."
 tags:
+  - bullish
+  - case-study
   - daily-digest
-  - qwen
+  - data-curation
+  - developer
+  - edge-deployment
+  - edge-device
   - fine-tuning
-  - ocr
   - gguf
-status: draft
+  - inference-speed
+  - intermediate
+  - local-deployment
+  - model-performance
+  - ocr
+  - optical-character-recognition
+  - qwen
+  - release
+  - small-model-optimization
+status: published
 ---
 
 The community continues to demonstrate the power of domain-specific fine-tuning: an experienced practitioner has released an improved Qwen3.5-0.8B model specialized for OCR tasks that outperforms their own previous 2B release. This represents meaningful progress in the ongoing effort to optimize smaller models for specialized workloads.

@@ -3,12 +3,26 @@ title: "NVIDIA Adds Day-0 DeepSeek V4 Blackwell Support"
 date: 2026-04-26
 description: "NVIDIA has announced immediate support for DeepSeek V4 on Blackwell GPUs, enabling optimized local inference for one of the latest high-performance language models on cutting-edge hardware."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - nvidia
-  - hardware
+  - datacenter-gpu
   - deepseek
+  - developer
+  - hardware
+  - hardware-software-integration
   - inference-optimization
-status: draft
+  - intermediate
+  - local-ai
+  - local-inference-optimization
+  - model-ecosystem-support
+  - model-hardware-integration
+  - multi-gpu-deployment
+  - news
+  - nvidia
+  - rapid-software-integration
+  - self-hosted-inference
+status: published
 ---
 
 NVIDIA has delivered day-one Blackwell GPU support for DeepSeek V4, a significant development for those looking to run state-of-the-art models locally. This means practitioners can immediately leverage the latest GPU architecture for accelerated inference with one of the most capable open-source models available.

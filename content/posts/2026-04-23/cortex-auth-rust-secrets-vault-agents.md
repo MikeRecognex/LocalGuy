@@ -3,12 +3,35 @@ title: "Cortex Auth – Rust secrets vault for AI agents (exec-based injection)"
 date: 2026-04-23
 description: "A Rust-based secrets management system designed for secure credential handling in local AI agent deployments, enabling safe injection of authentication credentials into agentic workflows."
 tags:
-  - daily-digest
+  - advanced
+  - agent-deployment
+  - agent-orchestration
   - agents
-  - security
-  - tools
+  - bullish
+  - cortex-auth
+  - credential-security
+  - daily-digest
+  - developer
+  - enterprise
+  - github
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - memory-safety
+  - secrets-management
+  - security
+  - security-injection
+  - security-patterns
+  - showcase
+  - tools
+mentions:
+  - name: Cortex Auth
+    role: project
+  - name: Hacker News
+    role: publisher
+  - name: GitHub
+    role: platform
+status: published
 ---
 
 Cortex Auth addresses a critical security gap in local LLM agent deployments: how to safely manage and inject credentials when agents interact with external APIs, databases, and services. Using execution-based injection rather than prompt-based credential passing prevents sensitive secrets from entering model context, significantly reducing attack surface.

@@ -3,12 +3,30 @@ title: "Claude Code Source Leaked: Community Extracts Multi-Agent Orchestration 
 date: 2026-04-01
 description: "Claude Code's source code was exposed via npm source maps, revealing 500K+ lines of TypeScript. Community developers have already extracted the multi-agent orchestration architecture and released it as an open-source framework compatible with any LLM, democratising advanced agentic capabilities for local deployment."
 tags:
-  - daily-digest
+  - advanced
+  - agent-orchestration
   - agents
-  - open-source
-  - multi-agent
+  - ai-agents
+  - bullish
+  - daily-digest
+  - developer
   - framework
-status: draft
+  - local-deployment
+  - local-llms
+  - multi-agent
+  - multi-agent-orchestration
+  - multi-agent-systems
+  - news
+  - npm
+  - open-source
+  - open-source-frameworks
+  - planning
+  - source-code-leak
+  - tool-use
+mentions:
+  - name: npm
+    role: platform
+status: published
 ---
 
 A significant leak of Claude Code's full source code via npm source maps has inadvertently accelerated open-source multi-agent LLM development. The exposed 500K+ lines of TypeScript revealed the architecture behind Anthropic's query engine, tool system, coordinator mode, and team management—sophisticated patterns previously locked behind proprietary APIs.

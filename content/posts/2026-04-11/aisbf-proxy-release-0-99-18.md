@@ -3,12 +3,28 @@ title: "Aisbf (AI Should Be Free) Proxy 0.99.18 Released"
 date: 2026-04-11
 description: "The Aisbf proxy project releases version 0.99.18, continuing development of infrastructure for free and open AI access. This release advances tooling for local AI deployment and unified API interfaces."
 tags:
-  - daily-digest
-  - open-source
-  - proxy
-  - infrastructure
+  - ai-proxy
+  - aisbf
   - api
-status: draft
+  - api-management
+  - bullish
+  - cost-saving
+  - daily-digest
+  - data-sovereignty
+  - developer
+  - infrastructure
+  - intermediate
+  - local-deployment
+  - open-source
+  - open-source-ai
+  - proxy
+  - release
+  - system-resilience
+  - tutorial
+mentions:
+  - name: Aisbf
+    role: project
+status: published
 ---
 
 [Aisbf 0.99.18](https://pypi.org/project/aisbf/) represents continued development in the "AI Should Be Free" ecosystem, focusing on proxy infrastructure that enables cost-effective and decentralized AI access. As a Python package, it provides tooling for developers building local and federated AI systems.

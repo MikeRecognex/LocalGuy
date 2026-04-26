@@ -3,12 +3,29 @@ title: "Community Reverse Engineers Gemma 4 Multi-Token Prediction Capability"
 date: 2026-04-10
 description: "Researchers have extracted Gemma 4 model weights and discovered multi-token prediction (MTP) functionality, launching a collaborative effort to understand and implement this capability for local models."
 tags:
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
+  - developer
   - gemma
-  - model-research
-  - open-source
   - inference-optimization
-status: draft
+  - local-inference
+  - local-model-development
+  - model-optimization
+  - model-research
+  - model-weights-extraction
+  - mtp-extraction
+  - multi-token-prediction
+  - news
+  - open-source
+  - performance-improvement
+  - researcher
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 The local LLM community has made a significant discovery: Gemma 4 contains hidden multi-token prediction (MTP) functionality that wasn't documented in official releases. A researcher has [successfully extracted the model weights](https://huggingface.co/shadowlilac/gemma-4-e4b-mtp-extraction-effort) and is now calling for community collaboration to reverse-engineer and implement this capability.

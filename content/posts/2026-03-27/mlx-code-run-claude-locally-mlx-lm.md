@@ -3,12 +3,29 @@ title: "mlx-Code: Run Claude Code Locally with MLX-LM"
 date: 2026-03-27
 description: "A new tool enables running Claude's code generation capabilities locally on Apple Silicon using MLX-LM, bringing powerful AI-assisted coding to on-device inference without cloud dependencies."
 tags:
-  - daily-digest
-  - mlx
+  - analysis
   - apple-silicon
+  - apple-silicon-development
+  - bullish
   - code-generation
+  - cost-saving
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - local-llm-deployment
+  - local-llm-workloads
+  - mlx
+  - mlx-framework
+  - mlx-optimization
+  - on-device-ai-ecosystem
+  - on-device-inference
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 MLX-Code represents a significant milestone for local LLM deployment, bringing Claude-level code generation capabilities directly to Apple Silicon Macs. This project leverages MLX-LM, the specialized framework optimized for Apple's neural engine, to run code models with impressive performance without any reliance on cloud APIs.

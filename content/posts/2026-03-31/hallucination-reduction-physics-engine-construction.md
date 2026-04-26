@@ -3,11 +3,29 @@ title: "I built an O(1) physics engine to stop LLM hallucinations in constructio
 date: 2026-03-31
 description: "Practical approach to reducing LLM hallucinations in specialized domains by integrating constraint-based physics validation into inference pipelines."
 tags:
+  - advanced
+  - bullish
+  - constraint-validation
   - daily-digest
-  - hallucinations
+  - developer
   - domain-specific
+  - domain-specific-ai
+  - domain-specific-ai-reliability
+  - hacker-news
+  - hallucination-reduction
+  - hallucinations
   - inference-optimization
-status: draft
+  - intermediate
+  - llm-output-validation
+  - local-llm-deployment
+  - post-inference-processing
+  - self-hosted-ai
+  - showcase
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 An innovative [project](https://flooring-ai-matrix.streamlit.app/) demonstrates how to integrate domain-specific constraint validation directly into LLM output processing. By adding an O(1) physics engine for construction/flooring problems, the builder significantly reduces hallucinations when LLMs generate domain-specific advice.

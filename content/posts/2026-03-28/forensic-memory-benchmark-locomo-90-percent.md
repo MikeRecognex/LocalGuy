@@ -3,12 +3,36 @@ title: "Forensic Beats Mem0 with 90.1% on LOCOMO Benchmark"
 date: 2026-03-28
 description: "Forensic memory system achieves 90.1% on the LOCOMO benchmark, outperforming Mem0 and demonstrating new capabilities for local context and memory management in LLM applications."
 tags:
-  - daily-digest
-  - benchmark
-  - memory-optimization
+  - advanced
   - agents
+  - ai-agents
+  - benchmark
+  - benchmark-report
+  - bullish
+  - cost-optimization
+  - daily-digest
+  - developer
+  - forensic
+  - hacker-news
+  - intermediate
+  - llm-benchmarking
+  - local-context
+  - local-deployment
+  - mem0
+  - memory-architecture
+  - memory-management
+  - memory-optimization
   - open-source
-status: draft
+  - performance-optimization
+  - production-challenges
+mentions:
+  - name: Forensic
+    role: developer
+  - name: Mem0
+    role: competitor
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Forensic has achieved a significant benchmark victory by scoring 90.1% on the LOCOMO memory benchmark, outperforming the popular Mem0 memory system. This result highlights the emergence of competitive alternatives for managing context and memory in locally-deployed LLM applications, an increasingly critical concern as developers build stateful AI agents that require efficient recall and context management.

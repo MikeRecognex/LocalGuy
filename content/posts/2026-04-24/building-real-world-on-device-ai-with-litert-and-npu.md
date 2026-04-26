@@ -3,12 +3,29 @@ title: "Building Real-World On-Device AI with LiteRT and NPU"
 date: 2026-04-24
 description: "Google details LiteRT framework for deploying optimized LLMs on edge devices using Neural Processing Units, enabling efficient on-device inference without cloud dependency."
 tags:
+  - ai-frameworks
+  - bullish
+  - custom-asic
   - daily-digest
-  - hardware
+  - data-privacy
+  - decentralized-inference
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
-  - optimization
+  - hardware
+  - intermediate
+  - litert-framework
+  - model-compression
+  - news
+  - npu-acceleration
+  - offline-ai
+  - on-device-ai
+  - on-device-inference
   - open-source
-status: draft
+  - optimization
+  - showcase
+status: published
 ---
 
 Google's LiteRT framework represents a significant step forward for practitioners deploying language models directly on edge devices. By leveraging NPU (Neural Processing Unit) capabilities, the framework enables efficient inference without relying on cloud infrastructure, reducing latency and improving privacy for end-users.

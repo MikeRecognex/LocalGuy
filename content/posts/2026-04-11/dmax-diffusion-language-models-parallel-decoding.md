@@ -3,11 +3,29 @@ title: "DMax: New Parallel Decoding Paradigm for Diffusion Language Models"
 date: 2026-04-11
 description: "National University of Singapore researchers present DMax, a novel approach enabling aggressive parallel decoding in diffusion language models through progressive self-refinement, potentially revolutionizing inference speed."
 tags:
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
-  - memory-optimization
+  - developer
+  - diffusion-llms
+  - edge-device
+  - edge-inference-optimization
+  - inference-latency
   - inference-speed
+  - local-inference
+  - memory-optimization
+  - national-university-of-singapore
   - open-source
-status: draft
+  - parallel-decoding
+  - release
+  - researcher
+  - self-refinement
+  - token-generation-speed
+mentions:
+  - name: National University of Singapore
+    role: research institution
+status: published
 ---
 
 Researchers from National University of Singapore have unveiled DMax, a paradigm shift for diffusion language models (dLLMs) that enables aggressive parallel token generation while mitigating error accumulation. The approach reformulates decoding as a progressive self-refinement process, allowing the model to correct erroneous predictions during generation—a critical breakthrough for making dLLMs practical for local inference.

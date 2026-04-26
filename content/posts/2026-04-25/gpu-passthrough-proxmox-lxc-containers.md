@@ -3,12 +3,37 @@ title: "GPU Passthrough to LXCs in Proxmox Outperforms VMs and Simplifies Local 
 date: 2026-04-25
 description: "Advanced virtualization techniques enable efficient GPU passthrough to LXC containers in Proxmox, providing superior performance over traditional virtual machines for local LLM inference. This approach simplifies complex deployment scenarios."
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - proxmox
-  - gpu-acceleration
-  - virtualization
   - deployment
-status: draft
+  - developer
+  - gpu-acceleration
+  - gpu-passthrough
+  - homelab-ai
+  - intermediate
+  - local-inference
+  - lxc-containers
+  - msn
+  - msncom
+  - multi-tenant-inference
+  - performance-optimization
+  - proxmox
+  - proxmox-virtualization
+  - resource-efficiency
+  - resource-utilization
+  - showcase
+  - virtualization
+mentions:
+  - name: MSN.com
+    role: publisher
+  - name: Proxmox
+    role: software-provider
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 [GPU passthrough to LXCs beats VMs in Proxmox and is simpler than you'd think](https://msn.com), revealing a powerful optimization path for homelabbers and small-scale local inference deployments. This technique allows direct GPU access from lightweight containers rather than through heavier virtual machine abstractions, reducing overhead and improving throughput.

@@ -3,12 +3,34 @@ title: "When Should AI Step Aside?: Teaching Agents When Humans Want to Interven
 date: 2026-04-17
 description: "CMU research on training AI agents to recognize when to defer decisions to humans and request intervention, critical for safe autonomous systems in real-world deployment scenarios."
 tags:
-  - daily-digest
+  - advanced
+  - agent-safety
   - agents
-  - safety
+  - ai-safety
+  - analysis
+  - autonomous-agents
+  - autonomous-system-deployment
+  - bullish
+  - carnegie-mellon-university
+  - daily-digest
+  - developer
+  - fine-tuning-techniques
+  - hacker-news
+  - human-agent-collaboration
   - human-in-the-loop
+  - human-in-the-loop-ai
   - local-inference
-status: draft
+  - model-uncertainty
+  - research-summary
+  - safety
+mentions:
+  - name: Carnegie Mellon University
+    role: researcher
+  - name: Hacker News
+    role: publisher
+  - name: Carnegie Mellon University
+    role: research-institution
+status: published
 ---
 
 One of the most practical challenges in deploying autonomous AI agents locally is knowing when they should hand off decision-making to humans. This CMU research addresses that gap by exploring how to train agents to recognize situations where human expertise or judgment is essential, rather than proceeding with potentially incorrect autonomous actions.

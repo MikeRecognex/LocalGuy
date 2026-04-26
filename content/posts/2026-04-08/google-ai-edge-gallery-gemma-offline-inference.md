@@ -3,12 +3,26 @@ title: "Google AI Edge Gallery Showcases Offline Inference with Gemma 4"
 date: 2026-04-08
 description: "Google has launched the AI Edge Gallery application demonstrating practical use cases for offline inference with Gemma 4 on iOS and Android, including offline dictation and on-device AI features without internet connectivity."
 tags:
+  - bullish
   - daily-digest
-  - google-ai-edge
-  - mobile
-  - offline-inference
+  - developer
+  - edge-device
   - gemma
-status: draft
+  - google-ai-edge
+  - intermediate
+  - local-llm-integration
+  - low-latency-inference
+  - mobile
+  - mobile-ai
+  - model-optimization
+  - offline-dictation
+  - offline-inference
+  - on-device-ai
+  - on-device-inference
+  - privacy-preserving-ai
+  - showcase
+  - speech-to-text
+status: published
 ---
 
 Google's AI Edge Gallery serves as both a practical application showcase and educational resource for developers building offline-capable AI features. The gallery demonstrates how Gemma 4 can power real mobile applications—from voice dictation to text processing—entirely on-device without internet connectivity or cloud service dependencies.

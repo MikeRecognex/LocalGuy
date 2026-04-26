@@ -3,12 +3,29 @@ title: "Gemma 4 31B Achieves Third Place on FoodTruck Bench, Beating Larger Mode
 date: 2026-04-05
 description: "Google's Gemma 4 31B model has demonstrated exceptional performance on the FoodTruck Bench, ranking third and outperforming significantly larger models like GLM 5 and Qwen 3.5 397B. The result highlights major improvements in long-horizon task handling for locally deployable models."
 tags:
-  - daily-digest
+  - agentic-applications
+  - analysis
   - benchmark
+  - benchmark-report
+  - bullish
+  - computational-efficiency
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - extended-reasoning
+  - intermediate
+  - latency-optimization
+  - llm-benchmarking
+  - local-deployment
+  - long-context-processing
+  - model-performance
   - model-release
-  - quantisation
   - open-source
-status: draft
+  - quantisation
+  - sequential-reasoning
+status: published
 ---
 
 Google's newly released Gemma 4 31B model has made a significant impact on local LLM performance benchmarks, securing third place on the FoodTruck Bench and notably beating much larger models including GLM 5, Qwen 3.5 397B, and all Claude Sonnet variants. This achievement is particularly noteworthy given the model's modest size, suggesting substantial improvements in architecture efficiency and long-horizon task handling capabilities.

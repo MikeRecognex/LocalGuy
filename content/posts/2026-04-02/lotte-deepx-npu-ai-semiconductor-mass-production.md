@@ -3,13 +3,47 @@ title: "Lotte Innovate and DeepX Collaborate on Mass Production of Domestic AI S
 date: 2026-04-02
 description: "A strategic partnership between Lotte Innovate and DeepX aims to mass-produce AI semiconductors optimized for edge inference, positioning NPUs as alternatives to GPUs for local LLM deployment and reducing dependency on traditional GPU infrastructure."
 tags:
+  - ai-semiconductor-manufacturing
+  - analysis
+  - bullish
+  - chosunbiz
+  - cost-reduction
+  - custom-asic
   - daily-digest
-  - hardware
-  - npu
-  - semiconductors
+  - deepx
+  - deployment-optimization
+  - developer
+  - edge-device
   - edge-inference
+  - enterprise
+  - hardware
+  - hardware-acceleration
+  - hardware-diversification
+  - inference-hardware
   - inference-optimization
-status: draft
+  - intermediate
+  - local-inference
+  - local-llm-deployment
+  - lotte
+  - lotte-innovate
+  - news
+  - npu
+  - npu-development
+  - npu-technology
+  - performance-optimization
+  - semiconductors
+mentions:
+  - name: Lotte Innovate
+    role: partner
+  - name: DeepX
+    role: partner
+  - name: Lotte
+    role: developer
+  - name: DeepX
+    role: developer
+  - name: Chosunbiz
+    role: publisher
+status: published
 ---
 
 The collaboration between Lotte Innovate and DeepX represents a significant shift in the hardware landscape for local AI, as they pursue mass production of AI semiconductors specifically designed for edge inference workloads. Rather than relying exclusively on general-purpose GPUs, this initiative focuses on neural processing units (NPUs) optimized for the inference patterns common in local LLM deployment, potentially offering superior efficiency and lower total cost of ownership.

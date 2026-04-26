@@ -3,12 +3,34 @@ title: "Lemonade 10.0.1 Improves Setup Process For Using AMD Ryzen AI NPUs On Li
 date: 2026-03-25
 description: "Lemonade 10.0.1 update significantly improves the developer experience for leveraging AMD Ryzen AI NPUs on Linux systems. This enhancement makes hardware-accelerated local inference more accessible to Linux users with AMD processors."
 tags:
-  - daily-digest
   - amd-ryzen-ai
+  - bullish
+  - cpu-npu
+  - daily-digest
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - hardware-acceleration
+  - heterogeneous-compute
+  - intermediate
   - linux
+  - linux-npu-tooling
+  - linux-support
+  - news
   - npu
-status: draft
+  - npu-efficiency
+  - performance-optimization
+  - phoronix
+  - release
+  - ryzen-ai-npu
+  - ryzen-ai-npus
+  - setup-process
+mentions:
+  - name: Phoronix
+    role: publisher
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 AMD's Ryzen AI NPUs represent a significant opportunity for hardware-accelerated local inference, and [Lemonade 10.0.1's improvements to Linux setup](https://www.phoronix.com/) make this pathway much more accessible to developers. The update streamlines the installation and configuration process, reducing barriers to entry for Linux users who want to leverage dedicated neural processing units alongside their CPUs for inference workloads.

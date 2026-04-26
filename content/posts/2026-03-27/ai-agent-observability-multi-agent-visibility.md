@@ -3,12 +3,32 @@ title: "See What Your AI Agents Are Doing: Multi-Agent Observability Tool"
 date: 2026-03-27
 description: "A new open-source observability tool helps developers monitor and debug multi-agent systems running locally, providing visibility into agent interactions and decision-making processes."
 tags:
-  - daily-digest
+  - advanced
+  - agent-communication
+  - agent-debugging
+  - agent-observability
+  - agentic-ai
   - agents
-  - observability
+  - bullish
+  - daily-digest
   - debugging
+  - debugging-monitoring
+  - developer
+  - edge-device
+  - enterprise
+  - hacker-news
+  - local-agent-deployment
+  - multi-agent-observability
+  - neutral
+  - observability
   - open-source
-status: draft
+  - production-deployment
+  - self-hosting
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM deployments increasingly involve multi-agent architectures, observability becomes critical for understanding system behavior and debugging issues. [This new visibility tool](https://github.com/hit1001/multiagent-visibility-tool) provides developers with the instrumentation needed to monitor agent interactions, trace decision flows, and identify bottlenecks in locally-deployed agent systems.

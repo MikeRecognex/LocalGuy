@@ -3,12 +3,30 @@ title: "Mistral AI Releases Voxtral: Open-Source TTS Model Beating ElevenLabs on
 date: 2026-03-27
 description: "Mistral AI released Voxtral, a 3-4B parameter text-to-speech model with open weights that outperforms ElevenLabs Flash v2.5 in human preference tests. The model runs efficiently on ~3GB RAM with 90ms time-to-first-audio latency and supports nine languages, making it ideal for on-device deployment."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
-  - open-source
-  - tts
-  - model-release
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - elevenlabs
+  - intermediate
+  - local-inference
+  - low-latency-inference
+  - model-comparison
+  - model-release
+  - on-device-deployment
+  - open-source
+  - open-source-ai
+  - open-source-models
+  - release
+  - resource-efficiency
+  - text-to-speech
+  - tts
+mentions:
+  - name: ElevenLabs
+    role: competitor
+status: published
 ---
 
 Mistral AI has released Voxtral, a significant breakthrough for local text-to-speech inference. With only 3-4 billion parameters, the model achieves competitive or superior quality compared to closed-source commercial offerings like ElevenLabs Flash v2.5, while maintaining an extremely modest resource footprint of just 3GB of RAM. This dramatic efficiency gain makes Voxtral practical for edge devices, mobile applications, and resource-constrained environments.

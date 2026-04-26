@@ -3,12 +3,38 @@ title: "N8n, Dify, and Ollama Emerge as Leading Self-Hosted AI Automation Stack"
 date: 2026-04-16
 description: "The combination of Ollama for inference, Dify for LLM orchestration, and N8n for workflow automation is proving to be an exceptionally capable open-source stack for self-hosted AI applications."
 tags:
+  - ai-application-development
+  - analysis
+  - bullish
   - daily-digest
+  - developer
+  - dify
+  - document-processing
+  - enterprise
+  - intermediate
+  - llm-orchestration
+  - local-inference
+  - modular-ai-infrastructure
+  - msn
+  - multi-agent-systems
+  - n8n
   - ollama
-  - workflow-automation
+  - on-premise-ai
   - open-source
+  - open-source-ai
+  - rag-pipeline
   - self-hosted
-status: draft
+  - self-hosted-ai
+  - showcase
+  - workflow-automation
+mentions:
+  - name: Dify
+    role: tool-provider
+  - name: N8n
+    role: tool-provider
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Building complete AI applications locally requires more than just a good inference engine—it demands orchestration, workflow management, and integration capabilities. [The combination of Ollama, Dify, and N8n](https://msn.com) represents a maturing ecosystem where open-source components integrate seamlessly to create a comprehensive alternative to cloud-based AI platforms.

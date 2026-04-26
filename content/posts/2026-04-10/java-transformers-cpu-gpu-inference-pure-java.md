@@ -3,12 +3,31 @@ title: "5 Open-Source Projects Running Transformers on CPUs to GPUs in Pure Java
 date: 2026-04-10
 description: "A collection of Java-based frameworks enabling transformer inference across CPUs and GPUs, expanding local LLM deployment options beyond Python-dominated tooling."
 tags:
+  - bullish
+  - consumer-gpu
+  - cpu-gpu-inference
+  - cpu-only
   - daily-digest
-  - open-source
-  - java
+  - devops-integration
+  - enterprise
+  - hacker-news
   - hardware
   - inference-optimization
-status: draft
+  - intermediate
+  - java
+  - java-llm-frameworks
+  - java-llm-integration
+  - jvm-llm-integration
+  - local-llm-deployment
+  - news
+  - open-source
+  - operational-efficiency
+  - showcase
+  - transformer-inference
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Java ecosystem is experiencing a renaissance for local LLM deployment with five mature open-source projects now offering transformer inference capabilities across CPUs and GPUs in pure Java. This development significantly expands deployment options for organizations with existing JVM infrastructure, eliminating the need for Python-based inference servers in hybrid environments.

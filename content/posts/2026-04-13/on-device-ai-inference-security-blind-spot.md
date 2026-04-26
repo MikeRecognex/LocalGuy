@@ -3,12 +3,37 @@ title: "On-Device AI Inference Emerges as New Security Blind Spot for CISOs"
 date: 2026-04-13
 description: "Security research identifies critical gaps in organizational understanding of on-device AI inference risks and safeguards. This analysis highlights essential security considerations for enterprises deploying local language models."
 tags:
-  - daily-digest
-  - security
-  - enterprise
-  - on-device-ai
+  - access-control
+  - advanced
+  - analysis
+  - best-practices
+  - bullish
+  - cautious
   - ciso
-status: draft
+  - compliance-auditing
+  - container-security
+  - daily-digest
+  - data-governance
+  - data-leakage-prevention
+  - developer
+  - enterprise
+  - enterprise-security
+  - inference-security
+  - intermediate
+  - model-poisoning
+  - model-provenance
+  - ollama
+  - on-device-ai
+  - on-device-ai-security
+  - prompt-injection
+  - security
+  - security-tooling
+  - self-hosted-llms
+  - supply-chain-security
+mentions:
+  - name: Ollama
+    role: framework-provider
+status: published
 ---
 
 As on-device AI inference transitions from niche technical practice to mainstream enterprise deployment, security implications are emerging as a critical governance gap. This analysis identifies how Chief Information Security Officers often lack established frameworks for evaluating and managing risks specific to locally-deployed LLMs—from model poisoning and prompt injection to unauthorized data exfiltration through model outputs and supply chain vulnerabilities in model weights. Unlike cloud AI services with established compliance and security controls, self-hosted inference introduces new attack surfaces that traditional security practices may not adequately address.

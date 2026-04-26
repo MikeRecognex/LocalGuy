@@ -3,12 +3,32 @@ title: "New Open-Weight Models Released: GigaChat-3.1-Ultra and Lightning Varian
 date: 2026-03-25
 description: "Open-weight releases of GigaChat-3.1-Ultra (702B MoE) and GigaChat-3.1-Lightning (10B) models are now available under MIT license, targeting both high-resource and edge deployment scenarios."
 tags:
+  - bullish
   - daily-digest
-  - open-source
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - gigachat
+  - intermediate
+  - licensing
+  - local-inference
+  - model-architecture
+  - model-evaluation
   - model-release
   - moe
-  - edge-inference
-status: draft
+  - moe-models
+  - open-source
+  - open-source-llms
+  - open-source-models
+  - release
+  - rlocalllama
+mentions:
+  - name: GigaChat
+    role: developer
+  - name: r/LocalLLaMA
+    role: source
+status: published
 ---
 
 The GigaChat team has released open weights for both GigaChat-3.1-Ultra (a 702B mixture-of-experts model) and GigaChat-3.1-Lightning (a 10B variant) under MIT license. These models represent a meaningful expansion of high-quality open-weight options for local deployment, with explicit support for both resource-constrained and well-provisioned environments.

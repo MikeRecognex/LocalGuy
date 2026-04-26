@@ -3,12 +3,27 @@ title: "Running Gemma 4 on an iPhone 13 Pro"
 date: 2026-04-15
 description: "A developer successfully demonstrates running Google's Gemma 4 model directly on iPhone 13 Pro hardware using LiteRTLM-Swift. This showcases practical on-device inference capabilities for modern mobile devices without cloud dependencies."
 tags:
+  - analysis
+  - apple-silicon
+  - bullish
   - daily-digest
-  - mobile-inference
+  - developer
   - edge-deployment
-  - ios
+  - edge-device
   - gemma
-status: draft
+  - intermediate
+  - ios
+  - mobile-ai
+  - mobile-inference
+  - mobile-llm-framework
+  - model-optimization
+  - model-quantization
+  - offline-ai
+  - offline-llm
+  - on-device-inference
+  - privacy-preserving-ai
+  - showcase
+status: published
 ---
 
 A developer has shared [LiteRTLM-Swift](https://github.com/mylovelycodes/LiteRTLM-Swift), a project demonstrating Gemma 4 inference running natively on iPhone 13 Pro hardware. This is a significant milestone for on-device LLM deployment, proving that modern foundation models can execute with practical performance on consumer mobile devices without requiring cloud connectivity or external servers.

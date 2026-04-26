@@ -3,12 +3,35 @@ title: "HP Launches IQ On-Device AI Assistant, Advancing Enterprise AI Adoption 
 date: 2026-03-25
 description: "HP has unveiled HP IQ, an on-device AI assistant designed to run directly on Windows PCs without requiring cloud connectivity. This move reflects OEM commitment to local inference and signals growing enterprise demand for privacy-preserving, locally-executed AI capabilities."
 tags:
+  - ai-workloads
+  - analysis
+  - bullish
+  - business-insider
+  - consumer-pc
+  - cpu-only
   - daily-digest
-  - hardware
+  - data-privacy
+  - developer
+  - edge-inference
+  - energy-efficiency
   - enterprise
+  - enterprise-ai
+  - hardware
+  - hp
+  - intermediate
+  - local-inference
+  - npu-integration
   - on-device-ai
+  - release
   - windows-pc
-status: draft
+mentions:
+  - name: HP
+    role: manufacturer
+  - name: HP
+    role: manufacturer
+  - name: Business Insider
+    role: publisher
+status: published
 ---
 
 HP's introduction of IQ as an on-device AI assistant demonstrates that major PC manufacturers now recognize local inference as a competitive differentiator and enterprise necessity. Rather than routing all AI interactions through cloud providers, HP's strategy keeps inference local, addressing key concerns around data privacy, latency, and compliance in enterprise environments. This represents a significant validation of the on-device AI market from a major OEM.

@@ -3,12 +3,30 @@ title: "go-AI: New Inference API Library for Go Released"
 date: 2026-04-22
 description: "A new open-source Go library providing a mildly sane inference API for running LLMs locally. This tool aims to simplify local model deployment and inference in Go applications."
 tags:
-  - daily-digest
-  - go
-  - inference
-  - open-source
   - api
-status: draft
+  - api-design
+  - backend-services
+  - bullish
+  - cli-tools
+  - daily-digest
+  - developer
+  - edge-inference
+  - go
+  - go-lang-deployment
+  - go-programming
+  - hacker-news
+  - inference
+  - intermediate
+  - local-inference-tools
+  - local-llm-inference
+  - model-deployment
+  - news
+  - open-source
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new Go library called [go-AI has been released](https://github.com/rcarmo/go-ai), providing developers with a streamlined inference API for running language models locally. This library addresses a gap in the Go ecosystem for clean, practical interfaces to local LLM inference.

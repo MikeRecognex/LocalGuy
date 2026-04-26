@@ -3,11 +3,31 @@ title: "Show HN: Extra-Platforms, Python Library to Detect OS, Arch, Shell, CI, 
 date: 2026-04-02
 description: "Extra-Platforms is a Python utility library that detects operating systems, architectures, CI environments, and AI frameworks—providing crucial metadata for cross-platform local LLM deployment scripts and tools."
 tags:
+  - architecture-optimization
+  - bullish
+  - consumer-gpu
+  - containerized-deployment
+  - cpu-only
+  - cross-platform-deployment
   - daily-digest
-  - open-source
   - deployment-tools
+  - developer
+  - edge-device
+  - environment-detection
+  - hacker-news
+  - intermediate
+  - multi-hardware-inference
+  - open-source
   - optimization
-status: draft
+  - platform-detection
+  - python-library
+  - runtime-configuration
+  - showcase
+  - simd-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Cross-platform compatibility remains one of the trickiest aspects of deploying LLMs locally. Operating system, CPU architecture, and available accelerators vary widely across edge devices, laptops, and self-hosted servers. [Extra-Platforms](https://github.com/kdeldycke/extra-platforms) provides a lightweight, well-maintained solution for reliably detecting these environmental variables in Python.

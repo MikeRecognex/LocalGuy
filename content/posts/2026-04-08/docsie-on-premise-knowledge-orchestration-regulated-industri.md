@@ -3,12 +3,33 @@ title: "Docsie Launches On-Premise AI Platform for Regulated Industries"
 date: 2026-04-08
 description: "Docsie has introduced an on-premise AI knowledge orchestration platform designed specifically for regulated industries that cannot route sensitive data through cloud AI services. The solution enables organizations to run LLMs locally while maintaining compliance and data sovereignty."
 tags:
-  - daily-digest
-  - on-premise
+  - analysis
+  - bullish
   - compliance
-  - regulated-industries
+  - daily-digest
   - data-privacy
-status: draft
+  - data-sovereignty
+  - docsie
+  - enterprise
+  - enterprise-llm-solutions
+  - google-news
+  - infrastructure-orchestration
+  - intermediate
+  - knowledge-management
+  - on-premise
+  - on-premise-deployment
+  - regulated-industries
+  - regulated-industries-ai
+  - regulatory-compliance
+  - release
+mentions:
+  - name: Docsie
+    role: developer
+  - name: Docsie
+    role: solution provider
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Docsie's new on-premise AI knowledge orchestration platform addresses a critical gap in the market: regulated industries (healthcare, finance, government) that require LLM capabilities without cloud data transmission. By enabling local deployment, organizations can maintain strict data sovereignty while leveraging modern AI for document processing, search, and knowledge management.

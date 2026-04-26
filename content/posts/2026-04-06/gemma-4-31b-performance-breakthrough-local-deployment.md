@@ -3,12 +3,27 @@ title: "Gemma 4 31B Achieves Exceptional Performance on Local Hardware"
 date: 2026-04-06
 description: "Google's new Gemma 4 31B model is delivering frontier-level performance at a fraction of the cost, outperforming much larger models like GPT-5.2 and Claude Opus on benchmark leaderboards while remaining viable for local deployment."
 tags:
-  - daily-digest
   - benchmark
+  - benchmarking
+  - bullish
+  - cloud-api-replacement
+  - consumer-gpu
+  - consumer-hardware-deployment
+  - daily-digest
+  - developer
   - gemma
+  - inference-optimization
+  - intermediate
+  - local-deployment
+  - model-architecture
+  - model-efficiency
+  - model-performance
+  - model-quantization
   - model-release
+  - model-scaling
   - quantisation
-status: draft
+  - showcase
+status: published
 ---
 
 Gemma 4 31B is making waves in the local LLM community with exceptional benchmark results that challenge conventional wisdom about model size and capability. [The model achieved 100% survival across 5 runs with a +1,144% median ROI at just $0.20 per run](https://i.redd.it/cg0ej8ee9ftg1.png), outperforming significantly larger and more expensive models including GPT-5.2, Gemini 3 Pro, and Claude Sonnet 4.6.

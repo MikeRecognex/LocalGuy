@@ -3,12 +3,33 @@ title: "Xiaomi 12 Pro Converted Into 24/7 Headless AI Server With Ollama and Gem
 date: 2026-04-15
 description: "A developer successfully converted a Snapdragon 8 Gen 1 smartphone into a dedicated local LLM inference node by flashing LineageOS and configuring Ollama, achieving 24/7 uptime for edge AI workloads with 9GB RAM available for compute."
 tags:
+  - advanced
+  - bullish
+  - cost-saving
+  - custom-rom-deployment
   - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-  - ollama
-  - mobile-hardware
+  - hardware-repurposing
   - headless-deployment
-status: draft
+  - headless-server
+  - intermediate
+  - iot-ai
+  - local-analytics
+  - mobile-ai
+  - mobile-hardware
+  - mobile-soc
+  - ollama
+  - ollama-deployment
+  - privacy-first-ai
+  - rlocalllama
+  - showcase
+  - tutorial
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 An innovative approach to edge inference: [converting a Xiaomi 12 Pro into a dedicated local AI node](https://i.redd.it/fo3jf5vk85vg1.jpeg) demonstrates the viability of flagship mobile hardware for headless LLM serving. By flashing LineageOS to remove Android UI and background processes, the developer freed up approximately 9GB of RAM on the Snapdragon 8 Gen 1 for Ollama-based inference. The device now runs as a 24/7 networked AI server with manual network configuration replacing standard Android connectivity.

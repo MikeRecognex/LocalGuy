@@ -3,12 +3,34 @@ title: "METATRON: Open-Source AI Penetration Testing with Local LLMs"
 date: 2026-04-06
 description: "METATRON, a new open-source security tool, brings local LLM-powered penetration testing and vulnerability analysis to Linux systems. The tool enables security researchers to run AI-assisted security analysis entirely on-device without cloud dependencies."
 tags:
+  - analysis
+  - bullish
+  - cybersecuritynews
   - daily-digest
-  - open-source
-  - security
-  - local-inference
+  - data-privacy
+  - developer
+  - enterprise
+  - intermediate
   - linux
-status: draft
+  - local-inference
+  - local-inference-use-cases
+  - metatron
+  - on-device-ai-security
+  - open-source
+  - open-source-security-tool
+  - penetration-testing
+  - privacy-compliance
+  - regulatory-compliance
+  - security
+  - security-analysis
+  - showcase
+  - vulnerability-analysis
+mentions:
+  - name: METATRON
+    role: publisher
+  - name: CyberSecurityNews
+    role: publisher
+status: published
 ---
 
 METATRON represents a practical application of local LLM deployment in cybersecurity, enabling penetration testers and security researchers to leverage AI-powered analysis without relying on cloud APIs. By running inference locally, security teams maintain complete data privacy and avoid exposure of sensitive penetration test results to third-party services.

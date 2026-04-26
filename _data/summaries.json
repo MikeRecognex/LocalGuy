@@ -85,8 +85,8 @@
       "postCount": 15
     },
     "2026-03-05": {
-      "text": "MediaTek advances its Omni model for efficient smartphone inference capabilities.",
-      "postCount": 5
+      "text": "Apple's M5 Pro chip enables on-device AI in new MacBook Pros.",
+      "postCount": 4
     },
     "2026-03-06": {
       "text": "Alibaba's Qwen 3.5 model enables on-device AI support for local deployment and edge inference scenarios.",
@@ -158,7 +158,143 @@
     },
     "2026-03-23": {
       "text": "Alibaba open-sources Qwen and Wan models for local LLM deployment.",
+      "postCount": 14
+    },
+    "2026-03-24": {
+      "text": "FlashAttention-4 delivers 2.7x faster inference on NVIDIA B200 GPUs.",
       "postCount": 15
+    },
+    "2026-03-25": {
+      "text": "Llama.cpp benchmarks compare RTX 5090 performance against AMD AI395 in local inference scenarios.",
+      "postCount": 15
+    },
+    "2026-03-26": {
+      "text": "Google introduces TurboQuant for efficient local LLM deployment.",
+      "postCount": 15
+    },
+    "2026-03-27": {
+      "text": "Mistral AI's Voxtral model outperforms ElevenLabs on local hardware.",
+      "postCount": 15
+    },
+    "2026-03-28": {
+      "text": "CERN deploys custom AI models on silicon chips for Large Hadron Collider data filtering.",
+      "postCount": 15
+    },
+    "2026-03-29": {
+      "text": "TurboQuant optimizes local LLM inference on Linux with OLED displays and Nvidia RTX 5070 graphics.",
+      "postCount": 15
+    },
+    "2026-03-30": {
+      "text": "DeepSeek-R1 and DeepSeek V3 optimize local AI deployments with Dell and Samsung hardware solutions.",
+      "postCount": 5
+    },
+    "2026-03-31": {
+      "text": "Intel's new GPU challenges Nvidia with 32GB VRAM for local AI workloads.",
+      "postCount": 10
+    },
+    "2026-04-01": {
+      "text": "PrismML's Bonsai-8B model achieves competitive performance with Llama 3 8B.",
+      "postCount": 15
+    },
+    "2026-04-02": {
+      "text": "Ollama's MLX support enables faster local AI inference on Apple Silicon Macs.",
+      "postCount": 15
+    },
+    "2026-04-03": {
+      "text": "NVIDIA accelerates Gemma 4 on RTX GPUs for local agentic AI workflows.",
+      "postCount": 15
+    },
+    "2026-04-04": {
+      "text": "Gemma 4 model support rolls out across AMD GPUs and CPUs.",
+      "postCount": 15
+    },
+    "2026-04-05": {
+      "text": "Gemma 4 26B MoE excels in local coding tasks on consumer hardware.",
+      "postCount": 15
+    },
+    "2026-04-06": {
+      "text": "Gemma 4 31B model achieves exceptional performance on local hardware.",
+      "postCount": 15
+    },
+    "2026-04-07": {
+      "text": "AMD supports Google Gemma 4 across processors and GPUs for optimized local inference.",
+      "postCount": 15
+    },
+    "2026-04-08": {
+      "text": "Gemma 4 enables on-device AI inference on Android and iOS devices.",
+      "postCount": 5
+    },
+    "2026-04-09": {
+      "text": "EXAONE 4.5 33B model is released with FP8 and GGUF variants for local deployment.",
+      "postCount": 15
+    },
+    "2026-04-10": {
+      "text": "CarryAI introduces serverless vision-language models for on-device multimodal AI deployments.",
+      "postCount": 15
+    },
+    "2026-04-11": {
+      "text": "Gemma 4 31B outperforms Qwen 3.5 27B in long context benchmarks on mid-range GPUs.",
+      "postCount": 15
+    },
+    "2026-04-12": {
+      "text": "MiniMax M2.7 model boosts local AI performance on NVIDIA platforms.",
+      "postCount": 15
+    },
+    "2026-04-13": {
+      "text": "Copilot and OLMo-3 7B enable efficient local AI development and inference.",
+      "postCount": 15
+    },
+    "2026-04-14": {
+      "text": "Minisforum's N5 MAX AI NAS delivers 126 TOPS for local LLM workloads.",
+      "postCount": 15
+    },
+    "2026-04-15": {
+      "text": "DFlash accelerates Qwen3.5 27B inference on Apple M5 Max with oMLX 0.3.5 RC1 support.",
+      "postCount": 15
+    },
+    "2026-04-16": {
+      "text": "Bonsai 1.7B model runs on WebGPU in web browsers at 290MB.",
+      "postCount": 10
+    },
+    "2026-04-17": {
+      "text": "ChatMCP integrates browser AI chats with local coding agents via Model Context Protocol.",
+      "postCount": 10
+    },
+    "2026-04-18": {
+      "text": "NVIDIA's NemoClaw enables secure local AI agents with OpenClaw framework.",
+      "postCount": 10
+    },
+    "2026-04-19": {
+      "text": "Gemma 4 model replaces entire local LLM stacks with improved performance.",
+      "postCount": 10
+    },
+    "2026-04-20": {
+      "text": "Bun v1.3.13 improves LLM inference serving for local deployment infrastructure.",
+      "postCount": 10
+    },
+    "2026-04-21": {
+      "text": "Gemma 4 model outperforms local LLM setups with improved capability-to-size ratio.",
+      "postCount": 5
+    },
+    "2026-04-22": {
+      "text": "Gemma 4 model improves local LLM deployment efficiency.",
+      "postCount": 10
+    },
+    "2026-04-23": {
+      "text": "Intel releases OpenVINO 2026.1 with llama.cpp and Arc Pro B70 support.",
+      "postCount": 10
+    },
+    "2026-04-24": {
+      "text": "Google's LiteRT framework enables on-device LLM inference with Neural Processing Units.",
+      "postCount": 10
+    },
+    "2026-04-25": {
+      "text": "Gemma 4 enables on-device AI inference on phones and laptops.",
+      "postCount": 10
+    },
+    "2026-04-26": {
+      "text": "NVIDIA supports DeepSeek V4 on Blackwell GPUs for optimized local inference.",
+      "postCount": 10
     }
   },
   "weekly": {
@@ -175,8 +311,8 @@
       "postCount": 124
     },
     "2026-03-02": {
-      "text": "<p>Alibaba's Qwen 3.5 AI model and AMD's Ryzen AI 400 Series processors were major stories, enabling on-device AI capabilities.</p>\n<p>Don't miss \"Qwen 3.5 27B Achieves 100+ Tokens/s Decode\" and \"Apple M5 Pro and M5 Max: 4× Faster LLM Processing\" for insights into local LLM performance.</p>",
-      "postCount": 95
+      "text": "<p>Alibaba's CoPaw AI agent and AMD's Ryzen AI 400 series were major stories, with Apple's Neural Engine also being reverse-engineered for local model training.</p>\n<p>Don't miss \"Qwen 3.5 27B Achieves 100+ Tokens/s Decode\" and \"Apple M5 Pro and M5 Max: 4× Faster LLM Processing\" for standout performance and hardware advancements.</p>",
+      "postCount": 94
     },
     "2026-03-09": {
       "text": "<p>Nemotron 9B and Qwen 3.5 models were highlighted for large-scale local inference. Nota AI showcased on-device AI optimization.</p>\n<p>Posts like \"Fine-Tuned Qwen SLMs\" and \"Qwen 3.5 Ultra-Compact Models\" stood out for local AI advancements.</p>",
@@ -187,8 +323,24 @@
       "postCount": 95
     },
     "2026-03-23": {
-      "text": "<p>Alibaba committed to open-sourcing Qwen and Wan models, and Sarvam released 30B and 105B reasoning models.</p>\n<p>Don't miss \"Building a Production AI Receptionist\" and \"Powerful AI Search Engine Built on Single GeForce RTX 5090\" for local LLM insights.</p>",
-      "postCount": 15
+      "text": "<p>Major stories this week include the release of Qwen 3.5 models and the announcement of Alibaba's commitment to continuous open-sourcing of Qwen and Wan models, as well as the demonstration of a 400B-parameter language model running on an iPhone.</p>\n<p>Standout posts include \"Building a Production AI Receptionist\" and \"Powerful AI Search Engine Built on Single GeForce RTX 5090\", which showcase practical applications of local LLM deployment.</p>",
+      "postCount": 104
+    },
+    "2026-03-29": {
+      "text": "<p>This week's biggest stories include the release of Gemma 4, a family of open-source models built on Gemini 3 technology, optimized for local and on-device deployment, and the launch of Samsung's Galaxy Book6 series with NVIDIA RTX 5070 graphics and integrated on-device AI capabilities.</p>\n<p>Standout posts include \"Gemma 4 26B MoE Emerges as Optimal All-Around Local Model for Consumer Hardware\" and \"Ollama Gets Blazing Fast on Macs with Full MLX Support and 2× Speedups\", which highlight significant advancements in local LLM deployment and performance optimization for consumer devices.</p>",
+      "postCount": 90
+    },
+    "2026-04-05": {
+      "text": "<p>Gemma 4 31B and Qwen 3.5 27B were among the top models discussed, with Gemma 4 achieving exceptional performance on local hardware and Qwen 3.5 showing impressive speed on dual RTX PRO 6000 Blackwell GPUs.</p>\n<p>Standout posts include \"Show HN: Turn Photos Into Wordle Puzzles with AI\" and \"Google's Gemma 4 Brings Powerful On-Device AI to Android and iOS\", showcasing edge AI inference and on-device capabilities.</p>",
+      "postCount": 95
+    },
+    "2026-04-12": {
+      "text": "<p>This week's biggest stories include the launch of ASUS' UGen300 USB AI accelerator and Minisforum's N5 MAX AI NAS, both designed to enhance local AI inference capabilities. Google's Gemma 4 model also made headlines for its exceptional performance on consumer hardware.</p>\n<p>Standout posts include \"Running Same Prompts Through Claude and Local LLM Revealed Unexpected Results\" and \"MiniMax M2.7 Achieves SOTA Performance Under 64GB on Mac with TQ Quantization\", which highlight surprising performance differences between cloud and local models, and significant advancements in local LLM deployment on Mac systems.</p>",
+      "postCount": 85
+    },
+    "2026-04-19": {
+      "text": "<p>Big stories this week include Google's Gemma 4 model and Intel's Core Ultra Series 3 launch, both enhancing local AI inference capabilities.</p>\n<p>Don't miss \"AI Quota Inflation Is No Token Effort\" and \"Llama.cpp's Auto Fit Feature\" for insights into local LLM deployment and optimization.</p>",
+      "postCount": 65
     }
   }
 }

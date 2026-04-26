@@ -3,12 +3,27 @@ title: "Ultra-Large 400B-Class LLM Runs on iPhone in Test"
 date: 2026-03-25
 description: "A 400B-parameter language model has been successfully demonstrated running on an iPhone, marking a significant breakthrough in on-device inference capabilities. This achievement suggests that ultra-large models can now fit and execute on consumer mobile devices through advanced optimization techniques."
 tags:
+  - advanced
+  - analysis
+  - apple-silicon
+  - bullish
   - daily-digest
-  - mobile-inference
-  - quantisation
-  - memory-optimization
+  - developer
+  - edge-ai-deployment
   - edge-deployment
-status: draft
+  - edge-device
+  - inference-engines
+  - knowledge-distillation
+  - memory-optimization
+  - mobile-ai
+  - mobile-inference
+  - model-compression
+  - model-optimization
+  - on-device-inference
+  - quantisation
+  - quantization
+  - showcase
+status: published
 ---
 
 Running a 400-billion parameter language model on an iPhone represents a watershed moment for on-device AI. This breakthrough demonstrates that even ultra-large models can be compressed and optimized to execute on consumer smartphones through aggressive quantization, knowledge distillation, and memory-efficient attention mechanisms. The implications are profound: users can now run state-of-the-art models locally without cloud connectivity, eliminating latency, privacy concerns, and subscription costs.

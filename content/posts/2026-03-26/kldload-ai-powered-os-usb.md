@@ -3,12 +3,32 @@ title: "Operating Systems. One USB. ZFS on Root. AI-Powered. Free"
 date: 2026-03-26
 description: "A new project combining lightweight OS distribution, ZFS filesystem, and AI capabilities on a single USB drive. Relevant for edge deployment scenarios and portable local LLM infrastructure."
 tags:
+  - advanced
+  - ai-operating-system
+  - analysis
+  - bullish
   - daily-digest
+  - data-management
+  - developer
   - edge-deployment
-  - infrastructure
+  - edge-device
+  - hacker-news
   - hardware
+  - infrastructure
+  - intermediate
+  - local-deployment
+  - local-llm-infrastructure
   - open-source
-status: draft
+  - operating-systems
+  - portable-ai-deployment
+  - showcase
+  - system-optimization
+  - zfs-filesystem
+  - zfs-integration
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The intersection of operating systems, storage, and AI is crucial for edge and on-device LLM deployment, and [kldload.com](https://kldload.com/) presents an interesting integration point. By packaging a complete AI-aware OS with advanced filesystem support on a USB drive, this project highlights the trend toward purpose-built infrastructure for local inference.

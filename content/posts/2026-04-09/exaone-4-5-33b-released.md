@@ -3,12 +3,29 @@ title: "EXAONE 4.5 33B Model Released with Multiple Quantization Formats"
 date: 2026-04-09
 description: "LGAI has released EXAONE 4.5 33B with FP8 and GGUF variants, expanding open-source model options for local deployment. The release includes quantized formats optimized for consumer hardware."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - deployment-ready-models
+  - developer
+  - hardware
+  - inference-optimization
+  - intermediate
+  - lgai
+  - local-deployment
+  - model-quality
+  - model-quantization
+  - model-release
+  - model-sizing
+  - new-model
   - open-source
   - quantisation
-  - new-model
-  - hardware
-status: draft
+  - release
+  - setup-complexity-reduction
+mentions:
+  - name: LGAI
+    role: developer
+status: published
 ---
 
 LGAI has released [EXAONE 4.5 33B](https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B) with multiple quantization formats including FP8 and GGUF variants. The availability of pre-quantized versions significantly reduces the barrier to entry for local deployment, allowing users to skip the quantization step and immediately run the model on consumer-grade hardware.

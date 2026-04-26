@@ -3,12 +3,28 @@ title: "Llama 4 Scout on MLX: The Complete Apple Silicon Guide (2026)"
 date: 2026-04-23
 description: "An updated guide for running Llama 4 Scout models on Apple Silicon using MLX, covering optimization techniques and practical deployment patterns for macOS-based local LLM inference."
 tags:
-  - daily-digest
-  - mlx
   - apple-silicon
-  - llama
+  - apple-silicon-inference
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-inference
+  - daily-digest
+  - developer
   - guide
-status: draft
+  - intermediate
+  - llama
+  - local-inference
+  - mlx
+  - mlx-framework
+  - model-optimization
+  - model-quantization
+  - privacy-preserving-ai
+  - sitepoint
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 MLX, Apple's machine learning framework optimized for Apple Silicon, has matured significantly and this comprehensive guide documents running Llama 4 Scout models efficiently on Mac hardware. The guide covers model selection, quantization strategies specific to MLX's capabilities, and practical performance expectations for different Apple Silicon variants (M-series through the latest generations).

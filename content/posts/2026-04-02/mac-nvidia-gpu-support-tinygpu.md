@@ -3,12 +3,31 @@ title: "TinyGPU Adds Mac Support for External Nvidia GPU Acceleration"
 date: 2026-04-02
 description: "TinyGPU framework now enables Mac users to leverage external Nvidia GPUs for local LLM inference, expanding deployment options for Apple silicon users."
 tags:
+  - apple-silicon
+  - apple-silicon-deployment
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - tinygpu
-  - mac
+  - deployment-flexibility
+  - developer
+  - external-gpu-inference
   - gpu-support
   - hardware
-status: draft
+  - inference-speed
+  - intermediate
+  - large-model-inference
+  - lightweight-framework
+  - mac
+  - mac-gpu-acceleration
+  - mac-gpu-inference
+  - release
+  - resource-efficiency
+  - showcase
+  - tinygpu
+  - unified-memory
+mentions:
+  - name: TinyGPU
+status: published
 ---
 
 [TinyGPU documentation now includes Mac support for external Nvidia GPU deployment](https://docs.tinygrad.org/tinygpu/), addressing a long-standing limitation for Mac users who previously had limited options for GPU-accelerated local inference. While Apple's unified memory architecture is powerful for smaller models, external GPU support opens possibilities for running larger models efficiently.

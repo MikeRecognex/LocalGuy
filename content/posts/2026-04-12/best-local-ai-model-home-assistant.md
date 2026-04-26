@@ -3,12 +3,34 @@ title: "The Best Local AI Model for Home Assistant Isn't Always the Biggest One"
 date: 2026-04-12
 description: "A practical guide examining model selection for Home Assistant, revealing how optimal performance requires balancing model capability with hardware constraints rather than simply choosing the largest available model."
 tags:
+  - analysis
+  - bullish
+  - constrained-hardware
+  - cpu-only
   - daily-digest
-  - home-assistant
+  - developer
+  - edge-device
   - edge-inference
-  - model-selection
   - hardware-optimization
-status: draft
+  - home-assistant
+  - home-automation-ai
+  - how-to-geek
+  - inference-speed
+  - intermediate
+  - local-llm-deployment
+  - model-efficiency
+  - model-optimization
+  - model-quantization
+  - model-selection
+  - performance-optimization
+  - power-efficiency
+  - tutorial
+mentions:
+  - name: Home Assistant
+    role: platform
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 Home Assistant deployments present an ideal testbed for local LLM optimization, as they operate on constrained hardware (typically single-board computers or modest server setups) while requiring responsive inference for real-time automation and natural language understanding. This guide provides practical wisdom often overlooked by practitioners focused solely on capability metrics: model size and capability must align with actual hardware constraints.

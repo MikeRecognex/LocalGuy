@@ -3,12 +3,37 @@ title: "Show HN: Beforeyouship – Pre-Build Tool to Estimate LLM Cost"
 date: 2026-03-26
 description: "A new tool that helps developers estimate the computational and financial costs of deploying LLMs before committing to infrastructure. Valuable for planning local and edge deployment budgets."
 tags:
-  - daily-digest
+  - analysis
+  - beforeyouship
+  - bullish
+  - capacity-planning
+  - consumer-gpu
+  - cost-forecasting
   - cost-optimization
+  - daily-digest
+  - data-privacy
+  - deployment-budgeting
   - deployment-planning
+  - developer
+  - edge-device
+  - enterprise
+  - hacker-news
+  - hardware-configuration
   - infrastructure
+  - infrastructure-planning
+  - intermediate
+  - llm-cost-estimation
+  - local-deployment
+  - low-latency
+  - quantization
+  - showcase
   - tools
-status: draft
+mentions:
+  - name: Beforeyouship
+    role: tool
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Cost estimation remains one of the biggest unknowns when planning local LLM deployments, especially for teams transitioning from cloud APIs to self-hosted infrastructure. [Beforeyouship addresses this gap](https://llm-architecture-cost-modeler.vercel.app/) by providing a pre-build cost modeler that lets you estimate computational requirements and expenses before deploying.

@@ -3,12 +3,37 @@ title: "Pluggable's TBT5-AI: First Thunderbolt Dock Explicitly Targeting Local L
 date: 2026-04-26
 description: "Pluggable has released the TBT5-AI, a Thunderbolt 5 docking solution designed specifically for local LLM inference on workstations, enabling flexible GPU expansion for on-device models."
 tags:
+  - beginner-friendly
+  - bullish
+  - consumer-ai-accelerator
+  - consumer-gpu
   - daily-digest
-  - hardware
-  - thunderbolt
+  - dedicated-ai-hardware
+  - developer
   - gpu-expansion
+  - hardware
+  - hobbyist
+  - intermediate
+  - local-ai-hardware
+  - local-inference
+  - local-inference-accessibility
+  - msn
+  - pluggable
+  - portable-ai-solutions
+  - release
+  - showcase
+  - thunderbolt
+  - thunderbolt-5
   - workstation
-status: draft
+  - workstation-hardware
+mentions:
+  - name: Pluggable
+    role: manufacturer
+  - name: Pluggable
+    role: manufacturer
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Pluggable has launched the TBT5-AI, the first Thunderbolt 5 docking station explicitly designed for local LLM workstations. This represents hardware-level recognition of the local LLM market, enabling users to add high-speed GPU connectivity to laptops and compact workstations without major infrastructure changes.

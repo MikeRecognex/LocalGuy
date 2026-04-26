@@ -3,12 +3,34 @@ title: "DeepX and Hyundai Motor Group Robotics LAB Partner to Develop Next-Gener
 date: 2026-04-21
 description: "DeepX and Hyundai's Robotics LAB are collaborating on an on-device AI compute platform optimized for robotic systems, demonstrating how local inference is enabling physical AI applications at scale."
 tags:
+  - analysis
+  - bullish
+  - custom-asic
   - daily-digest
-  - on-device-ai
-  - robotics
+  - deepx
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-hardware
+  - hardware-innovation
+  - hyundai-motor-group-robotics-lab
+  - intermediate
+  - local-inference
+  - low-latency-inference
+  - multimodal-ai
+  - news
+  - on-device-ai
   - physical-ai
-status: draft
+  - robotics
+  - tech-in-asia
+mentions:
+  - name: DeepX
+    role: partner
+  - name: Hyundai Motor Group Robotics LAB
+    role: partner
+  - name: Tech in Asia
+    role: publisher
+status: published
 ---
 
 The partnership between DeepX and Hyundai Motor Group's Robotics LAB marks a significant application of local AI inference: building compute platforms specifically optimized for physical robots. This collaboration targets next-generation robotic systems that require real-time, low-latency AI decision-making—use cases where cloud inference latency is prohibitive.

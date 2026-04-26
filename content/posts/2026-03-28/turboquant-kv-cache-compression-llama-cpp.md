@@ -3,12 +3,29 @@ title: "TurboQuant KV Cache Compression Achieves 22.8% Faster Decoding at 32K Co
 date: 2026-03-28
 description: "Google's TurboQuant compression method has been successfully integrated into llama.cpp, enabling 4.6x KV cache compression and 22.8% decode speedup at 32K context length by skipping 90% of dequantization work. This breakthrough makes long-context inference practical on consumer hardware like MacBook Air M4."
 tags:
+  - advanced
+  - apple-silicon
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - quantisation
+  - developer
+  - hardware-optimization
+  - inference-speed
+  - kv-cache-compression
+  - kv-cache-optimization
   - llama-cpp
+  - llama-cpp-development
+  - long-context-inference
+  - long-context-window
   - memory-optimization
+  - model-optimization
+  - model-quantization
+  - news
+  - offline-inference
   - performance
-status: draft
+  - quantisation
+status: published
 ---
 
 Google's TurboQuant compression algorithm is proving to be a game-changer for local LLM deployment. Developers have optimized the implementation for llama.cpp by addressing a critical bottleneck: KV cache dequantization was consuming 40% of decode time at long contexts. By implementing custom kernel optimizations and skipping redundant dequantization operations, they achieved a 22.8% improvement in token generation speed at 32K context on M-series Macs.

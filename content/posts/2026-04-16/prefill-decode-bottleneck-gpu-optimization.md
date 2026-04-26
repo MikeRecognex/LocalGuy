@@ -3,12 +3,32 @@ title: "Prefill Is Compute-Bound, Decode Is Memory-Bound: Optimizing GPU Utiliza
 date: 2026-04-16
 description: "A deep dive into why GPUs shouldn't handle both prefill and decode phases equally, and how understanding this fundamental bottleneck can dramatically improve local LLM inference performance."
 tags:
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - performance-optimization
-  - gpu-inference
-  - memory-bound
   - decode-optimization
-status: draft
+  - developer
+  - gpu-inference
+  - gpu-utilization
+  - inference-architecture
+  - inference-optimization
+  - inference-pipeline-design
+  - llm-inference-optimization
+  - llm-inference-phases
+  - local-llm-performance
+  - memory-bound
+  - performance-optimization
+  - speculative-decoding
+  - throughput-optimization
+  - towards-data-science
+mentions:
+  - name: Towards Data Science
+    role: publisher
+  - name: Towards Data Science
+    role: publisher
+status: published
 ---
 
 Understanding the computational characteristics of LLM inference is crucial for optimizing local deployments. [The distinction between prefill and decode phases](https://towardsdatascience.com) reveals a fundamental asymmetry: prefill operations are compute-bound (bottlenecked by GPU compute capacity), while decode is memory-bound (bottlenecked by memory bandwidth). This means a GPU optimized for one phase will inevitably underutilize resources during the other.

@@ -3,11 +3,31 @@ title: "Orca – Executable skills and capabilities for AI agent workflows"
 date: 2026-03-31
 description: "New framework for building modular executable skills and capabilities for AI agents, enabling local deployment of agent-based systems with composable components."
 tags:
-  - daily-digest
+  - advanced
+  - agent-orchestration
+  - agent-skill-management
   - agents
-  - open-source
+  - ai-agent-workflows
+  - analysis
+  - autonomous-systems
+  - bullish
+  - composable-ai-systems
+  - daily-digest
+  - data-flow
+  - developer
   - frameworks
-status: draft
+  - hacker-news
+  - intermediate
+  - local-agent-deployment
+  - local-deployment
+  - model-inference
+  - open-source
+  - showcase
+  - skill-execution
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 A new project called [Orca](https://github.com/gfernandf/agent-skills) is gaining attention for its approach to building modular, executable skills for AI agent workflows. The framework provides a structured way to compose and manage agent capabilities, which is particularly valuable for local deployments where you need tight control over agent behavior and resource usage.

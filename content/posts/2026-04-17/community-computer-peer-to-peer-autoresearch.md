@@ -3,12 +3,36 @@ title: "Community Computer: Collaborative Autoresearch on a Peer-to-Peer Network
 date: 2026-04-17
 description: "A decentralized platform enabling distributed AI research and computation through peer-to-peer networks, allowing researchers to contribute local compute resources for collaborative model training and experimentation."
 tags:
+  - bullish
+  - collaborative-ai-research
+  - community-computer
+  - community-computing
+  - consumer-gpu
+  - consumer-hardware
+  - custom-asic
   - daily-digest
+  - data-privacy
+  - decentralized-ai
+  - developer
+  - distributed-computing
   - distributed-training
-  - peer-to-peer
-  - open-source
+  - edge-device
+  - hacker-news
+  - intermediate
   - local-inference
-status: draft
+  - open-source
+  - open-source-ai
+  - peer-to-peer
+  - peer-to-peer-networking
+  - researcher
+  - resource-sharing
+  - showcase
+mentions:
+  - name: Community Computer
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Community Computer introduces an intriguing vision for democratizing AI research through a peer-to-peer network model. Instead of centralizing computation in data centers, the platform allows individual researchers and practitioners to contribute their local hardware resources toward collaborative research goals, creating a truly distributed infrastructure for model development and experimentation.

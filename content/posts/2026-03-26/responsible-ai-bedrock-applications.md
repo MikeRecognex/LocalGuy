@@ -3,12 +3,29 @@ title: "Why Responsible AI Is the Bedrock of AI-Powered Applications"
 date: 2026-03-26
 description: "An exploration of responsible AI principles and their critical importance in building trustworthy, reliable AI-powered applications. Essential reading for practitioners deploying LLMs in production environments."
 tags:
-  - daily-digest
-  - responsible-ai
-  - deployment
+  - ai-trustworthiness
+  - analysis
   - best-practices
+  - bullish
+  - daily-digest
+  - deployment
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - intermediate
+  - llm-operations
+  - on-device-responsibility
+  - privacy-compliance
+  - reproducibility
+  - responsible-ai
   - safety
-status: draft
+mentions:
+  - name: Joe Dumont
+    role: author
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM deployment becomes more accessible, the importance of responsible AI practices has never been more critical. This article examines the foundational principles that should guide AI-powered applications, particularly relevant for teams self-hosting models where end-to-end responsibility falls on the operator.

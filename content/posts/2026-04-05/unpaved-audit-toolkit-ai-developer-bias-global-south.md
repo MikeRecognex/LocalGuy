@@ -3,12 +3,28 @@ title: "Unpaved: Audit Toolkit for AI Developer Tool Bias in Global South Contex
 date: 2026-04-05
 description: "Unpaved provides an open-source auditing framework to identify and mitigate biases in AI development tools, with specific focus on performance and fairness in Global South contexts. This toolkit is essential for practitioners deploying local LLMs in resource-constrained and underrepresented regions."
 tags:
-  - daily-digest
-  - open-source
+  - advanced
+  - ai-fairness-auditing
+  - ai-tool-bias
   - benchmark
-  - fairness
+  - bias-mitigation
+  - bullish
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - fairness
+  - global-south-contexts
+  - inference-performance
+  - intermediate
+  - llm-deployment-pipeline
+  - local-inference
+  - open-source
+  - open-source-auditing
+  - quantization-artifacts
+  - responsible-ai-deployment
+  - showcase
+  - tutorial
+status: published
 ---
 
 Unpaved addresses a critical blind spot in the local LLM community: systematic auditing of how models and inference frameworks perform across diverse hardware conditions and linguistic contexts, particularly in Global South regions. As more developers deploy local LLMs in resource-constrained environments with different language needs, understanding where models underperform becomes essential for responsible deployment.

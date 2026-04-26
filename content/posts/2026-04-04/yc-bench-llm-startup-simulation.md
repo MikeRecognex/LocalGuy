@@ -3,11 +3,24 @@ title: "YC-Bench: GLM-5 Matches Claude Opus 4.6 at 11× Lower Cost"
 date: 2026-04-04
 description: "A new benchmark puts 12 LLMs through a year-long simulated startup experience, revealing that GLM-5 delivers comparable performance to Claude Opus 4.6 at significantly lower inference cost, enabling more efficient local deployment."
 tags:
-  - daily-digest
+  - advanced
+  - agentic-ai
   - benchmark
-  - glm
+  - benchmark-evaluation
+  - benchmark-report
+  - bullish
+  - business-reasoning
   - cost-efficiency
-status: draft
+  - cost-performance
+  - cost-saving
+  - daily-digest
+  - enterprise
+  - glm
+  - llm-benchmarking
+  - local-deployment
+  - long-horizon-reasoning
+  - model-comparison
+status: published
 ---
 
 Researchers have created [YC-Bench](https://www.reddit.com/gallery/1sbyte4), an innovative benchmark that evaluates LLMs on complex, multi-turn business reasoning by simulating a full year of startup management. The model acts as CEO, managing employees, selecting contracts, handling payroll, and navigating a market where 35% of clients deliberately inflate work requirements—testing robustness and decision-making across hundreds of turns.

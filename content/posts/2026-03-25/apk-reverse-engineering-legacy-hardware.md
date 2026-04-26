@@ -3,12 +3,31 @@ title: ".APKs Are Just .ZIPs: Semi-Legally Hacking Software for Orphaned Hardwar
 date: 2026-03-25
 description: "A video explores reverse-engineering and modifying Android APKs to run on legacy devices, with techniques applicable to deploying inference engines on older hardware."
 tags:
-  - daily-digest
-  - hardware
-  - edge-inference
+  - advanced
+  - analysis
   - android
+  - apk-modding
+  - bullish
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - edge-llm-deployment
+  - embedded-ai
+  - hacker-news
+  - hardware
+  - hardware-compatibility
+  - hardware-constraints
+  - legacy-hardware-deployment
+  - model-optimization
   - optimization
-status: draft
+  - reverse-engineering
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This technical deep-dive explores how Android APKs are actually ZIP archives that can be modified and repackaged, enabling deployment of modern software—including inference engines—on older, orphaned hardware that no longer receives official support. The techniques demonstrated show how to work around hardware limitations and OS constraints to breathe new life into legacy devices.

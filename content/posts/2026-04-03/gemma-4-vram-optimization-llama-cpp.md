@@ -3,12 +3,29 @@ title: "VRAM Optimization Technique Cuts Gemma 4 Memory Usage by 3x"
 date: 2026-04-03
 description: "A simple llama.cpp parameter adjustment (-np 1) significantly reduces Sliding Window Attention cache VRAM requirements for Gemma 4, enabling deployment on systems with limited GPU memory."
 tags:
+  - analysis
+  - bullish
+  - consumer-gpu
+  - consumer-gpu-deployment
   - daily-digest
-  - memory-optimization
-  - llama-cpp
+  - developer
   - gemma
   - hardware
-status: draft
+  - hardware-optimization
+  - inference-frameworks
+  - intermediate
+  - kv-cache-optimization
+  - llama-cpp
+  - memory-optimization
+  - model-optimization
+  - rlocalllama
+  - sliding-window-attention
+  - tutorial
+  - vram-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: community-forum
+status: published
 ---
 
 A critical optimization for local Gemma 4 deployment has emerged: adding the `-np 1` parameter to llama.cpp launches dramatically reduces SWA (Sliding Window Attention) cache VRAM overhead before generation even begins. This change is essential for 16GB VRAM systems that were previously hitting out-of-memory errors with default settings.

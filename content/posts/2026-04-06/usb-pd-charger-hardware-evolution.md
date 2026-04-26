@@ -3,12 +3,35 @@ title: "Verbatim 140W GAN: One of the First Chargers With USB PD 3.2 AVS (SPR) S
 date: 2026-04-06
 description: "Evolution of USB Power Delivery standards enabling higher power delivery efficiency, relevant to powering high-performance GPUs and edge AI hardware for local LLM inference."
 tags:
+  - analysis
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - hardware
-  - power-efficiency
-  - infrastructure
+  - developer
+  - edge-ai
+  - edge-ai-power
+  - edge-applications
+  - edge-device
   - edge-devices
-status: draft
+  - hacker-news
+  - hardware
+  - inference-optimization
+  - infrastructure
+  - intermediate
+  - local-llm-inference
+  - mobile-gpu
+  - mobile-gpu-architecture
+  - on-device-inference
+  - power-efficiency
+  - system-on-chip
+  - usb-power-delivery
+  - verbatim
+mentions:
+  - name: Verbatim
+    role: manufacturer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Power delivery infrastructure often gets overlooked in local LLM discussions, yet it's foundational for edge deployment scenarios. USB PD 3.2 with Advanced Voltage Switching (SPR) support represents a quiet but significant evolution in what's possible for portable and edge AI workloads. Higher power delivery via USB means more capable devices can remain untethered and flexible in deployment.

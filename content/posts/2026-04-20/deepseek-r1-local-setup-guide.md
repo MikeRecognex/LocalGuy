@@ -3,12 +3,31 @@ title: "Running DeepSeek R1 Locally: Your Complete Setup Guide"
 date: 2026-04-20
 description: "SitePoint publishes a comprehensive guide for setting up and running DeepSeek R1 on local hardware, covering installation, configuration, and optimization tips for self-hosted inference."
 tags:
+  - bullish
+  - cloud-independence
+  - consumer-gpu
   - daily-digest
   - deepseek
-  - setup-guide
-  - open-source
+  - developer
   - inference
-status: draft
+  - intermediate
+  - local-inference
+  - local-llm-deployment
+  - open-source
+  - open-source-llm-deployment
+  - performance-tuning
+  - quantization
+  - self-hosted-inference
+  - self-hosted-llm
+  - setup-guide
+  - sitepoint
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 DeepSeek R1 continues to gain traction among local LLM enthusiasts as a powerful open-source alternative to closed-source models. This comprehensive setup guide from [SitePoint](https://www.sitepoint.com) walks practitioners through the complete process of deploying DeepSeek R1 on local hardware, from initial installation through optimization for your specific compute constraints.

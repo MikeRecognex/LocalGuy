@@ -3,12 +3,33 @@ title: "PrismML Announces 1-Bit Bonsai: First Commercially Viable 1-Bit LLMs"
 date: 2026-04-01
 description: "PrismML has released Bonsai-8B, a groundbreaking 1-bit quantised model that fits in just 1.15GB of memory while maintaining competitive performance with Llama 3 8B. This represents a major breakthrough in memory-efficient local LLM deployment, enabling edge inference on severely resource-constrained devices."
 tags:
-  - daily-digest
-  - quantisation
-  - memory-optimization
-  - edge-inference
+  - 1-bit-quantization
+  - advanced
   - benchmark
-status: draft
+  - bullish
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
+  - edge-inference
+  - intermediate
+  - local-llm-deployment
+  - memory-efficiency
+  - memory-optimization
+  - model-performance
+  - model-quantization
+  - news
+  - prism-ml
+  - prismml
+  - quantisation
+  - release
+mentions:
+  - name: PrismML
+    role: developer
+  - name: prism-ml
+    role: developer
+status: published
 ---
 
 PrismML has released Bonsai-8B, a landmark achievement in extreme quantisation for local LLM deployment. The 1-bit model achieves an impressive MMLU-R score of 65.7 while consuming only 1.15GB of memory—a dramatic reduction that opens doors for on-device inference on edge devices, mobile phones, and resource-constrained environments.

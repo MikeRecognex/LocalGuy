@@ -3,12 +3,37 @@ title: "Show HN: I Can't Write Python. It Works Anyway – Local LLM Automation"
 date: 2026-04-18
 description: "A creative project demonstrating how LLMs can automate complex local data processing tasks, even for developers without specific language expertise. Showcases practical self-hosted inference in real-world workflows."
 tags:
-  - daily-digest
+  - ai-automation-systems
   - automation
+  - bullish
+  - code-generation
+  - consumer-gpu
+  - consumer-hardware-automation
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - data-processing-automation
+  - developer
+  - garmin
+  - hacker-news
+  - inference-optimization
+  - intermediate
   - local-inference
+  - local-llm-automation
+  - offline-inference
   - open-source
   - practical-use-case
-status: draft
+  - self-hosted-inference
+  - showcase
+mentions:
+  - name: Garmin
+    role: data source
+  - name: Wewoc
+    role: developer
+    handle: "@Wewoc"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This project exemplifies how local LLM inference can democratise automation tasks that traditionally required specialised programming skills. By leveraging a locally-deployed language model, the creator built a Garmin data archival tool without deep Python expertise—the LLM handled code generation, debugging, and optimisation suggestions entirely on their own machine.

@@ -3,12 +3,34 @@ title: "Show HN: Lightweight LLM Tracing Tool with CLI"
 date: 2026-04-06
 description: "A new open-source LLM tracing tool providing command-line observability for local language model deployments, helping developers debug and monitor inference pipelines."
 tags:
+  - bullish
+  - cli-observability
+  - cli-tools
+  - consumer-gpu
   - daily-digest
-  - open-source
-  - tooling
-  - observability
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - inference
-status: draft
+  - inference-debugging
+  - inference-monitoring
+  - intermediate
+  - llm-tracing
+  - model-optimization
+  - observability
+  - open-source
+  - performance-metrics
+  - performance-monitoring
+  - release
+  - showcase
+  - ske-labs
+  - tooling
+mentions:
+  - name: SKE-Labs
+    role: developer
+  - name: SKE-Labs
+    role: developer
+status: published
 ---
 
 Observability and debugging remain underdeveloped areas in the local LLM deployment ecosystem. This newly released [lightweight tracing tool](https://github.com/SKE-Labs/lightrace) addresses that gap by providing CLI-based tracing capabilities specifically designed for LLM inference workloads, enabling developers to monitor token generation, latency bottlenecks, and resource utilization.

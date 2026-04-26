@@ -3,12 +3,31 @@ title: "Unsloth Completes Comprehensive MiniMax M2.7 GGUF Quantization Suite"
 date: 2026-04-12
 description: "Unsloth has finished quantizing MiniMax M2.7 across the full range of GGUF quantization levels from 1-bit to BF16, providing practitioners with optimized variants for every hardware configuration from edge devices to high-end systems."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - developer
+  - developer-workflow
+  - edge-ai-deployment
+  - edge-device
   - gguf
-  - unsloth
+  - gguf-quantization
+  - hardware-optimization
+  - intermediate
+  - local-deployment
   - model-optimization
-status: draft
+  - model-quantization
+  - open-source-ecosystem
+  - quantisation
+  - release
+  - showcase
+  - unsloth
+mentions:
+  - name: Unsloth
+    role: critical infrastructure provider
+  - name: Unsloth
+    role: provider
+status: published
 ---
 
 The Unsloth team has completed rapid quantization of MiniMax M2.7 across a comprehensive range of GGUF formats, from aggressive 1-bit quantization (UD-IQ1_M at 6GB) through full precision BF16 variants. [The complete quantization suite is now available on Hugging Face](https://huggingface.co/unsloth/MiniMax-M2.7-GGUF), enabling practitioners to select the optimal tradeoff between model size, memory requirements, and inference quality for their specific hardware constraints.

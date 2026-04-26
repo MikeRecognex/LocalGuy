@@ -3,12 +3,29 @@ title: "Intel LLM-Scaler vLLM 0.14.0 Released With Official Arc Pro B70 Support"
 date: 2026-04-23
 description: "A new vLLM release brings production-ready support for Intel's Arc Pro B70 GPU, enabling optimized batch inference and high-throughput local LLM serving on Intel discrete graphics."
 tags:
-  - daily-digest
-  - vllm
-  - intel
-  - hardware
   - batch-inference
-status: draft
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - developer
+  - enterprise
+  - enterprise-ai-services
+  - gpu-diversity
+  - gpu-evaluation
+  - hardware
+  - intel
+  - intel-arc-gpu
+  - intermediate
+  - local-llm-serving
+  - phoronix
+  - release
+  - vllm
+  - vllm-deployment
+mentions:
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 vLLM, the industry-standard library for high-throughput LLM inference, has reached version 0.14.0 with official Arc Pro B70 GPU support. This release is pivotal for teams looking to scale local inference workloads without relying exclusively on NVIDIA hardware, opening up cost-effective batch serving options for self-hosted LLM deployments.

@@ -3,12 +3,34 @@ title: "Sarvam Edge: India's Offline AI Model Runs on Phones and Laptops Without
 date: 2026-04-22
 description: "Sarvam AI has released Edge, an AI model specifically designed for on-device inference on mobile phones and laptops that operates entirely offline. The model represents a regional approach to practical edge deployment optimized for Indian languages and use cases."
 tags:
+  - bullish
+  - consumer-device
+  - cost-saving
   - daily-digest
+  - data-privacy
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - multilingual
+  - intermediate
   - mobile
+  - model-optimization
+  - msn
+  - multilingual
+  - multilingual-models
+  - offline-ai
+  - on-device-ai
+  - on-device-inference
   - open-source
-status: draft
+  - release
+  - sarvam-ai
+  - showcase
+mentions:
+  - name: Sarvam AI
+    role: developer
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 The release of [Sarvam Edge](https://msn.com) highlights the global diversification of local LLM development beyond English-centric models. By building an inference-optimized model with explicit support for Indian languages, Sarvam AI demonstrates that edge deployment can address specific regional and linguistic requirements while maintaining offline functionality. This approach enables reliable AI services in regions where cloud connectivity is unreliable or prohibitively expensive.

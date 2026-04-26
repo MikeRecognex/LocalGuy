@@ -3,12 +3,31 @@ title: "My AI Workflow: Practical Guide to Using AI Without Skill Atrophy"
 date: 2026-04-22
 description: "Marc G shares detailed insights on integrating AI tools into professional workflows while maintaining technical skills. The article provides practical patterns for responsible local and cloud model usage."
 tags:
-  - daily-digest
-  - workflow
+  - ai-development-environments
+  - ai-integration
+  - ai-workflow-management
+  - analysis
   - best-practices
-  - productivity
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
   - integration
-status: draft
+  - intermediate
+  - local-inference
+  - local-vs-cloud-inference
+  - productivity
+  - responsible-ai-use
+  - skill-development
+  - tool-selection
+  - tutorial
+  - workflow
+mentions:
+  - name: Marc G
+    role: author
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Marc G published [a detailed breakdown of his AI workflow](https://marcgg.com/blog/2026/04/15/my-current-ai-workflow/) that focuses on practical integration of AI tools—both local and cloud-based—while maintaining technical competence and avoiding over-reliance on AI assistance. This perspective is increasingly important as LLMs become more capable.

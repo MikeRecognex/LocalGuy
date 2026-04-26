@@ -3,12 +3,38 @@ title: "Building Cross-Platform Ollama Dashboards with 95% Shared Code"
 date: 2026-04-03
 description: "Developers share practical patterns for building unified dashboards managing Ollama deployments across multiple platforms, achieving code reuse and consistent UX for local LLM management."
 tags:
-  - daily-digest
-  - ollama
-  - tooling
-  - deployment
+  - advanced
+  - analysis
+  - bullish
+  - code-reuse
   - cross-platform
-status: draft
+  - cross-platform-deployment
+  - cross-platform-development
+  - daily-digest
+  - deployment
+  - deployment-orchestration
+  - developer
+  - development-efficiency
+  - enterprise
+  - hacker-news
+  - hackernoon
+  - inference-monitoring
+  - intermediate
+  - llm-management
+  - llm-operations
+  - llm-scaling
+  - neutral
+  - ollama
+  - ollama-deployment
+  - software-architecture
+  - tooling
+  - tutorial
+mentions:
+  - name: HackerNoon
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A practical engineering guide demonstrates how to build cross-platform management dashboards for Ollama, the popular local LLM runtime, achieving approximately 95% code reuse across web, desktop, and mobile platforms. This work addresses a real pain point in local LLM operations—the need for unified interfaces to manage models, monitor inference performance, and coordinate deployments across heterogeneous hardware environments.

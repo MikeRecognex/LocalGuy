@@ -3,12 +3,33 @@ title: "Mixed Precision Quantization on MLX with TurboQuant Implementation"
 date: 2026-04-04
 description: "MLX framework now supports mixed precision quantization through TurboQuant, enabling more efficient model compression for Apple Silicon devices. This advancement allows developers to achieve better quality-to-size trade-offs when deploying LLMs locally."
 tags:
+  - apple-silicon
+  - bullish
+  - consumer-hardware
   - daily-digest
-  - mlx
-  - quantisation
+  - developer
+  - edge-inference
+  - hacker-news
   - hardware
+  - inference-speed
+  - intermediate
   - memory-optimization
-status: draft
+  - mixed-precision-quantization
+  - mlx
+  - mlx-ecosystem
+  - model-compression
+  - on-device-inference
+  - quality-size-tradeoffs
+  - quantisation
+  - release
+  - showcase
+  - turboquant
+mentions:
+  - name: TurboQuant
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Apple's MLX framework has integrated TurboQuant, a mixed precision quantization implementation that significantly improves the efficiency of local LLM deployment on Apple Silicon. This development addresses a critical challenge in on-device inference: balancing model performance with memory and computational constraints.

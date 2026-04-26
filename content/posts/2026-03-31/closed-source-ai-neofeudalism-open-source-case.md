@@ -3,11 +3,32 @@ title: "Closed Source AI = Neofeudalism"
 date: 2026-03-31
 description: "Geohot's perspective on the strategic importance of open-source AI models for avoiding vendor lock-in and maintaining autonomy in local LLM deployment."
 tags:
+  - architectural-control
+  - bullish
   - daily-digest
-  - open-source
+  - data-governance
+  - data-privacy
+  - developer
+  - enterprise
+  - hacker-news
+  - infrastructure-ownership
+  - intermediate
   - licensing
+  - local-inference-tools
+  - local-llm-deployment
+  - model-customization
+  - open-source
+  - open-source-ai
+  - open-source-llms
+  - opinion
   - philosophy
-status: draft
+  - vendor-lock-in
+mentions:
+  - name: George Hotz
+    handle: "@realgeorgehotz"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 George Hotz's [latest post](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html) makes a forceful argument about the long-term implications of closed-source AI models, framing proprietary AI as creating a new form of vendor lock-in. For the local LLM community, this philosophical perspective reinforces the practical value of the entire movement.

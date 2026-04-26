@@ -3,12 +3,34 @@ title: "Apfel – The Free AI Already on Your Mac"
 date: 2026-04-03
 description: "A new macOS application leverages on-device inference to provide free AI capabilities without cloud dependencies, simplifying local LLM deployment for Mac users."
 tags:
+  - adoption-barriers
+  - apfel
+  - apple-silicon
+  - beginner-friendly
+  - bullish
+  - cost-saving
   - daily-digest
-  - macos
+  - developer
+  - hacker-news
+  - hobbyist
+  - intermediate
+  - latency-reduction
   - local-inference
+  - macos
+  - macos-deployment
+  - offline-ai
+  - on-device-inference
   - open-source
+  - privacy-compliance
+  - showcase
+  - ui-ux-design
   - user-experience
-status: draft
+mentions:
+  - name: Apfel
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Apfel demonstrates how polished, user-friendly interfaces can lower barriers to local LLM adoption on macOS. Rather than requiring users to juggle terminal commands, Ollama configuration, and model management, Apfel packages the entire experience into a native application that feels like standard Mac software.

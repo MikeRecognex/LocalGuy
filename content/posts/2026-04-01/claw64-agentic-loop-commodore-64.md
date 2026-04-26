@@ -3,12 +3,26 @@ title: "Claw64 – Full Agentic Loop in <4KB on Commodore 64"
 date: 2026-04-01
 description: "A remarkable demonstration of running a complete agentic AI loop in under 4KB as a TSR (Terminate and Stay Resident) program on a Commodore 64, inspired by OpenClaw architecture. This extreme constraint optimization showcases innovative techniques for deploying reasoning capabilities on severely memory-limited hardware."
 tags:
-  - daily-digest
+  - advanced
+  - agentic-ai
+  - agentic-loops-optimization
   - agents
-  - memory-optimization
+  - bullish
+  - constraint-optimization
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
+  - embedded-ai
+  - memory-optimization
+  - model-compression
+  - resource-constrained-ai
   - retro-computing
-status: draft
+  - retro-computing-ai
+  - showcase
+status: published
 ---
 
 [Claw64](https://github.com/sttts/claw64) represents a fascinating edge case in local LLM deployment: running a full agentic reasoning loop on a Commodore 64 within a 4KB memory footprint as a TSR program. This project, inspired by OpenClaw, demonstrates how creative architecture and constraint-driven engineering can push AI inference into environments that seem fundamentally incompatible with modern machine learning.

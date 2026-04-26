@@ -3,12 +3,28 @@ title: "Quantization Strategy Comparison: Balancing Quality and Speed on Consume
 date: 2026-04-06
 description: "Detailed benchmarking of different GGUF quantization methods for Qwen 3.5 4B on Intel Lunar Lake iGPU reveals optimal compression strategies for small model deployment on resource-constrained hardware."
 tags:
-  - daily-digest
-  - quantisation
+  - advanced
+  - analysis
   - benchmark
+  - benchmark-report
+  - benchmarking
+  - bullish
+  - consumer-gpu
+  - consumer-laptop
+  - daily-digest
+  - developer
+  - gguf-quantization
   - hardware
+  - hardware-optimization
   - llama-cpp
-status: draft
+  - local-llm-deployment
+  - model-benchmarking
+  - model-compression
+  - model-efficiency
+  - model-quantization
+  - quantisation
+  - small-model-deployment
+status: published
 ---
 
 Practical quantization benchmarking is essential for local LLM practitioners, and [this detailed comparison across GGUF quantization methods](https://i.redd.it/ez7e5lj5fitg1.png) provides exactly the kind of empirical guidance needed for hardware-specific optimization. Testing on Intel Lunar Lake's integrated GPU with 18GB VRAM, the benchmark systematically evaluated different quantization techniques using KL divergence (quality) and inference speed as metrics, with efficiency (KLD per GB) as a crucial optimization target.

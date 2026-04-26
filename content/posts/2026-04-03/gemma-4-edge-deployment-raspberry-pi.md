@@ -3,12 +3,32 @@ title: "Gemma 4 2B Successfully Runs on Raspberry Pi 5"
 date: 2026-04-03
 description: "The Gemma 4 E2B 2B variant runs viably on Raspberry Pi 5 with 8GB RAM using llama.cpp, extending local LLM capabilities to ultra-low-power edge devices."
 tags:
+  - analysis
+  - bullish
   - daily-digest
+  - developer
+  - edge-ai-applications
   - edge-deployment
-  - hardware
-  - raspberry-pi
+  - edge-device
+  - edge-inference
   - gemma
-status: draft
+  - hardware
+  - hobbyist
+  - intermediate
+  - llama-cpp-optimizations
+  - model-quantization
+  - model-size-optimization
+  - offline-ai
+  - potato-os
+  - quantized-models
+  - raspberry-pi
+  - raspberry-pi-inference
+  - showcase
+  - single-board-computer-llms
+mentions:
+  - name: Potato OS
+    role: project
+status: published
 ---
 
 Gemma 4's smallest variant (E2B, 2B parameters) has been successfully deployed on Raspberry Pi 5 with 8GB memory using the latest llama.cpp build. This development extends viable local inference to ultra-low-power platforms, demonstrating that modern quantized models can operate on single-board computers with practical performance.

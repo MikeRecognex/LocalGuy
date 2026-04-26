@@ -3,12 +3,30 @@ title: "ASUS ExpertBook P1 Integrates On-Device AI for Enterprise Collaboration"
 date: 2026-04-11
 description: "ASUS launches the ExpertBook P1 with integrated on-device AI collaboration tools, bringing local inference to enterprise computing. The laptop demonstrates practical implementation of privacy-preserving AI features for professional workflows."
 tags:
-  - daily-digest
-  - hardware
-  - enterprise
-  - on-device-ai
+  - analysis
   - applications
-status: draft
+  - bullish
+  - collaborative-filtering
+  - consumer-gpu
+  - daily-digest
+  - data-residency
+  - document-summarization
+  - edge-device
+  - enterprise
+  - enterprise-collaboration
+  - hardware
+  - intermediate
+  - local-inference
+  - model-optimization
+  - on-device-ai
+  - privacy-preserving-ai
+  - real-time-transcription
+  - release
+  - tech-critter
+mentions:
+  - name: Tech Critter
+    role: publisher
+status: published
 ---
 
 ASUS has introduced the ExpertBook P1, an enterprise laptop featuring integrated on-device AI collaboration tools that execute locally without sending data to cloud servers. This implementation demonstrates how manufacturers are embedding privacy-preserving AI capabilities directly into business hardware, meeting enterprise requirements for data protection and reduced cloud dependencies.

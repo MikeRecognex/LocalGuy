@@ -3,12 +3,30 @@ title: "Nex Life Logger: Local Activity Tracker with AI Agent Integration"
 date: 2026-04-04
 description: "A new open-source project demonstrates practical on-device AI agent integration for activity logging and personal data analysis without cloud dependencies. The tool shows how local LLMs can be embedded into everyday applications for privacy-preserving intelligence."
 tags:
-  - daily-digest
+  - agentic-workflows
   - agents
-  - open-source
-  - privacy
+  - ai-agent-integration
+  - bullish
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-ai-integration
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-activity-tracking
   - local-inference
-status: draft
+  - model-quantization
+  - open-source
+  - personal-data-analysis
+  - privacy
+  - privacy-preserving-ai
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Nex Life Logger exemplifies the growing trend of embedding local LLMs into practical consumer applications. [This GitHub project](https://github.com/NexaiGuy/nex-life-logger) integrates AI agents directly with activity tracking, enabling intelligent analysis of personal data while maintaining complete privacy—no data leaves the user's device.

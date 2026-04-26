@@ -3,12 +3,29 @@ title: "OmniCoder v2 Released: Improved Code Generation for Local Deployment"
 date: 2026-03-25
 description: "OmniCoder-v2 has been released with notable improvements over the previous version, available as a 9B GGUF quantised model for efficient local inference and code generation tasks."
 tags:
-  - daily-digest
-  - model-release
+  - agentic-coding
+  - bullish
   - code-generation
-  - quantisation
+  - code-review-automation
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - ide-integration
+  - inference-engines
+  - intermediate
+  - local-deployment
+  - model-quantization
+  - model-release
   - open-source
-status: draft
+  - open-source-models
+  - quantisation
+  - release
+  - rlocalllama
+  - showcase
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 OmniCoder-v2 has landed with measurable improvements over its predecessor, with early testing showing genuine capability gains. The model is available as a 9B GGUF quantised variant, making it practical for local deployment on modest hardware configurations while maintaining specialisation in code generation and understanding.

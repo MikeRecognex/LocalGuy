@@ -3,12 +3,40 @@ title: "Build a Sovereign Local AI Stack: Ollama and Open WebUI and Pgvector 202
 date: 2026-04-13
 description: "A comprehensive guide to building a complete local AI infrastructure using Ollama for model serving, Open WebUI for the interface, and Pgvector for vector database capabilities. This stack enables fully self-hosted AI applications without cloud dependencies."
 tags:
+  - advanced
+  - bullish
+  - cost-reduction
   - daily-digest
+  - data-handling
+  - data-privacy
+  - deployment
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-ai-stack
+  - local-deployment
+  - model-inference
+  - model-serving
   - ollama
   - open-source
-  - deployment
+  - open-webui
+  - pgvector
+  - showcase
+  - sovereign-ai
+  - tutorial
+  - user-interface
   - vector-database
-status: draft
+  - web-ui
+mentions:
+  - name: Ollama
+    role: tool-provider
+  - name: Open WebUI
+    role: tool-provider
+  - name: Pgvector
+    role: tool-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Building a fully sovereign local AI stack has become increasingly practical in 2026. This discussion covers integrating Ollama for efficient local model serving with Open WebUI to provide a user-friendly interface and Pgvector for managing embeddings and semantic search capabilities. Together, these tools create a complete end-to-end solution for organizations seeking data privacy and independence from cloud-based AI services.

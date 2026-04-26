@@ -3,12 +3,32 @@ title: "Free AI Video Clipper Using Scene and Speech-Based Segmentation"
 date: 2026-04-04
 description: "An open-source project provides local AI-powered video segmentation and automatic clipping based on scene changes and speech patterns. This tool demonstrates practical multimedia processing with on-device inference, eliminating cloud API dependencies."
 tags:
-  - daily-digest
-  - open-source
-  - multimodal
-  - local-inference
+  - ai-video-editing
   - applications
-status: draft
+  - batch-inference
+  - bullish
+  - cloud-cost-reduction
+  - cost-saving
+  - daily-digest
+  - developer
+  - hacker-news
+  - inference-optimization
+  - intermediate
+  - local-inference
+  - local-multimedia-ai
+  - local-orchestration
+  - memory-management
+  - multimodal
+  - multimodal-ai
+  - on-device-inference
+  - open-source
+  - showcase
+  - speech-recognition
+  - video-segmentation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The free AI video clipper project showcases how [local inference can power sophisticated multimedia applications](https://news.ycombinator.com/item?id=47637344). By combining scene detection and speech recognition models running on-device, the tool automatically segments video content and generates clips without relying on expensive cloud APIs or subscription services.

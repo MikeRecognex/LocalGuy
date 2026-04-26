@@ -3,11 +3,36 @@ title: "Thinking Outside the Box: New Attack Surfaces in Sandboxed AI Agents"
 date: 2026-04-26
 description: "Security research identifies novel attack vectors in sandboxed AI agent deployments, highlighting critical considerations for self-hosted and edge inference systems. Understanding these vulnerabilities is essential for practitioners securing local LLM implementations."
 tags:
-  - daily-digest
+  - advanced
+  - agent-security
   - agents
-  - security
+  - ai-agent-security
+  - ai-security
+  - analysis
+  - attack-surface
+  - cautious
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - enterprise
+  - hacker-news
+  - lasso-security
+  - research
+  - security
+  - security-vulnerabilities
+  - threat-modeling
+  - vulnerability-management
+mentions:
+  - name: Lasso Security
+    role: researcher
+  - name: Hacker News
+    role: publisher
+  - name: Lasso Security
+    role: publisher
+status: published
 ---
 
 As more organizations deploy AI agents locally and on-edge infrastructure, security becomes paramount. [This research from Lasso Security](https://www.lasso.security/blog/sandboxed-ai-agents-attack-surface) explores previously undocumented attack surfaces that can emerge even in carefully sandboxed environments where local LLMs operate.

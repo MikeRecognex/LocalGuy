@@ -3,11 +3,27 @@ title: "Does RAG Help AI Coding Tools?"
 date: 2026-03-31
 description: "Analysis examining whether Retrieval-Augmented Generation actually improves code generation quality in AI coding assistants and local deployment scenarios."
 tags:
-  - daily-digest
-  - rag
-  - code-generation
+  - ai-coding-assistants
+  - analysis
   - benchmarks
-status: draft
+  - cautious
+  - code-generation
+  - daily-digest
+  - developer
+  - infrastructure-cost
+  - intermediate
+  - local-ai-tools
+  - local-deployment
+  - model-optimization
+  - neutral
+  - rag
+  - rag-effectiveness
+  - rag-implementation
+  - rag-pipeline
+  - resource-constraints
+mentions:
+  - name: Mike Ayles
+status: published
 ---
 
 A critical analysis from [Mike Ayles](https://www.mikeayles.com/blog/rag-coding-tools/) questions whether RAG actually delivers value for code generation tasks. As more developers build local coding assistants using tools like Ollama and Cursor, understanding RAG's actual effectiveness is crucial for architecture decisions.

@@ -3,12 +3,34 @@ title: "Bun v1.3.13"
 date: 2026-04-20
 description: "Latest release of the Bun JavaScript runtime includes improvements relevant to LLM inference serving and local deployment infrastructure."
 tags:
+  - bullish
+  - bun
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
   - infrastructure
+  - intermediate
+  - javascript-wrappers
+  - llm-inference-serving
+  - local-deployment
+  - local-inference-deployment
+  - memory-optimization
+  - news
   - open-source
+  - release
   - runtime
+  - runtime-performance
   - tooling
-status: draft
+mentions:
+  - name: Bun
+    role: developer
+  - name: Bun
+    role: software-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Bun continues to evolve as a high-performance JavaScript runtime, and v1.3.13 includes optimizations that benefit developers building LLM serving infrastructure and local deployment tooling. As JavaScript-based tools become increasingly popular for wrapping and serving local models, runtime performance improvements directly translate to better user experience.

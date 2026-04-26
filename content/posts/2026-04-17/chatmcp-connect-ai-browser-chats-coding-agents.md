@@ -3,12 +3,24 @@ title: "ChatMCP – Connect your AI browser chats to your coding agents"
 date: 2026-04-17
 description: "ChatMCP enables seamless integration between browser-based AI interactions and local coding agents through the Model Context Protocol. This tool bridges the gap between interactive AI sessions and autonomous agent workflows for developers running models locally."
 tags:
-  - daily-digest
-  - mcp
+  - advanced
+  - agent-orchestration
   - agents
-  - open-source
+  - ai-agent-integration
+  - bullish
+  - context-management
+  - daily-digest
+  - developer
+  - intermediate
   - local-inference
-status: draft
+  - local-llm-development
+  - mcp
+  - model-context-protocol
+  - multi-agent-systems
+  - offline-ai
+  - open-source
+  - showcase
+status: published
 ---
 
 ChatMCP represents an important development for developers integrating local LLMs into their development workflows. By connecting AI browser chats directly to coding agents, the tool enables a more fluid experience when running models on-device, allowing context and information gathered in interactive sessions to flow seamlessly into autonomous agent operations.

@@ -3,12 +3,29 @@ title: "Copilot Rate-Limiting Issues Highlight Cloud AI Service Limitations"
 date: 2026-04-14
 description: "Users report severe rate-limiting issues with Copilot Pro+, with some facing wait times exceeding 181 hours. These incidents underscore the reliability challenges of cloud-dependent AI services and the value proposition of local alternatives."
 tags:
-  - daily-digest
+  - analysis
+  - bullish
+  - cautious
+  - cloud-ai-limitations
   - cloud-limitations
-  - reliability
-  - rate-limiting
+  - cloud-service-limitations
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
   - local-advantages
-status: draft
+  - local-inference-benefits
+  - local-llm-adoption
+  - local-llm-deployment
+  - news
+  - performance-consistency
+  - rate-limiting
+  - reliability
+  - service-reliability
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Reports from GitHub community discussions show that [Copilot Pro+ users are facing extreme rate-limiting](https://github.com/orgs/community/discussions/180092), with some experiencing wait times exceeding 181 hours before regaining access to the service. Meanwhile, GitHub has announced new limits and the retirement of the Opus 4.6 Fast model from Copilot Pro, further constraining user access to capable AI assistance.

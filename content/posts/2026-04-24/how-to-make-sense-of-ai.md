@@ -3,11 +3,33 @@ title: "How to Make Sense of AI"
 date: 2026-04-24
 description: "CommonCog publishes a comprehensive guide to understanding AI systems, providing essential context for practitioners evaluating and deploying local LLMs effectively."
 tags:
-  - daily-digest
-  - education
+  - ai-evaluation
   - ai-fundamentals
+  - architecture-design
+  - bullish
+  - commoncog
+  - daily-digest
+  - deployment-pitfalls
   - deployment-strategy
-status: draft
+  - developer
+  - education
+  - enterprise
+  - hacker-news
+  - inference-optimization
+  - intermediate
+  - local-deployment
+  - local-llm-deployment
+  - model-optimization
+  - self-hosted-deployment
+  - tutorial
+mentions:
+  - name: CommonCog
+    role: publisher
+  - name: Hacker News
+    role: source
+  - name: Commoncog
+    role: publisher
+status: published
 ---
 
 CommonCog's guide to understanding AI provides valuable conceptual frameworks for practitioners navigating the rapidly evolving landscape of local LLM deployment. As the field matures, having clear mental models about how AI systems actually work becomes crucial for making sound decisions about which models to deploy, how to optimize them, and when local inference makes sense versus cloud alternatives.

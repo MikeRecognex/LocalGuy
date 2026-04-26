@@ -3,12 +3,32 @@ title: "Sorting 1M u64 KV-Pairs in 20ms on i9-13980HX Using Branchless Rust Impl
 date: 2026-04-18
 description: "A deep dive into extreme performance optimisation for in-memory operations using branchless Rust code, achieving sub-20ms throughput for million-element datasets. Directly applicable to KV-cache and token management in local LLM inference."
 tags:
+  - advanced
+  - analysis
+  - branch-prediction-avoidance
+  - branchless-algorithms
+  - bullish
+  - cache-optimization
+  - consumer-gpu
+  - cpu-gpu-synchronization
+  - cpu-only
   - daily-digest
+  - developer
+  - hacker-news
+  - inference-optimization
+  - inference-speed
+  - kv-cache-management
+  - latency-optimization
+  - memory-optimization
   - optimization
   - performance
-  - inference-speed
+  - performance-optimization
   - rust
-status: draft
+  - simd-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This post explores extreme low-level performance optimisation techniques in Rust, specifically demonstrating how branchless algorithms can achieve remarkable throughput for key-value operations. While the headline focuses on sorting, the underlying principles directly apply to KV-cache management, attention mechanisms, and token scheduling in local LLM inference systems.

@@ -3,12 +3,32 @@ title: "Qwen3 512k Context via TurboQuant on Mac mini"
 date: 2026-03-28
 description: "Qwen3 achieves 512k token context window using TurboQuant quantisation on Mac mini hardware, demonstrating significant advances in local long-context model deployment."
 tags:
-  - daily-digest
-  - quantisation
-  - hardware
+  - advanced
+  - apple-silicon
   - benchmark
+  - bullish
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-deployment
+  - hacker-news
+  - hardware
+  - intermediate
+  - long-context-llms
+  - long-context-window
+  - model-quantisation
+  - model-quantization
+  - on-device-inference
   - open-source
-status: draft
+  - privacy-preserving-ai
+  - quantisation
+  - showcase
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 A major breakthrough for local LLM deployment: Qwen3 is now running with a 512k token context window on Mac mini hardware using TurboQuant quantisation. This represents a significant leap forward for on-device inference, enabling local models to handle extremely long documents, codebases, and conversations without relying on cloud infrastructure.

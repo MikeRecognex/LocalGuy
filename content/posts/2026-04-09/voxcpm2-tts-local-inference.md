@@ -3,12 +3,27 @@ title: "VoxCPM2: New Open-Source TTS Model with Voice Cloning and Design"
 date: 2026-04-09
 description: "VoxCPM2 enables local text-to-speech inference with three modes: voice design, controllable cloning, and ultimate cloning. The model supports sophisticated voice manipulation on consumer hardware."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - open-source
-  - tts
-  - new-model
+  - developer
   - inference
-status: draft
+  - intermediate
+  - local-deployment
+  - local-tts-inference
+  - new-model
+  - open-source
+  - open-source-model
+  - privacy-compliance
+  - release
+  - showcase
+  - tts
+  - voice-cloning
+  - voice-design
+  - voice-preservation
+  - voice-synthesis
+  - voxcpm2-model
+status: published
 ---
 
 VoxCPM2 expands the local LLM ecosystem beyond text generation to speech synthesis with three distinct operational modes: voice design for creating entirely new voices, controllable cloning with optional style guidance, and ultimate cloning that reproduces granular vocal nuances through audio continuation. This moves sophisticated speech generation capabilities into the realm of self-hosted inference.

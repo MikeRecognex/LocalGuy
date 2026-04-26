@@ -3,12 +3,33 @@ title: "Google's Gemma 4 Brings Powerful On-Device AI to Android and iOS"
 date: 2026-04-08
 description: "Google has released Gemma 4, optimized for local deployment on smartphones and laptops, making it easier than ever to run capable models directly on-device without cloud dependencies. The model powers new applications like Google's AI Edge Eloquent dictation app, demonstrating practical privacy-preserving inference on mobile platforms."
 tags:
+  - bullish
+  - consumer-gpu
+  - consumer-hardware
   - daily-digest
-  - gemma
-  - mobile-deployment
+  - data-privacy
+  - developer
+  - ease-of-deployment
+  - edge-ai
+  - edge-device
   - edge-inference
+  - gemma
+  - gemma-4
+  - intermediate
+  - local-deployment
+  - mobile-deployment
+  - offline-inference
+  - on-device-ai
   - open-source
-status: draft
+  - phandroid
+  - release
+  - resource-optimization
+  - showcase
+  - speech-to-text
+mentions:
+  - name: Phandroid
+    role: publisher
+status: published
 ---
 
 Google has officially released Gemma 4, a model specifically engineered for efficient on-device inference across mobile and desktop platforms. This release represents a significant milestone for local LLM deployment, as Gemma 4 is small enough to run on smartphones while maintaining competitive performance for real-world tasks.

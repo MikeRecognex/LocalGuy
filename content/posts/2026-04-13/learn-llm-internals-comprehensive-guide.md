@@ -3,12 +3,30 @@ title: "Learn LLM Internals"
 date: 2026-04-13
 description: "A comprehensive GitHub repository documenting the internal mechanics of large language models, providing developers with deep knowledge necessary for optimizing local deployments. Essential reference material for understanding how to tune and optimize models running on limited hardware."
 tags:
+  - advanced
+  - attention-mechanisms
+  - bullish
+  - context-management
   - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
   - education
+  - fundamentals
+  - hacker-news
+  - llm-internals
+  - local-deployment-optimization
+  - model-optimization
   - open-source
   - optimization
-  - fundamentals
-status: draft
+  - quantization
+  - tokenization
+  - transformer-architecture
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Understanding LLM internals has become essential knowledge for practitioners deploying models locally, where hardware constraints demand optimization at every level. [This comprehensive learning resource](https://github.com/amitshekhariitbhu/llm-internals) provides detailed documentation of how language models work internally, from tokenization and embedding mechanisms through attention mechanisms and decoding strategies. This knowledge directly translates to better decisions about quantization, batching, and memory management in local deployments.

@@ -3,11 +3,32 @@ title: "Show HN: A Karpathy-Style LLM Wiki Your Agents Maintain"
 date: 2026-04-25
 description: "A project enabling local LLM agents to collaboratively build and maintain knowledge bases using Markdown and Git, inspired by Karpathy's approach to AI-assisted knowledge management."
 tags:
-  - daily-digest
+  - advanced
+  - agent-knowledge-base
+  - agent-memory-management
+  - agent-orchestration
   - agents
+  - analysis
+  - bullish
+  - daily-digest
+  - developer
+  - developer-tool-integration
+  - git-storage
+  - hacker-news
+  - intermediate
+  - knowledge-representation
+  - local-llm-scaling
   - memory-optimization
+  - multi-agent-systems
+  - on-device-privacy
   - open-source
-status: draft
+  - showcase
+  - version-control
+mentions:
+  - name: Andrej Karpathy
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This innovative project demonstrates how local LLM agents can be designed to collaboratively build and maintain structured knowledge bases using familiar developer tools like Markdown and Git. The approach draws inspiration from Andrej Karpathy's insights about AI-assisted knowledge management, making it accessible to teams already familiar with version control workflows.

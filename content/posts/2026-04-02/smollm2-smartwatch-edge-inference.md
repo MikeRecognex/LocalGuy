@@ -3,12 +3,23 @@ title: "SmolLM2-360M Running on Samsung Galaxy Watch 4 with 74% Memory Reduction
 date: 2026-04-02
 description: "Developer optimizes llama.cpp to run language models on smartwatches, achieving 74% RAM reduction through memory model improvements and reducing peak usage from 524MB to practical levels."
 tags:
+  - advanced
+  - bullish
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - llama.cpp
+  - llama-cpp-optimization
+  - llamacpp
+  - memory-constrained-devices
+  - memory-management
   - memory-optimization
   - mobile
-status: draft
+  - model-optimization
+  - showcase
+  - tensor-allocation
+status: published
 ---
 
 [A developer successfully deployed SmolLM2-360M on a Samsung Galaxy Watch 4 with only 380MB of available RAM](https://www.reddit.com/r/LocalLLaMA/comments/1sabiux/running_smollm2360m_on_a_samsung_galaxy_watch_4/), achieving a 74% reduction in peak memory usage through careful optimization of llama.cpp's memory model. The key breakthrough involved eliminating duplicate in-memory copies of model weights caused by mmap page cache and tensor allocation conflicts.

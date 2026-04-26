@@ -3,11 +3,33 @@ title: "git11 Is an AI Workspace for GitHub Engineering Teams"
 date: 2026-04-02
 description: "git11 integrates local and cloud-based AI capabilities directly into GitHub workflows, allowing engineering teams to deploy and manage LLM-powered development tools within their existing version control infrastructure."
 tags:
+  - ai-for-software-development
+  - analysis
+  - bullish
   - daily-digest
   - deployment-tools
-  - workflow-integration
+  - developer
+  - git11
+  - github-integration
+  - github-workflow-integration
+  - hacker-news
+  - hybrid-ai-deployment
+  - intermediate
+  - llm-development-tools
+  - local-llm-deployment
+  - on-device-inference
+  - on-device-inference-control
   - open-source
-status: draft
+  - showcase
+  - workflow-integration
+mentions:
+  - name: git11
+    role: company
+  - name: Hacker News
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Development teams are increasingly looking for ways to integrate AI capabilities directly into their existing workflows. [git11](https://news.ycombinator.com/item?id=47611894) presents an interesting approach by creating a unified AI workspace that sits atop GitHub, enabling engineering teams to leverage local and cloud LLM capabilities without leaving their version control and collaboration environment.

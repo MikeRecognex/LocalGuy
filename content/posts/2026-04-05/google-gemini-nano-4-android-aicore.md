@@ -3,12 +3,31 @@ title: "Google Previews Gemini Nano 4 for Android AICore with On-Device Capabili
 date: 2026-04-05
 description: "Google has unveiled Gemini Nano 4, optimised for Android's new AICore framework, enabling efficient on-device inference across a range of Android devices. The preview demonstrates Google's commitment to bringing state-of-the-art LLM capabilities to mobile edge deployment."
 tags:
-  - daily-digest
-  - gemini
-  - mobile
-  - edge-inference
   - android
-status: draft
+  - android-framework
+  - bullish
+  - consumer-mobile-soc
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - gemini
+  - hardware-abstraction
+  - intermediate
+  - llm-model
+  - local-llm-deployment
+  - mobile
+  - mobile-ai-applications
+  - news
+  - on-device-ai
+  - privacy-preserving-ai
+  - release
+  - winbuzzer
+mentions:
+  - name: WinBuzzer
+    role: publisher
+status: published
 ---
 
 Google's preview of Gemini Nano 4 represents a strategic push toward democratising on-device AI inference on Android platforms. The model is specifically architected for AICore, Android's unified framework for local inference, enabling developers to deploy responsive AI features without cloud dependencies or network latency.

@@ -3,12 +3,30 @@ title: "Linux Significantly Outperforms Windows for Local LLM Inference"
 date: 2026-03-29
 description: "A detailed comparison shows inference running substantially faster on Linux versus Windows on identical hardware, with implications for local deployment optimization."
 tags:
+  - bullish
+  - comparison
   - daily-digest
-  - performance
-  - linux
+  - datacenter-gpu
+  - developer
+  - inference-optimization
+  - inference-speed
   - infrastructure
+  - intermediate
+  - linux
+  - linux-deployment
+  - local-deployment-optimization
+  - operating-system-performance
+  - opinion
   - optimization
-status: draft
+  - os-optimization
+  - performance
+  - performance-tuning
+  - reddit
+  - system-optimization
+mentions:
+  - name: reddit
+    role: source
+status: published
 ---
 
 A direct performance comparison on identical hardware—64GB DDR4, RTX 8000 48GB, and Core i9 9900K—demonstrates [substantial inference speed advantages on Linux versus Windows](https://www.reddit.com/r/LocalLLaMA/comments/1s6hb1h/friendly_reminder_inference_is_way_faster_on/). The user reinstalled their setup with Windows 10 and compared results using the latest Ollama build, revealing significant performance deltas between the two operating systems.

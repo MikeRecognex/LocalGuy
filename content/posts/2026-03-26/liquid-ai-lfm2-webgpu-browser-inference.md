@@ -3,12 +3,30 @@ title: "Liquid AI's LFM2-24B Achieves 50 Tokens/Second in Web Browser via WebGPU
 date: 2026-03-26
 description: "Liquid AI has demonstrated their LFM2-24B mixture-of-experts model running at 50 tokens/second in a web browser on M4 Max hardware using WebGPU. The 8B variant achieves over 100 tokens/second, showcasing practical edge inference in browser environments."
 tags:
+  - apple-silicon
+  - browser-based-inference
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - moe
-  - webgpu
+  - developer
   - edge-inference
+  - edge-llm-deployment
+  - inference-speed
+  - intermediate
+  - liquid-ai
+  - moe
+  - moe-models
+  - news
+  - open-source-ai
   - performance
-status: draft
+  - showcase
+  - web-browser-inference
+  - webgpu
+  - webgpu-acceleration
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 Liquid AI has achieved a significant milestone with [LFM2-24B running in web browsers](https://v.redd.it/9wsr6hcw29rg1) via WebGPU, delivering 50 tokens/second on M4 Max hardware. The mixture-of-experts architecture with 24B total parameters and only 2B active parameters demonstrates how modern model designs can achieve fast inference on consumer devices. The 8B variant pushes even further, exceeding 100 tokens/second, making real-time interaction feasible entirely in-browser.

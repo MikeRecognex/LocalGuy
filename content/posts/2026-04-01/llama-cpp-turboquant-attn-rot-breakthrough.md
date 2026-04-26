@@ -3,12 +3,26 @@ title: "Llama.cpp Merging TurboQuant Lite (attn-rot) with Major Performance Gain
 date: 2026-04-01
 description: "ggerganov's TurboQuant lite (attn-rot) quantisation method is on the verge of being merged into llama.cpp, showing significant improvements in KL-divergence and inference quality. Benchmarks on Qwen3.5-35B demonstrate superior performance across multiple quantisation levels, promising faster and more accurate local inference."
 tags:
-  - daily-digest
-  - llama-cpp
-  - quantisation
-  - inference-speed
+  - advanced
   - benchmark
-status: draft
+  - bullish
+  - daily-digest
+  - developer
+  - gguf-format
+  - inference-quality
+  - inference-speed
+  - infrastructure-optimization
+  - intermediate
+  - llama-cpp
+  - memory-optimization
+  - model-quantization
+  - news
+  - quantisation
+  - release
+mentions:
+  - name: ggerganov
+    handle: "@ggerganov"
+status: published
 ---
 
 A major quantisation breakthrough is imminent in llama.cpp, with ggerganov's TurboQuant lite (attn-rot) method approaching merge status. The technique shows measurably superior performance compared to existing quantisation strategies, particularly in maintaining output quality across different KV quantisation levels.

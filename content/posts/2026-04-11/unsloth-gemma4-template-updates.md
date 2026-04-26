@@ -3,12 +3,31 @@ title: "Critical Unsloth Gemma-4 Chat Template Updates for Tool Calling"
 date: 2026-04-11
 description: "Unsloth has released updated Gemma-4 quantizations with corrected chat templates and reasoning budget fixes from Google, requiring users to redownload for proper tool calling functionality."
 tags:
+  - agentic-workflows
+  - bullish
+  - chat-templates
   - daily-digest
-  - llama-cpp
+  - developer
+  - framework-compatibility
   - gemma
+  - intermediate
+  - llama-cpp
+  - local-deployment
+  - model-updates
+  - news
   - quantisation
+  - reasoning-budget
+  - release
+  - rlocalllama
+  - tool-calling
   - tools
-status: draft
+  - unsloth
+mentions:
+  - name: Unsloth
+    role: developer
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 Unsloth has released critical updates to all Gemma-4 quantized model uploads, incorporating new chat templates from Google that fix tool-calling capabilities and reasoning budget constraints. The updates address template inconsistencies that were limiting the models' ability to properly invoke external tools and manage reasoning token allocation.

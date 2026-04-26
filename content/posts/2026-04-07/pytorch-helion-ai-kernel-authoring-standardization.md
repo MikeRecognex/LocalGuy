@@ -3,12 +3,35 @@ title: "PyTorch Foundation Welcomes Helion as a Foundation-Hosted Project to Sta
 date: 2026-04-07
 description: "The PyTorch Foundation has incorporated Helion as a hosted project, advancing standardized kernel development for open, portable AI inference. This initiative improves the foundation for optimizing local model deployment across diverse hardware."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - pytorch
+  - developer
+  - edge-ai
+  - edge-device
+  - hardware
+  - hardware-compatibility
+  - helion
+  - inference-optimization
+  - intermediate
+  - kernel-development
+  - kernel-standardization
+  - local-deployment-optimization
+  - news
   - open-source
   - optimization
-  - hardware
-status: draft
+  - portable-ai
+  - pytorch
+  - pytorch-ecosystem
+  - pytorch-foundation
+mentions:
+  - name: PyTorch Foundation
+    role: host
+  - name: Helion
+    role: project
+  - name: PyTorch Foundation
+    role: backer
+status: published
 ---
 
 Helion's integration into the PyTorch Foundation represents important infrastructure work for the local LLM ecosystem. By standardizing kernel authoring, the project aims to make it easier to write portable, performant inference code that works across different hardware platforms without duplication of effort. This addresses a persistent pain point: optimizing models for diverse hardware (NVIDIA, AMD, Intel, ARM) currently requires significant redundant engineering.

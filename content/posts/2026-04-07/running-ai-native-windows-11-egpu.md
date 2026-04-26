@@ -3,12 +3,30 @@ title: "Running AI Natively on Windows 11 Using an eGPU"
 date: 2026-04-07
 description: "A technical guide demonstrates how to leverage external GPUs for local AI inference on Windows 11, providing affordable hardware acceleration for on-device model deployment. The approach expands options for practitioners with limited built-in GPU resources."
 tags:
+  - accessibility
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - hardware
+  - developer
+  - egpu-deployment
+  - egpu-inference
   - gpu
-  - windows
+  - hardware
+  - hardware-acceleration
   - inference-optimization
-status: draft
+  - intermediate
+  - local-inference
+  - on-device-deployment
+  - tutorial
+  - virtualization-review
+  - windows
+  - windows-native-ai
+mentions:
+  - name: Virtualization Review
+    role: publisher
+status: published
 ---
 
 Running AI models natively on Windows 11 using external GPUs addresses a practical constraint for many local LLM practitioners: limited built-in compute resources. eGPUs provide an affordable way to add significant inference capability to existing systems without replacing hardware, making local deployment more accessible.

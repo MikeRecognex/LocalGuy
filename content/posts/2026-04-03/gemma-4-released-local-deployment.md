@@ -3,12 +3,33 @@ title: "Google Gemma 4 Released with GGUF Quantizations"
 date: 2026-04-03
 description: "Google has released Gemma 4 with multiple model sizes (26B, 31B variants) already quantized in GGUF format by Unsloth, enabling immediate local deployment on consumer hardware."
 tags:
+  - apple-silicon
+  - bullish
+  - chain-of-thought-reasoning
+  - consumer-gpu
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - gemma
-  - quantisation
+  - gguf-quantization
+  - inference-speed
+  - intermediate
   - llama-cpp
+  - local-deployment
+  - local-llms
+  - model-competition
+  - model-quantization
   - model-release
-status: draft
+  - quantisation
+  - release
+  - self-hosted-deployment
+  - unsloth
+  - vram-optimization
+mentions:
+  - name: Unsloth
+    role: quantization provider
+status: published
 ---
 
 Google's new Gemma 4 model has arrived with immediate community support for local deployment. The [Unsloth quantizations](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) provide GGUF-format variants optimized for llama.cpp inference, making the 26B and 31B models accessible on mid-range consumer hardware.

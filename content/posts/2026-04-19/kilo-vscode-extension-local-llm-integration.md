@@ -3,12 +3,29 @@ title: "Kilo is the VS Code Extension That Actually Works with Every Local LLM"
 date: 2026-04-19
 description: "A new VS Code extension called Kilo promises seamless integration with any local LLM, addressing a long-standing pain point in the developer workflow for on-device AI assistance."
 tags:
+  - analysis
+  - bullish
   - daily-digest
+  - developer
+  - developer-experience
+  - developer-tooling
+  - developer-tools
+  - enterprise
+  - infrastructure-simplification
+  - intermediate
+  - local-llm-ecosystem-growth
+  - local-llm-integration
+  - local-model-deployment
+  - msn
+  - ollama
+  - showcase
   - tooling
   - vs-code
-  - developer-tools
-  - ollama
-status: draft
+  - vs-code-extension
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Kilo emerges as a practical solution to a recurring frustration in the local LLM space: the lack of universal tooling that works reliably across different inference engines and models. This VS Code extension claims compatibility with any local LLM setup, whether powered by Ollama, llama.cpp, or other backends, simplifying the developer experience significantly.

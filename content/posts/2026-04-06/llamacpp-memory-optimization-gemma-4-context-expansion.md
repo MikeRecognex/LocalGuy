@@ -3,12 +3,31 @@ title: "Context Window Optimization: Extending Gemma 4 Context Length Through Ef
 date: 2026-04-06
 description: "Community members discover that quantizing vision projections to Q8 format in Gemma 4 multimodal models eliminates quality degradation while enabling 30K additional context tokens without VRAM increase."
 tags:
-  - daily-digest
-  - memory-optimization
-  - llama-cpp
-  - quantisation
+  - advanced
+  - analysis
+  - bullish
+  - consumer-gpu
+  - context-length-extension
   - context-window
-status: draft
+  - context-window-extension
+  - context-window-optimization
+  - daily-digest
+  - developer
+  - inference-optimization
+  - llama-cpp
+  - memory-optimization
+  - model-quantization
+  - multimodal-ai
+  - news
+  - quantisation
+  - quantization-techniques
+  - rlocalllama
+  - selective-quantization
+  - vram-optimization
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 A practical optimization discovery in the local LLM community shows how targeted quantization of model components can yield significant context window improvements. [Testing revealed that using Q8_0 quantization for vision projections (mmproj) instead of F16 precision](https://www.reddit.com/r/LocalLLaMA/comments/1sdst2i/get_30k_more_context_using_q8_mmproj_with_gemma_4/) enables approximately 30,000 additional context tokens with zero quality degradation and even modest performance improvements in certain scenarios.

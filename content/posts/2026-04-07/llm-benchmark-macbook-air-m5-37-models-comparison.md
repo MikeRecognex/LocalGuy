@@ -3,12 +3,27 @@ title: "Comprehensive Benchmark: 37 LLMs Tested on MacBook Air M5 With Open-Sour
 date: 2026-04-07
 description: "A detailed benchmark study evaluating 37 language models across 10 families on Apple's M5 MacBook Air, complete with open-source benchmarking tool for community replication and testing on Mac hardware."
 tags:
-  - daily-digest
-  - benchmark
-  - hardware
-  - mlx
   - apple-silicon
-status: draft
+  - apple-silicon-performance
+  - benchmark
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - developer
+  - hardware
+  - intermediate
+  - llm-benchmarking
+  - macbook-deployment
+  - mlx
+  - model-benchmarking
+  - model-quantization
+  - open-source-tools
+  - performance-data-gap
+  - rlocalllama
+mentions:
+  - name: r/LocalLLaMA
+    role: community
+status: published
 ---
 
 [This comprehensive benchmark study](https://www.reddit.com/r/LocalLLaMA/comments/1se81a5/i_benchmarked_37_llms_on_macbook_air_m5_32gb_full/) fills a critical information gap for Mac users evaluating local LLM options. Testing 37 models across 10 different families on an M5 MacBook Air (32GB, 10-core configuration) with consistent Q4_K_M quantization provides invaluable real-world data. The researcher went beyond single-model testing to build a reproducible benchmarking framework that the community can use for their own hardware evaluation.

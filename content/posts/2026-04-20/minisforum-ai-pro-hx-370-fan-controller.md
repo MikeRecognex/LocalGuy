@@ -3,12 +3,35 @@ title: "Controlling the Secondary Fan on Minisforum AI Pro HX 370"
 date: 2026-04-20
 description: "A technical deep-dive into optimizing thermal management on the Minisforum AI Pro HX 370 mini-PC, addressing cooling challenges for sustained local LLM inference workloads."
 tags:
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
-  - hardware
-  - thermal-management
+  - developer
+  - edge-device
+  - edge-device-deployment
   - edge-devices
+  - fan-control
+  - hacker-news
+  - hardware
+  - hardware-optimization
+  - local-llm-inference
+  - mini-pc
+  - minipcthinker
+  - minisforum
   - optimization
-status: draft
+  - thermal-management
+  - thermal-optimization
+  - thermal-throttling
+  - tutorial
+mentions:
+  - name: Minisforum
+    role: manufacturer
+  - name: Hacker News
+    role: publisher
+  - name: MiniPcThinker
+    role: author
+status: published
 ---
 
 Thermal management is a critical but often overlooked aspect of local LLM deployment, especially on compact hardware like the Minisforum AI Pro HX 370. This investigation details how to control the secondary fan on this popular AI-focused mini-PC, providing practitioners with concrete solutions for maintaining stable performance during extended inference sessions.

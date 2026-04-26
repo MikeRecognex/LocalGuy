@@ -3,12 +3,39 @@ title: "OpenNebula 7.2 \"Dark Horse\" Released with Enhanced Infrastructure Supp
 date: 2026-04-14
 description: "OpenNebula 7.2 has been released, offering improved capabilities for managing distributed computing infrastructure. The update is relevant for practitioners deploying local LLMs across multiple machines or edge nodes."
 tags:
+  - advanced
+  - bullish
+  - containerized-inference
   - daily-digest
-  - infrastructure
+  - data-sovereignty
+  - distributed-computing
   - distributed-deployment
-  - opennebula
+  - distributed-inference
+  - edge-ai
   - edge-computing
-status: draft
+  - edge-device
+  - enterprise
+  - enterprise-llm-deployment
+  - hacker-news
+  - hybrid-cloud
+  - inference-clusters
+  - infrastructure
+  - infrastructure-orchestration
+  - intermediate
+  - llm-deployment
+  - opennebula
+  - opennebula-platform
+  - release
+  - resource-optimization
+  - self-hosted-ai
+mentions:
+  - name: OpenNebula
+    role: developer
+  - name: OpenNebula
+    role: platform provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [OpenNebula 7.2 "Dark Horse"](https://opennebula.io/blog/announcements/opennebula-7-2-released/) has been released, bringing enhancements to distributed infrastructure management that are particularly relevant for practitioners deploying local LLMs across multiple nodes or edge environments. OpenNebula provides a lightweight, open-source platform for managing virtualized and containerized workloads across hybrid cloud and edge infrastructure.

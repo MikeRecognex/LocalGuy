@@ -3,12 +3,28 @@ title: "NVIDIA Releases GPT-OSS-Puzzle-88B, a Deployment-Optimized Model"
 date: 2026-03-26
 description: "NVIDIA has released gpt-oss-puzzle-88B, a compressed version of OpenAI's 120B model using their Puzzle neural architecture search framework. The model is specifically optimized for efficient local deployment while maintaining competitive performance."
 tags:
+  - advanced
+  - architecture-optimization
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - intermediate
+  - local-inference
+  - model-compression
+  - model-deployment
   - model-release
-  - quantisation
-  - optimization
+  - neural-architecture-search
   - open-source
-status: draft
+  - optimization
+  - quantisation
+  - release
+  - resource-efficiency
+  - resource-optimization
+  - showcase
+status: published
 ---
 
 NVIDIA has unveiled [gpt-oss-puzzle-88B](https://huggingface.co/nvidia/gpt-oss-puzzle-88B), a deployment-optimized large language model derived from OpenAI's gpt-oss-120b. Using Puzzle, NVIDIA's post-training neural architecture search (NAS) framework, this model achieves significant size reduction while maintaining performance—a critical breakthrough for local deployment scenarios where memory and compute resources are constrained.

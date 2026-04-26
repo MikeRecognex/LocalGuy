@@ -3,12 +3,29 @@ title: "MiniMax M2.7 Is Now Open Source"
 date: 2026-04-12
 description: "MiniMax releases M2.7, an agentic model now available as open source, expanding options for local deployment of capable reasoning models without cloud dependencies."
 tags:
-  - daily-digest
-  - open-source
-  - model-release
+  - agentic-ai
   - agents
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - hacker-news
+  - inference-frameworks
+  - intermediate
+  - local-deployment
+  - model-optimization
+  - model-release
+  - multi-step-reasoning
+  - open-source
+  - open-source-ai
+  - quantization
+  - reasoning-models
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 MiniMax has released M2.7 as an open-source model, marking a significant milestone for the local LLM community. This agentic model is designed to handle complex reasoning tasks, making it a valuable addition to practitioners looking to deploy capable reasoning systems on local hardware without relying on cloud APIs.

@@ -3,12 +3,33 @@ title: "ByteShape Releases Qwen 3.5 9B Quantisations with Hardware-Matched Tunin
 date: 2026-04-01
 description: "ByteShape has released optimised GGUF quantisations of Qwen 3.5 9B with a comprehensive guide for selecting the best quantisation level for specific hardware. The resource includes comparative benchmarks against other popular quantisation approaches, enabling practitioners to make informed deployment decisions."
 tags:
+  - bullish
+  - byteshape
+  - comparison
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - developer
   - gguf
-  - qwen
   - hardware
-status: draft
+  - hardware-optimization
+  - intermediate
+  - kv-quantization
+  - local-inference
+  - local-llm-deployment
+  - model-optimization
+  - model-quantisation
+  - quantisation
+  - quantisation-benchmarking
+  - quantization-comparison
+  - qwen
+  - release
+  - speed-accuracy-tradeoffs
+mentions:
+  - name: ByteShape
+    role: developer
+  - name: ByteShape
+    role: developer
+status: published
 ---
 
 ByteShape has published a comprehensive set of GGUF quantisations for Qwen 3.5 9B, moving beyond simple file releases to provide practical guidance on quantisation selection. Their approach benchmarks multiple quantisation strategies against real hardware, enabling developers to match quantisation levels to their specific inference infrastructure.

@@ -3,12 +3,31 @@ title: "AIYO Wisper: Local Voice-to-Text for macOS Using WhisperKit"
 date: 2026-04-11
 description: "A new open-source macOS application brings Whisper-based speech recognition to Apple Silicon without cloud dependencies. AIYO Wisper demonstrates practical local inference for voice-to-text workflows on consumer hardware."
 tags:
-  - daily-digest
-  - whisper
-  - macos
   - apple-silicon
+  - apple-silicon-optimization
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - data-privacy
+  - developer
+  - domain-specific-ai
+  - hacker-news
+  - inference-libraries
+  - intermediate
+  - local-speech-recognition
+  - macos
+  - neural-engine-acceleration
+  - offline-inference
   - open-source
-status: draft
+  - open-source-ai
+  - production-tools
+  - showcase
+  - whisper
+  - whisper-model
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [AIYO Wisper](https://github.com/Aiyo28/aiyo-wisper) is a lightweight, open-source speech recognition application for macOS that leverages WhisperKit to enable local voice-to-text processing on Apple Silicon. This project eliminates the need for cloud-based transcription services, keeping audio data private and enabling offline functionality.

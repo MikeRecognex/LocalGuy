@@ -3,12 +3,31 @@ title: "Mano-P: Open-Source On-Device GUI Agent, #1 on OSWorld Benchmark"
 date: 2026-04-09
 description: "Mano-P, an open-source GUI agent optimized for local deployment, achieved top performance on the OSWorld benchmark, demonstrating state-of-the-art capabilities for on-device automation tasks."
 tags:
-  - daily-digest
   - agents
-  - open-source
   - benchmark
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - data-sovereignty
+  - developer
+  - enterprise
+  - gui-agent
   - gui-automation
-status: draft
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - on-device-agent-deployment
+  - on-device-automation
+  - open-source
+  - osworld-benchmark
+  - privacy-preserving
+  - self-hosted-ai
+  - ui-automation
+  - workflow-automation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 GUI agents represent an emerging category of locally-deployable AI systems that interact with computers by interpreting screens and controlling interfaces. Mano-P's top ranking on the OSWorld benchmark is significant because it proves that open-source, self-hosted models can compete with or exceed proprietary cloud-based solutions for practical automation tasks.

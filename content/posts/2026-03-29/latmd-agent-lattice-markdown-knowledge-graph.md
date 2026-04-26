@@ -3,12 +3,32 @@ title: "Lat.md: Agent Lattice – A Knowledge Graph for Your Codebase in Markdow
 date: 2026-03-29
 description: "A new tool that builds structured knowledge graphs from codebases in Markdown format, enabling better context management and retrieval for AI agents operating on local codebases."
 tags:
-  - daily-digest
+  - advanced
+  - agent-context-management
   - agents
+  - bullish
+  - daily-digest
+  - developer
+  - github
+  - hacker-news
+  - hallucination-reduction
+  - intermediate
   - knowledge-graph
-  - tooling
+  - knowledge-graphs
+  - local-agent-deployment
+  - local-llm-agents
+  - open-source-ai
   - rag
-status: draft
+  - rag-pipeline
+  - showcase
+  - software-development-agents
+  - tooling
+mentions:
+  - name: GitHub
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Lat.md introduces a practical approach to the critical problem of providing local LLM agents with effective codebase context. By converting complex codebases into structured Markdown-based knowledge graphs, the tool enables more intelligent code understanding, navigation, and manipulation. This is particularly valuable for agents tasked with code generation, refactoring, or debugging—they can now access a semantically-organized representation of the codebase rather than relying on raw file parsing.

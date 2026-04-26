@@ -3,11 +3,31 @@ title: "75% of US Health Systems Are Using AI. Only 18% of That Deployment Is Go
 date: 2026-04-26
 description: "A critical governance gap emerges in healthcare AI deployments, with most systems lacking proper oversight frameworks. This highlights essential requirements for practitioners deploying local LLMs in regulated industries like healthcare."
 tags:
+  - ai-governance
+  - analysis
+  - cautious
   - daily-digest
   - deployment
+  - edge-ai-deployment
+  - edge-device
+  - enterprise
   - governance
+  - hacker-news
   - healthcare
-status: draft
+  - healthcare-ai
+  - intermediate
+  - local-llm-deployment
+  - model-governance
+  - neutral
+  - organizational-maturity
+  - regulatory-compliance
+  - wednesday
+mentions:
+  - name: Wednesday
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Governance and compliance are increasingly critical concerns for local LLM deployments in regulated sectors. [The Enterprise Mobile AI Report for 2026](https://mobile.wednesday.is/the-enterprise-mobile-ai-report-2026) reveals a significant gap: while 75% of US health systems have deployed AI systems, only 18% maintain proper governance frameworks for those deployments.

@@ -3,12 +3,36 @@ title: "Show HN: We built an OCR server that can process 270 dense images/s on a
 date: 2026-04-23
 description: "A high-performance OCR inference server achieving 270 dense images per second on a single GPU, demonstrating practical edge inference optimization techniques."
 tags:
+  - advanced
+  - aiptimizer
+  - analysis
+  - architectural-patterns
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - inference-optimization
-  - performance
+  - datacenter-gpu
+  - developer
+  - edge-inference-optimization
+  - hacker-news
   - hardware
+  - high-performance-inference
+  - inference-optimization
+  - inference-speed
+  - inference-throughput
+  - model-optimization
+  - multimodal-ai
   - ocr
-status: draft
+  - optical-character-recognition
+  - performance
+  - production-deployment
+  - showcase
+  - vision-language-models
+mentions:
+  - name: aiptimizer
+    role: project-owner
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 TurboOCR represents a significant breakthrough in local inference performance, achieving 270 dense images per second on a single RTX 5090 GPU. This demonstrates that with proper optimization techniques, local deployment can handle production-grade throughput requirements that rival or exceed cloud-based alternatives.

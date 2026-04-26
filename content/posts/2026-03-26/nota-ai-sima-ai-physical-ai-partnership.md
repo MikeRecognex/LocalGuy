@@ -3,12 +3,44 @@ title: "Nota AI and SiMa.ai Partner on Physical AI Technology for Local Deployme
 date: 2026-03-26
 description: "Strategic partnership between Nota AI and SiMa.ai aims to advance physical AI and on-device inference, combining model compression with hardware optimization."
 tags:
+  - ai-partnerships
+  - analysis
+  - bullish
+  - custom-asic
   - daily-digest
-  - optimization
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - hardware-optimization
   - hardware-software-codesign
+  - inference-hardware
+  - integrated-ai-solutions
+  - intermediate
+  - model-compression
+  - news
+  - nota
+  - nota-ai
+  - on-device-inference
+  - optimization
+  - physical-ai
+  - production-deployment
   - robotics
-status: draft
+  - sima
+  - simaai
+  - taiwan-news
+mentions:
+  - name: Nota AI
+    role: partner
+  - name: SiMa.ai
+    role: partner
+  - name: Taiwan News
+    role: publisher
+  - name: Nota
+    role: partner
+  - name: SiMa
+    role: partner
+status: published
 ---
 
 [The collaboration between Nota AI and SiMa.ai](https://www.taiwannews.com.tw) represents an important trend: specialized companies focusing on the hardware-software intersection for edge AI are consolidating and deepening their offerings. Nota AI's expertise in model optimization and SiMa.ai's physical AI inference processors create a natural partnership for practitioners deploying LLMs in robotics, autonomous systems, and real-time edge applications.

@@ -3,12 +3,36 @@ title: "Bonsai 1-Bit Models Deliver Exceptional Local Inference Performance"
 date: 2026-04-02
 description: "PrismML's Bonsai 1-bit quantization achieves 14x size reduction while maintaining quality, enabling previously impossible deployments on resource-constrained local hardware."
 tags:
-  - daily-digest
-  - quantization
-  - bonsai
-  - hardware-optimization
+  - 1-bit-quantization
+  - analysis
+  - anythingllm
   - benchmark
-status: draft
+  - bonsai
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - hardware-optimization
+  - inference-optimization
+  - intermediate
+  - local-inference
+  - model-compression
+  - model-quantization
+  - prismml
+  - quantization
+  - release
+  - resource-optimization
+  - vram-optimization
+mentions:
+  - name: Tim
+    role: tester
+  - name: PrismML
+    role: developer
+  - name: AnythingLLM
+    role: reviewer
+status: published
 ---
 
 [PrismML's Bonsai 1-bit models represent a major breakthrough in quantization technology](https://prismml.com/news/bonsai-8b), achieving 14x size reduction compared to standard models while maintaining competitive quality. This development is particularly significant for local LLM deployment, as it enables models to run on hardware previously considered inadequate for LLM inference.

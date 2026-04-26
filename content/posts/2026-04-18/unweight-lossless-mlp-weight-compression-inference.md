@@ -3,12 +3,25 @@ title: "Unweight: Lossless MLP Weight Compression for LLM Inference"
 date: 2026-04-18
 description: "Cloudflare Research presents a new lossless weight compression technique for MLP layers in language models, enabling faster inference and reduced memory footprint without quality degradation. A breakthrough for memory-constrained local deployments."
 tags:
-  - daily-digest
-  - quantisation
-  - memory-optimization
-  - inference-speed
+  - advanced
+  - analysis
+  - bullish
   - compression
-status: draft
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - framework-integration
+  - inference-speed
+  - llm-inference
+  - lossless-compression
+  - memory-bandwidth
+  - memory-optimization
+  - model-architecture
+  - model-benchmarking
+  - model-compression
+  - quantisation
+status: published
 ---
 
 Unweight introduces a novel lossless compression technique specifically targeting MLP (Multi-Layer Perceptron) weights in transformer-based language models. Unlike quantisation approaches that trade precision for size, this method achieves compression without information loss, meaning inference quality remains identical while memory usage and latency both improve.

@@ -3,12 +3,28 @@ title: "MiniMax Clarifies Restrictive License, Signals Policy Update for Regular
 date: 2026-04-14
 description: "MiniMax co-founder Ryan Lee published clarification that recent licensing restrictions primarily target API providers offering poor service on M2.1/M2.5, and indicated the license may be updated to accommodate regular local users."
 tags:
+  - api-policy
+  - bullish
+  - community-engagement
   - daily-digest
+  - developer
+  - intermediate
   - licensing
+  - licensing-policy
+  - local-deployment
+  - localllama
   - minimax
+  - model-access-restrictions
+  - news
   - open-source
+  - open-source-economics
   - policy
-status: draft
+mentions:
+  - name: Ryan Lee
+    role: co-founder
+  - name: LocalLLaMA
+    role: community
+status: published
 ---
 
 A critical update on licensing concerns that have dominated recent LocalLLaMA discussions: MiniMax's co-founder Ryan Lee addressed community concerns about restrictive licensing, clarifying that recent policy changes target API providers offering poor service implementations rather than individual developers and researchers.

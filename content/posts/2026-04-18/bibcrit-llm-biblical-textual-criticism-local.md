@@ -3,12 +3,32 @@ title: "BibCrit – LLM Grounded in ETCBC Corpus Data for Biblical Textual Criti
 date: 2026-04-18
 description: "A specialised local LLM model fine-tuned on the ETCBC corpus for biblical textual analysis, demonstrating how domain-specific models can be deployed locally for expert applications. Exemplifies niche use cases for on-device inference."
 tags:
+  - biblical-textual-criticism
+  - bullish
   - daily-digest
-  - fine-tuning
+  - data-integration
+  - data-privacy
   - domain-specific
-  - open-source
+  - domain-specific-llms
+  - eep-tal-consortium-for-biblical-criticism
+  - fine-tuning
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - local-llm-development
+  - model-fine-tuning
+  - on-device-inference
+  - on-device-llm
+  - open-source
+  - researcher
+  - showcase
+  - tutorial
+mentions:
+  - name: Eep Tal Consortium for Biblical Criticism
+    role: data provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 BibCrit demonstrates the emerging trend of domain-specific language models optimised for local deployment. By grounding an LLM in the ETCBC (Eep Tal Consortium for Biblical Criticism) corpus, this project creates a specialised tool for biblical scholars and textual critics—a community that benefits from local, offline inference without relying on general-purpose API providers.

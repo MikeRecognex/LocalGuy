@@ -3,12 +3,29 @@ title: "DFlash Doubles Token Generation Speed of Qwen3.5 27B on Mac M5 Max"
 date: 2026-04-15
 description: "New DFlash support in oMLX 0.3.5 RC1 achieves 2x speedup for Qwen3.5 27B inference on Apple Silicon, reaching 22 T/S from 9 T/S using speculative decoding with draft models."
 tags:
-  - daily-digest
-  - mlx
-  - speculative-decoding
+  - advanced
   - apple-silicon
+  - bullish
+  - daily-digest
+  - developer
+  - draft-model-speculation
+  - dynamic-flash-attention
+  - inference-speed
+  - intermediate
+  - llm-performance
+  - local-inference-optimization
+  - mlx
+  - mlx-support
+  - omlx
+  - on-device-ai
   - performance
-status: draft
+  - real-time-inference
+  - release
+  - showcase
+  - speculative-decoding
+mentions:
+  - name: oMLX
+status: published
 ---
 
 A significant performance breakthrough for Mac users: [DFlash support in oMLX 0.3.5 RC1](https://www.reddit.com/gallery/1sltncp) has demonstrated a 2x speedup for local Qwen3.5 27B inference on Apple Silicon. Initial benchmarks show generation speed improving from 9 to 22 tokens per second on an M5 Max with 128GB unified memory, using speculative decoding with a draft model from the Hugging Face ecosystem.

@@ -3,12 +3,32 @@ title: "Show HN: Open Agent Spec – Treat AI Agents Like Typed Functions, Not P
 date: 2026-03-25
 description: "A new specification enables developers to define AI agents with strong typing and structured interfaces, moving beyond unstructured prompt chaining for more reliable local deployments."
 tags:
-  - daily-digest
+  - advanced
+  - agent-design
+  - agent-orchestration
+  - agent-specification
   - agents
-  - open-source
+  - api-design
+  - bullish
+  - daily-digest
+  - developer
   - framework
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - open-source
+  - prime-vector
+  - production-deployment
+  - prompt-engineering
+  - self-hosting
+  - showcase
   - tooling
-status: draft
+mentions:
+  - name: Prime Vector
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Open Agent Spec proposes a paradigm shift in how developers define and interact with AI agents by treating them as strongly-typed functions rather than loose prompt chains. This specification enables better integration between local LLMs and application code, providing predictable interfaces and clear contracts for agent behavior.

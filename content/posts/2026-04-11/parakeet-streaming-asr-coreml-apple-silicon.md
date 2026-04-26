@@ -3,12 +3,24 @@ title: "Parakeet Streaming ASR on Apple Silicon via CoreML"
 date: 2026-04-11
 description: "Streaming automatic speech recognition now runs natively on Apple Silicon through CoreML optimization. A Swift demo app shows how to deploy real-time ASR models for local inference without network latency."
 tags:
-  - daily-digest
   - apple-silicon
-  - coreml
   - asr
+  - bullish
+  - coreml
+  - coreml-optimization
+  - daily-digest
+  - developer
+  - hardware-optimization
+  - intermediate
+  - multimodal-ai
+  - on-device-ai
+  - on-device-inference
+  - production-deployment
+  - showcase
   - streaming
-status: draft
+  - streaming-asr
+  - swift-development
+status: published
 ---
 
 Parakeet streaming ASR brings real-time speech recognition capabilities to Apple Silicon devices through CoreML optimization and native Swift implementation. This approach enables on-device ASR without round-trip network latency, critical for responsive voice interfaces in applications.
