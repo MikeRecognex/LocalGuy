@@ -1284,6 +1284,111 @@ footer p:last-child a:hover {
   text-decoration: underline;
 }
 
+/* === Sponsor Banner (homepage) === */
+.sponsor-banner {
+  background: linear-gradient(135deg, #0d1b1e 0%, #132a2f 50%, #0d1b1e 100%);
+  border: 1px solid #1a3a3f;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.sponsor-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #5ce0c0, transparent);
+}
+
+.sponsor-label {
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #5ce0c0;
+  margin-bottom: 1rem;
+}
+
+.sponsor-content {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+}
+
+.sponsor-logo {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.sponsor-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.sponsor-title {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 700;
+  color: #e8f5f0;
+  margin: 0 0 0.5rem;
+  line-height: 1.3;
+}
+
+.sponsor-desc {
+  font-size: 0.85rem;
+  color: #a0c4bc;
+  line-height: 1.5;
+  margin: 0 0 0.4rem;
+}
+
+.sponsor-stats {
+  font-size: 0.78rem;
+  color: #6a9e94;
+  line-height: 1.4;
+  margin: 0 0 0.75rem;
+}
+
+.sponsor-btn {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background: linear-gradient(135deg, #2a8c7a, #3db89e);
+  color: #fff;
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.sponsor-btn:hover {
+  background: linear-gradient(135deg, #33a68f, #4ccab0);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .sponsor-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sponsor-logo {
+    width: 160px;
+  }
+}
+
 /* === Join In (homepage CTA) === */
 .join-in {
   list-style: none;
