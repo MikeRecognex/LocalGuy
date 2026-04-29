@@ -3,12 +3,28 @@ title: "Stop Guessing: Open-Source Tool Predicts Which Local LLMs Run on Your PC
 date: 2026-04-28
 description: "A new open-source diagnostic tool helps practitioners quickly determine which language models will run efficiently on their specific hardware without trial and error. This addresses a major pain point in local LLM adoption."
 tags:
+  - bullish
+  - consumer-hardware
   - daily-digest
-  - open-source
+  - developer
   - hardware-compatibility
-  - tools
+  - hardware-model-matching
+  - intermediate
+  - model-compatibility-prediction
+  - model-optimization
+  - model-quantization
+  - model-selection
+  - msn
+  - open-source
   - optimization
-status: draft
+  - performance-estimation
+  - showcase
+  - system-profiling
+  - tools
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 One of the largest barriers for newcomers to local LLMs is the uncertainty around hardware compatibility. With thousands of quantized models available in varying sizes and formats, determining which models will actually run acceptably on a specific machine involves significant trial-and-error. This new open-source tool eliminates that guesswork by analyzing system specifications and recommending compatible models with predicted performance metrics.

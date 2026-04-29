@@ -3,12 +3,33 @@ title: "Linux Crushes Windows on llama.cpp Inference by Double Digits"
 date: 2026-04-27
 description: "New benchmarks reveal significant performance advantages for llama.cpp inference on Linux systems compared to Windows, with improvements reaching double-digit percentages across various model sizes."
 tags:
-  - daily-digest
-  - llama-cpp
   - benchmark
-  - performance-optimization
+  - benchmark-report
+  - bullish
+  - comparison
+  - cost-saving
+  - daily-digest
+  - developer
+  - enterprise
+  - hardware-acceleration
+  - inference-speed
+  - intermediate
   - linux
-status: draft
+  - llama-cpp
+  - llamacpp-performance
+  - local-inference
+  - local-llm-deployment
+  - os-performance-comparison
+  - performance-benchmarking
+  - performance-optimization
+  - quantization
+  - startup-fortune
+  - system-optimization
+  - threading-models
+mentions:
+  - name: Startup Fortune
+    role: publisher
+status: published
 ---
 
 A new performance analysis shows that llama.cpp, the widely-used local inference engine, delivers substantially better throughput and latency on Linux compared to Windows environments. The benchmarks span multiple model architectures and quantisation levels, with performance gains consistently exceeding 10% on Linux systems.

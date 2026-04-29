@@ -3,12 +3,29 @@ title: "An Update on GitHub Availability: Infrastructure Lessons for Hosted LLM 
 date: 2026-04-28
 description: "GitHub outage analysis with implications for practitioners relying on cloud infrastructure for local LLM tools, models, and dependency management."
 tags:
+  - analysis
+  - bullish
+  - caching-strategies
+  - cautious
   - daily-digest
-  - infrastructure
+  - dependency-management
   - deployment
-  - resilience
+  - developer
+  - github-outage
+  - hacker-news
+  - infrastructure
+  - infrastructure-reliability
+  - intermediate
+  - local-llm-deployment-risks
+  - local-mirroring
   - open-source
-status: draft
+  - resilience
+  - resilient-deployment
+  - version-control
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Infrastructure reliability affects local LLM deployment more than many practitioners realize. [GitHub's availability incident report](https://github.blog/news-insights/company-news/an-update-on-github-availability/) provides a timely reminder of how dependency on centralized services impacts local development workflows. For those managing local LLM deployments, this highlights risks in model distribution, tool updates, and package management.

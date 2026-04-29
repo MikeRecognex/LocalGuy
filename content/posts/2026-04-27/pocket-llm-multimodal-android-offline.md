@@ -3,12 +3,33 @@ title: "Pocket LLM v1.5.0 Brings Multimodal AI to Android with No Cloud Required
 date: 2026-04-27
 description: "Pocket LLM releases v1.5.0 with multimodal capabilities including vision and audio processing, enabling fully offline AI inference on Android devices without any cloud connectivity."
 tags:
+  - accessibility-ai
+  - bullish
   - daily-digest
-  - mobile
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - intermediate
+  - mobile
+  - mobile-ai
   - multimodal
+  - multimodal-ai
+  - offline-inference
   - open-source
-status: draft
+  - pocket-llm
+  - privacy-compliance
+  - production-deployment
+  - release
+  - showcase
+  - startup-fortune
+  - vision-audio-processing
+mentions:
+  - name: Pocket LLM
+    role: developer
+  - name: Startup Fortune
+    role: publisher
+status: published
 ---
 
 Pocket LLM has released version 1.5.0 with comprehensive multimodal support for Android, enabling text, vision, and audio processing entirely on-device. This milestone represents a significant advancement in making capable AI assistants available without any cloud dependencies or internet connectivity requirements.

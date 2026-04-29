@@ -295,6 +295,14 @@
     "2026-04-26": {
       "text": "NVIDIA supports DeepSeek V4 on Blackwell GPUs for optimized local inference.",
       "postCount": 10
+    },
+    "2026-04-27": {
+      "text": "Gemma 4 and Pocket LLM enable local AI on phones and laptops.",
+      "postCount": 5
+    },
+    "2026-04-28": {
+      "text": "Google's Gemma 4 models enable efficient on-device inference on phones and laptops.",
+      "postCount": 10
     }
   },
   "weekly": {
@@ -341,6 +349,10 @@
     "2026-04-19": {
       "text": "<p>Big stories this week include Google's Gemma 4 model and Intel's Core Ultra Series 3 launch, both enhancing local AI inference capabilities.</p>\n<p>Don't miss \"AI Quota Inflation Is No Token Effort\" and \"Llama.cpp's Auto Fit Feature\" for insights into local LLM deployment and optimization.</p>",
       "postCount": 65
+    },
+    "2026-04-26": {
+      "text": "<p>Gemma 4 and Pocket LLM v1.5.0 lead the week's news, targeting local AI deployment.</p>\n<p>Don't miss \"Hipfire: A Rust-Native AMD Inference Engine\" and \"Stop Guessing\" for local AI insights.</p>",
+      "postCount": 15
     }
   }
 }

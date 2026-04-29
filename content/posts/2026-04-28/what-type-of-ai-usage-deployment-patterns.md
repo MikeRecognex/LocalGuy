@@ -3,12 +3,27 @@ title: "What Type of AI Usage? Deployment Patterns and Implementation Considerat
 date: 2026-04-28
 description: "A framework for categorizing different AI implementation patterns, helping developers choose appropriate architectures for local versus cloud deployment."
 tags:
-  - daily-digest
+  - advanced
+  - analysis
   - architecture
-  - deployment
+  - architecture-selection
+  - batch-processing
   - best-practices
+  - daily-digest
+  - deployment
+  - deployment-patterns
+  - deployment-tradeoffs
+  - developer
   - inference
-status: draft
+  - intermediate
+  - local-llm-architecture
+  - local-vs-cloud-deployment
+  - neutral
+  - on-device-inference
+  - real-time-inference
+  - self-hosted-deployment
+  - workload-suitability
+status: published
 ---
 
 Deciding whether to deploy an LLM locally or in the cloud isn't binary—it depends on understanding different usage patterns and their technical requirements. [This taxonomy breaks down AI implementation types](https://jensrantil.github.io/posts/types-of-ai-implementations/) and the architectural implications of each choice, helping engineers make informed decisions about local deployment viability.
