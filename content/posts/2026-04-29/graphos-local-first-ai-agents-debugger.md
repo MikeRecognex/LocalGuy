@@ -8,7 +8,7 @@ tags:
   - open-source
   - memory-optimization
   - tools
-status: draft
+status: published
 ---
 
 GraphOS introduces a visual runtime and debugging environment specifically designed for AI agents, with a strong emphasis on local-first execution. The tool addresses a growing pain point in the agent ecosystem: understanding and debugging complex agent workflows without relying on external APIs or cloud platforms.

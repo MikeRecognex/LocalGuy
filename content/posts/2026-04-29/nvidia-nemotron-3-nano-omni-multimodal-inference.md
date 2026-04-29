@@ -8,7 +8,7 @@ tags:
   - multimodal
   - edge-inference
   - nvidia
-status: draft
+status: published
 ---
 
 NVIDIA has announced Nemotron 3 Nano Omni, a new open-source model specifically engineered for efficient on-device deployment. Unlike larger models requiring significant computational resources, this variant maintains multimodal reasoning capabilities—processing both text and visual inputs—while remaining lean enough for edge devices and consumer hardware.

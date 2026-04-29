@@ -8,7 +8,7 @@ tags:
   - tools
   - open-source
   - local-inference
-status: draft
+status: published
 ---
 
 Grokfeed showcases a practical implementation of local LLM reasoning in a CLI tool, aggregating and filtering feed content from Hacker News, Reddit, and Lobste.rs. By leveraging Claude's reasoning capabilities through code generation and execution, the tool demonstrates how local or API-connected LLMs can enhance traditional software with semantic understanding.

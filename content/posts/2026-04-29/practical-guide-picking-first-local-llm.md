@@ -8,7 +8,7 @@ tags:
   - guides
   - model-selection
   - ollama
-status: draft
+status: published
 ---
 
 MakeUseOf's practical guide addresses a genuine friction point in the local LLM ecosystem: the overwhelming abundance of choices and technical jargon that paralyzes newcomers. By breaking down model selection into simple criteria—hardware capabilities, intended use case, quality requirements, and privacy concerns—the article makes local LLM deployment feel achievable for non-specialists.

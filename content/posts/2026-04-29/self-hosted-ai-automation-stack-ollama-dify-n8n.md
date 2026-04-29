@@ -8,7 +8,7 @@ tags:
   - tools-frameworks
   - automation
   - open-source
-status: draft
+status: published
 ---
 
 The convergence of three powerful open-source projects—Ollama for model serving, Dify for LLM application development, and n8n for workflow automation—creates a compelling alternative to closed-source AI platforms. This stack enables developers to build sophisticated AI-powered applications entirely on-premises, maintaining full data control and operational independence.

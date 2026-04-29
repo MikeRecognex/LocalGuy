@@ -8,7 +8,7 @@ tags:
   - edge-inference
   - home-assistant
   - benchmarks
-status: draft
+status: published
 ---
 
 Running large language models on Intel N150 processors—consumer-grade, single-digit watt CPUs typically found in ultra-portable mini PCs—represents a significant achievement in practical edge inference. This configuration proves that reasonably-sized quantized models can deliver useful LLM capabilities for smart home automation without dedicated accelerators or high power consumption.

@@ -8,7 +8,7 @@ tags:
   - tools-frameworks
   - user-experience
   - self-hosted
-status: draft
+status: published
 ---
 
 Open WebUI continues to evolve as the go-to interface layer for local LLM deployment, with recent updates making it a genuinely competitive alternative to commercial solutions like ChatGPT. The improvements focus on usability, responsiveness, and seamless integration with Ollama and other inference backends, making the entire self-hosted experience feel polished and production-ready.

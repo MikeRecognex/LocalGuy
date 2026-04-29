@@ -8,7 +8,7 @@ tags:
   - infrastructure
   - open-source
   - local-networks
-status: draft
+status: published
 ---
 
 Pbgopy v0.4.0 brings improved cross-device clipboard synchronization with history support, addressing a practical need in multi-device local LLM setups. When running models across multiple edge devices or orchestrating inference across a local cluster, efficient data transfer becomes critical infrastructure.

@@ -8,7 +8,7 @@ tags:
   - edge-inference
   - optimization
   - embedded
-status: draft
+status: published
 ---
 
 Getting a graphically complex game like Wipeout to run on the ESP32-S3—a $15 microcontroller with 8MB of RAM and a 240MHz processor—requires the kind of extreme optimization that parallels challenges in edge LLM inference. This achievement demonstrates memory packing, instruction-level efficiency, and hardware utilization techniques directly applicable to running quantized LLMs on resource-constrained devices.

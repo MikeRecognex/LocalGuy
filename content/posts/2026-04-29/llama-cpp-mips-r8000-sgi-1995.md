@@ -8,7 +8,7 @@ tags:
   - hardware
   - edge-inference
   - open-source
-status: draft
+status: published
 ---
 
 In a testament to llama.cpp's remarkable portability, a developer has successfully compiled and run the inference engine on a 1995 SGI Power Challenge system with MIPS R8000 processors. This achievement demonstrates that llama.cpp can target genuinely exotic hardware architectures far beyond modern consumer devices.
