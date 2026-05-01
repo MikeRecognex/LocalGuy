@@ -1,14 +1,36 @@
 ---
 title: "Show HN: Arkloop – Open-Source, Local-First Agent Client"
 date: 2026-04-30
-description: "A new open-source agent client designed for local-first execution, enabling deployment of AI agents on personal hardware without cloud dependencies."
+description: A new open-source agent client designed for local-first execution, enabling deployment of AI agents on personal hardware without cloud dependencies.
 tags:
-  - daily-digest
-  - open-source
+  - agent-deployment
+  - agent-orchestration
   - agents
-  - local-first
+  - arkloop
+  - bullish
+  - cloud-independence
+  - consumer-gpu
+  - daily-digest
+  - data-privacy
   - deployment
-status: draft
+  - developer
+  - hacker-news
+  - intermediate
+  - llm-integration
+  - local-first
+  - local-first-ai
+  - local-inference
+  - neutral
+  - on-device-agents
+  - open-source
+  - release
+  - showcase
+mentions:
+  - name: Arkloop
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Arkloop is a freshly-released open-source agent client built with local-first principles, allowing developers to deploy and run AI agents entirely on personal hardware. The project emphasizes privacy, latency reduction, and independence from cloud APIs—core concerns for local LLM practitioners.

@@ -1,14 +1,35 @@
 ---
-title: "Estimating Black-Box LLM Parameter Counts via Factual Capacity"
+title: Estimating Black-Box LLM Parameter Counts via Factual Capacity
 date: 2026-04-30
-description: "New methodology for determining LLM model size without access to weights, enabling better deployment decisions and benchmarking for local inference scenarios."
+description: New methodology for determining LLM model size without access to weights, enabling better deployment decisions and benchmarking for local inference scenarios.
 tags:
-  - daily-digest
+  - advanced
+  - analysis
+  - arxiv
   - benchmarks
+  - black-box-model-analysis
+  - bullish
+  - daily-digest
+  - deployment-strategy
+  - developer
+  - factual-capacity-analysis
+  - factual-capacity-testing
+  - hacker-news
+  - llm-parameter-estimation
+  - local-inference-benchmarking
+  - model-comparison
+  - model-optimization
+  - model-quantization
+  - neutral
+  - open-source
   - optimization
   - quantisation
-  - open-source
-status: draft
+mentions:
+  - name: arXiv
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Researchers have developed a technique to estimate the parameter count of black-box LLMs through factual capacity testing, without requiring access to model weights or architecture details. This approach uses probing questions and response analysis to infer model size—valuable for practitioners evaluating models before deployment.

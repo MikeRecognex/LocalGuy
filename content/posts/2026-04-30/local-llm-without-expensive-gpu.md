@@ -1,13 +1,35 @@
 ---
-title: "Running Capable Local LLMs Without Expensive GPU Hardware"
+title: Running Capable Local LLMs Without Expensive GPU Hardware
 date: 2026-04-30
-description: "New approaches and hardware configurations demonstrate that effective local LLM deployment is achievable on consumer-grade and budget hardware, removing the high barrier to entry."
+description: New approaches and hardware configurations demonstrate that effective local LLM deployment is achievable on consumer-grade and budget hardware, removing the high barrier to entry.
 tags:
-  - daily-digest
-  - hardware-optimization
+  - analysis
   - budget-friendly
+  - bullish
+  - consumer-gpu
+  - cost-effective-llms
+  - cpu-only
+  - cpu-only-inference
+  - daily-digest
+  - developer
+  - edge-device
+  - enterprise
+  - hardware-agnostic-llms
+  - hardware-optimization
+  - inference-optimization
+  - intermediate
+  - local-llm-deployment
+  - local-vs-cloud-deployment
+  - model-quantization
+  - msn
+  - neutral
+  - performance-benchmarking
   - quantisation
-status: draft
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 A growing body of evidence shows that practitioners no longer need enterprise-grade GPUs to deploy functional local LLMs. Through advances in quantisation (4-bit, 3-bit, and even lower), optimized inference engines like llama.cpp, and judicious model selection, capable systems can run on CPUs, older GPUs, and integrated graphics.

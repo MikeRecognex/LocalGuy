@@ -1,13 +1,33 @@
 ---
-title: "Google's Gemma 4 Brings Powerful AI Capabilities to Phones and Laptops"
+title: Google's Gemma 4 Brings Powerful AI Capabilities to Phones and Laptops
 date: 2026-04-30
-description: "Google announces Gemma 4, a model family designed specifically for on-device inference on consumer hardware including smartphones and laptops without requiring cloud connectivity."
+description: Google announces Gemma 4, a model family designed specifically for on-device inference on consumer hardware including smartphones and laptops without requiring cloud connectivity.
 tags:
+  - apple-silicon
+  - apple-silicon-optimization
+  - bullish
+  - consumer-gpu
+  - consumer-hardware
   - daily-digest
-  - gemma
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
+  - gemma
+  - intermediate
   - mobile-ai
-status: draft
+  - model-quantization
+  - model-release
+  - msn
+  - news
+  - offline-ai
+  - on-device-inference
+  - privacy-compliance
+  - release
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Google has unveiled Gemma 4, expanding its lightweight model family with variants optimized for true on-device execution on phones, tablets, and laptops. This represents a significant milestone in making capable LLM inference accessible without cloud dependencies, addressing privacy and latency concerns that have driven local LLM adoption.

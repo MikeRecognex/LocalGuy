@@ -1,13 +1,35 @@
 ---
-title: "Building a Remote-Accessible Local LLM Server on Raspberry Pi"
+title: Building a Remote-Accessible Local LLM Server on Raspberry Pi
 date: 2026-04-30
-description: "A practical guide demonstrating how to deploy and access a local LLM server running on a Raspberry Pi from anywhere, combining edge deployment with convenient remote access."
+description: A practical guide demonstrating how to deploy and access a local LLM server running on a Raspberry Pi from anywhere, combining edge deployment with convenient remote access.
 tags:
+  - arm-optimization
+  - arm-processor
+  - beginner-friendly
+  - bullish
+  - cost-saving
   - daily-digest
-  - raspberry-pi
-  - edge-inference
   - deployment-guide
-status: draft
+  - edge-device
+  - edge-device-deployment
+  - edge-inference
+  - hobbyist
+  - intermediate
+  - local-llm-deployment
+  - low-power-inference
+  - model-quantization
+  - msn
+  - privacy-compliance
+  - raspberry-pi
+  - raspberry-pi-llm
+  - remote-access
+  - self-hosted-inference
+  - showcase
+  - tutorial
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 An emerging pattern in local LLM deployment is running inference servers on ultra-low-power hardware like Raspberry Pi and exposing them via secure remote access. This approach combines the privacy and cost benefits of edge inference with the convenience of accessing your personal AI assistant from anywhere.

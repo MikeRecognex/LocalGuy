@@ -1,14 +1,34 @@
 ---
-title: "How Much \"Brain Damage\" Can an LLM Tolerate?"
+title: How Much "Brain Damage" Can an LLM Tolerate?
 date: 2026-04-30
-description: "Research explores LLM resilience to model degradation, weight pruning, and parameter corruption—critical insights for optimizing models for edge and resource-constrained deployments."
+description: Research explores LLM resilience to model degradation, weight pruning, and parameter corruption—critical insights for optimizing models for edge and resource-constrained deployments.
 tags:
-  - daily-digest
-  - quantisation
-  - optimization
-  - memory-reduction
+  - advanced
+  - analysis
   - benchmarks
-status: draft
+  - consumer-gpu
+  - consumer-gpu-deployment
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - embedded-systems
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - memory-reduction
+  - mobile-deployment
+  - model-compression
+  - model-optimization
+  - model-quantization
+  - model-resilience
+  - neutral
+  - optimization
+  - quantisation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This research examines a fundamental question for local LLM deployment: how much model degradation can language models tolerate before performance significantly declines? The study investigates parameter pruning, weight quantisation, and corruption—techniques essential for fitting larger models onto consumer hardware and edge devices.
