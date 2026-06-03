@@ -3,11 +3,30 @@ title: "Thoth – Open-Source Local-First AI Assistant"
 date: 2026-05-03
 description: "A new open-source AI assistant designed for local-first deployment, enabling users to run AI models on-device without external dependencies."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - open-source
+  - data-sovereignty
+  - developer
+  - development-acceleration
+  - edge-deployment
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-ai
   - local-deployment
+  - local-first-tools
+  - on-device-ai
+  - on-device-inference
+  - open-source
+  - open-source-ai
   - privacy
-status: draft
+  - privacy-preserving-ai
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Thoth is a newly released open-source project](https://github.com/siddsachar/Thoth) that brings local-first AI capabilities to users seeking privacy-preserving AI assistants. The project emphasizes running models entirely on-device, eliminating the need for cloud dependencies and providing users with complete control over their data.

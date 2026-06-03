@@ -3,12 +3,41 @@ title: "CNN sues Perplexity over alleged AI copyright theft"
 date: 2026-05-29
 description: "Major media lawsuit against AI company raises critical questions about training data sourcing, licensing, and legal liability for LLM deployments using web-scraped content."
 tags:
-  - daily-digest
+  - ai-copyright-theft
+  - analysis
+  - cautious
+  - cnn
   - compliance
+  - daily-digest
+  - data-licensing
+  - data-sourcing
+  - dataset-transparency
+  - developer
+  - enterprise
+  - hacker-news
+  - intermediate
   - legal
-  - training-data
+  - legal-compliance
+  - legal-liability
   - licensing
-status: draft
+  - model-provenance
+  - news
+  - perplexity
+  - perplexity-ai
+  - training-data
+  - training-data-sourcing
+mentions:
+  - name: CNN
+    role: plaintiff
+  - name: Perplexity
+    role: defendant
+  - name: CNN
+    role: litigant
+  - name: Perplexity AI
+    role: litigant
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 CNN's lawsuit against Perplexity represents an escalating legal confrontation over how AI companies source and use training data. As traditional media organizations fight back against unauthorized use of their content, practitioners deploying local LLMs face increasingly complex compliance questions about model provenance, training data attribution, and potential liability.

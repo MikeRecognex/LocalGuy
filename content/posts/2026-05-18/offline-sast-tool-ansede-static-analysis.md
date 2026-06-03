@@ -3,12 +3,31 @@ title: "Ansede-static: Offline SAST Tool Demonstrates Value of Local AI Tools"
 date: 2026-05-18
 description: "New open-source static analysis tool achieving 98.8% CVE recall while running entirely offline. Exemplifies how local AI models can replace cloud-based security analysis with privacy-preserving alternatives."
 tags:
+  - air-gapped-deployment
+  - bullish
   - daily-digest
-  - open-source
-  - security
+  - data-privacy
   - deployment
+  - edge-ai-deployment
+  - edge-device
+  - enterprise
+  - enterprise-security-ai
+  - hacker-news
+  - intermediate
+  - local-security-analysis
+  - model-optimization
+  - offline-sast
+  - open-source
   - optimization
-status: draft
+  - privacy-preserving-ai
+  - security
+  - security-vulnerabilities
+  - showcase
+  - vulnerability-detection
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The [Ansede-static project](https://github.com/mattybellx/Ansede) demonstrates practical value from deploying specialized local AI models, achieving impressive SAST (Static Application Security Testing) performance entirely offline with 98.8% CVE recall. This represents a compelling use case for local LLM deployment: security-sensitive workloads that benefit from keeping code analysis on-premise.

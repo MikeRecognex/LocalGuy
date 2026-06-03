@@ -3,12 +3,29 @@ title: "Before Upload – Check Files Locally Before Sending to AI Tools"
 date: 2026-05-13
 description: "A new tool enables users to inspect and process files locally before uploading them to cloud-based AI services, addressing privacy concerns in local-first AI workflows."
 tags:
+  - before-upload
+  - bullish
   - daily-digest
-  - privacy
-  - local-processing
+  - data-preprocessing
+  - developer
   - edge-inference
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-first-ai
+  - local-processing
   - open-source
-status: draft
+  - privacy
+  - privacy-compliance
+  - privacy-preserving-ai
+  - self-hosted-llms
+  - showcase
+mentions:
+  - name: Before Upload
+    role: service-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Before Upload addresses a critical pain point for users concerned about data privacy when working with AI tools. By enabling local file inspection and processing before cloud upload, this tool fits squarely into the local-first AI movement where practitioners want to retain control over sensitive data.

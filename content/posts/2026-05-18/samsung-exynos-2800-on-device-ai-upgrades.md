@@ -3,12 +3,29 @@ title: "Samsung's Exynos 2800 Brings Significant On-Device AI Capabilities"
 date: 2026-05-18
 description: "Samsung is planning to introduce powerful on-device AI features starting with the Exynos 2800 chipset, utilizing high-bandwidth memory chips for improved local inference on smartphones and tablets."
 tags:
+  - ai-frameworks
+  - apple-silicon
+  - bullish
   - daily-digest
-  - hardware
-  - mobile
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
+  - hardware
+  - inference-optimization
+  - intermediate
+  - memory-bandwidth
+  - memory-optimization
+  - mobile
+  - mobile-ai-acceleration
+  - mobile-ai-inference
+  - news
+  - on-device-ai
+  - on-device-llms
+  - privacy-first-ai
   - quantisation
-status: draft
+  - release
+status: published
 ---
 
 Samsung is preparing a major push into on-device AI capabilities with upgrades to its Exynos processor line, specifically targeting the upcoming Exynos 2800. The company plans to integrate high-bandwidth memory chips using advanced packaging techniques to enable smartphones and tablets to function as local AI powerhouses without relying on cloud inference.

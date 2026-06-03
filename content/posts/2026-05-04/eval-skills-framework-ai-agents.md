@@ -3,12 +3,29 @@ title: "Eval Skills for AI Agents"
 date: 2026-05-04
 description: "A new evaluation framework for systematically testing and benchmarking AI agent capabilities, enabling local developers to assess agent performance before deployment. This tool addresses the critical need for robust evaluation in agentic systems."
 tags:
-  - daily-digest
+  - agentic-ai
+  - agentic-systems
   - agents
+  - ai-agent-evaluation
+  - analysis
   - benchmark
+  - bullish
+  - daily-digest
+  - deployment-risk-management
+  - developer
   - evaluation
+  - evaluation-frameworks
+  - intermediate
+  - latitude-dev
+  - local-deployment
+  - local-llm-agents
   - open-source
-status: draft
+  - production-readiness
+  - showcase
+mentions:
+  - name: latitude-dev
+    role: developer
+status: published
 ---
 
 Evaluating AI agents is notoriously difficult, and [Eval Skills provides a standardized framework](https://github.com/latitude-dev/eval-skills) for testing agent behaviors across a range of capabilities. For local LLM practitioners, this means better tooling to validate that custom agents behave reliably before moving into production.

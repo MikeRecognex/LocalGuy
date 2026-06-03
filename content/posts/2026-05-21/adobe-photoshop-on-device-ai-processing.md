@@ -3,11 +3,34 @@ title: "Adobe Photoshop Update Brings On-Device AI Processing"
 date: 2026-05-21
 description: "Adobe releases Photoshop 27.7 with on-device AI capabilities, demonstrating enterprise-scale adoption of local processing for generative AI features while addressing privacy concerns."
 tags:
+  - 9to5mac
+  - adobe
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - on-device
+  - developer
   - edge-inference
+  - enterprise-adoption
+  - generative-ai
+  - intermediate
+  - latency-reduction
+  - local-llms
+  - model-performance
+  - on-device
+  - on-device-ai
   - privacy
-status: draft
+  - privacy-compliance
+  - production-integration
+  - release
+  - showcase
+mentions:
+  - name: Adobe
+    role: publisher
+  - name: Adobe
+    role: integrator
+  - name: 9to5Mac
+    role: publisher
+status: published
 ---
 
 Adobe has shipped Photoshop 27.7 with integrated on-device AI processing capabilities, moving away from cloud-dependent generative features toward local execution. This shift represents a significant validation of on-device inference technology for mainstream creative applications.

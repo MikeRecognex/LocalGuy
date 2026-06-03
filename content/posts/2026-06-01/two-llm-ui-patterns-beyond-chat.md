@@ -3,12 +3,29 @@ title: "Two LLM UI Patterns That Aren't Chat"
 date: 2026-06-01
 description: "An exploration of alternative user interface patterns for LLM applications beyond traditional chat interfaces, offering design insights for local LLM deployment in non-conversational use cases."
 tags:
-  - daily-digest
-  - ui-design
-  - local-deployment
-  - practical-guide
+  - analysis
   - applications
-status: draft
+  - bullish
+  - daily-digest
+  - developer
+  - domain-specific-llm-tasks
+  - hacker-news
+  - intermediate
+  - llm-ui-patterns
+  - local-deployment
+  - local-deployment-architecture
+  - local-llm-deployment
+  - poyoco
+  - practical-guide
+  - specialized-workflows
+  - ui-design
+  - workflow-integration
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: poyo.co
+    role: publisher
+status: published
 ---
 
 Beyond the ubiquitous chat interface, there are emerging UI patterns that better serve specific use cases for locally-deployed LLMs. This article examines alternative interaction models that can be more intuitive and efficient for tasks like content generation, data processing, and specialized workflows that don't require back-and-forth conversation.

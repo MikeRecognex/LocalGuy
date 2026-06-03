@@ -3,12 +3,35 @@ title: "Good LLM Development and Usage Patterns"
 date: 2026-06-02
 description: "A practical guide outlining recommended patterns for developing and deploying LLMs in production environments, covering best practices for local and self-hosted inference."
 tags:
-  - daily-digest
   - best-practices
+  - bluebyday
+  - bullish
+  - daily-digest
   - deployment
-  - optimization
+  - developer
+  - edge-ai
+  - edge-device
+  - guide
+  - hacker-news
+  - inference-optimization
+  - intermediate
+  - llm-development
+  - local-deployment
+  - local-inference
+  - local-llm-infrastructure
   - open-source
-status: draft
+  - operational-best-practices
+  - optimization
+  - prompt-engineering
+  - resource-management
+  - system-reliability
+  - tutorial
+mentions:
+  - name: Bluebyday
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This guide synthesizes proven patterns for LLM development and deployment, offering invaluable insights for teams running models locally or self-hosted. It covers architectural decisions, error handling, prompt engineering, and operational best practices that separate production-grade local LLM deployments from experimental setups.

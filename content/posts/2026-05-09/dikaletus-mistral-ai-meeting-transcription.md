@@ -3,12 +3,34 @@ title: "Dikaletus: Open-Source Meeting Recording and Transcription Using Mistral
 date: 2026-05-09
 description: "A new open-source tool demonstrates practical local LLM deployment for meeting transcription using Mistral AI, showing real-world applications of on-device inference."
 tags:
+  - bullish
   - daily-digest
-  - mistral
-  - open-source
+  - data-privacy
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
   - inference
+  - inference-optimization
+  - intermediate
+  - local-deployment
+  - local-llm-deployment
+  - meeting-transcription
+  - mimosadev
+  - mistral
+  - model-integration
+  - model-selection
+  - on-device-inference
+  - open-source
   - practical-deployment
-status: draft
+  - resource-optimization
+  - showcase
+mentions:
+  - name: MimosaDev
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Dikaletus is an open-source project showcasing practical deployment of Mistral AI for meeting recording and transcription tasks. This represents a concrete implementation of local LLM inference for productivity applications, demonstrating how practitioners can build real-world tools without relying on cloud APIs.

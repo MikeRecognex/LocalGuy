@@ -3,12 +3,32 @@ title: "Benchmarking a Portable AI Workstation: Lenovo ThinkPad P16 Gen 3, Part 
 date: 2026-05-21
 description: "Detailed performance analysis of the Lenovo ThinkPad P16 Gen 3 as a portable AI workstation, providing real-world benchmarks for local LLM inference and training workflows."
 tags:
-  - daily-digest
-  - hardware
   - benchmark
-  - workstation
+  - benchmark-report
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - hardware
+  - inference-performance
+  - intermediate
+  - llm-benchmarking
+  - model-quantization
+  - neutral
+  - on-device-inference
+  - performance-benchmarking
   - portable
-status: draft
+  - portable-ai-workstation
+  - virtualization-review
+  - workload-optimization
+  - workstation
+mentions:
+  - name: Virtualization Review
+    role: publisher
+  - name: Virtualization Review
+    role: publisher
+status: published
 ---
 
 Virtualization Review has published part 2 of their comprehensive benchmark series evaluating the Lenovo ThinkPad P16 Gen 3 as a portable AI inference workstation. This hands-on testing provides practitioners with concrete data on real-world LLM performance, including inference latency, memory utilization, and thermal behavior under sustained workloads.

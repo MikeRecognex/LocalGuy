@@ -3,12 +3,29 @@ title: "AI Token Streaming Isn't About SSE vs. WebSockets"
 date: 2026-05-21
 description: "A technical deep-dive clarifying that token streaming performance depends on protocol implementation details rather than SSE vs. WebSocket choice, with implications for local and cloud LLM deployments."
 tags:
+  - advanced
+  - analysis
+  - architecture-design
+  - bullish
   - daily-digest
-  - streaming
-  - inference
-  - performance-optimization
   - deployment
-status: draft
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - inference
+  - llm-deployment
+  - local-first-architecture
+  - network-protocol-optimization
+  - performance-optimization
+  - streaming
+  - token-streaming-optimization
+  - token-streaming-performance
+  - user-experience-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A detailed technical analysis reveals that the conventional wisdom around token streaming—comparing SSE versus WebSockets—misses the real performance factors. The author demonstrates that implementation details like buffering, message framing, and latency optimization matter far more than the underlying protocol choice.

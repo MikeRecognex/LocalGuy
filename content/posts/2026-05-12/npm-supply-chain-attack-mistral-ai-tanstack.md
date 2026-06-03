@@ -3,12 +3,35 @@ title: "Mass NPM Supply Chain Attack Hits TanStack, Mistral AI, and 170 Packages
 date: 2026-05-12
 description: "A large-scale NPM supply chain attack compromised multiple packages including those from Mistral AI and TanStack, affecting local LLM tooling and JavaScript-based deployment frameworks."
 tags:
+  - cautious
+  - credential-security
   - daily-digest
-  - security
-  - supply-chain
-  - npm
+  - dependency-auditing
   - deployment-tools
-status: draft
+  - developer
+  - hacker-news
+  - intermediate
+  - javascript-security
+  - local-llm-tooling
+  - news
+  - npm
+  - npm-supply-chain-attack
+  - safedepio
+  - secure-development-practices
+  - security
+  - software-vulnerability
+  - supply-chain
+  - supply-chain-security
+  - tanstack
+  - vulnerability-scanning
+mentions:
+  - name: TanStack
+    role: affected-party
+  - name: SafeDep.io
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [A coordinated supply chain attack on NPM](https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/) has compromised over 170 packages, including critical dependencies from Mistral AI and TanStack. This incident highlights vulnerabilities in the JavaScript ecosystem that local LLM projects rely upon for web interfaces, orchestration, and deployment tooling.

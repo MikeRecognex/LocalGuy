@@ -3,12 +3,33 @@ title: "Ask HN: Real life autonomous AI Agents"
 date: 2026-05-07
 description: "Community discussion examining practical implementations of autonomous agents powered by local LLMs, sharing deployment experiences and real-world use cases."
 tags:
-  - daily-digest
+  - agent-architectures
+  - agent-feedback-loops
+  - agent-orchestration
   - agents
-  - local-deployment
+  - analysis
+  - autonomous-agents
   - autonomous-systems
+  - bullish
+  - context-management
+  - daily-digest
+  - developer
+  - discussion
+  - hacker-news
+  - intermediate
+  - latency-reduction
+  - local-agent-performance
+  - local-deployment
+  - local-llms
+  - memory-management
+  - on-device-deployment
   - use-cases
-status: draft
+mentions:
+  - name: Hacker News
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The shift toward autonomous agents powered by local LLMs marks a significant evolution in on-device AI deployment. [This community discussion captures emerging patterns in real-world agent implementations](https://news.ycombinator.com/item?id=48047428), where practitioners share experiences building systems that operate autonomously while maintaining full local control.

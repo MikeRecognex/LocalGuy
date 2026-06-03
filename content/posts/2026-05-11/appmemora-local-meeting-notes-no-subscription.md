@@ -3,12 +3,33 @@ title: "I Built My Second Brain for Meetings. No Monthly Subscription"
 date: 2026-05-11
 description: "AppMemora offers local, subscription-free meeting note-taking powered by on-device AI inference. The tool eliminates recurring costs by running models locally rather than relying on cloud APIs."
 tags:
-  - daily-digest
-  - edge-inference
-  - meetings
-  - productivity
+  - appmemora
+  - bullish
   - cost-optimization
-status: draft
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-device
+  - edge-inference
+  - hacker-news
+  - intermediate
+  - latency-reduction
+  - local-deployment
+  - local-llm-deployment
+  - meetings
+  - on-device-ai
+  - productivity
+  - productivity-tools
+  - showcase
+mentions:
+  - name: AppMemora
+    role: software-provider
+  - name: AppMemora
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 AppMemora addresses a growing pain point in the AI tooling landscape: subscription fatigue. By deploying inference locally, the application achieves feature parity with cloud-based alternatives while eliminating monthly costs—a significant advantage for budget-conscious teams and individual users.

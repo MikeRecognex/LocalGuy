@@ -3,12 +3,28 @@ title: "MDMA – Turn LLM Responses into Interactive UI via MCP"
 date: 2026-06-02
 description: "A new tool that leverages the Model Context Protocol (MCP) to automatically convert LLM responses into interactive user interfaces, streamlining local LLM application development."
 tags:
-  - daily-digest
-  - mcp
-  - tools
-  - open-source
+  - agentic-workflows
   - agents
-status: draft
+  - bullish
+  - daily-digest
+  - developer
+  - developer-experience
+  - intermediate
+  - llm-to-ui
+  - local-deployment
+  - local-llm-development
+  - mcp
+  - mobilereality
+  - model-context-protocol
+  - open-source
+  - showcase
+  - structured-output
+  - tools
+  - ui-automation
+mentions:
+  - name: MobileReality
+    role: developer
+status: published
 ---
 
 MDMA is a new open-source tool that bridges the gap between raw LLM outputs and polished user interfaces by leveraging the Model Context Protocol. This is particularly valuable for developers deploying LLMs locally, as it eliminates boilerplate UI code and accelerates the development cycle for local inference applications.

@@ -3,12 +3,31 @@ title: "Open Source Local Audio Stem Separation Tool Released"
 date: 2026-05-19
 description: "A new free, open-source tool for local audio stem separation has been released on GitHub, enabling on-device audio processing without cloud dependencies. This project demonstrates practical local ML inference for audio workloads."
 tags:
-  - daily-digest
-  - open-source
-  - edge-inference
   - audio-processing
+  - audio-stem-separation
+  - bullish
+  - consumer-gpu
+  - consumer-hardware-deployment
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - hacker-news
+  - hardware-optimization
+  - intermediate
   - local-deployment
-status: draft
+  - local-ml-inference
+  - on-device-audio-processing
+  - on-device-inference
+  - open-source
+  - open-source-ai
+  - open-source-tooling
+  - release
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A developer has released Stemdeck, a free and open-source tool for local audio stem separation that runs entirely on-device. This is a significant contribution to the local ML community, as audio processing typically requires substantial computational resources and has traditionally relied on cloud services.

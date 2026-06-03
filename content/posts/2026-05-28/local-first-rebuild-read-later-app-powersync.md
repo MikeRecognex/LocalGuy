@@ -3,12 +3,35 @@ title: "Local-first: Rebuilding a Read-later App with PowerSync and SQLite"
 date: 2026-05-28
 description: "A practical case study in local-first application architecture using offline-capable databases, demonstrating patterns applicable to local LLM-powered applications."
 tags:
-  - daily-digest
-  - local-first
-  - infrastructure
-  - edge-deployment
   - architecture
-status: draft
+  - bullish
+  - case-study
+  - daily-digest
+  - data-synchronization
+  - database-selection
+  - developer
+  - edge-ai-deployment
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - infrastructure
+  - intermediate
+  - local-first
+  - local-first-architecture
+  - local-llm-applications
+  - local-llm-data-persistence
+  - offline-data-sync
+  - offline-first-architecture
+  - powersync-sqlite
+  - slax
+mentions:
+  - name: Slax
+    role: publisher
+  - name: Hacker News
+    role: publisher
+  - name: Slax
+    role: publisher
+status: published
 ---
 
 [This technical writeup explores rebuilding a read-later application with local-first principles](https://slax.com/blog/local-first-slax-reader/), using PowerSync and SQLite for offline-capable data synchronization. While not directly about LLMs, the architectural patterns demonstrated are highly relevant to practitioners building local LLM-powered applications.

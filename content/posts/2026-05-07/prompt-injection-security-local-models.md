@@ -3,12 +3,29 @@ title: "I got prompt-injected asking Claude on iOS to recommend a cycling route 
 date: 2026-05-07
 description: "Security research highlighting prompt injection vulnerabilities in LLM applications, demonstrating why local models with controlled inputs offer advantages."
 tags:
+  - analysis
+  - bullish
+  - cautious
   - daily-digest
-  - security
-  - prompt-injection
+  - data-privacy
+  - enterprise
+  - hacker-news
+  - inference-pipeline-auditing
+  - input-output-filtering
+  - intermediate
+  - jailbreak-detection
+  - llm-security
   - local-deployment
+  - on-device-llm-security
+  - prompt-injection
+  - prompt-injection-prevention
   - safety
-status: draft
+  - security
+  - security-design-patterns
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Prompt injection attacks demonstrate a persistent vulnerability in LLM applications where adversaries manipulate model behavior through carefully crafted inputs. [This case study shows how injection can occur even in mainstream consumer applications](https://menno.sh/prompt-injection.html), redirecting recommendations and potentially compromising user trust.

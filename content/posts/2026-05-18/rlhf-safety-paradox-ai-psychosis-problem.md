@@ -3,12 +3,31 @@ title: "Safety Paradox: How RLHF Creates the AI Psychosis Problem It's Meant to 
 date: 2026-05-18
 description: "An analysis of how Reinforcement Learning from Human Feedback (RLHF) may inadvertently create consistency and alignment issues in language models. Critical examination for practitioners fine-tuning local LLMs with safety constraints."
 tags:
+  - advanced
+  - alignment-robustness-tradeoff
+  - analysis
+  - cautious
   - daily-digest
+  - developer
   - fine-tuning
-  - rlhf
-  - safety
+  - fine-tuning-strategies
+  - hacker-news
+  - local-deployment
+  - model-alignment
+  - model-fine-tuning
+  - model-reasoning-stability
+  - neutral
   - open-source
-status: draft
+  - prompt-injection
+  - rlhf
+  - rlhf-limitations
+  - rlhf-tradeoffs
+  - safety
+  - safety-alignment
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A [comprehensive analysis on prompt injection](https://www.promptinjection.net/p/ai-psychosis-the-safety-paradox-how-rlhf-creates) explores a counterintuitive problem: RLHF techniques designed to prevent model misalignment may paradoxically create failure modes in locally deployed models. The piece argues that over-constraining model behavior through human feedback can lead to brittle, inconsistent responses—essentially creating "AI psychosis" where models exhibit unstable reasoning patterns.

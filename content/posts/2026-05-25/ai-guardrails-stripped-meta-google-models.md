@@ -3,12 +3,34 @@ title: "AI Guardrails Stripped From Meta and Google Models in Minutes"
 date: 2026-05-25
 description: "Security researchers demonstrate vulnerabilities allowing rapid removal of safety guidelines from commercial LLMs. Critical implications for organizations relying on guardrails in locally-deployed or fine-tuned models."
 tags:
+  - advanced
+  - ai-guardrails
+  - ai-safety
+  - analysis
+  - application-security
+  - cautious
   - daily-digest
-  - safety
-  - security
-  - open-source
+  - enterprise
+  - financial-times
+  - hacker-news
+  - intermediate
+  - local-llm-security
+  - model-guardrails
   - model-hardening
-status: draft
+  - model-safety
+  - model-vulnerabilities
+  - news
+  - open-source
+  - prompt-injection-detection
+  - safety
+  - safety-architecture
+  - security
+mentions:
+  - name: Financial Times
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Security research published in the Financial Times reveals that guardrails protecting Meta and Google's LLMs can be circumvented in minutes through relatively straightforward techniques. This finding has significant implications for organizations deploying open-source or self-hosted models, where safety mechanisms are often the primary operational control separating production systems from misuse.

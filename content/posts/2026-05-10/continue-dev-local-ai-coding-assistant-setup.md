@@ -3,12 +3,28 @@ title: "Continue.dev for Developers: Complete Local AI Coding Assistant Setup"
 date: 2026-05-10
 description: "A detailed guide to setting up Continue.dev, an open-source IDE extension framework for deploying local AI coding assistants. The guide covers configuration with self-hosted models and integration best practices."
 tags:
-  - daily-digest
-  - continue-dev
+  - bullish
   - coding-models
+  - continue-dev
+  - daily-digest
+  - data-privacy
+  - developer
   - ide-integration
+  - integration-best-practices
+  - intermediate
+  - local-ai-workflow
+  - local-coding-assistant
   - open-source
-status: draft
+  - open-source-framework
+  - optimization-techniques
+  - self-hosted-models
+  - setup-guide
+  - sitepoint
+  - tutorial
+mentions:
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 Continue.dev has emerged as a leading open-source framework for integrating local AI models into popular development environments. Unlike cloud-dependent alternatives, Continue.dev enables developers to connect any local or self-hosted LLM to their IDE, providing AI-assisted coding without external API calls or privacy concerns.

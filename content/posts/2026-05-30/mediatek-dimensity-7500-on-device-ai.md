@@ -3,12 +3,30 @@ title: "MediaTek Dimensity 7500 Brings On-Device AI and Enhanced Power Efficienc
 date: 2026-05-30
 description: "MediaTek's Dimensity 7500 processor integrates dedicated on-device AI capabilities with improved power efficiency, making local LLM inference accessible on affordable mid-range smartphones and expanding deployment possibilities."
 tags:
+  - ai-acceleration
+  - bullish
   - daily-digest
-  - hardware
-  - mobile
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - hardware
+  - intermediate
+  - local-inference-applications
+  - mediatek
+  - mobile
+  - mobile-llm-inference
+  - model-quantization
+  - on-device-ai
+  - onnx-optimization
   - power-efficiency
-status: draft
+  - release
+  - resource-constrained-ai
+  - showcase
+mentions:
+  - name: MediaTek
+    role: chip-manufacturer
+status: published
 ---
 
 MediaTek has launched the Dimensity 7500 processor, integrating dedicated AI acceleration and improved energy efficiency to bring on-device inference capabilities to mid-range smartphones. This development democratises local LLM deployment by making inference-capable devices more affordable and accessible to developers in price-sensitive markets.

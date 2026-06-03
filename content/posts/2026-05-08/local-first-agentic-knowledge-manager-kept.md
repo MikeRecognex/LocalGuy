@@ -3,12 +3,35 @@ title: "Show HN: A Local-First Agentic Knowledge Manager"
 date: 2026-05-08
 description: "Kept is a new open-source project providing local-first infrastructure for managing agentic AI workflows with persistent memory and knowledge organization capabilities."
 tags:
-  - daily-digest
+  - advanced
+  - agentic-ai
   - agents
-  - memory-optimization
+  - bullish
+  - context-management
+  - daily-digest
+  - data-privacy
+  - data-sovereignty
+  - developer
+  - edge-device
+  - egroup-labs
+  - hacker-news
+  - intermediate
+  - knowledge-management
+  - local-deployment
   - local-first
+  - local-first-ai
+  - local-llms
+  - memory-management
+  - memory-optimization
   - open-source
-status: draft
+  - persistent-memory
+  - showcase
+mentions:
+  - name: egroup-labs
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Kept addresses a critical gap in local LLM deployment: managing stateful, agentic workflows while maintaining full data sovereignty. As AI agents become more prevalent in local deployments, the ability to maintain persistent knowledge bases and memory systems without external dependencies becomes essential. Kept's local-first approach ensures that all agent interactions, learned patterns, and knowledge artifacts remain within your infrastructure.

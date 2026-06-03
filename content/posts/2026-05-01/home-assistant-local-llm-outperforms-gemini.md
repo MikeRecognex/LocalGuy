@@ -3,12 +3,34 @@ title: "Home Assistant's Local LLM Support Outperforms Gemini for Home Automatio
 date: 2026-05-01
 description: "Home Assistant's integrated local LLM capabilities now outperform Google's Gemini for smart home tasks, demonstrating the practical advantages of on-device inference for privacy-critical applications."
 tags:
+  - bullish
+  - cloud-independence
+  - cost-saving
   - daily-digest
-  - home-automation
+  - data-privacy
+  - developer
+  - edge-ai
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - privacy
+  - home-assistant
+  - home-automation
+  - home-automation-llm
+  - intermediate
+  - local-inference
+  - model-optimization
+  - msn
+  - on-device-inference
   - open-source
-status: draft
+  - performance-comparison
+  - privacy
+  - showcase
+mentions:
+  - name: Home Assistant
+    role: platform
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Home Assistant has achieved a significant milestone with its local LLM integration, delivering superior performance compared to Google's Gemini for home automation tasks. This represents a validation of the open-source home automation platform's approach to keeping AI inference on-device, eliminating cloud dependencies and latency concerns critical for responsive smart home control.

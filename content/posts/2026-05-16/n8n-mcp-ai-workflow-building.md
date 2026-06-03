@@ -3,12 +3,31 @@ title: "N8n-MCP: AI Assistants Can Now Build and Search n8n Workflows"
 date: 2026-05-16
 description: "A new Model Context Protocol implementation enables AI assistants to dynamically search and construct n8n automation workflows. This tool bridges LLM capabilities with workflow automation, enabling more sophisticated local AI agent applications."
 tags:
-  - daily-digest
-  - mcp
+  - agent-development
+  - agent-orchestration
   - agents
-  - workflow
+  - ai-workflow-automation
+  - analysis
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
   - integration
-status: draft
+  - intermediate
+  - local-ai-agents
+  - local-ai-infrastructure
+  - mcp
+  - model-context-protocol
+  - n8n
+  - release
+  - tool-use
+  - workflow
+mentions:
+  - name: n8n
+    role: platform-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The release of [N8n-MCP demonstrates the practical integration of local LLMs with workflow automation](https://github.com/czlonkowski/n8n-mcp) through Anthropic's Model Context Protocol. This tool allows AI assistants—whether running locally or in the cloud—to search and programmatically build n8n workflows, creating a bridge between natural language instructions and executable automation.

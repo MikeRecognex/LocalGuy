@@ -3,12 +3,31 @@ title: "Auditing Apple's DifferentialPrivacy.framework: Bugs, Misconfig, Practic
 date: 2026-05-21
 description: "Security researchers audit Apple's DifferentialPrivacy framework and reveal implementation bugs and misconfigurations that impact privacy guarantees for on-device machine learning applications."
 tags:
+  - advanced
+  - analysis
+  - apple-silicon
+  - cautious
   - daily-digest
-  - privacy
-  - security
-  - on-device
+  - data-privacy
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - hacker-news
+  - on-device
+  - on-device-inference
+  - on-device-privacy
+  - privacy
+  - privacy-audit
+  - privacy-implementation
+  - privacy-preserving-llms
+  - security
+  - security-audit
+  - security-vulnerabilities
+  - vulnerability-management
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Researchers have published a comprehensive audit of Apple's DifferentialPrivacy framework, uncovering critical implementation issues and misconfigurations that weaken privacy guarantees for local machine learning applications. This work is particularly relevant for practitioners deploying sensitive models on-device or building privacy-preserving LLM systems on Apple silicon.

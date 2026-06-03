@@ -3,12 +3,29 @@ title: "Show HN: seed – Self-Modifying Webpage with On-Device LLM"
 date: 2026-05-31
 description: "A novel project demonstrating an LLM running entirely in-browser with the webpage code stored in the URL itself, enabling true on-device inference without external dependencies."
 tags:
-  - daily-digest
-  - on-device
+  - advanced
+  - browser-based-inference
   - browser-inference
+  - bullish
+  - daily-digest
+  - developer
   - edge-deployment
+  - hacker-news
+  - infrastructure-less-deployment
+  - intermediate
+  - lightweight-inference
+  - on-device
+  - on-device-llm
   - open-source
-status: draft
+  - portable-ai
+  - privacy-preserving-ai
+  - self-modifying-webpage
+  - showcase
+  - url-embedded-code
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This innovative project showcases a self-modifying webpage that runs an LLM directly on-device using browser-based inference. The unique approach of embedding the site code in the URL itself eliminates external dependencies and creates a fully portable, privacy-preserving AI application.

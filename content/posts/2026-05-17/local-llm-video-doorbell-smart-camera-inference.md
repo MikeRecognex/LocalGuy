@@ -3,12 +3,28 @@ title: "Local LLM Takes Control of Video Doorbell—The Future of Smart Cameras"
 date: 2026-05-17
 description: "A developer successfully deployed a local LLM to power video doorbell intelligence without cloud connectivity, demonstrating practical edge inference for smart home devices. This showcases how on-device AI can enable real-time processing while maintaining privacy."
 tags:
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
-  - smart-home
-  - privacy
+  - edge-security
   - hardware
-status: draft
+  - how-to-geek
+  - intermediate
+  - model-quantization
+  - offline-ai
+  - on-device-ai
+  - privacy
+  - showcase
+  - smart-home
+  - smart-home-ai
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 A developer has successfully demonstrated running a local LLM to intelligently process video doorbell feeds without relying on cloud services. This practical implementation shows how edge inference can bring AI capabilities to smart home devices while keeping sensitive video data entirely on-device.

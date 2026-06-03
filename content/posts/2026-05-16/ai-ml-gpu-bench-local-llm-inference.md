@@ -3,12 +3,29 @@ title: "AI/ML Benchmark Tool for Local LLM Inference and XGBoost Training"
 date: 2026-05-16
 description: "A new benchmarking tool has been released for measuring local LLM inference performance and XGBoost training across GPU and CPU hardware. This resource helps practitioners evaluate their on-device deployment setups and optimize inference performance."
 tags:
-  - daily-digest
   - benchmark
-  - inference
-  - hardware
+  - benchmarking
+  - bullish
+  - consumer-gpu
+  - cpu-only
+  - daily-digest
+  - deployment-strategy
+  - developer
   - gpu
-status: draft
+  - hardware
+  - inference
+  - inference-frameworks
+  - intermediate
+  - local-llm-inference
+  - model-optimization
+  - open-source-tools
+  - performance-benchmarking
+  - performance-bottlenecks
+  - quantization
+  - release
+  - showcase
+  - xgboost-training
+status: published
 ---
 
 A new [benchmarking tool for local LLM inference](https://github.com/albedan/ai-ml-gpu-bench) has surfaced on Hacker News, providing practitioners with a comprehensive way to measure performance across different hardware configurations. The tool supports both GPU and CPU inference testing, as well as XGBoost training benchmarks, making it valuable for anyone evaluating their local deployment stack.

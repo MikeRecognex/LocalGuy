@@ -3,12 +3,32 @@ title: "Intel llm-scaler-vllm 1.4 Released With Updated Components and Arc Pro B
 date: 2026-05-21
 description: "Intel releases version 1.4 of its llm-scaler-vllm toolkit with improved components and support for Arc Pro B70 GPUs, enabling optimized local LLM inference on Intel hardware."
 tags:
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - vllm
+  - developer
+  - ecosystem-growth
+  - gpu-optimization
+  - gpu-support
   - hardware
+  - hobbyist
+  - inference-speed
   - intel
+  - intermediate
+  - llm-toolkit
+  - local-llm-inference
+  - model-compatibility
+  - on-device-inference
   - optimization
-status: draft
+  - phoronix
+  - release
+  - vllm
+  - vllm-optimization
+mentions:
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 Intel has released llm-scaler-vllm version 1.4, bringing updated components and new support for Arc Pro B70 graphics processors. This release is significant for users running local LLMs on Intel-based systems, as it provides optimized inference performance through vLLM's efficient batch processing and memory management capabilities.

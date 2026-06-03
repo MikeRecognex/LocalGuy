@@ -3,12 +3,34 @@ title: "NordVPN Adds On-Device AI Voice Detector to Chrome Extension to Identify
 date: 2026-05-04
 description: "NordVPN integrates a local AI model into its Chrome extension to detect synthetic audio, demonstrating practical applications of on-device inference for security and media verification."
 tags:
-  - daily-digest
-  - browser-inference
+  - ai-security
   - audio-detection
+  - browser-inference
+  - bullish
+  - cloud-independence
+  - daily-digest
+  - deepfake-detection
+  - developer
+  - edge-device
+  - edge-inference
+  - enterprise
+  - intermediate
+  - latency-reduction
+  - nordvpn
   - on-device-ai
+  - on-device-audio-ai
+  - privacy-preserving-ai
+  - privacy-security
   - real-world-application
-status: draft
+  - release
+  - showcase
+  - synthetic-audio-detection
+mentions:
+  - name: NordVPN
+    role: developer
+  - name: NordVPN
+    role: provider
+status: published
 ---
 
 NordVPN's integration of an on-device voice detection model into its Chrome extension exemplifies real-world applications of local LLM and audio AI technology. By processing audio locally rather than sending it to remote servers, the implementation preserves user privacy while addressing the growing concern of synthetic voice spoofing and deepfakes.

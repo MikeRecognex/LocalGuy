@@ -3,12 +3,30 @@ title: "Netflix Wiz Creates App to Slash AI Bills, Then Open Sources It"
 date: 2026-06-01
 description: "Netflix engineer Wiz has developed and open-sourced a tool designed to significantly reduce AI inference costs, making it highly relevant for self-hosted LLM deployments seeking cost optimization."
 tags:
-  - daily-digest
+  - ai-cost-reduction
+  - bullish
   - cost-optimization
-  - open-source
-  - inference
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - edge-device
+  - hacker-news
+  - inference
+  - inference-cost-reduction
+  - intermediate
+  - llama-cpp-framework
+  - llm-deployment
+  - ollama-framework
+  - open-source
+  - open-source-tools
+  - release
+  - self-hosted-llms
+mentions:
+  - name: Wiz
+    role: engineer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Netflix engineer Wiz has released an open-source application specifically designed to reduce AI inference costs, addressing one of the most pressing challenges for teams running LLMs locally. This tool is particularly valuable for organizations deploying models on-device or self-hosted infrastructure, where operational expenses can quickly accumulate.

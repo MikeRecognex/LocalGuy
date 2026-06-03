@@ -3,12 +3,33 @@ title: "Sarvam Edge: Indian-Built AI Models Run Offline on Phones and Laptops Wi
 date: 2026-05-06
 description: "Sarvam AI released Sarvam Edge, a suite of models specifically designed for on-device deployment on smartphones and laptops without internet connectivity. This represents a significant step forward in making practical, localized AI accessible across diverse hardware."
 tags:
+  - analysis
+  - bullish
+  - cpu-inference
+  - cpu-only
   - daily-digest
+  - developer
+  - distributed-ai
   - edge-deployment
+  - edge-device
+  - intermediate
+  - local-ai
+  - local-ai-accessibility
+  - localized-ai
   - mobile-inference
+  - model-optimization
+  - offline-inference
+  - on-device-ai
   - open-source
   - performance
-status: draft
+  - performance-optimization
+  - privacy-preserving-inference
+  - release
+  - sarvam-ai
+mentions:
+  - name: Sarvam AI
+    role: developer
+status: published
 ---
 
 Sarvam AI has launched Sarvam Edge, a new line of AI models explicitly optimized for on-device inference on phones and laptops, functioning entirely without internet connectivity. This release demonstrates the growing viability of truly local AI inference as an alternative to cloud-dependent solutions.

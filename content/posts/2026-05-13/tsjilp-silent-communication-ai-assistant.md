@@ -3,12 +3,29 @@ title: "Tsjilp – AI as a Silent Communication Assistant"
 date: 2026-05-13
 description: "Tsjilp presents a novel approach to local AI deployment for accessibility and communication, offering silent, on-device AI assistance for users."
 tags:
-  - daily-digest
   - accessibility
-  - edge-inference
-  - local-deployment
+  - accessibility-tech
+  - assistive-technology
+  - beginner-friendly
+  - bullish
   - communication
-status: draft
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-device
+  - edge-inference
+  - future-applications
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - low-latency
+  - on-device-ai
+  - showcase
+  - silent-communication
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Tsjilp demonstrates an innovative use case for local LLM deployment in accessibility applications. By running AI models on-device rather than relying on cloud services, the platform enables silent, real-time communication assistance without network latency or privacy concerns associated with cloud processing.

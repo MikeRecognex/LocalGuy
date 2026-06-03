@@ -3,12 +3,31 @@ title: "Proveyouragent: Cryptographic Identity for AI Agents (Ed25519 and DPoP)"
 date: 2026-06-01
 description: "A novel approach to establishing cryptographic identity for AI agents using Ed25519 and Demonstration of Proof-of-Possession, relevant for securing locally-deployed agent systems and decentralized architectures."
 tags:
-  - daily-digest
-  - security
+  - advanced
+  - agent-authentication
+  - agent-security
   - agents
+  - ai-agent-identity
+  - bullish
+  - cryptographic-identity
+  - cryptographic-signatures
   - cryptography
+  - daily-digest
+  - decentralized-agents
+  - decentralized-ai
+  - developer
+  - hacker-news
+  - local-agent-systems
   - local-deployment
-status: draft
+  - proveyouragent
+  - security
+  - showcase
+mentions:
+  - name: ProveYourAgent
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As LLM agents become more sophisticated and autonomous, establishing reliable cryptographic identity for these systems is critical for security and trust. The ProveYourAgent project introduces a framework for assigning verifiable cryptographic identities to AI agents using industry-standard techniques like Ed25519 signatures and Demonstration of Proof-of-Possession (DPoP), enabling secure agent-to-agent communication and external service authentication.

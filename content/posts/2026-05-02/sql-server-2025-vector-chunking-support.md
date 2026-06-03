@@ -3,12 +3,43 @@ title: "SQL Server 2025 Adds Built-in Chunking and Vector Support"
 date: 2026-05-02
 description: "Microsoft SQL Server 2025 introduces native vector database capabilities and chunking utilities, streamlining local LLM deployment with RAG and semantic search workflows."
 tags:
+  - analysis
+  - architectural-simplification
+  - bullish
+  - chroma
+  - cost-saving
   - daily-digest
-  - rag
-  - vector-database
-  - sql-server
   - deployment-tools
-status: draft
+  - developer
+  - enterprise
+  - infrastructure-simplification
+  - intermediate
+  - lets-data-science
+  - local-llm-architecture
+  - news
+  - pinecone
+  - rag
+  - rag-pipeline
+  - rag-pipeline-deployment
+  - release
+  - semantic-search
+  - sql-server
+  - sql-server-integration
+  - sql-server-vector-database
+  - text-chunking
+  - vector-database
+  - vector-database-integration
+  - weaviate
+mentions:
+  - name: Pinecone
+    role: vector-store-provider
+  - name: Weaviate
+    role: vector-store-provider
+  - name: Chroma
+    role: vector-store-provider
+  - name: Let's Data Science
+    role: publisher
+status: published
 ---
 
 SQL Server 2025 has added built-in support for vector embeddings and text chunking, eliminating the need for separate vector databases in many local LLM applications. This integration simplifies the infrastructure required for retrieval-augmented generation (RAG) pipelines, a critical pattern for grounding local models with proprietary data.

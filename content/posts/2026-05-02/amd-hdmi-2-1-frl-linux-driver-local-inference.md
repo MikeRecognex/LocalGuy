@@ -3,12 +3,33 @@ title: "AMD Posts HDMI 2.1 FRL Patches for Amdgpu Linux Driver"
 date: 2026-05-02
 description: "AMD is adding HDMI 2.1 FRL support to their Linux GPU driver, improving display connectivity for systems running local LLM inference on AMD hardware. This update benefits practitioners deploying models on AMD GPUs in headless or multi-monitor setups."
 tags:
-  - daily-digest
-  - hardware
   - amd
-  - linux
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - display-connectivity
+  - driver-development
   - edge-deployment
-status: draft
+  - gpu-comparison
+  - gpu-driver-development
+  - hacker-news
+  - hardware
+  - hardware-comparison
+  - intermediate
+  - linux
+  - linux-driver-support
+  - local-inference
+  - model-deployment
+  - news
+  - phoronix
+  - production-deployment
+mentions:
+  - name: Phoronix
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 AMD has posted patches for HDMI 2.1 FRL (Fixed Rate Link) support in their amdgpu Linux driver. For developers running local LLM inference on AMD GPUs, proper display driver support is crucial for stable, long-running deployments—especially in edge computing and production environments where reliability matters.

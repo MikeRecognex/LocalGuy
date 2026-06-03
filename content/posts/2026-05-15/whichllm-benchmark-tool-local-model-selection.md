@@ -3,12 +3,30 @@ title: "Show HN: Find the best local LLM for your hardware, ranked by benchmarks
 date: 2026-05-15
 description: "A new GitHub tool helps developers identify the optimal local LLM for their specific hardware constraints by ranking models across performance benchmarks. This addresses a key pain point in the local LLM ecosystem where choosing between dozens of models requires extensive manual testing."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-data-aggregation
+  - bullish
+  - consumer-gpu
+  - cpu-only
+  - daily-digest
+  - data-driven-decisions
+  - deployment-optimization
+  - developer
+  - edge-device
+  - hacker-news
   - hardware
-  - open-source
+  - hardware-optimization
+  - intermediate
+  - llm-performance-factors
+  - local-llms
   - model-selection
-status: draft
+  - open-source
+  - performance-benchmarking
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Selecting the right local LLM for your hardware setup has traditionally required extensive trial-and-error benchmarking. A new open-source project aims to eliminate this friction by providing a ranked comparison of local models based on actual performance metrics across different hardware configurations.

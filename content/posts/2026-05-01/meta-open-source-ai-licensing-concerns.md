@@ -3,12 +3,38 @@ title: "Meta Just Killed Open-Source AI"
 date: 2026-05-01
 description: "A critical analysis of Meta's recent licensing or business model changes that significantly impact the open-source LLM ecosystem and local deployment freedoms."
 tags:
+  - advanced
+  - analysis
+  - architectural-design
+  - cautious
   - daily-digest
-  - open-source
-  - licensing
-  - meta-llama
+  - developer
+  - ecosystem-sustainability
+  - eleutherai
+  - hacker-news
+  - intermediate
   - legal
-status: draft
+  - licensing
+  - licensing-changes
+  - llama-licensing-changes
+  - llama-models
+  - local-deployment
+  - local-deployment-strategy
+  - local-llm-deployment
+  - meta-llama
+  - model-dependency-management
+  - model-licensing
+  - open-source
+  - open-source-ai
+  - open-source-llms
+  - open-source-models
+  - self-hosting
+mentions:
+  - name: EleutherAI
+    role: project
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Meta's Llama models have been foundational to the local LLM community, but recent developments in licensing or business restrictions suggest a significant shift that could limit the freedom to deploy and modify these models locally. This article examines the implications of these changes for independent developers and organizations running self-hosted LLM infrastructure.

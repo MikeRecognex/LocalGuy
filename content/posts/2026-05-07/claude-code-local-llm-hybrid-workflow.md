@@ -3,12 +3,29 @@ title: "Claude Code with a Local LLM Running Offline Is the Hybrid Setup I Didn'
 date: 2026-05-07
 description: "A developer shares their experience combining Claude Code with a locally-running LLM for an optimal hybrid workflow. This practical guide demonstrates how to leverage both cloud AI capabilities and local inference for flexible, privacy-preserving development."
 tags:
+  - analysis
+  - bullish
+  - cloud-inference-benefits
+  - cost-saving
   - daily-digest
-  - workflow
-  - local-inference
-  - practical-guide
+  - data-privacy
+  - developer
+  - hybrid-ai-workflow
   - hybrid-deployment
-status: draft
+  - intermediate
+  - local-inference
+  - local-inference-benefits
+  - local-inference-performance
+  - msn
+  - on-device-inference
+  - open-source-models
+  - practical-guide
+  - tutorial
+  - workflow
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 A developer recently shared how combining Claude Code with a locally-running LLM creates an ideal hybrid development workflow. By running an open-source model locally while maintaining access to Claude's capabilities, they achieved both flexibility and privacy without sacrificing code quality or inference speed.

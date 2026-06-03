@@ -3,12 +3,34 @@ title: "Supply Chain DLP: Stop Leaked .env Files, Credentials, SSH Keys, and API
 date: 2026-06-02
 description: "A security-focused tool and framework for preventing credential leaks in development and deployment pipelines, critical for teams running local LLMs with sensitive infrastructure."
 tags:
-  - daily-digest
-  - security
-  - deployment
   - best-practices
+  - bullish
+  - ci-cd-integration
+  - credential-management
+  - daily-digest
+  - data-loss-prevention
+  - deployment
+  - developer
+  - devops-security
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-llm-security
   - open-source
-status: draft
+  - secret-management
+  - security
+  - security-posture
+  - self-hosted-deployment
+  - showcase
+  - supply-chain-dlp
+  - supply-chain-security
+  - tutorial
+mentions:
+  - name: Supply Chain DLP
+    role: tool-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Data loss prevention (DLP) across the supply chain addresses a critical vulnerability in local LLM deployments: accidental exposure of credentials, API keys, and configuration files that grant access to models, databases, and infrastructure. When running LLMs locally, teams typically manage sensitive credentials for model downloads, vector databases, authentication systems, and monitoring tools—all of which represent security risks if exposed through version control, logs, or build artifacts.

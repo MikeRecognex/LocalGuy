@@ -3,12 +3,34 @@ title: "A Cinematic Landing-Page Hero for 80 Cents (GPT Image 2 and Veo 3.1)"
 date: 2026-06-02
 description: "A cost-effective demonstration of generating cinematic video content for landing pages using recent image and video generation models, highlighting practical economics of modern generative AI."
 tags:
-  - daily-digest
-  - video-generation
+  - analysis
+  - bullish
+  - case-study
+  - cost-effective-ai
   - cost-optimization
-  - open-source
+  - daily-digest
+  - developer
+  - edge-device
+  - generative-ai-workflows
+  - hacker-news
+  - image-generation
   - inference
-status: draft
+  - inference-optimization
+  - intermediate
+  - johnkuehcom
+  - local-deployment
+  - local-vs-cloud-inference
+  - model-efficiency
+  - model-optimization
+  - open-source
+  - quantization
+  - video-generation
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: johnkueh.com
+    role: publisher
+status: published
 ---
 
 This article documents a practical case study in cost-effective content generation using modern multimodal models. By combining GPT Image 2 stills with Veo 3.1 video generation, the author created professional-quality cinematic landing page content for under $1—demonstrating how the economics of AI-generated media have fundamentally shifted toward accessibility.

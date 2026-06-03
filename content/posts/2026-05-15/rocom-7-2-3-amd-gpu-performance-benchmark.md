@@ -3,12 +3,33 @@ title: "ROCm 7.2.3 Delivers Performance Improvements Over 7.0.0 on AMD Radeon AI
 date: 2026-05-15
 description: "Phoronix benchmarks show measurable performance gains with ROCm 7.2.3 compared to version 7.0.0 on AMD's Radeon AI PRO R9700 GPU. The improvements highlight the importance of staying current with driver and runtime updates for optimal local inference performance."
 tags:
-  - daily-digest
-  - rocm
   - amd-gpu
+  - analysis
   - benchmark
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - datacenter-gpu
+  - developer
+  - enterprise
+  - hardware-optimization
+  - hardware-strategy
+  - inference-benchmarking
+  - intermediate
+  - local-inference
   - performance
-status: draft
+  - phoronix
+  - rocm
+  - rocm-performance
+  - rocm-updates
+  - software-optimization
+  - software-updates
+mentions:
+  - name: Phoronix
+    role: publisher
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 [ROCm 7.2.3 shows meaningful performance improvements over version 7.0.0 when deployed on AMD's Radeon AI PRO R9700](https://phoronix.com/), according to Phoronix's comprehensive benchmarking. These gains across various compute workloads are particularly relevant for practitioners leveraging AMD's professional-grade GPUs for local LLM inference.

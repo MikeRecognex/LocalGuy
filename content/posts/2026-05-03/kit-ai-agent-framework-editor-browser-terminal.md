@@ -3,12 +3,32 @@ title: "Show HN: Kit – Editor, Browser, Terminal, Mail with AI Agents Sharing 
 date: 2026-05-03
 description: "A new framework integrating AI agents across multiple tools with shared context, enabling coordinated on-device AI workflows without relying on external services."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - ai-agent-orchestration
+  - analysis
+  - bullish
+  - context-management
+  - daily-digest
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - framework
+  - hacker-news
+  - intermediate
   - local-deployment
+  - on-device-ai
   - open-source
-status: draft
+  - resource-optimization
+  - showcase
+  - specialized-models
+  - workflow-automation
+mentions:
+  - name: Raiyan Yahya
+    role: creator
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Kit presents an innovative approach to coordinating AI agents across editor, browser, terminal, and mail clients with unified context sharing](https://github.com/raiyanyahya/kit). The framework enables multiple local AI agents to collaborate and maintain coherent state, opening possibilities for sophisticated multi-tool workflows entirely on-device.

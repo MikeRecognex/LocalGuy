@@ -3,12 +3,33 @@ title: "ScopeGuard 0.0.7: Go Linter with Model Context Protocol Support"
 date: 2026-05-02
 description: "ScopeGuard, a Go linter for scope and shadow issues, now includes Model Context Protocol (MCP) support, enabling integration with local AI coding tools. This bridges traditional developer tooling with local LLM-powered code analysis."
 tags:
-  - daily-digest
-  - mcp
-  - tools
   - agents
+  - bullish
+  - code-analysis
+  - coding-assistants
+  - daily-digest
+  - developer
+  - developer-tooling
+  - developer-workflows
+  - go-development
+  - go-linter
+  - hacker-news
+  - intermediate
+  - local-ai-tools
+  - local-ai-workflows
   - local-inference
-status: draft
+  - mcp
+  - model-context-protocol
+  - on-device-ai
+  - release
+  - scopeguard
+  - tools
+mentions:
+  - name: ScopeGuard
+    role: tool-developer
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 ScopeGuard's addition of Model Context Protocol (MCP) support represents an important step toward making local LLMs true participants in the developer toolchain. By exposing linting capabilities via MCP, developers can now run local language models that understand Go code analysis contextually, enabling smarter code suggestions and error detection without external APIs.

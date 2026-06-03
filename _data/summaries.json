@@ -303,6 +303,146 @@
     "2026-04-28": {
       "text": "Google's Gemma 4 models enable efficient on-device inference on phones and laptops.",
       "postCount": 10
+    },
+    "2026-04-29": {
+      "text": "Llama.cpp runs on vintage SGI Power Challenge hardware with MIPS R8000 architecture.",
+      "postCount": 10
+    },
+    "2026-04-30": {
+      "text": "Gemma 4 enables on-device inference on smartphones and laptops without cloud connectivity.",
+      "postCount": 10
+    },
+    "2026-05-01": {
+      "text": "Claude AI workstation setup is now automated with a single command using the new setup tool.",
+      "postCount": 10
+    },
+    "2026-05-02": {
+      "text": "AMD updates Amdgpu Linux driver with HDMI 2.1 FRL support for local LLM inference.",
+      "postCount": 10
+    },
+    "2026-05-03": {
+      "text": "DeepSeek V4 Pro matches GPT-5 performance in NIST's CAISI evaluation benchmarks.",
+      "postCount": 10
+    },
+    "2026-05-04": {
+      "text": "Anker's Thus chip enables on-device AI with improved latency and privacy.",
+      "postCount": 10
+    },
+    "2026-05-05": {
+      "text": "Gemma 4 model enables on-device AI for phones and laptops.",
+      "postCount": 10
+    },
+    "2026-05-06": {
+      "text": "Gemma 4 inference speed triples with multi-token prediction drafters from Google.",
+      "postCount": 10
+    },
+    "2026-05-07": {
+      "text": "Ollama vulnerability exposes 300,000 servers to attacks.",
+      "postCount": 10
+    },
+    "2026-05-08": {
+      "text": "Gemma model enables local, privacy-preserving AI inference on various devices.",
+      "postCount": 10
+    },
+    "2026-05-09": {
+      "text": "Lemonade framework expands support for AMD hardware in local LLM inference.",
+      "postCount": 10
+    },
+    "2026-05-10": {
+      "text": "Mlx-serve enables native LLM inference on Apple Silicon Macs.",
+      "postCount": 10
+    },
+    "2026-05-11": {
+      "text": "Frigate and Ollama run on Minisforum MS-A2 server hardware.",
+      "postCount": 10
+    },
+    "2026-05-12": {
+      "text": "AMD's vLLM-ATOM plugin optimizes DeepSeek-R1 inference on Instinct MI350 accelerators.",
+      "postCount": 10
+    },
+    "2026-05-13": {
+      "text": "Gemma 4 enables on-device inference on consumer phones and laptops.",
+      "postCount": 10
+    },
+    "2026-05-14": {
+      "text": "Chrome downloads a 4GB AI model for local processing automatically.",
+      "postCount": 10
+    },
+    "2026-05-15": {
+      "text": "Arm and Google collaborate on on-device AI optimization techniques for edge devices.",
+      "postCount": 10
+    },
+    "2026-05-16": {
+      "text": "DwarfStar 4 optimizes DeepSeek V4 Flash for efficient local inference on resource-constrained devices.",
+      "postCount": 10
+    },
+    "2026-05-17": {
+      "text": "NVIDIA Jetson powers offline chatbot suitcase with local LLM inference capabilities.",
+      "postCount": 10
+    },
+    "2026-05-18": {
+      "text": "AMD's Lemonade SDK integrates ROCm 7.13 for local LLM inference on Apple Silicon.",
+      "postCount": 10
+    },
+    "2026-05-19": {
+      "text": "Bito's AI Architect boosts Claude Opus task success rate by 35% on SWE-Bench Pro.",
+      "postCount": 10
+    },
+    "2026-05-20": {
+      "text": "Google's Tensor SDK beta features LiteRT for efficient on-device AI deployments.",
+      "postCount": 5
+    },
+    "2026-05-21": {
+      "text": "Adobe Photoshop 27.7 features on-device AI processing with local generative AI capabilities.",
+      "postCount": 10
+    },
+    "2026-05-22": {
+      "text": "Gemini 3.5 Flash becomes Google's default AI model for billions of users.",
+      "postCount": 10
+    },
+    "2026-05-23": {
+      "text": "AMD's Ryzen AI Halo platform optimizes on-device AI inference with dedicated neural processing capabilities.",
+      "postCount": 5
+    },
+    "2026-05-24": {
+      "text": "Intel Optane DIMMs enable trillion-parameter LLM deployment on constrained budgets.",
+      "postCount": 10
+    },
+    "2026-05-25": {
+      "text": "Gemma 4 model optimizes for budget-conscious local deployment scenarios in Posit AI.",
+      "postCount": 10
+    },
+    "2026-05-26": {
+      "text": "Anker's Soundcore Liberty 5 Pro earbuds feature a dedicated AI chip.",
+      "postCount": 5
+    },
+    "2026-05-27": {
+      "text": "EAGLE 3.1 and MiniCPM5-1B optimize local LLM inference.",
+      "postCount": 5
+    },
+    "2026-05-28": {
+      "text": "Alibaba Cloud joins PyTorch Foundation as Platinum member.",
+      "postCount": 10
+    },
+    "2026-05-29": {
+      "text": "Google releases Tiny Board for running Gemma 3 models locally.",
+      "postCount": 10
+    },
+    "2026-05-30": {
+      "text": "MediaTek's Dimensity 7500 integrates on-device AI for local LLM inference.",
+      "postCount": 10
+    },
+    "2026-05-31": {
+      "text": "Google Chrome downloads 4GB AI model without user permission for on-device inference capabilities.",
+      "postCount": 10
+    },
+    "2026-06-01": {
+      "text": "NVIDIA launches N1X/N1 CPU-GPU SoC for local LLM inference on PCs.",
+      "postCount": 10
+    },
+    "2026-06-02": {
+      "text": "JetBrains releases Mellum2, a 12B MoE model for fast tasks.",
+      "postCount": 10
     }
   },
   "weekly": {
@@ -351,8 +491,28 @@
       "postCount": 65
     },
     "2026-04-26": {
-      "text": "<p>Gemma 4 and Pocket LLM v1.5.0 lead the week's news, targeting local AI deployment.</p>\n<p>Don't miss \"Hipfire: A Rust-Native AMD Inference Engine\" and \"Stop Guessing\" for local AI insights.</p>",
-      "postCount": 15
+      "text": "<p>Google's Gemma 4 and NVIDIA's Nemotron 3 Nano Omni were major stories, optimizing AI for on-device inference.</p>\n<p>Posts like \"Picking Your First Local LLM Is Easier Than the Internet Makes It Sound\" and \"N8n, Dify, and Ollama Might Be the Best Self-Hosted AI Automation Stack Right Now\" stood out.</p>",
+      "postCount": 65
+    },
+    "2026-05-03": {
+      "text": "<p>Gemma 4 and Claude were among the week's biggest stories, with Google announcing significant performance improvements for Gemma 4 and developers showcasing Claude's capabilities in local deployments.</p>\n<p>Don't miss \"Building a Jira Alternative with Claude in 8 Days\" and \"I Replaced ChatGPT and Claude With This Powerful Local LLM\" for insights into practical local LLM applications and cost savings.</p>",
+      "postCount": 70
+    },
+    "2026-05-10": {
+      "text": "<p>Big stories this week include the discovery of a critical vulnerability in Ollama and the launch of Gemma 4, which replaces entire local LLM stacks. </p>\n<p>Standout posts include \"DFlash Speculative Decoding\" and \"One LM Studio Setting Change\", which highlight optimization techniques for local LLM inference. </p>",
+      "postCount": 70
+    },
+    "2026-05-17": {
+      "text": "<p>Samsung's Exynos 2800 and AMD's Ryzen AI Max Pro 400 series made headlines with significant on-device AI capabilities. </p>\n<p>Standout posts include \"The AI Layoff Receipts\" and \"The Time Bomb Went Off\". </p>",
+      "postCount": 60
+    },
+    "2026-05-24": {
+      "text": "<p>Big stories this week include the release of Gemma 4, a new budget-focused model, and Liquid AI's LFM2.5 model for on-device AI agents. </p>\n<p>Notable posts include \"AgentSlice – Make AI Coding Agents Ask Before They Edit\" and \"AI Guardrails Stripped From Meta and Google Models in Minutes\", highlighting safety and security concerns in AI development. </p>",
+      "postCount": 60
+    },
+    "2026-05-31": {
+      "text": "<p>NVIDIA launched N1X/N1 CPU-GPU SoC and RTX Spark for local AI. Qualcomm revealed Snapdragon C.</p>\n<p>Read \"Proveyouragent\" and \"Chrome Quietly Downloads 4GB AI Model\" for local LLM insights.</p>",
+      "postCount": 20
     }
   }
 }

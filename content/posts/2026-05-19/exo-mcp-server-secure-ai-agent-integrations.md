@@ -3,12 +3,34 @@ title: "eXo MCP Server Enables Secure AI Agent Access to Workplace Tools"
 date: 2026-05-19
 description: "The eXo platform has introduced an MCP server implementation that securely exposes workplace tools to AI agents using OAuth authentication. This enables controlled local agent deployments in enterprise environments."
 tags:
-  - daily-digest
+  - access-control
+  - advanced
+  - agent-deployment
+  - agent-orchestration
   - agents
-  - mcp
+  - ai-agent-security
+  - ai-security
+  - bullish
+  - compliance
+  - daily-digest
   - enterprise
+  - enterprise-integration
+  - exo-platform
+  - exoplatform
+  - intermediate
+  - local-agent-deployment
+  - mcp
+  - model-context-protocol
+  - oauth-security
+  - release
   - security
-status: draft
+  - showcase
+mentions:
+  - name: eXo platform
+    role: platform-provider
+  - name: eXoPlatform
+    role: publisher
+status: published
 ---
 
 The eXo platform has released an MCP (Model Context Protocol) server that addresses a critical infrastructure need: securely connecting AI agents to enterprise workplace tools and services. The implementation uses OAuth for authentication, enabling fine-grained permission control and audit trails—essential for organizations deploying local AI agents.

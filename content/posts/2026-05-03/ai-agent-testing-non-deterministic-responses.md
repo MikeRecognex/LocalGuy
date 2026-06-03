@@ -3,12 +3,33 @@ title: "How to Test AI Agents When They Never Give the Same Answer Twice"
 date: 2026-05-03
 description: "A comprehensive guide addressing the challenge of evaluating and testing AI agents whose non-deterministic outputs make traditional testing methodologies difficult."
 tags:
-  - daily-digest
-  - testing
-  - evaluation
+  - advanced
+  - agent-architectures
+  - agentic-workflows
   - agents
+  - ai-agent-testing
+  - analysis
+  - bullish
+  - cost-saving
+  - daily-digest
+  - developer
+  - evaluation
+  - evaluation-frameworks
+  - hacker-news
+  - local-deployment-benefits
+  - model-evaluation
+  - model-sampling
+  - non-deterministic-ai
   - quality-assurance
-status: draft
+  - testing
+  - testing-strategies
+  - tutorial
+mentions:
+  - name: adlrocha
+    handle: "adlrocha"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [This article tackles the practical challenge of testing and evaluating AI agents whose non-deterministic behavior resists conventional QA methodologies](https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to). As local LLM deployments scale from prototypes to production systems, robust evaluation frameworks become critical for maintaining quality and reliability.

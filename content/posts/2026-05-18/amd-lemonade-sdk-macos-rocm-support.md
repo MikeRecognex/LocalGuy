@@ -3,12 +3,35 @@ title: "AMD's Lemonade SDK Advances macOS Support for Local AI Inference with RO
 date: 2026-05-18
 description: "AMD promotes macOS to general availability status in its Lemonade SDK for AI, integrating ROCm 7.13 to enable GPU-accelerated local LLM inference on Apple Silicon and AMD-powered Macs."
 tags:
+  - apple-silicon
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - cross-platform-deployment
   - daily-digest
+  - developer
+  - framework-performance
+  - google-news
+  - gpu-acceleration
   - hardware
-  - rocm
+  - hardware-flexibility
+  - intermediate
+  - local-inference-hardware
   - macos
+  - macos-ai-inference
+  - ml-optimization
+  - news
   - optimization
-status: draft
+  - phoronix
+  - release
+  - rocm
+  - rocm-support
+mentions:
+  - name: Google News
+    role: publisher
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 AMD's Lemonade SDK now officially supports macOS with full GPU acceleration capabilities through integrated ROCm 7.13 support. This milestone enables developers to leverage AMD and Apple Silicon hardware for GPU-accelerated local LLM inference on macOS systems, filling a critical gap in cross-platform deployment options.

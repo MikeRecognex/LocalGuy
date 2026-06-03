@@ -3,12 +3,33 @@ title: "Avocado Studio: Open-Source AI Content Editor for Next.js Sites"
 date: 2026-05-14
 description: "A new open-source AI content editor integrates local model inference with web development frameworks. This tool demonstrates practical integration of on-device LLMs into modern development workflows for content generation and management."
 tags:
-  - daily-digest
-  - open-source
   - agents
-  - mlx
+  - ai-content-generation
+  - avocado-studio
+  - bullish
+  - cost-saving
+  - daily-digest
+  - developer
   - fine-tuning
-status: draft
+  - hacker-news
+  - intermediate
+  - llm-inference-toolchains
+  - local-llm-inference
+  - mlx
+  - open-source
+  - open-source-ai-tools
+  - showcase
+  - simplified-deployment
+  - web-development-integration
+  - web-llm-integration
+mentions:
+  - name: Avocado Studio
+    role: project
+  - name: Hacker News
+    role: publisher
+  - name: Avocado Studio
+    role: developer
+status: published
 ---
 
 [Avocado Studio](https://docs.avocadostudio.dev) represents a practical implementation of local LLM inference within modern web development stacks. This open-source tool demonstrates how to integrate on-device AI capabilities directly into Next.js-based content platforms, eliminating the need for external API calls and enabling real-time content generation.

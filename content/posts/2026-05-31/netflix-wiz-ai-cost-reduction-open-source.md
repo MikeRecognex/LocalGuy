@@ -3,12 +3,36 @@ title: "Netflix Wiz Creates App to Slash AI Bills by Pruning Agent Instructions,
 date: 2026-05-31
 description: "Netflix's Wiz team developed and open-sourced a tool that significantly reduces LLM inference costs by optimizing agent instructions, offering practical cost savings for local and cloud deployments."
 tags:
-  - daily-digest
-  - cost-optimization
   - agents
+  - bullish
+  - cost-optimization
+  - cost-saving
+  - daily-digest
+  - developer
+  - hacker-news
   - inference
+  - inference-speed
+  - instruction-tuning
+  - intermediate
+  - llm-optimization
+  - local-deployment
+  - netflix
   - open-source
-status: draft
+  - open-source-ai-tools
+  - prompt-optimization
+  - release
+  - resource-optimization
+  - the-register
+mentions:
+  - name: Netflix
+    role: developer
+  - name: Netflix
+    role: developer
+  - name: The Register
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Netflix's Wiz team has released a practical tool that addresses one of the biggest concerns for LLM practitioners: inference costs. By intelligently pruning and optimizing agent instructions, the tool delivers measurable cost reductions that apply equally to self-hosted local deployments and cloud-based inference.

@@ -3,12 +3,36 @@ title: "Google Explains Why AICore Storage Requirements Are Increasing on Androi
 date: 2026-05-04
 description: "Google provides transparency about the expanding storage footprint of AICore, its on-device AI runtime for Android, explaining the tradeoffs between capability and storage size."
 tags:
-  - daily-digest
+  - aicore
+  - aicore-storage
+  - analysis
   - android
-  - on-device-ai
-  - optimization
+  - android-ai
+  - android-authority
+  - daily-digest
+  - developer
+  - edge-device
+  - intermediate
+  - local-inference
+  - mobile-ai-deployment
+  - mobile-deployment
+  - mobile-device
   - mobile-inference
-status: draft
+  - mobile-llm-deployment
+  - model-advancement-trends
+  - model-footprint-management
+  - model-optimization
+  - neutral
+  - on-device-ai
+  - on-device-storage
+  - optimization
+  - privacy-preserving-inference
+  - storage-optimization
+mentions:
+  - name: AICore
+  - name: Android Authority
+    role: publisher
+status: published
 ---
 
 Google's explanation of AICore's growing storage requirements highlights the real-world tensions in mobile on-device AI deployment. As models become more capable and optimized for privacy-preserving inference, the supporting runtime and model components necessarily expand, creating tradeoffs between functionality and device storage constraints.

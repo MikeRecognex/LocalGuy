@@ -3,12 +3,32 @@ title: "Privatemode.ai – AI Provider with Confidential Computing"
 date: 2026-05-12
 description: "Privatemode.ai introduces confidential computing capabilities for local and self-hosted LLM deployment, enabling encrypted inference without exposing model weights or input data."
 tags:
-  - daily-digest
+  - analysis
+  - bullish
   - confidential-computing
-  - privacy
-  - self-hosted
+  - daily-digest
+  - data-privacy
   - deployment
-status: draft
+  - encrypted-inference
+  - enterprise
+  - hacker-news
+  - hardware-acceleration
+  - intermediate
+  - local-llm-deployment
+  - on-device-inference
+  - privacy
+  - privacy-compliance
+  - privatemodeai
+  - production-deployment
+  - self-hosted
+  - self-hosted-deployment
+  - showcase
+mentions:
+  - name: Privatemode.ai
+    role: provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Privatemode.ai](https://www.privatemode.ai/) brings confidential computing to the local LLM deployment landscape, addressing one of the most critical concerns for organizations running models on-device: data and model privacy.

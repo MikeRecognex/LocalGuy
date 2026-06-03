@@ -3,12 +3,34 @@ title: "How I Used a Local LLM to Organize the Store on My NAS"
 date: 2026-05-13
 description: "A practical guide demonstrating how to deploy a local LLM on network-attached storage hardware to automate file organization and metadata management tasks."
 tags:
-  - daily-digest
-  - nas
-  - practical-deployment
   - automation
+  - bullish
+  - cost-saving
+  - cpu-only
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-device
+  - edge-inference
+  - file-management-automation
+  - hobbyist
+  - intermediate
+  - local-deployment
+  - model-quantization
+  - msn
+  - nas
+  - nas-deployment
+  - nas-inference
+  - network-inference
+  - practical-deployment
+  - prompt-engineering
   - self-hosted
-status: draft
+  - tutorial
+  - workflow-integration
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This article exemplifies the practical applications of local LLM deployment beyond chat interfaces. Using an LLM on a NAS device for intelligent file organisation demonstrates how edge inference can solve real-world problems while keeping data local and avoiding cloud API costs. NAS devices, typically running Linux with modest multi-core CPUs, represent an ideal target platform for quantised LLMs.

@@ -3,12 +3,30 @@ title: "AgentSlice – Make AI Coding Agents Ask Before They Edit"
 date: 2026-05-25
 description: "New open-source tool adds safety guardrails to AI coding agents by requiring confirmation before executing code changes. Addresses critical operational safety concerns in autonomous development workflows."
 tags:
-  - daily-digest
   - agents
-  - safety
+  - ai-coding-agents
+  - ai-safety
+  - autonomous-agents
+  - autonomous-development
+  - bullish
+  - code-execution-safety
+  - code-modification-control
+  - daily-digest
+  - developer
+  - enterprise
+  - hacker-news
+  - human-in-the-loop-ai
+  - intermediate
   - open-source
+  - operational-ai
+  - safety
+  - self-hosted-ai
+  - showcase
   - tooling
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 AgentSlice introduces a practical safety layer for AI coding agents by implementing a confirmation mechanism before agents execute code modifications. This tool addresses a growing operational concern as teams increasingly deploy autonomous AI agents for development tasks: preventing unintended or risky code changes from being applied without human review.

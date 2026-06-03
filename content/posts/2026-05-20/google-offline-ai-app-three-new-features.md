@@ -3,12 +3,31 @@ title: "Google's Offline AI App Gets Three Major Feature Upgrades"
 date: 2026-05-20
 description: "Google enhances its offline-capable AI application with three significant new features, further improving the user experience for on-device AI processing. Updates focus on expanding functionality while maintaining privacy and reducing dependence on cloud services."
 tags:
+  - android-authority
+  - bullish
+  - cloud-independence
   - daily-digest
-  - privacy
-  - mobile-deployment
-  - optimization
+  - data-privacy
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - feature-scoped-inference
+  - google-ai-tooling
+  - intermediate
+  - local-ai-adoption
+  - mobile-deployment
+  - model-updates
+  - news
+  - offline-ai
+  - on-device-ai
+  - on-device-inference
+  - optimization
+  - privacy
+  - resource-management
+mentions:
+  - name: Android Authority
+    role: publisher
+status: published
 ---
 
 Google continues refining its commitment to offline AI with three new feature additions to its on-device AI application. These improvements demonstrate Google's ongoing investment in making truly private, cloud-independent AI interactions a standard expectation for Android users—a critical benchmark for the maturity of local LLM infrastructure.

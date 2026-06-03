@@ -3,12 +3,29 @@ title: "Mlx-serve: Run LLMs Natively on Your Mac"
 date: 2026-05-10
 description: "A new tool enabling native LLM inference on Apple Silicon Macs, leveraging MLX for optimized on-device deployment without external API dependencies."
 tags:
-  - daily-digest
-  - mlx
   - apple-silicon
-  - open-source
+  - apple-silicon-inference
+  - bullish
+  - cost-saving
+  - daily-digest
+  - developer
+  - hacker-news
+  - hardware-optimization
+  - intermediate
+  - local-llm-deployment
   - mac
-status: draft
+  - mlx
+  - mlx-framework
+  - native-inference
+  - on-device-deployment
+  - open-source
+  - privacy-preserving-ai
+  - release
+  - showcase
+mentions:
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Mlx-serve represents a significant step forward for Mac users seeking to run large language models locally. By leveraging Apple's MLX framework, the tool enables native inference on Apple Silicon hardware, eliminating the need for cloud API calls and providing true on-device LLM deployment.

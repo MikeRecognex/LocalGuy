@@ -3,12 +3,38 @@ title: "Control AI Risk with Pre-Built Frameworks and Ready-to-Run Evaluations"
 date: 2026-05-04
 description: "Atlas provides pre-built frameworks and evaluation tools for assessing and controlling risks in AI systems, offering practical solutions for local LLM operators who need robust safety and reliability measures."
 tags:
-  - daily-digest
-  - evaluation
-  - safety
+  - ai-risk-management
+  - analysis
+  - atlas
   - benchmark
+  - bullish
+  - daily-digest
+  - data-privacy
+  - developer
+  - enterprise
+  - evaluation
+  - hacker-news
+  - intermediate
+  - latticeflow
+  - local-deployment
+  - local-llms
+  - model-evaluation
+  - model-safety
+  - neutral
   - open-source
-status: draft
+  - quality-assurance
+  - regulatory-compliance
+  - safety
+  - showcase
+  - user-trust
+mentions:
+  - name: Atlas
+    role: tool
+  - name: LatticeFlow
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Running LLMs locally means taking full responsibility for safety, security, and reliability—and [Atlas addresses this with ready-to-deploy evaluation frameworks](https://atlas.latticeflow.ai/). The tool provides pre-built assessments that help local operators understand and mitigate risks in their models before they reach users.

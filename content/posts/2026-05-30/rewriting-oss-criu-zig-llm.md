@@ -3,11 +3,33 @@ title: "Rewriting CRIU in Zig using LLM"
 date: 2026-05-30
 description: "Loophole Labs demonstrates using LLMs to rewrite open-source software, specifically CRIU, in Zig. This case study shows practical applications of local LLMs for complex systems programming tasks."
 tags:
-  - daily-digest
-  - open-source
+  - advanced
   - agents
+  - analysis
+  - bullish
+  - cost-saving
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - llm-code-generation
+  - llm-use-cases
+  - local-llm-viability
+  - loophole-labs
+  - open-source
+  - privacy-compliance
+  - production-deployment
+  - showcase
+  - systems-programming
   - use-cases
-status: draft
+mentions:
+  - name: Loophole Labs
+    role: publisher
+  - name: Hacker News
+    role: publisher
+  - name: Loophole Labs
+    role: publisher
+status: published
 ---
 
 Loophole Labs has published a detailed case study on [rewriting the CRIU checkpoint/restore utility in Zig using LLMs](https://loopholelabs.io/blog/rewriting-oss-in-the-ai-era). This work showcases how local and self-hosted language models can be leveraged for complex systems programming tasks, demonstrating practical value beyond simple code completion.

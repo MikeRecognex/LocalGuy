@@ -3,12 +3,32 @@ title: "Cotypist – AI Autocomplete for Mac"
 date: 2026-05-11
 description: "Cotypist brings on-device AI autocomplete to macOS, enabling local inference without cloud dependencies. This tool demonstrates practical edge deployment for productivity applications on consumer hardware."
 tags:
+  - apple-silicon
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hacker-news
+  - hobbyist
+  - inference-frameworks
+  - intermediate
+  - local-ai
+  - local-inference
   - macos
-  - productivity
   - on-device
-status: draft
+  - on-device-ai
+  - privacy-compliance
+  - privacy-first-ai
+  - productivity
+  - productivity-ai
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Cotypist represents a significant step forward in making practical on-device AI accessible to macOS users. By running inference locally, the tool eliminates latency concerns and privacy risks associated with cloud-based autocomplete services, making it ideal for sensitive work environments.

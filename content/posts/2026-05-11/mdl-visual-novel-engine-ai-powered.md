@@ -3,12 +3,31 @@ title: "MDL: Endless Visual Novel Engine Powered by AI"
 date: 2026-05-11
 description: "MDL showcases an AI-powered visual novel engine that leverages local inference for game content generation. This demonstrates creative applications of on-device LLMs in interactive entertainment."
 tags:
-  - daily-digest
-  - edge-inference
-  - gaming
+  - ai-in-gaming
+  - bullish
+  - consumer-gpu
   - content-generation
+  - cost-saving
   - creative
-status: draft
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - game-content-generation
+  - gaming
+  - hacker-news
+  - interactive-media
+  - intermediate
+  - local-inference
+  - model-optimization
+  - narrative-generation
+  - offline-ai
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 MDL represents an innovative application domain for local LLM inference: interactive entertainment. By running generative models on-device, the engine can produce dynamic narrative content without requiring API calls or cloud infrastructure, enabling seamless gameplay experiences and offline functionality.

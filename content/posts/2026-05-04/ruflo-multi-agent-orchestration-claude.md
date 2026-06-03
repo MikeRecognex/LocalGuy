@@ -3,12 +3,32 @@ title: "Ruflo: Multi-Agent AI Orchestration for Claude Code"
 date: 2026-05-04
 description: "Ruflo is a new framework for orchestrating multiple AI agents using Claude, enabling complex multi-agent workflows for local and self-hosted deployments. This tool simplifies coordination between AI agents for coding tasks and agentic reasoning."
 tags:
-  - daily-digest
+  - agent-orchestration
+  - agentic-ai
+  - agentic-reasoning
   - agents
-  - orchestration
-  - open-source
+  - bullish
   - claude
-status: draft
+  - claude-integration
+  - code-generation
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-llm-deployment
+  - multi-agent-orchestration
+  - on-device-inference
+  - open-source
+  - orchestration
+  - ruvnet
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Multi-agent orchestration is becoming critical for complex AI workflows, and [Ruflo addresses this gap](https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md) by providing a structured framework for coordinating multiple Claude-based agents. This is particularly relevant for local LLM practitioners who want to compose sophisticated reasoning chains without relying on external APIs.

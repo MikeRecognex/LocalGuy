@@ -3,12 +3,26 @@ title: "Show HN: Desktop Agent Center – Local AI Automation via Hotkeys"
 date: 2026-05-07
 description: "A new tool enabling local AI automation through system hotkeys, bringing autonomous agent capabilities to desktop environments without cloud dependencies."
 tags:
-  - daily-digest
   - agents
-  - local-deployment
   - automation
+  - autonomous-agents
+  - bullish
+  - daily-digest
+  - data-privacy
+  - desktop-ai
+  - developer
+  - intermediate
+  - local-agents
+  - local-ai-automation
+  - local-deployment
+  - model-experimentation
+  - news
+  - on-device-deployment
+  - on-device-inference
   - open-source
-status: draft
+  - privacy-compliance
+  - showcase
+status: published
 ---
 
 Desktop Agent Center represents a practical approach to bringing autonomous AI agents to local machines, enabling users to trigger AI-powered automation through customizable hotkeys. This eliminates the need for cloud-based agent services and allows full control over model selection and data privacy for automation workflows.

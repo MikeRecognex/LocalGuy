@@ -3,12 +3,32 @@ title: "Offline Voice-to-Text and AI Keyboard App for Local Processing"
 date: 2026-05-16
 description: "Dictawiz, a new app featuring offline voice-to-text transcription and AI-powered keyboard functionality, demonstrates practical on-device LLM applications. The tool performs inference locally without requiring cloud connectivity or external API calls."
 tags:
+  - ai-keyboard
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - edge-device
   - edge-inference
-  - voice
-  - on-device
+  - hacker-news
+  - intermediate
+  - local-inference-performance
+  - low-latency-inference
   - mobile
-status: draft
+  - mobile-ai
+  - model-quantization
+  - news
+  - offline-speech-to-text
+  - on-device
+  - on-device-llms
+  - privacy-compliance
+  - showcase
+  - voice
+  - voice-to-text
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new app called [Dictawiz demonstrates practical local LLM deployment](https://apps.apple.com/us/app/dictawiz-voice-notes-recorder/id6759256382) with offline voice-to-text transcription and AI keyboard features running entirely on-device. This "Show HN" submission highlights the growing ecosystem of consumer applications leveraging on-device inference for privacy-sensitive and performance-critical tasks.

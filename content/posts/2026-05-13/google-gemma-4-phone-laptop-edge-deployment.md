@@ -3,12 +3,32 @@ title: "BT Explainer: Google's Gemma 4 Could Put Powerful AI on Your Phone and L
 date: 2026-05-13
 description: "Google's latest Gemma model is designed specifically for on-device inference, enabling capable language models to run directly on consumer phones and laptops without cloud connectivity."
 tags:
+  - bullish
+  - consumer-device
+  - consumer-gpu
+  - cross-platform-deployment
   - daily-digest
-  - gemma
-  - mobile-inference
+  - deployment-benchmarking
+  - developer
   - edge-ai
+  - edge-ai-tooling
+  - edge-deployment
+  - edge-device
+  - edge-inference-optimization
+  - gemma
   - google
-status: draft
+  - intermediate
+  - mobile-inference
+  - model-quantization
+  - msn
+  - news
+  - on-device-inference
+  - open-source-models
+  - release
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Gemma 4 represents a significant milestone in the trend toward commercially-backed, optimised models for edge deployment. Unlike previous generations, Google has engineered this model specifically for on-device inference, with careful attention to parameter count, quantisation strategies, and latency profiles. This signals strong industry momentum around local LLM deployment and validates the market opportunity for edge AI.

@@ -3,12 +3,30 @@ title: "Liquid AI Unveils Edge-Focused LFM2.5 Model for On-Device AI Agents"
 date: 2026-05-29
 description: "Liquid AI has introduced the LFM2.5 model specifically designed for edge deployment and local AI agents, offering optimized performance for resource-constrained environments."
 tags:
-  - daily-digest
+  - agent-capabilities
   - agents
+  - bullish
+  - daily-digest
+  - developer
+  - edge-computing
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - intermediate
+  - liquid-ai
+  - local-ai-agents
+  - local-deployment
+  - model-architecture
+  - model-architecture-optimization
   - model-optimization
   - open-source
-status: draft
+  - release
+  - resource-optimization
+  - tool-use
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 Liquid AI has released LFM2.5, a model explicitly optimized for edge deployment and local AI agent applications. This release addresses a critical gap in the local LLM landscape by providing a model architecture designed from the ground up for resource-constrained environments, making it particularly valuable for developers building autonomous systems on edge hardware.

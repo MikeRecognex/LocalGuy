@@ -3,12 +3,34 @@ title: "Chrome Is Secretly Downloading 4GB Gemini Nano Model Without User Consen
 date: 2026-05-09
 description: "Google Chrome is automatically downloading a 4GB AI model (Gemini Nano) without explicit user permission, raising significant privacy and storage concerns. Users report the model persists even after deletion and re-downloads automatically."
 tags:
+  - analysis
+  - cautious
   - daily-digest
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
-  - privacy
-  - hardware
   - gemini
-status: draft
+  - gemini-nano
+  - hardware
+  - intermediate
+  - msn
+  - neutral
+  - news
+  - on-device-ai
+  - open-source-ai
+  - privacy
+  - privacy-concerns
+  - silent-installation
+  - software-updates
+  - user-consent
+  - user-control
+mentions:
+  - name: MSN
+    role: publisher
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Google has quietly begun downloading Gemini Nano, a 4GB on-device AI model, to Chrome browsers without explicit user consent. Users discovered the installation only after noticing significant storage consumption, sparking concerns about transparency and user autonomy in local AI deployments.

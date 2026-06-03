@@ -3,12 +3,35 @@ title: "Discussion: Including New Mathematical Proofs in LLM Training Data for R
 date: 2026-05-09
 description: "A Hacker News discussion explores whether LLMs can rediscover novel mathematical proofs when included in training data, relevant to understanding model capabilities and knowledge synthesis."
 tags:
-  - daily-digest
-  - training-data
-  - model-capabilities
-  - reasoning
+  - advanced
+  - analysis
   - benchmarking
-status: draft
+  - bullish
+  - daily-digest
+  - developer
+  - discussion
+  - fine-tuning
+  - hacker-news
+  - intermediate
+  - knowledge-injection
+  - knowledge-synthesis
+  - llm-training-methodology
+  - local-deployment
+  - local-fine-tuning
+  - mathematical-reasoning
+  - memorization-vs-reasoning
+  - model-capabilities
+  - model-training-dynamics
+  - neutral
+  - rag-pipeline
+  - reasoning
+  - training-data
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A discussion thread on Hacker News raises an interesting question about LLM training methodology: whether models can rediscover novel mathematical proofs when such proofs are included in training data. This touches on fundamental questions about model learning, generalization, and the nature of knowledge synthesis in language models.

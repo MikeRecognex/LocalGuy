@@ -3,12 +3,31 @@ title: "Superpowers: An Agentic Skills Framework for AI Coding Workflows"
 date: 2026-05-28
 description: "A new open-source framework for building agentic AI systems with modular skills, applicable to local LLM-powered coding assistants and automation tools."
 tags:
-  - daily-digest
+  - agentic-ai-frameworks
+  - agentic-systems
   - agents
-  - open-source
-  - frameworks
+  - analysis
+  - bullish
+  - code-generation
   - coding
-status: draft
+  - coding-assistants
+  - daily-digest
+  - developer
+  - frameworks
+  - hacker-news
+  - intermediate
+  - local-inference
+  - local-llm-development
+  - modular-ai-design
+  - open-source
+  - production-deployment
+  - release
+  - resource-management
+  - workflow-automation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Superpowers is an open-source agentic skills framework](https://github.com/obra/superpowers) designed for building AI-driven coding workflows. This framework addresses a key challenge in local LLM deployment: how to structure agents that can reliably perform complex, multi-step tasks using local models while remaining modular and maintainable.

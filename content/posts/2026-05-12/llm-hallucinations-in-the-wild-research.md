@@ -3,12 +3,28 @@ title: "LLM Hallucinations in the Wild"
 date: 2026-05-12
 description: "A comprehensive study documents real-world hallucination behaviors in deployed language models, providing practitioners with empirical data on failure modes when running models locally."
 tags:
+  - advanced
+  - analysis
   - daily-digest
-  - research
+  - developer
   - evaluation
+  - hacker-news
   - hallucinations
+  - intermediate
+  - llm-hallucinations
+  - local-deployment
+  - local-inference
+  - model-evaluation
+  - model-failure-modes
+  - neutral
+  - prompt-engineering
   - reliability
-status: draft
+  - research
+  - robust-ai-design
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Recent research on LLM hallucinations in production environments](https://arxiv.org/abs/2605.07723) provides critical empirical data for teams deploying models locally. The study catalogs hallucination patterns across real-world applications, helping practitioners understand failure modes they're likely to encounter when running unfiltered models on-device.

@@ -3,12 +3,30 @@ title: "How to Run LLM Locally Without Falling for the Hype"
 date: 2026-06-01
 description: "Practical guide addressing common misconceptions and providing actionable steps for deploying large language models on local hardware. Emphasises realistic expectations and cost-benefit analysis."
 tags:
-  - daily-digest
-  - guide
-  - local-inference
+  - analysis
   - best-practices
+  - cautious
+  - consumer-gpu
+  - cost-analysis
+  - cost-comparison
+  - critical-evaluation
+  - daily-digest
+  - data-privacy
+  - deployment-strategy
+  - developer
+  - editorialge
+  - guide
+  - hardware-requirements
+  - intermediate
+  - local-deployment
+  - local-inference
+  - neutral
+  - quantization
   - tutorial
-status: draft
+mentions:
+  - name: Editorialge
+    role: publisher
+status: published
 ---
 
 A comprehensive guide has emerged addressing the gap between marketing hype and practical reality in local LLM deployment. The article cuts through common misconceptions—such as the assumption that any consumer hardware can run cutting-edge models—and provides grounded guidance for practitioners evaluating whether local inference makes sense for their use case. It emphasises realistic hardware requirements, quantisation trade-offs, and total cost of ownership.

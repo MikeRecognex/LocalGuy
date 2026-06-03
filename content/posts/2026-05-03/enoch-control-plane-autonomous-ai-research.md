@@ -3,12 +3,28 @@ title: "Show HN: Enoch – Control Plane for Autonomous AI Research"
 date: 2026-05-03
 description: "A new control plane designed to manage and coordinate autonomous AI research workflows, enabling orchestration of multiple models and experiments on local infrastructure."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - research
-  - orchestration
+  - autonomous-ai
+  - bullish
+  - daily-digest
+  - data-privacy
+  - distributed-systems
+  - experiment-tracking
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - on-device-ai
   - open-source
-status: draft
+  - orchestration
+  - reproducibility
+  - research
+  - researcher
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Enoch introduces a control plane specifically designed for orchestrating autonomous AI research workflows](https://github.com/alias8818/enoch-agentic-research-system), enabling researchers to coordinate multiple agents and experiments across local infrastructure. The system abstracts the complexity of managing distributed agentic systems, making it accessible to practitioners without extensive DevOps experience.

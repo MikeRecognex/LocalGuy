@@ -3,12 +3,29 @@ title: "How to Train Your GPT: Comprehensive Commented Training Guide"
 date: 2026-05-16
 description: "A new educational resource provides line-by-line commented code for training language models from scratch. This practical guide demystifies LLM training for developers interested in building and fine-tuning local models."
 tags:
+  - analysis
+  - bullish
+  - code-walkthrough
+  - custom-model-development
   - daily-digest
-  - fine-tuning
-  - training
+  - developer
   - education
+  - fine-tuning
+  - hacker-news
+  - intermediate
+  - llm-accessibility
+  - llm-training
+  - local-inference
+  - model-fine-tuning
+  - model-training
   - open-source
-status: draft
+  - performance-optimization
+  - training
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [How-to-train-your-GPT presents a fully commented codebase for LLM training](https://github.com/raiyanyahya/how-to-train-your-gpt), making the mechanics of model training accessible to practitioners. By explaining every line of code, this resource bridges the gap between theoretical understanding and practical implementation, enabling developers to understand what happens during the training process.

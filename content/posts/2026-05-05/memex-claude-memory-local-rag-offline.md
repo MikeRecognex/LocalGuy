@@ -3,12 +3,35 @@ title: "Show HN: Memex, Claude Memory via Local RAG with MCP and Offline Embeddi
 date: 2026-05-05
 description: "Memex enables persistent memory for Claude through local retrieval-augmented generation using offline embeddings and Model Context Protocol, eliminating cloud dependency for context management."
 tags:
+  - analysis
+  - bullish
+  - cloud-independence
+  - context-window-management
   - daily-digest
-  - rag
-  - memory-optimization
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - inference-pipeline
+  - intermediate
+  - local-rag
+  - long-term-memory
   - mcp
+  - memex
+  - memory-optimization
+  - model-context-protocol
+  - offline-embeddings
   - open-source
-status: draft
+  - persistent-memory
+  - rag
+  - showcase
+  - token-efficiency
+mentions:
+  - name: Memex
+    role: platform
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Memex addresses a critical challenge in local LLM deployment: maintaining persistent, context-aware memory without relying on external APIs. By combining local RAG (retrieval-augmented generation) with offline embeddings and MCP integration, Memex allows Claude and other models to maintain and retrieve contextual information entirely on-device. This is a significant step forward for building stateful AI applications with genuine privacy guarantees.

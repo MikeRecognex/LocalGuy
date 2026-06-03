@@ -3,12 +3,29 @@ title: "Geometry Conflict: Explaining and Controlling Forgetting in LLM Continua
 date: 2026-05-14
 description: "New research addresses catastrophic forgetting during LLM fine-tuning by analyzing geometric conflicts in weight updates. This breakthrough enables more efficient continual learning for locally-deployed models without performance degradation."
 tags:
-  - daily-digest
-  - fine-tuning
-  - open-source
+  - advanced
+  - analysis
   - benchmark
+  - bullish
+  - catastrophic-forgetting
+  - continual-learning
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
+  - fine-tuning
+  - hacker-news
+  - local-llms
   - memory-optimization
-status: draft
+  - model-fine-tuning
+  - model-stability
+  - on-device-learning
+  - open-source
+  - weight-update-analysis
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Catastrophic forgetting remains a critical challenge when fine-tuning large language models locally. [This research paper](https://huggingface.co/papers/2605.09608) provides novel insights into geometric conflicts that occur during continual post-training, offering practical solutions to preserve existing knowledge while learning new tasks.

@@ -3,12 +3,33 @@ title: "Show HN: I Built a Debugging Challenge for the AI Coding Age"
 date: 2026-05-25
 description: "Interactive debugging challenge designed to test AI coding models and help practitioners understand failure modes. Practical resource for evaluating local model performance on real-world code problems."
 tags:
-  - daily-digest
-  - benchmarking
   - agents
-  - testing
+  - ai-coding
+  - ai-debugging
+  - analysis
+  - benchmarking
+  - bullish
   - code-models
-status: draft
+  - daily-digest
+  - debugging-workflow
+  - developer
+  - evaluation-framework
+  - hacker-news
+  - ide-integration
+  - intermediate
+  - local-llm-evaluation
+  - model-benchmarking
+  - model-comparison
+  - model-failure-modes
+  - showcase
+  - testing
+  - the-incident-challenge
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: The Incident Challenge
+    role: project
+status: published
 ---
 
 A new interactive debugging challenge has been created to help developers evaluate how well AI models perform on realistic code troubleshooting tasks. The challenge presents realistic incident scenarios and measures how effectively AI systems can diagnose and resolve issues—a critical capability for local code-generation models used in development workflows.

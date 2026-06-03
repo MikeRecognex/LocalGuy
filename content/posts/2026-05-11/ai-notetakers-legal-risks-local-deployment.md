@@ -3,12 +3,37 @@ title: "All Those A.I. Note Takers? They're Making Lawyers Nervous"
 date: 2026-05-11
 description: "Legal professionals express concerns about privacy and liability risks in cloud-based AI note-taking tools. This highlights the growing importance of local inference for handling sensitive professional data."
 tags:
-  - daily-digest
-  - privacy
+  - ai-note-takers
+  - analysis
+  - bullish
   - compliance
+  - daily-digest
+  - data-privacy
+  - data-sovereignty
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-inference
+  - local-inference-benefits
+  - market-opportunity
+  - new-york-times
+  - privacy
+  - privacy-risks
+  - regulated-industries
+  - regulatory-compliance
   - risk-mitigation
-status: draft
+  - the-new-york-times
+mentions:
+  - name: New York Times
+    role: publisher
+  - name: Hacker News
+    role: source
+  - name: The New York Times
+    role: publisher
+status: published
 ---
 
 The legal profession's cautionary stance toward cloud-based AI note-takers underscores a critical advantage of local inference: data sovereignty and compliance. When handling privileged communications, confidential client information, and sensitive deal details, keeping inference on-device eliminates the risk of third-party data exposure and strengthens attorney-client privilege protections.

@@ -3,12 +3,33 @@ title: "Locked, stocked, and losing budget: AI vendor lock-in bites back"
 date: 2026-05-07
 description: "Analysis of how proprietary AI services create vendor lock-in, making the case for self-hosted and local LLM deployment as a cost-effective alternative."
 tags:
-  - daily-digest
-  - open-source
-  - deployment-strategy
+  - analysis
+  - bullish
+  - cautious
   - cost-optimization
+  - cost-saving
+  - daily-digest
+  - data-control
+  - datacenter-gpu
+  - deployment-strategy
+  - edge-ai
+  - edge-device
+  - enterprise
+  - hacker-news
+  - intermediate
+  - llm-deployment-strategy
+  - local-inference
+  - local-llm-deployment
+  - open-source
   - self-hosted
-status: draft
+  - the-register
+  - vendor-lock-in
+mentions:
+  - name: The Register
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As organizations scale AI usage, [vendor lock-in with proprietary services becomes increasingly expensive](https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lockin-bites/). This report documents how teams face escalating API costs, inflexible rate limits, and dependency on external infrastructure updates—all issues that can be mitigated through local and self-hosted LLM deployment.

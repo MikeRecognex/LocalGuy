@@ -3,12 +3,37 @@ title: "Phison and Intel Roll Out aiDAPTIV to Boost Local AI on Intel AI PC Plat
 date: 2026-06-02
 description: "Phison and Intel have launched aiDAPTIV, a collaborative optimization framework designed to accelerate local AI inference on Intel AI PC platforms. The initiative bridges storage and compute to improve overall system efficiency for on-device model deployment."
 tags:
+  - advanced
+  - ai-pc
+  - aidaptiv
+  - batch-processing
+  - bullish
+  - cpu-only
   - daily-digest
+  - data-movement-optimization
+  - developer
   - hardware
   - intel
+  - intel-ai-pc
+  - intermediate
+  - io-scheduling
+  - local-ai-inference
+  - local-inference-optimization
+  - news
   - optimization
-  - ai-pc
-status: draft
+  - performance-optimization
+  - phison
+  - platform-optimization
+  - quantization-strategies
+  - release
+  - storage-compute-optimization
+  - system-efficiency
+mentions:
+  - name: Phison
+    role: partner
+  - name: aiDAPTIV
+    role: developer
+status: published
 ---
 
 Phison and Intel have jointly released aiDAPTIV, a platform optimization framework that coordinates storage (Phison's domain) and compute (Intel's architecture) to improve local AI inference performance on Intel-based systems. Rather than treating storage and processing as separate concerns, aiDAPTIV optimizes data movement and caching strategies specifically for the access patterns of local LLM inference—a practical recognition that bottlenecks often occur at system integration boundaries, not in individual components.

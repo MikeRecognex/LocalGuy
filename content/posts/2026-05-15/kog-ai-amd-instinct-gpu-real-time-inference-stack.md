@@ -3,12 +3,37 @@ title: "Kog AI – Building a Real-Time Inference Stack on AMD Instinct GPUs"
 date: 2026-05-15
 description: "A technical presentation on building production inference systems using AMD Instinct GPUs, expanding the hardware ecosystem for local LLM deployment beyond NVIDIA dominance. The talk covers real-time inference optimization techniques applicable to on-device deployments."
 tags:
-  - daily-digest
-  - hardware
+  - advanced
   - amd
+  - amd-gpus
+  - amd-inference
+  - bullish
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - datacenter-gpu
+  - developer
+  - edge-deployment
+  - enterprise
+  - gpu-platform-diversity
+  - hacker-news
+  - hardware
+  - hardware-diversification
   - inference
+  - inference-optimization
+  - kog-ai
   - optimization
-status: draft
+  - production-deployment
+  - real-time-inference
+  - tutorial
+mentions:
+  - name: Kog AI
+    role: builder
+  - name: Kog AI
+    role: presenter
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 The local LLM ecosystem has historically relied heavily on NVIDIA GPUs, creating a bottleneck for cost-conscious and geographically distributed deployments. This technical deep-dive on AMD Instinct GPUs represents an important step toward hardware diversification, offering practitioners an alternative path for building production inference infrastructure.

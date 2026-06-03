@@ -3,12 +3,32 @@ title: "96.8% of MCP Tool Descriptions Don't Warn the Agent About Destructive Be
 date: 2026-05-01
 description: "A critical safety analysis of Model Context Protocol tool descriptions reveals widespread gaps in agent safety guardrails, with implications for local LLM applications using autonomous agents."
 tags:
-  - daily-digest
+  - advanced
+  - agent-safety
+  - agent-safety-guardrails
   - agents
-  - mcp
-  - safety
+  - analysis
+  - autonomous-agents
+  - cautious
+  - daily-digest
+  - destructive-behavior-prevention
+  - developer
+  - hacker-news
+  - local-agent-deployment
   - local-inference
-status: draft
+  - mcp
+  - model-context-protocol
+  - model-safety
+  - model-vulnerabilities
+  - policylayer
+  - safety
+  - security-hardening
+mentions:
+  - name: PolicyLayer
+    role: researcher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Model Context Protocol (MCP) has become increasingly important for extending local LLM capabilities with tool access, but this research reveals a significant safety gap. With nearly 97% of MCP tool descriptions lacking explicit destructive behavior warnings, locally-deployed agents could perform unintended harmful actions without appropriate guardrails.

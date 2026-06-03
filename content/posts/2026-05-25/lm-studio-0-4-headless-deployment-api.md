@@ -3,12 +3,28 @@ title: "LM Studio 0.4 Introduces Headless Deployment for Local LLM APIs"
 date: 2026-05-25
 description: "LM Studio 0.4 adds headless mode enabling local LLM serving without the GUI, expanding deployment flexibility for production and edge scenarios."
 tags:
-  - daily-digest
-  - lm-studio
   - api-serving
+  - bullish
+  - containerized-deployment
+  - daily-digest
   - deployment
+  - developer
+  - edge-ai-deployment
+  - edge-device
   - headless
-status: draft
+  - headless-deployment
+  - inference-pipeline
+  - intermediate
+  - lm-studio
+  - local-llm-serving
+  - model-management
+  - news
+  - release
+  - sitepoint
+mentions:
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 LM Studio 0.4 has introduced headless deployment capabilities, allowing developers to run local LLMs as APIs without the graphical interface. This represents a significant shift toward production-ready local inference, enabling integration into automated systems, containerized environments, and edge deployments where GUI overhead is unwanted.

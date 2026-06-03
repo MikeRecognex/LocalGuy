@@ -3,12 +3,32 @@ title: "AMD's vLLM-ATOM Plugin Supercharges DeepSeek-R1 and Kimi-K2 Inference on
 date: 2026-05-12
 description: "AMD has released a vLLM-ATOM plugin optimizing inference for DeepSeek-R1, Kimi-K2, and gpt-oss-120B models on Instinct MI350 and MI400 accelerators, delivering significant performance gains for local deployment."
 tags:
-  - daily-digest
-  - vllm
   - amd-instinct
-  - inference-optimization
+  - bullish
+  - cost-saving
+  - daily-digest
+  - datacenter-gpu
+  - developer
+  - edge-device
+  - edge-inference
+  - enterprise
   - hardware
-status: draft
+  - inference-optimization
+  - intermediate
+  - llm-performance
+  - local-deployment
+  - memory-optimization
+  - news
+  - reasoning-models
+  - release
+  - vllm
+  - vllm-integration
+  - vllm-plugin
+  - wccftech
+mentions:
+  - name: Wccftech
+    role: publisher
+status: published
 ---
 
 AMD has unveiled a new vLLM-ATOM plugin designed to accelerate inference performance for cutting-edge LLMs including DeepSeek-R1, Kimi-K2, and gpt-oss-120B on their Instinct MI350 and MI400 GPU accelerators. This plugin represents a critical bridge between popular inference frameworks and AMD's RDNA/CDNA architecture, enabling practitioners to achieve production-grade performance on AMD hardware without requiring proprietary optimizations.

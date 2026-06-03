@@ -3,12 +3,31 @@ title: "Show HN: Claude Relay – Local Claude Code Sessions Message Each Other"
 date: 2026-05-05
 description: "A new tool enabling local Claude Code sessions to communicate with each other, expanding possibilities for multi-agent workflows and collaborative coding on-device."
 tags:
-  - daily-digest
+  - agent-frameworks
   - agents
-  - mcp
+  - bullish
+  - claude-relay
+  - cost-reduction
+  - daily-digest
+  - data-governance
+  - data-privacy
+  - developer
+  - enterprise
+  - hacker-news
+  - inter-agent-communication
+  - intermediate
   - local-deployment
+  - local-orchestration
+  - mcp
+  - multi-agent-workflows
   - open-source
-status: draft
+  - open-source-development
+  - project-showcase
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Claude Relay represents an interesting development in local LLM orchestration, allowing multiple Claude Code instances to communicate and coordinate with each other entirely on-device. This approach eliminates dependency on cloud APIs for multi-agent scenarios and enables developers to build sophisticated workflows using Claude's reasoning capabilities while maintaining full data privacy and control.

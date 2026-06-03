@@ -3,11 +3,31 @@ title: "Slow Journal App with AI Integration"
 date: 2026-05-30
 description: "A journaling application integrating AI capabilities, demonstrating how LLMs can enhance privacy-conscious personal productivity tools through on-device or self-hosted inference."
 tags:
+  - ai-integration
+  - bullish
+  - cloud-vs-edge-ai
+  - consumer-applications
   - daily-digest
-  - use-cases
-  - privacy
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-status: draft
+  - hacker-news
+  - intermediate
+  - local-llm-deployment
+  - local-llms
+  - neme-journal
+  - on-device-inference
+  - privacy
+  - privacy-preserving-ai
+  - showcase
+  - use-cases
+mentions:
+  - name: Neme Journal
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Neme Journal represents a thoughtful approach to integrating AI into personal productivity tools](https://nemejournal.app/), combining journaling with AI assistance while maintaining user privacy. This application exemplifies how local LLM deployment can enhance consumer-facing tools without requiring cloud infrastructure or compromising data sensitivity.

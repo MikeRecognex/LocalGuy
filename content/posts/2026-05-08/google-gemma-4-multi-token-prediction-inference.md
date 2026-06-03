@@ -3,12 +3,24 @@ title: "Google Releases Gemma 4 Multi-Token Prediction Drafters To Accelerate AI
 date: 2026-05-08
 description: "Google has released new multi-token prediction drafters for Gemma 4, providing significant inference acceleration capabilities for local LLM deployment. This optimization technique enables faster token generation while maintaining output quality."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
+  - developer
+  - edge-device
   - gemma
+  - inference-acceleration
+  - inference-efficiency
   - inference-optimization
-  - quantisation
+  - intermediate
+  - local-deployment
+  - multi-token-prediction
+  - news
   - open-source
-status: draft
+  - quantisation
+  - release
+  - speculative-decoding
+status: published
 ---
 
 Google has released multi-token prediction drafters for Gemma 4, offering a practical approach to accelerating inference speed on local deployments. Multi-token prediction is a speculative decoding technique that allows models to generate multiple tokens in parallel, dramatically reducing latency compared to traditional autoregressive generation. This optimization is particularly valuable for resource-constrained environments where inference speed directly impacts user experience.

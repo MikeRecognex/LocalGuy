@@ -3,12 +3,31 @@ title: "Perplexity Brings On-Device AI Workflow to Macs with 'Personal Computer'
 date: 2026-05-08
 description: "Perplexity has launched an on-device AI workflow for macOS that brings privacy-preserving inference capabilities directly to users' machines. This represents a significant shift toward practical, privacy-first local LLM deployment on consumer hardware."
 tags:
+  - apple-silicon
+  - bullish
   - daily-digest
-  - on-device-inference
-  - macos
-  - privacy
+  - data-privacy
+  - developer
+  - edge-device
   - hardware
-status: draft
+  - hobbyist
+  - intermediate
+  - local-llm-deployment
+  - macos
+  - macos-deployment
+  - model-compression
+  - model-optimization
+  - on-device-ai
+  - on-device-inference
+  - perplexity
+  - privacy
+  - privacy-preserving-ai
+  - release
+  - showcase
+mentions:
+  - name: Perplexity
+    role: application-provider
+status: published
 ---
 
 Perplexity has introduced a 'Personal Computer' feature that enables on-device AI workflows directly on macOS systems, marking a major commercial adoption of local LLM inference. This approach prioritizes privacy by keeping all processing on the user's device, eliminating the need to send queries to remote servers. For Mac users, this represents a practical demonstration of how consumer hardware can effectively run capable AI models locally.

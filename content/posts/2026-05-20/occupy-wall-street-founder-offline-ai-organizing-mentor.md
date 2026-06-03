@@ -3,12 +3,35 @@ title: "Occupy Wall Street Co-Founder Builds Offline-Running AI Organizing Mento
 date: 2026-05-20
 description: "An AI organizing mentor application that runs entirely offline demonstrates practical use of local AI for grassroots activism. The project showcases how on-device inference eliminates dependencies on external services."
 tags:
-  - daily-digest
-  - privacy
-  - open-source
-  - local-deployment
+  - beginner-friendly
+  - boing-boing
+  - bullish
   - community-tools
-status: draft
+  - daily-digest
+  - data-privacy
+  - developer
+  - google-news
+  - grassroots-activism
+  - hobbyist
+  - intermediate
+  - local-deployment
+  - local-inference
+  - local-llm-deployment
+  - local-llms
+  - offline-ai-applications
+  - offline-capabilities
+  - on-device-ai
+  - on-device-inference
+  - open-source
+  - opinion
+  - privacy
+  - showcase
+mentions:
+  - name: Boing Boing
+    role: publisher
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 This grassroots AI project proves that local LLM deployment is not merely a technical optimization—it's increasingly a preference for applications requiring privacy, reliability, and independence from corporate infrastructure. By building an offline-first organizing mentor, the creator has prioritized user autonomy and data protection, two advantages that are difficult to achieve with cloud-based AI services.

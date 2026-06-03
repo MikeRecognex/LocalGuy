@@ -3,12 +3,42 @@ title: "Zoho-Backed Netrasemi Launches 12nm AI Chip, Mass Production Begins This
 date: 2026-05-30
 description: "India's Netrasemi, backed by Zoho, is launching a 12nm AI processor with mass production starting in 2026, offering a homegrown option for local LLM inference with implications for edge deployment and hardware accessibility."
 tags:
-  - daily-digest
-  - hardware
+  - ai-chip-design
+  - analysis
+  - bullish
   - chip-design
+  - cost-saving
+  - custom-asic
+  - daily-digest
+  - developer
+  - edge-ai-applications
+  - edge-ai-deployment
+  - edge-device
   - edge-inference
+  - hardware
+  - hardware-diversification
+  - india-today
+  - intermediate
+  - local-inference
+  - national-ai-strategy
+  - national-semiconductor-strategy
+  - netrasemi
   - open-source
-status: draft
+  - quantized-inference
+  - release
+  - software-ecosystem-development
+  - supply-chain-resilience
+  - zoho
+mentions:
+  - name: Netrasemi
+    role: semiconductor startup
+  - name: Zoho
+    role: backer
+  - name: Netrasemi
+    role: chip developer
+  - name: India Today
+    role: publisher
+status: published
 ---
 
 Netrasemi, a Zoho-backed semiconductor startup, has announced a 12nm AI chip designed for local inference workloads, with mass production expected to commence in 2026. This development is significant for India's Make in India initiative and represents an important step toward diversifying the hardware ecosystem for on-device AI deployment beyond dominant players like Qualcomm, Apple, and Nvidia.

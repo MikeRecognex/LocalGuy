@@ -3,12 +3,26 @@ title: "Show HN: Egress WAF to Limit AI Agents and NPM Malware Based on mitmprox
 date: 2026-05-31
 description: "A new Web Application Firewall project built on mitmproxy that provides security controls for AI agents and local deployments, addressing emerging threats in self-hosted LLM environments."
 tags:
-  - daily-digest
-  - security
+  - advanced
   - agents
+  - ai-agent-security
+  - bullish
+  - daily-digest
+  - data-exfiltration-prevention
   - deployment
+  - developer
+  - egress-waf
+  - hacker-news
+  - llm-security
+  - local-llm-deployment
+  - security
+  - showcase
+  - supply-chain-security
   - tools
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As AI agents become more sophisticated and local LLM deployments increase, security considerations grow critical. This new Egress WAF tool built on mitmproxy provides security controls specifically designed to limit AI agents and protect against supply chain attacks like NPM malware.

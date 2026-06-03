@@ -3,12 +3,34 @@ title: "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude
 date: 2026-05-15
 description: "RelaxAI launches a sovereign LLM inference service offering 80% cost savings compared to OpenAI and Claude APIs, with a focus on UK data residency and compliance. The service demonstrates the economic advantage of local and self-hosted inference at scale."
 tags:
-  - daily-digest
-  - inference
+  - analysis
+  - bullish
   - cost-optimization
-  - self-hosted
+  - cost-saving
+  - daily-digest
+  - data-sovereignty
   - deployment
-status: draft
+  - enterprise
+  - enterprise-adoption
+  - hacker-news
+  - inference
+  - intermediate
+  - local-inference
+  - local-llm-value-proposition
+  - regulatory-compliance
+  - relaxai
+  - release
+  - self-hosted
+  - sovereign-ai
+  - workload-management
+mentions:
+  - name: RelaxAI
+    role: service provider
+  - name: RelaxAI
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Cost has been a major barrier to widespread LLM adoption, with API pricing from major providers making production deployments expensive at scale. RelaxAI's launch demonstrates that self-hosted and regionally-optimized inference can achieve dramatic cost reductions while meeting regulatory requirements like data sovereignty.

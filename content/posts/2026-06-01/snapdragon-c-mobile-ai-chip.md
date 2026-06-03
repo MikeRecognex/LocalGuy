@@ -3,12 +3,31 @@ title: "Qualcomm Reveals Snapdragon C with Advanced On-Device AI Engine"
 date: 2026-06-01
 description: "Qualcomm announces Snapdragon C processor featuring a 6nm process, optimised core configuration, and dedicated on-device AI accelerator. The chip targets mobile and edge devices for local AI inference."
 tags:
+  - arm-optimization
+  - arm-processor
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - qualcomm
+  - hardware
+  - hardware-acceleration
+  - inference-speed
+  - intermediate
   - mobile
-status: draft
+  - mobile-ai-frameworks
+  - model-quantization
+  - msn
+  - news
+  - on-device-ai
+  - power-efficiency
+  - qualcomm
+  - release
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Qualcomm has unveiled the Snapdragon C, a new processor built on a 6nm manufacturing process with a 1+3+4 core configuration and integrated LPDDR5 memory support. The standout feature is its dedicated on-device AI engine, purpose-built for running LLM inference on mobile and edge devices without cloud connectivity. The efficient core architecture and advanced process node enable significant power savings compared to previous generations.

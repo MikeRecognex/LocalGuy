@@ -3,12 +3,38 @@ title: "NIST's CAISI Evaluation of DeepSeek V4 Pro Finds It On Par with GPT-5"
 date: 2026-05-03
 description: "NIST's comprehensive evaluation framework reveals that DeepSeek V4 Pro achieves performance parity with GPT-5 on standardized benchmarks, with implications for local deployment viability."
 tags:
-  - daily-digest
+  - advanced
   - benchmark
+  - benchmark-comparison
+  - benchmark-report
+  - bullish
+  - cost-saving
+  - daily-digest
   - deepseek
-  - performance
+  - developer
+  - enterprise-ai
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - model-benchmarking
+  - model-evaluation
+  - model-quantization
+  - model-validation
+  - nist
   - open-source
-status: draft
+  - open-source-llms
+  - open-source-models
+  - performance
+  - privacy-compliance
+  - reasoning-capabilities
+mentions:
+  - name: NIST
+    role: evaluator
+  - name: NIST
+    role: validator
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [NIST's CAISI evaluation framework has validated that DeepSeek V4 Pro achieves competitive performance on par with GPT-5](https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro), marking a significant milestone for open-source model development. This rigorous third-party assessment provides evidence that frontier-class reasoning capabilities are no longer exclusive to proprietary systems.

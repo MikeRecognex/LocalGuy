@@ -3,12 +3,28 @@ title: "How to Run LLMs Locally on Your Laptop for Free: A Beginner's Guide"
 date: 2026-05-09
 description: "A comprehensive beginner's guide covering the fundamentals of running language models locally without cloud dependencies, including tools, hardware requirements, and practical setup instructions."
 tags:
-  - daily-digest
-  - ollama
-  - tutorial
+  - beginner-friendly
   - beginners
+  - bullish
+  - consumer-hardware
+  - cost-saving
+  - daily-digest
   - deployment-guide
-status: draft
+  - developer
+  - hobbyist
+  - llama-cpp
+  - llm-setup
+  - local-llm-deployment
+  - model-optimization
+  - model-quantization
+  - ollama
+  - system-configuration
+  - the-indian-express
+  - tutorial
+mentions:
+  - name: The Indian Express
+    role: publisher
+status: published
 ---
 
 As local LLM deployment becomes increasingly accessible, a new wave of beginner-focused guides is helping users understand the basics of running models on personal hardware. This guide covers the essential tools, minimum hardware requirements, and step-by-step setup procedures for getting started with local inference.

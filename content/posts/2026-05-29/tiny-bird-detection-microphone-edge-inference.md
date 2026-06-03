@@ -3,12 +3,31 @@ title: "Tiny microphone on my balcony to listen for any birds passing by"
 date: 2026-05-29
 description: "A practical demonstration of edge AI inference using miniature audio hardware and local ML models for real-time bird species identification without cloud connectivity."
 tags:
-  - daily-digest
-  - edge-inference
+  - audio-classification
   - audio-processing
+  - bullish
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
+  - edge-inference
+  - hacker-news
   - hardware
+  - intermediate
+  - lightweight-models
+  - local-inference
+  - local-ml-models
+  - offline-inference
   - open-source
-status: draft
+  - real-time-inference
+  - resource-constrained-ai
+  - showcase
+mentions:
+  - name: WarnerTeddy
+    handle: "@WarnerTeddy"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This project exemplifies the practical applications of local LLM and ML inference at the edge—using a tiny microphone and on-device processing to identify bird species in real-time without relying on cloud APIs or internet connectivity. The setup combines lightweight audio models with constrained computing resources to solve a real-world problem, demonstrating that sophisticated AI applications can run entirely locally.

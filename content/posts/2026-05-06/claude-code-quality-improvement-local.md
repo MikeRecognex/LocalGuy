@@ -3,12 +3,31 @@ title: "Improving Code Quality with Local Claude and Codex Models"
 date: 2026-05-06
 description: "Technical discussion on optimizing code generation quality when running Claude and Codex models locally, covering quantization, prompt engineering, and inference parameters. Practitioners share techniques for maximizing coding task performance on consumer hardware."
 tags:
-  - daily-digest
+  - advanced
+  - analysis
+  - benchmarking
+  - bullish
   - code-generation
-  - quantisation
-  - prompt-engineering
+  - code-generation-optimization
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - hacker-news
+  - inference-optimization
+  - intermediate
+  - local-llm-deployment
+  - model-quantization
+  - model-selection
+  - neutral
   - performance-tuning
-status: draft
+  - prompt-engineering
+  - quantisation
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A focused technical thread examines practical strategies for improving code generation quality when running large language models locally. Participants discuss quantization trade-offs (how aggressive compression affects coding capabilities), prompt engineering techniques specific to code tasks, and inference parameter tuning for different hardware configurations.

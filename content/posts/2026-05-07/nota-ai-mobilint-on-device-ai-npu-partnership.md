@@ -3,12 +3,38 @@ title: "Nota AI Partners with Mobilint to Accelerate On-Device AI on Domestic NP
 date: 2026-05-07
 description: "Nota AI has announced a strategic partnership with Mobilint focused on optimizing on-device AI deployment using Neural Processing Units (NPUs). This collaboration aims to commercialize AI optimization technology for domestic NPU infrastructure."
 tags:
+  - bullish
+  - consumer-hardware
   - daily-digest
+  - developer
+  - edge-device
+  - efficiency-optimization
+  - energy-efficiency
+  - eqs-news
   - hardware
+  - hardware-acceleration
+  - intermediate
+  - mobilint
+  - model-optimization
+  - model-quantization
+  - news
+  - nota-ai
   - npu
-  - optimization
+  - npu-deployment
+  - npu-optimization
   - on-device
-status: draft
+  - on-device-ai
+  - optimization
+mentions:
+  - name: Nota AI
+    role: partner
+  - name: Mobilint
+    role: partner
+  - name: Nota AI
+  - name: Mobilint
+  - name: EQS News
+    role: publisher
+status: published
 ---
 
 Nota AI and Mobilint have announced a strategic partnership aimed at accelerating the deployment of optimized AI models on domestic NPU (Neural Processing Unit) infrastructure. This collaboration represents a significant push toward making on-device AI inference more efficient and accessible across different hardware platforms.

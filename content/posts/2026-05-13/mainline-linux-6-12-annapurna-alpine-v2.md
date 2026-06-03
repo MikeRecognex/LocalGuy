@@ -3,12 +3,36 @@ title: "Mainline Linux 6.12 on Annapurna Labs Alpine V2 (Ubiquiti UNVR, UDM-Pro)
 date: 2026-05-13
 description: "New Linux kernel support for Annapurna Labs Alpine V2 processors enables more advanced edge devices to run local LLM inference with improved hardware compatibility."
 tags:
+  - annapurna-labs
+  - arm-processors
+  - bullish
+  - cpu-only
   - daily-digest
-  - hardware
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hacker-news
+  - hardware
+  - infrastructure-leverage
+  - intermediate
   - linux
+  - linux-kernel
+  - linux-support
+  - local-inference
+  - model-quantization
+  - news
   - optimization
-status: draft
+  - showcase
+  - ubiquiti
+mentions:
+  - name: Annapurna Labs
+    role: hardware-manufacturer
+  - name: Ubiquiti
+    role: hardware-manufacturer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Kernel support for Annapurna Labs Alpine V2 processors opens new possibilities for local LLM deployment on edge devices like Ubiquiti UNVR and UDM-Pro appliances. These embedded systems, now supported by mainline Linux 6.12, provide an attractive platform for running quantized models with existing network infrastructure and power-efficient ARM processors.

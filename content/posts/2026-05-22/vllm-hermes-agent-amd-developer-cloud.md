@@ -3,12 +3,26 @@ title: "Deploying Hermes Agent for Free on AMD Developer Cloud with Open Models 
 date: 2026-05-22
 description: "AMD and the open-source community demonstrate practical deployment of sophisticated agents using vLLM on AMD hardware, showcasing free compute access for local AI development."
 tags:
-  - daily-digest
-  - vllm
-  - amd
+  - agent-deployment
+  - agent-frameworks
   - agents
+  - amd
+  - api-alternatives
+  - bullish
+  - cloud-deployment
+  - cloud-integration
+  - daily-digest
+  - datacenter-gpu
   - deployment
-status: draft
+  - developer
+  - inference-optimization
+  - intermediate
+  - local-development
+  - open-source-ai
+  - tutorial
+  - vllm
+  - vllm-inference
+status: published
 ---
 
 AMD has published a comprehensive guide for deploying Hermes Agent—an open-source agent framework—on the AMD Developer Cloud using vLLM as the inference backend. This collaboration highlights the growing ecosystem of open tools and free compute resources available for local and hosted LLM experimentation.

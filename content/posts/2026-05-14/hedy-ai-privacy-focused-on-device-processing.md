@@ -3,12 +3,32 @@ title: "Hedy AI Launches Privacy-First On-Device AI Processing Platform"
 date: 2026-05-14
 description: "Hedy AI introduces a new platform focused on keeping AI processing local to preserve privacy, addressing growing concerns about data transmission to cloud services. The launch emphasizes user control and data sovereignty in AI applications."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - privacy
-  - on-device-ai
+  - data-privacy
+  - data-sovereignty
+  - deployment-tools
+  - enterprise
+  - hedy-ai
+  - intermediate
   - local-deployment
+  - local-inference
+  - on-device-ai
+  - on-device-privacy
   - open-source
-status: draft
+  - privacy
+  - privacy-compliance
+  - release
+  - the-national-law-review
+mentions:
+  - name: Hedy AI
+    role: platform provider
+  - name: Hedy AI
+    role: market entrant
+  - name: The National Law Review
+    role: publisher
+status: published
 ---
 
 Privacy concerns continue to drive adoption of local LLM deployments, and Hedy AI's new platform explicitly positions on-device processing as a core feature for organizations and individuals seeking to avoid cloud-dependent AI services. This launch reflects broader market recognition that data sovereignty and local control are increasingly critical requirements.

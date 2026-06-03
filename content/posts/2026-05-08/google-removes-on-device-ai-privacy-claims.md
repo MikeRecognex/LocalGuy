@@ -3,12 +3,31 @@ title: "Google Removes Privacy Assurances After Stuffing Devices With Their AI M
 date: 2026-05-08
 description: "Google has quietly removed privacy guarantees from its on-device AI offerings, highlighting the importance of transparent, self-hosted LLM deployments for users prioritizing data sovereignty."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - privacy
-  - local-inference
-  - security
+  - data-privacy
+  - data-sovereignty
   - edge-computing
-status: draft
+  - enterprise
+  - governance
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-inference
+  - on-device-ai
+  - open-source-ai
+  - privacy
+  - privacy-compliance
+  - security
+  - self-hosting
+  - that-privacy-guy
+mentions:
+  - name: That Privacy Guy
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 This development underscores a critical advantage of truly local, self-hosted LLM deployments: complete transparency and control over data handling. When vendors remove privacy assurances from their "on-device" offerings, it demonstrates why many practitioners prefer deploying open-source models themselves rather than relying on proprietary vendors' claims about data protection.

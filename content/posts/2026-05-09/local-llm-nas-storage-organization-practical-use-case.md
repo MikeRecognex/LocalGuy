@@ -3,12 +3,30 @@ title: "How I Used a Local LLM to Organize the Store on My NAS"
 date: 2026-05-09
 description: "A practical case study demonstrating how local LLMs can be deployed on Network Attached Storage systems for practical applications like file organization and metadata management without cloud connectivity."
 tags:
+  - bullish
+  - cost-effective-local-inference
+  - cpu-only
   - daily-digest
+  - data-privacy
   - deployment-guide
+  - developer
+  - edge-ai
+  - edge-device
+  - edge-inference
+  - file-management
+  - infrastructure-augmentation
+  - intermediate
+  - local-llm-deployment
+  - model-optimization
+  - msn
   - nas
-  - practical-application
   - open-source
-status: draft
+  - practical-application
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This practical case study showcases a real-world application of local LLM inference: using a language model deployed on a NAS (Network Attached Storage) device to automatically organize and catalog files. The project demonstrates how edge inference can solve practical problems while maintaining complete data privacy and control.

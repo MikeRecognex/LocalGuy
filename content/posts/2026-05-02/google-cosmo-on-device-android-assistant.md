@@ -3,12 +3,33 @@ title: "Google Drops COSMO: Experimental On-Device AI Assistant for Android"
 date: 2026-05-02
 description: "Google has released COSMO, a new experimental AI assistant designed for on-device processing on Android, demonstrating renewed focus on edge inference capabilities."
 tags:
-  - daily-digest
-  - on-device
   - android
+  - android-deployment
+  - bullish
+  - cosmo
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - google-news
+  - intermediate
+  - llm-frameworks
+  - local-llm-deployment
+  - low-latency-ai
+  - news
+  - on-device
+  - on-device-ai
   - open-source
-status: draft
+  - privacy-compliance
+  - privacy-preserving-ai
+  - release
+mentions:
+  - name: COSMO
+    role: developer
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Google has quietly launched COSMO, an experimental AI assistant built specifically for on-device inference on Android devices. This move signals a significant push toward bringing AI capabilities directly to users' phones without relying on cloud connectivity, addressing privacy concerns and reducing latency for interactive applications.

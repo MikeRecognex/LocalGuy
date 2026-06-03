@@ -3,12 +3,34 @@ title: "Berget AI Announces Berget Code for European Teams Powered by Kimi K2.6"
 date: 2026-05-13
 description: "Berget AI launches a code-focused AI tool specifically optimized for European development teams, leveraging the Kimi K2.6 model for local-friendly deployment."
 tags:
-  - daily-digest
+  - ai-code-generation
+  - berget
+  - berget-ai
+  - bullish
   - code-generation
-  - model-release
+  - consumer-hardware
+  - daily-digest
+  - data-residency
+  - developer
   - developer-tools
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-coding-assistance
+  - model-kimi-k2-6
+  - model-release
+  - on-premise-deployment
   - open-source
-status: draft
+  - regional-ai
+  - release
+mentions:
+  - name: Berget AI
+    role: developer
+  - name: Hacker News
+    role: publisher
+  - name: Berget
+    role: developer
+status: published
 ---
 
 Berget Code represents a significant step toward region-specific, locally-deployable coding assistants. Built on Kimi K2.6, this tool targets European development teams with models that can run on-premise, addressing data residency requirements and reducing dependency on US-based cloud AI providers.

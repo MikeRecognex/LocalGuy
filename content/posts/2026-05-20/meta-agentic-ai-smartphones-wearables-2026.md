@@ -3,12 +3,27 @@ title: "Meta Plans Agentic AI on Smartphones and Wearables by 2026"
 date: 2026-05-20
 description: "Meta Reality Labs outlines roadmap for deploying agentic AI systems directly on smartphones and wearables. The initiative aims to bring autonomous AI agents to consumer devices within the next two years."
 tags:
-  - daily-digest
+  - agent-behavior
+  - agentic-ai
   - agents
-  - mobile-deployment
-  - wearables
+  - bullish
+  - consumer-mobile-processor
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
-status: draft
+  - intermediate
+  - latency-optimization
+  - mobile-deployment
+  - model-compression
+  - model-optimization
+  - model-quantization
+  - news
+  - on-device-ai
+  - wearable-ai
+  - wearables
+status: published
 ---
 
 Meta's announcement of agentic AI on consumer devices represents a major inflection point for on-device AI infrastructure. By targeting smartphones and wearables for autonomous AI agents by 2026, Meta is signaling confidence that local hardware can support increasingly complex inference workloads beyond simple text generation or image processing.

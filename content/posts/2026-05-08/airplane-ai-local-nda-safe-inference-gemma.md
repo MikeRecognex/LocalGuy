@@ -3,12 +3,31 @@ title: "Airplane AI – Local NDA Safe AI Powered by Gemma"
 date: 2026-05-08
 description: "A new tool enabling local, privacy-preserving AI inference using Google's Gemma model, designed for secure document and data processing without external API calls."
 tags:
+  - airplane-ai
+  - bullish
   - daily-digest
+  - data-privacy
+  - document-processing
+  - edge-deployment
+  - enterprise
   - gemma
-  - privacy
+  - gemma-inference
+  - hacker-news
+  - intermediate
+  - local-deployment
   - local-inference
+  - on-device-ai
   - open-source
-status: draft
+  - privacy
+  - regulatory-compliance
+  - self-hosted-ai
+  - showcase
+mentions:
+  - name: Airplane AI
+    role: product provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Airplane AI represents a significant step forward for privacy-conscious organizations seeking to deploy LLMs locally without exposing sensitive data to cloud services. Built on Google's Gemma model, this tool emphasizes on-device inference with full NDA compliance, making it particularly valuable for enterprises handling confidential documents or proprietary information.

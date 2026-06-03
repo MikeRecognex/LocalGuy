@@ -3,11 +3,31 @@ title: "A/B Tested Gemini 3.1 Pro vs. Claude Opus 4.6 – Usage Quota and Qualit
 date: 2026-05-22
 description: "A detailed comparative benchmark between Gemini 3.1 Pro and Claude Opus 4.6 examines usage quotas and output quality, providing practical insights for practitioners evaluating cloud versus local inference trade-offs. The analysis highlights cost-effectiveness and performance considerations when choosing between commercial APIs and self-hosted solutions."
 tags:
-  - daily-digest
+  - analysis
+  - api-vs-self-hosted
   - benchmark
-  - quantisation
+  - benchmark-report
+  - bullish
+  - cloud-vs-local-inference
+  - cloud-vs-on-device
+  - cost-effectiveness
+  - cost-optimization
+  - daily-digest
+  - data-privacy
+  - developer
+  - enterprise
+  - hacker-news
   - inference-optimization
-status: draft
+  - intermediate
+  - local-llm-deployment
+  - model-comparison
+  - model-quantization
+  - performance-evaluation
+  - quantisation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A [comparative benchmark between Gemini 3.1 Pro and Claude Opus 4.6](https://www.reddit.com/r/Bard/s/4SvwzqPdKm) provides practical data on usage quotas, quality metrics, and cost-effectiveness—information directly relevant to developers deciding between cloud inference and local deployment strategies. These comparisons help practitioners understand when self-hosted inference becomes economically and operationally superior to commercial APIs.

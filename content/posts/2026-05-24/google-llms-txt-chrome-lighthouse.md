@@ -3,11 +3,27 @@ title: "Google Adds llms.txt Check to Chrome Lighthouse"
 date: 2026-05-24
 description: "Chrome Lighthouse now validates llms.txt file implementation, standardizing how local and edge AI systems discover model availability and constraints."
 tags:
+  - ai-standardization
+  - analysis
+  - bullish
   - daily-digest
+  - deployment
+  - deployment-tooling
+  - developer
+  - distributed-deployment
+  - hacker-news
+  - intermediate
+  - llms-txt-standard
+  - model-discoverability
+  - model-discovery
+  - news
   - open-source
   - standards
-  - deployment
-status: draft
+  - web-api-integration
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Google's integration of llms.txt validation into Chrome Lighthouse signals growing standardization around how AI systems discover and interact with language models. The llms.txt standard provides a machine-readable format for documenting available models, their capabilities, and access constraints.

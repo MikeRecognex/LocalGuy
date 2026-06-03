@@ -3,12 +3,36 @@ title: "Bito's AI Architect Improves Claude Opus Task Success Rate by 35%"
 date: 2026-05-19
 description: "Bito has demonstrated a 35% improvement in Claude Opus's task success rate on SWE-Bench Pro through their AI Architect framework. This benchmark shows significant gains in model capability for code-related tasks."
 tags:
-  - daily-digest
-  - benchmark
-  - code-generation
-  - performance
+  - advanced
+  - agentic-frameworks
   - agents
-status: draft
+  - ai-architect-framework
+  - analysis
+  - benchmark
+  - benchmark-analysis
+  - benchmark-report
+  - bito
+  - bito-ai
+  - bullish
+  - code-generation
+  - code-generation-benchmark
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - llm-architecture
+  - local-deployment
+  - model-performance-improvement
+  - performance
+  - performance-optimization
+mentions:
+  - name: Bito
+    role: developer
+  - name: Bito AI
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Bito has published benchmark results showing that their AI Architect framework improves Claude Opus's performance on SWE-Bench Pro by 35%, a substantial gain for code generation and software engineering tasks. This is relevant for practitioners deploying local code-related agents and models, as it demonstrates the impact of sophisticated prompting and agentic frameworks on model performance.

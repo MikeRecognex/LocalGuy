@@ -3,12 +3,35 @@ title: "Microsoft Researchers Find AI Models and Agents Can't Handle Long-Runnin
 date: 2026-05-12
 description: "New research from Microsoft reveals fundamental limitations in current AI models and agents when managing long-duration operations, impacting local deployment strategies for autonomous systems."
 tags:
-  - daily-digest
+  - advanced
+  - agent-limitations
+  - agent-performance-decay
   - agents
-  - research
-  - memory-optimization
+  - ai-agents
+  - analysis
+  - cautious
+  - context-management
+  - daily-digest
+  - developer
+  - external-memory-systems
+  - hacker-news
+  - in-context-memory-limitations
+  - intermediate
   - limitations
-status: draft
+  - local-agent-development
+  - local-deployment
+  - long-running-tasks
+  - memory-optimization
+  - model-limitations
+  - news
+  - research
+  - researcher
+  - state-management
+  - task-decomposition
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Microsoft researchers have identified critical limitations in how current LLMs and AI agents handle long-running tasks](https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263), a finding with direct implications for local deployment scenarios where models must maintain state and coherence over extended operations.

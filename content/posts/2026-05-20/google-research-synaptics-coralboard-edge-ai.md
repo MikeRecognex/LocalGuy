@@ -3,12 +3,37 @@ title: "Google and Synaptics Partner on Coralboard for Immersive Edge AI Experie
 date: 2026-05-20
 description: "Google Research collaborates with Synaptics to showcase edge AI capabilities through Coralboard at Google I/O 2026. The partnership emphasizes practical, power-efficient deployment of complex AI workloads on specialized edge hardware."
 tags:
-  - daily-digest
-  - hardware
-  - edge-inference
+  - advanced
+  - bullish
   - coral-tpu
+  - coral-tpus
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-ai-hardware
+  - edge-device
+  - edge-hardware
+  - edge-inference
+  - google-news
+  - hardware
+  - intermediate
+  - latency-optimization
+  - local-inference
+  - manila-times
+  - model-efficiency
+  - multi-modal-ai
   - optimization
-status: draft
+  - power-efficiency
+  - showcase
+  - synaptics
+mentions:
+  - name: Synaptics
+    role: partner
+  - name: Manila Times
+    role: publisher
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Google Research's partnership with Synaptics around Coralboard represents a significant validation of specialized edge AI hardware as a viable deployment path. Coral TPUs (Tensor Processing Units) have long been attractive for local inference, and this collaboration suggests Google is doubling down on making edge AI not just possible, but mainstream and feature-rich.

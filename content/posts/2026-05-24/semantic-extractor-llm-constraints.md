@@ -3,11 +3,30 @@ title: "From Source Code to LLM Constraints: A Semantic Extractor for Python, Sw
 date: 2026-05-24
 description: "New tooling that extracts semantic constraints from source code to inform local LLM behavior and fine-tuning, enabling better code generation and AI-assisted development."
 tags:
-  - daily-digest
-  - fine-tuning
+  - ai-assisted-development
+  - analysis
+  - bullish
   - code-generation
+  - code-generation-quality
+  - context-aware-ai
+  - daily-digest
+  - developer
+  - domain-specific-ai
+  - edge-ai-code-assistants
+  - edge-device
+  - fine-tuning
+  - intermediate
+  - llm-fine-tuning
   - open-source
-status: draft
+  - programming-language-support
+  - refactoring-reduction
+  - release
+  - semantic-code-extraction
+  - whitecell-dev
+mentions:
+  - name: whitecell-dev
+    role: developer
+status: published
 ---
 
 A novel approach to improving local LLM performance for code-related tasks is gaining traction: [extracting semantic constraints directly from source code repositories](https://github.com/whitecell-dev/Semantic-Extractor/tree/main) to inform model behavior. This tool supports Python, SwiftUI, and Lua, and bridges the gap between generic code generation and project-specific best practices.

@@ -3,12 +3,32 @@ title: "The Anatomy of an LLM"
 date: 2026-05-28
 description: "A technical deep-dive into how large language models work internally, covering architecture, training, and inference fundamentals essential for understanding local deployment."
 tags:
-  - daily-digest
+  - advanced
   - architecture
-  - open-source
+  - bullish
+  - consumer-gpu
+  - cpu-only
+  - daily-digest
+  - deployment-strategy
+  - developer
+  - edge-device
   - education
+  - hacker-news
+  - hardware-optimization
   - inference
-status: draft
+  - intermediate
+  - llm-architecture
+  - llm-mechanisms
+  - local-llm-deployment
+  - local-llm-ecosystem
+  - model-optimization
+  - model-selection
+  - open-source
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Understanding the internal mechanics of large language models is crucial for anyone deploying them locally. [This comprehensive guide breaks down the anatomy of LLMs](https://www.royvanrijn.com/anatomy-of-an-llm/), examining the fundamental components that power local inference, from tokenization through attention mechanisms to the final output generation.

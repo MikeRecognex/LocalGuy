@@ -3,12 +3,30 @@ title: "Gemma 4 Just Replaced My Whole Local LLM Stack"
 date: 2026-05-04
 description: "Gemma 4 demonstrates significant improvements that make it a compelling choice for replacing multiple models in local LLM deployments. The model shows practical advantages for on-device inference with better performance-to-size tradeoffs."
 tags:
+  - analysis
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - developer
+  - edge-device
   - gemma
-  - model-release
   - inference-optimization
+  - inference-speed
+  - intermediate
+  - local-llm-deployment
+  - memory-optimization
+  - model-consolidation
+  - model-release
+  - msn
+  - on-device-inference
   - open-source
-status: draft
+  - performance-to-size-tradeoffs
+  - resource-efficiency
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Google's Gemma 4 has emerged as a significant breakthrough for local LLM practitioners, offering performance gains that consolidate what previously required multiple specialized models. Early adopters report that Gemma 4's efficiency and capability balance makes it a compelling drop-in replacement for existing local inference stacks, suggesting meaningful progress in the pursuit of smaller, more capable models.

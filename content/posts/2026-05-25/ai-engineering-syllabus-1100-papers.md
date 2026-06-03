@@ -3,12 +3,30 @@ title: "Show HN: An Open-Source Interactive AI Engineering Syllabus (1,100 Paper
 date: 2026-05-25
 description: "Community-driven curriculum curating 1,100 papers on AI engineering released as open-source resource. Valuable reference for understanding foundations of model optimization, deployment, and inference techniques."
 tags:
-  - daily-digest
-  - open-source
-  - education
+  - advanced
   - ai-engineering
+  - ai-engineering-curriculum
+  - analysis
+  - bullish
+  - daily-digest
+  - developer
+  - education
+  - grouped-query-attention
+  - hacker-news
+  - inference-techniques
   - learning-resource
-status: draft
+  - local-inference
+  - memory-efficient-attention
+  - model-deployment
+  - model-optimization
+  - open-source
+  - qlora
+  - quantization
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The AI community has released an interactive, open-source engineering syllabus covering 1,100 academic papers on artificial intelligence. This comprehensive resource organizes papers by topic and difficulty, providing structured pathways for learning everything from foundational theory to practical deployment techniques.

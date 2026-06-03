@@ -3,12 +3,33 @@ title: "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks"
 date: 2026-06-02
 description: "JetBrains introduces Mellum2, a 12-billion parameter mixture-of-experts model designed for efficient local inference in multi-model AI pipelines. The model balances performance and resource consumption for on-device deployment scenarios."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - model-release
-  - mixture-of-experts
-  - optimization
+  - developer
+  - edge-device
   - inference
-status: draft
+  - intermediate
+  - jetbrains
+  - local-inference
+  - marktechpostcom
+  - mixture-of-experts
+  - model-optimization
+  - model-release
+  - moe-models
+  - multi-model-integration
+  - on-device-deployment
+  - optimization
+  - release
+  - resource-efficiency
+  - resource-optimization
+  - showcase
+mentions:
+  - name: JetBrains
+    role: developer
+  - name: Marktechpost.com
+    role: publisher
+status: published
 ---
 
 JetBrains has released Mellum2, a new 12-billion parameter mixture-of-experts (MoE) model specifically engineered for efficient local inference. The MoE architecture is particularly valuable for on-device deployments, as it allows selective activation of model components—only the relevant expert modules activate for any given input, dramatically reducing computational overhead compared to dense models of equivalent capacity.

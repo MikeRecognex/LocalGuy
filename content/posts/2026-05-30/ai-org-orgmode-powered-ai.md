@@ -3,11 +3,24 @@ title: "Show HN: AI-org – Org-mode Powered by AI"
 date: 2026-05-30
 description: "A new tool integrating AI capabilities with Emacs org-mode, enabling intelligent organization and processing of structured text and task management through local or self-hosted LLMs."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - tools
-  - productivity
+  - developer
+  - developer-adoption
+  - developer-productivity
+  - emacs-integration
+  - intermediate
+  - local-llm-deployment
+  - local-llm-integration
   - open-source
-status: draft
+  - open-source-llms
+  - productivity
+  - showcase
+  - task-management-ai
+  - tool-integration
+  - tools
+status: published
 ---
 
 [AI-org brings intelligent capabilities to Emacs org-mode](https://ai-org.net/), extending the popular text organization system with LLM-powered features. This integration demonstrates how local LLMs can enhance existing developer and knowledge worker tools without requiring new applications or cloud dependencies.

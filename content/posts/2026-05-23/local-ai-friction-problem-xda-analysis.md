@@ -3,11 +3,33 @@ title: "Self-Hosting LLMs Reveals Local AI Has a Friction Problem, Not a Quality
 date: 2026-05-23
 description: "An in-depth analysis from XDA reveals that the primary barrier to local LLM adoption isn't model quality but rather the complexity and friction in setup, deployment, and maintenance workflows. The piece highlights practical barriers that practitioners face when moving beyond toy examples to production systems."
 tags:
+  - advanced
+  - ai-tooling
+  - analysis
+  - bullish
+  - cautious
   - daily-digest
   - deployment
-  - tooling
+  - deployment-friction
+  - deployment-patterns
+  - developer
+  - inference-frameworks
+  - inference-optimization
+  - intermediate
+  - local-llm-adoption
+  - model-quantization
   - open-source
-status: draft
+  - operational-challenges
+  - production-deployment
+  - production-monitoring
+  - tooling
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This analysis cuts to the heart of why local LLM adoption lags behind cloud alternatives despite competitive capability improvements. The article demonstrates that today's local models—whether 7B, 13B, or 70B parameters—are increasingly capable of production-grade tasks. The real bottleneck is operational: complex installation, vague documentation, framework incompatibilities, and unclear upgrade paths.
