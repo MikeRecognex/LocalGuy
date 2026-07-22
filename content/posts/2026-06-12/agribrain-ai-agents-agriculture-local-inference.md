@@ -3,12 +3,24 @@ title: "Agribrain: Specialized AI Agents for Agricultural Modeling with Local In
 date: 2026-06-12
 description: "An open-source project demonstrates domain-specific AI agents optimized for agricultural applications including weather modeling, evapotranspiration, growing degree days, and spray recommendations. This shows how local LLMs can power specialized inference systems without cloud dependencies."
 tags:
-  - daily-digest
   - agents
+  - ai-agents
+  - bullish
+  - daily-digest
+  - data-privacy
   - domain-specific
-  - open-source
+  - domain-specific-ai
+  - enterprise
+  - hacker-news
+  - intermediate
   - local-inference
-status: draft
+  - offline-inference
+  - open-source
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Domain-specific applications are emerging as a strong use case for local LLM deployment, and [Agribrain](https://github.com/VasileiosTs/agribrain) demonstrates how agricultural intelligence can be built entirely on local inference systems. The project includes agents capable of analyzing weather patterns, calculating evapotranspiration (ET₀), computing growing degree days (GDD), and providing spray window recommendations—all critical inputs for precision farming decisions.

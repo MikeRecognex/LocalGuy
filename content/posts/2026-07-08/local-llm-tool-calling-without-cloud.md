@@ -3,12 +3,23 @@ title: "My Local LLM Can Call Every Tool That Claude Can, Except It Runs on My O
 date: 2026-07-08
 description: "A deep dive into implementing comprehensive tool-calling capabilities in locally-hosted LLMs, achieving feature parity with commercial models while maintaining complete data sovereignty and offline operation."
 tags:
-  - daily-digest
-  - tool-use
+  - agentic-workflows
   - agents
+  - bullish
+  - daily-digest
+  - data-sovereignty
+  - developer
+  - intermediate
   - local-inference
   - open-source
-status: draft
+  - showcase
+  - tool-calling
+  - tool-use
+  - xda-developers
+mentions:
+  - name: XDA Developers
+    role: publisher
+status: published
 ---
 
 Tool calling—the ability for LLMs to invoke external functions and APIs—has been a key differentiator for commercial models like Claude and GPT-4. This article documents achieving full tool-calling parity with a locally-hosted model, a significant milestone for self-hosted AI applications.

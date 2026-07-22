@@ -3,12 +3,24 @@ title: "Ollama vs LM Studio vs Jan: Free Local LLM Frameworks Compared"
 date: 2026-07-03
 description: "A comprehensive comparison of three leading open-source frameworks for running large language models locally in 2026, evaluating their features, performance, and ease of use for self-hosted inference."
 tags:
+  - comparison
   - daily-digest
-  - ollama
-  - lm-studio
+  - developer
+  - edge-device
+  - framework-comparison
+  - intermediate
   - jan
+  - lm-studio
+  - local-inference
+  - neutral
+  - ollama
   - open-source
-status: draft
+  - self-hosted-inference
+  - tech-insider
+mentions:
+  - name: Tech Insider
+    role: publisher
+status: published
 ---
 
 As local LLM deployment continues to mature, practitioners face critical decisions about which framework best suits their needs. This comparison evaluates [Ollama, LM Studio, and Jan](https://tech-insider.org/ollama-vs-lm-studio-vs-jan-local-llms-2026)—three of the most popular open-source solutions for running models on-device—across dimensions like ease of installation, hardware requirements, model compatibility, and inference performance.

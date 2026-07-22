@@ -3,11 +3,23 @@ title: "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commi
 date: 2026-06-14
 description: "A new tool enables detection of AI-generated code contributions in git repositories, raising important considerations for code quality and authenticity in locally-run AI development workflows."
 tags:
-  - daily-digest
-  - open-source
   - agents
+  - ai-detection
+  - cicd-integration
+  - code-audit
+  - coding-assistants
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - neutral
+  - open-source
+  - release
   - tools
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Repo-Slopscore introduces a method for detecting AI-generated contributions in git repositories by analyzing commit patterns and code characteristics. For teams deploying local LLMs as coding assistants or in agentic workflows, this tool provides critical insight into code quality and authenticity, helping organizations understand the impact of local AI tools on their development processes.

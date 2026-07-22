@@ -3,12 +3,26 @@ title: "DEEPX and Sixfab Launch AI HAT for Raspberry Pi Edge Inference"
 date: 2026-06-27
 description: "DEEPX and Sixfab have introduced a specialized AI HAT (hardware attachment) designed to accelerate edge AI workloads on Raspberry Pi, expanding local LLM deployment possibilities to ultra-low-power devices. This hardware innovation makes on-device inference accessible on resource-constrained platforms."
 tags:
+  - bullish
   - daily-digest
-  - hardware
+  - deepx
+  - developer
+  - edge-device
   - edge-inference
-  - raspberry-pi
+  - embedded-ai
+  - hardware
+  - intermediate
+  - model-quantization
   - on-device-ai
-status: draft
+  - raspberry-pi
+  - release
+  - sixfab
+mentions:
+  - name: DEEPX
+    role: hardware-developer
+  - name: Sixfab
+    role: hardware-developer
+status: published
 ---
 
 DEEPX and Sixfab have launched the DEEPX AI HAT, a specialized hardware module designed to accelerate neural network inference on Raspberry Pi devices. This development significantly expands the ecosystem for local LLM deployment, enabling efficient on-device AI on ultra-constrained hardware that traditionally struggled with modern language models.

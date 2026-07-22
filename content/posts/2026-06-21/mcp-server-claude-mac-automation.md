@@ -3,12 +3,27 @@ title: "MCP Server Enables Claude to Automate Mac Tasks and Self-Correct"
 date: 2026-06-21
 description: "A new Model Context Protocol server allows Claude to interact with Mac applications through AppleScript, enabling autonomous task automation and error correction directly on local machines. This demonstrates practical on-device AI integration for productivity workflows."
 tags:
-  - daily-digest
-  - mcp
+  - agent-orchestration
   - agents
-  - on-device
+  - apple-silicon
   - automation
-status: draft
+  - bullish
+  - daily-digest
+  - developer
+  - github
+  - hacker-news
+  - intermediate
+  - local-automation
+  - mcp
+  - model-context-protocol
+  - on-device
+  - release
+mentions:
+  - name: GitHub
+    role: host
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A developer has released an MCP (Model Context Protocol) server that bridges Claude with macOS system automation through AppleScript. This tool allows LLMs running locally or via API to autonomously click menus, control applications, and correct their own mistakes in real-time without human intervention.

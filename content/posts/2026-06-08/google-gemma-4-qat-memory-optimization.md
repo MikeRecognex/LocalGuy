@@ -3,12 +3,23 @@ title: "Google Introduces Gemma 4 QAT for Ultra-Low Memory Local Inference"
 date: 2026-06-08
 description: "Google has integrated Quantization-Aware Training (QAT) into Gemma 4, enabling the E2B variant to run with just 0.84GB of memory on smartphones and laptops. This breakthrough in memory optimization makes local LLM deployment viable on resource-constrained devices."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - quantisation
-  - memory-optimization
+  - developer
+  - edge-device
+  - edge-inference
   - gemma
+  - gigazine
+  - memory-optimization
   - mobile
-status: draft
+  - quantisation
+  - quantization-aware-training
+  - release
+mentions:
+  - name: GIGAZINE
+    role: publisher
+status: published
 ---
 
 Google has made a significant breakthrough in edge LLM deployment by introducing Quantization-Aware Training (QAT) technology to its Gemma 4 model family. The Gemma 4 E2B variant now runs with an impressive 0.84GB memory footprint, making it practical for smartphones, laptops, and other memory-constrained devices. This represents a substantial reduction in the computational requirements for running capable language models locally.

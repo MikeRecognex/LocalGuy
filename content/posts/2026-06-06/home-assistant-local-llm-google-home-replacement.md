@@ -3,12 +3,25 @@ title: "Replacing Google Home with Home Assistant and Local LLMs"
 date: 2026-06-06
 description: "A practitioner shares their experience replacing Google Home with Home Assistant and a self-hosted local LLM, demonstrating practical benefits of on-device voice automation without cloud dependencies."
 tags:
+  - bullish
   - daily-digest
+  - hobbyist
+  - home-assistant
   - home-automation
+  - intermediate
   - open-source
   - privacy
+  - privacy-protection
+  - showcase
   - voice-ai
-status: draft
+  - voice-automation
+  - xda-developers
+mentions:
+  - name: XDA Developers
+    role: publisher
+  - name: Home Assistant
+    role: developer
+status: published
 ---
 
 A technical deep-dive from XDA Developers showcases a real-world migration from Google Home to Home Assistant paired with a locally-hosted language model. This case study demonstrates that local LLM deployment isn't just theoretically possible—it's practical enough for end-users to abandon cloud-dependent smart home ecosystems entirely.

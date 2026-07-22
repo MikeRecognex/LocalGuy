@@ -3,12 +3,24 @@ title: "Onemind.md – Adding Repository Memory to LLMs Without Extra Tooling"
 date: 2026-07-12
 description: "Simple approach to augmenting local LLM context with project-specific knowledge, enabling better code understanding without external infrastructure."
 tags:
+  - bullish
+  - codebase-context
+  - context-augmentation
   - daily-digest
-  - local-llm
-  - rag
-  - open-source
+  - developer
   - developer-tools
-status: draft
+  - edge-device
+  - hacker-news
+  - intermediate
+  - lightweight-rag
+  - local-llm
+  - open-source
+  - rag
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Onemind.md solves a practical problem for developers using local LLMs: how to give language models persistent context about a specific codebase without running separate vector databases or RAG infrastructure. The solution elegantly stores repository context in a markdown file that can be included in prompts, keeping complexity minimal while improving model accuracy on project-specific tasks.

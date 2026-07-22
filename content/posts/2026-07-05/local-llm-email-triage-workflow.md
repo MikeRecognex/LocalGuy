@@ -3,12 +3,24 @@ title: "Using Local LLMs for Email Triage: A Practical Workflow That Respects Pr
 date: 2026-07-05
 description: "A user shares their workflow of deploying a local LLM specifically for email triage tasks, improving productivity while maintaining complete control over sensitive message content."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - email
+  - email-triage
+  - intermediate
   - practical-deployment
   - privacy
+  - privacy-protection
+  - showcase
+  - text-classification
+  - workflow-automation
   - workflows
-  - email
-status: draft
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 A developer has implemented a practical daily workflow using a local LLM for email triage, demonstrating a real-world use case that balances AI assistance with privacy concerns. The setup allows the model to categorize, prioritize, and summarize incoming emails while ensuring no sensitive data leaves the user's device—a critical requirement for professional and personal email management.

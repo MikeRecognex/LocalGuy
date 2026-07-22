@@ -3,12 +3,23 @@ title: "DeepSWE Benchmark Updated with GLM 5.2 and Expanded Model Comparisons"
 date: 2026-06-21
 description: "The DeepSWE software engineering benchmark has been updated with new results for GLM 5.2 and other models, providing fresh performance data for evaluating local LLM deployments on code generation tasks. This comprehensive benchmark helps practitioners select appropriate models for their infrastructure."
 tags:
-  - daily-digest
   - benchmark
-  - open-source
+  - benchmark-report
+  - bullish
+  - code-generation
+  - daily-digest
+  - developer
   - fine-tuning
+  - hacker-news
+  - intermediate
+  - model-evaluation
+  - open-source
   - performance
-status: draft
+  - self-hosted-llm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The DeepSWE benchmark, a critical resource for evaluating LLM performance on software engineering tasks, has released updated results including new data for GLM 5.2 and comparative metrics across multiple models. This benchmark specifically focuses on practical programming tasks, making it invaluable for developers choosing which local LLM to deploy for code generation and automation.

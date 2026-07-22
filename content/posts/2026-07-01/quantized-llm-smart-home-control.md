@@ -3,12 +3,26 @@ title: "I Quantized a Local LLM on My Home Server and Ditched Cloud AI for Smart
 date: 2026-07-01
 description: "A practical case study demonstrating how quantization enables running a local LLM for smart home automation, eliminating cloud dependency while maintaining responsive performance on commodity hardware."
 tags:
+  - bullish
+  - cloud-independence
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - quantisation
-  - home-automation
   - edge-inference
+  - hobbyist
+  - home-automation
+  - home-server
+  - intermediate
+  - model-quantization
+  - msn
   - privacy
-status: draft
+  - quantisation
+  - showcase
+  - smart-home-automation
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This real-world implementation story showcases the practical viability of local LLM deployment for practical applications. By quantizing a capable language model and running it on home server hardware, the author achieved full smart home control without relying on cloud APIs, gaining both privacy and cost benefits.

@@ -3,12 +3,27 @@ title: "CoreMCP – MCP Server for On-Prem Databases"
 date: 2026-06-16
 description: "CoreMCP brings Model Context Protocol support to on-premises databases, enabling local LLMs to integrate with enterprise data sources without cloud dependencies. This tooling advancement simplifies building AI agents that work entirely within self-hosted infrastructure."
 tags:
-  - daily-digest
-  - mcp
-  - open-source
+  - agent-orchestration
   - agents
+  - bullish
+  - corebase
+  - daily-digest
   - deployment
-status: draft
+  - enterprise
+  - hacker-news
+  - intermediate
+  - local-first
+  - mcp
+  - model-context-protocol
+  - on-premise-database
+  - open-source
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Corebase
+    role: developer
+status: published
 ---
 
 CoreMCP extends the Model Context Protocol ecosystem to on-premises databases, a critical gap for organizations running local LLMs. The MCP standard has become essential infrastructure for connecting language models to external tools and data sources, but enterprise deployments often require integration with private, self-hosted databases rather than cloud APIs.

@@ -3,11 +3,23 @@ title: "On-Device AI Technology Emerges as Key Growth Driver for Hardware Makers
 date: 2026-07-04
 description: "Shenzhen Longsys reports a 60,000% profit surge with on-device AI technology identified as a primary growth catalyst. The report reflects increasing hardware market interest in optimizing for local inference."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - hardware
-  - market-trends
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - hardware
+  - intermediate
+  - local-inference
+  - market-trends
+  - memory-bandwidth
+  - on-device-ai
+  - shenzhen-longsys
+mentions:
+  - name: Shenzhen Longsys
+    role: manufacturer
+status: published
 ---
 
 Hardware manufacturers are recognizing on-device AI as a significant business opportunity. Shenzhen Longsys's exceptional growth metrics underscore market momentum toward specialized silicon and memory solutions optimized for local inference workloads.

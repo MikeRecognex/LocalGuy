@@ -3,11 +3,25 @@ title: "SourceHut Disrupted by LLM Training Crawlers: Infrastructure and Data Co
 date: 2026-06-07
 description: "SourceHut experienced significant service disruptions caused by aggressive LLM training crawlers, raising critical questions about sustainability and ethics of model training data collection."
 tags:
+  - cautious
   - daily-digest
-  - open-source
-  - training-data
+  - data-ethics
+  - developer
+  - hacker-news
   - infrastructure
-status: draft
+  - intermediate
+  - model-training
+  - news
+  - open-source
+  - sourcehut
+  - training-data
+  - web-scraping
+mentions:
+  - name: SourceHut
+    role: infrastructure-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [SourceHut reported serious infrastructure disruptions caused by LLM crawlers](https://status.sr.ht/issues/2026-06-06-llms-again/), highlighting the growing tension between AI model training and open-source communities. This incident demonstrates the material impact that large-scale data collection for LLM training has on public infrastructure and services.

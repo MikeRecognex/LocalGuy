@@ -3,12 +3,26 @@ title: "Indian Companies Look to Chinese LLMs as AI Costs Bite"
 date: 2026-07-13
 description: "Cost-conscious companies are increasingly adopting smaller, cheaper LLM alternatives, including Chinese models. This trend demonstrates growing viability of non-frontier models for production workloads and may drive local deployment adoption."
 tags:
-  - daily-digest
+  - analysis
+  - bullish
   - cost-optimization
-  - model-selection
-  - inference
+  - cost-saving
+  - daily-digest
+  - decentralized-deployment
   - enterprise
-status: draft
+  - hacker-news
+  - inference
+  - intermediate
+  - model-quantization
+  - model-selection
+  - nikkei-asia
+  - self-hosting
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Nikkei Asia
+    role: publisher
+status: published
 ---
 
 As API costs for frontier LLMs continue rising, businesses are exploring alternatives including open models and smaller proprietary systems. Indian companies are actively evaluating Chinese LLMs as cost-effective replacements for OpenAI and Anthropic APIs, signaling broader market shift toward decentralized AI deployments.

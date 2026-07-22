@@ -3,12 +3,23 @@ title: "Article Compares Continuous and Static Batching in LLM Inference"
 date: 2026-07-01
 description: "A detailed analysis comparing continuous and static batching strategies for LLM inference, helping local deployment practitioners optimize throughput and latency trade-offs on resource-constrained hardware."
 tags:
-  - daily-digest
-  - inference-optimization
   - batching
+  - batching-strategies
+  - bullish
+  - comparison
+  - daily-digest
+  - developer
+  - inference-optimization
+  - inference-servers
+  - intermediate
+  - lets-data-science
   - performance-benchmark
   - quantisation
-status: draft
+  - throughput-latency
+mentions:
+  - name: Let's Data Science
+    role: publisher
+status: published
 ---
 
 Batching strategy is a critical factor in optimizing LLM inference performance, especially when deploying models locally on limited hardware. This article breaks down the differences between continuous batching (dynamic request scheduling) and static batching (fixed-size groups), with implications for latency, throughput, and memory utilization.

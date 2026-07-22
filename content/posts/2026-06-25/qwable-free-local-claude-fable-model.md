@@ -3,12 +3,19 @@ title: "Qwable: New Free Local Model Brings Claude-like Capabilities to Edge Dev
 date: 2026-06-25
 description: "Qwable is a new open-source local language model optimized for edge deployment, offering Claude-comparable reasoning and instruction-following without cloud dependencies. The model targets developers seeking private, self-hosted alternatives."
 tags:
+  - bullish
   - daily-digest
-  - open-source
-  - model-release
+  - developer
+  - edge-device
   - edge-inference
+  - instruction-following
+  - intermediate
+  - model-release
+  - open-source
   - privacy
-status: draft
+  - privacy-compliance
+  - release
+status: published
 ---
 
 Qwable represents an exciting addition to the growing ecosystem of capable open-source models purpose-built for local deployment. Designed to emulate Claude's reasoning style and instruction-following quality while remaining lightweight enough for edge execution, Qwable bridges the gap between performance and accessibility. For practitioners wanting Claude-like capabilities without cloud API dependencies or costs, Qwable offers a compelling free alternative that can run on modest hardware.

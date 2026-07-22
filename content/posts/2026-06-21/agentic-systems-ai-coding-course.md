@@ -3,12 +3,26 @@ title: "Agentic Systems Course: Learn to Build AI Agents with Live AI Coding"
 date: 2026-06-21
 description: "A comprehensive course on building agentic AI systems has been released with hands-on examples using an AI coding agent to teach the concepts. This practical educational resource helps developers understand agent architectures applicable to local LLM deployments."
 tags:
-  - daily-digest
+  - agent-architecture
+  - agent-orchestration
   - agents
-  - open-source
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - fine-tuning
+  - hacker-news
+  - intermediate
+  - local-deployment
   - memory-optimization
-status: draft
+  - open-source
+  - tutorial
+mentions:
+  - name: Bryan Zhu
+    role: author
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Bryan Zhu has released a comprehensive course on agentic AI systems, teaching practical agent architecture patterns through live examples where an AI coding agent demonstrates the concepts being taught. This meta approach—using an agent to teach how to build agents—provides both theoretical understanding and practical implementation patterns for local LLM practitioners.

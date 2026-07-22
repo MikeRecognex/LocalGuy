@@ -3,12 +3,31 @@ title: "Microsoft Expands On-Device AI Models in Edge Browser with New APIs for 
 date: 2026-06-03
 description: "Microsoft is expanding on-device AI capabilities in Edge with new models and developer APIs, enabling local LLM inference directly in the browser. The initiative includes model uninstall controls and broader hardware support across Windows devices."
 tags:
-  - daily-digest
-  - browser-based
-  - edge-inference
-  - microsoft
   - apis
-status: draft
+  - browser-ai
+  - browser-based
+  - browser-based-inference
+  - browser-inference
+  - bullish
+  - consumer-device
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - developer
+  - developer-api
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - hardware-compatibility
+  - intermediate
+  - latency-reduction
+  - local-inference-apis
+  - microsoft
+  - news
+  - offline-inference
+  - privacy-controls
+  - release
+status: published
 ---
 
 Browser-based local inference has been a growing area of interest, and [Microsoft's Edge expansion](https://blogs.windows.com/windows-insider/en-us/expanding-on-device-ai-in-microsoft-edge) brings production-ready infrastructure to this space. The new models and APIs enable developers to integrate local LLM capabilities directly into web applications without backend dependencies, while Microsoft's addition of granular uninstall controls addresses privacy and storage concerns.

@@ -3,12 +3,23 @@ title: "Building Tool-Using Agents With Local LLMs"
 date: 2026-06-27
 description: "A guide on transforming local language models into autonomous agents capable of tool use and function calling. This bridges the gap between basic inference and practical agentic applications running entirely on-device."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - bullish
+  - cost-saving
+  - daily-digest
+  - data-sovereignty
+  - developer
+  - function-calling
+  - intermediate
   - local-llm
   - tool-use
-  - function-calling
-status: draft
+  - towards-data-science
+  - tutorial
+mentions:
+  - name: Towards Data Science
+    role: publisher
+status: published
 ---
 
 Recent progress in local LLM infrastructure has made it possible to build sophisticated tool-using agents that operate entirely on-device, eliminating the need for cloud-based services for agentic workloads. This advancement opens the door to privacy-preserving autonomous systems that can integrate with local APIs, execute commands, and reason through multi-step tasks without external dependencies.

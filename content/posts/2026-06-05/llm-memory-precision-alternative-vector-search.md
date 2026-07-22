@@ -3,12 +3,24 @@ title: "Show HN: LLM Memory Without Context Bleed – 100% Precision vs. <10% Ve
 date: 2026-06-05
 description: "A new memory system for LLM applications achieves 100% precision in context retrieval compared to vector search's <10%, enabling more reliable and efficient local deployment of agentic systems."
 tags:
-  - daily-digest
-  - memory-optimization
+  - agentic-ai
   - agents
-  - rag
+  - bullish
+  - context-retrieval
+  - daily-digest
+  - developer
+  - intermediate
+  - memory-management
+  - memory-optimization
   - open-source
-status: draft
+  - rag
+  - rag-pipeline
+  - showcase
+  - tenure-ai
+mentions:
+  - name: Tenure AI
+    role: developer
+status: published
 ---
 
 Tenure AI presents a novel approach to LLM memory management that achieves 100% precision in retrieving relevant context, dramatically outperforming traditional vector similarity search which achieves <10% precision. This breakthrough is particularly significant for local LLM deployments where memory efficiency and reliability are critical constraints.

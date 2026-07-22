@@ -3,12 +3,27 @@ title: "Theoretical Bottlenecks for Scaling LLM Inference to Achieve Higher Toke
 date: 2026-07-02
 description: "A technical discussion exploring the fundamental performance limits and bottlenecks when scaling local LLM inference throughput. This analysis helps practitioners understand optimization trade-offs and realistic performance ceilings."
 tags:
+  - advanced
+  - analysis
+  - cpu-only
   - daily-digest
-  - inference-optimization
-  - performance
-  - throughput
+  - deployment-strategy
+  - developer
+  - edge-device
+  - hacker-news
   - hardware
-status: draft
+  - inference-optimization
+  - inference-speed
+  - memory-bandwidth
+  - model-quantization
+  - neutral
+  - performance
+  - speculative-decoding
+  - throughput
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Understanding the theoretical limits of LLM inference is critical for practitioners optimizing local deployment strategies. A recent technical discussion on scaling inference throughput examines the fundamental bottlenecks—memory bandwidth, compute-to-memory ratios, and token generation latency—that constrain tokens-per-second (TPS) performance on various hardware configurations.

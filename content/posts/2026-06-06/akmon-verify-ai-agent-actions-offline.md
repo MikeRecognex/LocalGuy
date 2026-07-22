@@ -3,12 +3,25 @@ title: "Show HN: Akmon, Verify What an AI Agent Did Offline Using Only OpenSSL"
 date: 2026-06-06
 description: "Akmon enables cryptographic verification of AI agent actions without external services, using only standard OpenSSL. A practical security tool for local and offline LLM deployments."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - security
-  - open-source
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
+  - hacker-news
+  - intermediate
   - offline
-status: draft
+  - offline-verification
+  - open-source
+  - privacy-compliance
+  - security
+  - security-audit
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As LLM agents become more autonomous and run on local machines, security and auditability become critical concerns. [Akmon](https://github.com/radotsvetkov/akmon) provides an elegant solution: a tool to cryptographically verify and audit the actions taken by AI agents without requiring external services or complex infrastructure.

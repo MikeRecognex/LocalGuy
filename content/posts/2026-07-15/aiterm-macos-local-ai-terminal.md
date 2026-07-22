@@ -3,12 +3,24 @@ title: "Show HN: AITerm – a macOS Terminal with an AI Command Loop and a Safet
 date: 2026-07-15
 description: "A new macOS terminal application that integrates local AI inference directly into the command-line environment with built-in safety mechanisms, demonstrating practical integration of local LLMs into developer workflows."
 tags:
+  - apple-silicon
+  - bullish
+  - cli-tool
   - daily-digest
-  - tools
-  - local-inference
+  - developer
+  - developer-productivity
   - developer-tools
+  - guardrails
+  - hacker-news
+  - intermediate
+  - local-inference
   - macos
-status: draft
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 AITerm represents a thoughtful approach to integrating local LLM inference into everyday developer tools. By embedding an AI command loop directly into a macOS terminal with explicit safety gates, the project shows how on-device models can enhance productivity without requiring constant cloud API calls or external tools.

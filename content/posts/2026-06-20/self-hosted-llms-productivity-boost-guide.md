@@ -3,12 +3,23 @@ title: "My Self-Hosted LLMs Are a Lot More Than Just a Chat Replacement – Here
 date: 2026-06-20
 description: "A comprehensive exploration of practical productivity applications for self-hosted LLMs beyond traditional chat interfaces, including workflow integration and task automation."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - self-hosted
-  - productivity
+  - hobbyist
+  - intermediate
+  - msn
   - practical-deployment
+  - productivity
+  - productivity-boost
+  - self-hosted
+  - self-hosting
+  - workflow-automation
   - workflow-integration
-status: draft
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This article demonstrates the evolution of self-hosted LLM usage patterns beyond simple chatbot replacement. The author details multiple ways local LLMs integrate into daily workflows—from code generation and documentation to task automation and knowledge management—showcasing productivity gains that aren't immediately obvious when first deploying a local model.

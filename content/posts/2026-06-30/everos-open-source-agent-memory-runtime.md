@@ -3,12 +3,25 @@ title: "Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hyb
 date: 2026-06-30
 description: "A new open-source framework provides markdown-based agent memory management with hybrid semantic and keyword search capabilities, enabling self-evolving AI agents that can run locally."
 tags:
-  - daily-digest
-  - open-source
+  - agent-memory
   - agents
+  - autonomous-agents
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
+  - hybrid-search
+  - intermediate
+  - local-deployment
+  - marktechpost
   - memory-optimization
+  - open-source
+  - release
   - retrieval-augmented-generation
-status: draft
+mentions:
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 EverOS brings much-needed infrastructure for managing agent state and memory in local LLM deployments. By combining BM25 (keyword-based) and vector-based (semantic) retrieval, the framework provides robust information retrieval without requiring heavy external dependencies like dedicated vector databases. The markdown-first design makes it human-readable and debuggable—critical for practitioners building reliable local agents.

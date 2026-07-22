@@ -3,12 +3,24 @@ title: "DockSec: Open-Source AI-Powered Container Security Scanner for Self-Host
 date: 2026-06-08
 description: "DockSec is a new open-source AI-powered security scanner designed specifically for Docker containers, enabling practitioners to audit and secure containerized LLM deployments locally. The tool integrates AI analysis to detect vulnerabilities and misconfigurations in self-hosted environments."
 tags:
+  - bullish
+  - container-security
+  - containerized-inference
   - daily-digest
-  - open-source
-  - docker
   - deployment
+  - developer
+  - docker
+  - help-net-security
+  - intermediate
+  - open-source
+  - privacy-compliance
+  - release
   - security
-status: draft
+  - security-audit
+mentions:
+  - name: Help Net Security
+    role: publisher
+status: published
 ---
 
 DockSec represents an important development for the self-hosted and on-premises LLM deployment community, addressing a critical gap in container security automation. This open-source tool combines traditional Docker vulnerability scanning with AI-powered analysis to identify security misconfigurations, exposed secrets, and other risks that might be missed by rule-based tools alone. For practitioners deploying LLMs in containerized environments, having an AI-native security tool eliminates the friction of integrating multiple disparate security solutions.

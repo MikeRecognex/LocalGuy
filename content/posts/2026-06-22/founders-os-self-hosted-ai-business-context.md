@@ -3,12 +3,24 @@ title: "Founders OS – Self-Hosted AI with Real Business Context"
 date: 2026-06-22
 description: "A new open-source project enables developers to self-host AI clients with full access to business context and data, avoiding reliance on cloud APIs and external services."
 tags:
-  - daily-digest
-  - self-hosted
-  - open-source
   - agents
+  - bullish
+  - business-context
+  - daily-digest
+  - data-privacy
+  - developer
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - open-source
   - privacy
-status: draft
+  - release
+  - self-hosted
+  - self-hosting
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Founders OS represents a significant step forward for developers seeking to deploy AI locally while maintaining full control over sensitive business data. Rather than sending proprietary information to cloud-based LLM APIs, this framework allows you to run AI clients entirely on-premise with direct access to your business context, making it ideal for enterprises and startups concerned about data privacy and vendor lock-in.

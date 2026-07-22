@@ -3,11 +3,22 @@ title: "My Smart Home Sends Me a Brutally Honest Report Card Every Day—Here's 
 date: 2026-06-13
 description: "How-To Geek details a practical smart home automation project powered by a local LLM, demonstrating real-world applications for on-device inference in IoT environments."
 tags:
+  - bullish
   - daily-digest
-  - smart-home
+  - edge-device
   - edge-inference
+  - hobbyist
+  - how-to-geek
+  - intermediate
+  - iot-integration
   - practical-deployment
-status: draft
+  - smart-home
+  - smart-home-automation
+  - tutorial
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 This hands-on guide demonstrates how local LLMs can power intelligent automation without cloud dependencies, using on-device models to analyze smart home data and generate daily reports. The project showcases the privacy and latency benefits of edge inference, where sensitive home automation data never leaves the local network.

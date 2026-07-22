@@ -3,12 +3,23 @@ title: "Two-Tier Local AI Architecture Keeps Sensitive Data Offline"
 date: 2026-06-16
 description: "A practical deployment pattern combines local LLMs with a stratified approach, keeping sensitive information completely offline while using tiered inference for general tasks. This architecture balances capability with privacy and security requirements."
 tags:
-  - daily-digest
-  - deployment
-  - privacy
-  - local-llm
+  - air-gapped-deployment
+  - analysis
   - architecture
-status: draft
+  - bullish
+  - daily-digest
+  - data-privacy
+  - deployment
+  - enterprise
+  - intermediate
+  - local-llm
+  - msn
+  - privacy
+  - tiered-inference
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Real-world deployments of local LLMs often reveal that a single model isn't sufficient—organizations need a nuanced approach to handle different data sensitivity levels. A two-tier architecture segregates workloads: general-purpose queries run through capable models with standard isolation, while sensitive operations (financial data, personal information, proprietary code) stay completely offline and air-gapped from any networked inference.

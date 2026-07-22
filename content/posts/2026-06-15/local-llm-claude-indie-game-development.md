@@ -3,12 +3,24 @@ title: "My Local LLM and Claude Are Helping Me Make My Dream Game, One Day at a 
 date: 2026-06-15
 description: "A developer shares their experience using local LLMs alongside Claude for indie game development, demonstrating practical applications of on-device AI in creative workflows."
 tags:
-  - daily-digest
-  - applications
-  - workflow
-  - open-source
   - agents
-status: draft
+  - applications
+  - bullish
+  - code-generation
+  - cost-saving
+  - daily-digest
+  - developer
+  - game-development
+  - hybrid-ai-workflow
+  - intermediate
+  - open-source
+  - showcase
+  - workflow
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This case study illustrates how local LLMs are becoming practical tools for creative professionals beyond simple chatbot applications. The developer's workflow—combining local open-source models with Claude for iterative game development—showcases a hybrid approach that's increasingly common among practitioners seeking cost efficiency, privacy, and creative control.

@@ -3,12 +3,24 @@ title: "Qualcomm Launches Snapdragon Reality Elite for AI-Powered Spatial Comput
 date: 2026-06-19
 description: "Qualcomm's new Snapdragon Reality Elite platform brings dedicated on-device AI inference capabilities to spatial computing and AR/VR applications, enabling real-time local model deployment on edge devices."
 tags:
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-device
   - edge-inference
-  - snapdragon
+  - hardware
+  - intermediate
+  - multimodal-ai
+  - privacy-preserving
+  - pulse-20
   - real-time-ai
-status: draft
+  - release
+  - snapdragon
+  - spatial-computing
+mentions:
+  - name: Pulse 2.0
+    role: publisher
+status: published
 ---
 
 Qualcomm's Snapdragon Reality Elite represents a significant step forward in hardware-accelerated local inference for spatial computing applications. This platform is purpose-built to handle real-time on-device AI workloads without requiring cloud connectivity, a critical requirement for responsive AR/VR experiences that demand sub-100ms latency.

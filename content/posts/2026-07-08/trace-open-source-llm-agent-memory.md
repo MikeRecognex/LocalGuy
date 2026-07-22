@@ -3,12 +3,27 @@ title: "Show HN: Trace – Open-source, Self-organizing Memory for LLM Agents"
 date: 2026-07-08
 description: "A new open-source project introduces TRACE, a self-organizing memory system designed to enhance LLM agent capabilities for local deployment with persistent context management."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - bullish
+  - context-management
+  - daily-digest
+  - developer
+  - edge-device
+  - framework
+  - github
+  - hacker-news
+  - inference-optimization
+  - intermediate
   - memory-optimization
   - open-source
-  - framework
-status: draft
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: GitHub
+    role: host
+status: published
 ---
 
 TRACE is a new open-source tool addressing a critical challenge in deploying agentic LLMs locally: managing and organizing context efficiently across extended interactions. The self-organizing memory system enables local LLM agents to maintain relevant information without the computational overhead of full context windows, making long-running tasks more feasible on edge devices.

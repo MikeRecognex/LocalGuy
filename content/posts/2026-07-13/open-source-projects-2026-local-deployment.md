@@ -3,11 +3,23 @@ title: "The 5 Coolest Open-Source Projects I've Discovered in 2026"
 date: 2026-07-13
 description: "A curated collection of notable open-source projects showcasing innovations in AI, infrastructure, and developer tools that may include relevant advances for local LLM deployment."
 tags:
-  - daily-digest
-  - open-source
-  - tools
+  - bullish
   - community
-status: draft
+  - daily-digest
+  - developer
+  - edge-device
+  - how-to-geek
+  - inference-frameworks
+  - intermediate
+  - local-deployment
+  - model-quantization
+  - open-source
+  - showcase
+  - tools
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 How-To Geek's compilation of the coolest open-source projects from 2026 provides insight into the developer community's latest innovations and tools. While the full list varies, projects in this category typically include improvements to model inference frameworks, quantization tools, and infrastructure for local AI deployment.

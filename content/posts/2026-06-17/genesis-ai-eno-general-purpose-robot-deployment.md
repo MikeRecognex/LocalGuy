@@ -3,11 +3,23 @@ title: "Genesis AI Launches Eno General-Purpose Robot with Embedded AI"
 date: 2026-06-17
 description: "Genesis AI's new Eno robot features on-device AI capabilities, demonstrating practical edge deployment of language and vision models in robotics applications."
 tags:
+  - bullish
   - daily-digest
+  - developer
   - edge-deployment
-  - robotics
+  - edge-device
+  - edge-inference
+  - genesis-ai
   - hardware
-status: draft
+  - intermediate
+  - model-compression
+  - release
+  - robotics
+  - robotics-ai
+mentions:
+  - name: Genesis AI
+    role: developer
+status: published
 ---
 
 Genesis AI has unveiled Eno, a general-purpose robot featuring integrated on-device AI capabilities. The robot's design emphasizes edge inference, running language and vision models locally rather than relying on cloud connectivity, which is critical for real-time robotics applications requiring low latency and reliable operation without network dependency.

@@ -3,12 +3,26 @@ title: "CorvinOS – Self-Hosted OS for AI Agents with Compliance Built Into Run
 date: 2026-07-10
 description: "CorvinOS introduces a specialized operating system designed for running AI agents locally with compliance and security features baked into the runtime layer. This addresses enterprise and regulated-environment demands for local, auditable AI agent deployment."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
+  - bullish
   - compliance
+  - corvin-labs
+  - daily-digest
+  - enterprise
+  - hacker-news
+  - intermediate
+  - on-premise-deployment
+  - open-source
+  - security-audit
   - self-hosted
-status: draft
+  - showcase
+mentions:
+  - name: Corvin Labs
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 CorvinOS represents a new approach to local AI deployment by building an entire OS layer specifically optimized for running AI agents with compliance as a first-class concern. Rather than retrofitting security and audit logs onto existing systems, [CorvinOS integrates compliance features directly into the runtime](https://corvin-labs.com/), making it suitable for regulated industries where local deployment and verifiable execution are non-negotiable.

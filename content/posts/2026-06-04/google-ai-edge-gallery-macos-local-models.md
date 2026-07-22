@@ -3,12 +3,24 @@ title: "Google Launches AI Edge Gallery on macOS for Running Gemini Models Local
 date: 2026-06-04
 description: "Google has expanded its AI Edge Gallery to macOS, enabling Mac users to run Gemini models locally with native integration. This platform provides a user-friendly interface for accessing and deploying Google's optimized on-device AI models."
 tags:
+  - 9to5mac
+  - apple-silicon
+  - beginner-friendly
+  - bullish
   - daily-digest
-  - tools
-  - macos
-  - open-source
   - deployment
-status: draft
+  - developer
+  - hardware-acceleration
+  - local-deployment
+  - macos
+  - model-marketplace
+  - open-source
+  - release
+  - tools
+mentions:
+  - name: 9to5Mac
+    role: publisher
+status: published
 ---
 
 Google has extended its AI Edge Gallery to macOS, providing Mac users with a dedicated platform for discovering and running Gemini models locally. This move significantly lowers the barrier to entry for local LLM deployment on Apple's ecosystem, where hardware optimization and integration with native frameworks is critical.

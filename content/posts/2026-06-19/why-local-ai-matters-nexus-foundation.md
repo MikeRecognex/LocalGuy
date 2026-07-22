@@ -3,12 +3,27 @@ title: "Why local AI – and why it matters"
 date: 2026-06-19
 description: "An analysis from Nexus Foundation examining the strategic importance of local AI deployment for privacy, sovereignty, and resilience. The piece covers why on-device and self-hosted LLM inference represents a critical shift in AI infrastructure."
 tags:
+  - analysis
+  - beginner-friendly
+  - bullish
   - daily-digest
-  - open-source
-  - privacy
+  - data-privacy
   - edge-deployment
+  - enterprise
+  - hacker-news
   - infrastructure
-status: draft
+  - local-deployment
+  - nexus-foundation
+  - offline-inference
+  - open-source
+  - operational-sovereignty
+  - privacy
+mentions:
+  - name: Nexus Foundation
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The importance of local AI infrastructure continues to gain recognition beyond technical circles. [Nexus Foundation's analysis](https://nexusfoundation.ngo/why-local-ai) articulates the compelling reasons why on-device and self-hosted LLM deployment matters—beyond just performance optimization.

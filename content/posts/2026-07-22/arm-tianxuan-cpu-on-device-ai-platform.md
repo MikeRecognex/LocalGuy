@@ -3,12 +3,24 @@ title: "Arm China Unveils \"Tianxuan\" CPU and Xingchen 300 Platform, Targeting 
 date: 2026-07-22
 description: "Arm China announced the Tianxuan CPU and Xingchen 300 platform specifically architected for on-device AI inference across IoT and edge devices in the Asian market."
 tags:
-  - daily-digest
-  - hardware
-  - edge-inference
-  - iot
   - arm-architecture
-status: draft
+  - biggo-finance
+  - bullish
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-device
+  - edge-inference
+  - hardware
+  - hardware-acceleration
+  - inference-efficiency
+  - intermediate
+  - iot
+  - release
+mentions:
+  - name: BigGo Finance
+    role: publisher
+status: published
 ---
 
 Arm China's announcement of the Tianxuan CPU and Xingchen 300 platform represents a significant hardware-level investment in enabling ubiquitous on-device AI across IoT ecosystems. According to [BigGo Finance coverage](https://finance.biggo.com/), the platform is specifically optimized for efficient LLM inference on edge devices, addressing a critical gap in the AIoT market where resource-constrained devices need to run intelligent models locally.

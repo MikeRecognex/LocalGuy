@@ -3,12 +3,23 @@ title: "AI can control your desktop through scripts"
 date: 2026-06-11
 description: "ClawdCursor enables local LLMs to control desktop environments through script generation and execution. Demonstrates practical capabilities for extending on-device models with system-level automation."
 tags:
-  - daily-digest
+  - agentic-workflows
   - agents
   - automation
-  - open-source
+  - bullish
+  - daily-digest
   - desktop
-status: draft
+  - desktop-automation
+  - developer
+  - hacker-news
+  - intermediate
+  - open-source
+  - privacy-compliance
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 ClawdCursor showcases how locally-deployed LLMs can be extended to control desktop environments through script generation, opening new possibilities for local AI automation and productivity workflows. By generating and executing control scripts, on-device models can interact with applications, automate repetitive tasks, and interface with legacy systems without requiring cloud API calls.

@@ -3,12 +3,24 @@ title: "Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi"
 date: 2026-07-22
 description: "A new guide demonstrates how to deploy the Mythos Enhanced Coding Model locally using llama.cpp and Raspberry Pi, making advanced code generation accessible on edge devices."
 tags:
-  - daily-digest
-  - llama-cpp
+  - bullish
+  - code-generation
   - coding-models
+  - daily-digest
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - intermediate
+  - kdnuggets
+  - llama-cpp
+  - privacy-compliance
   - raspberry-pi
-status: draft
+  - tutorial
+mentions:
+  - name: KDnuggets
+    role: publisher
+status: published
 ---
 
 The Mythos Enhanced Coding Model represents a significant opportunity for local LLM deployment, particularly for developers working with resource-constrained devices. This [KDnuggets guide](https://www.kdnuggets.com/) walks through the practical steps of running this specialized coding model on Raspberry Pi using llama.cpp, one of the most popular inference engines for local deployment.

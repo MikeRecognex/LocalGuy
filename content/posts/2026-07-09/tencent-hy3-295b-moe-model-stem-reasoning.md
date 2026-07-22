@@ -3,12 +3,26 @@ title: "Tencent Open-Sources Hy3 295B MoE Model Built for STEM Reasoning"
 date: 2026-07-09
 description: "Tencent releases Hy3, a 295B mixture-of-experts model optimized for STEM reasoning tasks. This open-source release provides local LLM practitioners with a high-capacity model option for specialized reasoning workloads."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - open-source
-  - moe
+  - developer
+  - inference-efficiency
   - model-release
+  - moe
+  - moe-architecture
+  - open-source
   - reasoning
-status: draft
+  - release
+  - stem-reasoning
+  - techjuice
+  - tencent
+mentions:
+  - name: Tencent
+    role: developer
+  - name: TechJuice
+    role: publisher
+status: published
 ---
 
 Tencent has open-sourced Hy3, a 295 billion parameter mixture-of-experts model specifically architected for STEM reasoning applications. This release expands the ecosystem of locally-deployable large models beyond general-purpose chat, offering practitioners access to a specialized model that can be self-hosted and fine-tuned for domain-specific tasks.

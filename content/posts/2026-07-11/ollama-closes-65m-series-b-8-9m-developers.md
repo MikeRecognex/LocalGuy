@@ -3,11 +3,24 @@ title: "Ollama Closes $65M Series B, Reaches 8.9M Developers on Local Open-Weigh
 date: 2026-07-11
 description: "Ollama has secured $65M in Series B funding while growing to 8.9 million developers using its local AI platform. The achievement underscores the rapid adoption of on-device LLM deployment tools and the company's position as a critical infrastructure layer for local inference."
 tags:
+  - beginner-friendly
+  - bullish
   - daily-digest
+  - developer
+  - funding
+  - funding-round
+  - local-inference
+  - news
+  - offline-inference
   - ollama
   - open-source
-  - funding
-status: draft
+  - tech-times
+mentions:
+  - name: Ollama
+    role: developer
+  - name: Tech Times
+    role: publisher
+status: published
 ---
 
 Ollama has announced a $65M Series B funding round while achieving a major milestone of 8.9 million developers actively using its platform. With only 14 employees, the startup has become one of the fastest-growing infrastructure tools in the open-source AI ecosystem, democratizing access to local model deployment.

@@ -3,12 +3,26 @@ title: "Most People Use Ollama or llama.cpp for Local LLMs, but These Are the To
 date: 2026-06-15
 description: "An experienced practitioner compares advanced local LLM deployment tools beyond the popular Ollama and llama.cpp, highlighting specialized frameworks for production scenarios."
 tags:
+  - advanced
+  - apple-silicon
+  - batch-inference
+  - bullish
+  - comparison
+  - consumer-gpu
   - daily-digest
-  - ollama
+  - developer
   - llama-cpp
-  - tools
+  - multi-gpu
+  - ollama
   - optimization
-status: draft
+  - production-deployment
+  - quantization
+  - tools
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 While Ollama and llama.cpp have become the default entry points for local LLM deployment, production requirements often demand more specialized tooling. This article explores the landscape beyond these popular solutions, addressing scenarios where standard approaches hit limitations: batch inference optimization, multi-GPU distribution, advanced quantization workflows, and complex memory management.

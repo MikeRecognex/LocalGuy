@@ -3,12 +3,24 @@ title: "Show HN: NetSentinel – a local network security scanner and connectivi
 date: 2026-06-19
 description: "A new open-source tool provides local network monitoring and security scanning capabilities without cloud dependencies. Relevant to local LLM deployments running on private networks and edge infrastructure."
 tags:
+  - air-gapped-deployment
+  - bullish
   - daily-digest
-  - security
   - edge-deployment
-  - open-source
+  - edge-device
+  - enterprise
+  - hacker-news
+  - intermediate
   - monitoring
-status: draft
+  - network-security
+  - observability
+  - open-source
+  - security
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [NetSentinel](https://github.com/ossianericson/netsentinel) represents growing attention to security and observability for local AI infrastructure. The tool provides network-level monitoring and security scanning without relying on external cloud services—a critical requirement for organizations deploying LLMs in isolated or sensitive environments.

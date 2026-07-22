@@ -3,12 +3,28 @@ title: "Apple Explores Running Larger AI Models on iPhone with On-Device Compres
 date: 2026-07-10
 description: "Apple is developing techniques to run significantly larger language models directly on iPhones, including a 27-billion-parameter model for the first time. The company is exploring advanced compression technologies like PrismML to enable this capability."
 tags:
-  - daily-digest
   - apple
-  - on-device
+  - apple-silicon
+  - bullish
   - compression
+  - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - intermediate
+  - local-first
+  - macrumors
+  - model-compression
+  - news
+  - on-device
+  - on-device-inference
+  - prismml
+mentions:
+  - name: MacRumors
+    role: publisher
+  - name: PrismML
+    role: developer
+status: published
 ---
 
 Apple is making significant strides in on-device AI inference, reportedly exploring ways to run models with 27 billion parameters directly on iPhones—a major leap from current constraints. According to reports, the company is investigating advanced model compression techniques, including partnerships with startups developing breakthrough compression technologies, to make this feasible within mobile device constraints.

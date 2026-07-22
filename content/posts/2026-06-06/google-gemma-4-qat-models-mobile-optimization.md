@@ -3,12 +3,20 @@ title: "Google Releases Gemma 4 QAT Models for Local AI Deployment"
 date: 2026-06-06
 description: "Google DeepMind has released Gemma 4 QAT (Quantization-Aware Training) checkpoints optimized for mobile and edge devices, including Q4_0 quantization and a new mobile-specific format that significantly reduces on-device memory requirements."
 tags:
+  - bullish
   - daily-digest
-  - quantisation
-  - gemma
-  - mobile
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - gemma
+  - intermediate
+  - memory-optimization
+  - mobile
+  - privacy-focused
+  - quantisation
+  - quantization-aware-training
+  - release
+status: published
 ---
 
 Google has released optimized Gemma 4 QAT models specifically designed for local deployment on resource-constrained devices. The new checkpoints include Q4_0 quantization variants and a dedicated mobile format that dramatically cuts memory footprint, making it feasible to run capable language models on phones and lightweight laptops without cloud dependencies.

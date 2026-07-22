@@ -3,12 +3,27 @@ title: "Privatewhisper.ai: Private AI Voice Dictation Without Typing"
 date: 2026-06-29
 description: "Privatewhisper.ai enables on-device speech-to-text processing using local models, offering privacy-preserving voice dictation without sending audio to cloud servers."
 tags:
+  - bullish
   - daily-digest
-  - open-source
+  - data-privacy
+  - edge-device
   - edge-inference
+  - hacker-news
+  - hobbyist
+  - intermediate
+  - model-optimization
+  - open-source
   - privacy
+  - privatewhisperai
+  - showcase
   - speech-recognition
-status: draft
+  - speech-to-text
+mentions:
+  - name: Privatewhisper.ai
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Privatewhisper.ai](https://privatewhisper.ai) demonstrates the practical application of local LLM inference for speech recognition tasks, running audio processing entirely on-device to eliminate privacy concerns inherent in cloud-based dictation services. This represents a significant advancement in usable local AI, bringing sophisticated speech-to-text capabilities to consumer devices without data exfiltration.

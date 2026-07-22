@@ -3,12 +3,24 @@ title: "Qualcomm Unveils Dragonwing MBM Silicon with Integrated On-Device AI and
 date: 2026-06-09
 description: "Qualcomm announces the Dragonwing MBM system-on-module combining interactive multimedia, connectivity, and dedicated on-device AI processing capabilities for edge deployment scenarios."
 tags:
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hardware
+  - intermediate
+  - on-device-inference
   - qualcomm
+  - release
   - soc
-status: draft
+  - system-on-chip
+  - wi-fi-now-global
+mentions:
+  - name: Wi-Fi NOW Global
+    role: publisher
+status: published
 ---
 
 [Qualcomm's new Dragonwing MBM silicon solution targets edge AI deployment with integrated multimedia, connectivity, and on-device processing capabilities](https://www.wi-finow.com). This system-on-module represents the industry's continued investment in purpose-built hardware for inference workloads, moving beyond consumer smartphones toward embedded and IoT applications.

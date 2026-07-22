@@ -3,11 +3,22 @@ title: "Community Survey: AI Coding Tools Usage Patterns and Local Deployment Pr
 date: 2026-06-07
 description: "Hacker News community discussion reveals current practices and preferences for AI-assisted coding tools, including insights into local versus cloud-based deployment choices."
 tags:
-  - daily-digest
-  - open-source
+  - bullish
   - coding-agents
+  - coding-assistants
+  - daily-digest
   - deployment-strategy
-status: draft
+  - developer
+  - hacker-news
+  - intermediate
+  - local-vs-cloud
+  - open-source
+  - opinion
+  - self-hosting
+mentions:
+  - name: Hacker News
+    role: community
+status: published
 ---
 
 A [community discussion asking what developers currently use for AI coding assistance](https://news.ycombinator.com/item?id=48433171) provides valuable insights into real-world adoption patterns and preferences. This conversation captures current thinking about trade-offs between proprietary cloud services and local LLM deployments for code generation and assistance tasks.

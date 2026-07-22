@@ -3,11 +3,23 @@ title: "Local LLMs Weren't Enough, So I Use a Two-Tier System That Keeps My Sens
 date: 2026-06-13
 description: "MSN covers an advanced deployment pattern using multiple local LLMs in a tiered architecture to handle varying privacy and performance requirements."
 tags:
-  - daily-digest
-  - privacy
+  - advanced
   - architecture
+  - bullish
+  - daily-digest
+  - data-privacy
+  - enterprise
+  - local-inference
+  - msn
   - multi-model
-status: draft
+  - multi-model-architecture
+  - privacy
+  - request-routing
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Privacy-conscious practitioners are developing sophisticated multi-tier architectures that use different local models for different sensitivity levels, ensuring that the most confidential data remains on the most secure infrastructure. This pattern reflects growing recognition that not all workloads have identical privacy and performance requirements.

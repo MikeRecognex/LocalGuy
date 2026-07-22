@@ -3,11 +3,23 @@ title: "2026 On-Device AI Market Intensifies: Apple, Google, and Samsung Compete
 date: 2026-06-23
 description: "Industry analysis reveals growing competition among major tech players to dominate the on-device AI space, with implications for hardware capabilities, software optimization, and the feasibility of running capable models locally."
 tags:
-  - daily-digest
-  - hardware
-  - edge-inference
+  - 36kr
+  - analysis
+  - bullish
   - competitive-analysis
-status: draft
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - hardware
+  - hardware-optimization
+  - inference-optimization
+  - intermediate
+  - on-device-ai
+mentions:
+  - name: 36Kr
+    role: publisher
+status: published
 ---
 
 As Apple, Google, Samsung, and other tech giants intensify their focus on on-device AI capabilities, the competitive landscape is rapidly reshaping what's possible for local LLM deployment. Each player is investing heavily in specialized hardware—from Apple's Neural Engine to Google's TPU edge accelerators—creating diverse platforms optimized for inference at the edge.

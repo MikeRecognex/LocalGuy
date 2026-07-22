@@ -3,11 +3,24 @@ title: "Intent-Addressable Code for AI Coding Agents"
 date: 2026-07-04
 description: "A new approach to code representation enables AI agents to better understand and modify code by its intent rather than syntactic structure, improving local AI coding assistant performance and reliability."
 tags:
-  - daily-digest
+  - advanced
   - agents
-  - tools
+  - ai-agents
+  - analysis
+  - bullish
+  - code-representation
+  - coding-assistants
+  - consumer-gpu
+  - context-window-optimization
+  - daily-digest
+  - developer
+  - hacker-news
   - open-source
-status: draft
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Intent-addressable code](https://github.com/croviatrust/causari) represents a novel approach to making code more intelligible and manipulable by AI agents. Rather than treating code as raw syntax trees or token sequences, this methodology allows models to reference and modify code by its semantic intent, which is particularly valuable for local AI coding assistants that need to operate with limited context windows.

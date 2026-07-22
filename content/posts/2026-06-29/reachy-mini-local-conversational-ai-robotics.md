@@ -3,12 +3,19 @@ title: "Reachy Mini Adds Local Conversational AI"
 date: 2026-06-29
 description: "Integration of local LLM capabilities into Reachy Mini robots demonstrates practical applications of on-device inference for autonomous and interactive systems."
 tags:
-  - daily-digest
-  - robotics
-  - local-deployment
-  - edge-inference
+  - bullish
   - conversational-ai
-status: draft
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - embodied-ai
+  - intermediate
+  - local-deployment
+  - model-quantization
+  - robotics
+  - showcase
+status: published
 ---
 
 The addition of local conversational AI to Reachy Mini robots exemplifies a critical emerging use case: embedding LLMs directly into hardware systems for real-time, context-aware interaction without cloud latency or connectivity dependencies. This is particularly important for robotics applications where millisecond-level responsiveness and operational autonomy are non-negotiable requirements.

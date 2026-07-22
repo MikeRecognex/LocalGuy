@@ -3,12 +3,24 @@ title: "How to Run an LLM Locally: 13 Steps, 90 Min"
 date: 2026-07-18
 description: "A comprehensive practical guide for setting up and running large language models on your own hardware in under 90 minutes. Perfect for beginners looking to get started with local LLM deployment."
 tags:
+  - beginner-friendly
+  - bullish
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - ollama
-  - setup-guide
+  - hobbyist
   - inference
+  - local-deployment
+  - ollama
   - open-source
-status: draft
+  - privacy-protection
+  - setup-guide
+  - tech-insider
+  - tutorial
+mentions:
+  - name: Tech Insider
+    role: publisher
+status: published
 ---
 
 Getting started with local LLM deployment can seem daunting, but this straightforward guide breaks down the process into 13 manageable steps that you can complete in about 90 minutes. The guide covers everything from hardware prerequisites to model selection and configuration, making it accessible for practitioners at all skill levels.

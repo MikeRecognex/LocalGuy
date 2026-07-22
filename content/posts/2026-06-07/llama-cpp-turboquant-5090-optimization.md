@@ -3,12 +3,24 @@ title: "Best Local LLM Setup for RTX 5090: llama.cpp Fork with TurboQuant"
 date: 2026-06-07
 description: "A developer shared their optimized setup combining a llama.cpp fork with TurboQuant quantization for flagship RTX 5090 GPUs, demonstrating practical performance gains for high-end local inference."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - quantisation
+  - developer
+  - hacker-news
   - hardware
+  - inference-speed
+  - intermediate
+  - llama-cpp
+  - local-deployment
+  - model-quantization
   - performance-optimization
-status: draft
+  - quantisation
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A community member shared their optimized [local LLM setup specifically tuned for RTX 5090 GPUs](https://local-llm.utop.workers.dev/), combining a llama.cpp fork with TurboQuant quantization techniques. This represents a practical, real-world configuration for running state-of-the-art models efficiently on high-end consumer hardware.

@@ -3,12 +3,23 @@ title: "Apple Updates Creator Studio with AI Video Editing, Image Generation, an
 date: 2026-07-01
 description: "Apple expands its Creator Studio with new on-device AI capabilities for video editing and image generation, demonstrating the trend toward consumer-friendly local AI inference on Apple Silicon hardware."
 tags:
+  - apple-silicon
+  - beginner-friendly
+  - bullish
   - daily-digest
   - hardware
-  - on-device-inference
-  - apple-silicon
+  - hobbyist
+  - local-media-generation
   - mlx
-status: draft
+  - mlx-framework
+  - offline-inference
+  - on-device-inference
+  - release
+  - the-economic-times
+mentions:
+  - name: The Economic Times
+    role: publisher
+status: published
 ---
 
 Apple's continued investment in on-device AI capabilities through Creator Studio updates reinforces the broader industry shift toward local inference. By bringing video editing, image generation, and Logic Pro enhancements to Apple Silicon Macs entirely on-device, Apple demonstrates that consumer-grade creative tools can run sophisticated AI models without cloud dependency.

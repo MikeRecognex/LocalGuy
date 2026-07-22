@@ -3,12 +3,25 @@ title: "Show HN: Brain.md – A Persistent Memory Layer for Your Coding Agents"
 date: 2026-06-29
 description: "Brain.md introduces a persistent memory system for coding agents, enabling stateful AI workflows that can maintain context and learn from interactions across sessions."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - bullish
+  - coding-agents
+  - daily-digest
+  - developer
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-deployment
   - memory-optimization
   - open-source
-  - local-deployment
-status: draft
+  - persistent-memory
+  - showcase
+  - token-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Brain.md](https://github.com/mindmuxai/brain.md) addresses a critical gap in local agent deployment: persistent memory and state management. By providing a dedicated memory layer for coding agents, the project enables more sophisticated agent workflows that can maintain context, learn from previous interactions, and make informed decisions across multiple sessions.

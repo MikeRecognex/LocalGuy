@@ -3,12 +3,27 @@ title: "Building a Personal Ebook Librarian with Local LLMs for Better Recommend
 date: 2026-07-05
 description: "A user developed a local LLM-based system to manage and recommend ebooks from their personal library, achieving better results than traditional recommendation services like Goodreads."
 tags:
+  - applications
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - goodreads
+  - intermediate
+  - msn
+  - personal-knowledge-base
+  - personalization
   - practical-deployment
   - rag
-  - personalization
-  - applications
-status: draft
+  - rag-pipeline
+  - recommendation-engine
+  - showcase
+mentions:
+  - name: Goodreads
+    role: comparison-target
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 A creative implementation demonstrates how local LLMs can be repurposed for personalized recommendation systems that outperform commercial alternatives. By combining a local LLM with a user's personal ebook library, the system generates book recommendations that are more aligned with individual reading history and preferences than generic algorithms like Goodreads' collaborative filtering approach.

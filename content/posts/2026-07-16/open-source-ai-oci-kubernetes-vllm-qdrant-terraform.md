@@ -3,12 +3,29 @@ title: "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and
 date: 2026-07-16
 description: "Oracle publishes a comprehensive guide for deploying open-source LLMs on Kubernetes clusters using vLLM for inference optimization, Qdrant for vector search, and Terraform for infrastructure as code. This practical approach enables scalable self-hosted LLM deployments on enterprise infrastructure."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - vllm
-  - kubernetes
   - deployment
+  - developer
+  - edge-device
+  - inference-optimization
+  - infrastructure-as-code
+  - kubernetes
+  - kubernetes-orchestration
   - open-source
-status: draft
+  - oracle
+  - qdrant
+  - self-hosted-llm
+  - tutorial
+  - vector-database
+  - vllm
+mentions:
+  - name: Oracle
+    role: publisher
+  - name: Qdrant
+    role: developer
+status: published
 ---
 
 Oracle has published a detailed guide for deploying open-source LLMs on Oracle Cloud Infrastructure (OCI) using a modern stack of battle-tested tools. The tutorial leverages vLLM for high-performance inference optimization, Qdrant for vector database operations, and Terraform for declarative infrastructure management.

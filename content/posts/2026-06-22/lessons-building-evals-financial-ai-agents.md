@@ -3,12 +3,24 @@ title: "Lessons from Building Evals for Financial AI Agents"
 date: 2026-06-22
 description: "Primer shares three years of experience developing evaluation frameworks and benchmarks for AI agents operating in real-world financial contexts, with insights applicable to any local LLM deployment."
 tags:
-  - daily-digest
+  - advanced
   - agents
+  - ai-agents
+  - analysis
   - benchmark
+  - benchmarking
+  - bullish
+  - daily-digest
+  - developer
   - evaluation
   - fine-tuning
-status: draft
+  - model-evaluation
+  - primer
+  - production-deployment
+mentions:
+  - name: Primer
+    role: publisher
+status: published
 ---
 
 Evaluating local LLM deployments remains one of the most underexplored challenges in the ecosystem. Primer's three-year journey building evaluation frameworks for financial AI agents provides battle-tested patterns applicable to anyone deploying models in production environments. Their insights on designing meaningful benchmarks, measuring real-world performance, and iterating on model behavior without ground-truth labels are invaluable for practitioners moving beyond simple proof-of-concepts.

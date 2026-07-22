@@ -3,12 +3,26 @@ title: "A New YC Tool Promises \"Your Code Never Leaves Your Machine.\" It Does"
 date: 2026-06-06
 description: "Critical examination of privacy claims in a YC-backed AI tool, highlighting the ongoing gap between marketing promises and actual data residency in AI-assisted development tools."
 tags:
+  - analysis
+  - cautious
   - daily-digest
-  - privacy
-  - security
+  - data-privacy
+  - developer
+  - hacker-news
+  - intermediate
   - local-deployment
   - open-source
-status: draft
+  - privacy
+  - security
+  - security-audit
+  - self-hosting
+  - y-combinator
+mentions:
+  - name: Y Combinator
+    role: investor
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Privacy remains a central concern for developers considering local LLM deployment, and this critical analysis highlights why skepticism is warranted when vendors claim data never leaves your machine. The investigation reveals that even tools marketing local-first or privacy-first approaches may still transmit code to external services.

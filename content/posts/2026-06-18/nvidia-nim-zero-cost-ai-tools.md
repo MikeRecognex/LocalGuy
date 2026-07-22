@@ -3,12 +3,23 @@ title: "Building 8 AI Tools With Zero API Costs Using Nvidia NIM"
 date: 2026-06-18
 description: "A developer successfully deployed a suite of 8 AI tools with no API costs by leveraging Nvidia NIM (Nvidia Inference Microservices) for local model serving. The approach demonstrates practical cost optimization for self-hosted LLM inference at scale."
 tags:
-  - daily-digest
-  - nvidia
-  - inference
-  - hardware
+  - bullish
+  - containerized-inference
   - cost-optimization
-status: draft
+  - cost-saving
+  - daily-digest
+  - developer
+  - hacker-news
+  - hardware
+  - inference
+  - intermediate
+  - local-inference
+  - nvidia
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Nvidia NIM (Nvidia Inference Microservices) has emerged as a practical solution for developers seeking to eliminate API costs through local model inference. This case study demonstrates how a developer deployed eight distinct AI-powered tools—potentially spanning text generation, summarization, embedding, and other NLP tasks—using NIM's containerized inference framework without incurring any API expenses.

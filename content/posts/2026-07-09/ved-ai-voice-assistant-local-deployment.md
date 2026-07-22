@@ -3,12 +3,25 @@ title: "Show HN: Ved AI Voice Assistant"
 date: 2026-07-09
 description: "Ved is a new open-source AI voice assistant project designed for local deployment. The project demonstrates practical implementation of on-device voice inference with full control over model and data."
 tags:
-  - daily-digest
-  - open-source
-  - voice-inference
   - agents
+  - bullish
+  - daily-digest
+  - data-privacy
+  - developer
   - edge-deployment
-status: draft
+  - edge-device
+  - hacker-news
+  - intermediate
+  - open-source
+  - self-hosted-ai
+  - showcase
+  - voice-assistant
+  - voice-inference
+  - voice-synthesis
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Ved AI Voice Assistant is an open-source initiative targeting developers who want to run voice-enabled AI agents entirely on local hardware. The project showcases practical patterns for integrating speech-to-text, language model inference, and text-to-speech components in a self-hosted architecture, eliminating dependence on cloud APIs for voice interactions.

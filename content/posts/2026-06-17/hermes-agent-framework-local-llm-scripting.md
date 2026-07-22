@@ -3,12 +3,23 @@ title: "Hermes Agent Framework Extends Local LLMs with Script and Job Execution"
 date: 2026-06-17
 description: "The Hermes Agent framework enables local LLMs to execute scripts, access files, and manage background jobs, transforming them from conversational tools into actionable automation systems. This framework represents a major step forward in practical local LLM capabilities."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - framework
   - automation
+  - bullish
+  - daily-digest
+  - developer
+  - framework
   - hermes
-status: draft
+  - intermediate
+  - local-security
+  - msn
+  - showcase
+  - system-automation
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Hermes Agent has emerged as a powerful framework that bridges the gap between local LLM capabilities and practical system automation by granting models secure access to script execution, file I/O, and job scheduling. Users report that this capability transforms their local models from passive chatbots into active agents capable of handling real workflows, system administration, and data processing tasks.

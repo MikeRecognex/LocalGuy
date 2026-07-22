@@ -3,12 +3,26 @@ title: "I Replaced Cloud LLMs with Local Models Running Off a Proxmox LXC, and t
 date: 2026-06-07
 description: "A detailed case study showing how to replace cloud-based LLM services with self-hosted local models using Proxmox LXC containers, demonstrating cost savings and performance benefits. The author shares practical insights on infrastructure setup and resource allocation."
 tags:
-  - daily-digest
-  - self-hosted
-  - proxmox
-  - performance
+  - bullish
+  - container-deployment
   - cost-optimization
-status: draft
+  - cost-saving
+  - daily-digest
+  - developer
+  - intermediate
+  - latency-optimization
+  - msn
+  - performance
+  - proxmox
+  - self-hosted
+  - self-hosting
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+  - name: Proxmox
+    role: developer
+status: published
 ---
 
 A practitioner has documented a successful migration from cloud-based LLM APIs to self-hosted local models running within Proxmox LXC containers, providing valuable real-world insights for the deployment community. This case study addresses one of the most compelling reasons organizations turn to local inference: cost reduction and latency improvements without sacrificing functionality.

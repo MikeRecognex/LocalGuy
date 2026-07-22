@@ -3,12 +3,26 @@ title: "Codeberg Updates Terms of Use to Prohibit LLM Model Training Extrusions"
 date: 2026-07-22
 description: "Codeberg has proposed extending its terms of use to explicitly prohibit unauthorized data extraction for LLM training purposes. This policy development has significant implications for developers hosting local models and training pipelines, reinforcing the importance of respecting source licenses and attribution."
 tags:
+  - codeberg
   - daily-digest
-  - open-source
-  - licensing
   - data-privacy
+  - developer
+  - fine-tuning
+  - hacker-news
+  - intermediate
   - legal
-status: draft
+  - licensing
+  - neutral
+  - news
+  - open-source
+  - open-source-licensing
+  - training-data-licensing
+mentions:
+  - name: Codeberg
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Codeberg's proposed terms of use amendment to prevent LLM training on its hosted code represents an important shift in how open-source platforms are addressing large-scale model training practices. For practitioners engaged in local LLM development and fine-tuning, this highlights the critical importance of understanding and respecting source licensing and platform policies when using public datasets and code repositories.

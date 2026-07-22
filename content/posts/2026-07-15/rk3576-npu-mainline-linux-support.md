@@ -3,12 +3,23 @@ title: "Bringing Up the RK3576 NPU on Mainline Linux: A Byte-Exact Single-Task P
 date: 2026-07-15
 description: "A detailed technical guide on enabling the RK3576 Neural Processing Unit on mainline Linux, opening new possibilities for efficient local LLM inference on edge devices with dedicated AI hardware acceleration."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - hardware
-  - npu
+  - developer
+  - edge-device
   - edge-inference
+  - hacker-news
+  - hardware
+  - linux-kernel
+  - npu
+  - npu-acceleration
   - open-source
-status: draft
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The RK3576 is a popular System-on-Chip (SoC) used in various edge devices, and getting its dedicated Neural Processing Unit (NPU) working on mainline Linux is a significant milestone for the local LLM community. This technical breakthrough enables developers to leverage hardware acceleration for LLM inference on affordable, power-efficient devices without relying on vendor-specific forks or proprietary software stacks.

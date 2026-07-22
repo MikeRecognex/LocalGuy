@@ -3,12 +3,24 @@ title: "Making AI Code Review Measurable"
 date: 2026-07-08
 description: "A practical guide to implementing metrics and measurement frameworks for evaluating AI-powered code review systems, with implications for local model deployment."
 tags:
-  - daily-digest
-  - coding
   - benchmark
+  - bullish
+  - code-review
+  - coding
+  - daily-digest
+  - developer
   - evaluation
+  - hacker-news
+  - intermediate
+  - local-deployment
   - local-models
-status: draft
+  - model-evaluation
+  - roi-measurement
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This article tackles a foundational problem for teams deploying local LLMs in code review workflows: establishing objective metrics to measure effectiveness. Without measurable frameworks, it's impossible to justify infrastructure investment or compare local models against cloud alternatives.

@@ -3,12 +3,23 @@ title: "Show HN: Tail Panic – a multiplayer game designed for AI agents"
 date: 2026-06-11
 description: "Tail Panic is a multiplayer environment specifically designed as a benchmark and playground for testing locally-deployed AI agent capabilities. Provides structured evaluation framework for agent coordination and decision-making."
 tags:
-  - daily-digest
+  - agent-evaluation
+  - agent-orchestration
   - agents
   - benchmark
-  - open-source
+  - bullish
+  - daily-digest
+  - developer
   - evaluation
-status: draft
+  - hacker-news
+  - intermediate
+  - multi-agent-simulation
+  - open-source
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Tail Panic introduces a novel benchmark environment for evaluating locally-deployed AI agents through competitive multiplayer gameplay. Unlike traditional benchmarks, it provides dynamic, interactive scenarios that test agent decision-making, adaptation, and coordination—critical capabilities for real-world local LLM deployments.

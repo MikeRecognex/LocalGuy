@@ -3,12 +3,27 @@ title: "TongFlow: Free Open-Source Multi-Modal AI Workflow Studio"
 date: 2026-06-18
 description: "TongFlow is a new open-source workflow orchestration platform designed for building and deploying multi-modal AI applications locally. It provides visual composition of AI pipelines without requiring cloud infrastructure or proprietary platforms."
 tags:
+  - bullish
   - daily-digest
-  - workflow
+  - developer
+  - hacker-news
+  - intermediate
+  - local-first
   - multimodal
+  - multimodal-ai
   - open-source
   - orchestration
-status: draft
+  - release
+  - runwayml
+  - visual-programming
+  - workflow
+  - workflow-orchestration
+mentions:
+  - name: RunwayML
+    role: competitor
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 TongFlow introduces a visual workflow studio specifically designed for composing multi-modal AI pipelines in a local-first environment. Rather than relying on cloud-based platforms like RunwayML or Hugging Face Spaces with their associated costs and data governance concerns, TongFlow enables developers to define complex AI workflows—combining text, image, audio, and video processing—entirely on their own infrastructure.

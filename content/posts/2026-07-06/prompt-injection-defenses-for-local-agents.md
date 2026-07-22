@@ -3,12 +3,24 @@ title: "Bounding the Blast Radius: A Survey of Prompt-Injection Defenses for LLM
 date: 2026-07-06
 description: "A comprehensive survey examines the landscape of prompt-injection defense mechanisms for LLM-based agents. Understanding these security patterns is essential for developers building production local deployments with agent capabilities."
 tags:
-  - daily-digest
-  - security
   - agents
+  - ai-security
+  - analysis
+  - cautious
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - llm-agents
+  - local-deployment
   - prompt-injection
+  - prompt-injection-defense
   - safety
-status: draft
+  - security
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As LLM agents become more prevalent in local deployments, prompt-injection attacks represent a critical security consideration that practitioners cannot ignore. This survey provides a thorough examination of existing defense mechanisms and clarifies that while various approaches exist, no single solution has definitively solved the problem.

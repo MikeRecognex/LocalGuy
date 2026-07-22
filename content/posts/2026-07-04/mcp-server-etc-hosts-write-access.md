@@ -3,11 +3,22 @@ title: "Show HN: An MCP Server That Gives Your AI Assistant Write Access to /etc
 date: 2026-07-04
 description: "A new Model Context Protocol (MCP) server implementation enables AI assistants to modify system host files, expanding the capabilities of local LLM deployments for system-level automation and integration tasks."
 tags:
-  - daily-digest
-  - mcp
+  - agent-orchestration
   - agents
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - mcp
+  - model-context-protocol
+  - showcase
+  - system-automation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Model Context Protocol (MCP) ecosystem continues to expand with new server implementations that extend the capabilities of locally-deployed LLMs. [This MCP server project](https://www.lockinmcp.com) demonstrates how to safely grant AI assistants write access to system configuration files like /etc/hosts, opening new possibilities for system administration automation and local AI agent workflows.

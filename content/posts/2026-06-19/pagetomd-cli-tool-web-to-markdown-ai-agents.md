@@ -3,12 +3,23 @@ title: "PageToMD – A CLI tool to turn web pages into clean Markdown for AI age
 date: 2026-06-19
 description: "A new command-line utility converts web pages into clean, structured Markdown format optimized for local LLM processing. This tool streamlines data preparation for local inference pipelines and agent workflows."
 tags:
-  - daily-digest
-  - tools
+  - agent-orchestration
   - agents
+  - bullish
+  - daily-digest
   - data-preparation
+  - developer
+  - hacker-news
+  - intermediate
+  - markdown-conversion
   - open-source
-status: draft
+  - rag-pipeline
+  - release
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Data preparation remains a critical bottleneck in local LLM deployment pipelines. [PageToMD](https://github.com/gs202/PageToMD) addresses this by providing a dedicated CLI tool that converts arbitrary web pages into clean, structured Markdown suitable for ingestion by local models.

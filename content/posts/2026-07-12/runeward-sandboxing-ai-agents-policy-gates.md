@@ -3,12 +3,24 @@ title: "Runeward: Sandboxing AI Agents with Policy Gates"
 date: 2026-07-12
 description: "New framework for safely isolating and controlling AI agent behavior through policy gates, essential for deploying local agents in production environments."
 tags:
-  - daily-digest
+  - agent-guardrails
+  - agent-sandboxing
   - agents
-  - security
-  - sandbox
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - local-deployment
   - open-source
-status: draft
+  - release
+  - sandbox
+  - security
+  - security-policy
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Runeward addresses a critical gap in local AI deployment: safely constraining agent behavior without sacrificing capability. As developers move toward autonomous AI agents running on local infrastructure, the ability to enforce security policies and prevent unintended actions becomes paramount. This framework provides policy gates that allow operators to define guardrails for what local agents can and cannot do.

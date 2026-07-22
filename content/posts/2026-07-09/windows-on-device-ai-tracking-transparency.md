@@ -3,12 +3,23 @@ title: "Windows Now Shows Which Apps Used On-Device AI With New Transparency Fea
 date: 2026-07-09
 description: "Windows introduces tracking and visibility for which applications are utilizing on-device AI capabilities. This new transparency feature helps users and administrators monitor local AI workload activity on their machines."
 tags:
+  - bullish
+  - compliance-auditing
   - daily-digest
-  - windows
-  - privacy
+  - data-privacy
+  - enterprise
+  - intermediate
+  - makeuseof
+  - news
   - on-device
+  - privacy
   - transparency
-status: draft
+  - windows
+  - workload-observability
+mentions:
+  - name: MakeUseOf
+    role: publisher
+status: published
 ---
 
 Microsoft has added visibility features to Windows that display which applications are leveraging on-device AI capabilities. This transparency tool allows users to audit their system's local AI activity, revealing which apps are performing inference locally versus sending data to cloud endpoints.

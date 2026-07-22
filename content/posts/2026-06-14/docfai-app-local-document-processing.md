@@ -3,11 +3,25 @@ title: "Docfai.app Launches With Free Trial for Local Document Processing"
 date: 2026-06-14
 description: "A new document AI application launches offering local processing capabilities, representing practical tooling for integrating LLMs with document workflows at scale."
 tags:
+  - benchmarking
+  - bullish
   - daily-digest
-  - tools
   - deployment
+  - developer
+  - docfaiapp
+  - document-processing
+  - hacker-news
+  - intermediate
   - open-source
-status: draft
+  - privacy-preserving
+  - release
+  - tools
+mentions:
+  - name: Docfai.app
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Docfai.app represents a new entrant in the local document AI processing space, offering users the ability to process and understand documents using LLM technology. With a seven-day free trial, the platform allows practitioners to evaluate local document processing workflows before committing to production deployment, providing hands-on experience with real-world use cases like document extraction, classification, and analysis.

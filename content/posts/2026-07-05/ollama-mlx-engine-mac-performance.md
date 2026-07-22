@@ -3,12 +3,26 @@ title: "Ollama's New MLX Engine Delivers Significant Performance Gains on Mac"
 date: 2026-07-05
 description: "Users report that switching to Ollama's MLX engine provides approximately 2x performance improvements on Apple Silicon Macs, making local LLM inference faster and more efficient."
 tags:
+  - apple-silicon
+  - bullish
   - daily-digest
-  - ollama
-  - mlx
+  - developer
+  - hardware-acceleration
+  - inference-speed
+  - intermediate
+  - local-inference
   - mac
+  - mlx
+  - msn
+  - ollama
   - performance-optimization
-status: draft
+  - release
+mentions:
+  - name: Ollama
+    role: developer
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Ollama has introduced a new MLX engine that is delivering remarkable performance improvements for Mac users running local LLMs. Early adopters report that their inference speeds have nearly doubled, making local deployment on Apple Silicon significantly more practical for everyday use cases.

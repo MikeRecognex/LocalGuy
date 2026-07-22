@@ -3,11 +3,25 @@ title: "Record and Replay: Teach AI Agents Desktop Workflows by Showing Them Onc
 date: 2026-07-10
 description: "A new open-source project enables teaching AI agents desktop workflows through simple record-and-replay demonstrations, lowering the barrier to local agent automation without requiring complex prompt engineering."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
   - automation
-status: draft
+  - bullish
+  - daily-digest
+  - desktop-automation
+  - developer
+  - hacker-news
+  - intermediate
+  - open-source
+  - release
+  - videodb
+  - workflow-automation
+mentions:
+  - name: VideoDB
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Record and Replay introduces a practical approach to training local AI agents by capturing and replaying user workflows rather than relying solely on natural language instructions. By [recording desktop interactions and allowing agents to learn from demonstrations](https://github.com/video-db/open-record-replay), the project simplifies the process of building automated workflows without extensive prompt engineering or fine-tuning.

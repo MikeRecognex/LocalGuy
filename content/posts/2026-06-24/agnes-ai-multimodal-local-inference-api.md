@@ -3,12 +3,26 @@ title: "Show HN: Agnes AI – Free Multimodal API (Text, Image, Video), OpenAI-C
 date: 2026-06-24
 description: "Agnes AI launches a free, OpenAI-compatible multimodal API supporting text, image, and video processing. The platform's compatibility with existing local inference frameworks makes it relevant for practitioners exploring self-hosted multimodal capabilities."
 tags:
-  - daily-digest
-  - multimodal
-  - open-source
+  - agnes-ai
   - api
+  - api-compatibility
+  - bullish
+  - daily-digest
+  - developer
   - edge-inference
-status: draft
+  - hacker-news
+  - intermediate
+  - local-inference
+  - multimodal
+  - multimodal-models
+  - open-source
+  - release
+mentions:
+  - name: Agnes AI
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Agnes AI introduces a free, multimodal API with OpenAI-compatible endpoints, enabling practitioners to add vision and video understanding capabilities to their local inference stacks. The API's compatibility with existing frameworks and clients designed for OpenAI's interface significantly reduces integration friction for teams expanding beyond text-only local LLM deployments.

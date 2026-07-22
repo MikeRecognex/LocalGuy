@@ -3,11 +3,28 @@ title: "Strimoza: Personal Video Cloud with Local and Bunny CDN Streaming"
 date: 2026-06-13
 description: "A new platform enabling personal video cloud storage with flexible local and CDN-based streaming options, relevant for practitioners building media applications with local AI inference for video processing and analysis."
 tags:
+  - bullish
+  - bunny-cdn
   - daily-digest
-  - edge-inference
   - deployment
+  - developer
+  - edge-inference
+  - hacker-news
   - infrastructure
-status: draft
+  - intermediate
+  - local-first
+  - showcase
+  - strimoza
+  - video-analysis
+  - vision-language-models
+mentions:
+  - name: Strimoza
+    role: developer
+  - name: Bunny CDN
+    role: service-provider
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Strimoza introduces a hybrid approach to personal video cloud infrastructure that supports both local streaming and CDN delivery, creating opportunities for integrating local LLM-based video analysis and understanding. The platform's flexibility in choosing between local processing and distributed delivery aligns well with modern approaches to on-device AI where inference happens locally but coordination happens across multiple nodes.

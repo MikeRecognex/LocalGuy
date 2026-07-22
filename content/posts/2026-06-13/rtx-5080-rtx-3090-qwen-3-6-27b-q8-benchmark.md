@@ -3,12 +3,24 @@ title: "RTX 5080 and RTX 3090 Setup Achieves 80 Tok/s on Qwen 3.6 27B Q8"
 date: 2026-06-13
 description: "A practical benchmark demonstrating impressive inference throughput using dual NVIDIA GPUs running quantized Qwen 3.6 27B model. This setup showcases real-world performance metrics for local LLM deployment on consumer-grade hardware."
 tags:
-  - daily-digest
   - benchmark
-  - quantisation
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - hacker-news
   - hardware
+  - inference-speed
+  - intermediate
+  - model-quantization
+  - multi-gpu-inference
   - performance
-status: draft
+  - quantisation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A developer has published compelling benchmark results showing how to achieve 80 tokens per second when running Qwen 3.6 27B in Q8 quantization across an RTX 5080 and RTX 3090 GPU setup. This represents a significant performance milestone for local inference, demonstrating that multi-GPU configurations can deliver production-grade throughput for moderately-sized quantized models.

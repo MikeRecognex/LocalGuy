@@ -3,12 +3,21 @@ title: "Google Rolls Out Android 17 and Gemma 4 with Advanced On-Device AI"
 date: 2026-07-06
 description: "Google's latest Android 17 release integrates Gemma 4, bringing improved on-device AI capabilities optimized for local inference. The new features enable developers to deploy advanced language models directly on Android devices."
 tags:
+  - bullish
   - daily-digest
-  - open-source
+  - developer
+  - edge-device
   - edge-inference
-  - mobile-ai
   - framework
-status: draft
+  - intermediate
+  - lightweight-models
+  - mobile-ai
+  - mobile-deployment
+  - model-optimization
+  - on-device-inference
+  - open-source
+  - release
+status: published
 ---
 
 Google has released Android 17 alongside Gemma 4, their latest lightweight language model series designed for on-device inference. This move signals Google's commitment to making local LLM deployment more accessible to Android developers and consumers who want AI capabilities without cloud connectivity.

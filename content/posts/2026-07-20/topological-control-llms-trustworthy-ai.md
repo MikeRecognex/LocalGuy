@@ -3,12 +3,23 @@ title: "Topological Control of LLMs: A Route to Trustworthy AI"
 date: 2026-07-20
 description: "Research on controlling LLM behavior through topological methods offers new approaches for ensuring safety and reliability in locally-deployed models."
 tags:
-  - daily-digest
-  - safety
+  - advanced
+  - analysis
+  - bullish
+  - communications-of-the-acm
   - control
-  - trustworthy-ai
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - model-safety
+  - offline-alignment
+  - safety
+  - topological-control
+  - trustworthy-ai
+mentions:
+  - name: Communications of the ACM
+    role: publisher
+status: published
 ---
 
 As more organizations deploy LLMs locally without direct vendor oversight, [topological control approaches](https://cacm.acm.org/blogcacm/topological-control-of-llms-a-route-to-trustworthy-ai/) become increasingly important for ensuring model safety and reliability. This research provides technical foundations for building trustworthy systems with locally-hosted models.

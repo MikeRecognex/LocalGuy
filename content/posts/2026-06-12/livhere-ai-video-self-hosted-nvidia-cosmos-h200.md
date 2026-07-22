@@ -3,12 +3,26 @@ title: "Show HN: LiveHere – AI Videos with Self-Hosted Nvidia Cosmos on H200 G
 date: 2026-06-12
 description: "A project demonstrates self-hosted video generation using Nvidia Cosmos running on H200 GPUs, showcasing practical infrastructure for local large-scale AI model deployment. This bridges the gap between consumer-grade local inference and enterprise-scale self-hosted systems."
 tags:
+  - bullish
   - daily-digest
-  - nvidia
+  - data-privacy
+  - datacenter-gpu
+  - enterprise
+  - hacker-news
   - hardware
+  - intermediate
+  - livehere
+  - nvidia
   - self-hosted
+  - self-hosted-inference
+  - showcase
   - video-generation
-status: draft
+mentions:
+  - name: LiveHere
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Self-hosted AI infrastructure is becoming increasingly practical as model providers optimize for enterprise deployments. [LiveHere's work with Nvidia Cosmos on H200 GPUs](https://twitter.com/manassharmahere/status/2065370878519468221) demonstrates how organizations can run sophisticated video generation models entirely within their own infrastructure, avoiding cloud APIs and maintaining full data privacy.

@@ -3,12 +3,24 @@ title: "GitHub Copilot With Ollama: Run Local AI Models In VS Code (Offline & Fr
 date: 2026-06-21
 description: "A practical guide for integrating Ollama-based local LLMs with GitHub Copilot in VS Code, enabling developers to use AI coding assistance completely offline without subscription costs. This approach makes AI-assisted development accessible while maintaining code privacy."
 tags:
+  - ai-coding-assistants
+  - bullish
+  - code-privacy
+  - cost-saving
   - daily-digest
-  - ollama
-  - vscode
+  - developer
   - developer-tools
+  - intermediate
+  - mshale
+  - offline-inference
+  - ollama
   - open-source
-status: draft
+  - tutorial
+  - vscode
+mentions:
+  - name: Mshale
+    role: publisher
+status: published
 ---
 
 The intersection of local LLMs and developer tooling represents one of the most practical applications for on-device inference. This guide demonstrates how Ollama enables developers to leverage AI code completion directly in VS Code without relying on proprietary services or incurring subscription fees.

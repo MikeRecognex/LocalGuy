@@ -3,12 +3,27 @@ title: "Local-First TypeScript Guard for Runaway AI-Agent Costs"
 date: 2026-06-16
 description: "A new open-source TypeScript tool provides client-side cost monitoring and limiting for AI agents, helping developers prevent expensive API calls when running local and remote models. This addresses a critical operational concern for teams mixing local and cloud inference."
 tags:
-  - daily-digest
   - agents
+  - ai-agents
+  - bullish
+  - cost-control
   - cost-optimization
-  - open-source
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - github
+  - guardrails
+  - hacker-news
+  - hybrid-inference
+  - intermediate
+  - open-source
+  - release
+mentions:
+  - name: GitHub
+    role: host
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Cost control is an underrated but critical operational requirement for AI applications. This new tool tackles the problem at the client level with local-first guards—preventing expensive API calls before they happen rather than after billing. The TypeScript implementation makes it accessible to full-stack developers already working in JavaScript ecosystems.

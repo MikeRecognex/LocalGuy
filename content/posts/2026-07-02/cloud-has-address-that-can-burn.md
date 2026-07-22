@@ -3,12 +3,23 @@ title: "The Cloud Has an Address: Why Data Center Resilience Matters for Local I
 date: 2026-07-02
 description: "An article examining the physical vulnerabilities of cloud infrastructure and data centers, highlighting why distributed local and on-device inference offers resilience advantages. This underscores the operational and reliability benefits of self-hosted LLM deployment."
 tags:
+  - bullish
   - daily-digest
+  - enterprise
+  - hacker-news
   - infrastructure
-  - resilience
+  - infrastructure-resilience
+  - intermediate
   - on-device
+  - operational-resilience
+  - opinion
+  - resilience
   - self-hosted
-status: draft
+  - self-hosted-deployment
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A thought-provoking perspective on cloud infrastructure resilience makes a case for distributed local LLM deployment. The article emphasizes that cloud services, despite their perceived ubiquity, are fundamentally dependent on specific physical locations and infrastructure that face tangible risks from environmental disasters, power failures, and other disruptions. This reality highlights a significant operational advantage of local and on-device inference.

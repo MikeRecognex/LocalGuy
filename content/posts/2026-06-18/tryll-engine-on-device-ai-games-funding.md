@@ -3,12 +3,27 @@ title: "Tryll Engine Raises $600K to Deploy On-Device AI Characters in Games"
 date: 2026-06-18
 description: "Tryll Engine has secured $600K in pre-seed funding to bring on-device AI characters and real-time conversations to gaming platforms. The startup is launching an alpha version of their AI gaming engine optimized for local inference."
 tags:
-  - daily-digest
-  - gaming
-  - edge-inference
   - ai-characters
+  - bullish
+  - consumer-gpu
+  - conversational-ai
+  - daily-digest
+  - developer
+  - edge-inference
+  - game-ai
+  - gaming
+  - intermediate
+  - model-quantization
+  - news
   - real-time
-status: draft
+  - techeu
+  - tryll-engine
+mentions:
+  - name: Tryll Engine
+    role: developer
+  - name: Tech.eu
+    role: publisher
+status: published
 ---
 
 Tryll Engine is pioneering on-device AI for gaming with the launch of their AI gaming engine alpha and a $600K pre-seed round at a $6M valuation. The platform focuses on bringing intelligent NPC characters and real-time conversational AI directly to gaming devices without requiring cloud connectivity, addressing latency and privacy concerns inherent in cloud-based game AI.

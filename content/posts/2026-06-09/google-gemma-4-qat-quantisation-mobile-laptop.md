@@ -3,12 +3,24 @@ title: "Google Releases Gemma 4 QAT Models with Reduced Memory Requirements for 
 date: 2026-06-09
 description: "Google introduces quantisation-aware training (QAT) variants of Gemma 4 designed to significantly reduce memory footprint for on-device and edge AI inference on resource-constrained hardware."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - quantisation
-  - gemma
-  - memory-optimization
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - gemma
+  - intermediate
+  - memory-optimization
+  - model-compression
+  - pulse2
+  - quantisation
+  - quantisation-aware-training
+  - release
+mentions:
+  - name: Pulse2
+    role: publisher
+status: published
 ---
 
 Google has released optimised Gemma 4 models using quantisation-aware training (QAT) techniques that substantially lower memory requirements for mobile and laptop-based inference. [These models reduce the computational and storage burden of running capable language models on consumer hardware](https://www.pulse2.com), making it feasible to deploy meaningful AI capabilities on devices previously considered underpowered for this use case.

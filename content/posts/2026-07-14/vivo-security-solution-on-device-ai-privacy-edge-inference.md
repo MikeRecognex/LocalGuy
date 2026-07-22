@@ -3,12 +3,27 @@ title: "Vivo Unveils Security Solution for On-Device AI at AI for Good Global Su
 date: 2026-07-14
 description: "Vivo announces a comprehensive security framework designed specifically for on-device AI inference, addressing privacy and security concerns in edge deployment scenarios. The solution establishes best practices for protecting user data during local model execution."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-  - privacy
-  - security
+  - intermediate
+  - jablkcz
+  - model-security
   - on-device-ai
-status: draft
+  - on-device-security
+  - privacy
+  - privacy-preservation
+  - release
+  - security
+  - vivo
+mentions:
+  - name: Vivo
+    role: developer
+  - name: Jablíčkář.cz
+    role: publisher
+status: published
 ---
 
 Vivo's announcement of a dedicated security solution for on-device AI reflects the industry's maturation around privacy-preserving inference. As more organizations deploy LLMs locally, security frameworks that protect model weights, user data, and inference outputs become increasingly critical. Vivo's approach addresses a key concern for practitioners: how to maintain data privacy while capturing the benefits of local inference.

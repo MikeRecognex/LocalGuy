@@ -3,11 +3,22 @@ title: "Keyline: Securely Share .env Files Without Leaving Your Laptop"
 date: 2026-07-16
 description: "Keyline enables encrypted sharing of environment files before they leave your machine, addressing a critical security concern in local development workflows and LLM deployment pipelines."
 tags:
+  - bullish
   - daily-digest
-  - security
+  - deployment-security
+  - developer
   - development-tools
+  - hacker-news
+  - intermediate
   - open-source
-status: draft
+  - privacy-protection
+  - secret-management
+  - security
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Secret management and secure configuration sharing are essential but often overlooked aspects of local LLM deployment. Keyline addresses a real pain point: developers and ops teams need to share sensitive environment variables and API keys, but traditional approaches risk exposure through logs, chat systems, and unencrypted channels. By encrypting files before they leave your local machine, Keyline reduces the attack surface significantly.

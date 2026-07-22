@@ -3,12 +3,23 @@ title: "Using mirrord to Verify AI-SRE Fixes Against Staging Clusters"
 date: 2026-06-25
 description: "MetalBear demonstrates practical SRE techniques using mirrord to test AI-powered infrastructure fixes against staging environments without full redeployment. This approach reduces friction when deploying local and self-hosted AI systems."
 tags:
+  - ai-sre
+  - bullish
   - daily-digest
   - deployment
-  - testing
+  - deployment-testing
+  - developer
   - infrastructure
+  - intermediate
+  - metalbear
   - observability
-status: draft
+  - self-hosted-llm
+  - testing
+  - tutorial
+mentions:
+  - name: MetalBear
+    role: publisher
+status: published
 ---
 
 Deploying locally-hosted AI systems introduces operational complexity when verifying changes against production environments. MetalBear's exploration of mirrord for AI-SRE workflows presents a practical solution for testing LLM-driven infrastructure modifications in staging environments without costly full redeployments.

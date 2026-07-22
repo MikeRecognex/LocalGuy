@@ -3,12 +3,27 @@ title: "AI Can Now Control Reaper DAW via Model Context Protocol"
 date: 2026-07-17
 description: "A new GitHub project enables AI models to control Reaper digital audio workstation through MCP integration, showcasing practical local LLM applications for creative software automation."
 tags:
-  - daily-digest
-  - mcp
   - agents
-  - open-source
+  - audio-production
   - automation
-status: draft
+  - bullish
+  - daily-digest
+  - developer
+  - github
+  - hacker-news
+  - intermediate
+  - local-first
+  - mcp
+  - model-context-protocol
+  - open-source
+  - showcase
+  - tool-use
+mentions:
+  - name: GitHub
+    role: host
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new project demonstrates how local AI models can interact with professional audio software through the Model Context Protocol (MCP). The Reaper-MCP integration allows language models to control the Reaper DAW, opening possibilities for AI-assisted music production workflows that run entirely on-device.

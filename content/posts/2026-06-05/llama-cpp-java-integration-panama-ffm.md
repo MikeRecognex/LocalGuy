@@ -3,12 +3,19 @@ title: "Run Llama.cpp In-Process from Java with Project Panama FFM"
 date: 2026-06-05
 description: "A new project enables developers to run Llama.cpp directly from Java applications using Project Panama's Foreign Function & Memory API, eliminating subprocess overhead and expanding local LLM deployment options for JVM ecosystems."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - llama-cpp
-  - java
+  - developer
   - inference
+  - java
+  - jvm-ecosystem
+  - latency-reduction
+  - llama-cpp
+  - native-interop
   - open-source
-status: draft
+  - release
+status: published
 ---
 
 A new integration project brings llama.cpp inference capabilities directly into Java applications using Project Panama's Foreign Function & Memory (FFM) API. This approach eliminates the need for subprocess calls, reducing latency and resource overhead—critical factors for local LLM deployment where efficiency matters.

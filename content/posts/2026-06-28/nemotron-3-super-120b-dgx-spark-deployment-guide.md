@@ -3,12 +3,27 @@ title: "A Guide on How to Run Nemotron 3 Super 120B Thinking on 2 Nvidia DGX Spa
 date: 2026-06-28
 description: "Practical deployment guide for running NVIDIA's large reasoning model (120B parameters) on a two-node DGX Spark cluster with distributed inference techniques."
 tags:
+  - advanced
+  - bullish
+  - context-window-expansion
+  - corti
   - daily-digest
+  - data-sovereignty
+  - datacenter-gpu
   - deployment-guide
-  - nvidia
   - distributed-inference
+  - enterprise
+  - hacker-news
+  - nvidia
   - quantisation
-status: draft
+  - tensor-parallelism
+  - tutorial
+mentions:
+  - name: Corti
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 For organizations with access to enterprise GPU clusters, [this deployment guide for Nemotron 3 Super 120B](https://corti.com/serving-nemotron-super-120b-with-a-1m-token-context-on-a-2-node-dgx-spark-cluster/) provides essential practical knowledge for running cutting-edge reasoning models on self-hosted infrastructure. The 120B parameter Nemotron model represents a new class of sophisticated local-deployable models, and the guide specifically covers scaling to 1M token context windows—crucial for complex enterprise workflows.

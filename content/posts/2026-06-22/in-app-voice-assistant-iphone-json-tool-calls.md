@@ -3,12 +3,28 @@ title: "Turning Spoken Commands into JSON Tool Calls on iPhones"
 date: 2026-06-22
 description: "A developer demonstrates running local voice-to-JSON inference on iOS devices, enabling on-device speech recognition and structured output generation without cloud dependencies."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
   - edge-inference
+  - hacker-news
+  - intermediate
   - ios
   - mobile
+  - mobile-inference
+  - showcase
+  - speech-recognition
   - structured-output
-status: draft
+  - structured-outputs
+  - tool-calling
+  - wildedge
+mentions:
+  - name: Wildedge
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Running LLMs locally on mobile devices remains one of the most challenging deployment scenarios, but this implementation demonstrates practical progress on iOS. By converting voice commands directly into structured JSON outputs on-device, the approach eliminates round-trips to cloud APIs and enables responsive, privacy-preserving voice interfaces without network overhead or latency concerns.

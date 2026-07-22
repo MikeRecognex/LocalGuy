@@ -3,12 +3,25 @@ title: "Apple Unveils AFM 3 Core Advanced with 20 Billion Parameters for On-Devi
 date: 2026-06-10
 description: "Apple introduced the AFM 3 Core Advanced architecture at WWDC26, featuring a 20 billion parameter model optimized for on-device inference. This represents a significant milestone in local LLM deployment on consumer hardware with architectural innovations to overcome memory constraints."
 tags:
-  - daily-digest
+  - advanced
+  - ai-agents
   - apple-silicon
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - hardware
-  - on-device-ai
+  - kv-cache-optimization
+  - memory-constraints
   - model-optimization
-status: draft
+  - on-device-ai
+  - on-device-inference
+  - release
+  - venturebeat
+mentions:
+  - name: VentureBeat
+    role: publisher
+status: published
 ---
 
 Apple's announcement of the AFM 3 Core Advanced marks a major advancement in practical on-device LLM deployment. With 20 billion parameters optimized for Apple's Neural Engine, this model demonstrates the feasibility of running sophisticated AI directly on consumer devices without cloud dependencies. The architecture specifically addresses one of local LLM's hardest problems: the memory wall that constrains model size and capability on edge hardware.

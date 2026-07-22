@@ -3,12 +3,30 @@ title: "Mira Murati's Thinking Machines Launches Open-Weight AI Model"
 date: 2026-07-16
 description: "Former OpenAI CTO Mira Murati's new venture, Thinking Machines, has released an open-weight AI model competing with NVIDIA's Nemotron. The model prioritizes efficiency and open deployment, expanding quality options for local LLM practitioners."
 tags:
-  - daily-digest
-  - open-source
-  - models
-  - optimization
+  - analytics-india-magazine
   - benchmark
-status: draft
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - intermediate
+  - memory-efficiency
+  - model-optimization
+  - models
+  - open-source
+  - open-weights
+  - optimization
+  - release
+  - thinking-machines
+mentions:
+  - name: Mira Murati
+    role: Founder
+    handle: "@miramurati"
+  - name: Thinking Machines
+    role: developer
+  - name: Analytics India Magazine
+    role: publisher
+status: published
 ---
 
 Mira Murati, former Chief Technology Officer at OpenAI, has launched Thinking Machines with a new open-weight model that directly competes with NVIDIA's Nemotron, signaling strong industry confidence in open, deployable AI models as a sustainable market segment. This development is significant because it represents a senior technologist explicitly choosing the open-weight, locally-deployable model path over proprietary approaches.

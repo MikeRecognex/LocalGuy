@@ -3,12 +3,23 @@ title: "Opendray – Run Claude Code/Codex Agents on Your Own Box"
 date: 2026-07-09
 description: "Opendray enables developers to run code-generation agents locally without relying on Claude API, with remote access capabilities. This framework democratizes access to agent-based code automation for local hardware."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - api-independence
+  - bullish
   - code-generation
-  - self-hosted
+  - daily-digest
+  - developer
   - frameworks
-status: draft
+  - hacker-news
+  - intermediate
+  - local-inference
+  - release
+  - self-hosted
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Opendray addresses a key constraint in local LLM deployment by providing a framework for running sophisticated code-generation agents on your own hardware. Rather than relying on API calls to proprietary services, developers can now execute full agent workflows—including reasoning, planning, and code generation—entirely on local infrastructure while maintaining the ability to control access remotely.

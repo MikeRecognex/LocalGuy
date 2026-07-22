@@ -3,12 +3,23 @@ title: "Show HN: Lowfat – Pluggable CLI Filter Saving 91.8% of LLM Tokens"
 date: 2026-06-05
 description: "Lowfat is a new CLI tool that dramatically reduces token consumption in LLM applications through intelligent filtering, achieving 91.8% token savings and enabling more cost-effective and faster local inference."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
+  - developer
+  - edge-device
+  - hacker-news
+  - inference-speed
+  - intermediate
+  - open-source
   - optimization
   - quantisation
-  - inference-speed
-  - open-source
-status: draft
+  - showcase
+  - token-reduction
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new open-source tool called Lowfat provides a pluggable CLI filter designed to dramatically reduce token consumption in LLM inference pipelines. The project reports achieving 91.8% token savings, which directly translates to faster inference, reduced memory pressure, and lower computational costs—making local deployments significantly more efficient.

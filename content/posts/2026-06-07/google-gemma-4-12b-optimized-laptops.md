@@ -3,12 +3,24 @@ title: "Google's New Gemma 4 12B AI Model Is Built for Laptops"
 date: 2026-06-07
 description: "Google releases Gemma 4 12B, a new lightweight model specifically optimized for on-device deployment on laptops and consumer hardware. This addition to the Gemma family targets edge inference with improved efficiency metrics."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - gemma
+  - developer
   - edge-inference
+  - explosion
+  - gemma
   - hardware
+  - intermediate
+  - local-inference-tooling
+  - memory-efficiency
+  - on-device-inference
   - open-source
-status: draft
+  - release
+mentions:
+  - name: Explosion
+    role: publisher
+status: published
 ---
 
 Google has announced Gemma 4 12B, a new addition to its open-source Gemma model family explicitly designed for local deployment on standard laptops. This release represents an important milestone for practitioners seeking powerful yet efficient models that don't require specialized accelerators or cloud infrastructure.

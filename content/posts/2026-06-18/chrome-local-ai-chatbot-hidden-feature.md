@@ -3,12 +3,25 @@ title: "Chrome Is Hiding a Free Local AI Chatbot on Your Computer"
 date: 2026-06-18
 description: "Google Chrome now includes a built-in local AI chatbot that runs directly on your machine without requiring cloud connectivity. This represents a significant shift toward edge inference in mainstream browsers."
 tags:
-  - daily-digest
+  - browser-based-inference
   - browser-integration
-  - edge-inference
+  - bullish
   - chrome
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - intermediate
+  - model-optimization
+  - news
+  - on-device-inference
+  - piunikaweb
   - privacy
-status: draft
+  - privacy-protection
+mentions:
+  - name: PiunikaWeb
+    role: publisher
+status: published
 ---
 
 Google has quietly integrated a free local AI chatbot directly into Chrome, enabling on-device inference without cloud dependencies. This development demonstrates how major tech companies are moving AI capabilities to the edge, allowing users to run conversational AI models locally while maintaining privacy and reducing latency.

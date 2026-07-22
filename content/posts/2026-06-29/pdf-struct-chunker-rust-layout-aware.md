@@ -3,12 +3,26 @@ title: "LLM-Free, Layout-Aware PDF Chunker in Pure Rust"
 date: 2026-06-29
 description: "A new PDF chunking utility written in Rust that preserves document structure without requiring LLM inference, improving RAG pipeline efficiency for local deployments."
 tags:
+  - bullish
   - daily-digest
-  - rag
-  - open-source
-  - rust
+  - developer
+  - document-chunking
+  - edge-device
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - open-source
+  - rag
+  - rag-pipeline
+  - release
+  - rust
+  - rust-lang
+mentions:
+  - name: Matthias Nordwig
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [pdf-struct-chunker](https://github.com/matthiasnordwig/pdf-struct-chunker) provides an efficient, dependency-light solution for a critical component of RAG (Retrieval-Augmented Generation) pipelines: intelligent document chunking. By implementing layout-aware PDF parsing in pure Rust without requiring LLM inference, it reduces computational overhead and dependencies in local deployments.

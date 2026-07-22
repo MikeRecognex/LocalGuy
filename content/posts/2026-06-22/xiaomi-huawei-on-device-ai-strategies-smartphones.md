@@ -3,11 +3,28 @@ title: "Xiaomi vs Huawei On-Device AI: Decoding the AI Strategies of 8 Major Sma
 date: 2026-06-22
 description: "Major smartphone manufacturers including Xiaomi and Huawei are rapidly expanding their on-device AI capabilities, reflecting the industry-wide shift toward local inference and privacy-preserving AI on mobile hardware."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-device
   - edge-inference
+  - hardware
+  - huawei
+  - intermediate
   - mobile
-status: draft
+  - model-compression
+  - on-device-ai
+  - pandaily
+  - xiaomi
+mentions:
+  - name: Xiaomi
+    role: manufacturer
+  - name: Huawei
+    role: manufacturer
+  - name: Pandaily
+    role: publisher
+status: published
 ---
 
 The smartphone industry is experiencing a fundamental shift as manufacturers like Xiaomi and Huawei prioritize on-device AI capabilities over cloud-dependent solutions. This strategic pivot reflects both consumer demand for privacy and the technical maturation of edge inference on mobile processors.

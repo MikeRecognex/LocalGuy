@@ -3,12 +3,24 @@ title: "GPT-5.6 Sol vs. Claude Fable 5 in CNC Red Alert 2 Benchmark"
 date: 2026-07-18
 description: "A new benchmark comparing frontier LLM variants in real-time strategy gameplay demonstrates practical performance evaluation methodologies. This shows how gaming environments can serve as rigorous testbeds for model reasoning and decision-making capabilities."
 tags:
-  - daily-digest
+  - agent-reasoning
+  - ai-agents
   - benchmark
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - evaluation
-  - reasoning
+  - gaming-benchmark
+  - intermediate
   - performance
-status: draft
+  - reasoning
+  - system-2-arena
+mentions:
+  - name: System-2 Arena
+    role: developer
+status: published
 ---
 
 [The System-2 Arena benchmark comparing GPT-5.6 Sol and Claude Fable 5](https://system-2-arena.vercel.app/showcase/ra2?war=sol-vs-fable-lake) in a CNC Red Alert 2 environment provides valuable insights into how LLMs perform under complex, real-time decision-making constraints. Real-time strategy games offer uniquely challenging evaluation criteria that test reasoning, planning, and tactical decision-making in ways that standard benchmarks often miss.

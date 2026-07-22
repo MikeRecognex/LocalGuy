@@ -3,12 +3,26 @@ title: "Running AI Locally, Part 2: From VMware Context to Hands-On Tools"
 date: 2026-07-01
 description: "The second installment in a series covering practical approaches to running AI workloads locally, including virtualization context and hands-on tooling recommendations for self-hosted inference."
 tags:
+  - bullish
+  - containerization
   - daily-digest
-  - virtualization
   - deployment-guide
+  - enterprise
   - infrastructure
+  - intermediate
+  - orchestration-patterns
+  - self-hosted-inference
   - tools
-status: draft
+  - tutorial
+  - virtualization
+  - virtualization-review
+  - vmware
+mentions:
+  - name: VMware
+    role: infrastructure-provider
+  - name: Virtualization Review
+    role: publisher
+status: published
 ---
 
 This follow-up article in a deployment series brings together infrastructure considerations and practical tools for running LLMs locally. Building on foundational concepts, it bridges the gap between virtualization context (containerization, resource isolation) and specific tooling choices that operators face when setting up local inference environments.

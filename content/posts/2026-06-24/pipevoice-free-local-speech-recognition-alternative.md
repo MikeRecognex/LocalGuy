@@ -3,12 +3,24 @@ title: "PipeVoice: The Free Local Alternative to Whisper Flow"
 date: 2026-06-24
 description: "PipeVoice offers a free, open-source alternative for local speech-to-text processing without reliance on cloud services. This tool enables on-device audio transcription, making it ideal for privacy-conscious deployments and edge inference scenarios."
 tags:
+  - audio-transcription
+  - bullish
   - daily-digest
-  - open-source
-  - speech-recognition
-  - on-device
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - hacker-news
+  - intermediate
+  - on-device
+  - open-source
+  - privacy-preservation
+  - release
+  - speech-recognition
+  - speech-to-text
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 PipeVoice represents a significant addition to the local AI toolkit by providing a free, self-hosted speech recognition solution. Unlike cloud-dependent alternatives like Whisper Flow, PipeVoice enables practitioners to run audio transcription entirely on local hardware, eliminating latency concerns and privacy risks associated with sending audio data to remote servers.

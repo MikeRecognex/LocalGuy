@@ -3,11 +3,23 @@ title: "Show HN: OpenVole 4.5 Is Out"
 date: 2026-07-10
 description: "OpenVole 4.5 brings new capabilities for local LLM deployment and inference optimization. This release update includes improvements to efficiency and functionality for on-device model execution."
 tags:
+  - bullish
   - daily-digest
-  - open-source
-  - inference-speed
+  - developer
+  - edge-device
+  - hacker-news
   - hardware
-status: draft
+  - hardware-compatibility
+  - inference-optimization
+  - inference-speed
+  - intermediate
+  - local-deployment
+  - open-source
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 OpenVole 4.5 has been released with enhancements targeting local and edge inference scenarios. As an open-source project focused on efficient model execution, [OpenVole continues to iterate on performance optimizations](https://github.com/openvole/openvole) that benefit practitioners running models on resource-constrained hardware.

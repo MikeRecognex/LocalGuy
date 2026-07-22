@@ -3,12 +3,27 @@ title: "Show HN: Call to Control AI Agents via the Web"
 date: 2026-07-13
 description: "A new framework enables web-based control interfaces for AI agents, potentially supporting local model backends. This addresses integration challenges for deploying autonomous agents in production environments."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - local-inference
-  - framework
+  - bullish
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - diffforge
+  - edge-device
+  - framework
+  - hacker-news
+  - intermediate
+  - local-inference
+  - privacy-compliance
+  - production-deployment
+  - showcase
+mentions:
+  - name: DiffForge
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 DiffForge introduces a framework for controlling AI agents through web interfaces, enabling structured interaction with autonomous systems. This tooling addresses a gap in agent deployment by providing standardized communication patterns between user-facing applications and agent backends.

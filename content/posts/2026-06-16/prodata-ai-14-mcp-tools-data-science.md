@@ -3,12 +3,27 @@ title: "ProData AI – 14 MCP Tools for Automated Data Science"
 date: 2026-06-16
 description: "ProData AI expands the MCP ecosystem with 14 specialized tools for data science workflows, enabling local LLMs to perform data analysis, visualization, and transformation tasks autonomously. This toolset bridges the gap between language models and practical data science operations."
 tags:
-  - daily-digest
-  - mcp
+  - agentic-workflows
   - agents
-  - open-source
+  - bullish
+  - daily-digest
   - data-science
-status: draft
+  - data-science-automation
+  - developer
+  - hacker-news
+  - intermediate
+  - local-privacy
+  - mcp
+  - mcpize
+  - model-context-protocol
+  - open-source
+  - release
+mentions:
+  - name: Mcpize
+    role: platform
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Data science automation represents an underexplored application area for local LLMs. ProData AI addresses this by providing 14 purpose-built MCP tools that allow language models to perform data exploration, analysis, and visualization tasks end-to-end. Rather than requiring humans to translate model recommendations into code, the tools enable autonomous execution within the model's context.

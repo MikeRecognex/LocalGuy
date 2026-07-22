@@ -3,11 +3,25 @@ title: "CoAnalyst360: Multi-Agent AI Platform for Investigative Questions"
 date: 2026-06-09
 description: "CoAnalyst360 launches as a multi-agent AI platform designed to handle complex investigative queries through orchestrated local or hybrid inference."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - bullish
+  - daily-digest
+  - developer
+  - explainable-ai
+  - hacker-news
+  - hybrid-inference
+  - intermediate
   - multi-agent
   - open-source
-status: draft
+  - penlink
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: PenLink
+    role: developer
+status: published
 ---
 
 CoAnalyst360 represents an emerging class of applications leveraging multi-agent architectures for complex reasoning tasks. The platform demonstrates how orchestrating multiple specialized LLM agents can tackle sophisticated investigative workflows that single-model approaches struggle with, making it relevant for developers building advanced local LLM applications.

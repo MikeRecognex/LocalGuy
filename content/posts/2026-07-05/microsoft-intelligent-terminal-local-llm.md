@@ -3,12 +3,23 @@ title: "Microsoft's Intelligent Terminal Works Seamlessly with Local LLMs"
 date: 2026-07-05
 description: "Microsoft's new Intelligent Terminal can be configured to work with local LLM backends, allowing users to get an AI-powered terminal experience without relying on cloud services or Copilot."
 tags:
+  - beginner-friendly
+  - bullish
+  - code-completion
+  - command-line-ai
   - daily-digest
-  - tools
-  - terminal
+  - developer
   - local-inference
   - microsoft
-status: draft
+  - privacy-compliance
+  - release
+  - terminal
+  - tools
+  - xda-developers
+mentions:
+  - name: XDA Developers
+    role: publisher
+status: published
 ---
 
 Microsoft has released an Intelligent Terminal that, contrary to expectations, is not locked to Copilot and can be configured to work with any compatible LLM backend. Developers have successfully deployed it with local LLMs in just five minutes, opening up new possibilities for AI-enhanced command-line workflows without cloud dependencies.

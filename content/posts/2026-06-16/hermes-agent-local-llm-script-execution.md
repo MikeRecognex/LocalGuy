@@ -3,12 +3,23 @@ title: "Hermes Agent Transforms Local LLMs Into Executable Agents"
 date: 2026-06-16
 description: "Hermes Agent enables local LLMs to execute scripts, access files, and run jobs autonomously, moving beyond simple chatbot interfaces. This breakthrough allows self-hosted models to perform complex automation tasks on-device."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - local-llm
   - automation
+  - bullish
+  - code-execution
+  - daily-digest
+  - developer
+  - intermediate
+  - local-llm
+  - on-device-automation
   - open-source
-status: draft
+  - release
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 Local LLMs have traditionally been constrained to conversational interfaces, but Hermes Agent changes the equation by granting language models the ability to execute arbitrary scripts, manipulate files, and orchestrate background jobs directly on your hardware. This represents a significant shift in what's possible with self-hosted inference—moving from passive question-answering to active system automation.

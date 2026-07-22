@@ -3,12 +3,23 @@ title: "Ollama Integrated Into Recipe Collection for Intelligent Cooking Assista
 date: 2026-07-02
 description: "A developer successfully wired Ollama into a personal recipe database to create an on-device cooking assistant that suggests meals based on available ingredients."
 tags:
+  - agents
+  - app-integration
+  - beginner-friendly
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - local-inference
+  - msn
+  - offline-inference
   - ollama
   - practical-application
-  - local-inference
-  - agents
-status: draft
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 Ollama's ease of integration continues to enable creative local LLM applications. A recent [project integrated Ollama with a recipe collection](https://www.msn.com/) to build a practical cooking assistant that understands ingredient availability and suggests appropriate meals—all running locally without external API calls or data sharing.

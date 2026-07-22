@@ -3,12 +3,24 @@ title: "code-on-incus: Isolated Machine Environments for AI Agents"
 date: 2026-07-05
 description: "A new tool that provisions isolated container environments with root access for each AI agent, enabling safer sandboxed execution of agent code on local infrastructure. This addresses a critical security concern for deploying autonomous AI systems locally."
 tags:
-  - daily-digest
+  - agent-sandboxing
+  - agent-security
   - agents
-  - security
+  - autonomous-agents
+  - bullish
   - containerization
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - release
+  - security
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The [code-on-incus project](https://github.com/mensfeld/code-on-incus) introduces a practical solution for safely running AI agents locally by providing each agent with its own isolated Incus (LXD) container environment. This approach allows agents to execute code with root privileges within a sandboxed container, preventing lateral movement and protecting the host system from malicious or buggy agent behavior.

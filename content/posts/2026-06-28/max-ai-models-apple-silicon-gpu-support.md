@@ -3,12 +3,27 @@ title: "You Can Now Run Max AI Models on Apple Silicon"
 date: 2026-06-28
 description: "Modular's Max platform now supports running AI models directly on Apple Silicon GPUs, expanding local deployment options for macOS users and M-series chip owners."
 tags:
-  - daily-digest
-  - mlx
   - apple-silicon
-  - open-source
+  - bullish
+  - daily-digest
+  - developer
+  - gpu-acceleration
+  - hacker-news
   - hardware
-status: draft
+  - intermediate
+  - local-inference
+  - mlx
+  - modular
+  - open-source
+  - rag-pipeline
+  - release
+  - self-hosting
+mentions:
+  - name: Modular
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Apple Silicon's GPU capabilities have matured significantly, and [Modular's Max platform now officially supports GPU-accelerated inference](https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283) on M-series chips. This is a major milestone for local LLM deployment on consumer macOS hardware, as it enables developers to leverage the Neural Engine and GPU for substantially faster inference without relying on cloud APIs or external accelerators.

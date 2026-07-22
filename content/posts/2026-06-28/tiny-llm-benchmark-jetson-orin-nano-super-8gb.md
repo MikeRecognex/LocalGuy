@@ -3,12 +3,23 @@ title: "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB"
 date: 2026-06-28
 description: "Comprehensive benchmark results for running small language models on NVIDIA's Jetson Orin Nano Super with 8GB memory, providing practical performance data for edge LLM deployment."
 tags:
-  - daily-digest
   - benchmark
-  - hardware
-  - jetson
+  - benchmark-report
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - embedded-ai
+  - hacker-news
+  - hardware
+  - hardware-benchmarking
+  - intermediate
+  - jetson
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Jetson Orin Nano Super continues to be one of the most accessible platforms for local LLM deployment, and [this benchmark study](https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/) provides critical performance data for practitioners evaluating edge inference options. With 8GB of memory, this device occupies a sweet spot for deploying smaller models (1B-13B parameters) directly on edge hardware without cloud dependencies.

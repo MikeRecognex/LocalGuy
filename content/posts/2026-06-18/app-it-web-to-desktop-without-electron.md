@@ -3,12 +3,26 @@ title: "App-it: Convert Local Web Projects to Desktop Apps Without Electron"
 date: 2026-06-18
 description: "App-it is a new tool that transforms local web-based LLM interfaces into lightweight desktop applications without the overhead of Electron, enabling efficient packaging and distribution of self-hosted AI tools."
 tags:
+  - application-packaging
+  - bullish
   - daily-digest
   - deployment
-  - tools
+  - developer
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-llm-ui
   - open-source
   - optimization
-status: draft
+  - resource-optimization
+  - showcase
+  - tools
+mentions:
+  - name: Christian Katzmann
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 App-it addresses a practical challenge in deploying local LLM applications: many modern AI interfaces are built as web applications (using frameworks like React, Vue, or Svelte) but developers want to distribute them as native desktop apps. Electron has been the standard solution, but its overhead—bundling an entire browser runtime for every application—makes it inefficient, especially when targeting resource-constrained environments or edge devices.

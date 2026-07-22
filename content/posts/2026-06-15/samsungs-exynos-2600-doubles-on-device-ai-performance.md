@@ -3,12 +3,28 @@ title: "Samsung's Exynos 2600 Doubles On-Device AI Performance in MLPerf Benchma
 date: 2026-06-15
 description: "Samsung's latest Exynos 2600 processor demonstrates significant performance improvements for on-device AI inference, doubling capabilities compared to previous generations according to MLPerf benchmarks."
 tags:
-  - daily-digest
-  - hardware
+  - ai-benchmarks
   - benchmark
-  - mobile-inference
+  - bullish
+  - daily-digest
+  - developer
+  - digitimes
   - edge-ai
-status: draft
+  - edge-device
+  - hardware
+  - intermediate
+  - mediatek
+  - mobile-hardware
+  - mobile-inference
+  - model-quantization
+  - news
+  - on-device-inference
+mentions:
+  - name: MediaTek
+    role: chipmaker
+  - name: Digitimes
+    role: publisher
+status: published
 ---
 
 Samsung's announcement of the Exynos 2600 marks a meaningful step forward for on-device AI hardware. The doubling of performance in MLPerf benchmarks—the industry standard for measuring AI inference across diverse hardware—indicates that mobile and edge devices are becoming increasingly capable platforms for local LLM deployment.

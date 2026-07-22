@@ -3,12 +3,24 @@ title: "llama.cpp Tutorial: Run a Local LLM in 12 Steps"
 date: 2026-06-29
 description: "A comprehensive guide to getting started with llama.cpp, one of the most popular inference engines for running quantized language models locally with minimal dependencies."
 tags:
+  - beginner-friendly
+  - bullish
+  - cpu-inference
+  - cpu-only
   - daily-digest
-  - llama-cpp
-  - tutorial
+  - developer
+  - edge-device
   - getting-started
+  - llama-cpp
+  - model-quantization
   - open-source
-status: draft
+  - tech-insider
+  - tutorial
+  - vendor-lock-in
+mentions:
+  - name: Tech Insider
+    role: publisher
+status: published
 ---
 
 llama.cpp remains the gold standard for CPU-based local LLM inference, and this step-by-step tutorial makes it more accessible than ever. Whether you're running on a laptop, mini PC, or edge device, the 12-step approach demystifies the process of downloading, quantizing, and running models locally without relying on cloud APIs.

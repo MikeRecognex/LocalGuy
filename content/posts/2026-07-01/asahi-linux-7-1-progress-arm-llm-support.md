@@ -3,12 +3,26 @@ title: "Asahi Linux 7.1 Progress Report"
 date: 2026-07-01
 description: "Latest progress on Asahi Linux, Apple Silicon's open-source Linux distribution, which is critical infrastructure for local LLM deployment on Mac hardware. Updates include improved hardware utilisation and performance optimisations."
 tags:
-  - daily-digest
-  - hardware
   - apple-silicon
-  - mlx
+  - asahi-linux
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
+  - hardware
+  - hardware-utilization
+  - intermediate
   - linux
-status: draft
+  - local-deployment
+  - mlx
+  - news
+  - performance-optimization
+mentions:
+  - name: Asahi Linux
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Asahi Linux continues to mature as a critical platform for local LLM deployment on Apple Silicon hardware. The 7.1 progress report highlights ongoing improvements to hardware support and performance optimisations that directly impact inference capabilities on MacBooks and Mac minis—platforms increasingly popular for local model hosting.

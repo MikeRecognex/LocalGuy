@@ -3,11 +3,25 @@ title: "I Built a Bedside AI Assistant That Reads Me the News Without Touching t
 date: 2026-06-22
 description: "A practical demonstration of building a completely local AI assistant that delivers personalized news without any cloud connectivity, showcasing real-world on-device LLM deployment techniques."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - data-privacy
   - deployment-guide
+  - developer
+  - edge-device
   - edge-inference
+  - how-to-geek
+  - intermediate
+  - on-device-inference
   - privacy
-status: draft
+  - rag-pipeline
+  - showcase
+  - voice-synthesis
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 This hands-on project demonstrates a fully offline bedside AI assistant that curates and reads news without any cloud dependencies, proving that sophisticated LLM applications are now feasible on local hardware. The builder successfully created a privacy-first alternative to cloud-based voice assistants, showing the practical viability of complete device autonomy.

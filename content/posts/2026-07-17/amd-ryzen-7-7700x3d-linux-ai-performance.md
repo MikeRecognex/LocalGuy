@@ -3,12 +3,23 @@ title: "AMD Ryzen 7 7700X3D Linux Performance Review"
 date: 2026-07-17
 description: "Phoronix publishes detailed Linux performance benchmarks for the AMD Ryzen 7 7700X3D processor, providing critical data for practitioners evaluating CPU hardware for local LLM inference and edge AI workloads. The 3D V-Cache architecture offers unique advantages for memory-heavy AI tasks."
 tags:
-  - daily-digest
-  - hardware
   - benchmark
+  - benchmark-report
+  - bullish
   - cpu-inference
+  - cpu-only
+  - daily-digest
+  - developer
+  - hardware
+  - hardware-cache
+  - intermediate
+  - memory-bandwidth
   - performance
-status: draft
+  - phoronix
+mentions:
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 AMD's Ryzen 7 7700X3D, with its innovative 3D V-Cache technology that stacks additional L3 cache directly on the processor die, presents an intriguing option for CPU-based local LLM inference. The extra cache dramatically improves performance on workloads with poor locality, and large language models—with their enormous memory footprints and irregular access patterns—are exactly the type of application that benefits from this architecture.

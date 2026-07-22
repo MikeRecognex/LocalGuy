@@ -3,12 +3,26 @@ title: "Local AI Orchestrator with Computer and Browser Access"
 date: 2026-06-25
 description: "Zeus, a new open-source project, provides a local AI orchestrator enabling LLMs to control computers and browsers directly. This framework expands the practical applications of self-hosted LLM inference."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
   - automation
+  - bullish
+  - computer-use
+  - daily-digest
+  - developer
+  - github
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - local-first
+  - open-source
+  - release
+mentions:
+  - name: GitHub
+    role: host
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Zeus represents an interesting development in the local AI ecosystem, offering a framework that enables self-hosted LLMs to orchestrate computer actions and browser interactions. This bridges the gap between inference capability and real-world task automation, allowing locally-deployed models to function as autonomous agents with environmental access.

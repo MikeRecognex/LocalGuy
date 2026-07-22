@@ -3,12 +3,24 @@ title: "Qualcomm Launches Snapdragon START to Speed AI Smart Glasses to Market"
 date: 2026-06-20
 description: "Qualcomm's new Snapdragon START platform aims to accelerate edge AI deployment on smart glasses and mobile devices, providing optimized hardware for local LLM inference."
 tags:
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
-  - qualcomm
+  - hardware
+  - intermediate
   - mobile-ai
-status: draft
+  - model-optimization
+  - qualcomm
+  - release
+  - tech-times
+  - wearable-ai
+mentions:
+  - name: Tech Times
+    role: publisher
+status: published
 ---
 
 Qualcomm's introduction of Snapdragon START represents a major hardware milestone for edge AI inference, specifically targeting smart glasses and wearable devices. This specialized platform acknowledges the growing demand for on-device LLM capabilities without relying on cloud connectivity, enabling true local AI inference on increasingly sophisticated edge hardware.

@@ -3,12 +3,27 @@ title: "Show HN: Dart_agent_core – Run AI Agents in Flutter Apps with Lifecycl
 date: 2026-07-02
 description: "A new framework enabling developers to run AI agents directly within Flutter mobile applications using Dart, with built-in lifecycle management. This tool expands local LLM deployment to mobile platforms with first-class agent support."
 tags:
-  - daily-digest
-  - mobile-deployment
+  - agent-orchestration
   - agents
-  - flutter
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - flutter
+  - hacker-news
+  - intermediate
+  - lifecycle-management
+  - memex-lab
+  - mobile-agents
+  - mobile-deployment
+  - showcase
+mentions:
+  - name: Memex Lab
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Mobile deployment of AI agents just became significantly more accessible with dart_agent_core, a new framework designed to run AI agents directly within Flutter applications. The framework provides lifecycle hooks and native Dart integration, making it straightforward for mobile developers to embed agent-based AI functionality without complex cross-language bindings or external service dependencies.

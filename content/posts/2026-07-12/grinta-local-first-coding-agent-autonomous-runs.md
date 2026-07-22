@@ -3,12 +3,27 @@ title: "Grinta – A Local-First Coding Agent Built for Long Autonomous Runs"
 date: 2026-07-12
 description: "New open-source coding agent designed specifically for local deployment with optimizations for extended autonomous execution without external dependencies."
 tags:
-  - daily-digest
   - agents
-  - open-source
-  - local-first
+  - autonomous-agents
+  - bullish
   - coding
-status: draft
+  - coding-assistants
+  - daily-digest
+  - developer
+  - edge-device
+  - github
+  - hacker-news
+  - intermediate
+  - local-first
+  - open-source
+  - privacy-compliance
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: GitHub
+    role: hosting-platform
+status: published
 ---
 
 Grinta represents an important development in local AI agent infrastructure, addressing the challenge of running coding agents entirely on-device without reliance on cloud APIs. The project is specifically architected for long-running autonomous tasks, which is critical for developers wanting to maintain code generation capabilities within private, air-gapped environments or resource-constrained edge deployments.

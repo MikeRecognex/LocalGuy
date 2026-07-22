@@ -3,12 +3,25 @@ title: "Gaming PC vs Phone Local LLM Deployment: Only One Remains in Daily Use"
 date: 2026-06-19
 description: "A practical comparison of running identical local LLM tasks on gaming PCs and smartphones reveals significant differences in practical viability and daily usability across different hardware platforms."
 tags:
-  - daily-digest
-  - hardware
-  - edge-inference
-  - mobile-llm
   - benchmark
-status: draft
+  - cautious
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - hardware
+  - hardware-constraints
+  - intermediate
+  - mobile-inference
+  - mobile-llm
+  - model-compression
+  - msn
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This real-world comparison provides valuable insights into the practical trade-offs between desktop and mobile local LLM deployment. By testing identical models and workloads on both a gaming PC and smartphone, the experiment reveals that one platform significantly outperformed the other in sustained daily use—likely due to thermal constraints, battery limitations, or inference speed differences on mobile hardware.

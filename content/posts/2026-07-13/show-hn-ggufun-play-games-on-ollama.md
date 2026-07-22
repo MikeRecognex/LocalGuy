@@ -3,12 +3,24 @@ title: "Show HN: GGUFun, Play Snake and a Simple Maze on Ollama Using Hand Craft
 date: 2026-07-13
 description: "A creative demonstration of running game logic directly on Ollama using custom GGUF quantized models. This shows innovative approaches to local inference beyond traditional language understanding tasks."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - ollama
+  - deployment-strategy
+  - developer
+  - game-logic
   - gguf
-  - quantisation
+  - gguf-quantization
+  - hacker-news
   - inference
-status: draft
+  - intermediate
+  - ollama
+  - quantisation
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A novel demonstration project uses hand-crafted GGUF quantized models running on Ollama to power simple game logic. While playful in nature, this project illustrates the flexibility of the GGUF format and Ollama's inference runtime for non-traditional use cases beyond text generation.

@@ -3,12 +3,23 @@ title: "Show HN: CLI for Scoring OpenAPI for LLM Legibility"
 date: 2026-06-05
 description: "A new CLI tool evaluates OpenAPI specifications for their compatibility and usability with LLMs, enabling developers to optimize API designs for tool use, function calling, and local agent deployment."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - tools
-  - open-source
+  - api-design
+  - bullish
+  - daily-digest
+  - developer
+  - function-calling
+  - hacker-news
+  - intermediate
   - mcp
-status: draft
+  - open-source
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The jentic-api-scorecard provides an automated scoring system for evaluating how well OpenAPI specifications work with language models. This tool addresses a real pain point: APIs designed for humans often translate poorly to LLM function calling and tool use, resulting in confused agents and failed inference.

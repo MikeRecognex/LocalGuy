@@ -3,12 +3,24 @@ title: "I Gave a Local LLM Access to My Docker Containers, and It Replaced My Mo
 date: 2026-06-20
 description: "A practical case study demonstrating how local LLMs can be integrated with Docker infrastructure to automate monitoring and system administration tasks traditionally handled by custom scripts."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
   - automation
+  - bullish
+  - daily-digest
+  - data-privacy
+  - developer
   - docker
+  - docker-deployment
+  - infrastructure-automation
+  - intermediate
+  - msn
   - practical-deployment
-status: draft
+  - showcase
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 This real-world case study showcases the transformative potential of local LLMs when integrated with existing infrastructure. By providing a self-hosted language model with access to Docker APIs, the author created an intelligent agent capable of monitoring, analyzing, and responding to container events—effectively replacing fragile, hand-written monitoring scripts with a more flexible, adaptive system.

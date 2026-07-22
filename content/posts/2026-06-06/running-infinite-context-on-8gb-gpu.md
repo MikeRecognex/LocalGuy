@@ -3,12 +3,24 @@ title: "Running Infinite Context Lengths on 8GB GPU Without Out Of Memory"
 date: 2026-06-06
 description: "A new engine enables running LLMs with effectively infinite context windows on consumer GPUs with just 8GB VRAM by avoiding memory exhaustion. This breakthrough makes long-context inference practical for edge and local deployments."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - memory-optimization
-  - inference
+  - developer
+  - hacker-news
   - hardware
+  - inference
+  - intermediate
+  - long-context-window
+  - memory-management
+  - memory-optimization
+  - oom-prevention
   - quantisation
-status: draft
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A significant breakthrough for local LLM deployment has emerged with [Titan Engine Core](https://github.com/JeevanJoshi2061/titan_engine_core), which solves one of the most persistent challenges in on-device inference: running models with long context windows without hitting out-of-memory errors.

@@ -3,12 +3,23 @@ title: "Ask HN: How do you provide your AI agents with access to credentials/sec
 date: 2026-07-01
 description: "Community discussion on secure credential management patterns for local AI agents, covering practical solutions for handling API keys, database credentials, and other secrets safely within agent systems."
 tags:
-  - daily-digest
+  - agent-security
   - agents
-  - security
-  - deployment
+  - ai-agents
   - best-practices
-status: draft
+  - cautious
+  - daily-digest
+  - deployment
+  - developer
+  - hacker-news
+  - intermediate
+  - opinion
+  - secrets-management
+  - security
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This Hacker News thread addresses a critical challenge in local AI agent deployment: securely managing credentials without compromising safety or privacy. As agents become more capable and integrated with real systems, providing access to secrets (API keys, database passwords, authentication tokens) becomes essential but dangerous if handled improperly.

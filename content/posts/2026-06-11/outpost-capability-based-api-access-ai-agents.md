@@ -3,12 +3,24 @@ title: "Outpost – Capability-based API access for AI agents"
 date: 2026-06-11
 description: "New framework enabling secure, capability-based API access control for locally-deployed AI agents. Outpost provides a structured approach to sandboxing agent interactions with external tools and services."
 tags:
-  - daily-digest
   - agents
-  - open-source
   - api
+  - api-security
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - local-agents
+  - open-source
+  - prompt-injection
+  - release
+  - sandboxing
   - security
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Outpost introduces a capability-based security model for AI agents running locally or self-hosted, addressing a critical need as more developers deploy agentic systems on-device. Rather than granting agents blanket API access, capability-based controls allow fine-grained permission management, reducing attack surface and preventing unintended API misuse.

@@ -3,11 +3,25 @@ title: "The Triage Is the Product: Running AI Agents Against Ethereum's Protocol
 date: 2026-07-10
 description: "A case study demonstrates deploying local AI agents to audit and triage large codebases, showing practical applications of on-device LLMs for complex technical tasks at scale."
 tags:
-  - daily-digest
+  - advanced
+  - agent-orchestration
   - agents
   - benchmark
+  - bullish
+  - code-auditing
+  - daily-digest
+  - developer
+  - ethereum-foundation
+  - hacker-news
+  - offline-inference
+  - showcase
   - use-cases
-status: draft
+mentions:
+  - name: Ethereum Foundation
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Ethereum Foundation published an article exploring how local AI agents can be effectively deployed to [triage and analyze protocol code at scale](https://blog.ethereum.org/2026/07/09/triage-is-the-product), providing a compelling real-world case study for on-device LLM applications. By running agents locally against a complex codebase, they demonstrated that agents can perform sophisticated analysis tasks without depending on external API calls or cloud infrastructure.

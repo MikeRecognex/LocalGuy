@@ -3,11 +3,29 @@ title: "DeepX Expands APAC Footprint Through Distribution Agreement with Avnet"
 date: 2026-07-13
 description: "DeepX, a specialist in edge AI and local inference optimization, has expanded its reach in Asia-Pacific through a partnership with global technology distributor Avnet, increasing accessibility of edge AI solutions."
 tags:
+  - avnet
+  - bullish
   - daily-digest
-  - edge-inference
-  - open-source
+  - deepx
   - distribution
-status: draft
+  - edge-ai-optimization
+  - edge-device
+  - edge-inference
+  - enterprise
+  - intermediate
+  - local-deployment
+  - market-expansion
+  - news
+  - open-source
+  - tradingview
+mentions:
+  - name: DeepX
+    role: vendor
+  - name: Avnet
+    role: partner
+  - name: TradingView
+    role: publisher
+status: published
 ---
 
 DeepX, known for its work in optimizing neural networks for edge devices and local inference, has announced a distribution partnership with Avnet to expand its presence across Asia-Pacific markets. This move aims to make edge AI solutions more accessible to enterprises and developers in the region, reducing barriers to adopting local inference systems.

@@ -3,12 +3,23 @@ title: "Getting Started With NVIDIA DGX Spark: Unboxing, First Boot, Dashboard, 
 date: 2026-06-21
 description: "A comprehensive guide to setting up NVIDIA's DGX Spark hardware for local LLM inference, including practical steps for deploying Google's Gemma model. This resource is valuable for practitioners considering dedicated hardware investments for on-device inference."
 tags:
+  - bullish
   - daily-digest
-  - hardware
-  - nvidia
-  - gemma
+  - developer
   - edge-inference
-status: draft
+  - gemma
+  - hardware
+  - hardware-setup
+  - infrastructure-planning
+  - intermediate
+  - local-inference
+  - medium
+  - nvidia
+  - tutorial
+mentions:
+  - name: Medium
+    role: publisher
+status: published
 ---
 
 NVIDIA's DGX Spark represents a significant development in accessible hardware for local LLM deployment. This detailed walkthrough covers the unboxing, initial configuration, and dashboard navigation—critical practical knowledge for teams evaluating dedicated inference hardware.

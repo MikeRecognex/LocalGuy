@@ -3,12 +3,25 @@ title: "PrettyShot – A Fast, Local-First Screenshot Beautifier"
 date: 2026-07-18
 description: "PrettyShot is a new open-source screenshot beautification tool designed to run entirely on-device without cloud dependencies. This demonstrates practical local AI inference for image processing workflows."
 tags:
+  - bullish
   - daily-digest
-  - local-inference
-  - open-source
+  - developer
   - edge-deployment
+  - edge-device
+  - hacker-news
+  - image-processing
+  - intermediate
+  - local-first
+  - local-inference
+  - on-device-inference
+  - open-source
+  - privacy-protection
+  - showcase
   - tools
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [PrettyShot](https://www.prettyshot.site) represents an interesting application of local-first AI principles—a screenshot beautifier that processes images entirely on-device without requiring cloud API calls. This approach reduces latency, improves privacy, and eliminates dependency on external services, making it a compelling use case for local model deployment.

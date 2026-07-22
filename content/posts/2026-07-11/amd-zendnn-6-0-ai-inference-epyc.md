@@ -3,11 +3,19 @@ title: "AMD ZenDNN 6.0 Boosts AI Inference on EPYC CPUs With FP16 and MoE Accele
 date: 2026-07-11
 description: "AMD has released ZenDNN 6.0 with optimizations for FP16 inference and Mixture-of-Experts model acceleration on EPYC processors. This update enables efficient local LLM deployment on AMD server and workstation CPUs without requiring GPUs."
 tags:
-  - daily-digest
   - amd
-  - hardware
+  - bullish
+  - cost-saving
   - cpu-inference
-status: draft
+  - cpu-only
+  - daily-digest
+  - developer
+  - fp16-inference
+  - hardware
+  - intermediate
+  - moe-acceleration
+  - release
+status: published
 ---
 
 AMD's ZenDNN 6.0 release brings significant performance improvements for AI inference workloads on EPYC CPUs, including native support for FP16 precision and Mixture-of-Experts (MoE) model architectures. This update expands the viable hardware options for local LLM deployment beyond GPU-centric setups, making CPU-based inference more competitive for cost-sensitive and power-constrained environments.

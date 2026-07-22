@@ -3,12 +3,23 @@ title: "Paca: Lightweight Jira Alternative for Human-AI Collaboration"
 date: 2026-06-13
 description: "A new open-source project management tool optimized for teams working with AI agents, designed as a lightweight alternative to Jira with built-in support for local LLM integration and collaboration workflows."
 tags:
-  - daily-digest
-  - open-source
+  - agent-orchestration
   - agents
-  - tools
+  - bullish
   - collaboration
-status: draft
+  - daily-digest
+  - developer
+  - hacker-news
+  - human-ai-collaboration
+  - intermediate
+  - local-llm-integration
+  - open-source
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Paca represents an emerging category of tools designed specifically to support workflows that integrate local LLMs and AI agents. Rather than retrofitting traditional project management systems, Paca was built from the ground up with human-AI collaboration in mind, making it particularly useful for teams deploying local LLMs as part of their development and operations processes.

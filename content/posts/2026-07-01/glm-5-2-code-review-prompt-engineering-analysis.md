@@ -3,12 +3,27 @@ title: "GLM-5.2's Code Reviews Are Only as Good as Your Prompt"
 date: 2026-07-01
 description: "Analysis of code review capabilities in GLM-5.2 (a smaller local-deployable model) showing that output quality is heavily dependent on prompt engineering. Provides practical guidance for maximising local model utility."
 tags:
-  - daily-digest
-  - fine-tuning
-  - prompt-engineering
+  - analysis
+  - bullish
+  - chain-of-thought
   - code-models
+  - code-review
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - fine-tuning
+  - hacker-news
+  - intermediate
+  - kilo-ai
   - local-inference
-status: draft
+  - prompt-engineering
+mentions:
+  - name: Kilo AI
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This analysis of GLM-5.2's code review capabilities provides valuable insights into optimising smaller, locally-deployable models for specialist tasks. The key finding—that output quality is heavily dependent on prompt engineering—reflects a broader truth in local inference: smaller models require more careful input shaping to perform well, but they remain practical and cost-effective when properly guided.

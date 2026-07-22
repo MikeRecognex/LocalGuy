@@ -3,12 +3,21 @@ title: "DiffusionGemma: The Developer Guide for Local Deployment"
 date: 2026-06-11
 description: "Google releases a comprehensive developer guide for DiffusionGemma, enabling efficient text generation on local hardware. Learn how to deploy this optimized model for on-device inference."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - gemma
+  - developer
   - diffusion
-  - local-inference
+  - edge-device
+  - gemma
   - google
-status: draft
+  - intermediate
+  - local-deployment
+  - local-inference
+  - on-device-inference
+  - performance-optimization
+  - tutorial
+status: published
 ---
 
 Google has released an official developer guide for DiffusionGemma, a model specifically optimized for efficient local deployment. This resource addresses the growing need for practical guidance on running capable models directly on personal hardware without relying on cloud infrastructure.

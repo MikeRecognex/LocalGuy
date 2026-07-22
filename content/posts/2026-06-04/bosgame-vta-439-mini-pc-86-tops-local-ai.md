@@ -3,12 +3,28 @@ title: "Bosgame Launches VTA-439 Mini PC with 86 TOPS for Practical Local AI"
 date: 2026-06-04
 description: "Bosgame has released the VTA-439 mini PC featuring 86 TOPS of AI compute in a compact form factor, specifically designed for accessible local LLM deployment and practical everyday use cases."
 tags:
+  - acrofan
+  - batch-inference
+  - bosgame
+  - bullish
   - daily-digest
-  - hardware
-  - mini-pc
-  - edge-inference
   - deployment
-status: draft
+  - developer
+  - edge-device
+  - edge-inference
+  - hardware
+  - hardware-acceleration
+  - intermediate
+  - local-deployment
+  - mini-pc
+  - on-device-ai
+  - release
+mentions:
+  - name: Bosgame
+    role: manufacturer
+  - name: Acrofan
+    role: publisher
+status: published
 ---
 
 Bosgame has introduced the VTA-439, a compact mini PC delivering 86 TOPS (trillion operations per second) of AI compute in a practical, affordable form factor. This device bridges the gap between consumer laptops and purpose-built AI servers, providing sufficient computational capacity to run capable local LLMs while remaining accessible to individual developers and small teams.

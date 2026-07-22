@@ -3,12 +3,27 @@ title: "Concentration of Power in AI Is a Risk"
 date: 2026-07-05
 description: "Andy Konwinski's perspective on centralization risks in AI systems and the importance of distributed, locally-deployed alternatives. This article reinforces the strategic value of the local LLM movement for reducing systemic risks."
 tags:
+  - beginner-friendly
+  - bullish
   - daily-digest
-  - open-source
   - decentralization
+  - democratization
+  - enterprise
+  - hacker-news
   - infrastructure
+  - local-deployment
+  - open-source
+  - opinion
   - policy
-status: draft
+  - systemic-risk
+  - vendor-lock-in
+mentions:
+  - name: Andy Konwinski
+    role: author
+    handle: "@andykonwinski"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The article "[Concentration of Power in AI Is a Risk](https://xcancel.com/i/article/2072830533739192560)" by Andy Konwinski articulates the systemic risks created when AI capabilities concentrate in a small number of proprietary systems and cloud providers. This perspective provides important validation for the local LLM community's mission to democratize access to capable AI models.

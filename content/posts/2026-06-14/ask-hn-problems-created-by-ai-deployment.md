@@ -3,11 +3,23 @@ title: "Ask HN: What Problem Did AI Create at Your Company That Didn't Exist Bef
 date: 2026-06-14
 description: "A Hacker News discussion capturing real-world challenges organizations face when deploying AI systems locally, offering practical insights for on-device LLM practitioners."
 tags:
+  - cautious
   - daily-digest
   - deployment
-  - open-source
+  - developer
+  - hacker-news
+  - infrastructure-costs
+  - intermediate
+  - local-deployment
   - memory-optimization
-status: draft
+  - model-compression
+  - open-source
+  - opinion
+  - resource-management
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This Hacker News discussion thread surfaces practical challenges that emerge when organizations deploy AI systems internally. The thread captures authentic deployment experiences including resource management issues, model hallucinations in production, data quality problems, and unexpected infrastructure costs—issues directly relevant to local LLM practitioners who must manage these systems on-premises.

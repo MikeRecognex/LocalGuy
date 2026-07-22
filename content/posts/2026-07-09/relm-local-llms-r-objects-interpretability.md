@@ -3,12 +3,23 @@ title: "Relm – Local LLMs as Base-R Objects with Interpretability"
 date: 2026-07-09
 description: "A new R framework enables integration of local LLMs directly as base-R objects, bringing interpretability to statistical computing. This bridges the gap between traditional data science workflows and modern language models running on-device."
 tags:
+  - bullish
   - daily-digest
+  - developer
   - frameworks
+  - hacker-news
+  - intermediate
+  - interpretability
+  - local-deployment
+  - model-interpretability
   - open-source
   - r-language
-  - interpretability
-status: draft
+  - r-programming
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Relm represents an interesting approach to local LLM deployment by making them first-class citizens in the R statistical computing environment. Rather than treating local models as external services, this framework allows data scientists to work with LLMs using familiar R syntax and paradigms, bringing transparency and interpretability to AI-powered analysis pipelines.

@@ -3,12 +3,30 @@ title: "Ollama Raises $65M Series B Funding, Reaches Nearly 9 Million Users"
 date: 2026-07-10
 description: "Ollama, the popular open-source tool for running LLMs locally, has secured $65M in Series B funding led by Theory Ventures. The platform has grown to nearly 9 million monthly users, solidifying its position as a leading solution for on-device AI deployment."
 tags:
+  - beginner-friendly
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - ollama
-  - open-source
+  - data-privacy
+  - developer
   - funding
+  - funding-round
   - local-inference
-status: draft
+  - local-llms
+  - news
+  - ollama
+  - on-device-inference
+  - open-source
+  - techcrunch
+  - theory-ventures
+mentions:
+  - name: Ollama
+    role: developer
+  - name: Theory Ventures
+    role: investor
+  - name: TechCrunch
+    role: publisher
+status: published
 ---
 
 Ollama has announced a $65 million Series B funding round, marking a major milestone for the open-source local LLM movement. The platform, which simplifies running large language models on consumer hardware, has grown to nearly 9 million monthly active users—a testament to the growing demand for privacy-first, on-device AI inference.

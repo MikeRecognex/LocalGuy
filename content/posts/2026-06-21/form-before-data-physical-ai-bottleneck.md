@@ -3,12 +3,27 @@ title: "Form Before Data: Addressing the Real Bottleneck in Physical AI Systems"
 date: 2026-06-21
 description: "An analysis explores how data representation and model structure precede data collection in physical AI systems, highlighting fundamental bottlenecks beyond mere data scaling. This perspective is crucial for optimizing local LLM deployments for robotics and edge applications."
 tags:
+  - analysis
+  - cautious
   - daily-digest
-  - open-source
+  - developer
+  - edge-device
+  - edge-inference
+  - hacker-news
   - hardware
-  - quantisation
+  - intermediate
   - memory-optimization
-status: draft
+  - model-architecture
+  - model-quantization
+  - open-source
+  - quantisation
+  - robotics
+mentions:
+  - name: Adolfo Lara
+    role: author
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Adolfo Lara's analysis in "Form Before Data" challenges the assumption that collecting more data is the primary bottleneck in physical AI systems. Instead, he argues that determining the correct architectural form and data representation structures must come first—a principle directly applicable to local LLM deployments for robotics, IoT, and edge inference scenarios.

@@ -3,12 +3,26 @@ title: "DolphinDB v3.00.6 and v2.00.19: Introducing DolphinX for Enterprise AI A
 date: 2026-07-13
 description: "DolphinDB releases new versions with DolphinX, a framework designed for enterprise AI agent deployment. The update addresses scalability and integration challenges for production local inference systems."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - enterprise
+  - bullish
+  - daily-digest
+  - data-sovereignty
   - deployment
+  - dolphindb
+  - edge-device
+  - enterprise
   - framework
-status: draft
+  - hacker-news
+  - intermediate
+  - local-inference
+  - release
+mentions:
+  - name: DolphinDB
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 DolphinDB's latest release introduces DolphinX, a specialized framework targeting enterprise deployment of AI agents. This update reflects growing demand for production-grade tooling that handles data ingestion, agent orchestration, and state management for autonomous systems running on-premises or at the edge.

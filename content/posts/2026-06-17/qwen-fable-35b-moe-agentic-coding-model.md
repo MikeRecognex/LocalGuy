@@ -3,12 +3,27 @@ title: "Qwen and Fable: Open-Weights 35B Mixture-of-Experts Agentic Coding Model
 date: 2026-06-17
 description: "A new open-weights 35B Mixture-of-Experts model combining Qwen and Fable for agentic coding tasks, optimized for local deployment with improved efficiency through sparse computation patterns."
 tags:
-  - daily-digest
-  - open-source
-  - mixture-of-experts
+  - agentic-coding
   - agents
+  - bullish
   - coding
-status: draft
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - fable
+  - hacker-news
+  - intermediate
+  - mixture-of-experts
+  - model-quantization
+  - open-source
+  - release
+  - sparse-computation
+mentions:
+  - name: Fable
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new open-weights agentic coding model combining Qwen and Fable has been released as a 35B Mixture-of-Experts variant, designed for efficient local deployment. The MoE architecture allows the model to selectively activate only necessary expert components, reducing memory footprint and inference latency compared to dense models of equivalent capability.

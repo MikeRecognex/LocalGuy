@@ -3,12 +3,24 @@ title: "Offline Raspberry Pi Voice Assistant Runs Local LLM"
 date: 2026-06-21
 description: "A practical implementation of a voice-based assistant on Raspberry Pi using local LLMs, demonstrating edge deployment on resource-constrained hardware. This project showcases the feasibility of fully offline AI interactions on consumer-grade devices."
 tags:
+  - bullish
   - daily-digest
-  - raspberry-pi
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-  - voice-assistant
+  - intermediate
+  - lets-data-science
+  - model-quantization
+  - offline-ai
   - open-source
-status: draft
+  - raspberry-pi
+  - showcase
+  - voice-assistant
+mentions:
+  - name: Let's Data Science
+    role: publisher
+status: published
 ---
 
 Running sophisticated AI capabilities on Raspberry Pi hardware represents a significant milestone in democratizing local LLM deployment. This project demonstrates that meaningful conversational AI is now achievable on sub-$100 hardware without any cloud connectivity, addressing both privacy and cost concerns simultaneously.

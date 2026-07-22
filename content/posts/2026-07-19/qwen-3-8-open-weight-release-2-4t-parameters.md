@@ -3,12 +3,24 @@ title: "Qwen 3.8 with 2.4T Parameters Going Open-Weight Soon"
 date: 2026-07-19
 description: "Alibaba announced Qwen 3.8, a massive 2.4 trillion parameter model that will be released as open-weight, significantly expanding options for self-hosted large-scale LLM deployment."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - open-source
-  - model-release
+  - datacenter-gpu
+  - enterprise
+  - hacker-news
   - large-language-models
+  - model-quantization
+  - model-release
+  - open-source
+  - open-weights
   - qwen
-status: draft
+  - release
+  - self-hosting
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Alibaba has announced the imminent open-weight release of Qwen 3.8, a 2.4 trillion parameter model that will significantly expand the landscape of self-hosted LLM options. This represents a major contribution to the open-source AI ecosystem and provides practitioners with a powerful alternative to existing large models for local deployment scenarios.

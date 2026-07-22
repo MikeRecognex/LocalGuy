@@ -3,12 +3,21 @@ title: "llama.cpp b10075 Packs Four Local AI Runtime Upgrades"
 date: 2026-07-21
 description: "The latest llama.cpp release introduces four significant runtime improvements for local LLM inference, enhancing performance and efficiency across CPU and GPU deployments."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
+  - developer
+  - edge-device
   - inference-optimization
+  - inference-performance
+  - intermediate
+  - llama-cpp
+  - local-deployment
+  - model-quantization
   - open-source
   - performance
-status: draft
+  - release
+status: published
 ---
 
 llama.cpp continues to be the backbone of local LLM deployment, and the b10075 release demonstrates why. This update focuses on critical runtime improvements that directly impact inference speed and resource utilization for practitioners running models on consumer hardware.

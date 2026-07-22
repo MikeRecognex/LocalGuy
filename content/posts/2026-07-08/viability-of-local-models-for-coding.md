@@ -3,12 +3,28 @@ title: "Viability of Local Models for Coding"
 date: 2026-07-08
 description: "Martin Fowler explores the practical factors determining whether local LLMs are viable for code generation and review tasks, examining performance trade-offs and deployment considerations."
 tags:
-  - daily-digest
-  - local-models
-  - coding
+  - analysis
   - benchmark
+  - bullish
+  - code-generation
+  - coding
+  - consumer-gpu
+  - daily-digest
   - deployment
-status: draft
+  - developer
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - local-models
+  - model-quantization
+  - performance-tradeoffs
+mentions:
+  - name: Martin Fowler
+    role: author
+    handle: "@martinfowler"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Martin Fowler's analysis addresses a critical question for developers considering on-device LLMs: when do local models make sense for code-related tasks? The article examines latency, accuracy, and resource constraints that differentiate viable local deployments from cloud-dependent approaches.

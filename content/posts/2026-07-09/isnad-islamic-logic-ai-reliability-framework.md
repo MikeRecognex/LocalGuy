@@ -3,12 +3,23 @@ title: "Show HN: Isnad – A Python Framework Using 1,200-Year-Old Islamic Logic
 date: 2026-07-09
 description: "Isnad applies classical Islamic chain-of-authentication logic to build more reliable and verifiable AI systems. This Python framework brings ancient trust mechanisms to modern AI deployment, focusing on reliability validation."
 tags:
+  - auditable-ai
+  - bullish
   - daily-digest
+  - developer
   - frameworks
+  - hacker-news
+  - intermediate
   - interpretability
-  - reliability
+  - model-validation
   - open-source
-status: draft
+  - provenance-tracking
+  - reliability
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Isnad presents a novel approach to AI reliability by adapting historical verification methods—specifically the Islamic scholarly tradition of chain authentication (isnad)—into a Python framework for validating AI system behavior. The concept treats sources, transformations, and model outputs as a verifiable chain, where each step's provenance and reliability can be tracked and validated.

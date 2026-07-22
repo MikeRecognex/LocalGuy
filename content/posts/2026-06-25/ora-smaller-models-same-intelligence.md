@@ -3,12 +3,27 @@ title: "ORA: Smaller Models. Same Intelligence"
 date: 2026-06-25
 description: "ORA Computing announces a breakthrough in model compression, delivering smaller LLMs with equivalent intelligence to larger counterparts. This addresses a critical challenge for on-device and edge deployment scenarios."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - model-compression
-  - quantisation
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - hacker-news
+  - inference-speed
+  - intermediate
+  - model-compression
+  - ora-computing
   - performance
-status: draft
+  - quantisation
+  - release
+mentions:
+  - name: ORA Computing
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 ORA Computing has unveiled a significant advancement in LLM optimization, focusing on creating smaller model variants that maintain the reasoning and capabilities of their larger predecessors. This development is particularly relevant for local LLM practitioners constrained by hardware limitations, memory budgets, or latency requirements in production environments.

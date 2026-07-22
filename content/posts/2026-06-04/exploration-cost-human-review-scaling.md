@@ -3,12 +3,24 @@ title: "Exploration Got Cheap. Human Review Did Not"
 date: 2026-06-04
 description: "An analysis of how AI agent exploration and training costs have plummeted while human evaluation and review remain expensive, creating a critical bottleneck in local LLM deployment pipelines."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - evaluation
-  - deployment
+  - analysis
+  - cautious
+  - compute-cost
   - cost-optimization
-status: draft
+  - daily-digest
+  - deployment
+  - deployment-pipeline
+  - developer
+  - evaluation
+  - evaluation-frameworks
+  - hacker-news
+  - intermediate
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The economics of deploying local LLM agents have fundamentally shifted, and this analysis reveals a critical asymmetry: while computational costs for agent exploration and training have become remarkably cheap through improved hardware efficiency and algorithms, human review and validation remain expensive and difficult to scale. This imbalance creates a significant challenge for practitioners deploying agentic systems locally, where thorough evaluation becomes a bottleneck preventing rapid iteration and deployment.

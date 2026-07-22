@@ -3,12 +3,23 @@ title: "DeepSWE v1.1 – Updated Execution and Grading for Software Engineering 
 date: 2026-06-24
 description: "DeepSWE v1.1 enhances the benchmarking and evaluation framework for AI agents performing software engineering tasks. Updated execution and grading mechanisms improve assessment accuracy for locally-deployed coding LLMs and agents."
 tags:
-  - daily-digest
   - agents
   - benchmark
+  - bullish
+  - coding-agents
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - llm-benchmarking
+  - local-llms
   - open-source
+  - release
   - software-engineering
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 DeepSWE v1.1 represents an important step forward in standardizing benchmarks for AI agents performing software engineering tasks. The update introduces refined execution environments and more accurate grading mechanisms, making it easier for practitioners to reliably evaluate locally-deployed coding models and autonomous agent systems on realistic development scenarios.

@@ -3,12 +3,27 @@ title: "DeepSeek V4 Performance Analysis: 1.6T Day 0 to Day 43 Scaling Trends"
 date: 2026-06-10
 description: "SemiAnalysis published detailed performance tracking of DeepSeek V4's 1.6T parameter model across different hardware platforms including Huawei, MI355X, and NVIDIA GPUs. The analysis reveals scaling trends and optimization patterns relevant to large model deployment on varied infrastructure."
 tags:
-  - daily-digest
-  - deepseek
+  - advanced
+  - analysis
   - benchmark
+  - daily-digest
+  - datacenter-gpu
+  - deepseek
+  - developer
+  - hardware-benchmarking
+  - hardware-heterogeneity
+  - huawei
+  - inference-optimization
   - large-models
+  - neutral
   - performance-analysis
-status: draft
+  - semianalysis
+mentions:
+  - name: SemiAnalysis
+    role: publisher
+  - name: Huawei
+    role: hardware-manufacturer
+status: published
 ---
 
 SemiAnalysis's longitudinal performance study of DeepSeek V4 across multiple hardware backends provides crucial empirical data for practitioners considering large model deployment strategies. Tracking a 1.6 trillion parameter model from initial rollout through optimization iterations reveals how inference performance matures as software stacks mature and models are fine-tuned for specific hardware characteristics.

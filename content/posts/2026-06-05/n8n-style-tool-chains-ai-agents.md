@@ -3,12 +3,27 @@ title: "N8n-Style Tool Chains for AI Agents – Custom Design and Emergent Behav
 date: 2026-06-05
 description: "A new project explores how orchestration patterns from workflow automation can structure AI agent tool chains, enabling emergent behaviors and flexible composition for local deployment scenarios."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - orchestration
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
+  - emergent-behavior
+  - github
+  - hacker-news
+  - intermediate
+  - modular-ai
   - open-source
+  - orchestration
+  - showcase
   - tools
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: GitHub
+    role: hosting-platform
+status: published
 ---
 
 Stigmergy brings workflow orchestration patterns to AI agent design, applying lessons from tools like n8n to create flexible, composable tool chains that enable emergent agent behaviors. This approach treats agent capabilities as modular, reusable components that can be wired together in different configurations—similar to how workflow platforms let non-engineers build complex automations.

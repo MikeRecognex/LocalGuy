@@ -3,12 +3,23 @@ title: "LongCat-2.0 Released"
 date: 2026-07-05
 description: "LongCat-2.0 represents an advancement in handling long-context sequences locally. While limited details are available, this release is relevant to local LLM practitioners seeking models optimized for extended context windows on consumer hardware."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - long-context
-  - model-release
+  - developer
+  - hacker-news
   - inference
+  - intermediate
+  - long-context
+  - memory-efficiency
+  - model-release
   - optimization
-status: draft
+  - rag-pipeline
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The [LongCat-2.0 release](https://news.ycombinator.com/item?id=48792512) brings improvements to long-context sequence handling for local deployments. Extended context windows are one of the most resource-intensive requirements for LLMs, making length-optimized models particularly valuable for on-device inference where memory is limited.

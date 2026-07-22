@@ -3,12 +3,23 @@ title: "Brick: State-of-the-Art LLM Routing"
 date: 2026-06-16
 description: "A new academic paper introduces Brick, advancing techniques for intelligently routing queries to different language models. The work has significant implications for optimizing local deployments where model selection directly impacts latency, cost, and quality tradeoffs."
 tags:
-  - daily-digest
+  - advanced
+  - analysis
+  - arxiv
   - benchmark
-  - optimization
+  - bullish
+  - daily-digest
+  - deployment-optimization
+  - developer
   - inference
+  - llm-routing
+  - model-quantization
+  - optimization
   - routing
-status: draft
+mentions:
+  - name: arXiv
+    role: publisher
+status: published
 ---
 
 Smart routing between models is a sophisticated technique gaining importance as practitioners maintain multiple local and cloud models. Brick presents state-of-the-art research into deciding which model should handle each query—a decision that directly impacts end-user latency and system resource consumption. For local deployments, this is particularly relevant when devices host multiple quantized model variants (small/medium/large) or when choosing between local fallbacks and cloud APIs.

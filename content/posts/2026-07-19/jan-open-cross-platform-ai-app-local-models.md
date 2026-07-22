@@ -3,12 +3,24 @@ title: "Jan: Open, Cross-Platform AI App with Useful Proprietary Models"
 date: 2026-07-19
 description: "Jan is presented as an open-source, cross-platform application for running AI models locally, offering a user-friendly interface for deploying and interacting with local LLMs."
 tags:
-  - daily-digest
-  - open-source
-  - tools
+  - beginner-friendly
+  - bullish
   - cross-platform
+  - daily-digest
+  - desde-linux
+  - hobbyist
+  - inference-optimization
+  - local-deployment
   - local-inference
-status: draft
+  - on-device-inference
+  - open-source
+  - showcase
+  - tools
+  - user-interface
+mentions:
+  - name: Desde Linux
+    role: publisher
+status: published
 ---
 
 Jan represents an important addition to the ecosystem of tools designed to make local LLM deployment accessible to non-technical users. As an open-source, cross-platform application, Jan abstracts away the complexity of model management, quantization selection, and inference optimization, allowing users to focus on building applications with local models.

@@ -3,12 +3,28 @@ title: "AI bills can be as big as a postdoc salary. Is the cost worth it?"
 date: 2026-06-08
 description: "A Nature article examining the escalating costs of cloud-based AI inference, providing economic analysis that strengthens the business case for local and self-hosted LLM deployment."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - economics
   - deployment
-  - inference-costs
+  - economics
+  - edge-device
+  - enterprise
+  - hacker-news
   - hardware
-status: draft
+  - inference-cost
+  - inference-costs
+  - intermediate
+  - local-deployment
+  - nature
+  - quantization
+  - total-cost-of-ownership
+mentions:
+  - name: Nature
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 As AI capabilities have proliferated, so have the costs of running inference at scale. This Nature piece quantifies what many practitioners already suspect: cloud API costs for LLM inference can become prohibitively expensive, rivaling researcher salaries for active projects. The economic pressure is driving renewed interest in local and self-hosted deployments, where upfront hardware investment replaces ongoing API fees.

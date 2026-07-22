@@ -3,12 +3,24 @@ title: "Google AI Edge Gallery Launches on macOS With Offline Gemini Models"
 date: 2026-06-08
 description: "Google has expanded its AI Edge Gallery to macOS, enabling developers to run Gemini models completely offline on Apple Silicon Macs. This cross-platform tool simplifies local LLM deployment for Mac-based developers and practitioners."
 tags:
+  - apple-silicon
+  - bullish
   - daily-digest
-  - gemini
-  - macos
-  - open-source
+  - deployment-workflow
+  - developer
   - edge-inference
-status: draft
+  - gemini
+  - intermediate
+  - macos
+  - memeburn
+  - offline-llm
+  - on-device-inference
+  - open-source
+  - release
+mentions:
+  - name: Memeburn
+    role: publisher
+status: published
 ---
 
 Google's expansion of the AI Edge Gallery to macOS represents a major convenience upgrade for the Mac developer community. The tool enables direct integration of offline Gemini models into applications running on Apple Silicon-based Macs, eliminating the need for cloud API calls and enabling true private, on-device inference. This brings Google's edge ML capabilities to feature parity with other platforms and acknowledges the growing importance of Apple's chip ecosystem for local AI workloads.

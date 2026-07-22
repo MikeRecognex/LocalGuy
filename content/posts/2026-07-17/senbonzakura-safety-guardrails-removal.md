@@ -3,11 +3,22 @@ title: "Show HN: Senbonzakura – Remove Safety Guardrails from Open AI Models"
 date: 2026-07-17
 description: "A new tool allows developers to modify safety mechanisms in open-source AI models, enabling local deployment scenarios that require customized model behavior and reduced restrictions."
 tags:
-  - daily-digest
-  - open-source
-  - fine-tuning
+  - bullish
   - customization
-status: draft
+  - daily-digest
+  - developer
+  - fine-tuning
+  - guardrail-removal
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - model-customization
+  - open-source
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Senbonzakura introduces tooling for local modification of safety parameters in open-source language models. The project addresses use cases where standard model guardrails may be overly restrictive for specific applications, allowing developers to customize model behavior when running inference on their own hardware.

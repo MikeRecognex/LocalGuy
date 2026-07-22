@@ -3,12 +3,23 @@ title: "Show HN: Turn Meeting Recordings into Searchable Transcripts. All Local"
 date: 2026-07-13
 description: "A new tool enables local transcription and search of meeting recordings without sending data to cloud services. This demonstrates practical on-device inference for speech-to-text workflows."
 tags:
+  - bullish
   - daily-digest
-  - local-inference
-  - speech-to-text
-  - privacy
+  - developer
   - edge-deployment
-status: draft
+  - hacker-news
+  - intermediate
+  - local-inference
+  - on-device-inference
+  - privacy
+  - privacy-preservation
+  - semantic-search
+  - showcase
+  - speech-to-text
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A new community project showcased on Hacker News demonstrates end-to-end local processing of meeting recordings into searchable transcripts, with all computation happening on-device. This approach eliminates the need to upload sensitive audio data to cloud APIs, addressing a critical concern for enterprises handling confidential meetings.

@@ -3,12 +3,23 @@ title: "Self-Hosting LLMs Using Ollama and Docker"
 date: 2026-07-08
 description: "A practical tutorial on containerized LLM deployment using Ollama and Docker, providing reproducible, scalable infrastructure for running open-source models in self-hosted environments."
 tags:
-  - daily-digest
-  - ollama
-  - docker
-  - deployment
+  - bullish
   - containerization
-status: draft
+  - daily-digest
+  - deployment
+  - developer
+  - docker
+  - docker-deployment
+  - gpu-passthrough
+  - intermediate
+  - ollama
+  - open-source-for-you
+  - self-hosting
+  - tutorial
+mentions:
+  - name: Open Source For You
+    role: publisher
+status: published
 ---
 
 Containerization has become essential for reproducible and portable AI infrastructure. This guide covers deploying Ollama within Docker, enabling consistent local LLM environments across development and production systems.

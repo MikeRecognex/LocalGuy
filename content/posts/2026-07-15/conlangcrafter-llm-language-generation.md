@@ -3,12 +3,25 @@ title: "ConlangCrafter: Constructing Languages with a Multi-Hop LLM Pipeline"
 date: 2026-07-15
 description: "A GitHub project demonstrating how to construct synthetic languages using chained LLM inference, showcasing advanced prompt engineering and multi-step reasoning techniques applicable to complex local LLM workflows."
 tags:
-  - daily-digest
-  - prompting
+  - advanced
   - agents
-  - open-source
+  - bullish
+  - chained-inference
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - hacker-news
   - llm-applications
-status: draft
+  - multi-hop-reasoning
+  - open-source
+  - prompt-engineering
+  - prompting
+  - self-hosted-ai
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 ConlangCrafter demonstrates a sophisticated multi-hop LLM pipeline that breaks down a complex task—constructing linguistically coherent artificial languages—into manageable subtasks chained together. This architecture is directly applicable to anyone building local LLM applications that require reasoning beyond simple single-prompt completions.

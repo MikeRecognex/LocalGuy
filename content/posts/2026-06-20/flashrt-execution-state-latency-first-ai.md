@@ -3,12 +3,24 @@ title: "FlashRT: Execution State for Latency-First AI"
 date: 2026-06-20
 description: "FlashRT introduces a novel approach to reducing latency in AI inference through optimized execution state management. This breakthrough is particularly relevant for edge deployment scenarios where response time is critical."
 tags:
+  - bullish
   - daily-digest
-  - latency-optimization
-  - inference-speed
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - execution-state-management
+  - inference-speed
+  - intermediate
+  - latency-optimization
+  - memory-optimization
   - performance
-status: draft
+  - showcase
+  - startuphubai
+mentions:
+  - name: StartupHub.ai
+    role: publisher
+status: published
 ---
 
 FlashRT represents a significant advancement in latency-first AI inference, addressing one of the most pressing challenges in local LLM deployment. By optimizing execution state management, the system achieves dramatic reductions in inference latency, making real-time applications on edge devices more practical than ever before.

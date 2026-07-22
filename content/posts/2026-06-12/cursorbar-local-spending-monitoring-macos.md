@@ -3,12 +3,23 @@ title: "CursorBar: Monitor Local AI Agent Spending and Status in macOS MenuBar"
 date: 2026-06-12
 description: "A new utility provides real-time visibility into local AI agent resource consumption and operational status via the macOS menu bar, helping developers track performance and costs of on-device inference. This addresses a practical operational need for managing local LLM deployments."
 tags:
-  - daily-digest
-  - monitoring
+  - agent-monitoring
+  - agent-orchestration
   - agents
-  - tools
+  - bullish
+  - daily-digest
+  - developer
+  - developer-tools
+  - hacker-news
+  - intermediate
   - macos
-status: draft
+  - monitoring
+  - showcase
+  - tools
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM deployments grow more sophisticated with agentic workflows, operational visibility becomes critical. [CursorBar](https://github.com/c-johannesen/cursorbar) addresses this by providing a lightweight menu bar utility for macOS that tracks spending and agent status in real-time, making it easier for developers to monitor what's happening with their local AI systems without context-switching to terminal windows or dashboards.

@@ -3,12 +3,25 @@ title: "Ollama Secures $65M Series B Funding to Grow its Open-source AI Platform
 date: 2026-07-21
 description: "Ollama raises $65 million in Series B funding to accelerate development of its open-source local LLM platform, signaling strong investor confidence in the on-device AI deployment market."
 tags:
+  - beginner-friendly
+  - bullish
   - daily-digest
-  - ollama
-  - open-source
-  - funding
+  - developer
+  - developer-tools
   - edge-inference
-status: draft
+  - funding
+  - funding-round
+  - kitematic
+  - news
+  - ollama
+  - on-device-inference
+  - open-source
+mentions:
+  - name: Ollama
+    role: developer
+  - name: Kitematic
+    role: founder
+status: published
 ---
 
 Ollama's $65M Series B funding round is a watershed moment for the local LLM ecosystem. Founded by the Kitematic team, Ollama has become the easiest entry point for developers wanting to run models like Llama 2, Mistral, and others locally without cloud dependencies. This capital injection signals that VCs now view local model serving as a genuine business opportunity—not a fringe alternative.

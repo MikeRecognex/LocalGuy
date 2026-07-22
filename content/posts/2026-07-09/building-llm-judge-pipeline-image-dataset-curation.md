@@ -3,12 +3,22 @@ title: "Building a Local LLM-as-Judge Pipeline for Image Dataset Curation"
 date: 2026-07-09
 description: "A detailed guide on constructing a local LLM-as-Judge system for automating image dataset curation without relying on cloud APIs. This practical tutorial demonstrates how to use local models for dataset quality control workflows."
 tags:
-  - daily-digest
-  - llm-as-judge
-  - dataset-curation
-  - fine-tuning
   - automation
-status: draft
+  - bullish
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - dataset-curation
+  - developer
+  - fine-tuning
+  - hackernoon
+  - intermediate
+  - llm-as-judge
+  - tutorial
+mentions:
+  - name: HackerNoon
+    role: publisher
+status: published
 ---
 
 HackerNoon has published a comprehensive guide on implementing an LLM-as-Judge pipeline entirely on local hardware for image dataset curation. Rather than sending sensitive image metadata and evaluations to cloud services, practitioners can run local models as automated judges to assess, filter, and score training datasets.

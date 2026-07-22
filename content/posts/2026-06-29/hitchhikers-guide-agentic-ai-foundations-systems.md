@@ -3,12 +3,23 @@ title: "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems"
 date: 2026-06-29
 description: "A comprehensive academic paper surveying agentic AI systems, covering architectures, design patterns, and implementation considerations relevant to building autonomous agents."
 tags:
-  - daily-digest
+  - agent-memory
+  - agent-orchestration
   - agents
+  - analysis
+  - arxiv
+  - autonomous-agents
   - benchmarks
+  - bullish
+  - daily-digest
+  - developer
+  - intermediate
   - open-source
   - research
-status: draft
+mentions:
+  - name: arXiv
+    role: publisher
+status: published
 ---
 
 [The Hitchhiker's Guide to Agentic AI](https://arxiv.org/abs/2606.24937) provides essential theoretical and practical foundations for designing autonomous agent systems, bridging research insights with implementation patterns. The paper surveys agent architectures, reasoning mechanisms, and system design patterns critical for anyone deploying local agents at scale.

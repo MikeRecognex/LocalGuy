@@ -3,12 +3,20 @@ title: "AMD PACE: New vLLM Plugin Enables Efficient CPU-Based Inference"
 date: 2026-06-12
 description: "AMD announces PACE, a vLLM plugin designed to optimize CPU inference for local LLM deployment, expanding viable hardware options beyond traditional GPU-accelerated setups."
 tags:
-  - daily-digest
-  - vllm
   - amd
+  - bullish
   - cpu-inference
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-ai
+  - intermediate
+  - local-deployment
   - optimization
-status: draft
+  - release
+  - vllm
+  - vllm-integration
+status: published
 ---
 
 AMD has released PACE, a new plugin for vLLM that optimizes CPU-based inference for large language models running locally. This development is significant because it broadens the accessibility of efficient local LLM deployment to systems without dedicated GPUs, making on-device AI viable on a wider range of hardware configurations.

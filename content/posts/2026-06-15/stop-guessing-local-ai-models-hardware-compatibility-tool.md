@@ -3,12 +3,25 @@ title: "Stop Guessing Which Local AI Models Fit Your Hardware — This Free Tool
 date: 2026-06-15
 description: "A new free tool simplifies the process of matching local AI models to your specific hardware constraints, eliminating guesswork for practitioners deploying LLMs on-device."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - tools
+  - developer
+  - edge-device
   - hardware
-  - optimization
+  - hardware-compatibility
+  - intermediate
+  - model-quantization
+  - on-device-inference
   - open-source
-status: draft
+  - optimization
+  - showcase
+  - tools
+  - xda
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 Hardware compatibility has long been a pain point for developers looking to deploy local LLMs. Matching model sizes, quantization levels, and architectures to available VRAM, CPU memory, and storage requires tedious manual research and often involves trial-and-error deployment attempts.

@@ -3,12 +3,27 @@ title: "Show HN: Tarit – Self-host Sandbox Cloud and Hypervisor for AI Agents"
 date: 2026-07-08
 description: "Tarit is a new open-source sandbox environment enabling secure, self-hosted execution of AI agents with full infrastructure control and no vendor lock-in."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - self-hosted
-  - open-source
+  - bullish
+  - daily-digest
+  - developer
+  - hacker-news
   - infrastructure
-status: draft
+  - instavm
+  - intermediate
+  - open-source
+  - sandboxed-execution
+  - security-compliance
+  - self-hosted
+  - self-hosting
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: instavm
+    role: developer
+status: published
 ---
 
 Tarit introduces a self-hosted hypervisor specifically designed for deploying AI agents with sandboxed execution on your own infrastructure. This addresses the growing need for local control over agent behavior, particularly for applications requiring deterministic environments, security compliance, or air-gapped deployment.

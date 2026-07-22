@@ -3,12 +3,25 @@ title: "Host Private Local AI on NVIDIA DGX Spark Using Ollama and Open WebUI"
 date: 2026-07-18
 description: "A technical deep-dive on deploying private LLM infrastructure using NVIDIA's hardware with Ollama and Open WebUI for complete control and data privacy. Ideal for enterprises managing sensitive workloads."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
-  - ollama
-  - nvidia
-  - hardware
+  - data-privacy
+  - datacenter-gpu
   - deployment
-status: draft
+  - enterprise
+  - geeky-gadgets
+  - hardware
+  - intermediate
+  - nvidia
+  - ollama
+  - open-webui
+  - private-llm-infrastructure
+  - tutorial
+mentions:
+  - name: Geeky Gadgets
+    role: publisher
+status: published
 ---
 
 NVIDIA DGX Spark systems combined with Ollama and Open WebUI provide a powerful, private alternative to cloud-based LLM services. This architecture allows organizations to maintain complete control over their AI infrastructure, data, and model weights—critical for enterprises handling proprietary or sensitive information.

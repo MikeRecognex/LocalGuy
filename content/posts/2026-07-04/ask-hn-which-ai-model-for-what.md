@@ -3,11 +3,21 @@ title: "Ask HN: Which AI Model Do You Use for What?"
 date: 2026-07-04
 description: "A community discussion thread where developers share their practical choices of AI models for specific local deployment scenarios, providing real-world insights into model selection and performance tradeoffs."
 tags:
-  - daily-digest
   - benchmark
-  - open-source
+  - bullish
+  - comparison
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
   - local-deployment
-status: draft
+  - model-selection
+  - open-source
+  - performance-tradeoffs
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [This Ask HN discussion](https://news.ycombinator.com/item?id=48783556) captures the current state of local LLM deployment practices by aggregating real-world model selection decisions from the developer community. The thread reveals which models practitioners actually choose for different workloads—from coding assistance to content generation to specialized tasks—based on the constraints of local hardware and performance requirements.

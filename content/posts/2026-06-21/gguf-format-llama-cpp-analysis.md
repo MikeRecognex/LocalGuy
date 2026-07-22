@@ -3,12 +3,23 @@ title: "What else is included in the 'GGUF' file format used by llama.cpp for AI
 date: 2026-06-21
 description: "An in-depth technical analysis of the GGUF format ecosystem, exploring the metadata, configuration, and structural components beyond model weights. Understanding GGUF is essential for practitioners working with llama.cpp and quantized model deployment."
 tags:
+  - advanced
+  - analysis
+  - bullish
   - daily-digest
-  - llama-cpp
-  - quantisation
+  - developer
   - gguf
+  - gguf-format
+  - gigazine
+  - llama-cpp
+  - local-inference
   - model-optimization
-status: draft
+  - model-quantization
+  - quantisation
+mentions:
+  - name: GIGAZINE
+    role: publisher
+status: published
 ---
 
 The GGUF format has become the de facto standard for distributing quantized LLMs optimized for local inference via llama.cpp. This technical deep-dive into GGUF's composition reveals how the format encapsulates far more than just weight tensors—it includes crucial metadata, tokenizer definitions, and architectural specifications.

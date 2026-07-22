@@ -3,12 +3,24 @@ title: "Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27"
 date: 2026-06-09
 description: "Apple announced that its new on-device AI features for Siri will be delayed in the European Union due to compliance requirements under the Digital Markets Act."
 tags:
+  - analysis
   - daily-digest
-  - on-device
-  - regulation
-  - privacy
   - deployment
-status: draft
+  - edge-device
+  - enterprise
+  - hacker-news
+  - intermediate
+  - neutral
+  - on-device
+  - on-device-privacy
+  - privacy
+  - regulation
+  - regulatory-compliance
+  - self-hosted-llm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Apple's decision to delay on-device AI features in the EU due to Digital Markets Act compliance highlights the regulatory complexities surrounding local inference deployment. The company cited technical challenges in meeting DMA requirements while maintaining the privacy and security benefits of on-device processing, suggesting that regulatory compliance for local AI systems is becoming a significant engineering consideration.

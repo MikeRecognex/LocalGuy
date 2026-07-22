@@ -3,11 +3,23 @@ title: "Squeezes – A Private, Local-First Bulk Image Compressor Running In-Bro
 date: 2026-07-04
 description: "A new in-browser image compression tool demonstrates the viability of running complex computational tasks entirely locally without server dependencies, using client-side processing for batch image optimization."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - edge-computing
   - edge-inference
-  - privacy
+  - hacker-news
+  - intermediate
+  - local-first
   - open-source
-status: draft
+  - privacy
+  - privacy-preservation
+  - showcase
+  - wasm-runtime
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [Squeezes](https://squeezes.vercel.app) exemplifies the expanding possibilities for running sophisticated image processing entirely on local hardware without server round-trips. While not an LLM per se, this tool demonstrates architectural patterns that are directly relevant to local AI deployment—moving computation to the edge, maintaining privacy, and eliminating dependency on cloud infrastructure.

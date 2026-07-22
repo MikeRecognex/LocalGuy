@@ -3,12 +3,23 @@ title: "Scrapping My Vibecoded Project After 24 Hours and 1.5B Tokens: Lessons f
 date: 2026-07-19
 description: "A developer shares insights from abandoning a token-intensive LLM project after 24 hours, offering practical lessons about evaluating local deployment feasibility and managing computational costs during experimentation."
 tags:
-  - daily-digest
+  - analysis
+  - cautious
   - cost-optimization
-  - inference
-  - practical-deployment
+  - cost-saving
+  - daily-digest
+  - developer
   - experimentation
-status: draft
+  - hacker-news
+  - inference
+  - intermediate
+  - local-deployment
+  - practical-deployment
+  - token-economics
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A developer recently shared their decision to abandon the Vibecoded project after consuming 1.5 billion tokens in just 24 hours, providing valuable insights into the practical challenges of LLM-based projects. This real-world case study highlights the importance of understanding token economics and computational constraints when designing applications around large language models.

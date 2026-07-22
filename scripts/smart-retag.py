@@ -330,6 +330,8 @@ def main():
     parser.add_argument("--no-cache", action="store_true", help="Force reprocessing of all posts")
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing files")
     parser.add_argument("--batch-size", type=int, default=10, help="Posts per langextract batch")
+    parser.add_argument("--max-workers", type=int, default=2, help="Concurrent Gemini requests (keep low to avoid rate limits)")
+    parser.add_argument("--model", default="gemini-3.5-flash", help="Gemini model ID")
     args = parser.parse_args()
 
     # Load environment
@@ -395,13 +397,15 @@ def main():
                     text_or_documents=documents,
                     prompt_description=PROMPT,
                     examples=EXAMPLES,
-                    model_id="gemini-2.5-flash",
+                    model_id=args.model,
+                    max_workers=args.max_workers,
+                    max_char_buffer=4000,  # posts are 200-500 words; avoid chunk-splitting each post
                 )
                 break
             except Exception as e:
                 if attempt < 2:
-                    wait = 5 * (attempt + 1)
-                    print(f"    ⚠ Batch {batch_num} failed ({e.__class__.__name__}), retrying in {wait}s...")
+                    wait = 15 * (attempt + 1)
+                    print(f"    ⚠ Batch {batch_num} failed ({e.__class__.__name__}: {e}), retrying in {wait}s...")
                     time.sleep(wait)
                 else:
                     print(f"    ✗ Batch {batch_num} failed after 3 attempts: {e}", file=sys.stderr)

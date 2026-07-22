@@ -3,12 +3,28 @@ title: "The Hitchhiker's Guide to Agentic AI"
 date: 2026-07-06
 description: "A comprehensive guide published on arXiv provides foundational knowledge and practical insights for building and deploying agentic AI systems. This resource is essential reading for developers scaling from simple LLM inference to complex agent orchestration."
 tags:
-  - daily-digest
+  - agent-orchestration
+  - agentic-ai
+  - agentic-architecture
   - agents
   - architecture
+  - arxiv
+  - bullish
+  - daily-digest
+  - deployment-guide
+  - developer
+  - edge-device
+  - hacker-news
+  - intermediate
+  - local-infrastructure
   - reference
-  - agentic-ai
-status: draft
+  - tutorial
+mentions:
+  - name: arXiv
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 As local LLM practitioners increasingly move beyond simple chat applications toward agentic systems, a comprehensive architectural guide becomes invaluable. This arXiv paper offers structured guidance on designing, implementing, and deploying agents effectively, covering patterns and pitfalls that emerge when moving from inference-only deployments to systems with memory, planning, and tool use.

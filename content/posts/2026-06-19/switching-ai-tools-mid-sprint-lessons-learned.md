@@ -3,12 +3,23 @@ title: "Switching AI Tools Mid-Sprint Cost Us a Day (and What We Learned)"
 date: 2026-06-19
 description: "A case study documenting the operational costs and lessons learned from switching between AI tools during active development. The piece offers practical insights for teams deploying local versus cloud-based LLM solutions."
 tags:
+  - analysis
+  - best-practices
+  - bullish
   - daily-digest
   - deployment
+  - developer
+  - hacker-news
   - infrastructure
-  - best-practices
+  - intermediate
+  - quantization
+  - self-hosted-infrastructure
+  - tool-migration
   - tools
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 [This experience report](https://theaileverageweekly.com/posts/how-switching-ai-tools-mid-sprint-cost-us-a-day-and-what-we-learned-we.html) highlights why local LLM deployments offer a strategic advantage: operational stability and reduced switching costs. When teams host inference locally, migration to different models or frameworks can be managed on their own timeline without external dependencies.

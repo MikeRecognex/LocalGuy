@@ -3,11 +3,24 @@ title: "VisionAId: On-Device Vision for the Visually Impaired"
 date: 2026-07-04
 description: "StartupHub.ai showcases VisionAId, a practical application of on-device vision models designed to assist visually impaired users. The project demonstrates real-world impact of local AI inference for accessibility applications."
 tags:
-  - daily-digest
-  - on-device-inference
-  - vision-models
   - accessibility
-status: draft
+  - accessibility-tech
+  - bullish
+  - computer-vision
+  - daily-digest
+  - developer
+  - edge-device
+  - intermediate
+  - offline-inference
+  - on-device-inference
+  - privacy-focused
+  - showcase
+  - startuphubai
+  - vision-models
+mentions:
+  - name: StartupHub.ai
+    role: publisher
+status: published
 ---
 
 VisionAId represents an important real-world application of on-device AI inference, delivering vision capabilities directly on local hardware for accessibility purposes. This use case demonstrates why edge deployment matters beyond performance metrics—it enables privacy-respecting, offline-capable solutions for vulnerable user populations.

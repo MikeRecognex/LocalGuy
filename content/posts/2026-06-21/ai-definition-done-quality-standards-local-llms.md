@@ -3,12 +3,23 @@ title: "The AI Definition of Done: Establishing Quality Standards Beyond Human R
 date: 2026-06-21
 description: "An exploration of how teams should define completion and quality for AI-generated outputs, moving beyond simple human-in-the-loop approaches. This guidance is essential for maintaining reliability standards in self-hosted LLM deployments."
 tags:
-  - daily-digest
-  - open-source
   - agents
-  - fine-tuning
+  - analysis
+  - automated-testing
   - benchmark
-status: draft
+  - daily-digest
+  - enterprise
+  - fine-tuning
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - neutral
+  - open-source
+  - quality-assurance
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The "Definition of Done" concept from agile development is being reexamined in the context of AI-generated work. Rather than treating human review as the quality gate, this article explores how teams should establish measurable, automated criteria for determining when AI outputs meet acceptable quality standards—a critical consideration for production local LLM deployments.

@@ -3,11 +3,23 @@ title: "Contrail Compute AIX: First RISC-V AI Execution Platform"
 date: 2026-06-13
 description: "Epic Semiconductors introduces Contrail Compute AIX, the first AI execution platform built on RISC-V architecture, expanding hardware options for local and edge AI inference beyond traditional x86 and ARM."
 tags:
+  - bullish
   - daily-digest
-  - hardware
+  - developer
+  - edge-device
   - edge-inference
+  - energy-efficiency
+  - epic-semiconductors
+  - hardware
+  - hardware-acceleration
+  - intermediate
   - open-source
-status: draft
+  - release
+  - risc-v
+mentions:
+  - name: Epic Semiconductors
+    role: manufacturer
+status: published
 ---
 
 Epic Semiconductors has unveiled Contrail Compute AIX, marking a significant step forward in diversifying the hardware landscape for local AI inference. As the first AI execution platform built on RISC-V architecture, it opens new possibilities for deploying LLMs on non-traditional processors, potentially offering better performance-per-watt characteristics and greater architectural flexibility.

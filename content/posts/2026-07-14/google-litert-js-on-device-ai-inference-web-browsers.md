@@ -3,12 +3,24 @@ title: "Google's LiteRT.js Enables On-Device AI Inference in Web Browsers"
 date: 2026-07-14
 description: "Google releases LiteRT.js, a JavaScript framework enabling efficient AI model inference directly in web browsers without server calls. This advancement brings on-device LLM capabilities to edge environments, reducing latency and improving privacy for web-based applications."
 tags:
+  - browser-inference
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
   - edge-inference
+  - intermediate
   - javascript
-  - web-browsers
+  - latency-reduction
   - open-source
-status: draft
+  - privacy-preservation
+  - quasa
+  - release
+  - web-browsers
+mentions:
+  - name: Quasa
+    role: publisher
+status: published
 ---
 
 Google's LiteRT.js represents a significant milestone in bringing local AI inference to web environments. By enabling models to run directly in browsers without relying on backend servers, developers can now deploy lightweight LLMs for tasks like text generation, translation, and classification while maintaining user privacy and reducing network latency.

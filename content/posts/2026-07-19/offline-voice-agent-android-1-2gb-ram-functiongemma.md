@@ -3,12 +3,24 @@ title: "Full Offline Voice Agent Running in 1.2 GB RAM on Android with FunctionG
 date: 2026-07-19
 description: "A practical demonstration of deploying a complete voice agent on Android devices with minimal memory footprint using FunctionGemma. This showcases significant progress in on-device LLM deployment for mobile platforms."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
   - edge-inference
-  - mobile
+  - function-calling
+  - intermediate
   - memory-optimization
+  - mobile
+  - mobile-inference
+  - reddit
+  - showcase
+  - voice-agent
   - voice-agents
-status: draft
+mentions:
+  - name: Reddit
+    role: publisher
+status: published
 ---
 
 A significant achievement in edge AI deployment has emerged with the successful implementation of a full offline voice agent running on Android devices with just 1.2 GB of RAM using FunctionGemma. This demonstration proves that sophisticated conversational capabilities are now viable on resource-constrained mobile hardware without requiring cloud connectivity.

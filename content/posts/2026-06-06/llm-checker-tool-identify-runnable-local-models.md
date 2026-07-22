@@ -3,12 +3,22 @@ title: "LLM Checker Tool Helps Identify Models for Your PC"
 date: 2026-06-06
 description: "A new free tool called LLM Checker helps users identify which local language models can run effectively on their specific hardware, simplifying the model selection process for local deployment."
 tags:
+  - beginner-friendly
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - tools
+  - gigazine
+  - hardware-compatibility
+  - hobbyist
+  - local-deployment
   - model-selection
   - open-source
-  - hardware-compatibility
-status: draft
+  - release
+  - tools
+mentions:
+  - name: Gigazine
+    role: publisher
+status: published
 ---
 
 LLM Checker addresses a real friction point in the local LLM adoption curve: hardware-to-model matching. Rather than requiring users to manually research RAM requirements, CPU specifications, and GPU compatibility, this tool automates the discovery process by scanning local hardware and recommending viable models with realistic performance estimates.

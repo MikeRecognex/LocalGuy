@@ -3,12 +3,24 @@ title: "Transcribe.cpp – ggml speech-to-text inference engine"
 date: 2026-07-01
 description: "A new GGML-based speech-to-text inference engine enabling local, on-device transcription without cloud dependencies. This tool extends the ggml ecosystem to multimodal local inference capabilities."
 tags:
+  - bullish
   - daily-digest
-  - ggml
-  - speech-to-text
-  - open-source
+  - developer
+  - edge-deployment
+  - edge-device
   - edge-inference
-status: draft
+  - ggml
+  - hacker-news
+  - intermediate
+  - multimodal-inference
+  - on-device-transcription
+  - open-source
+  - release
+  - speech-to-text
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Transcribe.cpp represents a significant expansion of the GGML ecosystem, bringing efficient speech-to-text capabilities to local inference scenarios. Built on the proven GGML quantisation framework that powers llama.cpp, this tool enables developers to run transcription workloads entirely on-device, eliminating latency and privacy concerns associated with cloud-based APIs.

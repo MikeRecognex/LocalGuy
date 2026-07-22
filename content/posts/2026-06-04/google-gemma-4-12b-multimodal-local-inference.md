@@ -3,12 +3,20 @@ title: "Google Releases Gemma 4 12B: Encoder-Free Multimodal Model for 16GB Lapt
 date: 2026-06-04
 description: "Google has released Gemma 4 12B, a unified multimodal model with native audio support that runs locally on laptops with just 16GB of RAM. This encoder-free architecture represents a significant step forward for practical on-device AI deployment."
 tags:
+  - bullish
+  - consumer-gpu
   - daily-digest
+  - developer
+  - encoder-free-architecture
   - gemma
-  - open-source
-  - multimodal
   - hardware
-status: draft
+  - intermediate
+  - multimodal
+  - multimodal-llm
+  - on-device-inference
+  - open-source
+  - release
+status: published
 ---
 
 Google has unveiled Gemma 4 12B, a groundbreaking open-source multimodal model specifically designed for local inference on consumer hardware. Unlike previous approaches, this encoder-free architecture supports text, image, and native audio inputs while maintaining the ability to run efficiently on 16GB laptops—a critical threshold for mainstream adoption.

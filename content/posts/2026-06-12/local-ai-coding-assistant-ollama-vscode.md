@@ -3,12 +3,23 @@ title: "Building a Fully Local AI Coding Assistant with Ollama and VS Code"
 date: 2026-06-12
 description: "A practical guide demonstrates how to set up a completely local AI coding assistant using Ollama and Visual Studio Code, requiring no cloud services or external API calls."
 tags:
-  - daily-digest
-  - ollama
+  - beginner-friendly
+  - bullish
   - coding-assistant
-  - vscode
+  - daily-digest
+  - data-privacy
+  - developer
+  - developer-productivity
+  - local-deployment
+  - msn
+  - ollama
   - practical-guide
-status: draft
+  - tutorial
+  - vscode
+mentions:
+  - name: MSN
+    role: publisher
+status: published
 ---
 
 A developer has published a practical tutorial for building a fully self-hosted AI coding assistant using Ollama and VS Code—no cloud APIs, no external services required. This real-world implementation guide addresses a major use case for local LLM deployment: improving developer productivity while maintaining complete data privacy and control.

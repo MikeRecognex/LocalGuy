@@ -3,12 +3,34 @@ title: "Perplexity Unveils Hybrid Local-Cloud Inference System for Intelligent T
 date: 2026-06-03
 description: "Perplexity demonstrated a hybrid inference system at Computex 2026 that intelligently splits tasks between local and cloud models, optimizing for latency, privacy, and cost. The system adds capability to Perplexity Computer to dynamically route workloads based on complexity and resource availability."
 tags:
-  - daily-digest
-  - hybrid-inference
-  - edge-inference
-  - optimization
+  - agent-orchestration
   - agents
-status: draft
+  - analysis
+  - bullish
+  - cost-saving
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-inference
+  - hybrid-inference
+  - inference-speed
+  - intelligent-routing
+  - intermediate
+  - latency-optimization
+  - news
+  - optimization
+  - perplexity
+  - perplexity-ai
+  - privacy-compliance
+  - release
+  - task-distribution
+  - venturebeat
+mentions:
+  - name: Perplexity
+    role: developer
+  - name: VentureBeat
+    role: publisher
+status: published
 ---
 
 The challenge of deciding when to run models locally versus in the cloud is now being tackled by Perplexity with an intelligent routing system. [Perplexity's hybrid local-cloud inference](https://venturebeat.com/ai/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026) approach automatically determines the optimal execution path for each query, considering model size, device capabilities, and task complexity.

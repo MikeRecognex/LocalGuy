@@ -3,12 +3,20 @@ title: "Google Releases Gemma 4 12B Model for Local Inference on 16GB Enterprise
 date: 2026-06-05
 description: "Google has released Gemma 4 12B, a new model optimized for on-device deployment on enterprise laptops with 16GB of RAM. This release demonstrates Google's commitment to making capable open-source models accessible for local inference without requiring high-end hardware."
 tags:
+  - bullish
+  - cpu-only
   - daily-digest
+  - enterprise
   - gemma
   - google
   - hardware
+  - inference-acceleration
+  - intermediate
+  - local-inference
   - open-source
-status: draft
+  - open-source-models
+  - release
+status: published
 ---
 
 Google has launched Gemma 4 12B, a new open-source language model specifically optimized for running locally on enterprise laptops with just 16GB of RAM. This release marks a significant milestone in making capable AI models accessible to everyday users and organizations without requiring expensive GPU infrastructure. The 12B parameter size strikes an important balance between capability and resource efficiency, making it practical for real-world on-device deployment scenarios.

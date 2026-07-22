@@ -3,11 +3,25 @@ title: "A Font That Humans Can Read But AI Cannot"
 date: 2026-07-11
 description: "New research demonstrates visual obfuscation techniques that prevent AI vision models from reading text while maintaining human readability, with implications for local multimodal model deployment and adversarial robustness."
 tags:
+  - adversarial-robustness
+  - analysis
+  - cautious
   - daily-digest
-  - vision
-  - security
+  - developer
+  - hacker-news
+  - intermediate
+  - mixfont
   - multimodal
-status: draft
+  - security
+  - vision
+  - vision-language-models
+  - visual-obfuscation
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Mixfont
+    role: publisher
+status: published
 ---
 
 Researchers have developed specialized fonts that remain easily readable by humans but resist interpretation by AI vision models, revealing significant robustness gaps in multimodal systems. This discovery has important implications for local deployment of vision-language models, particularly around security, privacy, and adversarial input handling.

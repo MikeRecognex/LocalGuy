@@ -3,12 +3,25 @@ title: "Ask HN: What is the AI setup for an experienced dev starting on a new pr
 date: 2026-06-08
 description: "A community discussion on Hacker News where experienced developers share their practical AI tooling preferences and workflows, offering real-world insights for setting up local LLM development environments."
 tags:
-  - daily-digest
-  - workflows
-  - tooling
   - best-practices
+  - bullish
   - community
-status: draft
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - hacker-news
+  - intermediate
+  - local-development-environment
+  - model-management
+  - model-quantization
+  - opinion
+  - rag-pipeline
+  - tooling
+  - workflows
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This Ask HN thread captures authentic practitioner advice on AI tooling setup from developers with substantial experience. Rather than vendor marketing or theoretical comparisons, you get real choices being made by people actively shipping projects. The thread likely covers preferences around local vs. cloud, specific model sizes and frameworks, integration patterns, and debugging approaches—invaluable context for anyone designing a new local LLM workflow.

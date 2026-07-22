@@ -3,11 +3,22 @@ title: "AgentKindergarten – Daycare for Your AI Coding Agents"
 date: 2026-07-11
 description: "New open-source framework provides lifecycle management and orchestration for AI coding agents, enabling local deployment and coordination of multiple autonomous agents for software development tasks."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
+  - ai-coding-assistants
+  - bullish
+  - daily-digest
+  - developer
   - framework
-status: draft
+  - hacker-news
+  - intermediate
+  - local-deployment
+  - open-source
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 AgentKindergarten is an emerging open-source framework designed to manage the lifecycle and coordination of AI coding agents, enabling developers to run multiple autonomous agents locally with proper supervision and orchestration. This tool addresses a practical gap in the local LLM ecosystem where managing multiple interacting agents has traditionally been challenging.
