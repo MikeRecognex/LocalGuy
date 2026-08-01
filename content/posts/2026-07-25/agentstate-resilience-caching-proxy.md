@@ -3,12 +3,27 @@ title: "Show HN: AgentState – Open-source Resilience and Caching Proxy for AI 
 date: 2026-07-25
 description: "An open-source proxy layer designed to add resilience, caching, and fault tolerance capabilities to local AI agent deployments."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
+  - bullish
+  - caching-proxy
+  - daily-digest
+  - developer
+  - edge-device
+  - hacker-news
   - infrastructure
+  - intermediate
+  - latency-optimization
+  - open-source
   - optimization
-status: draft
+  - showcase
+mentions:
+  - name: aleenz1102
+    role: developer
+    handle: "@aleenz1102"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 AgentState addresses a critical gap in local AI agent infrastructure by providing battle-tested resilience patterns and intelligent caching for agent-based systems. This open-source project enables developers to reduce redundant LLM calls, lower latency, and gracefully handle failures—essential considerations when deploying agents on-device or in self-hosted environments.

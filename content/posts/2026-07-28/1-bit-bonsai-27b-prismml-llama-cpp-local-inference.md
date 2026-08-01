@@ -3,12 +3,27 @@ title: "Deploying 1-Bit Bonsai-27B with PrismML and llama.cpp for Local Inferenc
 date: 2026-07-28
 description: "A new ultra-quantized 1-bit Bonsai-27B model enables efficient local inference using PrismML and llama.cpp with OpenAI-compatible APIs, dramatically reducing memory requirements for on-device deployment."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
+  - extreme-quantization
+  - intermediate
   - llama-cpp
-  - quantisation
-  - open-source
+  - marktechpost
+  - memory-compression
   - memory-optimization
-status: draft
+  - open-source
+  - prismml
+  - quantisation
+  - tutorial
+mentions:
+  - name: PrismML
+    role: developer
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 Extreme quantization continues to unlock new possibilities for local LLM deployment. The Bonsai-27B model quantized to 1-bit precision represents a significant breakthrough in reducing model size while maintaining usability, making it feasible to run capable models on severely resource-constrained devices.

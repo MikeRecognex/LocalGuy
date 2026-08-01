@@ -3,12 +3,24 @@ title: "Run a Local LLM on Raspberry Pi's Bare Metal—Linux Not Necessary"
 date: 2026-07-29
 description: "A practical guide demonstrates running LLMs directly on Raspberry Pi hardware without Linux, showcasing extreme resource optimization techniques for ultra-constrained devices."
 tags:
+  - advanced
+  - bare-metal-inference
+  - bullish
   - daily-digest
-  - embedded
-  - raspberry-pi
+  - developer
+  - edge-ai
+  - edge-device
   - edge-inference
+  - embedded
+  - hacksterio
   - optimization
-status: draft
+  - raspberry-pi
+  - resource-optimization
+  - tutorial
+mentions:
+  - name: Hackster.io
+    role: publisher
+status: published
 ---
 
 This guide pushes the boundary of where local LLM inference becomes possible, demonstrating that capable AI models can run on commodity single-board computers without traditional operating system overhead. By eliminating Linux and running directly on bare metal, the approach minimizes memory footprint and context-switching overhead—freeing maximum resources for model computation.

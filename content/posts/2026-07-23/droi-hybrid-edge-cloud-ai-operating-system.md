@@ -3,12 +3,24 @@ title: "Shanghai Droi Technology Launches DroiClaw AI Operating System with Hybr
 date: 2026-07-23
 description: "DroiClaw introduces a hybrid operating system designed to intelligently balance computation between edge devices and cloud infrastructure, offering a framework for practical local-first AI deployment at scale."
 tags:
+  - bullish
+  - cost-performance-optimization
   - daily-digest
   - edge-cloud
-  - operating-system
+  - edge-device
+  - edge-orchestration
+  - enterprise
   - hybrid-architecture
+  - hybrid-inference
   - inference-optimization
-status: draft
+  - intermediate
+  - operating-system
+  - release
+  - shanghai-droi-technology
+mentions:
+  - name: Shanghai Droi Technology
+    role: developer
+status: published
 ---
 
 DroiClaw's hybrid edge-cloud architecture represents a practical middle ground between fully local and fully cloud-based LLM deployment. By intelligently deciding which computations execute on-device versus in the cloud based on latency, privacy, and resource constraints, this operating system framework enables organizations to optimize both cost and performance in real-world scenarios where pure local or pure cloud approaches each have tradeoffs.

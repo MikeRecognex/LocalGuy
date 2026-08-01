@@ -3,12 +3,24 @@ title: "NVIDIA Releases Molt: Agentic RL Training Framework Scaling to Trillion-
 date: 2026-07-28
 description: "NVIDIA open-sources Molt, an agentic reinforcement learning framework enabling efficient training and fine-tuning of trillion-parameter models, with implications for local and self-hosted LLM optimization workflows."
 tags:
-  - daily-digest
-  - fine-tuning
-  - open-source
-  - training
+  - advanced
+  - agentic-rl
   - agents
-status: draft
+  - bullish
+  - daily-digest
+  - enterprise
+  - fine-tuning
+  - local-optimization
+  - model-fine-tuning
+  - open-source
+  - release
+  - tech-times
+  - training
+  - training-infrastructure
+mentions:
+  - name: Tech Times
+    role: publisher
+status: published
 ---
 
 Training infrastructure innovations directly impact the ability to optimize and customize open-weight models for local deployment. NVIDIA's release of Molt as an open-source framework demonstrates commitment to enabling more efficient agentic RL training approaches that scale across massive model sizes, which has downstream benefits for practitioners fine-tuning models for specific use cases.

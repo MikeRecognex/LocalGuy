@@ -3,12 +3,31 @@ title: "Code Mode Can Help Smaller LLM Models"
 date: 2026-07-25
 description: "A technique enabling smaller language models to improve performance through code-based reasoning and structured outputs, relevant for resource-constrained local deployments."
 tags:
+  - analysis
+  - bullish
+  - code-based-reasoning
+  - consumer-gpu
   - daily-digest
-  - optimization
-  - small-models
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - hallucination-mitigation
   - inference
+  - instavm
+  - intermediate
+  - on-device-inference
+  - optimization
   - performance
-status: draft
+  - small-language-models
+  - small-models
+  - structured-outputs
+mentions:
+  - name: InstaVM
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Code mode represents a promising optimization technique for practitioners running smaller language models locally. By leveraging structured code generation and execution patterns, smaller models can achieve performance characteristics closer to their larger counterparts without requiring additional computational resources.

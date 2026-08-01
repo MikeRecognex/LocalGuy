@@ -3,11 +3,26 @@ title: "Odysseus - PewDiePie's Self-Hosted AI Finally Runs Fast on Mac"
 date: 2026-07-25
 description: "Odysseus, a self-hosted AI project, achieves significant performance improvements on Apple Silicon Macs, enabling smooth local LLM inference on consumer hardware."
 tags:
-  - daily-digest
-  - mlx
   - apple-silicon
+  - bullish
+  - daily-digest
+  - developer
+  - intermediate
+  - korben
+  - local-inference
+  - mlx
   - optimization
-status: draft
+  - performance-optimization
+  - privacy-protection
+  - self-hosted-ai
+  - showcase
+mentions:
+  - name: PewDiePie
+    role: creator
+    handle: "@pewdiepie"
+  - name: Korben
+    role: publisher
+status: published
 ---
 
 Odysseus has achieved notable performance gains on Apple Silicon, making self-hosted AI inference practical for Mac users without requiring external hardware accelerators. This optimization breakthrough removes friction for developers working in Apple ecosystems who want to run local models efficiently.

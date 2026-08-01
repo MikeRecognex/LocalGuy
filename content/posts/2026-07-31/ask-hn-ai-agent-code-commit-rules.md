@@ -3,12 +3,24 @@ title: "Ask HN: What are your rules for letting an AI agent commit code?"
 date: 2026-07-31
 description: "Community guidelines and best practices for safely deploying AI agents with code generation capabilities in production CI/CD pipelines."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - deployment
-  - safety
   - automation
-status: draft
+  - cautious
+  - cicd-integration
+  - daily-digest
+  - deployment
+  - developer
+  - development-workflow
+  - hacker-news
+  - intermediate
+  - operational-security
+  - opinion
+  - safety
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM agents become more capable, practitioners are grappling with the practical challenge of safely integrating them into development workflows. This discussion thread explores real-world safeguards, approval processes, and automation rules that teams are implementing when allowing AI agents to commit code to repositories.

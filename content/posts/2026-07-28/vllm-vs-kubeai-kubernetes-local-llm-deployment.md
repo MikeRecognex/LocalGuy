@@ -3,12 +3,24 @@ title: "Open-Weight AI on Kubernetes: Comparing vLLM and KubeAI for Local Deploy
 date: 2026-07-28
 description: "A comprehensive guide examines vLLM and KubeAI as competing solutions for deploying open-weight models on Kubernetes clusters, helping teams choose the right inference framework for self-hosted LLM workloads."
 tags:
+  - advanced
+  - comparison
   - daily-digest
-  - vllm
-  - kubernetes
-  - open-source
   - deployment
-status: draft
+  - developer
+  - inference-frameworks
+  - inference-optimization
+  - kubernetes
+  - kubernetes-deployment
+  - neutral
+  - open-source
+  - self-hosted-llms
+  - sitepoint
+  - vllm
+mentions:
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 For organizations running self-hosted LLM infrastructure at scale, the choice between inference frameworks fundamentally impacts resource efficiency and operational complexity. vLLM and KubeAI represent two distinct architectural approaches to serving open-weight models on Kubernetes, each with different trade-offs in performance, ease of use, and feature completeness.

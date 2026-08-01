@@ -3,11 +3,25 @@ title: "Mozilla Firefox 153 ESR Adds On-Device AI Capabilities for Enterprise De
 date: 2026-07-24
 description: "Mozilla's latest Firefox ESR release introduces native on-device AI features designed for enterprise environments, enabling local inference directly within the browser without external API dependencies. This represents a significant step toward mainstream browser-based local LLM integration."
 tags:
+  - browser-based-inference
+  - bullish
   - daily-digest
-  - open-source
+  - data-sovereignty
+  - edge-device
   - edge-inference
   - enterprise
-status: draft
+  - enterprise-deployment
+  - ghacks
+  - in-browser-inference
+  - intermediate
+  - local-first-ai
+  - open-source
+  - privacy-compliance
+  - release
+mentions:
+  - name: gHacks
+    role: publisher
+status: published
 ---
 
 Firefox 153 ESR's integration of on-device AI capabilities marks a meaningful shift in how local inference can be deployed at scale. Rather than relying on centralized APIs or separate applications, Mozilla is embedding inference capabilities directly into the browser, enabling privacy-preserving AI features that enterprises can deploy without sending data to external services.

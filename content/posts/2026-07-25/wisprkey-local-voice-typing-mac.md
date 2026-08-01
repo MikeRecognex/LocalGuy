@@ -3,12 +3,25 @@ title: "Wisprkey – 100% Free and Local Voice Typing for Mac"
 date: 2026-07-25
 description: "A free, fully local voice-to-text application for macOS that processes speech entirely on-device without cloud dependency."
 tags:
+  - apple-silicon
+  - beginner-friendly
+  - bullish
   - daily-digest
-  - open-source
+  - developer
   - edge-inference
+  - hacker-news
+  - latency-reduction
+  - local-deployment
   - macos
+  - open-source
   - privacy
-status: draft
+  - privacy-focused
+  - showcase
+  - speech-to-text
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Wisprkey exemplifies the growing trend of practical, consumer-ready applications built on local LLM inference. By processing speech recognition entirely on the user's Mac, the project eliminates cloud dependency while maintaining privacy and reducing latency—key advantages over cloud-based alternatives.

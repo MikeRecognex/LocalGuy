@@ -3,12 +3,30 @@ title: "Titan Transients and LLM Scalability"
 date: 2026-07-29
 description: "An ACM Queue article examining scalability challenges and solutions for large language models, relevant to understanding infrastructure requirements for local deployment scenarios."
 tags:
+  - acm-queue
+  - advanced
+  - analysis
+  - consumer-gpu
   - daily-digest
-  - scalability
-  - infrastructure
-  - performance
   - deployment
-status: draft
+  - developer
+  - distributed-inference
+  - edge-inference
+  - hacker-news
+  - infrastructure
+  - llm-scalability
+  - model-serving
+  - multi-gpu
+  - neutral
+  - performance
+  - resource-optimization
+  - scalability
+mentions:
+  - name: ACM Queue
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Scalability remains a critical concern for practitioners deploying large language models locally or on-premises. [This ACM Queue article explores Titan Transients and LLM scalability](https://queue.acm.org/detail.cfm?id=3819082), diving into the architectural and performance considerations that emerge when moving beyond simple single-instance deployments.

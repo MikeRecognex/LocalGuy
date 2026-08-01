@@ -3,12 +3,25 @@ title: "Gemma 4's Quantized Models Finally Made Local AI Practical in Homelab"
 date: 2026-07-29
 description: "Google's Gemma 4 quantized models have reached a performance-to-resource ratio that makes local AI deployment genuinely practical for homelab enthusiasts. The breakthrough demonstrates how recent quantization advances are lowering barriers to self-hosted inference."
 tags:
+  - analysis
+  - bullish
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - quantisation
+  - edge-device
+  - energy-efficiency
   - gemma
-  - performance
+  - hobbyist
   - homelab
-status: draft
+  - how-to-geek
+  - intermediate
+  - model-quantization
+  - performance
+  - quantisation
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 Gemma 4's quantized variants represent a significant milestone for local LLM deployment, finally delivering the performance-per-watt efficiency that homelab operators need. The models strike an optimal balance between model capability and inference speed on consumer-grade hardware, making it viable to run capable AI agents without cloud infrastructure costs.

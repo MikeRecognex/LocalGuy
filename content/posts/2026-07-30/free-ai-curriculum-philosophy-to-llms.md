@@ -3,11 +3,25 @@ title: "I Built a Free AI Curriculum from Philosophy to LLMs"
 date: 2026-07-30
 description: "A comprehensive educational curriculum spanning foundational concepts through practical LLM implementation provides accessible learning resources for practitioners."
 tags:
+  - bullish
   - daily-digest
+  - developer
   - education
-  - open-source
+  - hacker-news
+  - how-machines-think
+  - inference-optimization
+  - intermediate
   - learning
-status: draft
+  - local-deployment
+  - open-source
+  - quantization-strategies
+  - tutorial
+mentions:
+  - name: How Machines Think
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A newly published free AI curriculum that bridges philosophical foundations with hands-on LLM development provides valuable resources for practitioners looking to deepen their understanding of local model deployment. Structured learning paths from fundamentals through advanced topics help developers make more informed decisions about architecture choices, quantization strategies, and inference optimization—all critical for effective local deployment.

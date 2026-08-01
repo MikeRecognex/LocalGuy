@@ -3,12 +3,24 @@ title: "Run Ollama Locally on Windows 11: Setup Guide"
 date: 2026-08-01
 description: "A practical walkthrough for deploying Ollama on Windows 11, lowering barriers for mainstream users to run local language models on consumer hardware."
 tags:
+  - beginner-friendly
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - ollama
-  - windows
+  - data-privacy
   - deployment
+  - hobbyist
+  - local-deployment
+  - ollama
+  - on-device-inference
+  - quasa
   - setup-guide
-status: draft
+  - tutorial
+  - windows
+mentions:
+  - name: Quasa
+    role: publisher
+status: published
 ---
 
 Ollama has become the go-to tool for local LLM deployment, and [this setup guide for Windows 11](https://quasa.io) addresses a critical gap: making on-device inference accessible to the majority of desktop users. Windows remains the dominant consumer OS, yet much local LLM documentation traditionally focused on Linux and macOS.

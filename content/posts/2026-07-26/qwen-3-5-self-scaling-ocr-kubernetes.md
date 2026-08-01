@@ -3,12 +3,28 @@ title: "Build Self-Scaling OCR Pipeline with Qwen 3.5 and Kubernetes"
 date: 2026-07-26
 description: "A production-ready course demonstrates deploying Qwen 3.5 for OCR workloads with Kubernetes auto-scaling, bridging the gap between local inference and distributed edge deployment."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - qwen
+  - developer
+  - edge-deployment
+  - edge-device
+  - hacker-news
+  - inference-optimization
   - kubernetes
-  - production-deployment
+  - kubernetes-orchestration
+  - neural-maze
   - ocr
-status: draft
+  - ocr-pipeline
+  - production-deployment
+  - qwen
+  - tutorial
+mentions:
+  - name: Neural Maze
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The neural-maze production OCR course demonstrates how to deploy Qwen 3.5 at scale using Kubernetes, offering practical insights for teams moving beyond single-machine local inference. This bridges the critical gap between local experimentation and production edge deployment, showing how to manage resource constraints and achieve auto-scaling for vision-language models.

@@ -3,12 +3,27 @@ title: "Enprompta: Prompt Registry, LLM Evals, and Observability for Production 
 date: 2026-07-29
 description: "A new platform providing prompt management, evaluation frameworks, and observability tools designed specifically for production LLM applications, enabling better governance and monitoring of local deployments."
 tags:
+  - bullish
   - daily-digest
-  - observability
+  - enprompta
+  - enterprise
   - evaluation
+  - hacker-news
+  - intermediate
+  - llm-evaluation
+  - llm-observability
+  - local-deployment
+  - observability
   - production
+  - prompt-management
+  - showcase
   - tools
-status: draft
+mentions:
+  - name: Enprompta
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Managing prompts, evaluating model outputs, and maintaining observability across production LLM systems remains an unsolved problem for many practitioners. [Enprompta addresses these gaps with a comprehensive platform for prompt registry, evaluation, and observability](https://enprompta.com/), enabling teams to maintain quality and reliability in production LLM applications.

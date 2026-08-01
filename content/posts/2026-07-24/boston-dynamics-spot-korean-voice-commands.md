@@ -3,11 +3,27 @@ title: "Boston Dynamics' Spot Robot Demonstrates On-Device LLM Integration with 
 date: 2026-07-24
 description: "Boston Dynamics' Spot robot at a Seoul museum now understands Korean voice commands through integrated on-device AI, showcasing practical deployment of local language models on physical robots. This deployment demonstrates end-to-end local inference in production robotics applications."
 tags:
+  - boston-dynamics
+  - bullish
   - daily-digest
-  - robotics
+  - developer
+  - edge-device
   - edge-inference
+  - intermediate
   - multilingual
-status: draft
+  - multilingual-models
+  - on-device-inference
+  - robotics
+  - showcase
+  - streetinsider
+  - voice-control
+  - voice-interface
+mentions:
+  - name: Boston Dynamics
+    role: developer
+  - name: StreetInsider
+    role: publisher
+status: published
 ---
 
 Boston Dynamics' deployment of Korean voice command understanding on Spot robots represents a concrete, production-grade example of on-device LLM integration in physical AI systems. Rather than relying on cloud-based speech recognition and language understanding, Spot processes voice commands locally, reducing latency and dependency on external services—critical requirements for autonomous systems requiring real-time responsiveness.

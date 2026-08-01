@@ -3,12 +3,26 @@ title: "NightRun UEFI Application Boots Local LLM on Raspberry Pi 5 and x86 PCs 
 date: 2026-07-30
 description: "NightRun enables running local LLMs directly from UEFI firmware without a traditional operating system, supporting both Raspberry Pi 5 and x86 architectures. This breakthrough allows ultra-lightweight inference on bare metal hardware."
 tags:
-  - daily-digest
-  - hardware
-  - edge-deployment
-  - raspberry-pi
+  - advanced
   - bare-metal
-status: draft
+  - bare-metal-inference
+  - bullish
+  - cnx-software
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-ai
+  - edge-deployment
+  - edge-device
+  - hardware
+  - os-less-deployment
+  - raspberry-pi
+  - release
+  - uefi-deployment
+mentions:
+  - name: CNX Software
+    role: publisher
+status: published
 ---
 
 NightRun represents a significant shift in local LLM deployment paradigms by eliminating the need for a full operating system. By running LLMs directly at the UEFI level, developers can achieve faster boot times, reduced memory overhead, and improved security through a smaller attack surface. This approach is particularly valuable for edge devices with limited resources.

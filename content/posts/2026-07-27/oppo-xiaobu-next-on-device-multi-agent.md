@@ -3,12 +3,24 @@ title: "OPPO Launches Xiaobu Next Beta, Debuts On-Device Multi-Agent System on S
 date: 2026-07-27
 description: "OPPO has released a beta version of Xiaobu Next, an on-device multi-agent AI system that runs directly on smartphones without cloud connectivity. This represents a significant milestone in bringing advanced LLM capabilities to consumer mobile hardware."
 tags:
-  - daily-digest
-  - mobile
-  - on-device-inference
+  - advanced
+  - agent-orchestration
   - agents
+  - bullish
+  - daily-digest
+  - developer
   - edge-deployment
-status: draft
+  - edge-device
+  - mobile
+  - model-optimization
+  - multi-agent-systems
+  - on-device-inference
+  - oppo
+  - release
+mentions:
+  - name: OPPO
+    role: developer
+status: published
 ---
 
 OPPO's Xiaobu Next represents a major shift toward on-device execution of complex AI systems, moving beyond simple chatbots to multi-agent architectures that can coordinate multiple specialized models. Running multi-agent systems locally on smartphones is technically challenging due to memory and compute constraints, making OPPO's deployment noteworthy. This suggests that quantization, model distillation, and architecture optimization techniques have matured enough to enable sophisticated agentic behavior on consumer-grade hardware.

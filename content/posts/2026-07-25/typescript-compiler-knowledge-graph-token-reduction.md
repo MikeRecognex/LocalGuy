@@ -3,12 +3,25 @@ title: "Show HN: TS Compiler Knowledge Graph Reducing AI Tokens About 90%"
 date: 2026-07-25
 description: "A novel approach using TypeScript compiler knowledge graphs to reduce LLM context requirements by 90%, enabling faster and more efficient local inference."
 tags:
+  - advanced
+  - bullish
+  - code-analysis
+  - consumer-gpu
+  - context-compression
   - daily-digest
-  - optimization
-  - memory-optimization
+  - developer
+  - hacker-news
   - inference
+  - inference-efficiency
+  - knowledge-graph
+  - memory-optimization
   - open-source
-status: draft
+  - optimization
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This breakthrough demonstrates how structured domain knowledge can dramatically reduce token consumption in LLM applications. By converting TypeScript code analysis into a semantic knowledge graph, developers can feed LLMs a highly compressed representation instead of raw source code—achieving 90% reduction in token count while maintaining full contextual information.

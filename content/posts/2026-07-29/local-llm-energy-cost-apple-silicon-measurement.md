@@ -3,12 +3,23 @@ title: "How Much Does a Local LLM Actually Cost to Run? Energy Costs Measured on
 date: 2026-07-29
 description: "A detailed analysis quantifies the actual power consumption and operational costs of running local LLMs on Apple Silicon hardware, providing practical benchmarks for cost-conscious deployment decisions."
 tags:
-  - daily-digest
-  - benchmark
-  - hardware
+  - analysis
   - apple-silicon
+  - benchmark
+  - bullish
+  - cost-analysis
+  - daily-digest
+  - developer
   - energy-efficiency
-status: draft
+  - hardware
+  - intermediate
+  - power-consumption
+  - total-cost-of-ownership
+  - towards-data-science
+mentions:
+  - name: Towards Data Science
+    role: publisher
+status: published
 ---
 
 Understanding the true operational cost of local inference is essential for deployment decisions, yet precise measurements remain scarce. This analysis fills that gap by systematically measuring power draw across different model sizes and configurations on Apple Silicon, providing concrete data that practitioners can use to evaluate total cost of ownership versus cloud alternatives.

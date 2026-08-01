@@ -3,12 +3,24 @@ title: "Running Local LLMs on Raspberry Pi: Exploring Edge Inference Boundaries"
 date: 2026-07-28
 description: "A practical experiment deploying local LLMs on Raspberry Pi hardware reveals the realistic constraints and surprising possibilities of running models on ultra-low-power edge devices."
 tags:
+  - analysis
   - daily-digest
-  - hardware
+  - edge-device
   - edge-inference
+  - hardware
+  - hobbyist
+  - how-to-geek
+  - intermediate
+  - llamacpp
   - memory-optimization
+  - model-quantization
+  - neutral
   - practical-guide
-status: draft
+  - showcase
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 The Raspberry Pi community continues to push the boundaries of what's possible with minimal compute resources, and local LLM deployment on these devices reveals both the limitations and surprising capabilities of extreme edge inference. This experiment provides valuable ground truth about the actual performance you can expect when deploying models on devices with measured megabytes of RAM rather than gigabytes.

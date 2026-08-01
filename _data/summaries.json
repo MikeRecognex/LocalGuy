@@ -481,8 +481,8 @@
       "postCount": 10
     },
     "2026-06-12": {
-      "text": "AMD introduces PACE plugin for efficient CPU-based vLLM inference.",
-      "postCount": 10
+      "text": "AMD PACE plugin enables efficient CPU-based inference for local LLM deployment.",
+      "postCount": 9
     },
     "2026-06-13": {
       "text": "Claude Code integrates with local LLMs for hybrid workflows.",
@@ -549,8 +549,8 @@
       "postCount": 10
     },
     "2026-06-29": {
-      "text": "Gemma model runs locally on a $300 mini PC, replacing ChatGPT.",
-      "postCount": 10
+      "text": "Gemma model runs on $300 mini PC, replacing ChatGPT for practical tasks.",
+      "postCount": 9
     },
     "2026-06-30": {
       "text": "Claude and local LLMs optimize AI workflows with hybrid BM25 retrieval.",
@@ -577,8 +577,8 @@
       "postCount": 10
     },
     "2026-07-06": {
-      "text": "Apple's M7 chip enhances MacBook local AI performance.",
-      "postCount": 10
+      "text": "Google's Android 17 integrates Gemma 4 for advanced on-device AI capabilities.",
+      "postCount": 9
     },
     "2026-07-07": {
       "text": "AMD's Ryzen AI Halo mini PC enables local LLM inference with open-source stack.",
@@ -597,8 +597,8 @@
       "postCount": 10
     },
     "2026-07-11": {
-      "text": "AMD releases ZenDNN 6.0 for EPYC CPUs with FP16 acceleration.",
-      "postCount": 10
+      "text": "Ollama secures $65M in funding for local AI development tools.",
+      "postCount": 9
     },
     "2026-07-12": {
       "text": "Claude alternatives and Google Pixel leverage local AI for privacy and cost control.",
@@ -613,8 +613,8 @@
       "postCount": 5
     },
     "2026-07-15": {
-      "text": "Gemma 4 model expands on-device AI for Pixel phones with local LLM optimization.",
-      "postCount": 10
+      "text": "Gemma 4 model expands on-device AI for Pixel phones with on-device optimization.",
+      "postCount": 9
     },
     "2026-07-16": {
       "text": "PrismML compresses AI models 15x for iPhone deployment.",
@@ -633,8 +633,8 @@
       "postCount": 10
     },
     "2026-07-20": {
-      "text": "Nubia's smartphone integrates on-device AI processing with local language models.",
-      "postCount": 10
+      "text": "Claude integrates with local LLMs for offline coding assistance and enhanced privacy.",
+      "postCount": 9
     },
     "2026-07-21": {
       "text": "AMD acquires FastFlowLM for on-device AI inferencing optimization.",
@@ -643,6 +643,46 @@
     "2026-07-22": {
       "text": "Qualcomm integrates on-device AI into budget chips with local inference capabilities.",
       "postCount": 10
+    },
+    "2026-07-23": {
+      "text": "AMD GPUs rival Nvidia for local LLMs with competitive benchmark performance.",
+      "postCount": 5
+    },
+    "2026-07-24": {
+      "text": "Apertus 1.5 enhances local AI deployment with on-device model inference improvements.",
+      "postCount": 10
+    },
+    "2026-07-25": {
+      "text": "Gemini Notebook demonstrates on-device AI with modern LLMs.",
+      "postCount": 10
+    },
+    "2026-07-26": {
+      "text": "Apertus 1.5 offers transparent training data for local LLM deployment.",
+      "postCount": 10
+    },
+    "2026-07-27": {
+      "text": "Netflix uses NVIDIA Triton and vLLM for efficient LLM deployment.",
+      "postCount": 10
+    },
+    "2026-07-28": {
+      "text": "Bonsai-27B model enables efficient local inference with PrismML and llama.cpp.",
+      "postCount": 10
+    },
+    "2026-07-29": {
+      "text": "Gemma 4's quantized models enable practical local AI deployment on homelab hardware.",
+      "postCount": 10
+    },
+    "2026-07-30": {
+      "text": "Nvidia uses AI agents to accelerate chip engineering workflows.",
+      "postCount": 10
+    },
+    "2026-07-31": {
+      "text": "AMD Ryzen AI PCs demonstrate 18 hours weekly productivity gains in project management tasks.",
+      "postCount": 10
+    },
+    "2026-08-01": {
+      "text": "Ollama runs locally on Windows 11 with new setup guide.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -715,8 +755,8 @@
       "postCount": 65
     },
     "2026-06-07": {
-      "text": "<p>Big stories this week include Apple's on-device AI stack rebuild and Google's Gemini models running offline on macOS. </p>\n<p>Standout posts include \"Ask HN: What is the AI setup for an experienced dev starting on a new project?\" and \"DockSec: Open-Source AI-Powered Container Security Scanner for Self-Hosted Deployments\". </p>",
-      "postCount": 65
+      "text": "<p>Big stories this week include Apple's on-device AI stack rebuild and Google's DiffusionGemma model for faster local text generation.</p>\n<p>Don't miss \"Apple Unveils AFM 3 Core Advanced\" and \"Google Releases Gemma 4 QAT Models\" for insights into local LLM deployment advancements.</p>",
+      "postCount": 64
     },
     "2026-06-14": {
       "text": "<p>Samsung's Exynos 2600 and Qualcomm's Snapdragon Reality Elite made headlines with significant performance improvements for on-device AI inference. Apple also unveiled Core AI for on-device generative models.</p>\n<p>Don't miss \"My Local LLM and Claude Are Helping Me Make My Dream Game\" and \"Stop Guessing Which Local AI Models Fit Your Hardware — This Free Tool Does It for You\" for practical insights into local LLM deployment and optimization.</p>",
@@ -727,20 +767,24 @@
       "postCount": 55
     },
     "2026-06-28": {
-      "text": "<p>Big stories this week include the release of LongCat-2.0 for handling long-context sequences locally and Amazon's investment in custom silicon for on-device AI inference in Echo and Fire TV devices.</p>\n<p>Don't miss \"Ollama vs LM Studio vs Jan: Free Local LLM Frameworks Compared\" for a comprehensive evaluation of open-source frameworks, and \"SigMap: 97% Token Reduction for AI Coding Sessions\" for a breakthrough in token optimization with significant implications for local LLM deployment.</p>",
-      "postCount": 60
+      "text": "<p>Big stories this week include Google's Gemma AI running locally on a $300 mini PC and the release of LongCat-2.0 for handling long-context sequences locally.</p>\n<p>Don't miss \"Show HN: Brain.md\" and \"Ollama vs LM Studio vs Jan\" for insights into local LLM deployment and model comparisons.</p>",
+      "postCount": 59
     },
     "2026-07-05": {
-      "text": "<p>Big stories this week include Apple's MacBook refresh with the M7 chip for enhanced local AI and Samsung's UFS 5.0 storage optimized for on-device AI applications.</p>\n<p>Don't miss \"Ollama Runs 32B Local AI Models on a $599 Mac via Quantization for Free\" and \"Exploiting Sparsity for Long Context Inference: Million Token on Commodity GPUs\" for breakthroughs in local LLM deployment.</p>",
-      "postCount": 65
+      "text": "<p>Big stories include Apple's M7 chip and Google's Android 17 with Gemma 4.</p>\n<p>Check out \"Ollama Runs 32B Local AI Models\" and \"Tencent Open-Sources Hy3 295B MoE Model\" for local LLM insights.</p>",
+      "postCount": 63
     },
     "2026-07-12": {
-      "text": "<p>Apple's M6, M7, and M8 chip roadmap and Qualcomm's Snapdragon Reality Elite processor were major stories.</p>\n<p>Read \"Apple's M6, M7, and M8 Chip Roadmap Shifts Focus Toward AI\" and \"Qualcomm Unveils Snapdragon Reality Elite for On-Device AI and Spatial Computing\" for details.</p>",
-      "postCount": 65
+      "text": "<p>Apple's M6, M7, and M8 chip roadmap and Qualcomm's Snapdragon Reality Elite processor were major stories.</p>\n<p>Don't miss \"Apple's Failed Self-Driving Car Program\" and \"Nvidia Boosts Token Throughput 5x\".</p>",
+      "postCount": 64
     },
     "2026-07-19": {
-      "text": "<p>Nubia's AI agent smartphone and Qualcomm's next budget chip with on-device AI capabilities made headlines. AMD acquired FastFlowLM to accelerate on-device AI inferencing.</p>\n<p>Posts like \"Claude Code With a Local LLM\" and \"On-Device AI vs Cloud AI\" explored hybrid workflows and trade-offs. \"llama.cpp b10075\" introduced local AI runtime upgrades.</p>",
-      "postCount": 25
+      "text": "<p>Big stories this week include AMD's acquisition of FastFlowLM and the release of llama.cpp b10075 with four local AI runtime upgrades. </p>\n<p>Standout posts include \"Claude Code With a Local LLM Running Offline\" and \"On-Device AI vs Cloud AI\". </p>",
+      "postCount": 59
+    },
+    "2026-07-26": {
+      "text": "<p>This week's top stories include the release of Kioxia's UFS 5.0 embedded flash memory and Nvidia's Molt framework for training trillion-parameter models.</p>\n<p>Don't miss \"Testing Top Local LLMs Against ChatGPT and Claude\" and \"Run Ollama Locally on Windows 11: Setup Guide\" for practical insights on local LLM deployment.</p>",
+      "postCount": 55
     }
   }
 }

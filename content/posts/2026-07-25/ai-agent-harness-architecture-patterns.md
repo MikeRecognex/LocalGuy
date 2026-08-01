@@ -3,12 +3,26 @@ title: "The Interesting Part of an Agent Harness is What You Add on Top"
 date: 2026-07-25
 description: "A technical exploration of agent harness architecture patterns and best practices for building extensible, production-ready AI agent systems."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - analysis
   - architecture
-  - infrastructure
+  - bullish
+  - context-management
+  - context-window-management
+  - daily-digest
+  - developer
   - frameworks
-status: draft
+  - hacker-news
+  - infrastructure
+  - intermediate
+  - on-device-deployment
+  - state-management
+  - tool-use
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This architectural guide provides valuable patterns for practitioners building local agent systems. Rather than focusing on the core LLM inference, the piece emphasizes the critical infrastructure layer surrounding agents—error handling, state management, tool integration, and extensibility mechanisms that separate prototype projects from production deployments.

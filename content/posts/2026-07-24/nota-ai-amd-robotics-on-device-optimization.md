@@ -3,11 +3,26 @@ title: "Nota AI Joins AMD Robotics Partner Network to Expand On-Device AI Optimi
 date: 2026-07-24
 description: "Nota AI's partnership with AMD's robotics network will accelerate development of optimised on-device AI solutions for physical AI applications, extending model compression and inference optimisation technology into the robotics sector. This collaboration targets real-time inference constraints critical for autonomous systems."
 tags:
+  - bullish
   - daily-digest
+  - developer
+  - edge-device
   - hardware
+  - hardware-aware-optimization
+  - intermediate
+  - model-compression
+  - news
+  - nota-ai
   - optimization
+  - pr-newswire
+  - real-time-inference
   - robotics
-status: draft
+mentions:
+  - name: Nota AI
+    role: partner
+  - name: PR Newswire
+    role: publisher
+status: published
 ---
 
 Nota AI's specialisation in on-device model optimisation combined with AMD's robotics infrastructure creates a focused initiative for deploying efficient AI inference on resource-constrained edge devices. Robotics represents one of the most demanding use cases for local LLM deployment, requiring real-time inference with strict latency budgets and limited compute availability.

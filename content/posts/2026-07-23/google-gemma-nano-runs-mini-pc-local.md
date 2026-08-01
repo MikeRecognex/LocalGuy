@@ -3,12 +3,21 @@ title: "Google's Gemma AI Runs Locally on a $300 Mini PC, and It Replaced ChatGP
 date: 2026-07-23
 description: "Google's Gemma model demonstrates practical feasibility of running capable local LLMs on ultra-budget hardware, showing that effective AI inference is now accessible to mainstream users without cloud dependency."
 tags:
+  - beginner-friendly
+  - budget-hardware
+  - bullish
+  - cost-saving
+  - cpu-only
   - daily-digest
   - gemma
+  - hobbyist
   - mini-pc
-  - budget-hardware
+  - model-optimization
+  - model-quantization
+  - offline-inference
   - practical-deployment
-status: draft
+  - showcase
+status: published
 ---
 
 A major milestone for local LLM adoption: Google's Gemma model successfully runs on a $300 mini PC with enough capability to replace cloud-based ChatGPT for everyday tasks. This real-world test proves that the barrier to entry for self-hosted inference has dramatically lowered, making it accessible to consumer budgets rather than requiring enterprise-grade hardware investments.

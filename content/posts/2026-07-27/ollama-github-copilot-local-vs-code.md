@@ -3,12 +3,18 @@ title: "GitHub Copilot With Ollama: Run Local AI Models In VS Code Offline"
 date: 2026-07-27
 description: "A new integration enables developers to use Ollama's open-source LLMs directly as a GitHub Copilot replacement within VS Code, allowing completely offline code completion without cloud dependencies."
 tags:
-  - daily-digest
-  - ollama
-  - vscode
+  - beginner-friendly
+  - bullish
   - code-completion
+  - daily-digest
+  - developer
   - local-inference
-status: draft
+  - offline-code-completion
+  - ollama
+  - privacy-preservation
+  - showcase
+  - vscode
+status: published
 ---
 
 Ollama, the popular framework for running LLMs locally, can now be integrated directly into VS Code as a GitHub Copilot alternative. This development is a major milestone for local LLM adoption because code completion is one of the most demanded use cases, and having a completely offline, privacy-preserving option removes a significant barrier to adoption for developers and enterprises concerned about code leakage to cloud services.

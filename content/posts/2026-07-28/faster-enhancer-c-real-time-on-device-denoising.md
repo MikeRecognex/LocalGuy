@@ -3,12 +3,24 @@ title: "faster-enhancer.c: C Library for Stable Real-Time On-Device Denoising"
 date: 2026-07-28
 description: "A new lightweight C library enables efficient real-time audio and signal denoising directly on-device, optimising for minimal latency and memory footprint on edge hardware."
 tags:
+  - audio-denoising
+  - audio-preprocessing
+  - bullish
   - daily-digest
-  - open-source
+  - developer
+  - edge-device
   - edge-inference
+  - hacker-news
+  - intermediate
+  - latency-optimization
   - memory-optimization
+  - open-source
+  - release
   - signal-processing
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The release of [faster-enhancer.c](https://github.com/kdrkdrkdr/faster-enhancer.c) demonstrates growing momentum in optimising inference workloads for resource-constrained environments. This C library brings stable real-time denoising capabilities directly to edge devices without requiring cloud connectivity or heavy dependencies.

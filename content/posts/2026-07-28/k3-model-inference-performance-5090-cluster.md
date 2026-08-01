@@ -3,12 +3,26 @@ title: "K3 Model Achieves 20 Tokens/Second on 80x RTX 5090 Cluster"
 date: 2026-07-28
 description: "Benchmark results show K3 model inference achieving 20 tokens per second across an 80-GPU RTX 5090 setup, providing insights into scaling strategies for high-throughput local deployments."
 tags:
-  - daily-digest
+  - advanced
   - benchmark
+  - benchmark-report
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - distributed-inference
+  - gpu
+  - hacker-news
   - hardware
   - inference-speed
-  - gpu
-status: draft
+  - multi-gpu-inference
+  - multi-gpu-scaling
+  - neutral
+  - tensor-parallelism
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A recent benchmark demonstrates K3 model inference reaching 20 tokens per second on a cluster of 80 NVIDIA RTX 5090 GPUs, offering valuable insights for practitioners planning multi-GPU local deployments. [The reported performance](https://twitter.com/totheagi/status/2081855316443205717) reflects the practical throughput achievable with current high-end consumer hardware and distributed inference frameworks.

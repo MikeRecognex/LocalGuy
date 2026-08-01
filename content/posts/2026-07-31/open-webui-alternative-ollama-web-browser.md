@@ -3,12 +3,23 @@ title: "Simple Open WebUI Alternative for Running Ollama Models in Web Browser"
 date: 2026-07-31
 description: "A new lightweight web interface alternative has emerged for running Ollama models directly in browsers, offering a simpler setup compared to Open WebUI. This development provides local LLM practitioners with more flexible deployment options for on-device inference."
 tags:
+  - beginner-friendly
+  - bullish
   - daily-digest
-  - ollama
-  - open-source
-  - web-interface
+  - developer
   - edge-inference
-status: draft
+  - its-foss
+  - local-deployment
+  - ollama
+  - on-device-inference
+  - open-source
+  - release
+  - web-interface
+  - web-ui
+mentions:
+  - name: It's FOSS
+    role: publisher
+status: published
 ---
 
 The local LLM community continues to see tooling improvements with the emergence of a lightweight alternative to Open WebUI designed specifically for running Ollama models in web browsers. This new solution addresses a key pain point for practitioners seeking simpler deployment without the overhead of heavier web frameworks.

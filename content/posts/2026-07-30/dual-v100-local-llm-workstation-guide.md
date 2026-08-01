@@ -3,12 +3,25 @@ title: "Building a Dual V100 AI Workstation for Local LLMs"
 date: 2026-07-30
 description: "A practical guide to constructing a high-performance local LLM inference workstation using dual NVIDIA V100 GPUs, providing both cost-effective and capable hardware for serious local deployment work."
 tags:
+  - bullish
+  - cost-saving
   - daily-digest
-  - hardware
+  - datacenter-gpu
+  - developer
   - gpu
-  - workstation
+  - hacksterio
+  - hardware
+  - hardware-setup
   - inference-optimization
-status: draft
+  - intermediate
+  - local-inference
+  - multi-gpu-inference
+  - tutorial
+  - workstation
+mentions:
+  - name: Hackster.io
+    role: publisher
+status: published
 ---
 
 For practitioners requiring serious local LLM capabilities without cloud costs, building a dedicated workstation is an increasingly viable option. A dual V100 setup offers substantial compute for running larger models, fine-tuning, and batch inference while remaining more cost-effective than sustained cloud API usage. This guide provides practical implementation details that help teams understand hardware selection, configuration, and optimization for local deployments.

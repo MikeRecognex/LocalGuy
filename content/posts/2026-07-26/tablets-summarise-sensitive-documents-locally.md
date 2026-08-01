@@ -3,12 +3,26 @@ title: "No Wi-Fi, No Data Transfer, Tablets Can Now Summarise Sensitive Document
 date: 2026-07-26
 description: "Tablets can now process and summarize sensitive documents entirely on-device without requiring internet connectivity or data transfer. This advancement demonstrates practical deployment of LLMs on mobile hardware for enterprise document processing."
 tags:
+  - bullish
   - daily-digest
-  - on-device
-  - mobile-inference
+  - data-privacy
   - document-processing
+  - document-summarization
+  - edge-device
+  - enterprise
+  - intermediate
+  - local-summarization
+  - mobile-inference
+  - model-optimization
+  - news
+  - offline-inference
+  - on-device
   - privacy
-status: draft
+  - qoo-media
+mentions:
+  - name: Qoo Media
+    role: publisher
+status: published
 ---
 
 Local document processing on tablets has reached a practical inflection point, enabling sensitive document summarization entirely on-device. This capability addresses a critical need for enterprises handling confidential information—the ability to process documents without uploading to cloud services or maintaining constant connectivity.

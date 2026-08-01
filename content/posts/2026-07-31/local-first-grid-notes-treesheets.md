@@ -3,12 +3,24 @@ title: "A local-first grid of grids for notes (similar to treesheets)"
 date: 2026-07-31
 description: "New open-source tool for local-first note-taking with hierarchical grid structure, designed for offline operation and on-device storage without cloud dependencies."
 tags:
+  - bullish
   - daily-digest
+  - data-privacy
+  - developer
+  - edge-deployment
+  - edge-device
+  - intermediate
   - local-first
-  - tools
-  - productivity
   - open-source
-status: draft
+  - productivity
+  - release
+  - semantic-search
+  - tanji-systems
+  - tools
+mentions:
+  - name: Tanji Systems
+    role: developer
+status: published
 ---
 
 Tanji Systems has released Ingrid, a local-first note-taking application with a hierarchical grid structure designed for offline use and personal data ownership. The tool emphasizes keeping all data on-device while providing powerful organizational and query capabilities similar to Treesheets.

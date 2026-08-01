@@ -3,12 +3,27 @@ title: "Rent the Intelligence. Own the Memory"
 date: 2026-07-31
 description: "Knowledge Labs explores a hybrid deployment strategy where computation can be outsourced while maintaining local control over model memory and context."
 tags:
+  - analysis
+  - bullish
   - daily-digest
-  - memory-optimization
   - deployment
-  - hybrid-inference
+  - developer
   - edge-computing
-status: draft
+  - edge-device
+  - hacker-news
+  - hybrid-deployment
+  - hybrid-inference
+  - intermediate
+  - knowledge-labs
+  - memory-optimization
+  - privacy-compliance
+  - split-model-inference
+mentions:
+  - name: Knowledge Labs
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Knowledge Labs presents an interesting architectural approach to local LLM deployment: separating intelligence (inference computation) from memory (context and state storage). This hybrid model allows practitioners to run expensive forward passes remotely while keeping all contextual data and memory local, offering privacy and latency benefits without the full computational burden.

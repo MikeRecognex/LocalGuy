@@ -3,12 +3,28 @@ title: "Can a 2.8T Model Run on a Single Node of Nvidia B300 X8?"
 date: 2026-07-29
 description: "A practical deployment analysis examining whether ultra-large trillion-parameter models can be efficiently served on a single high-end GPU node, providing real-world benchmarks for modern hardware."
 tags:
-  - daily-digest
-  - hardware
+  - advanced
+  - analysis
   - benchmark
-  - inference
+  - bullish
+  - daily-digest
+  - datacenter-gpu
+  - enterprise
+  - fixstars
   - gpu
-status: draft
+  - hacker-news
+  - hardware
+  - hardware-procurement
+  - inference
+  - inference-latency
+  - model-quantization
+  - single-node-inference
+mentions:
+  - name: Fixstars
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The race to deploy increasingly larger models on single nodes continues with new GPU architectures. [This analysis examines whether a 2.8 trillion-parameter model can run on an Nvidia B300 X8 node](https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/), providing critical practical insights for organizations evaluating next-generation hardware investments.

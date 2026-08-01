@@ -3,12 +3,26 @@ title: "Triton Control: Open-Source Control Plane for Nvidia Triton on Kubernete
 date: 2026-07-29
 description: "A new open-source project providing a control plane for managing Nvidia Triton Inference Server deployments on Kubernetes, streamlining multi-model serving infrastructure."
 tags:
+  - advanced
+  - bullish
   - daily-digest
-  - open-source
-  - kubernetes
+  - datacenter-gpu
   - deployment
+  - developer
+  - edge-device
+  - hacker-news
+  - kubernetes
+  - kubernetes-orchestration
+  - model-lifecycle-management
+  - multi-model-serving
+  - on-premises-deployment
+  - open-source
+  - release
   - triton
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Production-grade tooling for managing local and on-premises LLM deployments is essential as adoption scales. [Triton Control introduces an open-source control plane](https://github.com/ai-lab-tech/triton-control) that abstracts away the complexity of managing Nvidia Triton Inference Server deployments across Kubernetes clusters, addressing a critical gap in the self-hosted LLM stack.

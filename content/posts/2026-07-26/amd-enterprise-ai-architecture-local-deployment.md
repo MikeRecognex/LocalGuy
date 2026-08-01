@@ -3,12 +3,24 @@ title: "AMD Advancing AI 2026: Enterprise AI Architecture Basics for Startup Fou
 date: 2026-07-26
 description: "AMD is providing enterprise AI architecture guidance focused on practical deployment patterns. The content addresses foundational architecture decisions for startups building AI systems, including considerations for local and edge inference infrastructure."
 tags:
-  - daily-digest
-  - hardware
-  - enterprise-deployment
-  - architecture
   - amd
-status: draft
+  - architecture
+  - bullish
+  - daily-digest
+  - edge-device
+  - enterprise
+  - enterprise-architecture
+  - enterprise-deployment
+  - hardware
+  - intermediate
+  - local-vs-cloud
+  - model-optimization
+  - quasa
+  - tutorial
+mentions:
+  - name: Quasa
+    role: publisher
+status: published
 ---
 
 AMD's 'Advancing AI 2026' initiative is publishing enterprise AI architecture guidance specifically tailored for startup founders, covering the foundational decisions that determine deployment strategy. This includes analysis of when and why to choose local inference versus cloud processing—a critical architectural decision for teams building AI applications.

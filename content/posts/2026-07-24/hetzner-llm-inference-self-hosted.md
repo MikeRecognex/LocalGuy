@@ -3,12 +3,32 @@ title: "Hetzner Working on LLM Inference for Self-Hosted Deployments"
 date: 2026-07-24
 description: "Infrastructure provider Hetzner is developing LLM inference capabilities, expanding options for self-hosted and on-device model deployment. This move signals growing demand for accessible, cost-effective local inference solutions."
 tags:
+  - bullish
+  - cost-effective-inference
+  - cost-saving
   - daily-digest
-  - self-hosted
-  - infrastructure
+  - dedicated-infrastructure
   - deployment
+  - developer
+  - hacker-news
   - hardware
-status: draft
+  - hetzner
+  - inference-infrastructure
+  - infrastructure
+  - intermediate
+  - news
+  - self-hosted
+  - self-hosted-deployment
+  - self-hosting
+  - sliplane
+mentions:
+  - name: Hetzner
+    role: infrastructure-provider
+  - name: Sliplane
+    role: publisher
+  - name: Hacker News
+    role: source
+status: published
 ---
 
 Hetzner, a major European hosting provider, is actively working on LLM inference capabilities tailored for self-hosted deployments. This development is significant for practitioners looking to run models on dedicated infrastructure without relying on cloud APIs or proprietary platforms.

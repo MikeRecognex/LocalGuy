@@ -3,12 +3,24 @@ title: "Transept: AI Translation Workspace Prioritizing Human-Centric Design"
 date: 2026-07-24
 description: "Transept launches an AI translation workspace that emphasizes human control and oversight. The platform demonstrates practical applications of local or hybrid LLM deployment for professional translation workflows."
 tags:
-  - daily-digest
   - applications
+  - bullish
+  - daily-digest
+  - developer
   - framework
+  - hacker-news
+  - human-in-the-loop
+  - hybrid-deployment
+  - intermediate
   - optimization
+  - release
   - tools
-status: draft
+  - transept
+  - translation-workflow
+mentions:
+  - name: Transept
+    role: developer
+status: published
 ---
 
 Transept introduces a human-first approach to AI-powered translation, offering a workspace designed to keep professionals in control of the translation process. The platform exemplifies how thoughtfully designed interfaces can maximize the value of local or hybrid LLM deployments in professional contexts.
