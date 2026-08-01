@@ -1,8 +1,41 @@
 const fs = require("fs");
+const path = require("path");
 const taxonomy = require("../../_data/tag-taxonomy.js");
+
+// Ingestion sometimes re-creates the same story on a later date with an
+// identical filename. Permalinks are date-less, so duplicates collide and
+// break the build. Detect them once at build start and suppress all but the
+// earliest copy (posts live in date-named dirs, so lexical sort = date sort).
+const duplicatePaths = (() => {
+  const postsDir = __dirname;
+  const bySlug = new Map();
+  for (const dir of fs.readdirSync(postsDir).sort()) {
+    const dirPath = path.join(postsDir, dir);
+    if (!fs.statSync(dirPath).isDirectory()) continue;
+    for (const file of fs.readdirSync(dirPath)) {
+      if (!file.endsWith(".md")) continue;
+      if (!bySlug.has(file)) bySlug.set(file, []);
+      bySlug.get(file).push(path.join(dirPath, file));
+    }
+  }
+  const skip = new Set();
+  for (const [file, paths] of bySlug) {
+    for (const p of paths.slice(1)) {
+      skip.add(p);
+      console.warn(`[posts] Suppressing duplicate post ${p} (earliest copy kept: ${paths[0]})`);
+    }
+  }
+  return skip;
+})();
+
+const isDuplicate = (data) =>
+  duplicatePaths.has(path.resolve(data.page.inputPath));
 
 module.exports = {
   eleventyComputed: {
+    permalink: (data) => (isDuplicate(data) ? false : data.permalink),
+    eleventyExcludeFromCollections: (data) =>
+      isDuplicate(data) ? true : data.eleventyExcludeFromCollections || false,
     tags: (data) => {
       let raw = "";
       try {
