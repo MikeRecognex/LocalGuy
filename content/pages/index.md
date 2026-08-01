@@ -45,7 +45,7 @@ permalink: /
     <div class="sponsor-body">
       <h3 class="sponsor-title">Revyzor — Your AI's reasoning state shouldn't vanish after every request.</h3>
       <p class="sponsor-desc">Revyzor losslessly compresses and certifies your model's working state &mdash; so you can inspect, audit, and resume any inference exactly as it happened. One config flag in vLLM, SGLang, or NIM.</p>
-      <p class="sponsor-stats">1.45&times; bit-exact lossless &bull; 3&ndash;5&times; standard compression &bull; &lt;50&nbsp;ms resume &bull; H100, A100, L40S</p>
+      <p class="sponsor-stats">1.45&times; bit-exact lossless &bull; BYO lossy compression &bull; &lt;50&nbsp;ms resume &bull; H100, A100, L40S</p>
       <a href="https://revyzor.com" target="_blank" rel="noopener" class="sponsor-btn">Learn more &rarr;</a>
     </div>
   </div>
