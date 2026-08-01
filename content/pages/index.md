@@ -43,10 +43,10 @@ permalink: /
   <div class="sponsor-content">
     <img src="/assets/revyzor-logo.png" alt="Revyzor" class="sponsor-logo" />
     <div class="sponsor-body">
-      <h3 class="sponsor-title">Revyzor — KV Cache Compression That Actually Works</h3>
-      <p class="sponsor-desc">1.45x lossless bit-exact in under 50ms. 3–5x standard with zero accuracy loss. Drops into vLLM, SGLang &amp; NIM with one config flag. Validated on H100, A100, L40S.</p>
-      <p class="sponsor-stats">TurboQuant scores 0.9% on GSM8K &bull; FP8 scores 4/35 at 128K &bull; The only production-ready KV cache compression</p>
-      <a href="https://revyzor.com" target="_blank" rel="noopener" class="sponsor-btn">Learn More at Revyzor &rarr;</a>
+      <h3 class="sponsor-title">Revyzor — Your AI's reasoning state shouldn't vanish after every request.</h3>
+      <p class="sponsor-desc">Revyzor losslessly compresses and certifies your model's working state &mdash; so you can inspect, audit, and resume any inference exactly as it happened. One config flag in vLLM, SGLang, or NIM.</p>
+      <p class="sponsor-stats">1.45&times; bit-exact lossless &bull; 3&ndash;5&times; standard compression &bull; &lt;50&nbsp;ms resume &bull; H100, A100, L40S</p>
+      <a href="https://revyzor.com" target="_blank" rel="noopener" class="sponsor-btn">Learn more &rarr;</a>
     </div>
   </div>
 </div>
