@@ -3,12 +3,21 @@ title: "llama.cpp b10256 – SYCL SDPA Extended to Quantized KV Caches"
 date: 2026-08-04
 description: "Major optimization extending Intel SYCL oneDNN scaled dot-product attention to support quantized key-value caches, significantly reducing memory overhead on Intel hardware."
 tags:
+  - advanced
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - quantisation
-  - memory-optimization
+  - developer
+  - edge-device
   - intel
-status: draft
+  - kv-cache-quantization
+  - llama-cpp
+  - local-inference
+  - memory-optimization
+  - quantisation
+  - release
+  - vram-optimization
+status: published
 ---
 
 llama.cpp build b10256 introduces a significant memory optimization: extending SYCL oneDNN SDPA (scaled dot-product attention) to handle quantized KV caches beyond FP16, including Q4_0–Q8_0 and FP32 formats. For local deployments on Intel Arc and oneAPI devices, this means substantially reduced VRAM consumption while maintaining inference quality through aggressive quantization strategies.

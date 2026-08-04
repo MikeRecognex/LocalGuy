@@ -3,12 +3,24 @@ title: "Q4 vs Q6 vs Q8: The Quantization Decision Framework for Local LLMs"
 date: 2026-08-02
 description: "A detailed comparison framework for choosing the right quantisation level (Q4, Q6, Q8) when running local LLMs, balancing model quality, inference speed, and memory requirements."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
-  - performance
+  - bullish
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - developer
   - hardware
-status: draft
+  - inference-engine
+  - intermediate
+  - model-quantization
+  - performance
+  - performance-tradeoffs
+  - quantisation
+  - sitepoint
+mentions:
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 Quantisation remains the most practical way to run large models on consumer hardware, but choosing between Q4, Q6, and Q8 formats requires understanding the quality-speed-memory tradeoffs. This framework breaks down the technical differences, empirical performance characteristics, and real-world deployment scenarios where each quantisation level excels.

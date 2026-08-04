@@ -3,12 +3,21 @@ title: "How to Build CLI Agents with Python & Ollama"
 date: 2026-08-04
 description: "A practical guide for building command-line agents using Python and Ollama, enabling local LLM-powered automation without cloud dependencies. The tutorial covers practical implementation patterns for agent development with locally-deployed models."
 tags:
-  - daily-digest
-  - ollama
+  - agent-orchestration
   - agents
+  - bullish
+  - cli-agents
+  - daily-digest
+  - data-privacy
+  - developer
+  - intermediate
+  - local-automation
+  - ollama
   - open-source
   - python
-status: draft
+  - tool-calling
+  - tutorial
+status: published
 ---
 
 Building practical AI agents with locally-deployed models has become increasingly accessible with Ollama's streamlined API and Python integration. This guide provides hands-on instructions for creating command-line agents that leverage local LLMs for task automation, reasoning, and multi-step workflows without requiring cloud API calls or external dependencies.

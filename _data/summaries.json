@@ -661,8 +661,8 @@
       "postCount": 10
     },
     "2026-07-27": {
-      "text": "Netflix uses NVIDIA Triton and vLLM for efficient LLM deployment.",
-      "postCount": 10
+      "text": "NVIDIA Triton powers Netflix's in-house LLM serving platform with vLLM.",
+      "postCount": 9
     },
     "2026-07-28": {
       "text": "Bonsai-27B model enables efficient local inference with PrismML and llama.cpp.",
@@ -677,12 +677,24 @@
       "postCount": 10
     },
     "2026-07-31": {
-      "text": "AMD Ryzen AI PCs demonstrate 18 hours weekly productivity gains in project management tasks.",
-      "postCount": 10
+      "text": "AMD Ryzen AI PCs save users up to 18 hours weekly on project management tasks.",
+      "postCount": 9
     },
     "2026-08-01": {
       "text": "Ollama runs locally on Windows 11 with new setup guide.",
       "postCount": 5
+    },
+    "2026-08-02": {
+      "text": "NVIDIA's Molt framework enhances PyTorch for local LLM deployments.",
+      "postCount": 8
+    },
+    "2026-08-03": {
+      "text": "PrismML enables on-device AI inference on Apple hardware.",
+      "postCount": 5
+    },
+    "2026-08-04": {
+      "text": "ESP32-S3 runs 28.9M-parameter LLM at 9 tokens per second locally.",
+      "postCount": 15
     }
   },
   "weekly": {
@@ -783,8 +795,12 @@
       "postCount": 59
     },
     "2026-07-26": {
-      "text": "<p>This week's top stories include the release of Kioxia's UFS 5.0 embedded flash memory and Nvidia's Molt framework for training trillion-parameter models.</p>\n<p>Don't miss \"Testing Top Local LLMs Against ChatGPT and Claude\" and \"Run Ollama Locally on Windows 11: Setup Guide\" for practical insights on local LLM deployment.</p>",
-      "postCount": 55
+      "text": "<p>NVIDIA released Molt, a PyTorch-native agentic reinforcement learning framework, and announced Triton Control, an open-source control plane for Nvidia Triton on Kubernetes. Kioxia shipped UFS 5.0 storage samples with capabilities optimized for on-device AI inference.</p>\n<p>Posts like \"Deploying 1-Bit Bonsai-27B\" and \"K3 Model Achieves 20 Tokens/Second\" showcased efficient local inference techniques, while \"Testing Top Local LLMs\" compared open-source models with commercial alternatives like ChatGPT.</p>",
+      "postCount": 61
+    },
+    "2026-08-02": {
+      "text": "<p>Big stories include Apple's on-device AI with PrismML and HP's on-device AI desktop integration.</p>\n<p>Don't miss \"Apple's Hardware Is Ready for On-Device AI\" and \"HP Looks to On-Device AI\".</p>",
+      "postCount": 20
     }
   }
 }

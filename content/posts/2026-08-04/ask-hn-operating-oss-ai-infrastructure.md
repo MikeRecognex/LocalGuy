@@ -3,11 +3,25 @@ title: "Ask HN: How Are You Operating OSS AI Infrastructure?"
 date: 2026-08-04
 description: "Community discussion on practical approaches to running and maintaining open-source AI infrastructure. Direct insights from practitioners deploying LLMs locally."
 tags:
+  - ai-infrastructure
+  - bullish
+  - consumer-gpu
   - daily-digest
-  - open-source
-  - infrastructure
+  - datacenter-gpu
   - deployment
-status: draft
+  - developer
+  - hacker-news
+  - infrastructure
+  - intermediate
+  - model-serving
+  - open-source
+  - opinion
+  - production-deployment
+  - self-hosted-llms
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This Ask HN thread taps into the collective experience of practitioners actively operating open-source AI infrastructure, capturing real-world deployment patterns, challenges, and solutions. Unlike theoretical discussions, these responses reflect actual operational experience with self-hosted LLMs at various scales.

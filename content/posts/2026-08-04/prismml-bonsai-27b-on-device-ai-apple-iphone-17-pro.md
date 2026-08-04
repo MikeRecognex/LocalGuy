@@ -3,12 +3,25 @@ title: "PrismML's Bonsai 27B Brings On-Device AI to Apple iPhone 17 Pro"
 date: 2026-08-04
 description: "PrismML has developed Bonsai 27B, a model specifically optimised for on-device inference on Apple's iPhone 17 Pro. This represents a significant step toward practical large-scale LLM deployment on consumer mobile devices."
 tags:
-  - daily-digest
   - apple-silicon
-  - mobile-optimization
-  - quantisation
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
   - hardware
-status: draft
+  - hardware-acceleration
+  - intermediate
+  - mobile-inference
+  - mobile-optimization
+  - model-compression
+  - on-device-privacy
+  - prismml
+  - quantisation
+  - release
+mentions:
+  - name: PrismML
+    role: developer
+status: published
 ---
 
 Bonsai 27B represents a purpose-built approach to mobile LLM deployment, engineered specifically to leverage Apple Silicon's neural processing capabilities. By optimising for the iPhone 17 Pro's architecture and memory constraints, PrismML has created a model that can deliver meaningful language capabilities directly on-device, enabling private inference without cloud dependencies. This level of model-hardware co-optimisation is exactly what's needed to make local LLM deployment practical on consumer smartphones.

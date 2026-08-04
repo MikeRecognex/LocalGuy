@@ -3,12 +3,20 @@ title: "28.9M-Parameter LLM Runs Locally on ESP32-S3 at 9 Tokens/s"
 date: 2026-08-04
 description: "A 28.9M-parameter language model successfully deployed on the ESP32-S3 microcontroller, achieving 9 tokens per second inference speed. This breakthrough demonstrates practical on-device AI capability for ultra-low-power edge devices."
 tags:
-  - daily-digest
-  - memory-optimization
-  - edge-inference
+  - advanced
   - benchmark
+  - bullish
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
   - hardware
-status: draft
+  - inference-speed
+  - memory-optimization
+  - microcontroller-inference
+  - model-compression
+  - showcase
+status: published
 ---
 
 Running large language models on microcontrollers has long been considered impractical due to severe memory and compute constraints. This achievement of deploying a 28.9M-parameter model on the ESP32-S3 at 9 tokens per second represents a significant milestone for ultra-low-power edge inference, opening new possibilities for embedded AI applications where cloud connectivity is unavailable or undesirable.

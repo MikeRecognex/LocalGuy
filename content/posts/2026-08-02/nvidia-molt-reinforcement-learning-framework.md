@@ -3,12 +3,21 @@ title: "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning
 date: 2026-08-02
 description: "NVIDIA releases Molt, a new reinforcement learning framework for building agentic systems with PyTorch, expanding tooling for advanced local LLM applications."
 tags:
-  - daily-digest
+  - advanced
+  - agentic-rl
   - agents
+  - bullish
+  - consumer-gpu
+  - daily-digest
+  - developer
+  - edge-device
+  - local-fine-tuning
+  - nvidia
+  - on-device-inference
   - open-source
   - pytorch
-  - nvidia
-status: draft
+  - release
+status: published
 ---
 
 NVIDIA's release of Molt represents a significant step forward in building agentic LLM systems that can be deployed locally. The framework is PyTorch-native, meaning it integrates seamlessly with existing local inference pipelines and enables researchers and practitioners to implement reinforcement learning-based optimization directly alongside their LLM inference without external dependencies.

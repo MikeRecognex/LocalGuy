@@ -3,11 +3,22 @@ title: "Bubo: AI Code-Reviewer That Learns From Review Comments"
 date: 2026-08-04
 description: "An open-source AI code-reviewer that improves through feedback. This demonstrates practical local model fine-tuning and adaptation for specialized tasks."
 tags:
-  - daily-digest
-  - fine-tuning
-  - open-source
   - agents
-status: draft
+  - ai-code-review
+  - bullish
+  - daily-digest
+  - enterprise
+  - fine-tuning
+  - hacker-news
+  - human-feedback-loop
+  - intermediate
+  - local-fine-tuning
+  - open-source
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Bubo is an open-source code-review agent that learns and adapts from human feedback, representing a practical application of local LLMs with continuous improvement capabilities. Rather than relying on a static model, Bubo incorporates review comments to refine its understanding of coding standards and team preferences over time.

@@ -3,12 +3,20 @@ title: "AMD's MI355X Undercuts Nvidia's B300 on Cost to Run China's Kimi K3"
 date: 2026-08-02
 description: "AMD's MI355X GPU offers competitive pricing advantages over NVIDIA's B300 for running large language models, providing cost-conscious practitioners with viable alternatives for local inference hardware."
 tags:
-  - daily-digest
-  - hardware
   - amd
-  - nvidia
+  - bullish
+  - comparison
   - cost-optimization
-status: draft
+  - daily-digest
+  - datacenter-gpu
+  - enterprise
+  - hardware
+  - hardware-benchmarks
+  - hardware-economics
+  - inference-hardware
+  - intermediate
+  - nvidia
+status: published
 ---
 
 Hardware economics are critical for local LLM deployment, and AMD's MI355X presents a compelling alternative to NVIDIA's premium offerings. Benchmark data shows that the MI355X delivers competitive inference performance for large models at a significantly lower total cost of ownership compared to NVIDIA's B300, making it an attractive option for organizations looking to build local inference infrastructure without NVIDIA-sized budgets.

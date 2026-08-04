@@ -3,12 +3,26 @@ title: "The KV Cache Survival Guide: Why Your GPU Runs Out of Memory with Local 
 date: 2026-08-02
 description: "A comprehensive guide addressing one of the most critical bottlenecks in local LLM deployment: KV cache memory consumption. Learn practical strategies to manage GPU memory constraints when running LLMs on-device."
 tags:
+  - consumer-gpu
   - daily-digest
-  - memory-optimization
-  - kv-cache
+  - developer
+  - edge-device
+  - flash-attention
   - gpu
+  - intermediate
+  - kv-cache
+  - kv-cache-optimization
+  - memory-optimization
+  - neutral
   - quantisation
-status: draft
+  - quantization
+  - sitepoint
+  - tutorial
+  - vram-management
+mentions:
+  - name: SitePoint
+    role: publisher
+status: published
 ---
 
 KV cache management is one of the most pressing challenges for anyone running large language models locally. As sequence lengths grow and batch sizes increase, the memory footprint of attention key-value tensors can quickly exhaust even high-end GPUs, forcing practitioners to reduce context windows or batch sizes at the cost of throughput and quality.

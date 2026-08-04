@@ -3,12 +3,29 @@ title: "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active O
 date: 2026-08-03
 description: "Thinking Machines Lab has released Inkling-Small, an open-weights multimodal mixture-of-experts model with 276B total parameters but only 12B active during inference, enabling efficient local deployment on consumer hardware."
 tags:
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
+  - developer
+  - inference-speed
+  - intermediate
+  - marktechpost
+  - memory-efficiency
   - model-release
   - moe
-  - open-source
+  - moe-architecture
   - multimodal
-status: draft
+  - multimodal-models
+  - open-source
+  - release
+  - thinking-machines-lab
+mentions:
+  - name: Thinking Machines Lab
+    role: developer
+  - name: Marktechpost
+    role: publisher
+status: published
 ---
 
 Thinking Machines Lab has announced Inkling-Small, a significant release for local LLM practitioners seeking efficient multimodal capabilities. With 276B total parameters but only 12B active parameters during inference, this mixture-of-experts (MoE) architecture dramatically reduces computational requirements compared to dense models, making it viable for edge deployment on consumer-grade hardware.

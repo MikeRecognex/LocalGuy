@@ -3,11 +3,22 @@ title: "LLM Memory Doesn't Only Get Written Wrong, It Goes Wrong Later"
 date: 2026-08-04
 description: "Research on how LLM memory degrades and becomes corrupted over time during inference. Understanding memory behavior is critical for reliable local deployment."
 tags:
-  - daily-digest
-  - memory-optimization
+  - advanced
+  - analysis
   - context-window
+  - context-window-management
+  - daily-digest
+  - developer
+  - hacker-news
   - inference-reliability
-status: draft
+  - long-context-inference
+  - memory-corruption
+  - memory-optimization
+  - neutral
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This research explores a subtle but important problem in LLM inference: memory corruption that doesn't occur at write-time but emerges and propagates during later inference steps. Understanding how stored information degrades within a model's context window has direct implications for local deployment reliability and accuracy.

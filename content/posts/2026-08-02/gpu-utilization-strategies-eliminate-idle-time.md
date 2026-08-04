@@ -3,12 +3,25 @@ title: "Squeezing Silicon Limits: Effective Strategies to Eliminate GPU Idle Tim
 date: 2026-08-02
 description: "Practical techniques for maximising GPU utilisation during local LLM inference, addressing idle time and throughput bottlenecks that waste expensive compute resources."
 tags:
+  - 36kr
+  - analysis
+  - bullish
+  - consumer-gpu
+  - continuous-batching
   - daily-digest
+  - developer
+  - edge-device
   - gpu
-  - performance
-  - optimization
+  - gpu-utilization
   - inference
-status: draft
+  - inference-throughput
+  - intermediate
+  - optimization
+  - performance
+mentions:
+  - name: 36Kr
+    role: publisher
+status: published
 ---
 
 GPU idle time represents wasted compute capacity in local LLM deployments. Whether serving multiple requests, batching inference jobs, or managing model loading overhead, inefficient utilisation directly impacts cost-per-inference and throughput on limited hardware resources.

@@ -3,12 +3,20 @@ title: "The KV Cache Survival Guide: Why Your GPU Runs Out of Memory with Local 
 date: 2026-08-02
 description: "Deep dive into KV cache management and practical strategies to prevent GPU out-of-memory errors when running local LLMs, a critical bottleneck for on-device inference."
 tags:
-  - daily-digest
-  - memory-optimization
-  - gpu
-  - nvidia
+  - bullish
+  - consumer-gpu
   - context-window
-status: draft
+  - daily-digest
+  - developer
+  - flash-attention
+  - gpu
+  - intermediate
+  - kv-cache-optimization
+  - memory-optimization
+  - nvidia
+  - oom-prevention
+  - tutorial
+status: published
 ---
 
 KV (Key-Value) cache is one of the most misunderstood aspects of local LLM deployment, often responsible for unexpected out-of-memory (OOM) errors during inference. Unlike model weights which are loaded once, the KV cache grows dynamically with each generated token, scaling with sequence length and batch size. This guide explores why practitioners hit GPU memory limits mid-generation and provides actionable techniques to mitigate the problem.

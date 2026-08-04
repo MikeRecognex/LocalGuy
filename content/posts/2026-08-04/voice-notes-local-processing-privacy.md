@@ -3,12 +3,25 @@ title: "Voice Notes Shouldn't Cross the Ocean – Keep Your Thoughts Private"
 date: 2026-08-04
 description: "An argument for local processing of voice notes instead of cloud transmission. This highlights the privacy and latency advantages of on-device inference for audio workloads."
 tags:
-  - daily-digest
-  - on-device
-  - privacy
   - audio
+  - bullish
+  - daily-digest
+  - data-privacy
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - hacker-news
+  - intermediate
+  - on-device
+  - on-device-inference
+  - opinion
+  - privacy
+  - real-time-transcription
+  - speech-to-text
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This piece advocates for processing voice notes locally rather than sending them to cloud APIs, emphasizing both privacy and practical benefits. As speech-to-text and audio understanding models have become more accessible, local processing of audio data removes the need to transmit sensitive voice recordings over the internet, addressing legitimate privacy concerns for personal notes and private conversations.
