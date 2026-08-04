@@ -10,11 +10,12 @@ tags:
   - developer
   - evaluation
   - guardrails
-  - hacker-news
   - intermediate
   - llm-limitations
+  - local-deployment
   - opinion
   - sandboxed-execution
+  - testing-and-validation
   - testing-pipelines
 mentions:
   - name: David Gerard

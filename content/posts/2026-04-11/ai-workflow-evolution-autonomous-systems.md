@@ -16,7 +16,6 @@ tags:
   - discussion
   - enterprise
   - error-management
-  - hacker-news
   - llm-architecture
   - local-llm-adoption
   - practical-guide

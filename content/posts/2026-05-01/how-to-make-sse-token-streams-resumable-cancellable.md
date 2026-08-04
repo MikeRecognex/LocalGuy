@@ -10,8 +10,6 @@ tags:
   - custom-inference-server
   - daily-digest
   - developer
-  - hacker-news
-  - inference
   - inference-server
   - intermediate
   - llm-inference

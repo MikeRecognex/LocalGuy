@@ -6,17 +6,18 @@ tags:
   - analysis
   - bullish
   - daily-digest
+  - data-privacy
   - deployment
   - developer
   - edge-computing
   - edge-device
-  - hacker-news
   - hybrid-deployment
   - hybrid-inference
   - intermediate
   - knowledge-labs
   - memory-optimization
   - privacy-compliance
+  - split-inference
   - split-model-inference
 mentions:
   - name: Knowledge Labs

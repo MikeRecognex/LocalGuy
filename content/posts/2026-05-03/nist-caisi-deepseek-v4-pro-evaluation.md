@@ -13,7 +13,6 @@ tags:
   - deepseek
   - developer
   - enterprise-ai
-  - hacker-news
   - intermediate
   - local-deployment
   - model-benchmarking

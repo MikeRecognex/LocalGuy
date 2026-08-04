@@ -11,7 +11,6 @@ tags:
   - edge-inference
   - geekom
   - hardware
-  - inference
   - intermediate
   - local-inference
   - mini-pc

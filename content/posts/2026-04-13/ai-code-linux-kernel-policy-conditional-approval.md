@@ -15,7 +15,6 @@ tags:
   - developer
   - developer-tools
   - development-tools
-  - hacker-news
   - intermediate
   - linux-kernel
   - llm-development-tools

@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - devops-integration
   - enterprise
-  - hacker-news
   - hardware
   - inference-optimization
   - intermediate

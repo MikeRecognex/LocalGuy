@@ -11,7 +11,6 @@ tags:
   - data-privacy
   - developer
   - domain-specific-ai
-  - hacker-news
   - inference-libraries
   - intermediate
   - local-speech-recognition

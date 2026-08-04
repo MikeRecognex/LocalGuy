@@ -9,7 +9,6 @@ tags:
   - cautious
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - llm-agents
   - local-deployment

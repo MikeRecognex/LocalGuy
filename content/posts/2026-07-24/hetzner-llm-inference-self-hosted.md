@@ -10,7 +10,6 @@ tags:
   - dedicated-infrastructure
   - deployment
   - developer
-  - hacker-news
   - hardware
   - hetzner
   - inference-infrastructure
@@ -24,10 +23,8 @@ tags:
 mentions:
   - name: Hetzner
     role: infrastructure-provider
-  - name: Sliplane
-    role: publisher
   - name: Hacker News
-    role: source
+    role: publisher
 status: published
 ---
 

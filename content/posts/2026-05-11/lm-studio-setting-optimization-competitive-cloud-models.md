@@ -7,7 +7,6 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - inference
   - inference-optimization
   - intermediate
   - lm-studio

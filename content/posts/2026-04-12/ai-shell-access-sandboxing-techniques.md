@@ -14,7 +14,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - local-agent-infrastructure
   - local-deployment
   - local-inference

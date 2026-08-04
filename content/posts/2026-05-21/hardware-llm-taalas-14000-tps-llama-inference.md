@@ -13,7 +13,6 @@ tags:
   - edge-device
   - edge-llm-deployment
   - enterprise
-  - hacker-news
   - hardware
   - hardware-acceleration
   - hardware-software-optimization

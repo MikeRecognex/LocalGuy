@@ -12,8 +12,6 @@ tags:
   - deployment
   - enterprise
   - enterprise-adoption
-  - hacker-news
-  - inference
   - intermediate
   - local-inference
   - local-llm-value-proposition

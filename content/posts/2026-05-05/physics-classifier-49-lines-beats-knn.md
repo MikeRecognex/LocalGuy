@@ -13,7 +13,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - inference-efficiency
   - inference-optimization
   - inference-pipelines

@@ -12,11 +12,11 @@ tags:
   - deployment
   - developer
   - development-workflow
-  - hacker-news
   - intermediate
   - operational-security
   - opinion
   - safety
+  - security-best-practices
 mentions:
   - name: Hacker News
     role: publisher

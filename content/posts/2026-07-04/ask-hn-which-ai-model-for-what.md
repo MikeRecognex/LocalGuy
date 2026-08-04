@@ -8,7 +8,6 @@ tags:
   - comparison
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - model-selection

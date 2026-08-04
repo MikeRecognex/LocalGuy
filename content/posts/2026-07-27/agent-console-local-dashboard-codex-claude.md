@@ -3,18 +3,22 @@ title: "Show HN: Agent Console – A Local Dashboard for Codex and Claude Code"
 date: 2026-07-27
 description: "A new open-source local dashboard tool for managing AI code agents, enabling on-device integration with code generation models without cloud dependency."
 tags:
+  - agent-console
   - agent-observability
   - agent-orchestration
   - agents
   - bullish
+  - claude-code
+  - code-generation
+  - codex
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - intermediate
   - local-code-generation
   - local-inference
   - offline-inference
+  - on-device-inference
   - open-source
   - showcase
   - tooling

@@ -10,7 +10,6 @@ tags:
   - economics
   - edge-device
   - enterprise
-  - hacker-news
   - hardware
   - inference-cost
   - inference-costs

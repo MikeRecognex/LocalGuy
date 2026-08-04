@@ -10,7 +10,6 @@ tags:
   - edge-computing
   - enterprise
   - hardware
-  - inference
   - inference-frameworks
   - local-deployment
   - new-hardware

@@ -10,12 +10,14 @@ tags:
   - developer
   - edge-device
   - intel
+  - intel-arc
   - kv-cache-quantization
   - llama-cpp
   - local-inference
   - memory-optimization
   - quantisation
   - release
+  - sycl-optimization
   - vram-optimization
 status: published
 ---

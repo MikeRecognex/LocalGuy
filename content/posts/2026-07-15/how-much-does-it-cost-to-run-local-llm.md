@@ -10,11 +10,11 @@ tags:
   - cost-benchmarking
   - daily-digest
   - enterprise
-  - inference
   - inference-economics
   - intermediate
   - local-deployment
   - neutral
+  - self-hosted-inference
   - towards-data-science
 mentions:
   - name: Towards Data Science

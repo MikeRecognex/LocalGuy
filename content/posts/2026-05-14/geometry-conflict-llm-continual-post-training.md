@@ -14,7 +14,6 @@ tags:
   - edge-deployment
   - edge-device
   - fine-tuning
-  - hacker-news
   - local-llms
   - memory-optimization
   - model-fine-tuning

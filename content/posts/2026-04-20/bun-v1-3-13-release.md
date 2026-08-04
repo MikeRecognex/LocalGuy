@@ -9,7 +9,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - infrastructure
   - intermediate
   - javascript-wrappers

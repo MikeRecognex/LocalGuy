@@ -10,15 +10,18 @@ tags:
   - deployment
   - developer
   - edge-device
-  - hacker-news
+  - enterprise
   - kubernetes
   - kubernetes-orchestration
+  - model-lifecycle
   - model-lifecycle-management
   - multi-model-serving
   - on-premises-deployment
   - open-source
   - release
   - triton
+  - triton-control
+  - triton-inference-server
 mentions:
   - name: Hacker News
     role: publisher

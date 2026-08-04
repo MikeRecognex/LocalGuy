@@ -14,7 +14,6 @@ tags:
   - edge-ai-applications
   - edge-computing
   - edge-device
-  - hacker-news
   - hardware
   - hardware-control
   - hardware-integration

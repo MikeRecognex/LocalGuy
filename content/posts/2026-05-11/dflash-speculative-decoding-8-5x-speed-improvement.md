@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - dflash
-  - inference
   - inference-optimization
   - inference-speed
   - intermediate

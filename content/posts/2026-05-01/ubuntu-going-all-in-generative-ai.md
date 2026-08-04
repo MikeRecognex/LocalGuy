@@ -13,7 +13,6 @@ tags:
   - edge-deployment
   - edge-device
   - gpu-driver-support
-  - hacker-news
   - hardware
   - intermediate
   - linux

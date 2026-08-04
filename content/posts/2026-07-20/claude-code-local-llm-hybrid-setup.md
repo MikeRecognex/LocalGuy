@@ -5,13 +5,16 @@ description: "Developers are discovering powerful hybrid workflows that combine 
 tags:
   - analysis
   - bullish
+  - claude-code
   - code-completion
   - coding-agents
   - cost-saving
   - daily-digest
+  - data-privacy
   - developer
   - hybrid-inference
   - hybrid-llm-workflow
+  - hybrid-workflow
   - intermediate
   - msn
   - offline-coding

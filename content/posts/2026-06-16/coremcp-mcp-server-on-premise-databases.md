@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - deployment
   - enterprise
-  - hacker-news
   - intermediate
   - local-first
   - mcp

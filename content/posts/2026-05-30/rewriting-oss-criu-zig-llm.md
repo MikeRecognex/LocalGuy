@@ -10,7 +10,6 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - llm-code-generation
   - llm-use-cases

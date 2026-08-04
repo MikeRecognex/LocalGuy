@@ -10,7 +10,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
   - local-inference-performance
   - low-latency-inference

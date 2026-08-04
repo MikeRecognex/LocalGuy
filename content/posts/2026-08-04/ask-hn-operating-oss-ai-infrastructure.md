@@ -10,10 +10,11 @@ tags:
   - datacenter-gpu
   - deployment
   - developer
-  - hacker-news
   - infrastructure
   - intermediate
+  - local-deployment
   - model-serving
+  - monitoring-observability
   - open-source
   - opinion
   - production-deployment

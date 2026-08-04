@@ -9,8 +9,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - github
-  - hacker-news
   - hallucination-reduction
   - intermediate
   - knowledge-graph

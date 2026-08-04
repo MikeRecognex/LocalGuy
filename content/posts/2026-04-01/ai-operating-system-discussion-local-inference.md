@@ -17,7 +17,6 @@ tags:
   - developer
   - discussion
   - gpu-scheduling
-  - hacker-news
   - inference-latency
   - inference-optimization
   - infrastructure

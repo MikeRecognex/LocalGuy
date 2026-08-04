@@ -3,14 +3,17 @@ title: "Apple Boosts On-Device AI, Partners With PrismML to Enable Running Large
 date: 2026-07-15
 description: "Apple partners with PrismML to deploy advanced model compression techniques, enabling larger AI models to run efficiently on iPhone hardware without cloud connectivity."
 tags:
+  - analysis
   - apple
   - apple-silicon
   - bullish
+  - coreml
   - daily-digest
   - developer
   - edge-device
   - edge-inference
   - intermediate
+  - iphone
   - model-compression
   - news
   - prismml

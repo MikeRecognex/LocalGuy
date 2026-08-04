@@ -13,7 +13,6 @@ tags:
   - developer-workflows
   - go-development
   - go-linter
-  - hacker-news
   - intermediate
   - local-ai-tools
   - local-ai-workflows

@@ -10,8 +10,6 @@ tags:
   - deployment
   - developer
   - edge-device
-  - hacker-news
-  - inference
   - inference-cost-reduction
   - intermediate
   - llama-cpp-framework

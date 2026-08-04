@@ -11,7 +11,6 @@ tags:
   - cloud-service-limitations
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-advantages
   - local-inference-benefits

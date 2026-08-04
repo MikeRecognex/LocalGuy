@@ -13,7 +13,6 @@ tags:
   - daily-digest
   - developer
   - enterprise
-  - hacker-news
   - intermediate
   - isteam
   - local-llm-applications

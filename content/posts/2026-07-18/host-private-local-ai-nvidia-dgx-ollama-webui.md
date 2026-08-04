@@ -9,6 +9,7 @@ tags:
   - data-privacy
   - datacenter-gpu
   - deployment
+  - dgx-spark
   - enterprise
   - geeky-gadgets
   - hardware
@@ -16,6 +17,7 @@ tags:
   - nvidia
   - ollama
   - open-webui
+  - private-llm
   - private-llm-infrastructure
   - tutorial
 mentions:

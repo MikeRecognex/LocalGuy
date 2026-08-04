@@ -13,9 +13,11 @@ tags:
   - daily-digest
   - developer
   - evaluation
-  - hacker-news
   - intermediate
+  - llm-benchmarking
   - model-optimization
+  - neutral
+  - resource-optimization
   - testing
 mentions:
   - name: Dan Luu

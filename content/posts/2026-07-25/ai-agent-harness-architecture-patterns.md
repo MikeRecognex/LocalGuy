@@ -3,6 +3,7 @@ title: "The Interesting Part of an Agent Harness is What You Add on Top"
 date: 2026-07-25
 description: "A technical exploration of agent harness architecture patterns and best practices for building extensible, production-ready AI agent systems."
 tags:
+  - agent-infrastructure
   - agent-orchestration
   - agents
   - analysis
@@ -13,10 +14,11 @@ tags:
   - daily-digest
   - developer
   - frameworks
-  - hacker-news
   - infrastructure
   - intermediate
+  - neutral
   - on-device-deployment
+  - resource-management
   - state-management
   - tool-use
 mentions:

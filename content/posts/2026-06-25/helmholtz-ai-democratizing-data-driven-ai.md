@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - democratization
   - distributed-inference
-  - hacker-news
   - helmholtz-ai
   - intermediate
   - local-infrastructure

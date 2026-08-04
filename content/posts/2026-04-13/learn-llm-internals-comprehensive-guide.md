@@ -13,7 +13,6 @@ tags:
   - edge-device
   - education
   - fundamentals
-  - hacker-news
   - llm-internals
   - local-deployment-optimization
   - model-optimization

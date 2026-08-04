@@ -13,7 +13,6 @@ tags:
   - deployment-guide
   - distributed-inference
   - enterprise
-  - hacker-news
   - nvidia
   - quantisation
   - tensor-parallelism

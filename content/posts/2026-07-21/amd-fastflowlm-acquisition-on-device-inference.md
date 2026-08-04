@@ -11,6 +11,7 @@ tags:
   - developer
   - edge-ai
   - edge-device
+  - enterprise
   - fastflowlm
   - hardware
   - inference-optimization
@@ -19,8 +20,6 @@ tags:
   - news
   - sdxcentral
 mentions:
-  - name: FastFlowLM
-    role: acquired-company
   - name: SDxCentral
     role: publisher
 status: published

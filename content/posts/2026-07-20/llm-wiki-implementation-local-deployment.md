@@ -8,11 +8,12 @@ tags:
   - consumer-gpu
   - daily-digest
   - deployment
+  - deployment-guide
   - documentation
   - edge-device
-  - hacker-news
   - hobbyist
   - inference-optimization
+  - llm-wiki-implementation
   - local-deployment
   - model-quantization
   - open-source

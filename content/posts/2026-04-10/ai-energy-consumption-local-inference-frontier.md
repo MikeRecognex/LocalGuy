@@ -17,7 +17,6 @@ tags:
   - efficiency
   - energy-efficiency
   - enterprise
-  - hacker-news
   - hardware
   - hardware-acceleration
   - inference-optimization

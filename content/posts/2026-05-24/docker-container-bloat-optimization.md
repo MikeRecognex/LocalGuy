@@ -17,7 +17,6 @@ tags:
   - docker-container-optimization
   - docker-optimization
   - edge-device
-  - hacker-news
   - intermediate
   - local-llm-deployment
   - on-device-deployment

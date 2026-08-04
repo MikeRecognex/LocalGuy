@@ -13,7 +13,6 @@ tags:
   - cloud-independence
   - developer
   - developer-tooling
-  - github
   - godot
   - godot-mcp
   - integration

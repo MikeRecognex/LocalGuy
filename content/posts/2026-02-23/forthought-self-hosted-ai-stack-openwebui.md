@@ -13,7 +13,7 @@ tags:
   - llm-orchestration
   - local-deployment
   - open-source
-  - openwebui
+  - open-webui
   - research-ai
   - self-hosted
 mentions:

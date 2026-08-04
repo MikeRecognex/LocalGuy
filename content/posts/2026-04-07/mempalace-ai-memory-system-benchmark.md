@@ -12,7 +12,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - intermediate
   - local-llms
   - memory-management

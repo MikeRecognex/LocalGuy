@@ -7,6 +7,7 @@ tags:
   - bullish
   - daily-digest
   - developer
+  - edge-ai
   - edge-deployment
   - edge-device
   - edge-inference
@@ -16,6 +17,7 @@ tags:
   - mediatek
   - mobile-ai
   - mobile-hardware
+  - news
   - privacy-preserving-ai
   - smartprix
   - snapdragon

@@ -3,20 +3,26 @@ title: "AI Inference is Rewriting the GPU Buying Playbook"
 date: 2026-07-22
 description: "A comprehensive analysis of how the emergence of local AI inference is fundamentally changing GPU purchasing decisions and hardware optimization priorities."
 tags:
+  - a100
   - analysis
   - bullish
   - consumer-gpu
   - cost-efficiency
   - daily-digest
+  - datacenter-gpu
   - developer
   - edge-device
   - gpu-optimization
   - hardware
+  - hardware-optimization
   - hardware-selection
   - inference-optimization
   - inference-performance
   - intermediate
+  - l4
+  - local-deployment
   - memory-bandwidth
+  - mi300x
   - model-quantization
   - techloy
 mentions:

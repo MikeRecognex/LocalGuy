@@ -16,7 +16,6 @@ tags:
   - edge-inference
   - game-content-generation
   - gaming
-  - hacker-news
   - interactive-media
   - intermediate
   - local-inference

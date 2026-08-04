@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - deepseek
   - developer
-  - inference
   - intermediate
   - local-inference
   - local-llm-deployment

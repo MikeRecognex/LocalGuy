@@ -11,7 +11,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - inference-pipeline
   - intermediate
   - local-rag

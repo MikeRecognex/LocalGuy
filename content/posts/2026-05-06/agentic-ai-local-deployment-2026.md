@@ -15,7 +15,6 @@ tags:
   - edge-deployment
   - edge-device
   - frameworks
-  - hacker-news
   - intermediate
   - local-agents
   - local-inference

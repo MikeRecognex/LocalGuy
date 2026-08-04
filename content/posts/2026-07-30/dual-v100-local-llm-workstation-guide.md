@@ -11,13 +11,16 @@ tags:
   - gpu
   - hacksterio
   - hardware
+  - hardware-selection
   - hardware-setup
   - inference-optimization
   - intermediate
   - local-inference
   - multi-gpu-inference
   - tutorial
+  - v100
   - workstation
+  - workstation-build
 mentions:
   - name: Hackster.io
     role: publisher

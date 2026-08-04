@@ -10,7 +10,6 @@ tags:
   - edge-device
   - enterprise
   - fine-tuning
-  - inference
   - inference-latency
   - inference-optimization
   - intermediate

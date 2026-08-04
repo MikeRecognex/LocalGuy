@@ -10,15 +10,17 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
+  - llama-cpp
   - local-deployment
   - mistral
   - model-quantization
   - model-release
   - news
+  - ollama
   - open-source
   - self-hosted-ai
+  - self-hosted-inference
 mentions:
   - name: Hacker News
     role: publisher

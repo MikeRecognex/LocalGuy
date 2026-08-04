@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - evaluation
-  - hacker-news
   - interpretability
   - llm-evaluation
   - local-deployment-testing

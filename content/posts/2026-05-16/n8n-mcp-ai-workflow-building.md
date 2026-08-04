@@ -11,7 +11,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - hacker-news
   - integration
   - intermediate
   - local-ai-agents

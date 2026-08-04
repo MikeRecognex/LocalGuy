@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - education
-  - hacker-news
   - local-deployment
   - open-source
   - open-source-ai

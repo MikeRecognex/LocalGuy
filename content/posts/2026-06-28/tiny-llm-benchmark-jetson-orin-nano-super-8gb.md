@@ -11,7 +11,6 @@ tags:
   - edge-device
   - edge-inference
   - embedded-ai
-  - hacker-news
   - hardware
   - hardware-benchmarking
   - intermediate

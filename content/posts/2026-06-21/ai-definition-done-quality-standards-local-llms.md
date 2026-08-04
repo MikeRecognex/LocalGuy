@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - enterprise
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
   - neutral

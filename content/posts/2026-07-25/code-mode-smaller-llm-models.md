@@ -11,9 +11,7 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - hallucination-mitigation
-  - inference
   - instavm
   - intermediate
   - on-device-inference

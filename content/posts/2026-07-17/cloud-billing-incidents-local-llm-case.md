@@ -6,12 +6,13 @@ tags:
   - analysis
   - aws
   - bullish
+  - claude
   - cloud-costs
   - cost-optimization
+  - cost-saving
   - daily-digest
   - deployment
   - enterprise
-  - hacker-news
   - hardware
   - infrastructure-governance
   - intermediate

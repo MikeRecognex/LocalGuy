@@ -11,9 +11,12 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
+  - embedded-systems
   - intermediate
   - kdnuggets
   - llama-cpp
+  - local-deployment
+  - mythos-enhanced-coding-model
   - privacy-compliance
   - raspberry-pi
   - tutorial

@@ -13,7 +13,6 @@ tags:
   - enterprise
   - enterprise-adoption
   - eu-ai-act
-  - hacker-news
   - intermediate
   - local-inference-validation
   - local-llm-deployment

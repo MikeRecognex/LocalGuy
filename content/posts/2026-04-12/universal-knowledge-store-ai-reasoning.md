@@ -10,7 +10,6 @@ tags:
   - developer
   - factual-accuracy
   - grounding-layer
-  - hacker-news
   - intermediate
   - knowledge-management
   - local-llm-deployment

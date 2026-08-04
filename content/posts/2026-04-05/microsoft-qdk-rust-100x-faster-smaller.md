@@ -11,7 +11,6 @@ tags:
   - edge-ai-deployment
   - edge-deployment
   - edge-device
-  - hacker-news
   - hardware
   - language-migration
   - local-inference-engines

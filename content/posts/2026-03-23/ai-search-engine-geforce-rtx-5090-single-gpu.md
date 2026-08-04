@@ -16,7 +16,6 @@ tags:
   - gamegpu
   - gpu
   - hardware
-  - inference
   - local-deployment
   - local-inference
   - model-optimization

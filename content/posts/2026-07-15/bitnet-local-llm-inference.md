@@ -5,13 +5,15 @@ description: "An exploration of BitNet technology and its implications for effic
 tags:
   - advanced
   - analysis
+  - bitnet
   - bullish
   - daily-digest
   - developer
   - edge-device
+  - edge-inference
   - efficiency
-  - hacker-news
-  - inference
+  - inference-efficiency
+  - llama-cpp
   - low-bit-quantization
   - model-compression
   - model-optimization

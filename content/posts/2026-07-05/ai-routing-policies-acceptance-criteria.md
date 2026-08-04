@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - deployment-patterns
   - developer
-  - hacker-news
   - intermediate
   - model-routing
   - multi-model

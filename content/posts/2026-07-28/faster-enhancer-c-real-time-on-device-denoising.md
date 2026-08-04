@@ -10,7 +10,7 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
+  - faster-enhancer-c
   - intermediate
   - latency-optimization
   - memory-optimization

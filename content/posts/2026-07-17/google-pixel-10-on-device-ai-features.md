@@ -17,6 +17,8 @@ tags:
   - news
   - offline-inference
   - phonearena
+  - pixel-10
+  - privacy-preserving-ai
 mentions:
   - name: PhoneArena
     role: publisher

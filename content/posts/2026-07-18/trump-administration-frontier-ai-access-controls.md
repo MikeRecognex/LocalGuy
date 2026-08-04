@@ -5,6 +5,7 @@ description: "New US government restrictions on frontier AI model access are dri
 tags:
   - ai-regulation
   - analysis
+  - api-independence
   - beginner-friendly
   - bullish
   - cnbc
@@ -12,11 +13,12 @@ tags:
   - enterprise
   - frontier-models
   - geopolitics
-  - hacker-news
+  - intermediate
   - open-source
   - open-source-llms
   - policy
   - regulatory-compliance
+  - self-hosted-infrastructure
   - self-hosting
 mentions:
   - name: CNBC

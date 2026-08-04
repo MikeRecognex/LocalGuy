@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - evaluation
-  - hacker-news
   - intermediate
   - local-deployment
   - local-models

@@ -14,7 +14,6 @@ tags:
   - deployment
   - economics
   - enterprise
-  - hacker-news
   - hashutopia
   - inference-efficiency
   - infrastructure

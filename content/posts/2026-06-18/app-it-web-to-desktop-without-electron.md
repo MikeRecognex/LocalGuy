@@ -9,7 +9,6 @@ tags:
   - deployment
   - developer
   - edge-device
-  - hacker-news
   - intermediate
   - local-llm-ui
   - open-source

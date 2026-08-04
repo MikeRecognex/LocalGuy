@@ -21,7 +21,6 @@ tags:
   - os-optimization
   - performance
   - performance-tuning
-  - reddit
   - system-optimization
 mentions:
   - name: reddit

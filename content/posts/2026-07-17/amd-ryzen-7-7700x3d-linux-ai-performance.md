@@ -11,11 +11,16 @@ tags:
   - daily-digest
   - developer
   - hardware
+  - hardware-architecture
+  - hardware-benchmarking
   - hardware-cache
   - intermediate
+  - llama-cpp
   - memory-bandwidth
+  - ollama
   - performance
   - phoronix
+  - ryzen-7-7700x3d
 mentions:
   - name: Phoronix
     role: publisher

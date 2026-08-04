@@ -13,9 +13,7 @@ tags:
   - developer
   - edge-device
   - education
-  - hacker-news
   - hardware-optimization
-  - inference
   - intermediate
   - llm-architecture
   - llm-mechanisms

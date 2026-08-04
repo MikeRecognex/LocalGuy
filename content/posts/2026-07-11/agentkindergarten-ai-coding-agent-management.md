@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - framework
-  - hacker-news
   - intermediate
   - local-deployment
   - open-source

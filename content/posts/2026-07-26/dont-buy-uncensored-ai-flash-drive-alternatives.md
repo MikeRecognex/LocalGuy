@@ -7,14 +7,18 @@ tags:
   - analysis
   - cautious
   - daily-digest
+  - deployment-strategy
   - developer
   - hackernoon
   - intermediate
+  - llama-cpp
   - local-deployment
+  - ollama
   - open-source
   - safety
   - security-risk
   - uncensored-models
+  - vllm
 mentions:
   - name: HackerNoon
     role: publisher

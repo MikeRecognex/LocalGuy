@@ -11,7 +11,6 @@ tags:
   - data-privacy
   - enterprise
   - gpt-oss
-  - inference
   - inference-optimization
   - large-language-models
   - local-deployment

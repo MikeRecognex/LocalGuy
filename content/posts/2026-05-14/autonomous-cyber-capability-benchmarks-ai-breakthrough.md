@@ -17,7 +17,6 @@ tags:
   - edge-ai
   - edge-device
   - enterprise
-  - hacker-news
   - hardware
   - intermediate
   - local-deployment

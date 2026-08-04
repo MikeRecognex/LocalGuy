@@ -12,7 +12,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - hardware
   - intermediate
   - large-model-training

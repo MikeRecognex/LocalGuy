@@ -15,7 +15,6 @@ tags:
   - deployment
   - developer
   - docker-containerization
-  - hacker-news
   - intermediate
   - local-deployment
   - local-inference

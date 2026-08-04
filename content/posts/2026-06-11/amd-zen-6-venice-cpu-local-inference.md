@@ -12,7 +12,6 @@ tags:
   - enterprise
   - hardware
   - hardware-economics
-  - inference
   - intermediate
   - news
   - on-premises-deployment

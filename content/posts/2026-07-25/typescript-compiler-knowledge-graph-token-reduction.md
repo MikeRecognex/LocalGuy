@@ -10,14 +10,13 @@ tags:
   - context-compression
   - daily-digest
   - developer
-  - hacker-news
-  - inference
   - inference-efficiency
   - knowledge-graph
   - memory-optimization
   - open-source
   - optimization
   - showcase
+  - ts-compiler-knowledge-graph
 mentions:
   - name: Hacker News
     role: publisher

@@ -6,11 +6,15 @@ tags:
   - analysis
   - benchmark
   - bullish
+  - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
+  - llama-cpp
   - local-deployment
+  - mlx
+  - model-quantization
+  - ollama
   - on-device-inference
   - open-source
   - open-weights

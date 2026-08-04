@@ -9,7 +9,6 @@ tags:
   - coding-agents
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - llm-benchmarking
   - local-llms

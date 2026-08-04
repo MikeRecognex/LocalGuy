@@ -8,13 +8,13 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - image-processing
   - intermediate
   - local-first
   - local-inference
   - on-device-inference
   - open-source
+  - prettyshot
   - privacy-protection
   - showcase
   - tools

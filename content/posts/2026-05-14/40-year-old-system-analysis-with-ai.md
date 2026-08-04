@@ -18,7 +18,6 @@ tags:
   - documentation-generation
   - enterprise
   - fine-tuning
-  - hacker-news
   - intermediate
   - legacy-system-analysis
   - local-deployment

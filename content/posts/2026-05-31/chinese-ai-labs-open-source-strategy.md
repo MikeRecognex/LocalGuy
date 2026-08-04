@@ -10,7 +10,6 @@ tags:
   - developer
   - geopolitical-ai
   - global-trends
-  - hacker-news
   - intermediate
   - llm-deployment
   - llm-ecosystem

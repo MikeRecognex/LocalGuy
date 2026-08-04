@@ -8,6 +8,7 @@ tags:
   - developer
   - edge-device
   - edge-inference
+  - gemini-nano-4
   - hardware
   - intermediate
   - mobile
@@ -16,6 +17,7 @@ tags:
   - model-optimization
   - news
   - on-device-inference
+  - privacy-compliance
   - sammobile
 mentions:
   - name: SamMobile

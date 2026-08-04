@@ -10,7 +10,6 @@ tags:
   - data-privacy
   - edge-deployment
   - enterprise
-  - hacker-news
   - infrastructure
   - local-deployment
   - nexus-foundation

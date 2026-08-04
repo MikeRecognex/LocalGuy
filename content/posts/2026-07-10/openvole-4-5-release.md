@@ -7,7 +7,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - hardware
   - hardware-compatibility
   - inference-optimization

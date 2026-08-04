@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - democratization
   - developer
-  - hacker-news
   - local-llms
   - open-source
   - open-source-ai

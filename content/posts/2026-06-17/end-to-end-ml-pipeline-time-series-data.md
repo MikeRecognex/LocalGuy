@@ -7,8 +7,6 @@ tags:
   - daily-digest
   - developer
   - dolphindb
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment
   - neutral

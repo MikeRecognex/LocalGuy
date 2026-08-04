@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - developer
   - fine-tuning
-  - hacker-news
   - inference-optimization
   - intermediate
   - open-source

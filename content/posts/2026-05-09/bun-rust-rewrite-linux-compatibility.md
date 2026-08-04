@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - deployment-orchestration
   - developer
-  - hacker-news
   - inference-efficiency
   - inference-speed
   - infrastructure

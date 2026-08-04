@@ -15,7 +15,6 @@ tags:
   - developer
   - edge-ai
   - edge-device
-  - hacker-news
   - intermediate
   - local-deployment
   - local-llm-deployment

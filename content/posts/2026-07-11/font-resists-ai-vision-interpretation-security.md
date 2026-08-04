@@ -8,7 +8,6 @@ tags:
   - cautious
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - mixfont
   - multimodal

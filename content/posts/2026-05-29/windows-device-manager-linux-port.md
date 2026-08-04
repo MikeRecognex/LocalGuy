@@ -13,7 +13,6 @@ tags:
   - device-visibility
   - edge-ai-deployment
   - edge-device
-  - hacker-news
   - hardware-management
   - inference-troubleshooting
   - intermediate

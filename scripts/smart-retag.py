@@ -38,6 +38,9 @@ TAXONOMY_ORGS = {
 # Tags that are too generic or noisy to keep
 SUPPRESS_TAGS = {
     "inference",  # matches nearly every post on a local LLM blog
+    # Syndication sources. These describe where a story was found, not what it is about.
+    # Belt-and-braces alongside the role-based publisher check in map_extractions().
+    "hacker-news", "hackernews", "reddit", "github", "arxiv",
 }
 
 # ---------------------------------------------------------------------------
@@ -59,6 +62,11 @@ SEMANTIC TAGS (written to frontmatter tags:)
 - sentiment (exactly 1): e.g. bullish, cautious, neutral
 - hardware-tier (0-2, only if hardware explicitly discussed): e.g. consumer-gpu, datacenter-gpu, apple-silicon, cpu-only, edge-device, custom-asic
 
+PRODUCT (written to frontmatter tags:)
+- product (0-3): The named project, tool, model, app, or hardware that the post is ABOUT.
+  This is the most important extraction: if the post names a specific thing, capture it.
+  Attributes: name (as written), slug (lowercase-kebab-case), kind (project|model|tool|hardware|app)
+
 NAMED ENTITIES (written to frontmatter mentions:)
 - person: Named individuals mentioned. Attributes: name, role (if clear), handle (Twitter/X handle if well-known or found in text)
 - organisation: Named companies/orgs beyond those already tagged by regex. Attributes: name, role (e.g. "investor", "publisher", "partner"), handle (if known), url (if in text)
@@ -68,9 +76,17 @@ Rules:
 2. Use extraction_text to quote the phrase that justifies each tag
 3. Slugs MUST be lowercase-kebab-case (e.g. "iterative-reasoning" not "Iterative Reasoning")
 4. For topic tags: be specific and descriptive. Prefer "iterative-reasoning" over generic "reasoning". Prefer "cost-saving" over "cost". Capture the actual subject matter.
-5. For person/organisation: only extract if explicitly named in the text
+5. For person/organisation/product: only extract if explicitly named in the text
 6. For handles: only include if the handle appears in the text OR is widely known (e.g. @ID_AA_Carmack for John Carmack)
 7. Do NOT extract company names already covered by the site's regex taxonomy (nvidia, amd, intel, qualcomm, apple, microsoft, google, meta, anthropic, openai, mistral, alibaba, deepseek, hugging-face, stability-ai, groq, cerebras, samsung, bytedance, cohere, minimax, zhipu, cloudflare, asus, arm, taalas, mozilla, nomic)
+8. If the post's title names a specific project, model, tool or device, that name MUST appear as a
+   product extraction. A post about "Bubo" must yield product Bubo; a post about "reCamera Pro" must
+   yield product reCamera Pro. Do not skip it because it is unfamiliar or newly released.
+9. News aggregators and publications (Hacker News, Reddit, GitHub, Tom's Hardware, VentureBeat,
+   How-To Geek, ...) are organisations with role "publisher". They are NEVER products — the site
+   they were syndicated from is not what the post is about.
+10. Keep product slugs to the product name only. Strip vendor prefixes and marketing suffixes:
+    "PrismML's Bonsai 27B" -> slug "bonsai-27b"; "Seeed Studio reCamera Pro" -> slug "recamera-pro".
 """)
 
 EXAMPLES = [
@@ -89,6 +105,7 @@ EXAMPLES = [
             lx.data.Extraction(extraction_class="audience", extraction_text="viable pathways", attributes={"slug": "developer"}),
             lx.data.Extraction(extraction_class="sentiment", extraction_text="viable pathways for cost-effective inference", attributes={"slug": "bullish"}),
             lx.data.Extraction(extraction_class="hardware-tier", extraction_text="custom ASICs", attributes={"slug": "custom-asic"}),
+            lx.data.Extraction(extraction_class="product", extraction_text="Llama 3.1 8B", attributes={"name": "Llama 3.1 8B", "slug": "llama-3.1-8b", "kind": "model"}),
             lx.data.Extraction(extraction_class="person", extraction_text="CEO Janne Saarikko", attributes={"name": "Janne Saarikko", "role": "CEO"}),
         ],
     ),
@@ -106,6 +123,8 @@ EXAMPLES = [
             lx.data.Extraction(extraction_class="topic", extraction_text="Docker Compose", attributes={"slug": "docker-deployment"}),
             lx.data.Extraction(extraction_class="audience", extraction_text="organizations concerned about", attributes={"slug": "enterprise"}),
             lx.data.Extraction(extraction_class="sentiment", extraction_text="production-ready deployment guidance", attributes={"slug": "bullish"}),
+            lx.data.Extraction(extraction_class="product", extraction_text="Ollama", attributes={"name": "Ollama", "slug": "ollama", "kind": "tool"}),
+            lx.data.Extraction(extraction_class="product", extraction_text="Docker Compose", attributes={"name": "Docker Compose", "slug": "docker-compose", "kind": "tool"}),
             lx.data.Extraction(extraction_class="organisation", extraction_text="DigitalOcean", attributes={"name": "DigitalOcean", "role": "publisher"}),
         ],
     ),
@@ -141,6 +160,28 @@ EXAMPLES = [
             lx.data.Extraction(extraction_class="hardware-tier", extraction_text="consumer hardware", attributes={"slug": "consumer-gpu"}),
             lx.data.Extraction(extraction_class="person", extraction_text="John Carmack", attributes={"name": "John Carmack", "role": "programmer", "handle": "@ID_AA_Carmack"}),
             lx.data.Extraction(extraction_class="organisation", extraction_text="Tom's Hardware", attributes={"name": "Tom's Hardware", "role": "publisher"}),
+        ],
+    ),
+    # The dominant template on this site: an open-source project syndicated from an aggregator.
+    # The project is the subject; the aggregator is only the publisher.
+    lx.data.ExampleData(
+        text=(
+            "Sidekick is an open-source desktop app that runs local models behind a native macOS "
+            "interface. The project wraps llama.cpp and adds document indexing so users get "
+            "on-device retrieval without a cloud round-trip. "
+            "Read the full article on Hacker News."
+        ),
+        extractions=[
+            lx.data.Extraction(extraction_class="content-type", extraction_text="open-source desktop app", attributes={"slug": "showcase"}),
+            lx.data.Extraction(extraction_class="technical-depth", extraction_text="native macOS interface", attributes={"slug": "beginner-friendly"}),
+            lx.data.Extraction(extraction_class="topic", extraction_text="document indexing", attributes={"slug": "rag-pipeline"}),
+            lx.data.Extraction(extraction_class="topic", extraction_text="native macOS interface", attributes={"slug": "desktop-app"}),
+            lx.data.Extraction(extraction_class="audience", extraction_text="users get on-device retrieval", attributes={"slug": "hobbyist"}),
+            lx.data.Extraction(extraction_class="sentiment", extraction_text="without a cloud round-trip", attributes={"slug": "bullish"}),
+            lx.data.Extraction(extraction_class="hardware-tier", extraction_text="native macOS interface", attributes={"slug": "apple-silicon"}),
+            lx.data.Extraction(extraction_class="product", extraction_text="Sidekick", attributes={"name": "Sidekick", "slug": "sidekick", "kind": "project"}),
+            lx.data.Extraction(extraction_class="product", extraction_text="llama.cpp", attributes={"name": "llama.cpp", "slug": "llama.cpp", "kind": "tool"}),
+            lx.data.Extraction(extraction_class="organisation", extraction_text="Hacker News", attributes={"name": "Hacker News", "role": "publisher"}),
         ],
     ),
 ]
@@ -203,9 +244,11 @@ def update_frontmatter(content: str, new_tags: list[str], mentions: list[dict]) 
 
     fm = m.group(1)
 
-    # Replace tags block (normalize all to lowercase-kebab-case)
+    # Replace tags block (normalize all to lowercase-kebab-case).
+    # Additive except for SUPPRESS_TAGS, which are stripped from existing posts on re-run.
     existing = get_existing_tags(fm)
-    merged = sorted(set(slugify(t) for t in existing if slugify(t)) | set(new_tags))
+    kept = {s for s in (slugify(t) for t in existing) if s and s not in SUPPRESS_TAGS}
+    merged = sorted(kept | set(new_tags))
     new_tags_block = build_tags_block(merged)
     fm = TAGS_PATTERN.sub(new_tags_block, fm)
 
@@ -236,14 +279,22 @@ TAG_CLASSES = {
     "audience", "sentiment", "hardware-tier",
 }
 
-ENTITY_CLASSES = {"person", "organisation"}
+ENTITY_CLASSES = {"person", "organisation", "product"}
+
+# Roles whose orgs are recorded as mentions but never promoted to tags — the outlet that
+# syndicated a story is not what the story is about.
+PUBLISHER_ROLES = {"publisher", "aggregator", "source", "news-aggregator"}
 
 
 def slugify(text: str) -> str:
-    """Convert text to lowercase-kebab-case slug."""
+    """Convert text to lowercase-kebab-case slug.
+
+    Dots and slashes become separators so product names survive intact:
+    "llama.cpp" -> "llama-cpp" (matching the regex taxonomy), "Gainz.fast" -> "gainz-fast".
+    """
     s = text.lower().strip()
-    s = re.sub(r"[^a-z0-9\s-]", "", s)
-    s = re.sub(r"[\s_]+", "-", s)
+    s = re.sub(r"[.\s_/]+", "-", s)
+    s = re.sub(r"[^a-z0-9-]", "", s)
     s = re.sub(r"-+", "-", s)
     return s.strip("-")
 
@@ -275,21 +326,30 @@ def map_extractions(extractions: list) -> tuple[list[str], list[dict]]:
         elif cls == "organisation":
             name = attrs.get("name", ext.extraction_text)
             # Skip orgs already in regex taxonomy
-            slug_check = name.lower().replace(" ", "-").replace("'", "")
-            if slug_check in TAXONOMY_ORGS:
+            if slugify(name) in TAXONOMY_ORGS:
                 continue
+            role = attrs.get("role", "")
             mention = {"name": name}
-            if attrs.get("role"):
-                mention["role"] = attrs["role"]
+            if role:
+                mention["role"] = role
             if attrs.get("handle"):
                 mention["handle"] = attrs["handle"]
             if attrs.get("url"):
                 mention["url"] = attrs["url"]
             mentions.append(mention)
-            # Also add as a tag so companies appear in tag cloud/filters
+            # Add as a tag so companies appear in tag cloud/filters — but not publishers,
+            # which would otherwise bury the corpus under `hacker-news`.
             org_slug = slugify(name)
+            if role.lower() in PUBLISHER_ROLES:
+                continue
             if org_slug and org_slug not in SUPPRESS_TAGS:
                 tags.append(org_slug)
+
+        elif cls == "product":
+            # The named thing the post is about — the single most useful tag on the page.
+            slug = slugify(attrs.get("slug") or attrs.get("name") or ext.extraction_text)
+            if slug and slug not in SUPPRESS_TAGS:
+                tags.append(slug)
 
     return tags, mentions
 

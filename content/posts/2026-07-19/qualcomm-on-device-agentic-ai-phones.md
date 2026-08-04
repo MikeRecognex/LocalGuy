@@ -15,9 +15,10 @@ tags:
   - mobile
   - model-optimization
   - on-device-agents
+  - snapdragon-ai-engine
 mentions:
   - name: Xu Hao
-    role: executive
+    role: Executive
 status: published
 ---
 

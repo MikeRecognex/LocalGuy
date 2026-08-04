@@ -15,7 +15,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - intermediate
   - langchain
   - local-deployment

@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - developer
   - domain-specific-llm-tasks
-  - hacker-news
   - intermediate
   - llm-ui-patterns
   - local-deployment

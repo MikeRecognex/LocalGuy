@@ -12,7 +12,6 @@ tags:
   - coding-agents
   - daily-digest
   - enterprise
-  - hacker-news
   - intermediate
   - open-energy-transition
   - technical-debt

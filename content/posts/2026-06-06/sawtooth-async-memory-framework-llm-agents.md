@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - framework
-  - hacker-news
   - local-agents
   - memory-caching
   - memory-optimization

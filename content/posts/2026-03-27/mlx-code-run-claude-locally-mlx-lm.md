@@ -11,7 +11,6 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - local-llm-deployment

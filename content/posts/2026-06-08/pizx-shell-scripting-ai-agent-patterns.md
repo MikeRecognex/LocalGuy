@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - developer-tooling
-  - hacker-news
   - intermediate
   - local-inference
   - open-source

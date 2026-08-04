@@ -11,7 +11,6 @@ tags:
   - edge-ai
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - intermediate
   - lightweight-models

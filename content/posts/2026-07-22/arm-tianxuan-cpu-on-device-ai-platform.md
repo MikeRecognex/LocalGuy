@@ -10,6 +10,7 @@ tags:
   - developer
   - edge-ai
   - edge-device
+  - edge-device-inference
   - edge-inference
   - hardware
   - hardware-acceleration
@@ -17,6 +18,8 @@ tags:
   - intermediate
   - iot
   - release
+  - tianxuan-cpu
+  - xingchen-300
 mentions:
   - name: BigGo Finance
     role: publisher

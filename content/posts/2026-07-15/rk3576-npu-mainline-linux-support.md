@@ -9,12 +9,13 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
+  - hardware-enablement
   - linux-kernel
   - npu
   - npu-acceleration
   - open-source
+  - rk3576
   - tutorial
 mentions:
   - name: Hacker News

@@ -9,16 +9,17 @@ tags:
   - edge-device
   - edge-inference
   - function-calling
+  - functiongemma
   - intermediate
   - memory-optimization
   - mobile
   - mobile-inference
-  - reddit
+  - offline-inference
   - showcase
   - voice-agent
   - voice-agents
 mentions:
-  - name: Reddit
+  - name: Hacker News
     role: publisher
 status: published
 ---

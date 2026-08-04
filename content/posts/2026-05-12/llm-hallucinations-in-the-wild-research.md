@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - evaluation
-  - hacker-news
   - hallucinations
   - intermediate
   - llm-hallucinations

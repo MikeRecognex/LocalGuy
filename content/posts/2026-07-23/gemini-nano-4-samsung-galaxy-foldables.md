@@ -6,13 +6,17 @@ tags:
   - 9to5google
   - bullish
   - daily-digest
+  - data-privacy
   - developer
   - edge-device
   - edge-hardware
   - edge-inference
+  - galaxy-z-fold
   - gemini-nano
+  - gemini-nano-4
   - intermediate
   - mobile
+  - mobile-deployment
   - mobile-optimization
   - model-quantization
   - on-device-ai

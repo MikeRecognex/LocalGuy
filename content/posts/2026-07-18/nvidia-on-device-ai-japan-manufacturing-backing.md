@@ -15,9 +15,13 @@ tags:
   - enterprise-adoption
   - hardware
   - intermediate
+  - llama-cpp
   - msn
   - nvidia
+  - ollama
+  - privacy-compliance
   - privacy-preserving-inference
+  - vllm
 mentions:
   - name: MSN
     role: publisher

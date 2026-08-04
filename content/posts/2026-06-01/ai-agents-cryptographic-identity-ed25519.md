@@ -16,7 +16,6 @@ tags:
   - decentralized-agents
   - decentralized-ai
   - developer
-  - hacker-news
   - local-agent-systems
   - local-deployment
   - proveyouragent

@@ -24,7 +24,6 @@ tags:
   - mxfp4-precision
   - offline-deployment
   - quantization
-  - reddit
   - release
   - resource-efficiency
   - training

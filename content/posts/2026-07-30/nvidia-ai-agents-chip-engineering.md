@@ -4,6 +4,7 @@ date: 2026-07-30
 description: "Nvidia leverages AI agents to accelerate its own chip design workflows, demonstrating practical applications of autonomous AI systems in hardware optimization."
 tags:
   - advanced
+  - agent-orchestration
   - agents
   - analysis
   - autonomous-agents
@@ -11,7 +12,6 @@ tags:
   - chip-design
   - daily-digest
   - developer
-  - hacker-news
   - hardware
   - hardware-optimization
   - inference-efficiency

@@ -14,7 +14,6 @@ tags:
   - developer
   - developer-tools
   - enterprise
-  - hacker-news
   - intermediate
   - llm-assisted-development
   - local-llm-development

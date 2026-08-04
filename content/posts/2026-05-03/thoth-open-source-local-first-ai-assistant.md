@@ -11,7 +11,6 @@ tags:
   - development-acceleration
   - edge-deployment
   - enterprise
-  - hacker-news
   - intermediate
   - local-ai
   - local-deployment

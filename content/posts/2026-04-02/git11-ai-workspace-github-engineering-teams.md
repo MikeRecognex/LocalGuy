@@ -12,7 +12,6 @@ tags:
   - git11
   - github-integration
   - github-workflow-integration
-  - hacker-news
   - hybrid-ai-deployment
   - intermediate
   - llm-development-tools

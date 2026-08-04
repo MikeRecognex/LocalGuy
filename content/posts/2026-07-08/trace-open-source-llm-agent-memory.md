@@ -11,8 +11,6 @@ tags:
   - developer
   - edge-device
   - framework
-  - github
-  - hacker-news
   - inference-optimization
   - intermediate
   - memory-optimization

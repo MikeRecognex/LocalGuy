@@ -11,8 +11,6 @@ tags:
   - data-sovereignty
   - developer
   - developer-tools
-  - github
-  - hacker-news
   - hybrid-deployment
   - intermediate
   - security

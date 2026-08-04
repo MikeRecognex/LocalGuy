@@ -7,8 +7,6 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - hacker-news
-  - inference
   - intermediate
   - long-context
   - memory-efficiency

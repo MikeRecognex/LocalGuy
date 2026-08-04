@@ -16,7 +16,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - intermediate
   - local-agent-frameworks
   - open-source

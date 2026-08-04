@@ -9,6 +9,7 @@ tags:
   - developer
   - edge-deployment
   - edge-device
+  - ingrid
   - intermediate
   - local-first
   - open-source
@@ -17,9 +18,12 @@ tags:
   - semantic-search
   - tanji-systems
   - tools
+  - treesheets
 mentions:
   - name: Tanji Systems
     role: developer
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

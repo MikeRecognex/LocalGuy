@@ -12,7 +12,7 @@ tags:
   - edge-device
   - export-controls
   - geopolitics
-  - hacker-news
+  - intermediate
   - localization
   - open-source
   - open-source-ecosystem

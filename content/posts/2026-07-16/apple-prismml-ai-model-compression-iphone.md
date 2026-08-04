@@ -11,6 +11,9 @@ tags:
   - edge-inference
   - hardware
   - intermediate
+  - iphone
+  - llama-cpp
+  - mobile-ai
   - model-compression
   - news
   - on-device-inference
@@ -18,8 +21,8 @@ tags:
   - quantisation
   - quantization
 mentions:
-  - name: PrismML
-    role: developer
+  - name: Hacker News
+    role: publisher
   - name: CNBC
     role: publisher
 status: published

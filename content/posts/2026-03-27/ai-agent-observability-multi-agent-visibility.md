@@ -16,7 +16,6 @@ tags:
   - developer
   - edge-device
   - enterprise
-  - hacker-news
   - local-agent-deployment
   - multi-agent-observability
   - neutral

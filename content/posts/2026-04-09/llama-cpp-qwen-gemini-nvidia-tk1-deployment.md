@@ -10,7 +10,6 @@ tags:
   - edge-device
   - edge-device-ai
   - edge-inference
-  - hacker-news
   - hardware
   - hardware-optimization
   - inference-optimization

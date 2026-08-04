@@ -9,7 +9,6 @@ tags:
   - deployment
   - developer
   - edge-inference
-  - hacker-news
   - infrastructure
   - intermediate
   - local-first

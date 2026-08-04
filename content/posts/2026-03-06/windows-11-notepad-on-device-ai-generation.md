@@ -11,7 +11,6 @@ tags:
   - edge-ai
   - edge-deployment
   - enterprise
-  - inference
   - local-deployment
   - local-inference-adoption
   - mainstream-adoption

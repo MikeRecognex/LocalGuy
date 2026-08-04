@@ -7,7 +7,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - inference
   - java
   - jvm-ecosystem
   - latency-reduction

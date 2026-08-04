@@ -12,7 +12,6 @@ tags:
   - evaluation
   - evaluation-framework
   - evol-ai
-  - hacker-news
   - hardware-optimization
   - intermediate
   - local-deployment

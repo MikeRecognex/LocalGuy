@@ -10,7 +10,6 @@ tags:
   - developer
   - embedding-models
   - embeddings
-  - hacker-news
   - intermediate
   - local-deployment
   - local-embeddings

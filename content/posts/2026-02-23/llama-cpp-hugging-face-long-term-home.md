@@ -6,7 +6,6 @@ tags:
   - consumer-gpu
   - cpu-inference
   - hardware-optimization
-  - inference
   - llama-cpp
   - local-inference
   - model-deployment-tooling

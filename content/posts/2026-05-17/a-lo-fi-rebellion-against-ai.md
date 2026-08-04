@@ -15,7 +15,6 @@ tags:
   - daily-digest
   - developer
   - ethical-ai
-  - hacker-news
   - human-in-the-loop-ai
   - intermediate
   - local-llm-benefits

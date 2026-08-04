@@ -9,15 +9,18 @@ tags:
   - developer
   - development-tools
   - edge-device
+  - edge-device-optimization
   - edge-inference
-  - hacker-news
   - intermediate
+  - llama-cpp
   - open-source
   - production-deployment
   - release
+  - ruff
+  - vllm
 mentions:
   - name: Hacker News
-    role: source
+    role: publisher
 status: published
 ---
 

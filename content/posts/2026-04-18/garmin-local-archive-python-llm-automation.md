@@ -15,7 +15,6 @@ tags:
   - data-processing-automation
   - developer
   - garmin
-  - hacker-news
   - inference-optimization
   - intermediate
   - local-inference

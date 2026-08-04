@@ -12,17 +12,21 @@ tags:
   - developer
   - edge-device
   - hardware
+  - intermediate
   - mobile
   - model-compression
   - msn
   - news
   - on-device-inference
   - prismml
+  - privacy-compliance
   - quantisation
 mentions:
   - name: PrismML
     role: developer
   - name: MSN
+    role: publisher
+  - name: Google News
     role: publisher
 status: published
 ---

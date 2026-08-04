@@ -4,9 +4,11 @@ date: 2026-08-02
 description: "AMD's MI355X GPU offers competitive pricing advantages over NVIDIA's B300 for running large language models, providing cost-conscious practitioners with viable alternatives for local inference hardware."
 tags:
   - amd
+  - b300
   - bullish
   - comparison
   - cost-optimization
+  - cost-saving
   - daily-digest
   - datacenter-gpu
   - enterprise
@@ -14,7 +16,10 @@ tags:
   - hardware-benchmarks
   - hardware-economics
   - inference-hardware
+  - inference-infrastructure
   - intermediate
+  - kimi-k3
+  - mi355x
   - nvidia
 status: published
 ---

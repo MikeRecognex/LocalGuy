@@ -8,11 +8,16 @@ tags:
   - code-completion
   - daily-digest
   - developer
+  - github-copilot
+  - intermediate
   - local-inference
   - offline-code-completion
   - ollama
+  - privacy-compliance
   - privacy-preservation
   - showcase
+  - tutorial
+  - vs-code
   - vscode
 status: published
 ---

@@ -16,7 +16,6 @@ tags:
   - developer
   - edge-deployment
   - framework
-  - hacker-news
   - intermediate
   - isolated-workspaces
   - local-deployment

@@ -16,7 +16,6 @@ tags:
   - edge-ai
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - hardware-agnostic-deployment
   - intermediate

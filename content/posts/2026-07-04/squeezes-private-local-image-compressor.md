@@ -8,7 +8,6 @@ tags:
   - developer
   - edge-computing
   - edge-inference
-  - hacker-news
   - intermediate
   - local-first
   - open-source

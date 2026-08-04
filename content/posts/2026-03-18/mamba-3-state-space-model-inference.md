@@ -11,7 +11,6 @@ tags:
   - context-management
   - developer
   - edge-computing
-  - inference
   - inference-optimization
   - intermediate
   - llm-deployment

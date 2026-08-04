@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - release

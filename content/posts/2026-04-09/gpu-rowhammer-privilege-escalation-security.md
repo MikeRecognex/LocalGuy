@@ -13,7 +13,6 @@ tags:
   - gpu
   - gpu-hardware
   - gpu-security
-  - hacker-news
   - hardware
   - hardware-security
   - local-llm-security

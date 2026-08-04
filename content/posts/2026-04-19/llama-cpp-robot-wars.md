@@ -10,7 +10,6 @@ tags:
   - edge-ai
   - edge-device
   - embedded
-  - hacker-news
   - inference-optimization
   - inference-speed
   - intermediate

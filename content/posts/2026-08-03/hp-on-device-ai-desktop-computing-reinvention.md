@@ -9,6 +9,7 @@ tags:
   - daily-digest
   - dell
   - desktop
+  - desktop-ai
   - developer
   - enterprise
   - hardware
@@ -20,13 +21,14 @@ tags:
   - on-device-ai
   - privacy-preserving-ai
   - reseller-news
+  - self-hosted-ai
 mentions:
   - name: HP
-    role: hardware-manufacturer
+    role: manufacturer
   - name: Dell
-    role: hardware-manufacturer
+    role: manufacturer
   - name: Lenovo
-    role: hardware-manufacturer
+    role: manufacturer
   - name: Reseller News
     role: publisher
 status: published

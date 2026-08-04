@@ -12,7 +12,6 @@ tags:
   - code-llm-performance
   - daily-digest
   - developer
-  - hacker-news
   - hallucination-reduction
   - intermediate
   - llm-evaluation

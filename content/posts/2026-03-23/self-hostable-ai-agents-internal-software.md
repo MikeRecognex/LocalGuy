@@ -12,7 +12,6 @@ tags:
   - deployment-patterns
   - edge-computing
   - enterprise
-  - github
   - intermediate
   - internal-software-framework
   - llm-deployment

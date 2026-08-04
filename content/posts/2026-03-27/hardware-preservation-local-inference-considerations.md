@@ -13,7 +13,6 @@ tags:
   - deployment-strategy
   - developer
   - enterprise
-  - hacker-news
   - hardware
   - hardware-lifecycle-management
   - hardware-longevity

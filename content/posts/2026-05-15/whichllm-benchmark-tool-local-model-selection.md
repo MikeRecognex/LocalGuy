@@ -13,7 +13,6 @@ tags:
   - deployment-optimization
   - developer
   - edge-device
-  - hacker-news
   - hardware
   - hardware-optimization
   - intermediate

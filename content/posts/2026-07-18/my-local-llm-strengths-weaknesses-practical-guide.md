@@ -9,9 +9,9 @@ tags:
   - developer
   - how-to-geek
   - hybrid-deployment
-  - inference
   - intermediate
   - limitations
+  - model-evaluation
   - model-limitations
   - neutral
   - performance

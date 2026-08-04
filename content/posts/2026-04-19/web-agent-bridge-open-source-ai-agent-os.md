@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - developer
   - framework
-  - hacker-news
   - intermediate
   - local-inference
   - local-llm

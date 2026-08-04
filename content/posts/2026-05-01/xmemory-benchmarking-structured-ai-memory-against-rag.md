@@ -5,7 +5,6 @@ description: "A new benchmark comparing structured AI memory systems against ret
 tags:
   - advanced
   - analysis
-  - arxiv
   - benchmark
   - benchmark-report
   - bullish
@@ -16,7 +15,6 @@ tags:
   - edge-deployment
   - edge-device
   - edge-device-deployment
-  - hacker-news
   - inference-efficiency
   - llm-applications
   - llm-architecture

@@ -12,13 +12,16 @@ tags:
   - developer
   - distributed-inference
   - gpu
-  - hacker-news
   - hardware
+  - hardware-scaling
   - inference-speed
+  - k3
   - multi-gpu-inference
   - multi-gpu-scaling
   - neutral
+  - rtx-5090
   - tensor-parallelism
+  - vllm
 mentions:
   - name: Hacker News
     role: publisher

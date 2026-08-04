@@ -17,7 +17,6 @@ tags:
   - developer
   - ethical-data-sourcing
   - guide
-  - hacker-news
   - intermediate
   - licensing
   - model-fine-tuning

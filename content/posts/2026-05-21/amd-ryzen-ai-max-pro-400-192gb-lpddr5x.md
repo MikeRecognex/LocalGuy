@@ -14,7 +14,6 @@ tags:
   - edge-deployment
   - edge-inference
   - enterprise
-  - hacker-news
   - hardware
   - hardware-comparison
   - inference-optimization

@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - function-calling
-  - hacker-news
   - intermediate
   - mcp
   - open-source

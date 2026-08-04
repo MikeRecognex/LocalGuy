@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - edge-deployment
-  - hacker-news
   - infrastructure-less-deployment
   - intermediate
   - lightweight-inference

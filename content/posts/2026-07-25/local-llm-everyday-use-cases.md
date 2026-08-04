@@ -18,7 +18,7 @@ tags:
   - use-cases
   - xda-developers
 mentions:
-  - name: XDA Developers
+  - name: XDA
     role: publisher
 status: published
 ---

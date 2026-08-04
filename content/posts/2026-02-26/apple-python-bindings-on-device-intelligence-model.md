@@ -15,7 +15,6 @@ tags:
   - developer
   - edge-computing
   - edge-inference
-  - github
   - intermediate
   - local-inference
   - model-optimization

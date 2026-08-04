@@ -11,7 +11,6 @@ tags:
   - constrained-environments
   - developer-tooling
   - edge-computing
-  - github
   - lightweight-ai-agents
   - lightweight-llms
   - local-deployment

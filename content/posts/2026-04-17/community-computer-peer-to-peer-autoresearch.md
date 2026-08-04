@@ -17,7 +17,6 @@ tags:
   - distributed-computing
   - distributed-training
   - edge-device
-  - hacker-news
   - intermediate
   - local-inference
   - open-source

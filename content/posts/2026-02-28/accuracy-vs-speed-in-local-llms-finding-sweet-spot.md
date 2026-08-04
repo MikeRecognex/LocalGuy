@@ -7,7 +7,6 @@ tags:
   - benchmarking
   - consumer-gpu
   - hardware-benchmarking
-  - inference
   - local-deployment
   - model-architecture
   - model-optimization

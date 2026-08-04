@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - data-privacy
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - open-source

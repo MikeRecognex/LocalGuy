@@ -11,7 +11,6 @@ tags:
   - developer
   - developer-experience
   - hardware
-  - inference
   - intermediate
   - llama-cpp
   - llama-cpp-feature

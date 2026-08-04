@@ -12,6 +12,7 @@ tags:
   - fine-tuning
   - local-optimization
   - model-fine-tuning
+  - molt
   - open-source
   - release
   - tech-times

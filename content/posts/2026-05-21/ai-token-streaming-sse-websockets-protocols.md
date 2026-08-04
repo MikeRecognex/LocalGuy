@@ -12,8 +12,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
-  - inference
   - llm-deployment
   - local-first-architecture
   - network-protocol-optimization

@@ -16,7 +16,6 @@ tags:
   - edge-deployment
   - electrical-infrastructure
   - enterprise
-  - hacker-news
   - hardware-constraints
   - infrastructure
   - infrastructure-management

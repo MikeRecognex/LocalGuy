@@ -15,7 +15,6 @@ tags:
   - edge-ai
   - edge-device
   - framework
-  - hacker-news
   - intermediate
   - local-agent-deployment
   - local-feedback-loops

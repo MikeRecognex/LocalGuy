@@ -7,10 +7,11 @@ tags:
   - beginner-friendly
   - bloomberg
   - cautious
+  - compliance-security
   - daily-digest
   - enterprise
   - global-deployment
-  - hacker-news
+  - intermediate
   - legal-compliance
   - news
   - open-source

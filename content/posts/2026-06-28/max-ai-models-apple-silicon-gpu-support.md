@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - gpu-acceleration
-  - hacker-news
   - hardware
   - intermediate
   - local-inference

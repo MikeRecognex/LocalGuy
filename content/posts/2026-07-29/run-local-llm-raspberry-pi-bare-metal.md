@@ -14,8 +14,10 @@ tags:
   - embedded
   - hacksterio
   - optimization
+  - phi-2
   - raspberry-pi
   - resource-optimization
+  - tinyllama
   - tutorial
 mentions:
   - name: Hackster.io

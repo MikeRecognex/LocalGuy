@@ -12,7 +12,6 @@ tags:
   - edge-device
   - enterprise
   - enterprise-security-ai
-  - hacker-news
   - intermediate
   - local-security-analysis
   - model-optimization

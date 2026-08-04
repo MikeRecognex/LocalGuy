@@ -7,8 +7,6 @@ tags:
   - developer
   - discussion
   - edge-device
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment
   - neutral

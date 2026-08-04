@@ -15,10 +15,12 @@ tags:
   - edge-inference
   - ein-news
   - hardware
+  - intermediate
   - latency-reduction
   - npu-acceleration
   - on-device-inference
   - productivity-gains
+  - ryzen-ai
 mentions:
   - name: EIN News
     role: publisher

@@ -7,12 +7,12 @@ tags:
   - daily-digest
   - developer
   - education
-  - hacker-news
   - how-machines-think
   - inference-optimization
   - intermediate
   - learning
   - local-deployment
+  - model-quantization
   - open-source
   - quantization-strategies
   - tutorial

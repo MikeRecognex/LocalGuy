@@ -4,19 +4,25 @@ date: 2026-07-27
 description: "Netflix has published details about its production LLM serving infrastructure, combining NVIDIA Triton and vLLM for efficient model deployment. This real-world case study demonstrates battle-tested patterns for scaling LLM inference at enterprise scale."
 tags:
   - advanced
+  - analysis
   - bullish
   - consumer-gpu
   - daily-digest
+  - datacenter-gpu
   - deployment
+  - developer
   - enterprise
   - inference-optimization
   - infoq
+  - model-serving
+  - multi-gpu-orchestration
   - netflix
   - paged-attention
   - production-deployment
   - self-hosted-llm
   - showcase
   - triton
+  - triton-inference-server
   - vllm
 mentions:
   - name: Netflix

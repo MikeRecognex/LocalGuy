@@ -10,7 +10,6 @@ tags:
   - coding-assistants
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - neutral
   - open-source

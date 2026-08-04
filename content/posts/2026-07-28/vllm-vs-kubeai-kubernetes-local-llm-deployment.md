@@ -8,12 +8,15 @@ tags:
   - daily-digest
   - deployment
   - developer
+  - enterprise
   - inference-frameworks
   - inference-optimization
+  - kubeai
   - kubernetes
   - kubernetes-deployment
   - neutral
   - open-source
+  - self-hosted-llm
   - self-hosted-llms
   - sitepoint
   - vllm

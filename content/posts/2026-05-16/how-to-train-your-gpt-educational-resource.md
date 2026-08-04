@@ -11,7 +11,6 @@ tags:
   - developer
   - education
   - fine-tuning
-  - hacker-news
   - intermediate
   - llm-accessibility
   - llm-training

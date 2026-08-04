@@ -8,7 +8,6 @@ tags:
   - data-sovereignty
   - deployment
   - enterprise
-  - hacker-news
   - infrastructure
   - integration
   - intermediate
@@ -19,8 +18,6 @@ tags:
   - self-hosted-infrastructure
   - tutorial
 mentions:
-  - name: ONES
-    role: publisher
   - name: Hacker News
     role: publisher
 status: published

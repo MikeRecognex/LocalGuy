@@ -11,11 +11,14 @@ tags:
   - edge-device
   - edge-inference
   - gemma
+  - gemma-4
   - hardware
   - intermediate
   - model-optimization
   - on-device-inference
+  - pixel-10
   - privacy-compliance
+  - quantization
   - release
   - techgenyz
 mentions:

@@ -15,7 +15,6 @@ tags:
   - data-privacy
   - data-security
   - enterprise
-  - hacker-news
   - healthcare
   - healthcare-ai
   - healthcare-ai-deployment

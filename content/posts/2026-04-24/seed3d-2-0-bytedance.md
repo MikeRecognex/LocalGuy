@@ -12,7 +12,6 @@ tags:
   - edge-ai-optimization
   - generative-3d
   - generative-models
-  - hacker-news
   - intermediate
   - local-llm-deployment
   - model-composition

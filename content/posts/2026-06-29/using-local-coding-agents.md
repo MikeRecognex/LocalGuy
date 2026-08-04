@@ -12,7 +12,6 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - open-source

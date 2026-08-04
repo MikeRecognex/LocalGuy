@@ -9,7 +9,6 @@ tags:
   - deployment-platform
   - deployment-reliability
   - developer-tooling
-  - github
   - local-deployment
   - model-validation
   - news

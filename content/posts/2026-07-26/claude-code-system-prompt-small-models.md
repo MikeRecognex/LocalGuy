@@ -6,6 +6,7 @@ tags:
   - analysis
   - antigmaai
   - bullish
+  - claude-code
   - coding-assistants
   - consumer-gpu
   - context-window-optimization
@@ -13,17 +14,16 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
+  - memory-efficiency
   - memory-optimization
   - prompt-engineering
   - prompt-optimization
   - quantisation
   - small-language-models
+  - token-efficiency
 mentions:
   - name: Hacker News
-    role: publisher
-  - name: Antigma.ai
     role: publisher
 status: published
 ---

@@ -9,7 +9,6 @@ tags:
   - collaboration
   - daily-digest
   - developer
-  - hacker-news
   - human-ai-collaboration
   - intermediate
   - local-llm-integration

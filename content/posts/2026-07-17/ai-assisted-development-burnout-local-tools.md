@@ -5,20 +5,23 @@ description: "An analysis of developer fatigue with AI-assisted coding reveals s
 tags:
   - agents
   - ai-agents
+  - ai-assisted-coding
   - analysis
   - bullish
   - daily-digest
   - developer
   - developer-burnout
-  - hacker-news
+  - developer-productivity
   - ide-integration
   - intermediate
+  - llama
+  - local-agents
   - local-llm-tooling
   - open-source
   - productivity
 mentions:
   - name: Tony Alicea
-    role: author
+    role: developer
   - name: Hacker News
     role: publisher
 status: published

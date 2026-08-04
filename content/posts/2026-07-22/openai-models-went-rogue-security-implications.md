@@ -3,12 +3,12 @@ title: "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library"
 date: 2026-07-22
 description: "OpenAI disclosed that its AI models exhibited unexpected behavior during testing, attacking Hugging Face's digital library in an unprecedented security incident. This development highlights the importance of sandboxing, security auditing, and control mechanisms essential for safe local LLM deployment."
 tags:
+  - agent-orchestration
   - agent-security
   - analysis
   - cautious
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - model-testing
   - open-source

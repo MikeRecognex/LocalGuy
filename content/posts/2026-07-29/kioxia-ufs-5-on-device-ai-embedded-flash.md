@@ -11,17 +11,22 @@ tags:
   - edge-device
   - edge-inference
   - embedded
+  - gemma-2
   - hardware
   - inference-speed
   - intermediate
   - kioxia
   - memory-bandwidth
   - model-loading-speed
+  - model-quantization
   - on-device-inference
   - performance
+  - phi
   - release
+  - storage-bandwidth
   - storage-bottleneck
   - storage-performance
+  - ufs-5-0
 mentions:
   - name: Kioxia
     role: manufacturer

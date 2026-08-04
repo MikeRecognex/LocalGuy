@@ -14,7 +14,6 @@ tags:
   - enterprise
   - enterprise-ai-challenges
   - enterprise-deployment
-  - hacker-news
   - hardware-consistency
   - inference-optimization
   - intermediate

@@ -12,7 +12,6 @@ tags:
   - edge-device
   - edge-inference
   - embedded
-  - hacker-news
   - hardware
   - inference-optimization
   - microcontroller-ai

@@ -3,6 +3,7 @@ title: "The KV Cache Survival Guide: Why Your GPU Runs Out of Memory with Local 
 date: 2026-08-02
 description: "Deep dive into KV cache management and practical strategies to prevent GPU out-of-memory errors when running local LLMs, a critical bottleneck for on-device inference."
 tags:
+  - advanced
   - bullish
   - consumer-gpu
   - context-window
@@ -12,6 +13,7 @@ tags:
   - gpu
   - intermediate
   - kv-cache-optimization
+  - llama-2
   - memory-optimization
   - nvidia
   - oom-prevention

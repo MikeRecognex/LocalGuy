@@ -8,7 +8,6 @@ tags:
   - enprompta
   - enterprise
   - evaluation
-  - hacker-news
   - intermediate
   - llm-evaluation
   - llm-observability
@@ -16,11 +15,10 @@ tags:
   - observability
   - production
   - prompt-management
+  - release
   - showcase
   - tools
 mentions:
-  - name: Enprompta
-    role: developer
   - name: Hacker News
     role: publisher
 status: published

@@ -3,6 +3,7 @@ title: "K-EXAONE 2.0 Brings 262K Context to Frontier AI"
 date: 2026-08-04
 description: "K-EXAONE 2.0 introduces a 262K token context window, significantly expanding the capabilities of frontier-class models for local deployment and extended reasoning tasks. This represents a major advancement in practical context window management."
 tags:
+  - advanced
   - agent-orchestration
   - benchmark
   - bullish
@@ -10,8 +11,11 @@ tags:
   - context-window
   - daily-digest
   - developer
+  - extended-context-window
   - inference-optimization
   - intermediate
+  - k-exaone-2-0
+  - kv-cache-optimization
   - open-source
   - quantisation
   - rag-pipeline

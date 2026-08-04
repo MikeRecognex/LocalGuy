@@ -6,7 +6,6 @@ tags:
   - bullish
   - daily-digest
   - enterprise
-  - hacker-news
   - infrastructure
   - infrastructure-resilience
   - intermediate

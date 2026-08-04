@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - fable
-  - hacker-news
   - intermediate
   - mixture-of-experts
   - model-quantization

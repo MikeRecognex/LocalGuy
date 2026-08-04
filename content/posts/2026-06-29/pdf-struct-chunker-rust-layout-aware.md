@@ -8,7 +8,6 @@ tags:
   - developer
   - document-chunking
   - edge-device
-  - hacker-news
   - intermediate
   - local-deployment
   - open-source

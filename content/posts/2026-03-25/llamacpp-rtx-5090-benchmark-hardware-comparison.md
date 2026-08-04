@@ -21,7 +21,7 @@ tags:
   - inference-throughput
   - intermediate
   - llama-bench
-  - llamacpp
+  - llama-cpp
   - local-inference
   - local-llm-infrastructure
   - neutral

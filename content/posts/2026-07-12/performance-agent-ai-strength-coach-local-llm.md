@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - fine-tuning
-  - hacker-news
   - intermediate
   - knowledge-integration
   - local-deployment

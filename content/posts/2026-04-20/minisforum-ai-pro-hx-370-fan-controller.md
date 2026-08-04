@@ -12,7 +12,6 @@ tags:
   - edge-device-deployment
   - edge-devices
   - fan-control
-  - hacker-news
   - hardware
   - hardware-optimization
   - local-llm-inference

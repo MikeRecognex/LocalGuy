@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - intermediate
   - opinion
   - secrets-management

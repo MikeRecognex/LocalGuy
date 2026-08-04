@@ -8,19 +8,24 @@ tags:
   - analysis
   - consumer-gpu
   - daily-digest
+  - datacenter-gpu
   - deployment
   - developer
   - distributed-inference
   - edge-inference
-  - hacker-news
   - infrastructure
+  - llama-cpp
   - llm-scalability
+  - model-scalability
   - model-serving
   - multi-gpu
   - neutral
+  - ollama
   - performance
+  - resource-allocation
   - resource-optimization
   - scalability
+  - vllm
 mentions:
   - name: ACM Queue
     role: publisher

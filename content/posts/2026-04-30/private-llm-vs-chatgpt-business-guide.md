@@ -13,7 +13,6 @@ tags:
   - data-privacy
   - deployment
   - enterprise
-  - hacker-news
   - intermediate
   - local-vs-cloud-deployment
   - moraieu

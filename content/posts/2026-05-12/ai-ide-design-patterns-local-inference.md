@@ -12,7 +12,6 @@ tags:
   - developer
   - developer-experience
   - developer-tool-integration
-  - hacker-news
   - ide
   - intermediate
   - local-inference

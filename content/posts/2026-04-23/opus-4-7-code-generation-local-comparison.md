@@ -12,8 +12,6 @@ tags:
   - daily-digest
   - data-privacy
   - developer
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment-benefits
   - local-vs-cloud-ai

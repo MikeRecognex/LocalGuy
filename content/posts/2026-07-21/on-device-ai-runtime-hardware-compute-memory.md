@@ -12,13 +12,17 @@ tags:
   - edge-device
   - edge-inference
   - hardware
+  - llama-cpp
+  - low-power-inference
   - memory-bandwidth
+  - ollama
   - on-device-inference
   - performance
   - power-efficiency
   - waic
+  - waic-2026
 mentions:
-  - name: WAIC
+  - name: WAIC 2026
     role: event
 status: published
 ---

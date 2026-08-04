@@ -4,6 +4,7 @@ date: 2026-08-02
 description: "NVIDIA introduces Molt, a new reinforcement learning framework designed for PyTorch environments, enabling more sophisticated agent development for local and distributed LLM deployments."
 tags:
   - advanced
+  - agent-orchestration
   - agentic-ai
   - agents
   - bullish
@@ -12,6 +13,7 @@ tags:
   - framework
   - local-deployment
   - marktechpost
+  - molt
   - on-device-fine-tuning
   - open-source
   - pytorch

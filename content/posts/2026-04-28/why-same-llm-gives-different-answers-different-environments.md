@@ -15,9 +15,7 @@ tags:
   - developer
   - edge-device
   - environmental-impact
-  - hacker-news
   - hardware-acceleration
-  - inference
   - local-inference
   - neutral
   - output-consistency

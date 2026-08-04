@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - frameworks
-  - hacker-news
   - intermediate
   - interpretability
   - model-validation

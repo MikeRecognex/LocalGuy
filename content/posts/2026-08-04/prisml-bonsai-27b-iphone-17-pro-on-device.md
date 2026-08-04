@@ -5,16 +5,19 @@ description: "PrismML introduces Bonsai 27B, an optimized 27-billion-parameter m
 tags:
   - apple-silicon
   - benchmark
+  - bonsai-27b
   - bullish
   - daily-digest
   - developer
   - edge-device
   - intermediate
+  - iphone-17-pro
   - mobile
   - mobile-llm
   - model-quantization
   - on-device-inference
   - prismml
+  - privacy-preservation
   - quantisation
   - release
 mentions:

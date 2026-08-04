@@ -6,17 +6,22 @@ tags:
   - beginner-friendly
   - budget-hardware
   - bullish
+  - chatgpt
   - cost-saving
   - cpu-only
   - daily-digest
   - gemma
   - hobbyist
+  - intermediate
   - mini-pc
   - model-optimization
   - model-quantization
   - offline-inference
   - practical-deployment
   - showcase
+mentions:
+  - name: MSN
+    role: publisher
 status: published
 ---
 

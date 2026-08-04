@@ -12,7 +12,6 @@ tags:
   - cli-tools
   - daily-digest
   - developer
-  - hacker-news
   - hybrid-deployment
   - hybrid-inference
   - integration

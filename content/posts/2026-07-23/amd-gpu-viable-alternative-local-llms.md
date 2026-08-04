@@ -8,6 +8,7 @@ tags:
   - benchmark-report
   - bullish
   - consumer-gpu
+  - cost-saving
   - daily-digest
   - developer
   - gpu
@@ -15,8 +16,10 @@ tags:
   - hardware
   - hardware-cost-efficiency
   - hardware-selection
+  - hip
   - intermediate
   - makeuseof
+  - rdna
   - self-hosted-inference
   - vram-value
 mentions:

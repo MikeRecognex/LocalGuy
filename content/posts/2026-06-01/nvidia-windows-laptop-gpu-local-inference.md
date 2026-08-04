@@ -15,7 +15,6 @@ tags:
   - edge-device
   - gpu-inference
   - gpu-market-expansion
-  - hacker-news
   - hardware
   - inference-performance
   - intermediate

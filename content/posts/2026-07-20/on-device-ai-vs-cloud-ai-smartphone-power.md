@@ -11,12 +11,17 @@ tags:
   - developer
   - edge-device
   - edge-inference
+  - gemma
   - hardware
+  - hybrid-ai
   - hybrid-inference
   - intermediate
   - latency-reduction
+  - mobile-inference
   - model-quantization
+  - phi
   - privacy
+  - privacy-compliance
   - sportskeeda-tech
 mentions:
   - name: Sportskeeda Tech

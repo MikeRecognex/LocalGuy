@@ -4,13 +4,14 @@ date: 2026-07-24
 description: "All CompactifAI optimised models have achieved compatibility with Intel Xeon 6 processors, enabling efficient inference on enterprise server hardware and expanding deployment options for self-hosted local LLM infrastructure. This compatibility expands the practical deployment platforms for optimised models."
 tags:
   - bullish
+  - compactifai
   - cpu-inference
   - cpu-only
   - daily-digest
   - enterprise
   - enterprise-inference
   - hardware
-  - inference
+  - hardware-aware-optimization
   - intermediate
   - model-compression
   - model-optimization
@@ -18,8 +19,10 @@ tags:
   - news
   - optimization
   - release
+  - self-hosted-llm
   - self-hosting
   - the-manila-times
+  - xeon-6
 mentions:
   - name: Multiverse Computing
     role: developer

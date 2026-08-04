@@ -13,7 +13,6 @@ tags:
   - daily-digest
   - developer
   - forensic
-  - hacker-news
   - intermediate
   - llm-benchmarking
   - local-context

@@ -10,7 +10,6 @@ tags:
   - edge-device
   - edge-inference
   - ggml
-  - hacker-news
   - intermediate
   - multimodal-inference
   - on-device-transcription

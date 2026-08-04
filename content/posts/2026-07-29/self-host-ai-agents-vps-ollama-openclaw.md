@@ -8,9 +8,11 @@ tags:
   - analytics-insight
   - bullish
   - daily-digest
+  - developer
   - enterprise
   - intermediate
   - ollama
+  - openclaw
   - self-hosted
   - self-hosting
   - tutorial

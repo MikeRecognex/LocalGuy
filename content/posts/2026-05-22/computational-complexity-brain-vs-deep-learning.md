@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - hardware
   - inference-efficiency
   - local-deployment

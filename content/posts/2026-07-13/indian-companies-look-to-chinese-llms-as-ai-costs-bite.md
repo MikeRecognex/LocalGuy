@@ -10,8 +10,6 @@ tags:
   - daily-digest
   - decentralized-deployment
   - enterprise
-  - hacker-news
-  - inference
   - intermediate
   - model-quantization
   - model-selection

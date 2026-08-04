@@ -11,7 +11,6 @@ tags:
   - desktop-app
   - developer
   - edge-deployment
-  - hacker-news
   - intermediate
   - local-inference
   - multimodal

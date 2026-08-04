@@ -7,11 +7,14 @@ tags:
   - architecture
   - bullish
   - daily-digest
+  - deployment-strategy
   - edge-device
   - enterprise
   - enterprise-architecture
   - enterprise-deployment
   - hardware
+  - hardware-selection
+  - hybrid-inference
   - intermediate
   - local-vs-cloud
   - model-optimization

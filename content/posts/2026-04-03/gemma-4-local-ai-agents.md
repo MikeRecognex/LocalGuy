@@ -16,7 +16,6 @@ tags:
   - edge-device
   - gemma
   - gemma-4-deployment
-  - hacker-news
   - hardware-configuration
   - intermediate
   - local-ai-agents

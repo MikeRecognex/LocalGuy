@@ -8,18 +8,18 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - hpcwire
   - intermediate
+  - llama
   - model-optimization
   - multilingual-models
+  - nemotron
+  - news
   - on-premises-deployment
   - open-source
   - showcase
 mentions:
-  - name: HPCwire
-    role: publisher
   - name: Hacker News
     role: publisher
 status: published

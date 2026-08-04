@@ -15,7 +15,6 @@ tags:
   - edge-computing
   - hardware
   - heterogeneous-hardware
-  - inference
   - local-deployment
   - local-inference-democratization
   - news

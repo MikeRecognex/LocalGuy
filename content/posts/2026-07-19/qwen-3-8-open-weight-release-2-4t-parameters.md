@@ -8,13 +8,15 @@ tags:
   - daily-digest
   - datacenter-gpu
   - enterprise
-  - hacker-news
   - large-language-models
+  - local-inference
   - model-quantization
   - model-release
   - open-source
   - open-weights
+  - quantization
   - qwen
+  - qwen-3-8
   - release
   - self-hosting
 mentions:

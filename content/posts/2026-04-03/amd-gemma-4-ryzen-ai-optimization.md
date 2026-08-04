@@ -15,7 +15,6 @@ tags:
   - gemma-4-support
   - gpu-optimization
   - hardware-choice
-  - inference
   - intermediate
   - linux-ai-stack
   - local-deployment

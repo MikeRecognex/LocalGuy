@@ -6,7 +6,6 @@ tags:
   - consumer-gpu
   - data-privacy
   - embedding-models
-  - inference
   - memory-optimization
   - multimodal-ai
   - on-device-inference

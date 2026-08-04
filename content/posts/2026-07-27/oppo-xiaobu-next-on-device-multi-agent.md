@@ -12,11 +12,13 @@ tags:
   - edge-deployment
   - edge-device
   - mobile
+  - mobile-ai
   - model-optimization
   - multi-agent-systems
   - on-device-inference
   - oppo
   - release
+  - xiaobu-next
 mentions:
   - name: OPPO
     role: developer

@@ -12,7 +12,6 @@ tags:
   - edge-ai-agents
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
   - mobile
   - mobile-ai

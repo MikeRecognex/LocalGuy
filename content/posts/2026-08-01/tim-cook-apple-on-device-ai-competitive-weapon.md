@@ -12,15 +12,18 @@ tags:
   - edge-inference
   - hardware
   - intermediate
+  - llama-cpp
+  - local-deployment
   - local-llm-deployment
   - model-optimization
+  - ollama
   - on-device
   - privacy-preserving-ai
+  - privacy-preserving-inference
   - quartz
 mentions:
   - name: Tim Cook
     role: CEO
-    handle: "@tim_cook"
   - name: Quartz
     role: publisher
 status: published

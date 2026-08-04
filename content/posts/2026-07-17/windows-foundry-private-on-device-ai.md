@@ -5,11 +5,14 @@ description: "Microsoft details its Foundry initiative for bringing optimized, p
 tags:
   - bullish
   - daily-digest
+  - directml
   - edge-device
   - edge-inference
   - enterprise
   - enterprise-deployment
+  - foundry
   - hardware
+  - hardware-acceleration
   - inference-optimization
   - intermediate
   - news
@@ -18,7 +21,7 @@ tags:
   - the-wincentral
   - windows
 mentions:
-  - name: The WinCentral
+  - name: TheWinCentral
     role: publisher
 status: published
 ---

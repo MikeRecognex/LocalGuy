@@ -4,23 +4,23 @@ date: 2026-07-26
 description: "Apertus 1.5 introduces a fully open-weight model with transparent training data, designed for local deployment and fine-tuning without proprietary restrictions."
 tags:
   - apertus
+  - apertus-1-5
   - bullish
   - daily-digest
   - data-sovereignty
   - developer
   - edge-inference
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
+  - model-fine-tuning
   - model-release
   - open-dataset
   - open-source
   - open-weight-models
+  - open-weights
   - release
 mentions:
-  - name: Apertus
-    role: developer
   - name: Hacker News
     role: publisher
 status: published

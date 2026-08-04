@@ -12,8 +12,9 @@ tags:
   - developer
   - development-workflow
   - git-integration
-  - hacker-news
   - intermediate
+  - release
+  - shikigami
   - showcase
   - tools
 mentions:

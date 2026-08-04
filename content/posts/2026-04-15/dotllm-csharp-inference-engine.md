@@ -13,7 +13,6 @@ tags:
   - edge-deployment
   - enterprise
   - framework
-  - hacker-news
   - inference-engine
   - intermediate
   - llm-inference-engine

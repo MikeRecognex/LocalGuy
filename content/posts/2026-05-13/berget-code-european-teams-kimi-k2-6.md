@@ -14,7 +14,6 @@ tags:
   - developer
   - developer-tools
   - enterprise
-  - hacker-news
   - intermediate
   - local-coding-assistance
   - model-kimi-k2-6

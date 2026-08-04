@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - developer
   - evaluation
-  - hacker-news
   - hallucination-detection
   - intermediate
   - model-evaluation

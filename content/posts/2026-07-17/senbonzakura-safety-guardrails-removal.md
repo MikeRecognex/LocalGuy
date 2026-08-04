@@ -9,11 +9,12 @@ tags:
   - developer
   - fine-tuning
   - guardrail-removal
-  - hacker-news
   - intermediate
   - local-deployment
   - model-customization
   - open-source
+  - safety-guardrails
+  - senbonzakura
   - showcase
 mentions:
   - name: Hacker News

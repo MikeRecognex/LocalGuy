@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - inference
   - intermediate
   - jetbrains
   - local-inference

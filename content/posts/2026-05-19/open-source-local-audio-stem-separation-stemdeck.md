@@ -12,7 +12,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware-optimization
   - intermediate
   - local-deployment

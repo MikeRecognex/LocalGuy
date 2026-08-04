@@ -12,7 +12,6 @@ tags:
   - coding
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - llm-development-workflow
   - llm-integration

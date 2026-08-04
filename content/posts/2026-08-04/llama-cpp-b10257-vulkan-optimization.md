@@ -3,9 +3,11 @@ title: "llama.cpp Release b10257 – Vulkan LLVMpipe Fixes"
 date: 2026-08-04
 description: "Latest llama.cpp release fixes critical Vulkan LLVMpipe CI runs, continuing the project's focus on cross-platform GPU inference stability."
 tags:
+  - advanced
   - bullish
   - ci-cd
   - consumer-gpu
+  - continuous-integration
   - daily-digest
   - developer
   - ggml-org
@@ -16,9 +18,6 @@ tags:
   - release
   - vulkan
   - vulkan-backend
-mentions:
-  - name: ggml-org
-    role: publisher
 status: published
 ---
 

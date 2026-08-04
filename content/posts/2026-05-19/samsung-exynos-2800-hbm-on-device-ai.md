@@ -11,7 +11,6 @@ tags:
   - google-news
   - hardware
   - hbm-integration
-  - inference
   - intermediate
   - memory-bandwidth
   - mobile-ai

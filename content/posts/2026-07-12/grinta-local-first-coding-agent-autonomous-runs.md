@@ -11,8 +11,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - github
-  - hacker-news
   - intermediate
   - local-first
   - open-source

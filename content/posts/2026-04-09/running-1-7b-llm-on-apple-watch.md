@@ -13,7 +13,6 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - memory-management
   - mobile

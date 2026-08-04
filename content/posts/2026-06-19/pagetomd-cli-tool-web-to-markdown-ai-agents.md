@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - data-preparation
   - developer
-  - hacker-news
   - intermediate
   - markdown-conversion
   - open-source

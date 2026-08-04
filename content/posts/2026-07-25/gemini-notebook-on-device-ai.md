@@ -9,7 +9,10 @@ tags:
   - developer
   - edge-deployment
   - edge-device
+  - edge-inference
   - frameworks
+  - gemini-notebook
+  - interactive-development
   - intermediate
   - low-latency-inference
   - notebook-environments

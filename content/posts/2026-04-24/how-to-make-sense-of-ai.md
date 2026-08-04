@@ -14,7 +14,6 @@ tags:
   - developer
   - education
   - enterprise
-  - hacker-news
   - inference-optimization
   - intermediate
   - local-deployment

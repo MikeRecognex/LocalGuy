@@ -9,7 +9,9 @@ tags:
   - daily-digest
   - developer
   - inference-speed
+  - inkling-small
   - intermediate
+  - llama-cpp
   - marktechpost
   - memory-efficiency
   - model-release
@@ -17,13 +19,14 @@ tags:
   - moe-architecture
   - multimodal
   - multimodal-models
+  - ollama
   - open-source
   - release
   - thinking-machines-lab
 mentions:
   - name: Thinking Machines Lab
     role: developer
-  - name: Marktechpost
+  - name: MarkTechPost
     role: publisher
 status: published
 ---

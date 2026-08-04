@@ -13,7 +13,6 @@ tags:
   - gpu
   - gpu-repurposing
   - hardware
-  - inference
   - inference-optimization
   - intermediate
   - legacy-hardware-utilization

@@ -5,13 +5,14 @@ description: "Codeberg has proposed extending its terms of use to explicitly pro
 tags:
   - codeberg
   - daily-digest
+  - data-licensing
   - data-privacy
   - developer
   - fine-tuning
-  - hacker-news
   - intermediate
   - legal
   - licensing
+  - model-training
   - neutral
   - news
   - open-source

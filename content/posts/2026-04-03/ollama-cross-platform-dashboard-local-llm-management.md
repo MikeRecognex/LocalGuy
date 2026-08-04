@@ -16,7 +16,6 @@ tags:
   - developer
   - development-efficiency
   - enterprise
-  - hacker-news
   - hackernoon
   - inference-monitoring
   - intermediate

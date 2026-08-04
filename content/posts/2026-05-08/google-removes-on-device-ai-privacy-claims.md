@@ -11,7 +11,6 @@ tags:
   - edge-computing
   - enterprise
   - governance
-  - hacker-news
   - intermediate
   - local-deployment
   - local-inference

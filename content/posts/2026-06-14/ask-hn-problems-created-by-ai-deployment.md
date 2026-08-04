@@ -7,7 +7,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - infrastructure-costs
   - intermediate
   - local-deployment

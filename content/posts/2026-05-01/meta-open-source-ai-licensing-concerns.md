@@ -11,7 +11,6 @@ tags:
   - developer
   - ecosystem-sustainability
   - eleutherai
-  - hacker-news
   - intermediate
   - legal
   - licensing

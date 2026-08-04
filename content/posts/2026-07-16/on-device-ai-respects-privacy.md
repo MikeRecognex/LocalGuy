@@ -11,11 +11,16 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
+  - enterprise
   - intermediate
+  - llama-cpp
+  - local-deployment
   - local-inference
+  - ollama
+  - on-device-inference
   - open-source
   - privacy
+  - privacy-compliance
   - security-compliance
 mentions:
   - name: Hacker News

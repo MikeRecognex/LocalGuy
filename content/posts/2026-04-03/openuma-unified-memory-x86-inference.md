@@ -9,7 +9,6 @@ tags:
   - cpu-only
   - daily-digest
   - developer
-  - hacker-news
   - hardware
   - inference-optimization
   - inference-speed

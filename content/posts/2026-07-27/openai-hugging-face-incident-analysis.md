@@ -8,9 +8,9 @@ tags:
   - cautious
   - community
   - compliance-and-governance
+  - compliance-and-safety
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - model-distribution
   - model-licensing
@@ -18,8 +18,6 @@ tags:
   - open-source-ecosystem
   - policy
 mentions:
-  - name: AB Statistical Consulting
-    role: publisher
   - name: Hacker News
     role: publisher
 status: published

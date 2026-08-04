@@ -14,7 +14,6 @@ tags:
   - deployment-patterns
   - deployment-tradeoffs
   - developer
-  - inference
   - intermediate
   - local-llm-architecture
   - local-vs-cloud-deployment

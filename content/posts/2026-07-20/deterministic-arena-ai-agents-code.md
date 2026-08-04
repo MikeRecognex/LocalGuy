@@ -3,6 +3,7 @@ title: "Deterministic Arena: Testing and Comparing AI Agents Through Code Execut
 date: 2026-07-20
 description: "A new tool enables developers to create controlled environments where locally-deployed AI agents can compete and be evaluated deterministically, useful for benchmarking and testing agent behavior."
 tags:
+  - agent-benchmarking
   - agent-duel
   - agent-evaluation
   - agents
@@ -11,15 +12,14 @@ tags:
   - daily-digest
   - deterministic-testing
   - developer
-  - hacker-news
   - intermediate
+  - release
+  - resource-constrained-deployment
   - resource-constrained-inference
   - showcase
   - testing
   - tools
 mentions:
-  - name: Agent Duel
-    role: developer
   - name: Hacker News
     role: publisher
 status: published

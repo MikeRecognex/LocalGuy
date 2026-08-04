@@ -13,7 +13,6 @@ tags:
   - hardware
   - hardware-accessibility
   - hardware-optimization
-  - inference
   - news
   - open-source
   - research-automation

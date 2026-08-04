@@ -10,8 +10,10 @@ tags:
   - developer
   - edge-device
   - edge-inference
+  - galaxy-ai
   - hardware-integration
   - intermediate
+  - llama-cpp
   - mobile-ai
   - mobile-inference
   - model-optimization

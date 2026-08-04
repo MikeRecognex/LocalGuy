@@ -15,7 +15,6 @@ tags:
   - developer
   - evaluation
   - evaluation-frameworks
-  - hacker-news
   - local-deployment-benefits
   - model-evaluation
   - model-sampling

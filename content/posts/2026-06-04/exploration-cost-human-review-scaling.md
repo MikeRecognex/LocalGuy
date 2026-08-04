@@ -15,7 +15,6 @@ tags:
   - developer
   - evaluation
   - evaluation-frameworks
-  - hacker-news
   - intermediate
 mentions:
   - name: Hacker News

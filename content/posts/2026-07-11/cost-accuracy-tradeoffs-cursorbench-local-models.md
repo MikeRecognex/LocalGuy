@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - intermediate
   - local-deployment
   - model-quantization

@@ -6,13 +6,16 @@ tags:
   - beginner-friendly
   - bullish
   - daily-digest
+  - deployment-strategy
   - developer
   - edge-inference
   - its-foss
   - local-deployment
+  - news
   - ollama
   - on-device-inference
   - open-source
+  - open-webui
   - release
   - web-interface
   - web-ui

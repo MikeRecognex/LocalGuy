@@ -3,6 +3,7 @@ title: "Ask HN: What are you using for LLM inference in production?"
 date: 2026-07-31
 description: "Community discussion revealing current production setups for local LLM inference, including frameworks, hardware choices, and real-world deployment patterns from practitioners."
 tags:
+  - bullish
   - comparison
   - consumer-gpu
   - cpu-only
@@ -10,15 +11,16 @@ tags:
   - deployment
   - developer
   - frameworks
-  - hacker-news
-  - inference
   - inference-frameworks
   - intermediate
+  - llama-cpp
   - local-inference
   - model-quantization
   - neutral
+  - ollama
   - production
   - production-deployment
+  - vllm
 mentions:
   - name: Hacker News
     role: publisher

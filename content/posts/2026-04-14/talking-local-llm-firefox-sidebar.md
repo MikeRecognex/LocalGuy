@@ -11,7 +11,6 @@ tags:
   - data-privacy
   - developer
   - firefox
-  - hacker-news
   - hobbyist
   - intermediate
   - local-llm-applications

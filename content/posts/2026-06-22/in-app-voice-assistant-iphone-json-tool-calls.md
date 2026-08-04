@@ -8,7 +8,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
   - ios
   - mobile

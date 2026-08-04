@@ -12,7 +12,6 @@ tags:
   - debugging
   - deepseek
   - developer
-  - inference
   - intermediate
   - llm-debugging
   - local-deployment

@@ -8,14 +8,19 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
+  - edge-deployment
   - edge-device
   - energy-efficiency
   - gemma
+  - gemma-4
   - hobbyist
   - homelab
   - how-to-geek
   - intermediate
+  - llama-cpp
+  - model-compression
   - model-quantization
+  - ollama
   - performance
   - quantisation
 mentions:

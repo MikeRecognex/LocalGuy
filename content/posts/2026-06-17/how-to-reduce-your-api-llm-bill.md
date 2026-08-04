@@ -8,9 +8,7 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - hybrid-architecture
-  - inference
   - intermediate
   - local-inference
   - open-source

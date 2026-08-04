@@ -11,7 +11,6 @@ tags:
   - developer
   - fine-tuning
   - fine-tuning-strategies
-  - hacker-news
   - local-deployment
   - model-alignment
   - model-fine-tuning

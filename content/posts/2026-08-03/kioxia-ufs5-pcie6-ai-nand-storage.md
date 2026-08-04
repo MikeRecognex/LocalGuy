@@ -12,17 +12,22 @@ tags:
   - intermediate
   - kioxia
   - memory-optimization
+  - model-compression
   - model-quantization
   - news
+  - pcie-6-0
   - performance
   - sk-hynix
   - storage
   - storage-bandwidth
+  - ufs-5-0
 mentions:
   - name: Kioxia
     role: manufacturer
   - name: SK Hynix
-    role: competitor
+    role: manufacturer
+  - name: SammyFans
+    role: publisher
 status: published
 ---
 

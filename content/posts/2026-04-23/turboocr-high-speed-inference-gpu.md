@@ -13,7 +13,6 @@ tags:
   - datacenter-gpu
   - developer
   - edge-inference-optimization
-  - hacker-news
   - hardware
   - high-performance-inference
   - inference-optimization

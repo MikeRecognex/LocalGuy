@@ -10,8 +10,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - github
-  - hacker-news
   - intermediate
   - local-automation
   - mcp

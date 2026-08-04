@@ -13,7 +13,6 @@ tags:
   - edge-deployment
   - edge-device
   - embedded-systems
-  - hacker-news
   - intermediate
   - local-deployment
   - memory-reduction

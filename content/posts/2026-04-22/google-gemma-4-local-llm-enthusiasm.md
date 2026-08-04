@@ -14,7 +14,6 @@ tags:
   - gemma
   - gemma-4
   - gemma-model
-  - inference
   - intermediate
   - llm-capabilities
   - local-inference-benefits

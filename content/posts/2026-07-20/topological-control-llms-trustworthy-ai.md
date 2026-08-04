@@ -11,13 +11,14 @@ tags:
   - daily-digest
   - deployment
   - developer
+  - local-deployment
   - model-safety
   - offline-alignment
   - safety
   - topological-control
   - trustworthy-ai
 mentions:
-  - name: Communications of the ACM
+  - name: Hacker News
     role: publisher
 status: published
 ---

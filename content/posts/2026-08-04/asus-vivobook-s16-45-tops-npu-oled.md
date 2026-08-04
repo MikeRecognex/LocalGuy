@@ -12,11 +12,13 @@ tags:
   - hardware
   - intermediate
   - local-deployment
+  - local-llm-applications
   - npu-acceleration
   - on-device-inference
   - privacy-first
   - quantisation
   - release
+  - vivobook-s16
 status: published
 ---
 

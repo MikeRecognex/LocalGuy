@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - developer
   - error-reduction
-  - inference
   - intermediate
   - local-deployment
   - memory-optimization

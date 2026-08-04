@@ -14,7 +14,6 @@ tags:
   - developer
   - gemma
   - gemma-4
-  - inference
   - intermediate
   - interpretable-reasoning
   - local-deployment

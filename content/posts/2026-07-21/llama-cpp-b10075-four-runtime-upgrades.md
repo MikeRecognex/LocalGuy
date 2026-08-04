@@ -10,13 +10,19 @@ tags:
   - edge-device
   - inference-optimization
   - inference-performance
+  - inference-speed
   - intermediate
   - llama-cpp
   - local-deployment
   - model-quantization
   - open-source
   - performance
+  - quantization-efficiency
   - release
+  - resource-utilization
+mentions:
+  - name: Techi
+    role: publisher
 status: published
 ---
 

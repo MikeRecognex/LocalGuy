@@ -8,7 +8,6 @@ tags:
   - context-management
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-ai-workflow
   - local-context-management

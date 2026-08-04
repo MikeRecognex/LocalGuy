@@ -12,7 +12,6 @@ tags:
   - edge-deployment-constraints
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - hardware-acceleration
   - intermediate

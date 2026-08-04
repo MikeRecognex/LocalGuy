@@ -9,7 +9,6 @@ tags:
   - dependency-auditing
   - deployment-tools
   - developer
-  - hacker-news
   - intermediate
   - javascript-security
   - local-llm-tooling

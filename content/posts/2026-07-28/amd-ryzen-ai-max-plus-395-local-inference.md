@@ -11,13 +11,16 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - hardware-benchmarking
   - inference-speed
   - intermediate
+  - llama-cpp
   - model-quantization
+  - npu-acceleration
+  - ollama
   - on-device-inference
+  - ryzen-ai-max-plus-395
 mentions:
   - name: Hacker News
     role: publisher

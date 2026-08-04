@@ -7,10 +7,12 @@ tags:
   - bullish
   - daily-digest
   - developer
+  - inference-optimization
   - intermediate
   - korben
   - local-inference
   - mlx
+  - odysseus
   - optimization
   - performance-optimization
   - privacy-protection
@@ -19,7 +21,6 @@ tags:
 mentions:
   - name: PewDiePie
     role: creator
-    handle: "@pewdiepie"
   - name: Korben
     role: publisher
 status: published

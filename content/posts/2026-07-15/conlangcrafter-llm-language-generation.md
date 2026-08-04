@@ -4,21 +4,27 @@ date: 2026-07-15
 description: "A GitHub project demonstrating how to construct synthetic languages using chained LLM inference, showcasing advanced prompt engineering and multi-step reasoning techniques applicable to complex local LLM workflows."
 tags:
   - advanced
+  - agent-orchestration
   - agents
   - bullish
   - chained-inference
+  - conlangcrafter
   - consumer-gpu
   - daily-digest
   - developer
-  - hacker-news
+  - llama-cpp
   - llm-applications
   - multi-hop-reasoning
+  - multi-step-reasoning
   - open-source
   - prompt-engineering
   - prompting
   - self-hosted-ai
+  - self-hosting
   - showcase
 mentions:
+  - name: GitHub
+    role: publisher
   - name: Hacker News
     role: publisher
 status: published

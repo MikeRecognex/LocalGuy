@@ -9,7 +9,6 @@ tags:
   - decentralization
   - democratization
   - enterprise
-  - hacker-news
   - infrastructure
   - local-deployment
   - open-source

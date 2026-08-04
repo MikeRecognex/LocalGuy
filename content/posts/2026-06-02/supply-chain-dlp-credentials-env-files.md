@@ -13,7 +13,6 @@ tags:
   - developer
   - devops-security
   - enterprise
-  - hacker-news
   - intermediate
   - local-llm-security
   - open-source

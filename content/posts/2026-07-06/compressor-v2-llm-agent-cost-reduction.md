@@ -13,7 +13,6 @@ tags:
   - developer
   - edge-device
   - edgee-ai
-  - hacker-news
   - inference-efficiency
   - inference-optimization
   - intermediate

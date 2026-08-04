@@ -12,7 +12,6 @@ tags:
   - enterprise
   - enterprise-local-ai
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
   - memory-optimization

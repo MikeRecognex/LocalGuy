@@ -4,13 +4,15 @@ date: 2026-07-26
 description: "Anthropic publishes security practices for AI-integrated development workflows, offering insights into safe deployment patterns for LLM-assisted coding and infrastructure."
 tags:
   - ai-assisted-coding
+  - ai-security
   - analysis
   - best-practices
   - bullish
+  - code-generation
   - daily-digest
   - deployment
+  - deployment-strategy
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - security

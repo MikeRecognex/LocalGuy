@@ -13,7 +13,6 @@ tags:
   - distributed-deployment
   - edge-deployment
   - enterprise
-  - hacker-news
   - infrastructure
   - intermediate
   - model-quantization

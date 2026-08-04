@@ -15,7 +15,6 @@ tags:
   - edge-ai
   - edge-device
   - enterprise
-  - hacker-news
   - intermediate
   - llm-deployment-strategy
   - local-inference

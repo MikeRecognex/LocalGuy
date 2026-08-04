@@ -9,6 +9,7 @@ tags:
   - daily-digest
   - developer
   - edge-device
+  - edge-device-inference
   - edge-inference
   - hardware
   - hardware-architecture
@@ -20,7 +21,7 @@ tags:
   - wccftech
 mentions:
   - name: SK hynix
-    role: developer
+    role: manufacturer
   - name: Wccftech
     role: publisher
 status: published

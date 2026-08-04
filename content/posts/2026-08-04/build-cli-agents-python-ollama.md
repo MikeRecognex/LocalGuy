@@ -15,6 +15,7 @@ tags:
   - ollama
   - open-source
   - python
+  - task-automation
   - tool-calling
   - tutorial
 status: published

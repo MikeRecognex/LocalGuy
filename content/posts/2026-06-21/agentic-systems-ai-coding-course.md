@@ -11,7 +11,6 @@ tags:
   - developer
   - edge-device
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
   - memory-optimization

@@ -10,7 +10,6 @@ tags:
   - economics
   - edge-device
   - enterprise
-  - hacker-news
   - industry
   - intermediate
   - local-deployment

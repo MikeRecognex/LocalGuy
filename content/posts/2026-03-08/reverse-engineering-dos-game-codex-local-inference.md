@@ -11,7 +11,6 @@ tags:
   - coding-assistants
   - cost-saving
   - data-privacy
-  - inference
   - local-code-models
   - local-vs-cloud-deployment
   - news

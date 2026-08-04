@@ -11,8 +11,6 @@ tags:
   - daily-digest
   - edge-device
   - enterprise
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment
   - tokenomics

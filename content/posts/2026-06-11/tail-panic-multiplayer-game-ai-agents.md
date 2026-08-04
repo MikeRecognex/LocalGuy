@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - evaluation
-  - hacker-news
   - intermediate
   - multi-agent-simulation
   - open-source

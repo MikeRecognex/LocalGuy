@@ -13,7 +13,6 @@ tags:
   - enterprise
   - gui-agent
   - gui-automation
-  - hacker-news
   - intermediate
   - local-deployment
   - on-device-agent-deployment

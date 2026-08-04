@@ -3,6 +3,7 @@ title: "GPU Half-Idle: The Hundred-Billion-Dollar Race to Squeeze 10x Efficiency
 date: 2026-08-01
 description: "An analysis of the hardware and software optimization challenge driving the race for inference efficiency, directly impacting the feasibility of local model deployment."
 tags:
+  - advanced
   - analysis
   - bullish
   - consumer-gpu
@@ -10,12 +11,16 @@ tags:
   - developer
   - efficiency
   - gpu
+  - gpu-optimization
   - hardware
   - hardware-optimization
   - inference-efficiency
   - inference-optimization
   - intermediate
+  - llama-cpp
   - local-deployment
+  - ollama
+  - vllm
 status: published
 ---
 

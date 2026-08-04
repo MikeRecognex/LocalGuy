@@ -9,8 +9,6 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
-  - inference
   - inference-speed
   - instruction-tuning
   - intermediate

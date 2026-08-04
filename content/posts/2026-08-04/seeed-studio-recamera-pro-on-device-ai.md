@@ -8,11 +8,14 @@ tags:
   - computer-vision
   - daily-digest
   - developer
+  - edge-deployment
   - edge-device
   - edge-inference
   - embedded-ai
+  - enterprise
   - hardware
   - intermediate
+  - recamera-pro
   - release
   - seeed-studio
   - vision

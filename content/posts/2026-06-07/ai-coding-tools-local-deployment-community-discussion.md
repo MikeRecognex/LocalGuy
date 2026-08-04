@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - deployment-strategy
   - developer
-  - hacker-news
   - intermediate
   - local-vs-cloud
   - open-source

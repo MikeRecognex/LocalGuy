@@ -9,7 +9,6 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - hardware-optimization
   - intermediate
   - local-llm-deployment

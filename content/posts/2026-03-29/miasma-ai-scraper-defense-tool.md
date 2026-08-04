@@ -15,7 +15,6 @@ tags:
   - deployment-security
   - developer
   - enterprise
-  - hacker-news
   - intermediate
   - local-llm-security
   - open-source

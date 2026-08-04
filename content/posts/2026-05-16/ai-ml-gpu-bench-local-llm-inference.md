@@ -13,7 +13,6 @@ tags:
   - developer
   - gpu
   - hardware
-  - inference
   - inference-frameworks
   - intermediate
   - local-llm-inference

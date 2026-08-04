@@ -12,7 +12,6 @@ tags:
   - deployment
   - developer
   - egress-waf
-  - hacker-news
   - llm-security
   - local-llm-deployment
   - security

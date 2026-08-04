@@ -11,7 +11,6 @@ tags:
   - deployment
   - encrypted-inference
   - enterprise
-  - hacker-news
   - hardware-acceleration
   - intermediate
   - local-llm-deployment

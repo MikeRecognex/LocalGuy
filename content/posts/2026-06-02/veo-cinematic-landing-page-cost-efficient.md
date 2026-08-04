@@ -12,9 +12,7 @@ tags:
   - developer
   - edge-device
   - generative-ai-workflows
-  - hacker-news
   - image-generation
-  - inference
   - inference-optimization
   - intermediate
   - johnkuehcom

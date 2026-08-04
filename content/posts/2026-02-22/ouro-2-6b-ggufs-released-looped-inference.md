@@ -6,7 +6,6 @@ tags:
   - consumer-gpu
   - cpu-inference
   - gguf
-  - inference
   - local-deployment
   - looped-inference
   - model-architecture

@@ -15,7 +15,6 @@ tags:
   - deployment
   - developer
   - edge-inference
-  - hacker-news
   - intermediate
   - multimodal-ai
   - open-source

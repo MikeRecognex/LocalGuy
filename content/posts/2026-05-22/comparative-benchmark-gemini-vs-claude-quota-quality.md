@@ -16,7 +16,6 @@ tags:
   - data-privacy
   - developer
   - enterprise
-  - hacker-news
   - inference-optimization
   - intermediate
   - local-llm-deployment

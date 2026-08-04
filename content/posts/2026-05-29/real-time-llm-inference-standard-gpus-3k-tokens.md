@@ -12,7 +12,6 @@ tags:
   - datacenter-gpu
   - developer
   - gpu-performance
-  - hacker-news
   - inference-optimization
   - inference-speed
   - intermediate

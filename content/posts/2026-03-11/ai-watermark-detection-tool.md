@@ -8,7 +8,6 @@ tags:
   - compliance-assurance
   - detection
   - developer-tooling
-  - github
   - local-deployment
   - local-development
   - model-analysis

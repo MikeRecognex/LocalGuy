@@ -14,7 +14,6 @@ tags:
   - daily-digest
   - developer
   - documentation-generation
-  - hacker-news
   - intermediate
   - knowledge-extraction
   - local-llms

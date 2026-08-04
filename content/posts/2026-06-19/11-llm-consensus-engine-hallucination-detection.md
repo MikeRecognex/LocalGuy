@@ -9,9 +9,7 @@ tags:
   - developer
   - edge-device
   - ensemble-methods
-  - hacker-news
   - hallucination-detection
-  - inference
   - intermediate
   - model-orchestration
   - open-source

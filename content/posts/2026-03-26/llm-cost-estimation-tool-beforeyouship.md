@@ -17,7 +17,6 @@ tags:
   - developer
   - edge-device
   - enterprise
-  - hacker-news
   - hardware-configuration
   - infrastructure
   - infrastructure-planning

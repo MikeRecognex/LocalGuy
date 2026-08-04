@@ -6,16 +6,21 @@ tags:
   - bullish
   - comparison
   - cpu
+  - cpu-only
   - daily-digest
   - developer
   - edge-device
   - gpu
   - hardware
+  - hardware-comparison
   - hardware-selection
   - inference-hardware
   - intermediate
+  - local-inference
+  - model-quantization
   - npu
   - npu-acceleration
+  - onnx-runtime
   - power-efficiency
   - wion
 mentions:

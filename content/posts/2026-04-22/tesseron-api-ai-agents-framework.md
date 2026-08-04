@@ -16,7 +16,6 @@ tags:
   - edge-ai
   - edge-device
   - framework
-  - hacker-news
   - inference-latency
   - intermediate
   - local-agents

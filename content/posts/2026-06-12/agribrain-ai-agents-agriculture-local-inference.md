@@ -11,7 +11,6 @@ tags:
   - domain-specific
   - domain-specific-ai
   - enterprise
-  - hacker-news
   - intermediate
   - local-inference
   - offline-inference

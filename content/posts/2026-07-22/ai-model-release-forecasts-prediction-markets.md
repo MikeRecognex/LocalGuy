@@ -3,6 +3,7 @@ title: "AI Model Release Forecasts from Prediction Markets"
 date: 2026-07-22
 description: "An analysis of prediction market data provides forecasts for upcoming AI model releases and capabilities milestones. This resource helps local deployment practitioners anticipate which models will become available and plan their infrastructure and optimization strategies accordingly."
 tags:
+  - ai-model-release-timeline
   - analysis
   - bullish
   - capacity-planning
@@ -10,10 +11,11 @@ tags:
   - deployment-strategy
   - developer
   - forecasting
-  - hacker-news
+  - infrastructure-planning
   - intermediate
   - model-release
   - model-release-forecasting
+  - model-release-forecasts
   - open-source
   - prediction-markets
   - roadmap

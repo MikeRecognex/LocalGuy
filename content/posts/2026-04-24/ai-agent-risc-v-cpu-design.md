@@ -15,7 +15,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - hardware-optimization
   - hardware-software-co-design

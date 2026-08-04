@@ -4,6 +4,7 @@ date: 2026-07-21
 description: "A practitioner demonstrates significant cost savings by combining Claude API access with local open-source models, highlighting the economic case for hybrid deployment strategies."
 tags:
   - bullish
+  - claude
   - cost-optimization
   - cost-saving
   - daily-digest
@@ -14,6 +15,7 @@ tags:
   - open-source
   - opinion
   - practical-guide
+  - workload-routing
   - xda-developers
 mentions:
   - name: XDA Developers

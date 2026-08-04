@@ -15,7 +15,6 @@ tags:
   - developer
   - developer-infrastructure
   - developer-tooling
-  - hacker-news
   - hybrid-deployment
   - infrastructure
   - intermediate

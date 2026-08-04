@@ -5,7 +5,6 @@ description: New methodology for determining LLM model size without access to we
 tags:
   - advanced
   - analysis
-  - arxiv
   - benchmarks
   - black-box-model-analysis
   - bullish
@@ -14,7 +13,6 @@ tags:
   - developer
   - factual-capacity-analysis
   - factual-capacity-testing
-  - hacker-news
   - llm-parameter-estimation
   - local-inference-benchmarking
   - model-comparison

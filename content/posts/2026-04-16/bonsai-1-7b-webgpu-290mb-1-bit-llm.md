@@ -16,7 +16,6 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
   - iot-ai
   - mobile-ai

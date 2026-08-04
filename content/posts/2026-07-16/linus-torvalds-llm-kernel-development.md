@@ -5,16 +5,18 @@ description: "Linux kernel maintainer Linus Torvalds shares perspectives on inte
 tags:
   - advanced
   - ai-assisted-coding
+  - cautious
   - code-review
   - community
   - daily-digest
   - developer
   - development-tools
-  - hacker-news
+  - linux-kernel
   - local-deployment
   - neutral
   - open-source
   - opinion
+  - software-quality
 mentions:
   - name: Linus Torvalds
     role: Linux kernel maintainer

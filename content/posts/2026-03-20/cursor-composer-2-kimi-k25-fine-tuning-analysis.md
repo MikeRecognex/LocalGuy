@@ -19,7 +19,6 @@ tags:
   - model-optimization
   - news
   - open-source
-  - reddit
   - reinforcement-learning-fine-tuning
 mentions:
   - name: Cursor

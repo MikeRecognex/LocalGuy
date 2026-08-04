@@ -9,8 +9,6 @@ tags:
   - developer
   - edge-ai
   - edge-device
-  - hacker-news
-  - inference
   - inference-efficiency
   - intermediate
   - local-deployment

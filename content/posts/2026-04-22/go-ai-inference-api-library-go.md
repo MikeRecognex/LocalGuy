@@ -14,8 +14,6 @@ tags:
   - go
   - go-lang-deployment
   - go-programming
-  - hacker-news
-  - inference
   - intermediate
   - local-inference-tools
   - local-llm-inference

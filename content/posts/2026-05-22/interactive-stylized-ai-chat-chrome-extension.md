@@ -14,7 +14,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - inference-optimization
   - intermediate
   - latency-reduction

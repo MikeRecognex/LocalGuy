@@ -7,20 +7,22 @@ tags:
   - bullish
   - daily-digest
   - developer
+  - enterprise-workflows
   - evaluation
+  - evaluation-metric
   - evaluation-metrics
-  - hacker-news
   - intermediate
   - local-deployment
   - model-evaluation
   - model-reliability
+  - model-validation
   - optimization
   - quantisation
   - release
   - sap
 mentions:
   - name: SAP
-    role: developer
+    role: creator
   - name: Hacker News
     role: publisher
 status: published

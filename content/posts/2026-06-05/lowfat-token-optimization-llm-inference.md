@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - inference-speed
   - intermediate
   - open-source

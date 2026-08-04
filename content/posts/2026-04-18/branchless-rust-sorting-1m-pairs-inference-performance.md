@@ -14,7 +14,6 @@ tags:
   - cpu-only
   - daily-digest
   - developer
-  - hacker-news
   - inference-optimization
   - inference-speed
   - kv-cache-management

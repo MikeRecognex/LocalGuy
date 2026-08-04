@@ -14,9 +14,12 @@ tags:
   - edge-ai
   - edge-deployment
   - edge-device
+  - edge-inference
   - hardware
+  - nightrun
   - os-less-deployment
   - raspberry-pi
+  - raspberry-pi-5
   - release
   - uefi-deployment
 mentions:

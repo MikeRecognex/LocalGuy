@@ -13,7 +13,6 @@ tags:
   - edge-device
   - enterprise
   - framework
-  - hacker-news
   - intermediate
   - local-inference
   - release

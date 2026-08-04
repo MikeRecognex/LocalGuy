@@ -11,7 +11,6 @@ tags:
   - desktop
   - desktop-automation
   - developer
-  - hacker-news
   - intermediate
   - open-source
   - privacy-compliance

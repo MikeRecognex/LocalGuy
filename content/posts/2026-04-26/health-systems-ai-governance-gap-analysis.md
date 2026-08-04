@@ -12,7 +12,6 @@ tags:
   - edge-device
   - enterprise
   - governance
-  - hacker-news
   - healthcare
   - healthcare-ai
   - intermediate

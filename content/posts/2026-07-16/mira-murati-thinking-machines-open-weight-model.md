@@ -10,9 +10,12 @@ tags:
   - daily-digest
   - developer
   - intermediate
+  - local-deployment
   - memory-efficiency
+  - model-efficiency
   - model-optimization
   - models
+  - nemotron
   - open-source
   - open-weights
   - optimization
@@ -21,7 +24,6 @@ tags:
 mentions:
   - name: Mira Murati
     role: Founder
-    handle: "@miramurati"
   - name: Thinking Machines
     role: developer
   - name: Analytics India Magazine

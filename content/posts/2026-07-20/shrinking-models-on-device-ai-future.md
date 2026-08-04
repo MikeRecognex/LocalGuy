@@ -6,17 +6,22 @@ tags:
   - analysis
   - appleinsider
   - bullish
+  - consumer-gpu
   - daily-digest
   - data-privacy
   - developer
+  - edge-ai
   - edge-device
   - hardware
   - intermediate
+  - llama-cpp
+  - mlx
   - model-compression
   - model-quantization
   - on-device
   - on-device-inference
   - quantisation
+  - quantization
 mentions:
   - name: AppleInsider
     role: publisher

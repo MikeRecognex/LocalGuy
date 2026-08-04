@@ -12,7 +12,6 @@ tags:
   - edge-optimization
   - efficient-models
   - gemini-3-5-flash
-  - hacker-news
   - inference-latency
   - inference-speed
   - intermediate

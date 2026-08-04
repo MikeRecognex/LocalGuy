@@ -14,7 +14,6 @@ tags:
   - edge-ai-architectures
   - edge-deployment
   - edge-device
-  - hacker-news
   - intermediate
   - local-deployment
   - local-deployment-tools

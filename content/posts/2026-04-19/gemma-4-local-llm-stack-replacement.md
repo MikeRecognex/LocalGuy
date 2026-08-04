@@ -13,7 +13,6 @@ tags:
   - edge-device
   - gemma
   - gemma-4
-  - inference
   - intermediate
   - local-ai-ecosystem
   - local-inference-architecture

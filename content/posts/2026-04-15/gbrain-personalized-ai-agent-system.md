@@ -12,7 +12,6 @@ tags:
   - developer
   - fine-tuning-alternative
   - gbrain
-  - hacker-news
   - intermediate
   - llm-personalization
   - local-inference

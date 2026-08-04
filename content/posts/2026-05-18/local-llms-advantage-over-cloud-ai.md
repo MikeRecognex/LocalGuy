@@ -14,7 +14,6 @@ tags:
   - developer
   - edge-inference
   - enterprise
-  - inference
   - intermediate
   - local-llm-advantages
   - local-llm-frameworks

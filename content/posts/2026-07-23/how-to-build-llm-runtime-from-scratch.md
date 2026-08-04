@@ -9,9 +9,14 @@ tags:
   - custom-runtime
   - daily-digest
   - developer
+  - edge-device
+  - inference-engine
+  - inference-optimization
   - inference-runtime
+  - kernel-optimization
   - latency-optimization
   - local-deployment
+  - memory-management
   - memory-optimization
   - open-source
   - optimization

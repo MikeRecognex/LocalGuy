@@ -13,7 +13,6 @@ tags:
   - energy-efficiency
   - gpu
   - hardware
-  - inference
   - intermediate
   - local-deployment
   - local-inference

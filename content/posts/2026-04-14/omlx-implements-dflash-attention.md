@@ -13,7 +13,6 @@ tags:
   - edge-device
   - flash-attention
   - framework-optimization
-  - inference
   - inference-optimization
   - inference-speed
   - intermediate

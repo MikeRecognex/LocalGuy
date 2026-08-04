@@ -8,12 +8,12 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
   - model-quantization
   - on-device-processing
   - opinion
   - privacy
+  - privacy-compliance
   - privacy-protection
   - voice-processing
 mentions:

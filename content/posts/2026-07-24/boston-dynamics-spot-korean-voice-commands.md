@@ -15,6 +15,7 @@ tags:
   - on-device-inference
   - robotics
   - showcase
+  - spot
   - streetinsider
   - voice-control
   - voice-interface

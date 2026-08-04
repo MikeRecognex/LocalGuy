@@ -19,7 +19,6 @@ tags:
   - developer
   - development-tools
   - enterprise
-  - hacker-news
   - intermediate
   - local-llm-deployment
   - on-device-inference-benefits

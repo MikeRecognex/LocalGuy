@@ -13,7 +13,6 @@ tags:
   - data-privacy
   - developer
   - enterprise
-  - hacker-news
   - intermediate
   - local-deployment
   - local-inference

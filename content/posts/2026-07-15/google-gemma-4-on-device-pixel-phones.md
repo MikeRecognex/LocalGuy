@@ -10,12 +10,17 @@ tags:
   - edge-device
   - edge-inference
   - gemma
+  - gemma-4
   - google
   - intermediate
   - mobile
+  - model-optimization
   - model-quantization
+  - news
   - on-device-optimization
+  - pixel
   - pkrevenuecom
+  - privacy-compliance
   - privacy-preservation
 mentions:
   - name: Pkrevenue.com

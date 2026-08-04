@@ -10,7 +10,6 @@ tags:
   - developer
   - developer-productivity
   - development-practices
-  - hacker-news
   - intermediate
   - local-llm-integration
   - open-source

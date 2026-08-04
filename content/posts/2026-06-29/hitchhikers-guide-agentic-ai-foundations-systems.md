@@ -7,7 +7,6 @@ tags:
   - agent-orchestration
   - agents
   - analysis
-  - arxiv
   - autonomous-agents
   - benchmarks
   - bullish

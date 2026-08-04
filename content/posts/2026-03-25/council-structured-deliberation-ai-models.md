@@ -14,7 +14,6 @@ tags:
   - developer
   - enterprise
   - framework
-  - hacker-news
   - hallucination-reduction
   - inference-quality
   - intermediate

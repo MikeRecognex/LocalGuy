@@ -15,9 +15,7 @@ tags:
   - gpu
   - gpu-memory-constraints
   - gpu-memory-optimization
-  - hacker-news
   - hardware
-  - inference
   - inference-throughput
   - kv-cache-management
   - llm-frameworks

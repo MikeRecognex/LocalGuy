@@ -8,7 +8,6 @@ tags:
   - consumer-gpu
   - developer
   - fine-tuning
-  - inference
   - intermediate
   - local-deployment
   - local-llms

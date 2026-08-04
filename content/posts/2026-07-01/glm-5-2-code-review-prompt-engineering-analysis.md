@@ -13,7 +13,6 @@ tags:
   - developer
   - edge-device
   - fine-tuning
-  - hacker-news
   - intermediate
   - kilo-ai
   - local-inference

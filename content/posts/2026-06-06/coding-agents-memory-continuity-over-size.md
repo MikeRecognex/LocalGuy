@@ -11,8 +11,6 @@ tags:
   - daily-digest
   - developer
   - edge-deployment
-  - hacker-news
-  - inference
   - intermediate
   - memory-optimization
   - persistent-memory

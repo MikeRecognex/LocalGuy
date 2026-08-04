@@ -10,7 +10,6 @@ tags:
   - corvin-labs
   - daily-digest
   - enterprise
-  - hacker-news
   - intermediate
   - on-premise-deployment
   - open-source

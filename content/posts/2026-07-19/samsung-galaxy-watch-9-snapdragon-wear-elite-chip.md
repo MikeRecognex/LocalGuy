@@ -3,22 +3,26 @@ title: "Samsung Galaxy Watch 9 to Feature Snapdragon Wear Elite Chip: Report"
 date: 2026-07-19
 description: "Samsung's upcoming Galaxy Watch 9 is expected to include Qualcomm's new Snapdragon Wear Elite chip, enabling more sophisticated on-device AI capabilities on wearable devices."
 tags:
+  - advanced
   - analysis
   - bullish
   - daily-digest
   - developer
   - edge-device
   - edge-inference
+  - galaxy-watch-9
   - hardware
+  - hardware-constraints
   - intermediate
   - latestly
   - model-optimization
   - model-quantization
   - snapdragon
+  - snapdragon-wear-elite
   - wearable-ai
   - wearables
 mentions:
-  - name: Latestly
+  - name: LatestLY
     role: publisher
 status: published
 ---

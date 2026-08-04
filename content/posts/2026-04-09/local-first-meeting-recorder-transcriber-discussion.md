@@ -11,7 +11,6 @@ tags:
   - developer
   - discussion
   - enterprise
-  - hacker-news
   - intermediate
   - llm-summarization
   - local-llm-deployment

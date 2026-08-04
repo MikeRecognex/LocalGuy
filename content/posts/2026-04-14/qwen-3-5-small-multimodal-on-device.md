@@ -12,7 +12,6 @@ tags:
   - document-analysis
   - edge-ai
   - edge-device
-  - hacker-news
   - image-understanding
   - intermediate
   - local-deployment

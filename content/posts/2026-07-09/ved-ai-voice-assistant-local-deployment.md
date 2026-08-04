@@ -10,7 +10,6 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - intermediate
   - open-source
   - self-hosted-ai

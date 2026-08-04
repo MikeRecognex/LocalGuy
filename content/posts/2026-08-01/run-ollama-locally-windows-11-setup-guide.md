@@ -9,16 +9,20 @@ tags:
   - daily-digest
   - data-privacy
   - deployment
+  - deployment-guide
   - hobbyist
+  - llama-2
   - local-deployment
   - ollama
   - on-device-inference
+  - phi
+  - privacy-compliance
   - quasa
   - setup-guide
   - tutorial
   - windows
 mentions:
-  - name: Quasa
+  - name: Google News
     role: publisher
 status: published
 ---

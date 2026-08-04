@@ -9,7 +9,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-deployment
   - open-source

@@ -7,7 +7,6 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - hacker-news
   - hardware
   - inference-speed
   - intermediate

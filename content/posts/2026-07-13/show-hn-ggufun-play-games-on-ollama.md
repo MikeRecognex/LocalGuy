@@ -11,8 +11,6 @@ tags:
   - game-logic
   - gguf
   - gguf-quantization
-  - hacker-news
-  - inference
   - intermediate
   - ollama
   - quantisation

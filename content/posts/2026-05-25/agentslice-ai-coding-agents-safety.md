@@ -14,7 +14,6 @@ tags:
   - daily-digest
   - developer
   - enterprise
-  - hacker-news
   - human-in-the-loop-ai
   - intermediate
   - open-source

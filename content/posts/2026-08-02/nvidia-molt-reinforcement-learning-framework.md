@@ -4,7 +4,9 @@ date: 2026-08-02
 description: "NVIDIA releases Molt, a new reinforcement learning framework for building agentic systems with PyTorch, expanding tooling for advanced local LLM applications."
 tags:
   - advanced
+  - agentic-reinforcement-learning
   - agentic-rl
+  - agentic-systems
   - agents
   - bullish
   - consumer-gpu
@@ -12,11 +14,15 @@ tags:
   - developer
   - edge-device
   - local-fine-tuning
+  - molt
   - nvidia
   - on-device-inference
   - open-source
   - pytorch
   - release
+mentions:
+  - name: Google News
+    role: publisher
 status: published
 ---
 

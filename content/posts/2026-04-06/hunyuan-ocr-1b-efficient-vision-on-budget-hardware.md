@@ -21,7 +21,6 @@ tags:
   - older-gpu
   - on-device-vision
   - optical-character-recognition
-  - reddit
   - showcase
   - vision
   - vision-model

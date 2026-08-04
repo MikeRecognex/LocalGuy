@@ -15,8 +15,6 @@ tags:
   - edge-ai-optimization
   - edge-device
   - enterprise
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment-benefits
   - local-llm-economics

@@ -12,6 +12,7 @@ tags:
   - daily-digest
   - developer
   - hardware
+  - hardware-optimization
   - inference-speed
   - llama-cpp
   - local-deployment

@@ -5,11 +5,14 @@ description: "An open-source AI code-reviewer that improves through feedback. Th
 tags:
   - agents
   - ai-code-review
+  - bubo
   - bullish
+  - code-review
+  - consumer-gpu
   - daily-digest
+  - data-privacy
   - enterprise
   - fine-tuning
-  - hacker-news
   - human-feedback-loop
   - intermediate
   - local-fine-tuning

@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - deployment-strategy
   - enterprise
-  - hacker-news
   - intellectual-property-theft
   - intermediate
   - local-ai-community

@@ -9,15 +9,18 @@ tags:
   - daily-digest
   - developer
   - edge-inference
-  - hacker-news
+  - intermediate
   - latency-reduction
   - local-deployment
   - macos
+  - on-device-inference
   - open-source
   - privacy
   - privacy-focused
+  - privacy-protection
   - showcase
   - speech-to-text
+  - wisprkey
 mentions:
   - name: Hacker News
     role: publisher

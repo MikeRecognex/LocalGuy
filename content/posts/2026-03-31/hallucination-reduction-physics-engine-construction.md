@@ -11,7 +11,6 @@ tags:
   - domain-specific
   - domain-specific-ai
   - domain-specific-ai-reliability
-  - hacker-news
   - hallucination-reduction
   - hallucinations
   - inference-optimization

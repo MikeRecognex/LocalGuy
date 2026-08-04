@@ -8,10 +8,14 @@ tags:
   - cross-platform
   - daily-digest
   - desde-linux
+  - desktop-app
   - hobbyist
   - inference-optimization
+  - jan
+  - llama-cpp
   - local-deployment
   - local-inference
+  - ollama
   - on-device-inference
   - open-source
   - showcase

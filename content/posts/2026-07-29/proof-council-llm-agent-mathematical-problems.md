@@ -7,7 +7,6 @@ tags:
   - agent-orchestration
   - agents
   - analysis
-  - arxiv
   - benchmark
   - bullish
   - consumer-gpu
@@ -16,10 +15,11 @@ tags:
   - iterative-reasoning
   - mathematical-reasoning
   - open-source
+  - proofcouncil
   - reasoning
   - self-hosted-inference
 mentions:
-  - name: arXiv
+  - name: Hacker News
     role: publisher
 status: published
 ---

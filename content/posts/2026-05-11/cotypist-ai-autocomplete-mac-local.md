@@ -11,7 +11,6 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - hobbyist
   - inference-frameworks
   - intermediate

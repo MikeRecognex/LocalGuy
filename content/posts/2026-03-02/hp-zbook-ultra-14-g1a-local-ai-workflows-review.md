@@ -14,7 +14,6 @@ tags:
   - hardware
   - hardware-advancements
   - hardware-software-synergy
-  - inference
   - inference-optimization
   - inference-performance
   - knowledge-worker

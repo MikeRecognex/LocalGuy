@@ -12,16 +12,16 @@ tags:
   - hardware
   - intermediate
   - local-deployment
+  - mlx
   - mobile
   - model-optimization
   - on-device-ai
   - on-device-inference
   - prismml
+  - privacy-compliance
   - privacy-preservation
   - the-motley-fool
 mentions:
-  - name: PrismML
-    role: developer
   - name: The Motley Fool
     role: publisher
 status: published

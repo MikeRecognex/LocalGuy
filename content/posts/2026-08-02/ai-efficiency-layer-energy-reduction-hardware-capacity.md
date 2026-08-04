@@ -3,6 +3,8 @@ title: "AI Efficiency Layer Cuts Energy Use and Expands Server Capacity on Exist
 date: 2026-08-02
 description: "A new efficiency layer technology reduces energy consumption in AI inference while expanding the effective capacity of existing hardware infrastructure, critical for sustainable local deployments."
 tags:
+  - advanced
+  - analysis
   - bullish
   - consumer-gpu
   - daily-digest
@@ -11,7 +13,7 @@ tags:
   - edge-inference
   - energy-efficiency
   - hardware
-  - inference
+  - hardware-optimization
   - inference-optimization
   - intermediate
   - news

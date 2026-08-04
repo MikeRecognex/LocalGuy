@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - intermediate
   - local-deployment
   - memory-optimization

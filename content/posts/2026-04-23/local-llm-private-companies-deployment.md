@@ -11,7 +11,6 @@ tags:
   - data-security
   - enterprise
   - enterprise-llm-deployment
-  - hacker-news
   - intermediate
   - local-deployment
   - local-vs-cloud-deployment

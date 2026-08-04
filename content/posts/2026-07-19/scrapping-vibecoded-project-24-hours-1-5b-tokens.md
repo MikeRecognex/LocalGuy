@@ -5,17 +5,18 @@ description: "A developer shares insights from abandoning a token-intensive LLM 
 tags:
   - analysis
   - cautious
+  - cost-management
   - cost-optimization
   - cost-saving
   - daily-digest
   - developer
   - experimentation
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment
   - practical-deployment
+  - rapid-prototyping
   - token-economics
+  - vibecoded
 mentions:
   - name: Hacker News
     role: publisher

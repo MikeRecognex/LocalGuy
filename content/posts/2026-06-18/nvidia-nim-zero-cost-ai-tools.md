@@ -9,9 +9,7 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - hardware
-  - inference
   - intermediate
   - local-inference
   - nvidia

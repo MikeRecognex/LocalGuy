@@ -10,7 +10,6 @@ tags:
   - deployment-strategy
   - developer
   - edge-device
-  - hacker-news
   - hardware
   - inference-optimization
   - inference-speed

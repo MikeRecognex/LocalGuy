@@ -8,7 +8,6 @@ tags:
   - daily-digest
   - developer
   - framework
-  - hacker-news
   - human-in-the-loop
   - hybrid-deployment
   - intermediate
@@ -18,8 +17,8 @@ tags:
   - transept
   - translation-workflow
 mentions:
-  - name: Transept
-    role: developer
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

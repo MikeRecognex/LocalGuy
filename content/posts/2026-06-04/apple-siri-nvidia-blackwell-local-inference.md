@@ -10,9 +10,7 @@ tags:
   - daily-digest
   - developer
   - edge-deployment
-  - hacker-news
   - hardware
-  - inference
   - intermediate
   - local-llm-deployment
   - macrumors

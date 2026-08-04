@@ -13,7 +13,6 @@ tags:
   - edge-device
   - education
   - enterprise
-  - hacker-news
   - inference-optimization
   - intermediate
   - knowledge-management

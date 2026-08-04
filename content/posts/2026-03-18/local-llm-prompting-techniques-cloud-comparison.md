@@ -8,7 +8,6 @@ tags:
   - bullish
   - deployment-optimization
   - developer
-  - inference
   - inference-optimization
   - intermediate
   - local-llm-characteristics

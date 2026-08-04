@@ -10,6 +10,7 @@ tags:
   - developer
   - edge-device
   - edge-inference
+  - esp32-s3
   - hardware
   - inference-speed
   - memory-optimization

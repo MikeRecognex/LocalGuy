@@ -12,7 +12,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - on-device
   - on-device-inference
   - on-device-privacy

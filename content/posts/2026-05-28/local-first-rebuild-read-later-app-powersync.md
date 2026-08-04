@@ -13,7 +13,6 @@ tags:
   - edge-ai-deployment
   - edge-deployment
   - edge-device
-  - hacker-news
   - infrastructure
   - intermediate
   - local-first

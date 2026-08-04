@@ -3,23 +3,31 @@ title: "This Open-Source Extension Lets You Rewrite Your X Algorithm Using a Loc
 date: 2026-07-20
 description: "An innovative open-source browser extension enables users to control their X (formerly Twitter) feed using locally-running language models instead of corporate algorithms. This demonstrates practical consumer applications for on-device AI."
 tags:
+  - algorithmic-control
   - browser-extension
   - browser-inference
   - bullish
+  - client-side-inference
   - consumer-ai
   - consumer-applications
   - daily-digest
   - developer
   - feed-customization
   - intermediate
+  - llama-cpp
+  - mlx
+  - ollama
   - open-source
   - privacy
   - privacy-preservation
   - showcase
+  - x
   - xda
 mentions:
   - name: XDA
     role: publisher
+  - name: X
+    role: platform
 status: published
 ---
 

@@ -5,6 +5,7 @@ description: "KDnuggets publishes a comprehensive overview of Python frameworks 
 tags:
   - agent-orchestration
   - agents
+  - autonomous-agents
   - bullish
   - comparison
   - daily-digest
@@ -13,7 +14,10 @@ tags:
   - frameworks
   - intermediate
   - kdnuggets
+  - llama-cpp
+  - ollama
   - open-source
+  - privacy-compliance
   - python
   - tool-calling
 mentions:

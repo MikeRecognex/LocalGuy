@@ -9,18 +9,25 @@ tags:
   - consumer-gpu
   - cost-analysis
   - daily-digest
+  - deployment-strategy
   - enterprise
   - inference-costs
+  - inference-economics
   - infrastructure
   - intermediate
   - latency-optimization
+  - llama-cpp
+  - ollama
   - privacy-compliance
   - self-hosted
   - self-hosted-inference
   - startuphub
   - total-cost-of-ownership
+  - vllm
 mentions:
   - name: StartupHub
+    role: publisher
+  - name: Google News
     role: publisher
 status: published
 ---

@@ -11,7 +11,7 @@ tags:
   - daily-digest
   - data-retention
   - developer
-  - hacker-news
+  - enterprise
   - intermediate
   - legal-compliance
   - memory-optimization

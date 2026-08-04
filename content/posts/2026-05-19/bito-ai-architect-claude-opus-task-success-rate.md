@@ -18,7 +18,6 @@ tags:
   - code-generation-benchmark
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - llm-architecture
   - local-deployment

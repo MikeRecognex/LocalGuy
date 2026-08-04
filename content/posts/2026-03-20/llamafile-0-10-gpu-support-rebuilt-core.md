@@ -9,7 +9,6 @@ tags:
   - dependency-management
   - developer
   - gpu-acceleration
-  - inference
   - inference-engine
   - inference-optimization
   - intermediate

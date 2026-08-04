@@ -14,7 +14,6 @@ tags:
   - developer
   - edge-device
   - egroup-labs
-  - hacker-news
   - intermediate
   - knowledge-management
   - local-deployment

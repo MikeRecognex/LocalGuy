@@ -12,12 +12,17 @@ tags:
   - developer
   - edge-device
   - edge-inference
+  - gemma-3
   - inference-performance
   - intermediate
+  - llama-3-2
   - local-deployment
   - model-comparison
   - model-quantization
+  - neutral
+  - phi-4-mini
   - quantisation
+  - quantization
   - tech-insider
 mentions:
   - name: Tech Insider

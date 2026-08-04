@@ -9,8 +9,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment
   - memory-optimization

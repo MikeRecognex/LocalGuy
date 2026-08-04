@@ -14,7 +14,6 @@ tags:
   - daily-digest
   - data-privacy
   - developer
-  - hacker-news
   - iterative-refinement
   - kazkozdev
   - local-deployment

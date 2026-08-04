@@ -3,6 +3,7 @@ title: "The KV Cache Survival Guide: Why Your GPU Runs Out of Memory with Local 
 date: 2026-08-02
 description: "A comprehensive guide addressing one of the most critical bottlenecks in local LLM deployment: KV cache memory consumption. Learn practical strategies to manage GPU memory constraints when running LLMs on-device."
 tags:
+  - attention-mechanisms
   - consumer-gpu
   - daily-digest
   - developer
@@ -19,6 +20,7 @@ tags:
   - sitepoint
   - tutorial
   - vram-management
+  - vram-optimization
 mentions:
   - name: SitePoint
     role: publisher

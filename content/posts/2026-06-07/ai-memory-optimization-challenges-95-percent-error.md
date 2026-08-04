@@ -9,7 +9,6 @@ tags:
   - cautious
   - daily-digest
   - developer
-  - hacker-news
   - hybrid-retrieval
   - local-inference
   - long-context

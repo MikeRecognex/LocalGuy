@@ -10,7 +10,6 @@ tags:
   - edge-ai
   - edge-device
   - edge-inference
-  - hacker-news
   - hobbyist
   - intermediate
   - local-inference

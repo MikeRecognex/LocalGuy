@@ -13,8 +13,6 @@ tags:
   - daily-digest
   - developer
   - enterprise
-  - github
-  - hacker-news
   - intermediate
   - local-deployment
   - memory-safety

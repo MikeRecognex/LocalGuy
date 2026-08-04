@@ -8,7 +8,6 @@ tags:
   - developer
   - document-processing
   - document-structuring
-  - hacker-news
   - intermediate
   - knowledge-management
   - knowledge-representation

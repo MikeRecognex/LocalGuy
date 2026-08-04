@@ -10,7 +10,6 @@ tags:
   - developer
   - docfaiapp
   - document-processing
-  - hacker-news
   - intermediate
   - open-source
   - privacy-preserving

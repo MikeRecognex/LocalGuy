@@ -5,13 +5,11 @@ description: "A new academic paper introduces Brick, advancing techniques for in
 tags:
   - advanced
   - analysis
-  - arxiv
   - benchmark
   - bullish
   - daily-digest
   - deployment-optimization
   - developer
-  - inference
   - llm-routing
   - model-quantization
   - optimization

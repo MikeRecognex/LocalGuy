@@ -10,7 +10,6 @@ tags:
   - developer
   - document-processing
   - enterprise
-  - hacker-news
   - intermediate
   - llm-tool-calling
   - local-inference

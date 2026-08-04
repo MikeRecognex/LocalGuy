@@ -18,7 +18,6 @@ tags:
   - edge-device
   - edge-inference
   - enterprise
-  - hacker-news
   - lasso-security
   - research
   - security

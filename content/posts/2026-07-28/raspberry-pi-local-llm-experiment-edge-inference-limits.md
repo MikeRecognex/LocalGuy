@@ -11,11 +11,13 @@ tags:
   - hobbyist
   - how-to-geek
   - intermediate
-  - llamacpp
+  - llama-cpp
   - memory-optimization
   - model-quantization
   - neutral
   - practical-guide
+  - raspberry-pi
+  - resource-constrained-inference
   - showcase
 mentions:
   - name: How-To Geek

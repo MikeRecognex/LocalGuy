@@ -11,10 +11,13 @@ tags:
   - daily-digest
   - deployment
   - developer
+  - edge-deployment
   - edge-device
   - edge-inference
   - intermediate
+  - llama-cpp
   - model-quantization
+  - ollama
   - on-device-inference
   - on-device-processing
   - privacy-compliance

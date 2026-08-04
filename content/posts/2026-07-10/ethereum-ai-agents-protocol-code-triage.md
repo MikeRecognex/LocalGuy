@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - developer
   - ethereum-foundation
-  - hacker-news
   - offline-inference
   - showcase
   - use-cases

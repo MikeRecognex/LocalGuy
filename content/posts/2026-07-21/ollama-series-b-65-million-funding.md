@@ -12,15 +12,18 @@ tags:
   - funding
   - funding-round
   - kitematic
+  - llama-2
+  - local-llm-serving
   - news
   - ollama
+  - on-device-ai
   - on-device-inference
   - open-source
 mentions:
-  - name: Ollama
-    role: developer
   - name: Kitematic
-    role: founder
+    role: developer
+  - name: AI Insider
+    role: publisher
 status: published
 ---
 

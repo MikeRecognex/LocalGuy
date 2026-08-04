@@ -13,7 +13,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - inference-optimization
   - intermediate
   - local-llm-deployment

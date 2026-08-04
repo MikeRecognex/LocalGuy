@@ -11,9 +11,7 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - github
   - guardrails
-  - hacker-news
   - hybrid-inference
   - intermediate
   - open-source

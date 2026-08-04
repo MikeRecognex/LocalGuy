@@ -12,7 +12,6 @@ tags:
   - edge-ai
   - edge-device
   - guide
-  - hacker-news
   - inference-optimization
   - intermediate
   - llm-development

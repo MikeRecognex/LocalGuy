@@ -6,7 +6,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - local-first
   - multimodal

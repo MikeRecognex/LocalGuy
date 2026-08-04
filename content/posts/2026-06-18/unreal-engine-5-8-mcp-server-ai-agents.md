@@ -10,7 +10,6 @@ tags:
   - deployment
   - developer
   - edge-device
-  - hacker-news
   - intermediate
   - mcp
   - model-context-protocol

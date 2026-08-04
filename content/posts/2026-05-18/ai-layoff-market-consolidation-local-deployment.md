@@ -13,7 +13,6 @@ tags:
   - deployment
   - economics
   - enterprise
-  - hacker-news
   - intermediate
   - llm-ops-infrastructure
   - local-deployment

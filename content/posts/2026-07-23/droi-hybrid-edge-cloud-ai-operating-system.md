@@ -6,20 +6,26 @@ tags:
   - bullish
   - cost-performance-optimization
   - daily-digest
+  - deployment-strategy
+  - droiclaw
   - edge-cloud
   - edge-device
   - edge-orchestration
   - enterprise
   - hybrid-architecture
+  - hybrid-cloud-architecture
   - hybrid-inference
   - inference-optimization
   - intermediate
   - operating-system
   - release
   - shanghai-droi-technology
+  - workload-orchestration
 mentions:
   - name: Shanghai Droi Technology
     role: developer
+  - name: Google News
+    role: publisher
 status: published
 ---
 

@@ -11,7 +11,6 @@ tags:
   - developer
   - edge-device
   - frameworks
-  - hacker-news
   - intermediate
   - local-deployment
   - open-source

@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - deployment-tools
   - developer
-  - hacker-news
   - hardware-compatibility
   - intermediate
   - local-deployment

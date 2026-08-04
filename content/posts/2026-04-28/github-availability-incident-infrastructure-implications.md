@@ -12,7 +12,6 @@ tags:
   - deployment
   - developer
   - github-outage
-  - hacker-news
   - infrastructure
   - infrastructure-reliability
   - intermediate

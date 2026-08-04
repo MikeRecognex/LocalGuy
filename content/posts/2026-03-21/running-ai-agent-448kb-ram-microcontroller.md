@@ -11,7 +11,6 @@ tags:
   - edge-computing
   - edge-inference
   - embedded
-  - github
   - local-inference
   - memory-optimization
   - microcontroller

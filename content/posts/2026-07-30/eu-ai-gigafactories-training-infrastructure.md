@@ -4,6 +4,7 @@ date: 2026-07-30
 description: "The European Union is establishing large-scale AI training infrastructure to develop next-generation models, potentially shifting the landscape of who can build and deploy competitive AI systems."
 tags:
   - bullish
+  - compute-efficiency
   - daily-digest
   - developer
   - edge-device
@@ -21,6 +22,8 @@ mentions:
   - name: European Union
     role: sponsor
   - name: Euronews
+    role: publisher
+  - name: Hacker News
     role: publisher
 status: published
 ---

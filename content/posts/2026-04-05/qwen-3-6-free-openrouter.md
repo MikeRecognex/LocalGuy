@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - free-model-access
-  - hacker-news
   - intermediate
   - local-deployment-economics
   - local-inference-engines

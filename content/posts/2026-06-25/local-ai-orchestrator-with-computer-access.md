@@ -10,8 +10,6 @@ tags:
   - computer-use
   - daily-digest
   - developer
-  - github
-  - hacker-news
   - intermediate
   - local-deployment
   - local-first

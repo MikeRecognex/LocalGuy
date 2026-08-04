@@ -10,7 +10,6 @@ tags:
   - data-privacy
   - developer
   - enterprise
-  - hacker-news
   - infrastructure-ownership
   - intermediate
   - licensing

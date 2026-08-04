@@ -10,7 +10,6 @@ tags:
   - database-management
   - database-tools
   - developer
-  - hacker-news
   - infrastructure
   - infrastructure-tooling
   - intermediate

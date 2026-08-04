@@ -7,7 +7,6 @@ tags:
   - daily-digest
   - data-ethics
   - developer
-  - hacker-news
   - infrastructure
   - intermediate
   - model-training

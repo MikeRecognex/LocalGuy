@@ -3,6 +3,7 @@ title: "MSI Pro Max Edge AI+ Mini PC Runs 120B Local AI Models With 128GB RAM"
 date: 2026-07-25
 description: "MSI launches a compact mini PC designed specifically for running massive 120-billion parameter models locally, featuring 128GB RAM and optimized hardware for on-device AI inference."
 tags:
+  - advanced
   - bullish
   - cost-saving
   - daily-digest
@@ -13,10 +14,12 @@ tags:
   - hardware-provisioning
   - hothardware
   - intermediate
+  - llama-2-120b
   - local-fine-tuning
   - msi
   - on-device-inference
   - performance
+  - pro-max-edge-ai-plus
   - release
 mentions:
   - name: MSI

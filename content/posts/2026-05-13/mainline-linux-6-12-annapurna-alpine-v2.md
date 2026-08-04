@@ -12,7 +12,6 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - hardware
   - infrastructure-leverage
   - intermediate

@@ -15,7 +15,6 @@ tags:
   - empathy-vs-accuracy
   - factual-accuracy
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
   - local-llm-deployment

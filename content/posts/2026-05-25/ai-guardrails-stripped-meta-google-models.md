@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - enterprise
   - financial-times
-  - hacker-news
   - intermediate
   - local-llm-security
   - model-guardrails

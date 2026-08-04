@@ -20,7 +20,6 @@ tags:
   - edge-device
   - edge-llm-security
   - grithai
-  - hacker-news
   - intermediate
   - local-llm-deployment
   - news

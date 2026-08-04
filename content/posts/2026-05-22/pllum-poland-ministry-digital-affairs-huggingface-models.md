@@ -10,8 +10,7 @@ tags:
   - developer
   - european-language-support
   - government-ai-models
-  - hacker-news
-  - huggingface
+  - hugging-face
   - intermediate
   - local-deployment
   - model-release

@@ -14,7 +14,6 @@ tags:
   - edge-ai-deployment
   - edge-device
   - framework
-  - hacker-news
   - intermediate
   - local-deployment
   - on-device-ai

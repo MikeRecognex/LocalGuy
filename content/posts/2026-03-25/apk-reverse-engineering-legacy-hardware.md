@@ -15,7 +15,6 @@ tags:
   - edge-inference
   - edge-llm-deployment
   - embedded-ai
-  - hacker-news
   - hardware
   - hardware-compatibility
   - hardware-constraints

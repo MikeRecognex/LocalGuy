@@ -13,10 +13,12 @@ tags:
   - latency-optimization
   - local-inference-limitations
   - local-llm
+  - model-quantization
   - msn
   - neutral
   - performance-analysis
   - practical-deployment
+  - privacy-compliance
 mentions:
   - name: MSN
     role: publisher

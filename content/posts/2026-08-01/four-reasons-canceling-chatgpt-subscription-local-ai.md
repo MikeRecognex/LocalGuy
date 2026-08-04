@@ -6,6 +6,7 @@ tags:
   - adoption
   - beginner-friendly
   - bullish
+  - chatgpt
   - cloud-to-local-migration
   - consumer-gpu
   - cost-analysis
@@ -15,7 +16,10 @@ tags:
   - hobbyist
   - how-to-geek
   - latency-reduction
+  - llama-cpp
+  - local-inference
   - local-llm
+  - ollama
   - opinion
   - privacy
 mentions:

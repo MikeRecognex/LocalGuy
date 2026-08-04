@@ -10,10 +10,12 @@ tags:
   - cost-analysis
   - daily-digest
   - developer
+  - energy-consumption
   - energy-efficiency
   - hardware
   - intermediate
   - power-consumption
+  - power-efficiency
   - total-cost-of-ownership
   - towards-data-science
 mentions:

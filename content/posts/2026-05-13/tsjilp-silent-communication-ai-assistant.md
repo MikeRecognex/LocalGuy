@@ -15,7 +15,6 @@ tags:
   - edge-device
   - edge-inference
   - future-applications
-  - hacker-news
   - intermediate
   - local-deployment
   - low-latency

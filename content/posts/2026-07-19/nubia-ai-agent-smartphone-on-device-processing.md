@@ -5,6 +5,7 @@ description: "Nubia has unveiled a smartphone designed specifically for running 
 tags:
   - agentic-ai
   - agents
+  - ai-agent-smartphone
   - bullish
   - daily-digest
   - developer
@@ -14,8 +15,10 @@ tags:
   - hardware
   - intermediate
   - mobile
+  - model-compression
   - model-quantization
   - nubia
+  - on-device-agents
   - release
 mentions:
   - name: Nubia

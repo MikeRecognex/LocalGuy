@@ -3,25 +3,27 @@ title: "Grok Launches Excel AI Add-in for Integrated Model Access"
 date: 2026-07-24
 description: "Grok introduces an AI add-in for Excel, bringing LLM capabilities directly into a productivity tool interface. This represents growing integration of AI inference into mainstream software ecosystems."
 tags:
+  - application-integration
   - applications
   - bullish
   - daily-digest
   - developer
-  - hacker-news
-  - inference
+  - excel
+  - grok
   - inference-latency
   - integration
   - intermediate
+  - on-device-deployment
   - productivity-tools
   - release
   - the-register
   - tools
   - workflow-integration
 mentions:
+  - name: Hacker News
+    role: publisher
   - name: The Register
     role: publisher
-  - name: Hacker News
-    role: source
 status: published
 ---
 

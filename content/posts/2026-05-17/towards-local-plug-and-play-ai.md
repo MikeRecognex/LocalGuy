@@ -13,7 +13,6 @@ tags:
   - developer
   - developer-experience
   - edge-inference
-  - hacker-news
   - intermediate
   - llm-architecture
   - local-ai-deployment

@@ -6,11 +6,10 @@ tags:
   - apertus
   - bullish
   - daily-digest
+  - decentralized-ai
   - developer
   - edge-device
   - framework
-  - hacker-news
-  - inference
   - intermediate
   - local-deployment
   - on-device-inference
@@ -20,8 +19,6 @@ tags:
   - release
   - self-hosting
 mentions:
-  - name: Apertus
-    role: developer
   - name: Hacker News
     role: publisher
 status: published

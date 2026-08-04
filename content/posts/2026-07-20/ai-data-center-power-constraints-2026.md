@@ -11,16 +11,14 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - hardware
   - infrastructure
+  - infrastructure-bottlenecks
   - intermediate
   - model-optimization
   - optimization
   - spheron-network
 mentions:
-  - name: Spheron Network
-    role: publisher
   - name: Hacker News
     role: publisher
 status: published

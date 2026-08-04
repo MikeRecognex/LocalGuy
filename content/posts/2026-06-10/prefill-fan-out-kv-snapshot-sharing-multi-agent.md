@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - inference
   - kv-cache-optimization
   - memory-management
   - multi-agent-systems

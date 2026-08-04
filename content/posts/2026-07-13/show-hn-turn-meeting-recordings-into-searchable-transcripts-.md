@@ -7,7 +7,6 @@ tags:
   - daily-digest
   - developer
   - edge-deployment
-  - hacker-news
   - intermediate
   - local-inference
   - on-device-inference

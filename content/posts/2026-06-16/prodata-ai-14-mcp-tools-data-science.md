@@ -10,7 +10,6 @@ tags:
   - data-science
   - data-science-automation
   - developer
-  - hacker-news
   - intermediate
   - local-privacy
   - mcp

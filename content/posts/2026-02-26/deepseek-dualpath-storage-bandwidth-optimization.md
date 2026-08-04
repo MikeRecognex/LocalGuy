@@ -7,7 +7,6 @@ tags:
   - agentic-inference
   - agents
   - analysis
-  - arxiv
   - bullish
   - consumer-gpu
   - data-access-optimization
@@ -18,7 +17,6 @@ tags:
   - gpu-compute-utilization
   - gpu-utilization
   - hardware-optimization
-  - inference
   - inference-optimization
   - intermediate
   - llama

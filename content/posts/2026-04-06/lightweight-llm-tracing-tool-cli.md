@@ -11,7 +11,6 @@ tags:
   - developer
   - edge-ai-deployment
   - edge-device
-  - inference
   - inference-debugging
   - inference-monitoring
   - intermediate

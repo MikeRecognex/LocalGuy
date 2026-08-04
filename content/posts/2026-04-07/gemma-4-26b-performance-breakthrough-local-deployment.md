@@ -20,7 +20,6 @@ tags:
   - model-size
   - performance-optimization
   - quantisation
-  - reddit
   - showcase
   - tool-calling
 mentions:

@@ -15,7 +15,6 @@ tags:
   - gpu
   - gpu-tpu-comparison
   - gpu-vs-tpu
-  - hacker-news
   - hardware
   - hardware-selection
   - inference-cost-efficiency

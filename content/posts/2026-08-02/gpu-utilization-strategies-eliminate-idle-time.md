@@ -4,6 +4,7 @@ date: 2026-08-02
 description: "Practical techniques for maximising GPU utilisation during local LLM inference, addressing idle time and throughput bottlenecks that waste expensive compute resources."
 tags:
   - 36kr
+  - advanced
   - analysis
   - bullish
   - consumer-gpu
@@ -13,11 +14,14 @@ tags:
   - edge-device
   - gpu
   - gpu-utilization
-  - inference
   - inference-throughput
   - intermediate
   - optimization
   - performance
+  - request-batching
+  - tensorrt
+  - throughput-optimization
+  - vllm
 mentions:
   - name: 36Kr
     role: publisher

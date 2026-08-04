@@ -11,7 +11,6 @@ tags:
   - developer
   - gemma
   - greenstevester
-  - hacker-news
   - hardware-setup
   - hardware-software-compatibility
   - intermediate

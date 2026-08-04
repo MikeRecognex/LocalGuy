@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - inference-optimization
   - interactive-ai-applications
   - intermediate

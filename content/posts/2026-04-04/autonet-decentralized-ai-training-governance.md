@@ -19,7 +19,6 @@ tags:
   - distributed-systems
   - distributed-training
   - governance
-  - hacker-news
   - intermediate
   - open-source
   - open-source-ai

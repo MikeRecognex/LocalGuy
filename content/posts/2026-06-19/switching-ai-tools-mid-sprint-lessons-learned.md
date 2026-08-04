@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - infrastructure
   - intermediate
   - quantization

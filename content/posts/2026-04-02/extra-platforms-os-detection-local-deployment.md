@@ -14,7 +14,6 @@ tags:
   - developer
   - edge-device
   - environment-detection
-  - hacker-news
   - intermediate
   - multi-hardware-inference
   - open-source

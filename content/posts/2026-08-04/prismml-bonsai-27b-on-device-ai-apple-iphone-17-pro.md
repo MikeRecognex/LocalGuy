@@ -4,18 +4,22 @@ date: 2026-08-04
 description: "PrismML has developed Bonsai 27B, a model specifically optimised for on-device inference on Apple's iPhone 17 Pro. This represents a significant step toward practical large-scale LLM deployment on consumer mobile devices."
 tags:
   - apple-silicon
+  - bonsai-27b
   - bullish
   - daily-digest
   - developer
   - edge-device
   - hardware
   - hardware-acceleration
+  - hardware-co-design
   - intermediate
+  - iphone-17-pro
   - mobile-inference
   - mobile-optimization
   - model-compression
   - on-device-privacy
   - prismml
+  - privacy-compliance
   - quantisation
   - release
 mentions:

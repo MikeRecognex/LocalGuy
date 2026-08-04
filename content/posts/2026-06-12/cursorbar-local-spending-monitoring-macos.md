@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - developer-tools
-  - hacker-news
   - intermediate
   - macos
   - monitoring

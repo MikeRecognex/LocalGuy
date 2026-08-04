@@ -14,7 +14,6 @@ tags:
   - edge-ai-deployment
   - edge-deployment
   - edge-device
-  - hacker-news
   - inference-performance-optimization
   - intermediate
   - latency-optimization

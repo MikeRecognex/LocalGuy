@@ -14,7 +14,6 @@ tags:
   - developer
   - developer-tool-integration
   - git-storage
-  - hacker-news
   - intermediate
   - knowledge-representation
   - local-llm-scaling

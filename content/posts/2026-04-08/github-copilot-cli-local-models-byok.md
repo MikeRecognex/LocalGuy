@@ -16,7 +16,6 @@ tags:
   - developer-tools
   - enterprise
   - flexible-deployment
-  - inference
   - intermediate
   - local-deployment
   - local-inference

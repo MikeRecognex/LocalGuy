@@ -10,8 +10,8 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
+  - llama-cpp
   - llama-cpp-optimization
-  - llamacpp
   - memory-constrained-devices
   - memory-management
   - memory-optimization

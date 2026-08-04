@@ -9,8 +9,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
-  - inference
   - inference-pipeline-management
   - neutral
   - on-device-deployment

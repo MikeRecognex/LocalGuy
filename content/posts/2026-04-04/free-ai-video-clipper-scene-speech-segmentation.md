@@ -11,7 +11,6 @@ tags:
   - cost-saving
   - daily-digest
   - developer
-  - hacker-news
   - inference-optimization
   - intermediate
   - local-inference

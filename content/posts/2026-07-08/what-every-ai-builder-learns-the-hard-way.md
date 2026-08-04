@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - deployment
   - developer
-  - hacker-news
   - infrastructure-design
   - intermediate
   - lessons-learned

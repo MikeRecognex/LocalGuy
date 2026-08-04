@@ -7,7 +7,6 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - inference
   - intermediate
   - local-deployment
   - local-tts-inference

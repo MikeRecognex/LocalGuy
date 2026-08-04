@@ -5,7 +5,6 @@ description: "DeepSeek researchers present DualPath, a novel approach to address
 tags:
   - advanced
   - analysis
-  - arxiv
   - bandwidth
   - bandwidth-efficiency
   - bandwidth-optimization

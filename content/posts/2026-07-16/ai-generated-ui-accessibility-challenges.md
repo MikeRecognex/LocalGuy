@@ -8,10 +8,10 @@ tags:
   - cautious
   - daily-digest
   - deployment
+  - developer
   - development-tools
   - enterprise
   - enterprise-deployment
-  - hacker-news
   - intermediate
   - output-validation
   - quality-assurance

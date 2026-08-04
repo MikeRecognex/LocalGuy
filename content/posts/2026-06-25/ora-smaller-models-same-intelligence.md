@@ -10,7 +10,6 @@ tags:
   - edge-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - inference-speed
   - intermediate
   - model-compression

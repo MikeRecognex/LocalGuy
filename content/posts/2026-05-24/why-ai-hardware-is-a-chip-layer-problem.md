@@ -18,7 +18,6 @@ tags:
   - developer
   - easelinktech
   - edge-inference
-  - hacker-news
   - hardware
   - hardware-optimization
   - inference-hardware-design

@@ -21,7 +21,6 @@ tags:
   - llama
   - llama-cpp
   - llama-cpp-integration
-  - llamacpp
   - local-deployment
   - local-inference
   - newelle

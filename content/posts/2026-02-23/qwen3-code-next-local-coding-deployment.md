@@ -10,7 +10,6 @@ tags:
   - data-privacy
   - enterprise
   - hardware
-  - inference
   - local-coding-assistant
   - local-deployment
   - mlx

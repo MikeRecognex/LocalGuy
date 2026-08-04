@@ -8,7 +8,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - hacker-news
   - hardware
   - hardware-utilization
   - intermediate

@@ -10,7 +10,6 @@ tags:
   - developer
   - edge-device
   - edge-inference
-  - hacker-news
   - inference-frameworks
   - intermediate
   - local-deployment

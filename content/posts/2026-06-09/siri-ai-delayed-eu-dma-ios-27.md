@@ -8,7 +8,6 @@ tags:
   - deployment
   - edge-device
   - enterprise
-  - hacker-news
   - intermediate
   - neutral
   - on-device

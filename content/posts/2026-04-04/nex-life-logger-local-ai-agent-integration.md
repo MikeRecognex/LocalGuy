@@ -13,7 +13,6 @@ tags:
   - developer
   - edge-ai-integration
   - edge-device
-  - hacker-news
   - intermediate
   - local-activity-tracking
   - local-inference

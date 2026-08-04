@@ -13,7 +13,6 @@ tags:
   - edge-applications
   - edge-device
   - edge-devices
-  - hacker-news
   - hardware
   - inference-optimization
   - infrastructure

@@ -11,7 +11,6 @@ tags:
   - deployment-tooling
   - developer
   - distributed-deployment
-  - hacker-news
   - intermediate
   - llms-txt-standard
   - model-discoverability

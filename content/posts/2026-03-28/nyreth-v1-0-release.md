@@ -10,7 +10,6 @@ tags:
   - deployment-strategy
   - developer
   - framework
-  - hacker-news
   - hardware
   - intermediate
   - llm-frameworks

@@ -16,7 +16,6 @@ tags:
   - developer-tooling
   - enterprise
   - geofencing
-  - github
   - hybrid-deployment
   - hybrid-model-deployment
   - inference-privacy

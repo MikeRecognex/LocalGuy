@@ -5,13 +5,16 @@ description: "Research on how LLM memory degrades and becomes corrupted over tim
 tags:
   - advanced
   - analysis
+  - anamnesis
+  - context-management
   - context-window
+  - context-window-decay
   - context-window-management
   - daily-digest
   - developer
-  - hacker-news
   - inference-reliability
   - long-context-inference
+  - memory-allocation
   - memory-corruption
   - memory-optimization
   - neutral

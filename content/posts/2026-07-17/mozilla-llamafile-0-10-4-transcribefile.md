@@ -4,18 +4,22 @@ date: 2026-07-17
 description: "Mozilla has updated Llamafile to version 0.10.4, introducing Transcribefile, a new tool built on Transcribe.cpp for local audio transcription without external dependencies. This expansion of the Llamafile ecosystem enables developers to run speech-to-text inference entirely on-device."
 tags:
   - audio
+  - audio-transcription
   - bullish
   - cpu-only
   - daily-digest
   - developer
-  - inference
+  - edge-deployment
   - intermediate
   - llamafile
   - on-device-inference
   - open-source
   - phoronix
+  - privacy-protection
   - release
   - speech-to-text
+  - transcribe-cpp
+  - transcribefile
   - zero-dependency-deployment
 mentions:
   - name: Phoronix

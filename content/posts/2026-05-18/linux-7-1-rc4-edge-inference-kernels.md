@@ -13,9 +13,7 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
   - hardware
-  - inference
   - inference-speed-optimization
   - intermediate
   - kernel-memory-management

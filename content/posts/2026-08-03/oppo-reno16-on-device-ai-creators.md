@@ -11,13 +11,16 @@ tags:
   - edge-inference
   - hardware
   - intermediate
+  - mlx
   - mobile
   - mobile-inference
   - on-device-ai
   - on-device-inference
   - oppo
+  - power-efficiency
   - power-management
   - qoomedia
+  - reno16-pro
 mentions:
   - name: Oppo
     role: manufacturer

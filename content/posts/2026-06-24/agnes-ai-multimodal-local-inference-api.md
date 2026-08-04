@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - edge-inference
-  - hacker-news
   - intermediate
   - local-inference
   - multimodal

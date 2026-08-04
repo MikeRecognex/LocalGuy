@@ -9,7 +9,7 @@ tags:
   - developer
   - edge-deployment
   - edge-device
-  - hacker-news
+  - enterprise
   - inference-optimization
   - kubernetes
   - kubernetes-orchestration
@@ -18,9 +18,10 @@ tags:
   - ocr-pipeline
   - production-deployment
   - qwen
+  - qwen-3-5
   - tutorial
 mentions:
-  - name: Neural Maze
+  - name: neural-maze
     role: publisher
   - name: Hacker News
     role: publisher

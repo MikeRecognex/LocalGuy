@@ -10,10 +10,9 @@ tags:
   - edge-deployment
   - enterprise
   - gguf-ecosystem
-  - inference
   - intermediate
   - llama-cpp
-  - lmstudio
+  - lm-studio
   - local-inference
   - local-llm-training
   - mlops-workflow-management

@@ -12,7 +12,6 @@ tags:
   - edge-computing
   - edge-deployment
   - enterprise
-  - inference
   - intelligent-scheduling
   - llm-application
   - llm-integration

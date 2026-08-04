@@ -13,8 +13,13 @@ tags:
   - health-tech
   - inference-speed
   - intermediate
+  - llama-cpp
+  - low-latency-inference
+  - mlx
   - model-compression
+  - ollama
   - on-device
+  - privacy-compliance
   - wearables
 status: published
 ---

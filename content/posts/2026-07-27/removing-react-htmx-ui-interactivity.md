@@ -9,18 +9,19 @@ tags:
   - developer
   - edge-device
   - frontend
+  - frontend-architecture
   - frontend-optimization
-  - hacker-news
   - htmx
   - intermediate
   - memory-overhead
   - misago-project
   - optimization
+  - react
   - resource-efficiency
+  - resource-optimization
   - tooling
+  - user-interface
 mentions:
-  - name: Misago Project
-    role: publisher
   - name: Hacker News
     role: publisher
 status: published

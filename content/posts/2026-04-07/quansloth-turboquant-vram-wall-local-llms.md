@@ -11,9 +11,7 @@ tags:
   - edge-ai-deployment
   - edge-device
   - fine-tuning
-  - hacker-news
   - hardware-optimization
-  - inference
   - inference-quality
   - intermediate
   - local-deployment

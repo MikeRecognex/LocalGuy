@@ -10,7 +10,6 @@ tags:
   - consumer-gpu
   - context-management
   - developer
-  - inference
   - inference-engines
   - intermediate
   - kv-cache-quantization
@@ -23,7 +22,6 @@ tags:
   - qwen
   - qwen-3-5-architecture
   - qwen-3-5-optimization
-  - reddit
   - tutorial
 mentions:
   - name: Reddit

@@ -14,7 +14,6 @@ tags:
   - edge-ai-deployment
   - edge-device
   - edge-inference
-  - hacker-news
   - intermediate
   - local-deployment-benefits
   - local-inference

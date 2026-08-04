@@ -12,7 +12,6 @@ tags:
   - edge-ai-robotics
   - edge-device
   - edge-inference
-  - hacker-news
   - hallucination-mitigation
   - multimodal
   - output-validation

@@ -10,7 +10,6 @@ tags:
   - developer
   - developer-tools
   - edge-device
-  - hacker-news
   - intermediate
   - lightweight-rag
   - local-llm

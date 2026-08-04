@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - developer
   - fine-tuning
-  - hacker-news
   - intermediate
   - model-evaluation
   - open-source

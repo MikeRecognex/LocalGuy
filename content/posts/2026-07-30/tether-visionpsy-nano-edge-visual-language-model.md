@@ -12,12 +12,14 @@ tags:
   - intermediate
   - multimodal
   - multimodal-ai
+  - multimodal-models
   - open-source
   - privacy-protection
   - release
   - tether-data
   - vision
   - vision-language-model
+  - visionpsy-nano
 mentions:
   - name: Tether Data
     role: developer

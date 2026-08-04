@@ -11,7 +11,6 @@ tags:
   - daily-digest
   - decentralized-ai
   - developer
-  - hacker-news
   - infrastructure
   - intermediate
   - local-llm-deployment

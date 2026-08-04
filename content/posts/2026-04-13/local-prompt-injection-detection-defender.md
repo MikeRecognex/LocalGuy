@@ -12,7 +12,6 @@ tags:
   - edge-deployment
   - edge-device
   - enterprise
-  - hacker-news
   - intermediate
   - local-inference
   - local-llm-deployment

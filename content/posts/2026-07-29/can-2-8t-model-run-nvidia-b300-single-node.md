@@ -5,6 +5,7 @@ description: "A practical deployment analysis examining whether ultra-large tril
 tags:
   - advanced
   - analysis
+  - b300-x8
   - benchmark
   - bullish
   - daily-digest
@@ -12,12 +13,14 @@ tags:
   - enterprise
   - fixstars
   - gpu
-  - hacker-news
   - hardware
+  - hardware-benchmarking
   - hardware-procurement
-  - inference
   - inference-latency
+  - kimi-k3
   - model-quantization
+  - neutral
+  - on-premises-deployment
   - single-node-inference
 mentions:
   - name: Fixstars

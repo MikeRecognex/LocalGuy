@@ -12,7 +12,7 @@ tags:
   - gemma
   - gemma-4-templates
   - intermediate
-  - llamacpp
+  - llama-cpp
   - local-llm-development
   - local-model-deployment
   - mcp
@@ -21,7 +21,6 @@ tags:
   - ollama
   - performance-optimization
   - prompt-engineering
-  - reddit
   - rlocalllama
   - tool-calling
   - tool-use

@@ -10,7 +10,6 @@ tags:
   - edge-device
   - edge-inference
   - espressif
-  - hacker-news
   - hardware
   - inference-runtimes
   - intermediate

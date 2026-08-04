@@ -6,16 +6,17 @@ tags:
   - advanced
   - analysis
   - architecture
-  - arxiv
   - bullish
+  - cliffordnet
   - daily-digest
   - developer
   - edge-device
   - geometric-algebra
-  - hacker-news
   - inference-optimization
+  - llama-cpp
   - model-compression
   - model-quantization
+  - ollama
   - optimization
   - parameter-efficiency
   - research

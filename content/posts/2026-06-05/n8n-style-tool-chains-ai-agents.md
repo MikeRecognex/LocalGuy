@@ -10,8 +10,6 @@ tags:
   - developer
   - edge-device
   - emergent-behavior
-  - github
-  - hacker-news
   - intermediate
   - modular-ai
   - open-source

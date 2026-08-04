@@ -8,7 +8,6 @@ tags:
   - bullish
   - daily-digest
   - developer
-  - hacker-news
   - intermediate
   - knowledge-management
   - llm-integration

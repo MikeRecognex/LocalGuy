@@ -8,11 +8,13 @@ tags:
   - consumer-gpu
   - cost-saving
   - daily-digest
+  - deployment-guide
+  - developer
   - hobbyist
-  - inference
   - local-deployment
   - ollama
   - open-source
+  - privacy-compliance
   - privacy-protection
   - setup-guide
   - tech-insider

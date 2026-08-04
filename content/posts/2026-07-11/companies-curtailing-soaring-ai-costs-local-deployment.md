@@ -12,7 +12,6 @@ tags:
   - edge-device
   - edge-inference
   - enterprise
-  - hacker-news
   - intermediate
   - local-deployment
   - model-quantization

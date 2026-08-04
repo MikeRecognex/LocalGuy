@@ -11,6 +11,7 @@ tags:
   - edge-inference
   - enterprise
   - enterprise-deployment
+  - firefox-esr
   - ghacks
   - in-browser-inference
   - intermediate

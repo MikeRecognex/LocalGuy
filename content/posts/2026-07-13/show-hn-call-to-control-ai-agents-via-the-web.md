@@ -12,7 +12,6 @@ tags:
   - diffforge
   - edge-device
   - framework
-  - hacker-news
   - intermediate
   - local-inference
   - privacy-compliance

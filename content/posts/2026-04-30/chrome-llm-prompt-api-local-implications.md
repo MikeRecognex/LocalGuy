@@ -14,7 +14,6 @@ tags:
   - ecosystem-fragmentation
   - edge-inference
   - firefox-webdevs
-  - hacker-news
   - intermediate
   - local-deployment
   - local-inference

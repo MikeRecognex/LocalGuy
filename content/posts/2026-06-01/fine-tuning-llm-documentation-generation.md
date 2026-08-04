@@ -14,7 +14,6 @@ tags:
   - edge-device
   - enterprise
   - fine-tuning
-  - hacker-news
   - inference-optimization
   - intermediate
   - llm-fine-tuning

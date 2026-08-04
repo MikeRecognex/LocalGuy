@@ -16,7 +16,6 @@ tags:
   - design-patterns
   - developer
   - education
-  - hacker-news
   - intermediate
   - investigating-software
   - local-llm-deployment

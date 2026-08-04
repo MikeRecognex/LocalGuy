@@ -7,9 +7,7 @@ tags:
   - consumer-gpu
   - daily-digest
   - developer
-  - hacker-news
   - hardware
-  - inference
   - intermediate
   - long-context-window
   - memory-management

@@ -13,7 +13,6 @@ tags:
   - edge-deployment
   - gpu-comparison
   - gpu-driver-development
-  - hacker-news
   - hardware
   - hardware-comparison
   - intermediate

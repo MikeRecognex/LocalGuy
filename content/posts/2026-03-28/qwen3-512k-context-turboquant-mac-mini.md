@@ -13,7 +13,6 @@ tags:
   - developer
   - edge-ai
   - edge-deployment
-  - hacker-news
   - hardware
   - intermediate
   - long-context-llms

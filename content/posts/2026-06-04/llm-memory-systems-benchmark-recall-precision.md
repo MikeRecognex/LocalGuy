@@ -12,7 +12,6 @@ tags:
   - developer
   - edge-device
   - evaluation
-  - hacker-news
   - intermediate
   - memory-optimization
   - memory-systems

@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - developer
   - edge-inference
-  - hacker-news
   - hardware
   - inference-speed
   - intermediate

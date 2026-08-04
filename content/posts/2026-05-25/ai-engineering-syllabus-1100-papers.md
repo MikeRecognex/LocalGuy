@@ -12,7 +12,6 @@ tags:
   - developer
   - education
   - grouped-query-attention
-  - hacker-news
   - inference-techniques
   - learning-resource
   - local-inference

@@ -9,7 +9,6 @@ tags:
   - daily-digest
   - developer
   - edge-inference
-  - hacker-news
   - hardware-acceleration
   - intermediate
   - model-quantization

@@ -9,7 +9,6 @@ tags:
   - code-generation
   - daily-digest
   - developer
-  - hacker-news
   - infrastructure-maintenance
   - intermediate
   - llm-application

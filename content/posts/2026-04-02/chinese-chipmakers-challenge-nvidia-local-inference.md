@@ -13,7 +13,6 @@ tags:
   - daily-digest
   - edge-ai-deployment
   - enterprise
-  - hacker-news
   - hardware
   - hardware-alternatives
   - hardware-diversification

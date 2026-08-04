@@ -10,8 +10,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
-  - inference
   - intermediate
   - memory-efficiency
   - showcase

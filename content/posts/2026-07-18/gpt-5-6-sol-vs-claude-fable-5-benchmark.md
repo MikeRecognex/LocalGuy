@@ -8,18 +8,22 @@ tags:
   - benchmark
   - benchmark-report
   - bullish
+  - claude-fable-5
   - daily-digest
   - developer
   - edge-device
   - evaluation
   - gaming-benchmark
+  - gaming-benchmarks
+  - gpt-5-6-sol
   - intermediate
+  - model-evaluation
   - performance
   - reasoning
   - system-2-arena
 mentions:
-  - name: System-2 Arena
-    role: developer
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

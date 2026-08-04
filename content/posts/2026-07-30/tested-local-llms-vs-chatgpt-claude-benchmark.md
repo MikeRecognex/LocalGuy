@@ -6,9 +6,12 @@ tags:
   - benchmark
   - benchmark-report
   - cautious
+  - chatgpt
+  - claude
   - cloud-vs-local
   - comparison
   - daily-digest
+  - developer
   - enterprise
   - evaluation
   - intermediate

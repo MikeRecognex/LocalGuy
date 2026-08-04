@@ -9,7 +9,6 @@ tags:
   - edge-deployment
   - edge-device
   - embedded-database
-  - hacker-news
   - intermediate
   - open-source
   - rag

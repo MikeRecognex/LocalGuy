@@ -18,7 +18,6 @@ tags:
   - edge-ai-development
   - edge-device
   - enterprise
-  - hacker-news
   - intermediate
   - llm-productivity
   - optimization

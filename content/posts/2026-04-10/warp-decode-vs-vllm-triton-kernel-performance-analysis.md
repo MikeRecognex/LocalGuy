@@ -12,7 +12,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
   - hardware
   - inference-engines
   - inference-optimization

@@ -12,7 +12,6 @@ tags:
   - edge-inference
   - enterprise
   - enterprise-ai
-  - hacker-news
   - intermediate
   - knowledge-management
   - local-ai-deployment

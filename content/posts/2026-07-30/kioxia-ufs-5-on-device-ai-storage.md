@@ -6,6 +6,7 @@ tags:
   - bullish
   - business-wire
   - daily-digest
+  - developer
   - edge-device
   - edge-inference
   - enterprise
@@ -14,9 +15,12 @@ tags:
   - kioxia
   - memory-bandwidth
   - mobile
+  - mobile-deployment
   - model-quantization
+  - on-device-inference
   - release
   - storage
+  - ufs-5-0
 mentions:
   - name: Kioxia
     role: manufacturer

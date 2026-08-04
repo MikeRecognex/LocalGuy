@@ -11,10 +11,9 @@ tags:
   - deployment
   - developer
   - edge-ai
-  - inference
   - intermediate
   - large-language-models
-  - llamacpp
+  - llama-cpp
   - local-inference
   - local-inference-deployment
   - memory-optimization

@@ -17,7 +17,6 @@ tags:
   - edge-device
   - evaluation
   - evol-ai
-  - hacker-news
   - intermediate
   - llm-evaluation
   - local-inference

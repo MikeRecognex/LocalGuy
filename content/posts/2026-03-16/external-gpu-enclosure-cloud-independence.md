@@ -18,7 +18,6 @@ tags:
   - gpu-acceleration
   - hardware
   - hardware-diversification
-  - inference
   - inference-optimization
   - intermediate
   - local-inference

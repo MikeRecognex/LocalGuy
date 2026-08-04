@@ -17,7 +17,6 @@ tags:
   - hardware
   - hardware-optimization
   - hardware-software-co-design
-  - inference
   - local-llm-inference-optimization
   - optimization
   - specialized-compute

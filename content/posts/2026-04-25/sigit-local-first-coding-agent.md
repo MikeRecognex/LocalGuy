@@ -14,7 +14,6 @@ tags:
   - developer
   - development-tools
   - enterprise
-  - hacker-news
   - intermediate
   - local-coding-agent
   - local-llm-applications

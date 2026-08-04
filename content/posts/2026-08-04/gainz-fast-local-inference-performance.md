@@ -6,9 +6,10 @@ tags:
   - bullish
   - consumer-gpu
   - daily-digest
+  - deployment-strategy
   - developer
   - edge-device
-  - hacker-news
+  - gainz-fast
   - inference-optimization
   - inference-speed
   - intermediate

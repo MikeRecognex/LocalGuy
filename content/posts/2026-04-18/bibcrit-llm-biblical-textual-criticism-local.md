@@ -12,7 +12,6 @@ tags:
   - domain-specific-llms
   - eep-tal-consortium-for-biblical-criticism
   - fine-tuning
-  - hacker-news
   - intermediate
   - local-deployment
   - local-llm-development

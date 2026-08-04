@@ -15,7 +15,6 @@ tags:
   - edge-device
   - energy-efficiency
   - enterprise
-  - hacker-news
   - hardware
   - intermediate
   - mobile

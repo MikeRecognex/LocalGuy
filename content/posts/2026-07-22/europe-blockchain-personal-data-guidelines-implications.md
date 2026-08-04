@@ -12,14 +12,18 @@ tags:
   - developer
   - european-data-protection-board
   - federated-learning
+  - intermediate
   - neutral
   - privacy
   - privacy-compliance
+  - privacy-preserving-ai
   - regulations
   - regulatory-compliance
 mentions:
   - name: European Data Protection Board
     role: regulatory-body
+  - name: Hacker News
+    role: publisher
 status: published
 ---
 

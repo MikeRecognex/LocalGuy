@@ -10,7 +10,6 @@ tags:
   - daily-digest
   - desktop-automation
   - developer
-  - hacker-news
   - intermediate
   - open-source
   - release

@@ -8,7 +8,6 @@ tags:
   - data-privacy
   - edge-device
   - edge-inference
-  - hacker-news
   - hobbyist
   - intermediate
   - model-optimization

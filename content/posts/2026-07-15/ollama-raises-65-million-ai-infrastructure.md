@@ -13,13 +13,13 @@ tags:
   - infrastructure
   - local-inference
   - local-llm-infrastructure
+  - model-serving
   - news
   - ollama
   - open-source
+  - privacy-compliance
   - startup-fortune
 mentions:
-  - name: Ollama
-    role: developer
   - name: Startup Fortune
     role: publisher
 status: published

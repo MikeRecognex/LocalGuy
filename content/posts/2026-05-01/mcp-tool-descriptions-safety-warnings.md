@@ -13,7 +13,6 @@ tags:
   - daily-digest
   - destructive-behavior-prevention
   - developer
-  - hacker-news
   - local-agent-deployment
   - local-inference
   - mcp

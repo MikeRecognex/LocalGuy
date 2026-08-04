@@ -14,7 +14,6 @@ tags:
   - debugging-workflow
   - developer
   - evaluation-framework
-  - hacker-news
   - ide-integration
   - intermediate
   - local-llm-evaluation

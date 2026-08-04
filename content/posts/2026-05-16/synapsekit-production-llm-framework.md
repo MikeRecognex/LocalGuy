@@ -13,7 +13,6 @@ tags:
   - edge-device
   - framework
   - framework-development
-  - hacker-news
   - intermediate
   - llm-deployment-framework
   - memory-efficiency

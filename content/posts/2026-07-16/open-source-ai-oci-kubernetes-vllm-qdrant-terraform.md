@@ -12,19 +12,19 @@ tags:
   - inference-optimization
   - infrastructure-as-code
   - kubernetes
+  - kubernetes-deployment
   - kubernetes-orchestration
   - open-source
   - oracle
   - qdrant
   - self-hosted-llm
+  - terraform
   - tutorial
   - vector-database
   - vllm
 mentions:
   - name: Oracle
     role: publisher
-  - name: Qdrant
-    role: developer
 status: published
 ---
 

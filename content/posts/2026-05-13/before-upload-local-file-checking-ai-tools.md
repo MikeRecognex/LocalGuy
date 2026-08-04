@@ -10,7 +10,6 @@ tags:
   - developer
   - edge-inference
   - enterprise
-  - hacker-news
   - intermediate
   - local-first-ai
   - local-processing

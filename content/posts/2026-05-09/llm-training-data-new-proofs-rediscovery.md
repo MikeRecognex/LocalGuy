@@ -11,7 +11,6 @@ tags:
   - developer
   - discussion
   - fine-tuning
-  - hacker-news
   - intermediate
   - knowledge-injection
   - knowledge-synthesis

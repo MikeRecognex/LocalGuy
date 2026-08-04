@@ -15,7 +15,6 @@ tags:
   - hardware
   - hardware-repurposing
   - hardware-reuse
-  - inference
   - intermediate
   - legacy-hardware
   - legacy-hardware-repurposing

@@ -11,8 +11,6 @@ tags:
   - daily-digest
   - developer
   - edge-device
-  - hacker-news
-  - inference
   - instruction-following
   - llm-limitations
   - memory-optimization

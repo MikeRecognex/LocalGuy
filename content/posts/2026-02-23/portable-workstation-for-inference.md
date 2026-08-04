@@ -9,7 +9,6 @@ tags:
   - edge-computing
   - gpu-cooling
   - hardware
-  - inference
   - inference-optimization
   - local-deployment
   - news

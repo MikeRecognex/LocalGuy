@@ -9,7 +9,6 @@ tags:
   - edge-deployment
   - edge-device
   - enterprise
-  - hacker-news
   - intermediate
   - monitoring
   - network-security
