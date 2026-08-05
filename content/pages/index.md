@@ -38,19 +38,6 @@ permalink: /
 
   <div class="landing-main">
 
-<div class="sponsor-banner">
-  <div class="sponsor-label">Primary Sponsor</div>
-  <div class="sponsor-content">
-    <img src="/assets/revyzor-logo.png" alt="Revyzor" class="sponsor-logo" />
-    <div class="sponsor-body">
-      <h3 class="sponsor-title">Revyzor — Your AI's reasoning state shouldn't vanish after every request.</h3>
-      <p class="sponsor-desc">Revyzor losslessly compresses and certifies your model's working state &mdash; so you can inspect, audit, and resume any inference exactly as it happened. One config flag in vLLM, SGLang, or NIM.</p>
-      <p class="sponsor-stats">1.45&times; bit-exact lossless &bull; BYO lossy compression &bull; &lt;50&nbsp;ms resume &bull; H100, A100, L40S</p>
-      <a href="https://revyzor.com" target="_blank" rel="noopener" class="sponsor-btn">Learn more &rarr;</a>
-    </div>
-  </div>
-</div>
-
     <div class="landing-search">
       <button class="search-inline-btn" id="search-inline-trigger" aria-label="Search posts">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>

@@ -21,6 +21,7 @@
   --color-surface: #f7f7f7;
   --max-width: 42rem;
   --spacing: 1.5rem;
+  --header-height: 4.75rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -40,6 +41,8 @@ html {
   font-size: 112.5%; /* 18px */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Stop anchor targets landing underneath the sticky header */
+  scroll-padding-top: calc(var(--header-height) + 1rem);
 }
 
 body {
@@ -298,6 +301,15 @@ hr::before {
 }
 
 /* === Site Header / Navigation === */
+/* Pinned to the viewport so the menu stays reachable while scrolling.
+   Sits below the search overlay (z-index 100). */
+header:first-child {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--color-bg);
+}
+
 header:first-child nav {
   display: flex;
   justify-content: space-between;
@@ -816,7 +828,7 @@ a.wikilink:hover {
 
 .sidebar-sticky {
   position: sticky;
-  top: 1rem;
+  top: calc(var(--header-height) + 1rem);
   align-self: start;
 }
 
@@ -1284,7 +1296,7 @@ footer p:last-child a:hover {
   text-decoration: underline;
 }
 
-/* === Sponsor Banner (homepage) === */
+/* === Sponsor Banner (/sponsors/) === */
 .sponsor-banner {
   background: linear-gradient(135deg, #0d1b1e 0%, #132a2f 50%, #0d1b1e 100%);
   border: 1px solid #1a3a3f;
