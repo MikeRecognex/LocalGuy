@@ -3,12 +3,26 @@ title: "Liquid AI Releases LFM2.5-2.6B: Powerful Agentic Model for Raspberry Pi 
 date: 2026-08-07
 description: "Liquid AI's new LFM2.5-2.6B model brings agentic AI capabilities to resource-constrained devices like Raspberry Pi, featuring 128K context window and tool calling without requiring GPUs or cloud infrastructure."
 tags:
-  - daily-digest
+  - agentic-ai
   - agents
-  - open-source
+  - bullish
   - context-window
+  - daily-digest
+  - developer
+  - edge-device
+  - edge-inference
   - hardware
-status: draft
+  - intermediate
+  - lfm2-5-2-6b
+  - liquid-ai
+  - open-source
+  - raspberry-pi
+  - release
+  - tool-calling
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 Liquid AI has released LFM2.5-2.6B, a 2.6-billion parameter open-weights model specifically engineered for on-device agentic AI deployment on extremely resource-constrained hardware including Raspberry Pi and other edge devices. The model supports a 128K context window and includes native tool-calling capabilities—features previously thought impossible at this scale without cloud infrastructure or dedicated accelerators.

@@ -3,11 +3,20 @@ title: "Google Chrome Reveals Storage Requirements for Integrated Local AI Model
 date: 2026-08-07
 description: "Google discloses how much free disk space Chrome requires to install and run local AI models, indicating the browser is moving toward on-device model deployment for inference."
 tags:
+  - browser-inference
+  - bullish
+  - chrome
+  - consumer-gpu
   - daily-digest
+  - developer
   - hardware
-  - quantisation
+  - hardware-requirements
+  - intermediate
   - memory-optimization
-status: draft
+  - news
+  - on-device-deployment
+  - quantisation
+status: published
 ---
 
 Google's public specification of storage requirements for Chrome's local AI model support confirms the browser is moving toward practical on-device inference integration. By establishing clear hardware requirements, Google is signaling commitment to democratizing local model deployment and setting expectations for device compatibility. This transparency helps developers and users understand the practical constraints of running LLMs on consumer hardware.

@@ -2,15 +2,15 @@
   "daily": {
     "2026-02-11": {
       "text": "Anthropic releases Claude Opus 4.6 sabotage risk assessment report.",
-      "postCount": 15
+      "postCount": 14
     },
     "2026-02-12": {
       "text": "GLM-5 model is released with 744B parameters for complex tasks.",
-      "postCount": 16
+      "postCount": 14
     },
     "2026-02-13": {
       "text": "Dhi-5B multimodal model trained with ₹1.1 lakh budget showcases cost-effective AI deployment.",
-      "postCount": 13
+      "postCount": 11
     },
     "2026-02-16": {
       "text": "Alibaba upgrades AI models ahead of DeepSeek release with InitRunner framework support.",
@@ -25,8 +25,8 @@
       "postCount": 15
     },
     "2026-02-19": {
-      "text": "Aegis.rs provides Rust-based LLM security.",
-      "postCount": 15
+      "text": "GPT4All replaces Ollama on Mac with improved performance.",
+      "postCount": 14
     },
     "2026-02-21": {
       "text": "Hugging Face acquires GGML.AI, securing llama.cpp's future.",
@@ -37,8 +37,8 @@
       "postCount": 15
     },
     "2026-02-23": {
-      "text": "GLM-5 achieves top score on Extended NYT Connections benchmark, surpassing Kimi K2.5 Thinking.",
-      "postCount": 29
+      "text": "GLM-5 surpasses Kimi K2.5 Thinking on the Extended NYT Connections benchmark.",
+      "postCount": 28
     },
     "2026-02-24": {
       "text": "Anthropic reveals distillation attacks on Claude models by DeepSeek and Moonshot AI labs.",
@@ -53,16 +53,16 @@
       "postCount": 15
     },
     "2026-02-28": {
-      "text": "Krasis hybrid MoE runtime achieves 3,324 tokens/second on RTX 5080.",
-      "postCount": 20
+      "text": "Qwen3.5-35B runs on Raspberry Pi 5 at 3+ tokens/second with effective prompt engineering.",
+      "postCount": 17
     },
     "2026-03-01": {
       "text": "AgentLens provides open-source observability tools for local LLM agent deployments.",
       "postCount": 15
     },
     "2026-02-14": {
-      "text": "NVIDIA's Dynamic Memory Sparsification reduces LLM inference costs.",
-      "postCount": 15
+      "text": "NVIDIA's Dynamic Memory Sparsification reduces LLM costs by 8x.",
+      "postCount": 13
     },
     "2026-02-20": {
       "text": "Llama 3.1 8B runs on Taalas custom ASICs at 16,000 tokens/second.",
@@ -337,8 +337,8 @@
       "postCount": 10
     },
     "2026-05-07": {
-      "text": "Ollama vulnerability exposes 300,000 servers to attacks.",
-      "postCount": 10
+      "text": "Ollama suffers critical memory leak vulnerability exposing 300,000 servers globally.",
+      "postCount": 9
     },
     "2026-05-08": {
       "text": "Gemma model enables local, privacy-preserving AI inference on various devices.",
@@ -434,7 +434,7 @@
     },
     "2026-05-31": {
       "text": "Google Chrome downloads 4GB AI model without user permission for on-device inference capabilities.",
-      "postCount": 10
+      "postCount": 9
     },
     "2026-06-01": {
       "text": "NVIDIA launches N1X/N1 CPU-GPU SoC for local LLM inference on PCs.",
@@ -549,8 +549,8 @@
       "postCount": 10
     },
     "2026-06-29": {
-      "text": "Gemma model runs on $300 mini PC, replacing ChatGPT for practical tasks.",
-      "postCount": 9
+      "text": "Gemma model runs on a $300 mini PC for local AI tasks.",
+      "postCount": 8
     },
     "2026-06-30": {
       "text": "Claude and local LLMs optimize AI workflows with hybrid BM25 retrieval.",
@@ -693,22 +693,26 @@
       "postCount": 5
     },
     "2026-08-04": {
-      "text": "ESP32-S3 runs 28.9M-parameter LLM at 9 tokens per second locally.",
-      "postCount": 15
+      "text": "ESP32-S3 microcontroller runs 28.9M-parameter LLM at 9 tokens per second.",
+      "postCount": 18
+    },
+    "2026-08-07": {
+      "text": "Liquid AI's LFM2.5-2.6B model enables agentic AI on Raspberry Pi devices.",
+      "postCount": 10
     }
   },
   "weekly": {
     "2026-02-09": {
-      "text": "<p>Big stories this week include the release of GLM-5, a 744B parameter MoE model, and the discovery of 175,000 publicly exposed Ollama AI servers across 130 countries.</p>\n<p>Don't miss \"Community Member Builds 144GB VRAM Local LLM Powerhouse\" and \"NVIDIA's Dynamic Memory Sparsification Cuts LLM Inference Costs by 8x\" for insights into local LLM deployment and optimization.</p>",
-      "postCount": 59
+      "text": "<p>Big stories include GLM-5, a 744B parameter MoE model, and MiniMax M2.5, a 230B parameter model.</p>\n<p>Don't miss \"Community Member Builds 144GB VRAM Local LLM Powerhouse\" and \"NVIDIA's Dynamic Memory Sparsification\" for insights into local LLM inference.</p>",
+      "postCount": 52
     },
     "2026-02-16": {
-      "text": "<p>Alibaba unveiled a major AI model upgrade ahead of DeepSeek's release, and Cohere released Tiny Aya, a 3.3B parameter multilingual model. </p>\n<p>Standout posts include \"I broke into my own AI system in 10 minutes\" and \"Self-Hosted Local LLMs for Document Management with Paperless-ngx\", showcasing security concerns and practical applications of local LLMs. </p>",
-      "postCount": 95
+      "text": "<p>Alibaba unveiled a major AI model upgrade ahead of DeepSeek's release, and Cohere released Tiny Aya, a 3.3B parameter multilingual model. </p>\n<p>Standout posts include \"I broke into my own AI system in 10 minutes\" and \"I Stopped Paying for ChatGPT and Built a Private AI Setup That Anyone Can Run\", highlighting local AI security and self-hosting. </p>",
+      "postCount": 94
     },
     "2026-02-23": {
-      "text": "<p>Major stories this week include the release of Elastic's best-in-class embedding models for high-performance semantic search and the achievement of 17,000 tokens per second in local LLM inference, as outlined in \"Breaking the Speed Limit: Strategies for 17k Tokens/Sec Local Inference\" and \"Elastic Introduces Best-in-Class Embedding Models for High Performance Semantic Search\".</p>\n<p>Notable posts to read include \"The Complete Stack for Local Autonomous Agents: From GGML to Orchestration\" for building autonomous agent systems and \"LLmFit: One-Command Hardware-Aware Model Selection Across 497 Models and 133 Providers\" for optimizing local LLM model selection based on hardware capabilities.</p>",
-      "postCount": 124
+      "text": "<p>Major stories this week include the release of Elastic's best-in-class embedding models for high-performance semantic search and the achievement of GLM-5 as the top open-weights model on the Extended NYT Connections benchmark with an 81.8 score. Additionally, Qwen3.5-35B-A3B emerged as a highly efficient model for local deployment.</p>\n<p>Standout posts include \"Breaking the Speed Limit: Strategies for 17k Tokens/Sec Local Inference\", which explores practical techniques for maximizing local LLM inference speed, and \"The Complete Developer's Guide to Running LLMs Locally: From Ollama to Production\", a comprehensive resource for deploying LLMs locally.</p>",
+      "postCount": 120
     },
     "2026-03-02": {
       "text": "<p>Alibaba's CoPaw AI agent and AMD's Ryzen AI 400 series were major stories, with Apple's Neural Engine also being reverse-engineered for local model training.</p>\n<p>Don't miss \"Qwen 3.5 27B Achieves 100+ Tokens/s Decode\" and \"Apple M5 Pro and M5 Max: 4× Faster LLM Processing\" for standout performance and hardware advancements.</p>",
@@ -747,8 +751,8 @@
       "postCount": 65
     },
     "2026-05-03": {
-      "text": "<p>Gemma 4 and Claude were among the week's biggest stories, with Google announcing significant performance improvements for Gemma 4 and developers showcasing Claude's capabilities in local deployments.</p>\n<p>Don't miss \"Building a Jira Alternative with Claude in 8 Days\" and \"I Replaced ChatGPT and Claude With This Powerful Local LLM\" for insights into practical local LLM applications and cost savings.</p>",
-      "postCount": 70
+      "text": "<p>Gemma 4 and Claude models saw significant advancements, with Google announcing 3x faster inference speeds for Gemma 4 and developers successfully building a Jira alternative with Claude in just 8 days.</p>\n<p>Notable posts include \"Building a Jira Alternative with Claude in 8 Days\" and \"Gemma 4 Could Put Powerful AI on Your Phone and Laptop\", highlighting local LLM capabilities and on-device inference advancements.</p>",
+      "postCount": 69
     },
     "2026-05-10": {
       "text": "<p>Big stories this week include the discovery of a critical vulnerability in Ollama and the launch of Gemma 4, which replaces entire local LLM stacks. </p>\n<p>Standout posts include \"DFlash Speculative Decoding\" and \"One LM Studio Setting Change\", which highlight optimization techniques for local LLM inference. </p>",
@@ -759,8 +763,8 @@
       "postCount": 60
     },
     "2026-05-24": {
-      "text": "<p>Big stories this week include the release of Gemma 4, a new budget-focused model, and Liquid AI's LFM2.5 model for on-device AI agents. </p>\n<p>Notable posts include \"AgentSlice – Make AI Coding Agents Ask Before They Edit\" and \"AI Guardrails Stripped From Meta and Google Models in Minutes\", highlighting safety and security concerns in AI development. </p>",
-      "postCount": 60
+      "text": "<p>Major stories this week include the release of Gemma 4, a new budget-focused model in Posit AI, and the discovery of critical security vulnerabilities in llama.cpp's GGUF parser. </p>\n<p>Notable posts include \"AgentSlice – Make AI Coding Agents Ask Before They Edit\", \"Show HN: An Open-Source Interactive AI Engineering Syllabus\", and \"Liquid AI Unveils Edge-Focused LFM2.5 Model for On-Device AI Agents\". </p>",
+      "postCount": 59
     },
     "2026-05-31": {
       "text": "<p>NVIDIA's RTX Spark superchip and Qualcomm's Snapdragon C processor were major stories, targeting local AI inference.</p>\n<p>Don't miss \"Proveyouragent: Cryptographic Identity for AI Agents\" and \"Chrome Quietly Downloads 4GB AI Model for Local Processing\" for insights into local LLM deployment and security.</p>",
@@ -779,8 +783,8 @@
       "postCount": 55
     },
     "2026-06-28": {
-      "text": "<p>Big stories this week include Google's Gemma AI running locally on a $300 mini PC and the release of LongCat-2.0 for handling long-context sequences locally.</p>\n<p>Don't miss \"Show HN: Brain.md\" and \"Ollama vs LM Studio vs Jan\" for insights into local LLM deployment and model comparisons.</p>",
-      "postCount": 59
+      "text": "<p>Major stories this week include the release of LongCat-2.0 for handling long-context sequences locally and Amazon's investment in custom silicon for Alexa and device AI inference. </p>\n<p>Standout posts include \"Ollama vs LM Studio vs Jan: Free Local LLM Frameworks Compared\" and \"SigMap: 97% Token Reduction for AI Coding Sessions\", which provide valuable insights for local LLM deployment and optimization. </p>",
+      "postCount": 58
     },
     "2026-07-05": {
       "text": "<p>Big stories include Apple's M7 chip and Google's Android 17 with Gemma 4.</p>\n<p>Check out \"Ollama Runs 32B Local AI Models\" and \"Tencent Open-Sources Hy3 295B MoE Model\" for local LLM insights.</p>",
@@ -799,8 +803,8 @@
       "postCount": 61
     },
     "2026-08-02": {
-      "text": "<p>Big stories include Apple's on-device AI with PrismML and HP's on-device AI desktop integration.</p>\n<p>Don't miss \"Apple's Hardware Is Ready for On-Device AI\" and \"HP Looks to On-Device AI\".</p>",
-      "postCount": 20
+      "text": "<p>Major stories this week include Apple's on-device AI breakthrough with PrismML and HP's integration of on-device AI into desktop PCs, signaling momentum for local inference.</p>\n<p>Don't miss \"Apple's Hardware Is Ready for On-Device AI\" and \"Kioxia Is Coming for Samsung\" for key insights on local AI deployment and optimized storage technologies like UFS 5.0.</p>",
+      "postCount": 33
     }
   }
 }

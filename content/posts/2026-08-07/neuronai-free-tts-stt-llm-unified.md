@@ -3,11 +3,22 @@ title: "NeuronAI: First Free Unified TTS, STT, and LLM Platform"
 date: 2026-08-07
 description: "NeuronAI launches a free, integrated platform combining text-to-speech, speech-to-text, and language model capabilities in a single system for local deployment."
 tags:
+  - bullish
   - daily-digest
-  - open-source
-  - multimodal
+  - developer
+  - edge-device
   - edge-inference
-status: draft
+  - intermediate
+  - multimodal
+  - multimodal-ai
+  - neuronai
+  - open-source
+  - release
+  - voice-synthesis
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 NeuronAI's unified platform addresses a critical gap in local AI infrastructure by integrating TTS, STT, and LLM capabilities in a single, free offering. This integration simplifies deployment for practitioners building voice-enabled applications on-device, eliminating the complexity of coordinating multiple specialized models and services.

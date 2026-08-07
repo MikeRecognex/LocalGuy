@@ -3,12 +3,19 @@ title: "Ollama v0.32.6: Faster Apple GPU Inference with Speculative Decoding"
 date: 2026-08-07
 description: "Ollama releases v0.32.6 with significant performance improvements for Apple Silicon users, including automatic speculative decoding via MLX engine's MTP head and improved OpenAI-compatible streaming format."
 tags:
-  - daily-digest
-  - ollama
+  - api-compatibility
   - apple-silicon
-  - speculative-decoding
+  - bullish
+  - daily-digest
+  - developer
+  - inference-speed
+  - intermediate
   - mlx
-status: draft
+  - ollama
+  - qwen-3-5
+  - release
+  - speculative-decoding
+status: published
 ---
 
 Ollama v0.32.6 brings meaningful performance optimizations for local LLM deployment on Apple devices. The MLX engine now automatically leverages model MTP heads for speculative decoding on Qwen3.5 and compatible models, enabling faster token generation without requiring manual configuration.

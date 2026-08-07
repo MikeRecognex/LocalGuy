@@ -3,12 +3,27 @@ title: "Liquid AI LFM2.5-2.6B: Open-Weights Agentic Model With 128K Context and 
 date: 2026-08-07
 description: "Liquid AI releases an open-weights agentic model optimized for on-device deployment with 128K context window, tool calling capabilities, and support for extremely low-resource edge hardware."
 tags:
-  - daily-digest
+  - agentic-llm
   - agents
-  - open-source
+  - bullish
   - context-window
+  - cpu-only
+  - daily-digest
+  - developer
+  - edge-device
+  - intermediate
+  - lfm2-5-2-6b
+  - liquid-ai
+  - long-context
+  - on-device-inference
+  - open-source
   - quantisation
-status: draft
+  - release
+  - tool-calling
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 The LFM2.5-2.6B model from Liquid AI demonstrates how aggressive model optimization and architecture choices can deliver agentic capabilities at the 2.6B parameter scale. With a 128K context window—typically found in much larger models—and native tool-calling support, this represents careful engineering for the local inference market. The open-weights release enables community-driven quantization experiments and optimization for specific hardware targets.

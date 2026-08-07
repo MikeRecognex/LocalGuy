@@ -3,12 +3,19 @@ title: "llama.cpp Adds DeepSeek V4 Flash Chat Template Support"
 date: 2026-08-04
 description: "llama.cpp now includes updated chat templates for DeepSeek V4 Flash models, enabling proper local inference with thinking token handling for the latest reasoning model."
 tags:
+  - bullish
+  - chat-templates
   - daily-digest
-  - llama-cpp
   - deepseek
+  - deepseek-v4-flash
+  - developer
+  - intermediate
+  - llama-cpp
+  - local-inference
   - open-source
-  - inference
-status: draft
+  - reasoning-models
+  - release
+status: published
 ---
 
 Build b10254 of llama.cpp introduces official chat template support for DeepSeek V4 Flash, aligning with the official model specifications while providing flexible thinking token handling. The template properly manages DeepSeek V4's distinctive reasoning chain output, allowing practitioners to preserve or drop thinking tokens from conversation history as needed.

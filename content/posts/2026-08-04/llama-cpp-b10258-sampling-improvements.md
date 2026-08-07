@@ -3,12 +3,20 @@ title: "llama.cpp Build b10258: Sampling Architecture Refinements"
 date: 2026-08-04
 description: "Latest llama.cpp release includes structural improvements to sampling mechanisms with vocabulary handling updates that align with existing samplers like logit bias and mirostat."
 tags:
+  - advanced
+  - bullish
+  - consumer-gpu
+  - cpu-only
   - daily-digest
+  - deployment-strategy
+  - developer
+  - inference-performance
   - llama-cpp
-  - open-source
-  - inference
   - memory-optimization
-status: draft
+  - open-source
+  - release
+  - sampling-mechanisms
+status: published
 ---
 
 The llama.cpp project continues rapid development with build b10258 introducing refinements to the sampling architecture, specifically moving vocabulary configuration from the main sampler data structure into the penalty sampler. This architectural change aligns sampling mechanisms more consistently across the codebase, matching patterns already established in logit bias and mirostat samplers.

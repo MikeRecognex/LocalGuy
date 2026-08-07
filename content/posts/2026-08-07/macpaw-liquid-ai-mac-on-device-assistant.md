@@ -3,11 +3,28 @@ title: "MacPaw Partners With Liquid AI to Deploy On-Device AI Across Mac Ecosyst
 date: 2026-08-07
 description: "MacPaw and Liquid AI announce a partnership to integrate on-device AI capabilities into MacPaw's Mac assistant product, bringing local inference to millions of Mac users with privacy-focused deployment."
 tags:
-  - daily-digest
   - apple-silicon
+  - bullish
+  - business-strategy
+  - daily-digest
+  - developer
+  - intermediate
+  - liquid-ai
+  - mac-assistant
+  - macpaw
+  - news
+  - on-device-inference
   - open-source
   - privacy
-status: draft
+  - privacy-compliance
+mentions:
+  - name: MacPaw
+    role: partner
+  - name: Liquid AI
+    role: partner
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 MacPaw's partnership with Liquid AI signals mainstream adoption of on-device AI inference at scale. By integrating Liquid AI's optimized models into MacPaw's Mac assistant, the collaboration demonstrates how local inference moves beyond developer experiments into consumer-grade applications for millions of users. This production deployment on Apple Silicon provides valuable real-world performance data and validates the practical viability of self-hosted LLMs on consumer hardware.

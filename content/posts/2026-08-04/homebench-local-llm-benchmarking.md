@@ -3,12 +3,23 @@ title: "Homebench: Comprehensive Benchmarking Tool for Local LLMs"
 date: 2026-08-04
 description: "A new benchmarking tool specifically designed to measure speed, memory usage, and output quality of locally-running LLMs, helping practitioners optimize their deployments."
 tags:
-  - daily-digest
   - benchmark
-  - open-source
-  - quantisation
+  - bullish
+  - daily-digest
+  - deployment-strategy
+  - developer
+  - homebench
+  - intermediate
   - memory-optimization
-status: draft
+  - open-source
+  - performance-benchmarking
+  - quantisation
+  - quantization
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Homebench is a dedicated benchmarking framework for evaluating local LLM performance across three critical dimensions: inference speed, memory consumption, and output quality. This addresses a key pain point for local LLM practitioners who need rigorous metrics to compare quantization schemes, model sizes, and hardware configurations.
