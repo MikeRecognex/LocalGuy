@@ -28,7 +28,7 @@ Apple's upgrade to Siri with on-device AI processing represents a strategic shif
 
 For local LLM practitioners, Apple's implementation of Siri updates provides valuable insights into production-scale on-device inference. The fact that a company serving billions of users is comfortable deploying privacy-first, locally-executed AI suggests the technology has reached a reliability threshold. While specific model details haven't been disclosed, practitioners can infer that Apple is using lightweight, highly optimized models designed for Apple Silicon and possibly leveraging quantization techniques similar to those Google announced with Gemma 4.
 
-This development also creates opportunities for developers building on Apple platforms. The [Apple Siri on-device AI upgrade](https://mezha.net) signals that native integration of local LLMs into iOS and macOS applications is becoming more viable, potentially through enhanced Core ML support and framework improvements in upcoming OS releases.
+This development also creates opportunities for developers building on Apple platforms. The [Apple Siri on-device AI upgrade](https://mezha.net/eng/bukvy/66b1fa14_apple_upgrades_siri/) signals that native integration of local LLMs into iOS and macOS applications is becoming more viable, potentially through enhanced Core ML support and framework improvements in upcoming OS releases.
 
 ---
-*Source: [Mezha.net](https://mezha.net) · Relevance: 7/10*
+*Source: [Mezha.net](https://mezha.net/eng/bukvy/66b1fa14_apple_upgrades_siri/) · Relevance: 7/10*

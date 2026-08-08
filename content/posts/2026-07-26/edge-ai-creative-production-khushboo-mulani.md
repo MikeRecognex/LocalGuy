@@ -36,4 +36,4 @@ For local LLM practitioners, this represents validation that on-device inference
 This trend supports the broader ecosystem of tools like llama.cpp and Ollama, which are increasingly used to power creative applications. As more professional tools integrate edge AI capabilities, demand for optimized, locally-deployable models will continue to grow.
 
 ---
-*Source: [Ascendants](https://ascendants.in) · Relevance: 8/10*
+*Source: [Ascendants](https://ascendants.in/founders-corner/edge-ai-creative-production-campaign-workflows/) · Relevance: 8/10*

@@ -36,7 +36,7 @@ The collaboration between Qualcomm and Mihup highlights the growing importance o
 
 Deploying voice models locally within financial institutions eliminates sensitive audio transmission to external servers, reducing attack surfaces and ensuring compliance with data protection regulations. Qualcomm's hardware optimization capabilities combined with Mihup's voice AI expertise create a foundation for secure, low-latency speech processing on mobile and edge devices used by financial professionals and customers.
 
-For practitioners building regulated applications, [this collaboration demonstrates best practices in production on-device AI](https://www.varindia.com), offering valuable lessons in integrating local inference within enterprise security frameworks and leveraging hardware acceleration for real-time voice processing without cloud dependencies.
+For practitioners building regulated applications, [this collaboration demonstrates best practices in production on-device AI](https://www.varindia.com/news/mihup-and-qualcomm-collaborate-to-advance-secure-on-device-voice-ai-for-bfsi), offering valuable lessons in integrating local inference within enterprise security frameworks and leveraging hardware acceleration for real-time voice processing without cloud dependencies.
 
 ---
-*Source: [varindia.com](https://www.varindia.com) · Relevance: 6/10*
+*Source: [varindia.com](https://www.varindia.com/news/mihup-and-qualcomm-collaborate-to-advance-secure-on-device-voice-ai-for-bfsi) · Relevance: 6/10*

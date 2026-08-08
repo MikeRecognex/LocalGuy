@@ -30,7 +30,7 @@ Vivo's announcement of a dedicated security solution for on-device AI reflects t
 
 The framework is particularly relevant for mobile and edge device deployments where user data sensitivity is highest. By establishing security best practices for on-device AI, Vivo is helping standardize approaches that other practitioners can adopt or reference when building privacy-first applications. This includes protection against model extraction attacks, secure data handling during inference, and auditable execution.
 
-[Vivo's security initiative](https://jablickkar.cz) signals that the infrastructure for trustworthy local AI is maturing. As regulations around data privacy tighten globally, having standardized security approaches for on-device models becomes a competitive advantage for platforms and applications relying on local inference.
+[Vivo's security initiative](https://jablickar.cz/de/vivo-na-summitu-ai-for-good-global-summit-2026-predstavilo-bezpecnostni-reseni-pro-on-device-ai/) signals that the infrastructure for trustworthy local AI is maturing. As regulations around data privacy tighten globally, having standardized security approaches for on-device models becomes a competitive advantage for platforms and applications relying on local inference.
 
 ---
-*Source: [Jablíčkář.cz](https://jablickkar.cz) · Relevance: 7/10*
+*Source: [Jablíčkář.cz](https://jablickar.cz/de/vivo-na-summitu-ai-for-good-global-summit-2026-predstavilo-bezpecnostni-reseni-pro-on-device-ai/) · Relevance: 7/10*

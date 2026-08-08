@@ -35,4 +35,4 @@ LM Studio abstracts away complexity around model quantization, memory management
 For practitioners scaling from experimentation to production, comprehensive guides like this accelerate adoption of local LLM infrastructure. Having documented best practices for deployment reduces trial-and-error cycles and helps teams avoid common pitfalls around resource allocation, API configuration, and performance tuning.
 
 ---
-*Source: [YTECHB](https://www.ytechb.com) · Relevance: 8/10*
+*Source: [YTECHB](https://www.ytechb.com/how-to-build-a-self-hosted-ai-server-with-lm-studio/) · Relevance: 8/10*

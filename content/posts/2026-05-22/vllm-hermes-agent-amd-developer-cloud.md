@@ -32,4 +32,4 @@ vLLM continues to establish itself as the preferred inference framework for serv
 For practitioners looking to prototype or deploy agents without proprietary APIs, this resource bridges the gap between local development and cloud-based experimentation, all using open-source components.
 
 ---
-*Source: [AMD](https://developer.amd.com/) · Relevance: 8/10*
+*Source: [AMD](https://www.amd.com/en/developer/resources/technical-articles/2026/deploying-hermes-agent-for-free-on-amd-developer-cloud-with-open.html) · Relevance: 8/10*

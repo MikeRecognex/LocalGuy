@@ -27,4 +27,4 @@ The emergence of quantized models, optimized inference engines like llama.cpp, a
 For newcomers to the local LLM space, this article provides the motivational foundation and practical knowledge to get started without expensive hardware investments. By democratizing access to local inference through CPU-based solutions, the community can expand rapidly, driving further optimization and innovation in the local AI ecosystem.
 
 ---
-*Source: [MakeUseOf](https://www.makeuseof.com) · Relevance: 7/10*
+*Source: [MakeUseOf](https://www.makeuseof.com/needed-gpu-to-run-ai-learned-these-models/) · Relevance: 7/10*

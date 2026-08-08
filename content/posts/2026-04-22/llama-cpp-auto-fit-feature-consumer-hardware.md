@@ -35,4 +35,4 @@ This advancement is particularly important for the broader adoption of local LLM
 For the local LLM community, this represents the maturation of llama.cpp as a production-ready tool that abstracts away low-level complexity while maintaining performance. As the ecosystem continues to evolve, such quality-of-life improvements are essential for driving mainstream adoption of on-device AI inference.
 
 ---
-*Source: [Startup Fortune](https://startup.fortune.com) · Relevance: 9/10*
+*Source: [Startup Fortune](https://startupfortune.com/llamacpps-auto-fit-feature-is-quietly-reshaping-what-local-ai-inference-can-do-on-consumer-hardware/) · Relevance: 9/10*

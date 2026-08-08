@@ -33,4 +33,4 @@ For local AI practitioners working with computer vision tasks, this device illus
 This trend of integrating AI acceleration into edge devices signals maturation of the local inference market. As purpose-built hardware with sufficient computational capacity becomes available for specific domains, local LLM practitioners can expect similar specialized solutions tailored to their use cases, further validating the economics and practicality of edge-deployed AI systems.
 
 ---
-*Source: [Hackster.io](https://www.hackster.io/) · Relevance: 7/10*
+*Source: [Hackster.io](https://www.hackster.io/news/neoeyes-ne503-brings-20-tops-of-on-device-ai-to-industrial-cameras-a0d8c402b66c) · Relevance: 7/10*

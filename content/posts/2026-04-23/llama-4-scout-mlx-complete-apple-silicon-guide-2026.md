@@ -34,4 +34,4 @@ Apple Silicon represents one of the most accessible platforms for local LLM depl
 For Mac users and organizations standardized on Apple hardware, this guide provides clear pathways to production-quality local inference without relying on cloud APIs or external services. It demonstrates that high-quality LLM inference is now practical on mainstream consumer laptops, removing technical barriers for researchers, writers, and developers seeking privacy-preserving local AI.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/llama-4-scout-on-mlx-the-complete-apple-silicon-guide-2026/) · Relevance: 8/10*

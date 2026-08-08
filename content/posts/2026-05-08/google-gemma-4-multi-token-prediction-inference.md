@@ -30,4 +30,4 @@ For local LLM practitioners, this development represents an important milestone 
 The availability of optimized inference techniques like multi-token prediction democratizes performance improvements that were previously only accessible to well-resourced cloud deployments. As these techniques mature and become more widely adopted across open-source frameworks, local inference becomes increasingly competitive with cloud-based alternatives in terms of latency and throughput.
 
 ---
-*Source: [Google News](https://pulse2.com) · Relevance: 8/10*
+*Source: [Google News](https://pulse2.com/google-gemma-4-multi-token-prediction-drafters-released-to-accelerate-ai-inference/) · Relevance: 8/10*

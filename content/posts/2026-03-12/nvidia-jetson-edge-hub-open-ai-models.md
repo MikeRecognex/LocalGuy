@@ -28,7 +28,7 @@ NVIDIA's renewed focus on Jetson as a dedicated edge AI hub reflects the growing
 
 The Jetson platform addresses a critical gap in the local LLM deployment stack: specialized hardware-software co-optimization for inference workloads. With support for popular open-source frameworks (vLLM, TensorRT, Triton), Jetson modules provide production-grade performance for running models ranging from small edge-optimized variants to larger reasoning models depending on the specific Jetson hardware tier. This approach is particularly valuable for enterprises that need both privacy and the performance guarantees of purpose-built hardware.
 
-For practitioners and organizations building local AI infrastructure, NVIDIA's Jetson strategy offers a clear upgrade path from consumer GPU experimentation to production deployments. The platform's support for open-source models means no vendor lock-in, while NVIDIA's optimization efforts ensure efficient inference performance. [Learn more about Jetson for edge AI on ChannelLife](https://www.channellife.co.nz).
+For practitioners and organizations building local AI infrastructure, NVIDIA's Jetson strategy offers a clear upgrade path from consumer GPU experimentation to production deployments. The platform's support for open-source models means no vendor lock-in, while NVIDIA's optimization efforts ensure efficient inference performance. [Learn more about Jetson for edge AI on ChannelLife](https://channellife.co.nz/story/nvidia-pushes-jetson-as-edge-hub-for-open-ai-models).
 
 ---
-*Source: [Google News](https://www.channellife.co.nz) · Relevance: 8/10*
+*Source: [Google News](https://channellife.co.nz/story/nvidia-pushes-jetson-as-edge-hub-for-open-ai-models) · Relevance: 8/10*

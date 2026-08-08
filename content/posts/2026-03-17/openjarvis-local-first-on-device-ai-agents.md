@@ -31,9 +31,9 @@ status: published
 
 OpenJarvis represents a significant shift in how developers approach autonomous AI agents—moving beyond cloud-dependent architectures toward fully on-device execution. This framework enables complex agent workflows to run entirely locally, maintaining data privacy while eliminating latency and dependency on external APIs. For organizations handling sensitive information or operating in bandwidth-constrained environments, this represents a crucial capability gap that OpenJarvis addresses.
 
-[OpenJarvis](https://dataconomy.com) demonstrates that sophisticated agent behaviors—including tool use, planning, and multi-step reasoning—are achievable within the constraints of local hardware. By combining techniques from the local LLM community with agent frameworks, the project shows how practitioners can build applications previously thought to require cloud-scale infrastructure. This has profound implications for enterprise deployments, edge computing scenarios, and privacy-conscious consumer applications.
+[OpenJarvis](https://dataconomy.com/2026/03/16/openjarvis-local-first-ai-agents-that-run-entirely-on-device/) demonstrates that sophisticated agent behaviors—including tool use, planning, and multi-step reasoning—are achievable within the constraints of local hardware. By combining techniques from the local LLM community with agent frameworks, the project shows how practitioners can build applications previously thought to require cloud-scale infrastructure. This has profound implications for enterprise deployments, edge computing scenarios, and privacy-conscious consumer applications.
 
 The availability of local-first agent frameworks directly addresses one of the remaining gaps in the on-device AI narrative. While running individual models locally is now well-understood, orchestrating multiple local models and tools into coherent agents has remained challenging. OpenJarvis's approach could catalyze a new wave of truly autonomous, privacy-preserving applications that maintain full control over model execution and user data.
 
 ---
-*Source: [Dataconomy](https://dataconomy.com) · Relevance: 8/10*
+*Source: [Dataconomy](https://dataconomy.com/2026/03/16/openjarvis-local-first-ai-agents-that-run-entirely-on-device/) · Relevance: 8/10*

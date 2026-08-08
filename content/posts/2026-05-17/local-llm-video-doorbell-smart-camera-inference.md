@@ -34,4 +34,4 @@ This development is significant for local LLM practitioners because it validates
 For those interested in deploying similar projects, this demonstrates the viability of combining lightweight quantized models with edge hardware like NVIDIA Jetson or even standard ARM processors found in modern smart devices. The success of this implementation could inspire similar deployments in other smart home applications such as motion detection, person identification, and activity recognition.
 
 ---
-*Source: [How-To Geek](https://www.howtogeek.com) · Relevance: 9/10*
+*Source: [How-To Geek](https://www.howtogeek.com/i-let-a-local-llm-take-control-of-my-video-doorbell/) · Relevance: 9/10*

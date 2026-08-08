@@ -28,7 +28,7 @@ Building local AI coding assistants is becoming increasingly practical as models
 
 For local LLM practitioners, this represents a significant shift in accessibility—coding tasks that previously required API calls to Claude or GPT-4 can now run entirely on consumer hardware. The approach eliminates latency concerns, reduces cloud costs, and ensures sensitive code never leaves the development environment.
 
-[Read the full guide](https://towardsdatascience.com) to learn implementation details, hardware requirements, and optimization techniques for running Gemma 4 locally.
+[Read the full guide](https://towardsdatascience.com/build-your-own-local-ai-coding-agent-with-gemma-4-and-opencode-2/) to learn implementation details, hardware requirements, and optimization techniques for running Gemma 4 locally.
 
 ---
-*Source: [Towards Data Science](https://towardsdatascience.com) · Relevance: 9/10*
+*Source: [Towards Data Science](https://towardsdatascience.com/build-your-own-local-ai-coding-agent-with-gemma-4-and-opencode-2/) · Relevance: 9/10*

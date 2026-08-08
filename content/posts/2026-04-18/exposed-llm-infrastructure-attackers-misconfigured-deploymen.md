@@ -32,7 +32,7 @@ Security Boulevard highlights a critical gap in local LLM deployment practices: 
 
 For practitioners running local LLMs in production, understanding these vulnerabilities is non-negotiable. A seemingly private on-device setup can become a liability if exposed to untrusted networks, shared systems, or containers with excessive permissions. The article probably covers best practices like API authentication, model encryption, network isolation, and runtime sandboxing that are essential for secure deployment.
 
-[Read the full security analysis](https://securityboulevard.com) to understand the specific attack patterns and mitigation strategies. This is essential background for anyone deploying LLMs in production environments, whether at scale or on personal machines.
+[Read the full security analysis](https://securityboulevard.com/2026/04/exposed-llm-infrastructure-how-attackers-find-and-exploit-misconfigured-ai-deployments/) to understand the specific attack patterns and mitigation strategies. This is essential background for anyone deploying LLMs in production environments, whether at scale or on personal machines.
 
 ---
-*Source: [Security Boulevard](https://securityboulevard.com) · Relevance: 8/10*
+*Source: [Security Boulevard](https://securityboulevard.com/2026/04/exposed-llm-infrastructure-how-attackers-find-and-exploit-misconfigured-ai-deployments/) · Relevance: 8/10*

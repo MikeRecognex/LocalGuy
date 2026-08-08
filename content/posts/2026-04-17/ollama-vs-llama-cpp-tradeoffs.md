@@ -39,4 +39,4 @@ Llama.cpp's advantages emerge in scenarios where operators need fine-grained con
 The existence of this debate signals ecosystem health. Rather than a single dominant solution, practitioners benefit from multiple tools optimized for different deployment profiles. Teams evaluating local inference strategies should assess their specific requirements—development convenience, production reliability, hardware constraints, and performance targets—then select accordingly. Neither tool is universally superior; context determines the optimal choice.
 
 ---
-*Source: [GIGAZINE](https://www.gigazine.net) · Relevance: 8/10*
+*Source: [GIGAZINE](https://gigazine.net/gsc_news/en/20260417-ollama-license/) · Relevance: 8/10*

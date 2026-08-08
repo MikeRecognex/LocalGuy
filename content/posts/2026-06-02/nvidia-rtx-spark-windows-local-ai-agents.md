@@ -35,4 +35,4 @@ RTX Spark is optimized specifically for edge AI workloads, offering dedicated ac
 For local LLM enthusiasts, this signals that mainstream hardware vendors are finally investing in the infrastructure needed for practical on-device deployment. As these chips become standard in consumer PCs, the friction for running models with ollama, llama.cpp, or similar frameworks decreases, and the hardware ceiling for viable model sizes increases.
 
 ---
-*Source: [Google News](https://www.tweaktown.com) · Relevance: 9/10*
+*Source: [Google News](https://www.tweaktown.com/news/111932/nvidia-and-microsoft-team-up-to-bring-secure-on-device-ai-agents-to-windows-pcs/index.html) · Relevance: 9/10*

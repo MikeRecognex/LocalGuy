@@ -30,7 +30,7 @@ Google has published breakthrough research on accelerating Gemma 4 inference thr
 
 For local LLM deployment, this optimization is particularly valuable since it reduces the computational cost of running inference without sacrificing output quality. The multi-token prediction approach is framework-agnostic and can be implemented across different local inference engines. This means practitioners running Gemma models locally can expect significantly faster response times, making real-time applications more practical on consumer hardware.
 
-The technique represents the kind of incremental but impactful optimization that makes local LLM deployment increasingly viable. As [Google continues to advance Gemma optimizations](https://blog.google/), practitioners should explore implementing speculative decoding and similar techniques in their own deployments to squeeze maximum performance from their hardware.
+The technique represents the kind of incremental but impactful optimization that makes local LLM deployment increasingly viable. As [Google continues to advance Gemma optimizations](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/), practitioners should explore implementing speculative decoding and similar techniques in their own deployments to squeeze maximum performance from their hardware.
 
 ---
-*Source: [Google News](https://blog.google/) · Relevance: 9/10*
+*Source: [Google News](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) · Relevance: 9/10*

@@ -26,11 +26,11 @@ mentions:
 status: published
 ---
 
-Real-world applications of local LLM inference are expanding beyond traditional tech domains into retail and commerce. [Trend Hunter's analysis of AI-native stores examines how language models are being deployed at the edge for customer-facing applications](https://www.trendhunter.com), demonstrating practical use cases for on-device AI in commercial environments.
+Real-world applications of local LLM inference are expanding beyond traditional tech domains into retail and commerce. [Trend Hunter's analysis of AI-native stores examines how language models are being deployed at the edge for customer-facing applications](https://www.trendhunter.com/trends/ainative-store), demonstrating practical use cases for on-device AI in commercial environments.
 
 Retail deployments of local LLMs present unique challenges and opportunities: systems must operate reliably offline, respond with minimal latency, and protect customer privacy without transmitting data to cloud services. These constraints drive innovation in model optimization, edge inference frameworks, and practical deployment patterns that benefit the broader local LLM community.
 
 Understanding these commercial applications helps local LLM practitioners identify emerging use cases and performance requirements, while also highlighting the business value of self-hosted inference solutions in industries where data sensitivity and real-time response are critical.
 
 ---
-*Source: [Trend Hunter](https://www.trendhunter.com) · Relevance: 6/10*
+*Source: [Trend Hunter](https://www.trendhunter.com/trends/ainative-store) · Relevance: 6/10*

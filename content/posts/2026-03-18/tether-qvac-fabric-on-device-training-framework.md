@@ -38,7 +38,7 @@ Tether's introduction of QVAC Fabric represents a significant leap forward for o
 
 Previously, local LLM work focused primarily on running pre-trained models through inference frameworks like Ollama and llama.cpp. QVAC Fabric opens new possibilities for personalization, domain adaptation, and continuous learning without uploading sensitive data to cloud infrastructure. Mobile devices and edge servers can now maintain models tailored to their specific use cases through local training, dramatically improving the practical applicability of on-device AI for specialized workloads.
 
-This development is particularly relevant for practitioners building applications in healthcare, finance, and other regulated industries where data residency is mandatory. [Tether's framework](https://www.thecryptonomist.com) demonstrates that the local AI ecosystem is maturing beyond static model serving toward fully self-contained training and optimization pipelines.
+This development is particularly relevant for practitioners building applications in healthcare, finance, and other regulated industries where data residency is mandatory. [Tether's framework](https://en.cryptonomist.ch/2026/03/18/on-device-ai-qvac-fabric/) demonstrates that the local AI ecosystem is maturing beyond static model serving toward fully self-contained training and optimization pipelines.
 
 ---
-*Source: [The Cryptonomist](https://www.thecryptonomist.com) · Relevance: 8/10*
+*Source: [The Cryptonomist](https://en.cryptonomist.ch/2026/03/18/on-device-ai-qvac-fabric/) · Relevance: 8/10*

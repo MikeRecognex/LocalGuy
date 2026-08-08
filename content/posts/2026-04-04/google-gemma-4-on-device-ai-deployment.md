@@ -34,4 +34,4 @@ The models are specifically engineered for efficient inference on edge devices, 
 For local LLM practitioners, Gemma 4's release is particularly valuable as it provides a well-supported alternative to existing open models, backed by Google's engineering expertise. The availability across multiple hardware targets means teams can standardize on a single model family while scaling from resource-constrained edge devices to powerful GPU clusters.
 
 ---
-*Source: [Google News](https://www.rttnews.com) · Relevance: 10/10*
+*Source: [Google News](https://www.rttnews.com/3636815/google-launches-gemma-4-for-advanced-on-device-ai.aspx) · Relevance: 10/10*

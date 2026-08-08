@@ -39,11 +39,11 @@ mentions:
 status: published
 ---
 
-The economics of local LLM deployment continue to shift in favor of on-device inference as practitioners demonstrate viable alternatives to commercial API services. This piece from [MakeUseOf](https://www.makeuseof.com) showcases real-world decision-making: moving away from recurring ChatGPT subscriptions toward a sustainable self-hosted setup.
+The economics of local LLM deployment continue to shift in favor of on-device inference as practitioners demonstrate viable alternatives to commercial API services. This piece from [MakeUseOf](https://www.makeuseof.com/stopped-paying-for-chatgpt-built-private-ai-setup-anyone-can-run/) showcases real-world decision-making: moving away from recurring ChatGPT subscriptions toward a sustainable self-hosted setup.
 
 The narrative resonates with the local LLM community because it addresses practical ROI calculations—comparing subscription costs against hardware investment and electricity usage while highlighting privacy and control benefits. These stories normalize local inference not as a hobbyist exercise but as a legitimate economic and operational choice for individuals and small teams.
 
 As cloud API pricing plateaus and local model optimization accelerates, documentation of successful migrations from centralized to distributed inference becomes increasingly valuable for practitioners evaluating their own infrastructure decisions.
 
 ---
-*Source: [MakeUseOf](https://www.makeuseof.com) · Relevance: 8/10*
+*Source: [MakeUseOf](https://www.makeuseof.com/stopped-paying-for-chatgpt-built-private-ai-setup-anyone-can-run/) · Relevance: 8/10*

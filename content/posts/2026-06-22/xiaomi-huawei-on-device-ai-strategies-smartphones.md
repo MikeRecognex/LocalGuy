@@ -34,4 +34,4 @@ For local LLM practitioners, this trend is crucial because it signals massive in
 The competitive dynamics between manufacturers like Xiaomi, Huawei, and others will likely accelerate the development of better quantization techniques, model compression strategies, and optimized inference frameworks that benefit the entire local LLM ecosystem.
 
 ---
-*Source: [Google News](https://www.pandaily.com) · Relevance: 9/10*
+*Source: [Google News](https://pandaily.com/xiaomi-huawei-on-device-ai-20260622) · Relevance: 9/10*

@@ -30,4 +30,4 @@ The project highlights the maturity of the local LLM ecosystem, where practition
 For the local LLM community, this example validates the technical and economic case for self-hosting as a viable alternative to SaaS offerings. The focus on privacy guarantees and operational independence resonates strongly with practitioners seeking to deploy models in regulated environments or those requiring complete data sovereignty.
 
 ---
-*Source: [How-To Geek](https://www.howtogeek.com) · Relevance: 9/10*
+*Source: [How-To Geek](https://www.howtogeek.com/i-fired-claude-after-forcing-it-to-build-a-private-self-hosted-claude-replacement/) · Relevance: 9/10*

@@ -27,7 +27,7 @@ Quantization has fundamentally changed what's possible with local LLMs, but seei
 
 The significance here extends beyond the headline number. Running 32B models means accessing substantially more capable reasoning than smaller alternatives, but without the latency or infrastructure costs of cloud APIs. For knowledge workers, researchers, and organizations with privacy requirements, this price-to-capability ratio fundamentally changes the cost calculus of local versus cloud AI deployment.
 
-[The benchmark](https://www.geekygadgets.com) demonstrates practical use cases where quantized 32B models deliver performance approaching unquantized larger models, validating quantization as production-ready rather than a compromise. This accessibility on consumer hardware accelerates adoption of local LLMs across professional and creative workflows.
+[The benchmark](https://www.geeky-gadgets.com/run-32b-local-llm-mac-mini/) demonstrates practical use cases where quantized 32B models deliver performance approaching unquantized larger models, validating quantization as production-ready rather than a compromise. This accessibility on consumer hardware accelerates adoption of local LLMs across professional and creative workflows.
 
 ---
-*Source: [Geeky Gadgets](https://www.geekygadgets.com) · Relevance: 8/10*
+*Source: [Geeky Gadgets](https://www.geeky-gadgets.com/run-32b-local-llm-mac-mini/) · Relevance: 8/10*

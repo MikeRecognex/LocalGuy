@@ -31,4 +31,4 @@ This hardware trend matters significantly for the local LLM community because we
 As smartwatch AI becomes mainstream, the tools and techniques developed for extreme-constraint edge inference trickle down to improve inference efficiency across all platforms. The wearable shift accelerates development of the model compression and optimization ecosystem that benefits all local LLM practitioners.
 
 ---
-*Source: [Glass Almanac](https://www.glassalmanac.com) · Relevance: 6/10*
+*Source: [Glass Almanac](https://glassalmanac.com/meta-reveals-ai-packed-smartwatch-in-2026-why-wearables-shift-now/) · Relevance: 6/10*

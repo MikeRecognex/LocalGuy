@@ -33,4 +33,4 @@ For local LLM practitioners, this is significant because it validates the busine
 This trend underscores why tools like Ollama, llama.cpp, and MLX continue to matter—they're the enabling infrastructure for the agent-computer future AMD envisions. Practitioners should expect increased investment in efficient inference frameworks and quantisation techniques optimized for consumer GPUs and NPUs.
 
 ---
-*Source: [ITPro](https://www.itpro.com) · Relevance: 9/10*
+*Source: [ITPro](https://www.itpro.com/hardware/amd-predicts-rise-of-agent-computers) · Relevance: 9/10*

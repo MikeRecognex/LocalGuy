@@ -31,4 +31,4 @@ While Molt itself targets cutting-edge model training, the algorithmic advances 
 For organizations building production local LLM systems, access to advanced training frameworks like Molt expands the design space for creating specialized models tailored to specific domains or workflows. This democratization of training infrastructure supports the broader shift toward self-hosted, customizable AI systems rather than one-size-fits-all cloud APIs.
 
 ---
-*Source: [Tech Times](https://www.techtimes.com) · Relevance: 7/10*
+*Source: [Tech Times](https://www.techtimes.com/articles/321742/20260727/nvidia-molt-open-sources-agentic-rl-training-that-scales-trillion-parameter-models.htm) · Relevance: 7/10*

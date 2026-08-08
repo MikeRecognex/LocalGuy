@@ -29,4 +29,4 @@ Building effective agents with local LLMs requires careful integration of instru
 For enterprises and developers prioritizing data sovereignty and reduced operational costs, local LLM agents represent a transformative capability. Whether orchestrating business processes, automating data analysis pipelines, or building interactive assistants, the ability to run agentic workloads on-device ensures compliance requirements are met while maintaining full control over model behavior and system interactions.
 
 ---
-*Source: [Towards Data Science](https://towardsdatascience.com) · Relevance: 8/10*
+*Source: [Towards Data Science](https://towardsdatascience.com/from-local-llm-to-tool-using-agent/) · Relevance: 8/10*

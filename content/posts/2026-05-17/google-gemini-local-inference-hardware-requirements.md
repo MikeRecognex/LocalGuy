@@ -39,4 +39,4 @@ For the local LLM community, this constraint illustrates why quantization, knowl
 The restriction also demonstrates that hardware capability, not just software availability, remains a bottleneck for ubiquitous on-device AI. Local LLM projects focusing on smaller model variants, optimized inference engines like llama.cpp and vLLM, and quantization improvements directly address this gap and enable practical deployment on mid-range and older devices that won't receive Google's proprietary updates.
 
 ---
-*Source: [LatestLY](https://www.latesly.com) · Relevance: 6/10*
+*Source: [LatestLY](https://www.latestly.com/quickly/technology/google-limits-gemini-intelligence-to-new-flagships-7433572.html) · Relevance: 6/10*

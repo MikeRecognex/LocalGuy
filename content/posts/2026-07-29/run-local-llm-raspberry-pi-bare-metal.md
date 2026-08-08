@@ -32,4 +32,4 @@ The practical significance extends beyond hobbyist bragging rights: it validates
 For practitioners building embedded AI systems—environmental sensors, agricultural monitoring, IoT devices—this demonstrates that 4-8GB devices are sufficient for meaningful language processing. The bare-metal approach also has implications for latency-critical applications where OS scheduling overhead matters, particularly in robotics and real-time inference scenarios.
 
 ---
-*Source: [Hackster.io](https://www.hackster.io/) · Relevance: 8/10*
+*Source: [Hackster.io](https://www.hackster.io/news/run-a-local-llm-on-raspberry-pi-s-bare-metal-linux-not-necessary-6c7e3817293f) · Relevance: 8/10*

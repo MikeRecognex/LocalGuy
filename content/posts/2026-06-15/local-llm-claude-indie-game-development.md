@@ -30,4 +30,4 @@ Local LLMs excel at specific, repetitive tasks in game development: code generat
 This narrative demonstrates the maturation of local LLM tooling and demonstrates to the broader development community that self-hosted models are no longer experimental hobby projects but legitimate productivity tools for professional creative work.
 
 ---
-*Source: [XDA](https://www.xda-developers.com/) · Relevance: 7/10*
+*Source: [XDA](https://www.xda-developers.com/my-local-llm-is-helping-me-make-my-dream-game-one-day-at-a-time/) · Relevance: 7/10*

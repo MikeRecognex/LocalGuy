@@ -38,7 +38,7 @@ This grassroots AI project proves that local LLM deployment is not merely a tech
 
 The implementation demonstrates that models compact enough for on-device deployment can still be useful for sophisticated tasks like providing mentorship and guidance. This validates the entire premise of the local LLM movement: you don't need massive cloud infrastructure or continuous internet connectivity to deliver meaningful AI functionality to users.
 
-Projects like [this one described at Boing Boing](https://boingboing.net) serve as valuable proof-of-concept for what's possible when developers prioritize local inference. They also highlight emerging use cases that cloud-first AI providers may not address, creating space for alternative approaches and open-source tools that power on-device solutions.
+Projects like [this one described at Boing Boing](https://boingboing.net/2026/05/19/occupy-wall-street-co-founder-built-an-ai-organizing-mentor-that-runs-offline.html) serve as valuable proof-of-concept for what's possible when developers prioritize local inference. They also highlight emerging use cases that cloud-first AI providers may not address, creating space for alternative approaches and open-source tools that power on-device solutions.
 
 ---
-*Source: [Google News](https://boingboing.net) · Relevance: 7/10*
+*Source: [Google News](https://boingboing.net/2026/05/19/occupy-wall-street-co-founder-built-an-ai-organizing-mentor-that-runs-offline.html) · Relevance: 7/10*

@@ -31,4 +31,4 @@ This development is particularly valuable for local LLM practitioners running pe
 The competitive landscape for open-source models continues to intensify, with MiniMax's innovation pushing the boundaries of what's possible in self-hosted inference. This release underscores the maturation of the local LLM ecosystem and offers practitioners a new category of models to evaluate for their specific use cases.
 
 ---
-*Source: [Google News](https://www.aastocks.com) · Relevance: 9/10*
+*Source: [Google News](http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1517059/latest-news/AAFN) · Relevance: 9/10*

@@ -37,4 +37,4 @@ This proof-of-concept is significant for local LLM practitioners because it show
 The success of this implementation validates the potential for distributed AI systems where intelligence is distributed across edge devices and self-hosted inference servers. As microcontroller platforms continue to improve and network protocols become more optimized, this architecture pattern will likely become increasingly common in real-world deployments seeking to balance privacy, cost, and capability.
 
 ---
-*Source: [Google News](https://xda-developers.com) · Relevance: 7/10*
+*Source: [Google News](https://www.xda-developers.com/ran-espressif-official-ai-agent-esp32-self-hosted-llm/) · Relevance: 7/10*

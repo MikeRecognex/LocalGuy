@@ -33,4 +33,4 @@ For local LLM deployment, the implications are substantial. LMCache-compatible i
 While Oracle's announcement focuses on their cloud platform, LMCache is open-source and increasingly supported by popular local inference frameworks. Practitioners running Ollama, vLLM, or llama.cpp should monitor support for LMCache integration. When available in your chosen framework, enabling KV cache optimization can improve throughput by 20-40% without model retraining—a significant performance win for resource-constrained local deployments.
 
 ---
-*Source: [Oracle Blogs](https://oracle.com) · Relevance: 7/10*
+*Source: [Oracle Blogs](https://blogs.oracle.com/ai-and-datascience/accelerate-llm-inference-lmcache-on-oci-data-science) · Relevance: 7/10*

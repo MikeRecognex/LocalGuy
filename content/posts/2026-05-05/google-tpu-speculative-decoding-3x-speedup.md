@@ -31,7 +31,7 @@ Google has published research detailing a novel speculative decoding approach in
 
 Speculative decoding works by having a smaller model generate candidate tokens that a larger model then validates, avoiding redundant computation. Google's diffusion-inspired variant refines this approach, making it more efficient across different model sizes and architectures. This technique is particularly relevant for local deployments where reducing per-token latency directly improves user experience in interactive applications.
 
-For teams running local LLMs, understanding these optimization techniques can inform decisions about model selection and inference architecture. Tools like llama.cpp and vLLM are actively incorporating speculative decoding features, and [Google's research on blog.google](https://blog.google) provides a blueprint for implementation. Practitioners should consider experimenting with these methods on their target hardware to achieve similar latency improvements.
+For teams running local LLMs, understanding these optimization techniques can inform decisions about model selection and inference architecture. Tools like llama.cpp and vLLM are actively incorporating speculative decoding features, and [Google's research on blog.google](https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/) provides a blueprint for implementation. Practitioners should consider experimenting with these methods on their target hardware to achieve similar latency improvements.
 
 ---
-*Source: [Google News](https://blog.google) · Relevance: 8/10*
+*Source: [Google News](https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/) · Relevance: 8/10*

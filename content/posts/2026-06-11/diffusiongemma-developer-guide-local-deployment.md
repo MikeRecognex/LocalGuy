@@ -24,7 +24,7 @@ Google has released an official developer guide for DiffusionGemma, a model spec
 
 The guide covers setup, optimization strategies, and best practices for achieving high-throughput text generation on consumer-grade devices. For local LLM practitioners, this represents a significant development as Google continues to invest in making their models accessible for edge inference scenarios.
 
-Developers looking to integrate diffusion-based generation into their local-first applications should review [Google's DiffusionGemma developer guide](https://blog.google) for production-ready implementation patterns and performance tuning techniques.
+Developers looking to integrate diffusion-based generation into their local-first applications should review [Google's DiffusionGemma developer guide](https://developers.googleblog.com/diffusiongemma-the-developer-guide/) for production-ready implementation patterns and performance tuning techniques.
 
 ---
-*Source: [Google Blog](https://blog.google) · Relevance: 9/10*
+*Source: [Google Blog](https://developers.googleblog.com/diffusiongemma-the-developer-guide/) · Relevance: 9/10*

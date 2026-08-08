@@ -41,4 +41,4 @@ ROCm's maturation addresses a significant gap in the local inference ecosystem w
 For Linux-based local LLM deployment, the improved ROCm story means more hardware options and better software integration. Users deploying on AMD GPUs will benefit from simplified installation, better compatibility, and more stable inference performance. As ROCm continues to mature, AMD becomes a genuinely viable alternative to NVIDIA for local inference workloads, fostering healthy competition and reducing vendor lock-in.
 
 ---
-*Source: [Phoronix](https://phoronix.com) · Relevance: 7/10*
+*Source: [Phoronix](https://www.phoronix.com/news/Ubuntu-26.04-With-ROCm) · Relevance: 7/10*

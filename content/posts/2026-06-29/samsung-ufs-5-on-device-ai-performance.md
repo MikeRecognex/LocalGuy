@@ -30,4 +30,4 @@ For practitioners deploying LLMs on smartphones, tablets, and IoT devices, stora
 This development reflects the broader ecosystem shift toward optimizing the entire stack—not just the LLM itself—for edge inference. Chipmakers and device manufacturers are recognizing that local AI isn't a temporary trend but a fundamental architectural direction, and storage performance will be as important as CPU and memory specifications in future device comparisons.
 
 ---
-*Source: [Google News](https://www.newelectronics.co.uk) · Relevance: 8/10*
+*Source: [Google News](https://www.newelectronics.co.uk/content/news/samsung-presents-ufs-50-storage-targeted-at-on-device-ai-performance) · Relevance: 8/10*

@@ -38,4 +38,4 @@ This breakthrough matters for the local AI community because AMD GPUs represent 
 For teams evaluating hardware for local deployments, Hipfire shifts the cost-benefit analysis in favor of AMD-based systems. The Rust implementation also suggests strong performance fundamentals that could influence broader tooling decisions in the inference engine landscape.
 
 ---
-*Source: [Startup Fortune](https://www.startupfortune.com) · Relevance: 9/10*
+*Source: [Startup Fortune](https://startupfortune.com/hipfire-is-a-rust-native-amd-inference-engine-that-beats-llamacpp-on-consumer-gpus/) · Relevance: 9/10*

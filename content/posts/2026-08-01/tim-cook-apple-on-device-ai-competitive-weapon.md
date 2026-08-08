@@ -36,4 +36,4 @@ For the local LLM community, this validates the long-term viability and importan
 This strategic positioning also influences the broader ecosystem. Other manufacturers and platforms will likely follow suit, creating demand for lighter, faster models and better tooling for local deployment. The competitive pressure Apple describes should accelerate breakthroughs in memory optimization and inference speed that benefit the entire open-source local LLM movement.
 
 ---
-*Source: [Google News](https://qz.com) · Relevance: 9/10*
+*Source: [Google News](https://qz.com/tim-cook-apple-on-device-ai-competitive-weapon-final-earnings-call-073126) · Relevance: 9/10*

@@ -42,4 +42,4 @@ For edge devices and embedded systems, this hardware evolution is prerequisite i
 This announcement also signals hardware vendor recognition that on-device AI is transitioning from niche to mainstream—storage manufacturers are now explicitly optimizing for LLM inference workloads. Practitioners deploying to embedded systems should monitor UFS 5.0 device availability as a key enabler for local deployment scenarios previously requiring cloud fallback.
 
 ---
-*Source: [Business Wire](https://www.businesswire.com/) · Relevance: 8/10*
+*Source: [Business Wire](https://www.businesswire.com/news/home/20260728911049/en/New-UFS-5.0-Embedded-Flash-Memory-Devices-from-Kioxia-Enable-On-Device-AI) · Relevance: 8/10*

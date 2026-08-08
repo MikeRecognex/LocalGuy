@@ -39,4 +39,4 @@ For the local LLM community, this hardware category matters because it lowers th
 The external GPU trend also validates the importance of runtime portability in frameworks like Ollama and llama.cpp. As inference hardware options diversify beyond laptops and desktops, the ability to run the same models across different GPU configurations becomes essential.
 
 ---
-*Source: [TechRadar](https://www.techradar.com) · Relevance: 8/10*
+*Source: [TechRadar](https://www.techradar.com/pro/this-is-probably-the-most-powerful-external-gpu-enclosure-pluggables-tbt5-ai-is-the-first-one-that-explicitly-targets-local-llm-and-workstation-gpu) · Relevance: 8/10*

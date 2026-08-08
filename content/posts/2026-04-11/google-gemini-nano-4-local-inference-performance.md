@@ -38,4 +38,4 @@ For local LLM practitioners, Gemini Nano 4 represents an important data point in
 The release underscores how major players are doubling down on local inference, validating the market demand for privacy-preserving, on-device AI solutions. As benchmarks emerge, this model will provide useful comparisons for practitioners evaluating options alongside alternatives like Llama, Mistral, and other open-source models designed for edge deployment.
 
 ---
-*Source: [Android Authority](https://www.androidauthority.com) · Relevance: 9/10*
+*Source: [Android Authority](https://www.androidauthority.com/gemini-nano-4-benchmarks-3655763/) · Relevance: 9/10*

@@ -41,4 +41,4 @@ For local LLM practitioners, this development has immediate practical implicatio
 The convergence of improved storage, specialized AI accelerators (like those from Ambiq and MediaTek), and optimized inference frameworks creates an increasingly viable path for deploying capable language models directly on consumer hardware with minimal latency and privacy implications.
 
 ---
-*Source: [EE Times](https://www.eetimes.com) · Relevance: 9/10*
+*Source: [EE Times](https://www.eetimes.com/new-era-of-on-device-ai-driven-by-high-speed-ufs-5-0-storage/) · Relevance: 9/10*

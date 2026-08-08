@@ -31,4 +31,4 @@ Odysseus has achieved notable performance gains on Apple Silicon, making self-ho
 This matters for the local LLM community because Apple Silicon represents a massive installed base of capable hardware. Optimizations like those in Odysseus demonstrate that consumer-grade Macs can serve as effective local inference platforms for real work. With proper acceleration frameworks and code optimization, developers can build privacy-respecting, latency-optimized AI applications without expensive server infrastructure. This accessibility expands the addressable market for local LLM tools and frameworks.
 
 ---
-*Source: [Google News](https://korben.info) · Relevance: 8/10*
+*Source: [Google News](https://korben.info/en/odysseus-pewdiepie-self-hosted-ai-fast-mac.html) · Relevance: 8/10*

@@ -37,4 +37,4 @@ This move matters because hardware optimization is critical for inference perfor
 Gemma 4's availability on AMD hardware broadens the ecosystem for local inference, encouraging competition and reducing vendor lock-in. As more model releases receive multi-vendor support from day one, the local LLM landscape becomes more accessible to practitioners across diverse hardware configurations.
 
 ---
-*Source: [Google News](https://www.digitalterminal.io) · Relevance: 9/10*
+*Source: [Google News](https://digitalterminal.in/trending/amd-announces-day-0-support-for-google-gemma-4-across-processors-and-gpus) · Relevance: 9/10*

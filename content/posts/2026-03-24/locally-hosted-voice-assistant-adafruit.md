@@ -18,4 +18,4 @@ The guide covers critical practical considerations including latency optimizatio
 For developers building voice-enabled local AI applications, this resource is particularly valuable because it addresses the full stack rather than isolated pieces. The experience spans from consumer hardware to production-grade reliability, making it directly applicable to edge AI deployments on Raspberry Pi, IoT devices, and embedded systems.
 
 ---
-*Source: [Adafruit](https://www.adafruit.com) · Relevance: 9/10*
+*Source: [Adafruit](https://blog.adafruit.com/2026/04/01/a-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant-2/) · Relevance: 9/10*

@@ -33,7 +33,7 @@ Google researcher Cormac Brick has discussed the emerging trend of tiny LLMs pur
 
 The focus on tiny LLMs addresses a critical pain point in local deployment: balancing model capability with hardware constraints. By optimizing models specifically for agent workloads rather than general-purpose conversation, developers can achieve faster inference, lower memory consumption, and better battery life on mobile and IoT devices.
 
-This research is particularly relevant for practitioners building autonomous systems that must operate entirely offline. Learn more about Google's approach to tiny LLMs at [StartupHub.ai](https://startuphub.ai) and discover how these insights can inform your local deployment strategy.
+This research is particularly relevant for practitioners building autonomous systems that must operate entirely offline. Learn more about Google's approach to tiny LLMs at [StartupHub.ai](https://www.startuphub.ai/ai-news/ai-research/2026/google-s-cormac-brick-on-tiny-llms-for-on-device-agents) and discover how these insights can inform your local deployment strategy.
 
 ---
-*Source: [StartupHub.ai](https://startuphub.ai) · Relevance: 8/10*
+*Source: [StartupHub.ai](https://www.startuphub.ai/ai-news/ai-research/2026/google-s-cormac-brick-on-tiny-llms-for-on-device-agents) · Relevance: 8/10*

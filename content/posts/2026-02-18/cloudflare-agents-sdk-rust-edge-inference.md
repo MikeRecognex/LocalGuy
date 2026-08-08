@@ -31,7 +31,7 @@ Cloudflare's Agents SDK v0.5.0 brings significant performance improvements for e
 
 The shift to Rust addresses a common pain point in edge inference: balancing feature richness with execution speed. By leveraging Rust's performance characteristics and memory safety guarantees, Cloudflare can deliver optimized inference without sacrificing reliability. For developers building serverless AI applications, this means faster response times and lower compute costs, particularly important when serving millions of requests across globally distributed infrastructure.
 
-If you're running inference on Cloudflare Workers or considering edge deployment platforms, [Agents SDK v0.5.0](https://marktechpost.com) is worth evaluating. The performance improvements from the Infire engine could significantly reduce latency for applications like real-time completions, chat, and streaming use cases deployed at the edge.
+If you're running inference on Cloudflare Workers or considering edge deployment platforms, [Agents SDK v0.5.0](https://www.marktechpost.com/2026/02/17/cloudflare-releases-agents-sdk-v0-5-0-with-rewritten-cloudflare-ai-chat-and-new-rust-powered-infire-engine-for-optimized-edge-inference-performance/) is worth evaluating. The performance improvements from the Infire engine could significantly reduce latency for applications like real-time completions, chat, and streaming use cases deployed at the edge.
 
 ---
-*Source: [Google News](https://marktechpost.com) · Relevance: 8/10*
+*Source: [Google News](https://www.marktechpost.com/2026/02/17/cloudflare-releases-agents-sdk-v0-5-0-with-rewritten-cloudflare-ai-chat-and-new-rust-powered-infire-engine-for-optimized-edge-inference-performance/) · Relevance: 8/10*

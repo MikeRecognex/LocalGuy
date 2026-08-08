@@ -23,7 +23,7 @@ NVIDIA's latest DFlash speculative decoding optimization represents a game-chang
 
 Speculative decoding works by having a smaller draft model generate multiple token candidates simultaneously, which a larger model then validates in parallel. This approach reduces memory bandwidth bottlenecks that typically limit LLM inference speed. On Blackwell's architecture, NVIDIA has optimized this technique to achieve unprecedented throughput gains without requiring model retraining or architectural changes.
 
-For practitioners deploying LLMs on Blackwell systems—whether in data centers or edge servers—[this optimization](https://developer.nvidia.com) dramatically improves cost efficiency and enables real-time inference at scale. Combined with quantization and other local optimization techniques, these gains represent a major step toward practical local LLM deployment in resource-constrained environments.
+For practitioners deploying LLMs on Blackwell systems—whether in data centers or edge servers—[this optimization](https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/) dramatically improves cost efficiency and enables real-time inference at scale. Combined with quantization and other local optimization techniques, these gains represent a major step toward practical local LLM deployment in resource-constrained environments.
 
 ---
-*Source: [NVIDIA Developer](https://developer.nvidia.com) · Relevance: 9/10*
+*Source: [NVIDIA Developer](https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/) · Relevance: 9/10*

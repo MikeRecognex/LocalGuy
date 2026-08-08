@@ -33,4 +33,4 @@ For the local LLM community, AMD's focus on architectural fundamentals validates
 Startup founders considering local LLM deployment will benefit from this kind of architectural guidance, which helps demystify the trade-offs between latency, privacy, cost, and operational complexity. AMD's contribution to this conversation signals that established hardware vendors are increasingly supportive of edge and local inference architectures, which creates better tooling, documentation, and reference implementations for the entire ecosystem.
 
 ---
-*Source: [Quasa](https://quasa.io) · Relevance: 7/10*
+*Source: [Quasa](https://quasa.io/media/amd-advancing-ai-2026-enterprise-ai-architecture-basics-for-startup-founders) · Relevance: 7/10*

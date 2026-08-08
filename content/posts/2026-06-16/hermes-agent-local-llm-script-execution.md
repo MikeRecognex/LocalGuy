@@ -26,7 +26,7 @@ Local LLMs have traditionally been constrained to conversational interfaces, but
 
 For practitioners running local LLMs, this opens new use cases: automated file processing pipelines, system maintenance tasks, and complex multi-step workflows that previously required external API calls or hybrid architectures. The ability to keep execution contexts entirely on-device while maintaining agent capabilities addresses both privacy and latency concerns that plague cloud-dependent solutions.
 
-This development signals the maturing of local AI infrastructure, where models aren't just inference engines but genuine autonomous agents capable of meaningful interaction with host systems. [Read more on XDA](https://www.xda-developers.com).
+This development signals the maturing of local AI infrastructure, where models aren't just inference engines but genuine autonomous agents capable of meaningful interaction with host systems. [Read more on XDA](https://www.xda-developers.com/local-llm-chat-box-until-hermes-agent-let-run-scripts-files-jobs/).
 
 ---
-*Source: [XDA](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/local-llm-chat-box-until-hermes-agent-let-run-scripts-files-jobs/) · Relevance: 9/10*

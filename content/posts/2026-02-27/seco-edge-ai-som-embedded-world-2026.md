@@ -27,7 +27,7 @@ Seco's announcement of an edge AI-focused system-on-module at Embedded World 202
 
 Specialized hardware like Seco's module typically includes optimized tensor cores, reduced memory footprints, and industrial-grade reliability standards. These characteristics make them ideal platforms for edge LLM inference where models need to run continuously in harsh environments or with minimal power consumption. The increasing availability of such purpose-designed hardware reduces friction for enterprises considering on-device AI deployment.
 
-From the open-source tooling perspective, hardware modules like this drive framework development. Projects like llama.cpp and Ollama benefit when manufacturers release detailed optimization documentation and performance profiles. The [Embedded World announcement](https://electronics360.globalspec.com) suggests that specialized edge AI hardware is becoming a robust market category, which should translate to better software support and more readily available deployment guides for local LLM practitioners targeting embedded systems.
+From the open-source tooling perspective, hardware modules like this drive framework development. Projects like llama.cpp and Ollama benefit when manufacturers release detailed optimization documentation and performance profiles. The [Embedded World announcement](https://electronics360.globalspec.com/article/23406/embedded-world-2026-seco-launches-edge-ai-som) suggests that specialized edge AI hardware is becoming a robust market category, which should translate to better software support and more readily available deployment guides for local LLM practitioners targeting embedded systems.
 
 ---
-*Source: [Google News](https://electronics360.globalspec.com) · Relevance: 7/10*
+*Source: [Google News](https://electronics360.globalspec.com/article/23406/embedded-world-2026-seco-launches-edge-ai-som) · Relevance: 7/10*

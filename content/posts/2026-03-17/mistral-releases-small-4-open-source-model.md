@@ -38,4 +38,4 @@ For local LLM practitioners, the Apache 2.0 license provides unprecedented flexi
 The timing aligns with growing momentum toward smaller, efficient models that can run on consumer hardware. As enterprises and individuals seek alternatives to cloud-dependent AI inference, Small 4 positions itself as a compelling baseline for locally-deployed applications across mobile, edge devices, and traditional computing infrastructure.
 
 ---
-*Source: [TestingCatalog](https://testingcatalog.com) · Relevance: 9/10*
+*Source: [TestingCatalog](https://www.testingcatalog.com/mistral-releases-mistral-small-4-model-under-apache-2-0-licence/) · Relevance: 9/10*

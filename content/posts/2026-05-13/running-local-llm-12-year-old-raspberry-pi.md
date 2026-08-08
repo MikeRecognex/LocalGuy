@@ -37,4 +37,4 @@ For the local LLM community, this is noteworthy because it validates the accessi
 The successful deployment on such legacy hardware also serves as a benchmark for efficiency gains in projects like [llama.cpp](https://github.com/ggerganov/llama.cpp) and similar quantisation frameworks, pushing the boundaries of what's possible in resource-constrained environments.
 
 ---
-*Source: [Adafruit](https://www.adafruit.com) · Relevance: 9/10*
+*Source: [Adafruit](https://blog.adafruit.com/2026/05/12/running-a-local-llm-on-a-12-year-old-raspberry-pi-1/) · Relevance: 9/10*

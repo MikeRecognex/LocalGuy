@@ -32,7 +32,7 @@ Nubia's announcement of the world's first AI agent smartphone represents a concr
 
 This development is significant for the local LLM community because it validates the market demand for edge-deployed AI and provides real-world constraints that should inform model optimization efforts. Developers now have a concrete target platform—devices like Nubia's—that requires models small enough to fit in mobile RAM while remaining capable enough to handle multi-step reasoning and tool integration.
 
-The practical implications for local LLM deployment are substantial: quantization strategies, memory-efficient attention mechanisms, and lightweight agent frameworks will become increasingly valuable. The [announcement](https://www.gizmochina.com) signals that consumer-grade hardware is finally capable of supporting sophisticated on-device AI, creating opportunities for open-source tools and models optimized for these constrained environments.
+The practical implications for local LLM deployment are substantial: quantization strategies, memory-efficient attention mechanisms, and lightweight agent frameworks will become increasingly valuable. The [announcement](https://www.gizmochina.com/2026/07/19/nubia-announces-ai-agent-smartphone-with-on-device-ai-processing/) signals that consumer-grade hardware is finally capable of supporting sophisticated on-device AI, creating opportunities for open-source tools and models optimized for these constrained environments.
 
 ---
-*Source: [Google News](https://www.gizmochina.com) · Relevance: 8/10*
+*Source: [Google News](https://www.gizmochina.com/2026/07/19/nubia-announces-ai-agent-smartphone-with-on-device-ai-processing/) · Relevance: 8/10*

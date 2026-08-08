@@ -41,4 +41,4 @@ For local LLM practitioners, this represents expanded hardware flexibility beyon
 This development diversifies the hardware landscape available for local AI inference. While NVIDIA GPUs remain prevalent, AMD's advancement in software support makes GPU acceleration more accessible to broader audiences, potentially driving down deployment costs and enabling high-performance local LLM execution on previously underutilized AMD hardware.
 
 ---
-*Source: [Google News](https://www.phoronix.com) · Relevance: 8/10*
+*Source: [Google News](https://www.phoronix.com/news/Lemonade-SDK-10.5-Released) · Relevance: 8/10*

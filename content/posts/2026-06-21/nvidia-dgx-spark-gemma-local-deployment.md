@@ -29,4 +29,4 @@ The guide's focus on running Google's Gemma model locally demonstrates real-worl
 This type of hands-on deployment guide bridges the gap between hardware specifications and practical implementation, helping practitioners understand performance characteristics and operational considerations when investing in specialized inference hardware.
 
 ---
-*Source: [Medium](https://medium.com) · Relevance: 9/10*
+*Source: [Medium](https://medium.com/@adnanmasood/getting-started-with-nvidia-dgx-spark-unboxing-first-boot-dashboard-and-running-gemma-locally-2d9054fab7db) · Relevance: 9/10*

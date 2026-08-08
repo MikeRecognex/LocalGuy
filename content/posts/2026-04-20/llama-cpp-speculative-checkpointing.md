@@ -30,9 +30,9 @@ status: published
 
 llama.cpp, the foundational inference engine powering much of the local LLM ecosystem, has merged speculative checkpointing—a technique that dramatically improves inference latency on consumer hardware. Speculative checkpointing allows the inference engine to predict and pre-compute likely token sequences, reducing the number of full forward passes required and accelerating generation speed.
 
-This optimization is particularly impactful for practitioners running models on resource-constrained devices like laptops, edge servers, and older GPUs. The [llama.cpp advancement](https://www.startupfortune.com) represents the kind of algorithmic improvement that makes the difference between a model being practical for daily use versus merely functional.
+This optimization is particularly impactful for practitioners running models on resource-constrained devices like laptops, edge servers, and older GPUs. The [llama.cpp advancement](https://startupfortune.com/llamacpp-merges-speculative-checkpointing-and-local-ai-inference-takes-a-significant-leap-forward/) represents the kind of algorithmic improvement that makes the difference between a model being practical for daily use versus merely functional.
 
 For the local LLM community, this update reinforces llama.cpp's position as the performance-focused inference runtime. As these optimizations mature, running capable models locally becomes increasingly competitive with API-based alternatives, both in latency and total cost of ownership.
 
 ---
-*Source: [Startup Fortune](https://www.startupfortune.com) · Relevance: 10/10*
+*Source: [Startup Fortune](https://startupfortune.com/llamacpp-merges-speculative-checkpointing-and-local-ai-inference-takes-a-significant-leap-forward/) · Relevance: 10/10*

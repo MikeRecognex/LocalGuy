@@ -27,7 +27,7 @@ MediaTek's ongoing development of the Omni model represents a significant push t
 
 This matters deeply for local LLM deployment because multimodal models—those capable of processing text, images, and other modalities—are typically resource-hungry. MediaTek's work on Omni suggests innovations in model architecture, quantization, and hardware-software optimization that enable these capabilities to run on commodity mobile silicon. These breakthroughs often inform improvements in open-source frameworks and tools used across the local LLM ecosystem.
 
-[MediaTek's progress on the Omni model](https://www.thetechoutlook.com/) demonstrates that the smartphone hardware market is actively pushing toward supporting sophisticated inference workloads, creating opportunities for developers to deploy more capable models locally and reducing dependence on remote APIs.
+[MediaTek's progress on the Omni model](https://www.thetechoutlook.com/news/oppo-and-mediatek-unveil-on-device-ai-innovations-at-mwc-2026-progress-on-omni-model-advances-in-cross-ecosystem-connectivity-and-more/) demonstrates that the smartphone hardware market is actively pushing toward supporting sophisticated inference workloads, creating opportunities for developers to deploy more capable models locally and reducing dependence on remote APIs.
 
 ---
-*Source: [Google News](https://www.thetechoutlook.com/) · Relevance: 8/10*
+*Source: [Google News](https://www.thetechoutlook.com/news/oppo-and-mediatek-unveil-on-device-ai-innovations-at-mwc-2026-progress-on-omni-model-advances-in-cross-ecosystem-connectivity-and-more/) · Relevance: 8/10*

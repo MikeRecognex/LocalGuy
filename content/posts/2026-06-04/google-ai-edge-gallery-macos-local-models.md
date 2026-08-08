@@ -30,4 +30,4 @@ The AI Edge Gallery functions as a curated marketplace for production-ready, loc
 This represents an important trend: moving away from command-line tooling toward polished, user-friendly platforms that make local LLM inference accessible to mainstream developers. For practitioners, this signals that the ecosystem is maturing beyond the hobbyist phase, with major vendors investing in production-grade deployment experiences.
 
 ---
-*Source: [Google News](https://9to5mac.com) · Relevance: 9/10*
+*Source: [Google News](https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/) · Relevance: 9/10*

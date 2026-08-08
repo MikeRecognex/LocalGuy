@@ -36,4 +36,4 @@ For local LLM enthusiasts and developers, USB-based accelerators like the UGen30
 The broader implication is that on-device AI inference is becoming increasingly accessible across device categories. As USB AI accelerators mature and proliferate, the barrier to deploying sophisticated language models locally continues to drop, democratizing access to private, latency-free LLM inference.
 
 ---
-*Source: [Google News](https://www.techcritter.com) · Relevance: 9/10*
+*Source: [Google News](https://www.tech-critter.com/asus-ugen300-usb-ai-accelerator-malaysia/) · Relevance: 9/10*

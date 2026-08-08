@@ -27,7 +27,7 @@ Google has announced Gemma 4 12B, a new addition to its open-source Gemma model 
 
 The 12B parameter size strikes a critical balance for local LLM deployment—large enough to handle complex reasoning tasks, yet compact enough to run on consumer-grade hardware with reasonable memory footprints. This positioning makes it directly comparable to popular community models like Mistral and Llama variants that dominate the local inference space. Developers can expect faster inference times and reduced memory consumption compared to larger models, making it particularly suitable for resource-constrained environments.
 
-For the local LLM community, [this release](https://explosion.com) signals that major AI labs are increasingly prioritizing on-device capabilities. Users can deploy Gemma 4 12B through existing tooling like Ollama, llama.cpp, and MLX, with immediate availability for experimentation and production deployments.
+For the local LLM community, [this release](https://www.explosion.com/191422/googles-new-gemma-4-12b-ai-model-is-built-for-laptops/) signals that major AI labs are increasingly prioritizing on-device capabilities. Users can deploy Gemma 4 12B through existing tooling like Ollama, llama.cpp, and MLX, with immediate availability for experimentation and production deployments.
 
 ---
-*Source: [explosion.com](https://explosion.com) · Relevance: 9/10*
+*Source: [explosion.com](https://www.explosion.com/191422/googles-new-gemma-4-12b-ai-model-is-built-for-laptops/) · Relevance: 9/10*

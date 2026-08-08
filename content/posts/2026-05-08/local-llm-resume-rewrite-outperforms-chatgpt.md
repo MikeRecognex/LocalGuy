@@ -39,4 +39,4 @@ This finding has important implications for local LLM practitioners. It suggests
 Beyond the specific example, this report reinforces a broader trend: as the ecosystem of open-source models matures and quantization techniques improve, local LLMs are increasingly competitive for real-world tasks. The advantages extend beyond performance—users gain privacy, reduce costs, and eliminate dependency on external APIs. For organizations and individuals willing to invest in local infrastructure, the case for self-hosted inference continues to strengthen.
 
 ---
-*Source: [Google News](https://xda-developers.com) · Relevance: 7/10*
+*Source: [Google News](https://www.xda-developers.com/i-let-a-local-llm-rewrite-my-resume-and-it-caught-things-chatgpt-missed/) · Relevance: 7/10*

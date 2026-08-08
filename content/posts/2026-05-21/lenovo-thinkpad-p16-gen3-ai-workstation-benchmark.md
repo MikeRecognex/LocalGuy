@@ -35,7 +35,7 @@ Virtualization Review has published part 2 of their comprehensive benchmark seri
 
 Portable workstations like the ThinkPad P16 Gen 3 are increasingly important for developers who need to deploy and test local LLMs outside the lab environment. The benchmark results help identify bottlenecks and validate hardware choices for various model sizes and quantization schemes, from small 7B parameter models to larger 70B variants.
 
-If you're evaluating portable hardware for on-device inference, the detailed metrics in [this Virtualization Review article](https://www.virtualizationreview.com) should inform your purchasing decision. Part 2 likely covers specialized workloads and real-world scenarios relevant to local LLM practitioners.
+If you're evaluating portable hardware for on-device inference, the detailed metrics in [this Virtualization Review article](https://virtualizationreview.com/articles/2026/05/20/benchmarking-a-portable-ai-workstation-lenovo-thinkpad-p16-gen-3-part-2.aspx) should inform your purchasing decision. Part 2 likely covers specialized workloads and real-world scenarios relevant to local LLM practitioners.
 
 ---
-*Source: [Virtualization Review](https://www.virtualizationreview.com) · Relevance: 7/10*
+*Source: [Virtualization Review](https://virtualizationreview.com/articles/2026/05/20/benchmarking-a-portable-ai-workstation-lenovo-thinkpad-p16-gen-3-part-2.aspx) · Relevance: 7/10*

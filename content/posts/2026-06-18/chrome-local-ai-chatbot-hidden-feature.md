@@ -28,7 +28,7 @@ Google has quietly integrated a free local AI chatbot directly into Chrome, enab
 
 For local LLM practitioners, this integration suggests growing mainstream acceptance of edge inference and points to emerging opportunities in browser-based model deployment. The feature highlights the importance of model optimization for consumer-grade hardware and the viability of running capable language models within constrained browser environments. Understanding how Chrome implements and optimizes these models could inform strategies for other local deployment scenarios.
 
-This shift aligns with broader industry trends toward on-device AI, making it a crucial development for anyone working on self-hosted or edge inference solutions. [Read the full story](https://www.piunikaweb.com)
+This shift aligns with broader industry trends toward on-device AI, making it a crucial development for anyone working on self-hosted or edge inference solutions. [Read the full story](https://piunikaweb.com/2026/06/18/how-to-use-chrome-gemini-nano-local-ai/)
 
 ---
-*Source: [PiunikaWeb](https://www.piunikaweb.com) · Relevance: 9/10*
+*Source: [PiunikaWeb](https://piunikaweb.com/2026/06/18/how-to-use-chrome-gemini-nano-local-ai/) · Relevance: 9/10*

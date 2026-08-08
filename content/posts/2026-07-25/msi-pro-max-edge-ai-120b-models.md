@@ -34,4 +34,4 @@ MSI's PRO MAX EDGE AI+ represents a significant milestone in accessible local LL
 This hardware release is crucial for the local LLM community because it eliminates traditional barriers to running frontier-scale models. Previously, accessing 120B+ parameter models required either cloud subscriptions or custom server builds. The PRO MAX EDGE AI+ enables use cases like local fine-tuning, production inference with strict latency/privacy requirements, and research without cloud infrastructure costs. This democratization of large-scale model deployment accelerates the shift toward sustainable, self-hosted AI.
 
 ---
-*Source: [Google News](https://hothardware.com) · Relevance: 9/10*
+*Source: [Google News](https://hothardware.com/news/msi-pro-max-edge-ai-runs-120b-local-ai-models-128gb-ram) · Relevance: 9/10*

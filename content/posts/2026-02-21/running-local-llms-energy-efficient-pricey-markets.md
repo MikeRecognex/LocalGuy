@@ -27,4 +27,4 @@ The practical implications are significant for anyone evaluating whether to migr
 For teams making infrastructure decisions, this benchmark provides concrete evidence that energy costs should not be a primary barrier to adopting local LLMs. The article validates that modern hardware and optimized inference engines have reached efficiency levels where local deployment becomes the economically rational choice for many use cases.
 
 ---
-*Source: [XDA](https://xda-developers.com) · Relevance: 8/10*
+*Source: [XDA](https://www.xda-developers.com/run-local-llms-one-worlds-priciest-energy-markets/) · Relevance: 8/10*

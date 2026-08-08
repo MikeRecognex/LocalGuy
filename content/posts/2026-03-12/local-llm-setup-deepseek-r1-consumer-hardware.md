@@ -32,7 +32,7 @@ This practical guide from SitePoint demonstrates a major accessibility milestone
 
 The setup leverages modern consumer GPUs and optimized inference frameworks to achieve practical performance with DeepSeek-R1, one of the latest reasoning-focused models. By documenting the exact hardware configuration, optimization techniques, and inference software stack, the guide provides a replicable blueprint for practitioners looking to escape cloud dependencies while maintaining access to sophisticated reasoning models.
 
-For the local LLM community, this guide validates that enterprise-grade reasoning capabilities are no longer restricted to cloud providers or massive capital investments. The sub-$1,500 barrier is a critical threshold that enables individual developers, researchers, and small organizations to build proprietary AI systems with full data privacy. [Read the full setup guide on SitePoint](https://www.sitepoint.com).
+For the local LLM community, this guide validates that enterprise-grade reasoning capabilities are no longer restricted to cloud providers or massive capital investments. The sub-$1,500 barrier is a critical threshold that enables individual developers, researchers, and small organizations to build proprietary AI systems with full data privacy. [Read the full setup guide on SitePoint](https://www.sitepoint.com/1500-local-ai-setup-deepseek-r1-consumer-gpu/).
 
 ---
-*Source: [Google News](https://www.sitepoint.com) · Relevance: 9/10*
+*Source: [Google News](https://www.sitepoint.com/1500-local-ai-setup-deepseek-r1-consumer-gpu/) · Relevance: 9/10*

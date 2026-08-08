@@ -29,4 +29,4 @@ Wearable AI deployment requires extreme optimization: models must fit stringent 
 For the local LLM community, wearable platforms signal a shift toward truly decentralized AI. Rather than local inference as a privacy or cost optimization for desktop/server systems, edge-optimized models become the default. Development frameworks and optimization tools that emerge from this space will benefit all local deployment contexts—from smart home hubs to robotics to personal devices.
 
 ---
-*Source: [Google News](https://quasa.io) · Relevance: 7/10*
+*Source: [Google News](https://quasa.io/video/brilliant-labs-halo-open-source-ai-glasses-for-curious-minds) · Relevance: 7/10*

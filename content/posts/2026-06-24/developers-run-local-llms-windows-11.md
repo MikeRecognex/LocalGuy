@@ -27,7 +27,7 @@ Windows 11 support for local LLM deployment has historically lagged behind Linux
 
 Windows 11 introduces hardware capabilities and software improvements that enable efficient LLM inference, including better GPU support and WSL2 integration. Developers can now leverage tools like Ollama, llama.cpp, and other optimization frameworks natively or through Windows subsystems, making local models accessible without Linux expertise.
 
-[This deployment guide](https://letsdatascience.com) walks through practical setup, hardware configuration, and troubleshooting for Windows developers. The democratization of local LLM deployment across operating systems removes a significant barrier to adoption, enabling millions of Windows users to experiment with and deploy open-source models on their own hardware.
+[This deployment guide](https://letsdatascience.com/news/developers-run-local-llms-on-windows-11-a51101e0) walks through practical setup, hardware configuration, and troubleshooting for Windows developers. The democratization of local LLM deployment across operating systems removes a significant barrier to adoption, enabling millions of Windows users to experiment with and deploy open-source models on their own hardware.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com) · Relevance: 7/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/developers-run-local-llms-on-windows-11-a51101e0) · Relevance: 7/10*

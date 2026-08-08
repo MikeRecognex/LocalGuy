@@ -27,4 +27,4 @@ Local LLM inference enables creative professionals to process sensitive content,
 For practitioners and tool developers, this represents a significant market opportunity: creative software companies are actively seeking ways to integrate AI while maintaining user privacy and control. The convergence of improved edge hardware, better quantization techniques, and mature deployment frameworks like Ollama and vLLM means that embedding capable language models in creative applications is increasingly feasible and practical.
 
 ---
-*Source: [Google News](https://ascendants.in) · Relevance: 7/10*
+*Source: [Google News](https://ascendants.in/founders-corner/edge-ai-creative-production-campaign-workflows/) · Relevance: 7/10*

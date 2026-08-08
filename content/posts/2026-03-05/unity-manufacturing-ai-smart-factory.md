@@ -37,7 +37,7 @@ Unity presented AI-powered manufacturing workflows at the Smart Factory Expo, sh
 
 For the local LLM and edge AI community, industrial applications represent some of the most demanding deployment scenarios. Manufacturing environments require sub-millisecond latency, high reliability, offline capability, and strict data privacy—constraints that make cloud-dependent AI impractical. Unity's showcase demonstrates how specialized inference pipelines and optimized models can solve these challenges at scale, validating investment in quantization, edge deployment frameworks, and hardware acceleration.
 
-[Unity's Smart Factory AI workflow](https://www.thelec.net/) underscores that enterprise demand for local inference is driving real innovation, creating opportunities for developers skilled in edge optimization, model quantization, and production deployment of AI systems.
+[Unity's Smart Factory AI workflow](https://www.thelec.net/news/articleView.html?idxno=5653) underscores that enterprise demand for local inference is driving real innovation, creating opportunities for developers skilled in edge optimization, model quantization, and production deployment of AI systems.
 
 ---
-*Source: [Google News](https://www.thelec.net/) · Relevance: 7/10*
+*Source: [Google News](https://www.thelec.net/news/articleView.html?idxno=5653) · Relevance: 7/10*

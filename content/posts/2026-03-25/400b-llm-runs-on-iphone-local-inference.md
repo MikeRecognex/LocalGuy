@@ -33,4 +33,4 @@ For local LLM practitioners, this validates the investment in optimization techn
 This development signals that the frontier of local inference is rapidly expanding beyond traditional laptops and workstations into genuinely resource-constrained environments. As these techniques mature and become standardized, expect to see mobile-optimized checkpoints becoming standard releases from model publishers, similar to how GGUF and other quantized formats are now common for desktop deployment.
 
 ---
-*Source: [디지털투데이 (Google News)](https://www.digitaltoday.co.kr/) · Relevance: 9/10*
+*Source: [디지털투데이 (Google News)](https://www.digitaltoday.co.kr/en/view/42973/cloud-not-needed-anymore-running-400b-class-llm-on-iphone-succeeds) · Relevance: 9/10*

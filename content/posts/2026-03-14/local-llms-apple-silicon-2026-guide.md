@@ -30,7 +30,7 @@ Apple Silicon continues to be an underutilized platform for local LLM inference,
 
 For Mac users, this guide is essential reading because it consolidates scattered knowledge about memory management, model selection, and framework choices into one reference. Apple Silicon's unified memory architecture makes it particularly efficient for LLM inference, often outperforming similarly-priced GPUs in practical deployments. The 2026 perspective suggests it covers recent model releases and the latest optimization techniques.
 
-Visit [SitePoint's comprehensive Apple Silicon guide](https://www.sitepoint.com/) to learn how to maximize local LLM performance on your Mac.
+Visit [SitePoint's comprehensive Apple Silicon guide](https://www.sitepoint.com/local-llms-apple-silicon-mac-2026/) to learn how to maximize local LLM performance on your Mac.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com/) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/local-llms-apple-silicon-mac-2026/) · Relevance: 8/10*

@@ -32,4 +32,4 @@ Multi-agent systems are a frontier for LLM applications, allowing models to deco
 For local LLM practitioners, Xiaobu Next validates the market demand for on-device AI and demonstrates that the hardware and software stack is ready for advanced use cases beyond single-turn inference. This can inspire builders to explore multi-agent architectures adapted for local deployment, whether on mobile, embedded, or edge devices.
 
 ---
-*Source: [Google News](https://finance.biggo.com) · Relevance: 8/10*
+*Source: [Google News](https://finance.biggo.com/news/681e2f81-d26b-4336-9659-53a70d548e64) · Relevance: 8/10*

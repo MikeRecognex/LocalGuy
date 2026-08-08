@@ -35,7 +35,7 @@ NVIDIA has unveiled OpenClaw and NemoClaw, purpose-built frameworks designed to 
 
 For local LLM practitioners, this is significant because it bridges the gap between research and production deployment. NemoClaw's integration with NVIDIA's hardware stack means optimized inference on edge GPUs and specialized processors, while the security-first architecture reduces the attack surface compared to cloud-dependent solutions. This is particularly valuable for enterprise deployments and privacy-sensitive applications.
 
-The availability of these frameworks lowers the barrier to entry for building sophisticated local agents that can run continuously without external dependencies. [Read more on NVIDIA Developer](https://developer.nvidia.com) to explore integration patterns and performance benchmarks.
+The availability of these frameworks lowers the barrier to entry for building sophisticated local agents that can run continuously without external dependencies. [Read more on NVIDIA Developer](https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/) to explore integration patterns and performance benchmarks.
 
 ---
-*Source: [NVIDIA Developer](https://developer.nvidia.com) · Relevance: 9/10*
+*Source: [NVIDIA Developer](https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/) · Relevance: 9/10*

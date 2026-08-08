@@ -38,11 +38,11 @@ mentions:
 status: published
 ---
 
-Quantisation remains one of the most critical optimisation techniques for local LLM deployment, and [recent insights from KAIST researchers behind Google's TurboQuant](https://www.theinvestor.co.kr) reinforce that memory bandwidth and capacity are still the fundamental constraints limiting practical on-device inference. Despite advances in model compression, memory demand continues to hold back broader adoption.
+Quantisation remains one of the most critical optimisation techniques for local LLM deployment, and [recent insights from KAIST researchers behind Google's TurboQuant](https://www.theinvestor.co.kr/article/10704972) reinforce that memory bandwidth and capacity are still the fundamental constraints limiting practical on-device inference. Despite advances in model compression, memory demand continues to hold back broader adoption.
 
 This research is particularly relevant as practitioners increasingly attempt to run larger models on consumer hardware. The TurboQuant approach addresses specific quantisation challenges, but the broader message is clear: optimising for memory efficiency remains more impactful than raw compute optimisation in most edge and local deployment scenarios. Understanding these physical limitations helps teams set realistic expectations and choose appropriate model sizes.
 
 For those selecting models and quantisation strategies for local deployment, this reinforces the importance of memory-aware architecture decisions. Whether targeting laptop inference, edge devices, or home servers, memory constraints should drive model selection and quantisation depth choices more than processing power.
 
 ---
-*Source: [The Investor](https://www.theinvestor.co.kr) · Relevance: 8/10*
+*Source: [The Investor](https://www.theinvestor.co.kr/article/10704972) · Relevance: 8/10*

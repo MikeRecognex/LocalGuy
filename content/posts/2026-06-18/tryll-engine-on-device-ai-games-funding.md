@@ -30,7 +30,7 @@ Tryll Engine is pioneering on-device AI for gaming with the launch of their AI g
 
 This development is significant for local LLM practitioners because it demonstrates a high-value commercial use case for edge inference. Gaming represents one of the most demanding real-time inference scenarios, requiring sub-100ms latency and continuous inference throughput. The Tryll approach validates the market viability of locally-deployed language models and shows how optimization techniques from the LLM community can drive commercial products.
 
-For developers interested in deploying LLMs locally, [Tryll's engine](https://www.tech.eu) serves as a reference implementation for handling real-time inference constraints, model quantization for gaming hardware, and user experience design around on-device AI capabilities.
+For developers interested in deploying LLMs locally, [Tryll's engine](https://tech.eu/2026/06/17/tryll-launches-ai-gaming-engine-alpha-and-secures-600k-pre-seed-funding/) serves as a reference implementation for handling real-time inference constraints, model quantization for gaming hardware, and user experience design around on-device AI capabilities.
 
 ---
-*Source: [Tech.eu](https://www.tech.eu) · Relevance: 8/10*
+*Source: [Tech.eu](https://tech.eu/2026/06/17/tryll-launches-ai-gaming-engine-alpha-and-secures-600k-pre-seed-funding/) · Relevance: 8/10*

@@ -36,4 +36,4 @@ This is particularly relevant for Windows users, who have historically lagged be
 For practitioners considering local model deployment, eGPU setups offer flexibility: they work across multiple machines, can be upgraded independently, and avoid the expense of purchasing new hardware. As eGPU technology matures and software support improves, this becomes an increasingly practical alternative to cloud inference for cost-conscious organizations and individuals.
 
 ---
-*Source: [Google News](https://www.virtualizationreview.com) · Relevance: 7/10*
+*Source: [Google News](https://virtualizationreview.com/articles/2026/04/06/running-ai-natively-on-windows-11-using-an-egpu.aspx) · Relevance: 7/10*

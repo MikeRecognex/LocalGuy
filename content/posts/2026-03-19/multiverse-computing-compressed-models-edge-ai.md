@@ -39,4 +39,4 @@ The new API portal provides a centralized interface for developers to access, ma
 This initiative reflects the growing maturity of the on-device AI ecosystem, where production-ready tools and pre-optimized models are becoming increasingly available for real-world applications.
 
 ---
-*Source: [TipRanks](https://www.tipranks.com) · Relevance: 8/10*
+*Source: [TipRanks](https://www.tipranks.com/news/private-companies/multiverse-computing-targets-on-device-ai-with-compressed-models-and-new-api-portal) · Relevance: 8/10*

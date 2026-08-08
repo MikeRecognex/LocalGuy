@@ -41,4 +41,4 @@ The inclusion of OpenClaw (their management framework) suggests an emphasis on o
 For enterprises considering local LLM adoption, dedicated hardware solutions like this signal a maturing market. Rather than cobbling together generic servers, organizations can now leverage purpose-designed infrastructure that handles the specific demands of model serving, quantization, and management. This removes significant barriers to adoption for teams without deep ML infrastructure expertise.
 
 ---
-*Source: [Let's Data Science](https://www.letsdatascience.com/) · Relevance: 7/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/minisforum-launches-n5-max-ai-nas-with-openclaw-28102469) · Relevance: 7/10*

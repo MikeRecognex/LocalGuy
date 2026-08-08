@@ -32,4 +32,4 @@ This partnership signals industry momentum toward purpose-built optimisation fra
 For local deployment practitioners, this highlights the growing importance of hardware-aware model optimisation. As robotics and autonomous systems drive demand for efficient on-device inference, optimisation frameworks that understand specific processor architectures and constraints will become more valuable than one-size-fits-all quantisation approaches.
 
 ---
-*Source: [PR Newswire](https://www.prnewswire.com) · Relevance: 8/10*
+*Source: [PR Newswire](http://www.prnewswire.com/news-releases/nota-ai-joins-the-amd-robotics-partner-network-to-accelerate-development-of-next-generation-physical-ai-solutions---extending-its-on-device-ai-optimization-technology-into-the-robotics-sector-302832058.html) · Relevance: 8/10*

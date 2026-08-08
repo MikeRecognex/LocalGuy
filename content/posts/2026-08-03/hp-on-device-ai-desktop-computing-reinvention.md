@@ -41,4 +41,4 @@ For local LLM practitioners, OEM-level investment matters because it drives hard
 The practical benefit: as Dell, HP, Lenovo, and others bake AI acceleration into mainstream devices, the hardware barrier to running 13B-30B parameter models locally becomes negligible. This accelerates the shift toward privacy-preserving, self-hosted deployments in both enterprise and consumer contexts.
 
 ---
-*Source: [Google News](https://www.resellernews.com) · Relevance: 8/10*
+*Source: [Google News](https://www.reseller.co.nz/article/4204257/hp-looks-to-on-device-ai-to-reinvent-desktop-computing.html) · Relevance: 8/10*

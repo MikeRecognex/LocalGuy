@@ -37,4 +37,4 @@ Ollama has emerged as the go-to runtime for serving open-source LLMs and vision 
 This development is significant for the local LLM ecosystem because it shows production applications adopting Ollama as a standard inference layer, validating the maturity of local deployment infrastructure and encouraging developers to build privacy-preserving features on top of local models.
 
 ---
-*Source: [Linuxiac](https://www.linuxiac.com) · Relevance: 8/10*
+*Source: [Linuxiac](https://linuxiac.com/photoprism-ai-powered-photos-app-brings-better-ollama-integration/) · Relevance: 8/10*

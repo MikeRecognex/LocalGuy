@@ -41,4 +41,4 @@ For the local LLM community, Alibaba's involvement strengthens the PyTorch ecosy
 Practitioners building local LLM infrastructure should watch for new optimization techniques and tooling emerging from this collaboration. Alibaba's scale and focus on efficient inference could accelerate the maturation of frameworks that currently require specialized knowledge to optimize. This is particularly valuable for organizations seeking to productionize local models without maintaining large ML infrastructure teams.
 
 ---
-*Source: [Google News](https://www.channellife.co.nz) · Relevance: 7/10*
+*Source: [Google News](https://channellife.co.nz/story/alibaba-cloud-joins-pytorch-foundation-as-platinum-member) · Relevance: 7/10*

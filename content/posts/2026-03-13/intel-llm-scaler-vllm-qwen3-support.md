@@ -34,4 +34,4 @@ Qwen models have emerged as strong alternatives to Llama for local deployment, o
 This update addresses a key pain point for self-hosted LLM operators: having mature inference frameworks optimized for the specific models you want to run. With vLLM's improvements now covering more Qwen variants, local deployment becomes more accessible and performant.
 
 ---
-*Source: [Phoronix](https://www.phoronix.com) · Relevance: 9/10*
+*Source: [Phoronix](https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-0.14-b8.1) · Relevance: 9/10*

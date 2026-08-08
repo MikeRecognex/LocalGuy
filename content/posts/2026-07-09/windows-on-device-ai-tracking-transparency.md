@@ -29,4 +29,4 @@ For enterprises and privacy-conscious users deploying local LLMs, this feature v
 From a deployment perspective, this Windows feature reduces friction in getting stakeholders to approve local LLM adoption. IT teams and compliance officers now have built-in OS-level audit trails for AI workload activity, making it easier to justify and govern on-device inference versus cloud alternatives.
 
 ---
-*Source: [Google News](https://www.makeuseof.com) · Relevance: 7/10*
+*Source: [Google News](https://www.makeuseof.com/windows-now-shows-which-apps-used-on-device-ai-and-id-check-it-right-now/) · Relevance: 7/10*

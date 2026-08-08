@@ -32,4 +32,4 @@ Independent testing of local LLMs against industry-leading proprietary models of
 The findings are particularly relevant for organizations considering self-hosted deployments, as they highlight both the current strengths and limitations of available open-source alternatives. Understanding these gaps enables better planning for hybrid approaches, specialized fine-tuning, or strategic use of cloud APIs for tasks that genuinely require frontier model capabilities.
 
 ---
-*Source: [MakeUseOf](https://www.makeuseof.com) · Relevance: 8/10*
+*Source: [MakeUseOf](https://www.makeuseof.com/tested-the-best-local-llms-against-claude-and-chatgpt-with-one-a-pelican/) · Relevance: 8/10*

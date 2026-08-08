@@ -36,4 +36,4 @@ For local LLM practitioners using Macs, this means faster inference speeds, redu
 The addition of MLX support represents the growing ecosystem of optimized inference frameworks tailored to specific hardware. As more tools adopt hardware-specific optimizations, practitioners have greater flexibility in choosing the right combination of framework and hardware for their local deployment needs.
 
 ---
-*Source: [The Mac Observer](https://www.macobserver.com) · Relevance: 9/10*
+*Source: [The Mac Observer](https://www.macobserver.com/news/apple-silicon-macs-run-local-ai-faster-with-ollamas-new-mlx-support/) · Relevance: 9/10*

@@ -36,4 +36,4 @@ The board is designed to handle Gemma 3's inference efficiently, making it ideal
 This move aligns with the industry trend toward optimizing models and hardware for local execution, particularly as privacy concerns and latency requirements make on-device AI increasingly valuable. Developers can now test and deploy Gemma 3 applications on verified, optimized hardware, making it an important option to evaluate alongside existing local LLM infrastructure choices.
 
 ---
-*Source: [Google News](https://the-decoder.com) · Relevance: 9/10*
+*Source: [Google News](https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/) · Relevance: 9/10*

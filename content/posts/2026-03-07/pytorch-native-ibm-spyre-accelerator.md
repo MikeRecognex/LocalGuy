@@ -30,4 +30,4 @@ This development is particularly important for the local LLM community because h
 For practitioners deploying models at scale across heterogeneous hardware environments, this kind of framework-level support is crucial. It enables infrastructure teams to standardize their ML pipeline while supporting multiple accelerator types, a practical necessity for large-scale edge deployments.
 
 ---
-*Source: [Google News](https://research.ibm.com) · Relevance: 8/10*
+*Source: [Google News](https://research.ibm.com/blog/pytorch-support-ibm-spyre) · Relevance: 8/10*

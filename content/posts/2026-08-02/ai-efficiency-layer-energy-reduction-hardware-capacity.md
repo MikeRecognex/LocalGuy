@@ -29,7 +29,7 @@ Power consumption and thermal constraints are often overlooked challenges in loc
 
 These efficiency layers operate at multiple system levels—from kernel optimisation and memory access patterns to dynamic voltage scaling and workload balancing. By reducing unnecessary compute and memory operations, systems can handle more concurrent requests on existing hardware while consuming less power and generating less heat, extending the practical deployment window for edge LLM services.
 
-For local LLM practitioners running models on consumer hardware, laptops, or edge devices, [these efficiency improvements](https://www.manilatimes.com) have immediate practical value. Lower power consumption means extended battery life on mobile devices, reduced cooling requirements, and the ability to run more capable models on hardware that previously couldn't support them—making efficient inference a cornerstone technology for democratising local AI.
+For local LLM practitioners running models on consumer hardware, laptops, or edge devices, [these efficiency improvements](https://www.manilatimes.net/2026/08/01/tmt-newswire/globenewswire/ai-efficiency-layer-cuts-energy-use-and-expands-server-capacity-on-existing-hardware/2396395) have immediate practical value. Lower power consumption means extended battery life on mobile devices, reduced cooling requirements, and the ability to run more capable models on hardware that previously couldn't support them—making efficient inference a cornerstone technology for democratising local AI.
 
 ---
-*Source: [The Manila Times](https://www.manilatimes.com) · Relevance: 8/10*
+*Source: [The Manila Times](https://www.manilatimes.net/2026/08/01/tmt-newswire/globenewswire/ai-efficiency-layer-cuts-energy-use-and-expands-server-capacity-on-existing-hardware/2396395) · Relevance: 8/10*

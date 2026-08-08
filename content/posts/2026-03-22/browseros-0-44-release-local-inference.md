@@ -42,4 +42,4 @@ The significance of browser-native LLM execution extends beyond individual users
 [The BrowserOS update] contributes to an important architectural shift in how AI features are deployed. As WebAssembly performance improves and model quantization techniques become more aggressive, the expectation of server-side AI processing may diminish. For local LLM practitioners, understanding browser-based execution represents a critical emerging skill for building modern, privacy-first applications.
 
 ---
-*Source: [Neowin](https://www.neowin.com/) · Relevance: 7/10*
+*Source: [Neowin](https://www.neowin.net/software/browseros-0440/) · Relevance: 7/10*

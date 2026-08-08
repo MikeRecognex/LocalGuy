@@ -27,4 +27,4 @@ Gemma 4 represents an evolution in Google's open-source model lineup, following 
 The combination of improved hardware support in Android 17 and a more capable Gemma model creates a compelling platform for edge AI applications. This development strengthens the competitive landscape around on-device inference, encouraging innovation in quantization techniques, memory optimization, and latency reduction across the industry.
 
 ---
-*Source: [Google News](https://inewszoombangla.com) · Relevance: 9/10*
+*Source: [Google News](https://inews.zoombangla.com/google-android-17-gemma-4-local-ai/) · Relevance: 9/10*

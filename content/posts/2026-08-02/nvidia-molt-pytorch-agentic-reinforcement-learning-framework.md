@@ -29,7 +29,7 @@ NVIDIA's Molt framework extends PyTorch capabilities for agentic AI systems, pro
 
 Molt integrates seamlessly with existing PyTorch-based workflows, making it accessible for researchers and engineers already familiar with the ecosystem. The framework supports distributed training, policy optimisation, and reward modelling—all critical components for developing sophisticated AI agents that can improve through interaction and feedback.
 
-For local LLM practitioners interested in moving beyond simple inference to build adaptive, learning-based systems, [Molt](https://www.marktechpost.com) represents an important development. This opens possibilities for on-device fine-tuning with RL objectives, enabling continuous improvement of models based on user feedback and real-world performance without requiring external API calls or centralised training infrastructure.
+For local LLM practitioners interested in moving beyond simple inference to build adaptive, learning-based systems, [Molt](https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/) represents an important development. This opens possibilities for on-device fine-tuning with RL objectives, enabling continuous improvement of models based on user feedback and real-world performance without requiring external API calls or centralised training infrastructure.
 
 ---
-*Source: [MarkTechPost](https://www.marktechpost.com) · Relevance: 8/10*
+*Source: [MarkTechPost](https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/) · Relevance: 8/10*

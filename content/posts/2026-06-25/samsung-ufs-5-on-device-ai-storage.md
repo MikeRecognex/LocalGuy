@@ -26,4 +26,4 @@ For local LLM deployment practitioners, UFS 5.0 adoption in next-generation devi
 As Samsung integrates UFS 5.0 into their Galaxy phones and tablets, and as the standard proliferates across Android devices, developers can optimize inference pipelines to better utilize faster storage. Combined with ARM processors and dedicated AI accelerators, UFS 5.0 devices will provide a more balanced platform for running open-source models locally.
 
 ---
-*Source: [Google News](https://www.samsung.com/) · Relevance: 8/10*
+*Source: [Google News](https://news.samsung.com/ca/samsung-unveils-ufs-5-0-solution-for-next-gen-on-device-ai-applications) · Relevance: 8/10*

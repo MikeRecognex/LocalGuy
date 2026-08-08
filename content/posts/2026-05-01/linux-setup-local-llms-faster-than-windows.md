@@ -39,4 +39,4 @@ Windows introduces friction through driver conflicts, dependency version mismatc
 For serious local LLM practitioners, this suggests reconsidering development and deployment environments. Whether using bare metal Linux, Docker containers, or cloud VMs, the time savings compound across development iterations, model testing, and production deployments. The finding reinforces Linux's position as the de facto standard for edge AI infrastructure despite Windows' desktop popularity.
 
 ---
-*Source: [MakeUseOf](https://www.makeuseof.com) · Relevance: 8/10*
+*Source: [MakeUseOf](https://www.makeuseof.com/switched-to-linux-for-local-llms-setup-took-minutes/) · Relevance: 8/10*

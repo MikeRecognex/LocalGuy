@@ -31,7 +31,7 @@ KV cache management is one of the most pressing challenges for anyone running la
 
 This guide explores why KV cache becomes such a bottleneck during inference, examining the memory requirements across different model sizes and sequence lengths. It covers practical mitigation techniques including attention variants (like Flash Attention), dynamic quantisation of cache tensors, and strategic batching approaches that allow you to squeeze more performance from limited VRAM.
 
-For local LLM deployments, understanding KV cache dynamics is essential for balancing quality, speed, and hardware constraints. Whether you're optimising for consumer GPUs or edge devices, [this survival guide](https://www.sitepoint.com) provides the technical depth needed to make informed architectural decisions.
+For local LLM deployments, understanding KV cache dynamics is essential for balancing quality, speed, and hardware constraints. Whether you're optimising for consumer GPUs or edge devices, [this survival guide](https://www.sitepoint.com/kv-cache-survival-guide-local-llms/) provides the technical depth needed to make informed architectural decisions.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 10/10*
+*Source: [SitePoint](https://www.sitepoint.com/kv-cache-survival-guide-local-llms/) · Relevance: 10/10*

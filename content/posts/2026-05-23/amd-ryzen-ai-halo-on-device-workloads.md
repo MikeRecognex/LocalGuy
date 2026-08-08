@@ -36,7 +36,7 @@ AMD's latest processor announcements directly address the hardware gap for local
 
 These processors are particularly significant for local LLM practitioners because they include optimized matrix multiplication units and dedicated memory hierarchies that can accelerate quantized model inference. The developer platform support suggests strong compiler and framework optimization from AMD, which means tools like llama.cpp, Ollama, and vLLM could see substantial performance gains on these architectures.
 
-[SMBtech has the full technical details](https://www.smbtech.com) on specifications and expected performance. Developers targeting Windows and Linux laptops should monitor driver maturity and framework support, as these could become compelling alternatives to M-series Macs for portable local LLM deployment.
+[SMBtech has the full technical details](https://smbtech.au/news/amd-unveils-ryzen-ai-halo-developer-platform-and-ryzen-ai-max-pro-400-series-for-on-device-ai-workloads/) on specifications and expected performance. Developers targeting Windows and Linux laptops should monitor driver maturity and framework support, as these could become compelling alternatives to M-series Macs for portable local LLM deployment.
 
 ---
-*Source: [SMBtech](https://www.smbtech.com) · Relevance: 8/10*
+*Source: [SMBtech](https://smbtech.au/news/amd-unveils-ryzen-ai-halo-developer-platform-and-ryzen-ai-max-pro-400-series-for-on-device-ai-workloads/) · Relevance: 8/10*

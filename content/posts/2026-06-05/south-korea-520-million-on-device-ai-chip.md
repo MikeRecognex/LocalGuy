@@ -29,4 +29,4 @@ This government-level funding highlights an important industry trend: as local L
 For the global local LLM community, this investment signals that on-device AI is transitioning from a niche concern to mainstream infrastructure priority. As more countries develop domestic chip capabilities optimized for inference, practitioners can expect greater hardware diversity, increased competition driving down costs, and more vendor-specific optimization opportunities. The long-term effect should accelerate the timeline toward ubiquitous local LLM deployment on consumer and enterprise devices.
 
 ---
-*Source: [Google News](https://www.digitimes.com) · Relevance: 7/10*
+*Source: [Google News](https://www.digitimes.com/news/a20260604VL215/budget-on-device-ai-chips-development-government.html) · Relevance: 7/10*

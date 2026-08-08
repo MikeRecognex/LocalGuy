@@ -38,4 +38,4 @@ The significance lies in the memory hierarchy: modern LLM inference is I/O bound
 For the local LLM community, this hardware evolution is quietly enabling the next generation of edge models. As storage bandwidth increases, even aggressive quantisation schemes (int4, int3) become less necessary, allowing practitioners to deploy models with better quality-to-size tradeoffs on consumer devices.
 
 ---
-*Source: [Google News](https://www.sammyfans.com) · Relevance: 7/10*
+*Source: [Google News](https://www.sammyfans.com/2026/08/02/kioxia-ufs-5-0-and-pcie-6-0-ai-nand/) · Relevance: 7/10*

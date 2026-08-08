@@ -34,4 +34,4 @@ For local LLM practitioners, this study provides concrete evidence that on-devic
 This research also highlights an emerging use case: lightweight domain-specific models running on consumer CPUs and integrated NPUs for business applications. As AMD, Intel, and Qualcomm continue optimizing their processors for AI workloads, the economics of local inference versus cloud APIs become increasingly favorable, especially for organizations prioritizing data privacy or requiring offline-capable systems.
 
 ---
-*Source: [EIN News](https://einnews.com) · Relevance: 7/10*
+*Source: [EIN News](https://www.einnews.com/pr_news/930560537/new-third-party-study-shows-how-amd-ryzen-ai-laptops-can-give-digital-nomads-their-workweek-back) · Relevance: 7/10*

@@ -35,4 +35,4 @@ For local LLM practitioners, this validates investment in edge inference techniq
 The push toward on-device Gemma models also signals that usable, practical AI is moving from the cloud to the edge—a fundamental shift that makes local deployment skills and infrastructure more valuable for developers building privacy-preserving and responsive applications.
 
 ---
-*Source: [Pkrevenue.com](https://pkrevenue.com) · Relevance: 8/10*
+*Source: [Pkrevenue.com](https://pkrevenue.com/google-expands-on-device-ai-for-pixel-phones-with-gemma-4/) · Relevance: 8/10*

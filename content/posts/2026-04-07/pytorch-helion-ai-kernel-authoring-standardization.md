@@ -41,4 +41,4 @@ For local LLM practitioners, better kernel standardization translates to improve
 The PyTorch Foundation's backing gives this initiative credibility and resources. As Helion matures, it could become the standard approach for high-performance kernel development in the open-source AI space, benefiting everyone from framework maintainers to application developers building on local models. Better infrastructure at this level unlocks faster iteration and more efficient use of hardware resources.
 
 ---
-*Source: [Google News](https://www.streetinsider.com) · Relevance: 7/10*
+*Source: [Google News](https://www.streetinsider.com/PRNewswire/PyTorch+Foundation+Welcomes+Helion+as+a+Foundation-Hosted+Project+to+Standardize+Open,+Portable,+and+Accessible+AI+Kernel+Authoring/26278253.html) · Relevance: 7/10*

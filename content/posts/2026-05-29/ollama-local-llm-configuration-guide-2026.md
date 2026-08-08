@@ -39,4 +39,4 @@ The article covers critical configuration parameters including context window si
 Practical tuning transforms Ollama from a convenient interface into a performant inference engine. The guide's focus on real-world configuration tradeoffs—balancing response quality, speed, and resource usage—makes it valuable reference material for anyone operating local LLMs in production environments.
 
 ---
-*Source: [Google News](https://kdnuggets.com) · Relevance: 8/10*
+*Source: [Google News](https://www.kdnuggets.com/tweaking-local-language-model-settings-with-ollama) · Relevance: 8/10*

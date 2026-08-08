@@ -36,4 +36,4 @@ Multi-token prediction can dramatically reduce latency and improve throughput on
 For deployment teams evaluating local alternatives to cloud APIs, monitoring this feature's maturation from beta to stable release should be a priority. Early adopters may find significant performance wins by integrating multi-token prediction into their inference pipelines.
 
 ---
-*Source: [Startup Fortune](https://news.startupfortune.com) · Relevance: 9/10*
+*Source: [Startup Fortune](https://startupfortune.com/llamacpp-now-supports-multi-token-prediction-in-beta-and-the-implications-for-local-ai-tooling-are-bigger-than-the-pr-suggests/) · Relevance: 9/10*

@@ -35,7 +35,7 @@ Intel has released llm-scaler-vllm version 1.4, bringing updated components and 
 
 The addition of Arc Pro B70 support expands the hardware options available for on-device inference, particularly for professionals and enterprises using Intel workstations. This toolkit bridges the gap between high-performance cloud inference and local deployment, allowing practitioners to run larger models efficiently without relying on external APIs.
 
-For local LLM enthusiasts, this release reinforces the growing ecosystem of GPU-specific optimizations. Check out the [full details at Phoronix](https://www.phoronix.com) to understand how these updates affect inference speeds and model compatibility on your Intel hardware.
+For local LLM enthusiasts, this release reinforces the growing ecosystem of GPU-specific optimizations. Check out the [full details at Phoronix](https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.4) to understand how these updates affect inference speeds and model compatibility on your Intel hardware.
 
 ---
-*Source: [Phoronix](https://www.phoronix.com) · Relevance: 9/10*
+*Source: [Phoronix](https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.4) · Relevance: 9/10*

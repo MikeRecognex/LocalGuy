@@ -35,4 +35,4 @@ For teams deploying models on resource-constrained devices, these techniques off
 The guidance is particularly valuable for practitioners building local LLM systems because it bridges the capability gap created by model size constraints. By applying these techniques systematically, teams can extend the useful range of compact models—like the Gemma or Mistral series optimized for local inference—making local deployment viable for more complex use cases.
 
 ---
-*Source: [Oracle Blogs](https://blogs.oracle.com) · Relevance: 7/10*
+*Source: [Oracle Blogs](https://blogs.oracle.com/developers/16-ways-to-make-a-small-language-model-think-bigger) · Relevance: 7/10*

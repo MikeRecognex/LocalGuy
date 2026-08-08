@@ -49,4 +49,4 @@ Native vector support in SQL Server is significant for enterprises and individua
 For local LLM deployments, this development enables simpler architectural decisions, particularly for organizations already using SQL Server. Teams can now implement semantic search and RAG workflows without introducing additional infrastructure dependencies, making local LLM applications more maintainable and cost-effective. This trend of integrating vector capabilities into mainstream databases reflects growing maturity in the local AI ecosystem.
 
 ---
-*Source: [Let's Data Science](https://www.letsdatascience.com/) · Relevance: 7/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/sql-server-2025-adds-built-in-chunking-and-vector-support-0c6d8e04) · Relevance: 7/10*

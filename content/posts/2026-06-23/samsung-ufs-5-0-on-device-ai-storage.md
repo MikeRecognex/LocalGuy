@@ -25,4 +25,4 @@ For practitioners deploying LLMs on mobile devices and edge hardware, faster sto
 This development reflects the broader industry shift toward practical on-device AI, where reducing memory bandwidth bottlenecks is as important as optimizing compute. Local LLM enthusiasts should monitor which devices adopt UFS 5.0, as storage speed will become a critical specification for evaluating on-device inference performance alongside GPU memory and bandwidth.
 
 ---
-*Source: [Samsung](https://samsung.com) · Relevance: 8/10*
+*Source: [Samsung](https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications) · Relevance: 8/10*

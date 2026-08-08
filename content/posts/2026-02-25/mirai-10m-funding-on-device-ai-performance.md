@@ -35,4 +35,4 @@ For the local LLM community, this signals validation of a core thesis: there is 
 The competitive pressure created by well-funded teams advancing on-device inference performance likely benefits the entire ecosystem through open-source contributions, published research, and market validation of local deployment approaches over cloud-dependent alternatives.
 
 ---
-*Source: [AI Insider](https://www.aiinsider.com) · Relevance: 8/10*
+*Source: [AI Insider](https://theaiinsider.tech/2026/02/24/mirai-announces-10m-to-advance-on-device-ai-performance-for-consumer-devices/) · Relevance: 8/10*

@@ -37,4 +37,4 @@ For practitioners working with agentic systems, containerization is particularly
 The guide serves as a practical reference for teams standardizing their local LLM infrastructure. Whether you're self-hosting an Ollama instance, running a vLLM inference server, or building custom agent applications, containerization best practices ensure your deployment remains maintainable and portable as requirements evolve.
 
 ---
-*Source: [Google News](https://www.kdnuggets.com) · Relevance: 8/10*
+*Source: [Google News](https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers) · Relevance: 8/10*

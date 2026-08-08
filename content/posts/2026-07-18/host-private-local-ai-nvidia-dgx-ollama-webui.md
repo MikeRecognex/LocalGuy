@@ -30,7 +30,7 @@ NVIDIA DGX Spark systems combined with Ollama and Open WebUI provide a powerful,
 
 Ollama has become the de facto standard for easy local model management, while Open WebUI provides a polished interface comparable to ChatGPT. On enterprise-grade NVIDIA hardware, this combination delivers exceptional inference performance with minimal setup complexity. The integration handles everything from model downloading and quantization to multi-user support and conversation history.
 
-Learn more about building enterprise-grade local AI infrastructure at [Geeky Gadgets](https://www.geeky-gadgets.com). This approach eliminates vendor lock-in and reduces long-term inference costs significantly compared to cloud API pricing.
+Learn more about building enterprise-grade local AI infrastructure at [Geeky Gadgets](https://www.geeky-gadgets.com/private-llm-server-setup/). This approach eliminates vendor lock-in and reduces long-term inference costs significantly compared to cloud API pricing.
 
 ---
-*Source: [Google News](https://www.geeky-gadgets.com) · Relevance: 9/10*
+*Source: [Google News](https://www.geeky-gadgets.com/private-llm-server-setup/) · Relevance: 9/10*

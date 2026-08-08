@@ -36,4 +36,4 @@ For the local LLM community, this validates the importance of quantisation and c
 The success of such initiatives directly impacts the tools and frameworks available to practitioners, as improvements in compression efficiency become embedded in frameworks like CoreML and eventually flow into open-source projects used for local deployment across devices.
 
 ---
-*Source: [TradingKey](https://tradingkey.com) · Relevance: 8/10*
+*Source: [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262029758-apple-prismml-ai-compression-iphone-qwen-baba-siri-tradingkey) · Relevance: 8/10*

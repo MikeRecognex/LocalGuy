@@ -41,4 +41,4 @@ Ollama's Docker Compose integration simplifies multi-container orchestration, en
 This type of deployment guide directly addresses the operational gap between running models locally on a development machine and maintaining them reliably in production environments, making it invaluable for teams standardizing on self-hosted inference stacks.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 9/10*
+*Source: [SitePoint](https://www.sitepoint.com/ollama-local-llm-production-deployment-docker/) · Relevance: 9/10*

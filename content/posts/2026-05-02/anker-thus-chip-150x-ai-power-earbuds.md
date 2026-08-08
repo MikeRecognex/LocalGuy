@@ -42,4 +42,4 @@ This development is noteworthy because it demonstrates how hardware manufacturer
 For local LLM practitioners, the proliferation of specialized inference chips suggests that hardware optimization will increasingly drive performance gains alongside software techniques. This opens opportunities for developers to target these custom silicon platforms with optimized quantization strategies and model architectures designed for ultra-low-power inference.
 
 ---
-*Source: [Gizmochina](https://www.gizmochina.com/) · Relevance: 7/10*
+*Source: [Gizmochina](https://www.gizmochina.com/2026/05/01/anker-thus-ai-chip-launch-earbuds/) · Relevance: 7/10*

@@ -27,7 +27,7 @@ Qualcomm's introduction of Snapdragon START represents a major hardware mileston
 
 For the local LLM community, Snapdragon START's launch signals important market validation and accelerates the hardware trajectory needed to run meaningful language models on consumer devices. The platform is specifically optimized for latency-sensitive applications where cloud connectivity isn't reliable or practical. This development directly impacts frameworks like Ollama and llama.cpp, as manufacturers can now offer better hardware support for local inference across new device categories.
 
-The implications extend to quantization strategies and model optimization—as specialized edge hardware becomes more prevalent, local LLM deployment frameworks are increasingly tailored to leverage these capabilities. [Qualcomm's Snapdragon START announcement details the platform's AI inference capabilities and timeline to market](https://techtimes.com).
+The implications extend to quantization strategies and model optimization—as specialized edge hardware becomes more prevalent, local LLM deployment frameworks are increasingly tailored to leverage these capabilities. [Qualcomm's Snapdragon START announcement details the platform's AI inference capabilities and timeline to market](https://www.techtimes.com/articles/318634/20260619/qualcomm-launches-snapdragon-start-speed-ai-smart-glasses-market.htm).
 
 ---
-*Source: [Tech Times](https://techtimes.com) · Relevance: 8/10*
+*Source: [Tech Times](https://www.techtimes.com/articles/318634/20260619/qualcomm-launches-snapdragon-start-speed-ai-smart-glasses-market.htm) · Relevance: 8/10*

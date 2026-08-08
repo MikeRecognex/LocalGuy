@@ -31,7 +31,7 @@ MiniMax's M2.7 model represents a focused effort to optimize agentic AI workload
 
 For self-hosted deployment practitioners, this release highlights the importance of hardware-specific optimization. Rather than targeting generic inference scenarios, M2.7 is tuned for NVIDIA's GPUs and acceleration frameworks, making it an excellent choice for local deployments on data center or workstation hardware. This specialization allows operators to maximize resource utilization and support more concurrent agentic workflows on their infrastructure.
 
-The focus on agentic workflows is particularly timely as the local LLM community increasingly shifts toward building autonomous agents and complex reasoning systems. Learn more about this model and its optimization approach at [NVIDIA Developer](https://developer.nvidia.com).
+The focus on agentic workflows is particularly timely as the local LLM community increasingly shifts toward building autonomous agents and complex reasoning systems. Learn more about this model and its optimization approach at [NVIDIA Developer](https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/).
 
 ---
-*Source: [Google News](https://developer.nvidia.com) · Relevance: 8/10*
+*Source: [Google News](https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/) · Relevance: 8/10*

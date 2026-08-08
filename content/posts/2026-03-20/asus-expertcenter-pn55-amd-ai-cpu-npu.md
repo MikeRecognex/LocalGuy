@@ -37,4 +37,4 @@ The significance for local LLM practitioners lies in the emerging class of purpo
 This reflects a broader shift: specialized hardware for local AI inference is transitioning from bleeding-edge to commercially available. For organizations deploying LLMs at scale across multiple edge locations—customer service bots in retail, predictive maintenance in manufacturing, autonomous systems—platforms like the PN55 provide a turnkey solution with industrial reliability. The availability of such systems validates the business case for edge inference and signals that local LLM deployment is entering the mainstream commercial market.
 
 ---
-*Source: [SMBtech](https://smbtech.com) · Relevance: 7/10*
+*Source: [SMBtech](https://smbtech.au/news/asus-launches-expertcenter-pn55-ruggedised-industrial-mini-pc-with-amd-ai-cpu-and-55-tops-npu/) · Relevance: 7/10*

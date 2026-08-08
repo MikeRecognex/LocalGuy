@@ -39,4 +39,4 @@ This implementation demonstrates practical solutions to challenges that local LL
 For those exploring edge deployment on extremely resource-constrained devices, this project provides a valuable reference. It likely leverages quantized models and optimized inference frameworks like ONNX Runtime or TensorFlow Lite, techniques directly applicable to running smaller language models on IoT and embedded systems.
 
 ---
-*Source: [Google News](https://www.cnxsoftware.com) · Relevance: 8/10*
+*Source: [Google News](https://www.cnx-software.com/2026/05/28/privacy-focused-open-source-raspberry-pi-zero-2w-diy-security-camera-offers-end-to-end-encryption-on-device-ai/) · Relevance: 8/10*

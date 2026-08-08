@@ -31,4 +31,4 @@ For local LLM practitioners, this implementation serves as an excellent real-wor
 The project highlights the maturity of the open-source LLM ecosystem and the availability of lightweight, efficient models suitable for continuous operation on consumer hardware. As more developers share practical implementations like this, the barrier to entry for local LLM deployment continues to lower.
 
 ---
-*Source: [Google News](https://www.howtogeek.com) · Relevance: 9/10*
+*Source: [Google News](https://www.howtogeek.com/bedside-ai-assistant-reads-me-the-news/) · Relevance: 9/10*

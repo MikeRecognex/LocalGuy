@@ -28,4 +28,4 @@ This democratizes local LLM deployment by removing technical barriers for non-ex
 For the broader local LLM ecosystem, tools like this represent essential infrastructure that improves user experience and accessibility. By making hardware-model matching transparent and automated, LLM Checker reduces adoption friction and helps practitioners make informed deployment decisions based on realistic performance expectations.
 
 ---
-*Source: [Google News](https://gigazine.net) · Relevance: 7/10*
+*Source: [Google News](https://gigazine.net/gsc_news/en/20260606-llm-checker/) · Relevance: 7/10*

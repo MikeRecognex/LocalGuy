@@ -51,4 +51,4 @@ These infrastructure improvements matter because they reduce the gap between res
 The addition of multi-modal support acknowledges the shift toward vision-language applications in local inference, enabling practitioners to deploy models like LLaVA and similar architectures with better performance characteristics on NVIDIA hardware. These updates benefit the broader local LLM ecosystem by maturing the infrastructure layer that powers on-device AI applications.
 
 ---
-*Source: [MarkTechPost](https://marktechpost.com) · Relevance: 7/10*
+*Source: [MarkTechPost](https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/) · Relevance: 7/10*

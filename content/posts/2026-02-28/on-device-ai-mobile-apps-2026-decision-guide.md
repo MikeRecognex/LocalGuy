@@ -33,4 +33,4 @@ For local LLM practitioners, this guidance is increasingly important as edge-opt
 The framework helps teams evaluate which inference workloads justify local deployment versus cloud fallback strategies, ultimately pushing the boundary of what's practical to run directly on consumer hardware in 2026.
 
 ---
-*Source: [BBN Times](https://www.bbntimes.com) · Relevance: 8/10*
+*Source: [BBN Times](https://www.bbntimes.com/technology/on-device-ai-in-mobile-apps-what-should-run-on-the-phone-vs-the-cloud-a-2026-decision-guide) · Relevance: 8/10*

@@ -31,11 +31,11 @@ mentions:
 status: published
 ---
 
-Production systems often struggle with cloud API dependencies, and a [Towards Data Science case study](https://towardsdatascience.com) documents how switching to local small language models (SLMs) eliminated pipeline failures tied to API rate limits and outages. By replacing GPT-4 calls with locally-running SLMs, the team gained deterministic behavior, reduced latency, and achieved substantial cost savings without sacrificing output quality for their specific use case.
+Production systems often struggle with cloud API dependencies, and a [Towards Data Science case study](https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/) documents how switching to local small language models (SLMs) eliminated pipeline failures tied to API rate limits and outages. By replacing GPT-4 calls with locally-running SLMs, the team gained deterministic behavior, reduced latency, and achieved substantial cost savings without sacrificing output quality for their specific use case.
 
 This real-world example challenges the assumption that cloud APIs are necessary for production AI workloads. For CI/CD systems, local inference offers stability benefits: no external service dependencies, consistent performance regardless of cloud provider load, and immediate feedback without network round-trips. The cost comparison alone makes a compelling argument—eliminating per-API-call charges for routinely-executed AI operations.
 
 For teams evaluating local vs. cloud AI deployment, this case study provides concrete metrics on reliability, cost, and performance. The success demonstrates that for well-defined tasks where specialized SLMs perform well, local deployment is not just technically feasible but operationally superior to cloud alternatives. This pattern is likely to drive broader adoption of local inference in CI/CD and other production systems.
 
 ---
-*Source: [Towards Data Science](https://towardsdatascience.com) · Relevance: 8/10*
+*Source: [Towards Data Science](https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/) · Relevance: 8/10*

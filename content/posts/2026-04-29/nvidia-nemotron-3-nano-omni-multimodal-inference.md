@@ -18,4 +18,4 @@ For local LLM practitioners, this release is significant because it addresses a 
 The model's open-source nature means the community can optimize it further using quantization techniques, distillation, and platform-specific frameworks like Ollama, llama.cpp, and MLX. This aligns perfectly with the broader 2026 trend toward practical on-device AI that respects user privacy while delivering sophisticated capabilities.
 
 ---
-*Source: [NVIDIA Developer](https://developer.nvidia.com) · Relevance: 9/10*
+*Source: [NVIDIA Developer](https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/) · Relevance: 9/10*
