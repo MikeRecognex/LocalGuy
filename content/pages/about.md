@@ -37,3 +37,7 @@ LocalFTW is built the way it preaches — local-first. Content is written in Obs
 ## Get Involved
 
 This is a community effort. You can [contribute a post](/contribute/), react to articles to [bookmark](/bookmarks/) them, or open an issue on GitHub to start a conversation.
+
+## Disclosure
+
+I am the founder of Revyzor, a commercial product in the local LLM space. Revyzor is never given preferential coverage here. Any post that mentions it says so at the point of mention.

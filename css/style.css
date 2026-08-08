@@ -1362,6 +1362,17 @@ footer p:last-child a:hover {
   margin: 0 0 0.4rem;
 }
 
+.sponsor-disclosure {
+  font-size: 0.85rem;
+  color: #e8f5f0;
+  line-height: 1.5;
+  margin: 0 0 0.75rem;
+  padding: 0.6rem 0.8rem;
+  border-left: 3px solid #5ce0c0;
+  background: rgba(92, 224, 192, 0.08);
+  border-radius: 0 6px 6px 0;
+}
+
 .sponsor-stats {
   font-size: 0.78rem;
   color: #6a9e94;

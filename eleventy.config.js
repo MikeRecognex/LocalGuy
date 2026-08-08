@@ -32,6 +32,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.amendLibrary("md", (mdLib) => {
     mdLib.use(obsidianCallouts);
   });
+
+  // Commercial-interest disclosure, for use immediately adjacent to any Revyzor
+  // mention or revyzor.com link. Single source of wording — see /about/.
+  // Usage: put {% disclosure %} on its own line, next to the mention.
+  // Equivalent hand-written form (renders in Obsidian too):
+  //   > [!info] Disclosure
+  //   > Revyzor is my own product.
+  eleventyConfig.addShortcode(
+    "disclosure",
+    () => "> [!info] Disclosure\n> Revyzor is my own product.\n"
+  );
   // Syntax highlighting for fenced code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
