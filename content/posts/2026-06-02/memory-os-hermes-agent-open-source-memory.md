@@ -42,4 +42,4 @@ Local LLM agents have historically suffered from context management limitations:
 Built on top of the Hermes agent framework, Memory OS is designed with local deployment in mind. The modular architecture means practitioners can adapt each memory layer independently—swapping retrieval backends, adjusting compression strategies, or tuning cache policies without retraining models. For anyone building sophisticated local AI agents with ollama or llama.cpp, Memory OS provides a reference implementation for handling the practical engineering challenges that emerge once you move beyond simple inference to multi-step reasoning and long-horizon tasks.
 
 ---
-*Source: [Google News](https://marktechpost.com) · Relevance: 8/10*
+*Source: [Google News](https://www.marktechpost.com/2026/06/01/meet-memory-os-a-6-layer-open-source-memory-stack-built-on-top-of-hermes-agent/) · Relevance: 8/10*

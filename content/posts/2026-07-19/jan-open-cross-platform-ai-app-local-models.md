@@ -31,7 +31,7 @@ Jan represents an important addition to the ecosystem of tools designed to make 
 
 The significance of Jan lies in its potential to democratize local LLM deployment. While frameworks like Ollama and llama.cpp have driven adoption among developers, Jan targets a broader audience by providing a graphical interface and built-in support for multiple model formats. The inclusion of proprietary models alongside open-source options creates a pragmatic platform where users can experiment with different approaches to finding the right model-performance trade-off for their use case.
 
-For the local LLM community, [Jan](https://desde-linux.net) exemplifies the maturation of the ecosystem toward production-ready applications. As more user-friendly tools emerge, adoption of on-device inference will likely accelerate, driving demand for better quantization techniques, memory optimization, and hardware-specific acceleration. The tool's cross-platform nature also ensures that local inference remains accessible regardless of the underlying hardware.
+For the local LLM community, [Jan](https://blog.desdelinux.net/en/January/) exemplifies the maturation of the ecosystem toward production-ready applications. As more user-friendly tools emerge, adoption of on-device inference will likely accelerate, driving demand for better quantization techniques, memory optimization, and hardware-specific acceleration. The tool's cross-platform nature also ensures that local inference remains accessible regardless of the underlying hardware.
 
 ---
-*Source: [Google News](https://desde-linux.net) · Relevance: 7/10*
+*Source: [Google News](https://blog.desdelinux.net/en/January/) · Relevance: 7/10*

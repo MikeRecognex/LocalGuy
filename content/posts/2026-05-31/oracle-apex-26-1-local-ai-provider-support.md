@@ -31,4 +31,4 @@ For practitioners deploying local LLMs in enterprise environments, Oracle's appr
 This development suggests that commercial platforms are beginning to commoditize the integration layer for local inference, making it more accessible to organizations without dedicated ML infrastructure expertise. Practitioners evaluating APEX should assess the specific local deployment patterns supported and whether existing quantized model formats (GGUF, etc.) integrate cleanly with the provided interfaces.
 
 ---
-*Source: [Oracle Blogs](https://blogs.oracle.com) · Relevance: 7/10*
+*Source: [Oracle Blogs](https://blogs.oracle.com/apex/expanding-ai-choice-with-out-of-the-box-support-for-major-ai-providers-in-oracle-apex-26-1) · Relevance: 7/10*

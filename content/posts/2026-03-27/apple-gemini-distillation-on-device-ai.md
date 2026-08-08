@@ -37,4 +37,4 @@ This strategy is particularly relevant for local LLM practitioners because disti
 The implications are substantial: if distillation becomes the standard approach for major AI vendors, we'll likely see more optimized model variants released specifically for on-device inference, benefiting both commercial and open-source local LLM ecosystems.
 
 ---
-*Source: [The Decoder](https://the-decoder.com) · Relevance: 9/10*
+*Source: [The Decoder](https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/) · Relevance: 9/10*

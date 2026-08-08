@@ -32,4 +32,4 @@ Gemini Nano 4's deployment in consumer devices validates years of research into 
 This mainstream deployment also signals shift in how companies think about AI inference architecture. As on-device models become standard features rather than experimental tech, the demand for tools, frameworks, and documentation supporting local deployment will only increase. Practitioners and developers building tools for local inference are now working in an expanding market with clear commercial validation.
 
 ---
-*Source: [SamMobile](https://sammobile.com) · Relevance: 8/10*
+*Source: [SamMobile](https://www.sammobile.com/news/samsungs-newest-foldable-phones-use-googles-gemini-nano-4-on-device-ai-model/) · Relevance: 8/10*

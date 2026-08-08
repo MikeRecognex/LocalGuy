@@ -41,4 +41,4 @@ Local agents are a compelling use case for on-device inference because they enab
 For the local LLM community, MiniCPM5-1B signals the maturation of the sub-billion parameter model tier. As these ultra-compact models improve in capability, they expand the hardware targets available for deployment—from smartphones to edge servers to embedded devices. The combination of small size, reasonable performance, and agent support makes this class of models increasingly practical for real-world applications.
 
 ---
-*Source: [Let's Data Science](https://www.letsdatascience.com) · Relevance: 8/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/openbmb-runs-local-agents-with-minicpm5-1b-27472042) · Relevance: 8/10*

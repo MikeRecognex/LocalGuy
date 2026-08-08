@@ -40,4 +40,4 @@ The breadth of this support is significant because many organizations already ha
 For practitioners evaluating hardware for local deployment, this announcement validates AMD as a viable alternative to NVIDIA. Whether you're running on existing Ryzen workstations, EPYC servers, or investing in RDNA GPUs, you now have confidence that you can deploy Gemma 4 effectively. This competitive pressure from AMD benefits the entire ecosystem by ensuring model developers remain committed to multi-platform support.
 
 ---
-*Source: [Google News](https://www.wccftech.com) · Relevance: 9/10*
+*Source: [Google News](https://wccftech.com/amd-rolls-out-gemma-4-model-support-across-full-range-of-gpus-cpus/) · Relevance: 9/10*

@@ -45,4 +45,4 @@ For local LLM practitioners, this matters because it shows how the inference eco
 The development also signals AMD's competitive positioning in the AI accelerator market and suggests we'll see continued fragmentation of inference tooling across hardware platforms. Practitioners should monitor whether similar optimisations emerge for other processors (Snapdragon, Apple Silicon, Intel Meteor Lake) to understand the optimal inference engine for their target hardware.
 
 ---
-*Source: [Startup Fortune](https://startup.fortune.com) · Relevance: 8/10*
+*Source: [Startup Fortune](https://startupfortune.com/lucebox-brings-faster-local-ai-inference-to-amd-strix-halo/) · Relevance: 8/10*

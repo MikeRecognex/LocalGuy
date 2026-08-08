@@ -31,4 +31,4 @@ The macOS-specific release is strategically significant given Apple's growing fo
 For macOS-focused developers and organizations, this represents a practical pathway to private, local Gemini inference without cloud dependencies. The gallery approach—reminiscent of successful models in open-source package management—should accelerate adoption by removing configuration friction. As more platforms receive similar tooling, local LLM deployment transitions from technical specialty to accessible developer practice.
 
 ---
-*Source: [Google News](https://www.technobezz.com) · Relevance: 7/10*
+*Source: [Google News](https://www.technobezz.com/news/google-launches-ai-edge-gallery-on-macos-for-running-gemini-models-locally) · Relevance: 7/10*

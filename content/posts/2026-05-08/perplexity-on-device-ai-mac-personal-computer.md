@@ -37,4 +37,4 @@ The move aligns with broader industry trends toward edge computing and privacy-p
 For the local LLM community, Perplexity's implementation demonstrates real-world viability of on-device inference at scale. It validates the investment in optimization techniques like quantization and distillation, showing that these methods enable practical products that users actually value. As more commercial applications adopt similar approaches, the ecosystem of tools and models optimized for local deployment will continue to expand.
 
 ---
-*Source: [Google News](https://business-standard.com) · Relevance: 8/10*
+*Source: [Google News](https://www.business-standard.com/technology/tech-news/perplexity-brings-on-device-ai-workflow-to-macs-with-personal-computer-126050800493_1.html) · Relevance: 8/10*

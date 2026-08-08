@@ -32,7 +32,7 @@ Quantisation remains the most practical way to run large models on consumer hard
 
 The guide examines how quantisation levels affect different model architectures and task types, from general chat and coding to instruction-following and reasoning. Q4 quantisation can reduce model size by 75% with acceptable quality loss for many applications, Q6 offers a middle ground, while Q8 provides near-original precision at minimal compression. The analysis includes benchmarks across popular local inference engines like llama.cpp and Ollama.
 
-For local LLM practitioners, [this decision framework](https://www.sitepoint.com) helps eliminate guesswork when optimising models for specific hardware. Understanding these tradeoffs is fundamental to deploying production-ready systems on-device, enabling informed choices about model selection, quantisation, and hardware requirements.
+For local LLM practitioners, [this decision framework](https://www.sitepoint.com/q4-vs-q6-vs-q8-quantization-local-llms/) helps eliminate guesswork when optimising models for specific hardware. Understanding these tradeoffs is fundamental to deploying production-ready systems on-device, enabling informed choices about model selection, quantisation, and hardware requirements.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 10/10*
+*Source: [SitePoint](https://www.sitepoint.com/q4-vs-q6-vs-q8-quantization-local-llms/) · Relevance: 10/10*

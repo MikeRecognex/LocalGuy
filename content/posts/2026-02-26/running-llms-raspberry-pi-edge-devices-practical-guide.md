@@ -31,11 +31,11 @@ mentions:
 status: published
 ---
 
-Edge device inference represents the frontier of true local LLM deployment, and [this practical guide](https://www.sitepoint.com) tackles the unique challenges of running models on resource-constrained hardware like Raspberry Pi. This is particularly relevant as quantization techniques and optimized inference engines continue to improve, making it feasible to run capable models on devices with single-digit GB of RAM.
+Edge device inference represents the frontier of true local LLM deployment, and [this practical guide](https://www.sitepoint.com/llms-raspberry-pi-edge/) tackles the unique challenges of running models on resource-constrained hardware like Raspberry Pi. This is particularly relevant as quantization techniques and optimized inference engines continue to improve, making it feasible to run capable models on devices with single-digit GB of RAM.
 
 The guide likely covers essential techniques including model quantization (int8, int4), memory-efficient attention mechanisms, and hardware-specific optimizations. These constraints push practitioners to make strategic choices about model size, quantization levels, and inference patterns that don't apply to well-resourced servers.
 
 For the local LLM community, this represents an important capability frontier—being able to deploy models to edge devices unlocks use cases in IoT, embedded systems, and scenarios where server deployment isn't feasible. Understanding these constraints and solutions is essential for the next generation of privacy-first, latency-sensitive applications.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 9/10*
+*Source: [SitePoint](https://www.sitepoint.com/llms-raspberry-pi-edge/) · Relevance: 9/10*

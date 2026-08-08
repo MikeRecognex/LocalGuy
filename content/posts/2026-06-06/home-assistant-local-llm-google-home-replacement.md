@@ -31,4 +31,4 @@ The benefits are compelling: zero latency for voice commands, complete privacy a
 For the local LLM community, this represents validation of a major use case—smart home automation—and demonstrates that practitioners have moved beyond experimental hobby projects to practical household deployments. The experience provides valuable insights for anyone considering similar setups.
 
 ---
-*Source: [Google News](https://xda-developers.com) · Relevance: 8/10*
+*Source: [Google News](https://www.xda-developers.com/i-replaced-google-home-with-home-assistant-and-a-local-llm-and-im-not-looking-back/) · Relevance: 8/10*

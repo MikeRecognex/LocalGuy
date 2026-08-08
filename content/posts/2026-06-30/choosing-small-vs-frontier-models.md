@@ -30,4 +30,4 @@ This guide provides essential decision-making frameworks for local LLM practitio
 For practitioners planning local deployments, this resource addresses the core question: which model should you actually run? The guidance covers quantization trade-offs, inference speed measurements, and accuracy benchmarks across different model sizes and families. Understanding these trade-offs is crucial as the ecosystem fragments into specialized models optimized for different hardware tiers—from edge devices with limited RAM to powerful workstations capable of running larger models locally. Having a principled approach to this selection prevents costly mistakes in production deployments.
 
 ---
-*Source: [Towards Data Science](https://towardsdatascience.com) · Relevance: 7/10*
+*Source: [Towards Data Science](https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/) · Relevance: 7/10*

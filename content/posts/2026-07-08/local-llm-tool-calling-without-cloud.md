@@ -29,4 +29,4 @@ The technical achievement here is substantial: implementing reliable function ca
 For practitioners building local AI infrastructure, this represents a maturing capability. Combined with proper prompt engineering and error handling, locally-hosted tool-calling models enable building complex workflows with full data control, audit trails, and the ability to integrate with internal systems seamlessly.
 
 ---
-*Source: [XDA](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/local-llm-call-every-tool-claude-can-except-runs-own-hardware/) · Relevance: 9/10*

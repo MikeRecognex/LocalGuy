@@ -31,7 +31,7 @@ Continue.dev has emerged as a leading open-source framework for integrating loca
 
 For teams seeking to deploy local coding assistants, Continue.dev provides a vendor-neutral foundation that works with any compatible LLM. This flexibility allows organizations to choose their preferred models—whether Qwen, Llama, CodeLlama, or community variants—and maintain complete control over inference infrastructure and data privacy.
 
-[This comprehensive setup guide](https://www.sitepoint.com/) covers everything from initial configuration to advanced optimization techniques, making it accessible for developers of all skill levels to bootstrap a fully local coding AI workflow.
+[This comprehensive setup guide](https://www.sitepoint.com/continuedev-for-developers-the-complete-local-ai-coding-assistant-setup/) covers everything from initial configuration to advanced optimization techniques, making it accessible for developers of all skill levels to bootstrap a fully local coding AI workflow.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com/) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/continuedev-for-developers-the-complete-local-ai-coding-assistant-setup/) · Relevance: 8/10*

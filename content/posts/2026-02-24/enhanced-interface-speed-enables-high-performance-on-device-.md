@@ -29,4 +29,4 @@ For practitioners deploying models on edge devices, faster interface speeds tran
 This advancement complements existing optimization techniques like quantization and pruning, creating a more holistic path toward practical on-device AI that respects user privacy and reduces network bandwidth requirements.
 
 ---
-*Source: [AD HOC NEWS](https://www.adhocnews.com) · Relevance: 8/10*
+*Source: [AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/marktberichte/enhanced-interface-speed-enables-high-performance-on-device-ai-features-in/68606398) · Relevance: 8/10*

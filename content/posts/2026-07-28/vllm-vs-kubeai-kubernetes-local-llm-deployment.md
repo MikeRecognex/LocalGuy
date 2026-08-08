@@ -33,4 +33,4 @@ vLLM has established itself as the performance-focused choice with advanced feat
 The Kubernetes ecosystem is increasingly critical for local deployment scenarios where enterprises need multi-tenant support, auto-scaling, and robust observability. Understanding these framework options enables teams to make informed decisions that align with their infrastructure maturity and performance requirements.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/open-weight-ai-kubernetes/) · Relevance: 8/10*

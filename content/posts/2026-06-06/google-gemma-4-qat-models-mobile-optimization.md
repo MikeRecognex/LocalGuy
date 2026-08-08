@@ -26,4 +26,4 @@ This release addresses a critical pain point for local LLM practitioners: the ga
 For practitioners building privacy-first applications or targeting edge devices, these optimized Gemma 4 checkpoints provide a production-ready option from a major research organization. The focus on memory efficiency makes deployment viable on older phones and budget laptops, expanding the addressable hardware landscape for local inference.
 
 ---
-*Source: [Google News](https://blog.google) · Relevance: 9/10*
+*Source: [Google News](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/) · Relevance: 9/10*

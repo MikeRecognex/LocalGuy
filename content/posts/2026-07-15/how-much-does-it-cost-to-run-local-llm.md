@@ -29,4 +29,4 @@ For teams deciding between cloud APIs and local infrastructure, having accurate 
 The measured approach—rather than estimated costs—makes this particularly valuable for infrastructure planning and ROI calculations in production environments.
 
 ---
-*Source: [Towards Data Science](https://towardsdatascience.com) · Relevance: 9/10*
+*Source: [Towards Data Science](https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/) · Relevance: 9/10*

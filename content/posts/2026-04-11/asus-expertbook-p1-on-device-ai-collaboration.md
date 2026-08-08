@@ -36,4 +36,4 @@ The ExpertBook P1 showcases practical applications where local inference deliver
 For developers and ML engineers, this trend indicates growing demand for optimized models that can run efficiently on professional laptops with modest GPU resources. The ExpertBook P1 serves as a concrete example of how local LLM expertise translates into competitive advantages in the enterprise market. As more manufacturers follow this path, opportunities will expand for those skilled in deploying and optimizing models for business-class hardware.
 
 ---
-*Source: [Tech Critter](https://www.techcritter.com) · Relevance: 7/10*
+*Source: [Tech Critter](https://www.tech-critter.com/asus-expertbook-p1-launch-malaysia/) · Relevance: 7/10*

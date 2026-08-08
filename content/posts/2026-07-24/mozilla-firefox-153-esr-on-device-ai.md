@@ -32,4 +32,4 @@ This approach aligns with the broader movement toward local-first AI infrastruct
 For local LLM practitioners, this suggests growing mainstream adoption of edge inference patterns. As browsers gain native AI capabilities, the ecosystem for building, optimising, and deploying models for in-browser execution will likely expand significantly, creating new opportunities for lightweight model formats and optimisation frameworks.
 
 ---
-*Source: [gHacks](https://www.ghacks.net) · Relevance: 8/10*
+*Source: [gHacks](https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/) · Relevance: 8/10*

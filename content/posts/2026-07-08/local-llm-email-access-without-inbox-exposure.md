@@ -30,4 +30,4 @@ The approach likely involves implementing permission-scoped tool use—allowing 
 This methodology is directly applicable to other sensitive integrations (calendar, notes, documents) where local models can provide powerful automation without the privacy concerns of cloud-based alternatives.
 
 ---
-*Source: [XDA](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/gave-local-llm-email-access-without-handing-over-inbox/) · Relevance: 9/10*

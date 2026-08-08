@@ -33,4 +33,4 @@ The implications for local LLM practitioners are substantial. This data suggests
 For practitioners evaluating models for local deployment, this benchmark provides crucial market validation. The shift also indicates that the self-hosted LLM ecosystem is maturing beyond single-model dominance, with multiple competitive options available. This diversity ultimately benefits end users through better performance, lower costs, and more choice in model selection and licensing.
 
 ---
-*Source: [The New Stack](https://thenewstack.io) · Relevance: 10/10*
+*Source: [The New Stack](https://thenewstack.io/runpod-ai-infrastructure-reality/) · Relevance: 10/10*

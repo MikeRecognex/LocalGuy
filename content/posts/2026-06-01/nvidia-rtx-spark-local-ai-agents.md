@@ -35,4 +35,4 @@ This development is particularly significant for local LLM practitioners because
 For the local LLM community, RTX Spark represents a shift toward hardware-software co-design that prioritises edge deployment. This complements existing tools like Ollama, llama.cpp, and vLLM by providing the underlying GPU infrastructure optimised specifically for local inference workloads at scale.
 
 ---
-*Source: [NVIDIA Blog](https://nvidia.com) · Relevance: 9/10*
+*Source: [NVIDIA Blog](https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/) · Relevance: 9/10*

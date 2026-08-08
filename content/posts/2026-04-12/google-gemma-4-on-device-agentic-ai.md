@@ -37,7 +37,7 @@ Google's latest Gemma 4 model represents a significant milestone for local AI de
 
 This release is particularly important for the local LLM community because it demonstrates that advanced AI capabilities—traditionally requiring substantial cloud infrastructure—can now run efficiently on consumer hardware. The model's ability to handle agentic tasks (planning, tool use, decision-making) opens new possibilities for personal knowledge management systems, home automation, and privacy-sensitive applications.
 
-For practitioners deploying models locally, Gemma 4 serves as both a reference implementation and a practical tool. Its optimization for mobile and edge hardware provides insights into model architecture choices and quantization strategies that work well in resource-constrained environments. Read more about this development at [the-decoder.com](https://the-decoder.com).
+For practitioners deploying models locally, Gemma 4 serves as both a reference implementation and a practical tool. Its optimization for mobile and edge hardware provides insights into model architecture choices and quantization strategies that work well in resource-constrained environments. Read more about this development at [the-decoder.com](https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/).
 
 ---
-*Source: [Google News](https://the-decoder.com) · Relevance: 9/10*
+*Source: [Google News](https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/) · Relevance: 9/10*

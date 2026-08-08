@@ -27,7 +27,7 @@ Google has released DiffusionGemma, a novel approach to text generation that acc
 
 DiffusionGemma adapts diffusion-based generation techniques—traditionally used for image synthesis—to language modeling. Rather than generating tokens sequentially (one at a time), the model can produce multiple tokens in parallel iterations, dramatically reducing the number of forward passes required to complete generation. This architectural innovation means local deployments can serve more users simultaneously or handle the same workload on less capable hardware.
 
-For those running models on edge devices or resource-constrained servers, [Google's DiffusionGemma approach](https://venturebeat.com) represents a meaningful step toward making sophisticated language model inference practical without enterprise-grade infrastructure. The technique is particularly promising for latency-sensitive applications like local AI coding assistants, real-time chat interfaces, and embedded AI features where generation speed directly impacts user experience.
+For those running models on edge devices or resource-constrained servers, [Google's DiffusionGemma approach](https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes) represents a meaningful step toward making sophisticated language model inference practical without enterprise-grade infrastructure. The technique is particularly promising for latency-sensitive applications like local AI coding assistants, real-time chat interfaces, and embedded AI features where generation speed directly impacts user experience.
 
 ---
-*Source: [VentureBeat](https://venturebeat.com) · Relevance: 9/10*
+*Source: [VentureBeat](https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes) · Relevance: 9/10*

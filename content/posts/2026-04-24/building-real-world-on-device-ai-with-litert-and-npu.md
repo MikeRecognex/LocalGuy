@@ -32,7 +32,7 @@ Google's LiteRT framework represents a significant step forward for practitioner
 
 For local LLM deployments, LiteRT addresses one of the biggest challenges: running models on resource-constrained devices while maintaining acceptable performance. The framework optimizes model execution through quantization and pruning techniques tailored to NPU architectures, making it particularly relevant for mobile and embedded systems. This advancement opens new possibilities for on-device AI applications where connectivity or data privacy are critical concerns.
 
-The [Google LiteRT initiative](https://blog.google) demonstrates the industry's broader shift toward decentralized AI inference, complementing existing solutions like Ollama and llama.cpp by providing an official framework backed by major hardware manufacturers.
+The [Google LiteRT initiative](https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/) demonstrates the industry's broader shift toward decentralized AI inference, complementing existing solutions like Ollama and llama.cpp by providing an official framework backed by major hardware manufacturers.
 
 ---
-*Source: [Google News](https://blog.google) · Relevance: 9/10*
+*Source: [Google News](https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/) · Relevance: 9/10*

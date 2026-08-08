@@ -35,4 +35,4 @@ This development is significant for the local LLM community as it represents maj
 As the industry moves toward privacy-first and latency-critical applications, Samsung's investment in hardware-level AI infrastructure signals a shift that benefits practitioners deploying models on edge devices. This complements existing frameworks like MLX and llama.cpp that optimize for mobile and embedded systems.
 
 ---
-*Source: [Google News](https://www.sammobile.com) · Relevance: 8/10*
+*Source: [Google News](https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/) · Relevance: 8/10*

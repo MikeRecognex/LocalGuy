@@ -41,4 +41,4 @@ The guide covers essential infrastructure patterns including context management 
 Key takeaway: local LLM agent deployment requires thoughtful infrastructure choices around persistence, async processing, and graceful degradation. Rather than treating local models as drop-in replacements for cloud APIs, practitioners need to architect specifically for edge constraints. This article provides the bridge between model selection and operational deployment.
 
 ---
-*Source: [Google News](https://towardsdatascience.com) · Relevance: 8/10*
+*Source: [Google News](https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/) · Relevance: 8/10*

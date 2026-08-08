@@ -31,4 +31,4 @@ For many use cases—privacy-sensitive applications, low-latency requirements, o
 The article serves as a grounding reminder that local LLM deployment is not about perfect replacement of cloud models, but rather about finding the right tool for specific operational constraints. This perspective helps engineers identify use cases where local deployment provides sufficient capability while delivering the privacy, latency, and cost benefits that make on-device inference valuable.
 
 ---
-*Source: [Make Tech Easier](https://maketecheasier.com) · Relevance: 6/10*
+*Source: [Make Tech Easier](https://maketecheasier.com/local-llms-vs-chatgpt/) · Relevance: 6/10*

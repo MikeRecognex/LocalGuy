@@ -26,7 +26,7 @@ Local LLM practitioners have long faced a practical constraint: while models can
 
 This capability is transformative for building retrieval-augmented generation (RAG) systems on-premise. Rather than piping user queries through commercial APIs, developers can now integrate live web search directly into local inference pipelines, making it feasible to build competitive AI applications without per-query costs or external dependencies.
 
-[This tool](https://howtogeek.com) addresses a key barrier to fully autonomous, self-hosted AI systems. Combined with local LLMs, vector databases, and document processing pipelines, practitioners can now build production-grade RAG applications that rival cloud-based systems while maintaining complete data sovereignty and eliminating recurring API costs.
+[This tool](https://www.howtogeek.com/self-hosted-tool-lets-local-llm-search-web/) addresses a key barrier to fully autonomous, self-hosted AI systems. Combined with local LLMs, vector databases, and document processing pipelines, practitioners can now build production-grade RAG applications that rival cloud-based systems while maintaining complete data sovereignty and eliminating recurring API costs.
 
 ---
-*Source: [How-To Geek](https://howtogeek.com) · Relevance: 8/10*
+*Source: [How-To Geek](https://www.howtogeek.com/self-hosted-tool-lets-local-llm-search-web/) · Relevance: 8/10*

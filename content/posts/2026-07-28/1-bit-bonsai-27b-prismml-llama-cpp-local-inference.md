@@ -34,4 +34,4 @@ PrismML's integration with llama.cpp provides practitioners with a straightforwa
 This development is particularly valuable for edge inference scenarios where storage and memory budgets are tight—from IoT devices to mobile hardware. As quantization techniques mature, models like Bonsai-27B demonstrate that we're moving toward a future where meaningful AI inference happens entirely on-device without cloud dependencies.
 
 ---
-*Source: [MarkTechPost](https://www.marktechpost.com) · Relevance: 9/10*
+*Source: [MarkTechPost](https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/) · Relevance: 9/10*

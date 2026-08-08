@@ -30,4 +30,4 @@ For organizations self-hosting LLM inference at scale, cold-start latency direct
 The tool extends NVIDIA's infrastructure ecosystem for local/self-hosted inference, complementing their hardware offerings. Teams deploying LLMs on Kubernetes clusters can now achieve significantly faster container startup, improving resource utilization and reducing per-inference operational costs.
 
 ---
-*Source: [Google News](https://marktechpost.com) · Relevance: 8/10*
+*Source: [Google News](https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/) · Relevance: 8/10*

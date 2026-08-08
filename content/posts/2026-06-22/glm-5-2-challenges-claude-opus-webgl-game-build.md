@@ -25,4 +25,4 @@ For teams looking to deploy LLMs on-device or self-hosted, GLM-5.2's competitive
 The benchmark results underscore the growing viability of open-source models for demanding inference workloads, making local deployment increasingly practical and cost-effective for production applications.
 
 ---
-*Source: [Google News](https://www.letsdata.science) · Relevance: 8/10*
+*Source: [Google News](https://letsdatascience.com/news/glm-52-challenges-claude-opus-in-webgl-game-build-97e3fe1f) · Relevance: 8/10*

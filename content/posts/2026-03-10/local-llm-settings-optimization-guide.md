@@ -28,4 +28,4 @@ These settings typically include context window management, batch size optimizat
 The practical nature of this guide makes it essential reading for anyone struggling with local LLM deployments. Rather than switching models or hardware, experimenting with these often-hidden settings could unlock significant performance gains without additional infrastructure costs.
 
 ---
-*Source: [XDA](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/local-llm-settings-most-people-never-touch/) · Relevance: 9/10*

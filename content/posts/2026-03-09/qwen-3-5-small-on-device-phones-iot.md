@@ -35,4 +35,4 @@ The model's design focus on phones and IoT hardware demonstrates the industry's 
 For local LLM practitioners, this release provides a new reference point for model optimization at the sub-10B parameter scale. The availability of a production-ready model from a major AI lab specifically engineered for mobile inference will likely influence how developers approach quantization and distillation strategies for their own edge deployments.
 
 ---
-*Source: [Google News](https://www.geekygadgets.com) · Relevance: 9/10*
+*Source: [Google News](https://www.geeky-gadgets.com/qwen-3-5-small-models/) · Relevance: 9/10*

@@ -43,4 +43,4 @@ For local LLM practitioners running inference on Intel hardware, aiDAPTIV promis
 The collaboration between storage and CPU vendors suggests the industry is moving beyond point optimizations toward systems-level improvements for local inference. As tooling like ollama and llama.cpp become more sophisticated, they'll increasingly benefit from these lower-level platform optimizations that ensure hardware is being used efficiently.
 
 ---
-*Source: [Google News](https://digitimes.com) · Relevance: 8/10*
+*Source: [Google News](https://www.digitimes.com/news/a20260602PD228/phison-intel-ai-pc-technology-dram.html) · Relevance: 8/10*

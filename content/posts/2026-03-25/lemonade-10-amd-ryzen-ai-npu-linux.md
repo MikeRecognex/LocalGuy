@@ -33,11 +33,11 @@ mentions:
 status: published
 ---
 
-AMD's Ryzen AI NPUs represent a significant opportunity for hardware-accelerated local inference, and [Lemonade 10.0.1's improvements to Linux setup](https://www.phoronix.com/) make this pathway much more accessible to developers. The update streamlines the installation and configuration process, reducing barriers to entry for Linux users who want to leverage dedicated neural processing units alongside their CPUs for inference workloads.
+AMD's Ryzen AI NPUs represent a significant opportunity for hardware-accelerated local inference, and [Lemonade 10.0.1's improvements to Linux setup](https://www.phoronix.com/news/Lemonade-10.0.1) make this pathway much more accessible to developers. The update streamlines the installation and configuration process, reducing barriers to entry for Linux users who want to leverage dedicated neural processing units alongside their CPUs for inference workloads.
 
 For practitioners running local LLMs on Linux, NPU acceleration can dramatically reduce latency and power consumption compared to CPU-only inference. With simplified setup, more developers can now take advantage of these specialized hardware blocks that ship with newer AMD Ryzen processors. This is particularly valuable for edge deployments, embedded systems, and power-constrained environments where NPU efficiency becomes a critical factor.
 
 The maturation of tooling around Ryzen AI NPUs on Linux reflects the broader ecosystem shift toward heterogeneous compute. As setup becomes simpler and documentation improves, we can expect more frameworks to add first-class NPU support, similar to how GPU acceleration has become standard across inference engines.
 
 ---
-*Source: [Phoronix](https://www.phoronix.com/) · Relevance: 8/10*
+*Source: [Phoronix](https://www.phoronix.com/news/Lemonade-10.0.1) · Relevance: 8/10*

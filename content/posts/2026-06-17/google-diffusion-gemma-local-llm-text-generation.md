@@ -32,4 +32,4 @@ For local LLM practitioners, DiffusionGemma's approach is particularly interesti
 This development highlights the continued innovation in local inference approaches beyond standard transformer architectures, giving developers more tools to optimize their on-device AI deployments.
 
 ---
-*Source: [XDA Developers](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA Developers](https://www.xda-developers.com/tried-google-diffusiongemma-generate-text-like-image-local-llm/) · Relevance: 9/10*

@@ -31,4 +31,4 @@ For practitioners running LLMs locally, Docker adoption solves critical challeng
 The focus on agentic systems is particularly relevant as LLM-powered agents become more sophisticated. Docker containers enable simpler iteration on agent architectures while keeping local inference infrastructure stable and reproducible.
 
 ---
-*Source: [KDnuggets](https://www.kdnuggets.com) · Relevance: 7/10*
+*Source: [KDnuggets](https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers) · Relevance: 7/10*

@@ -29,4 +29,4 @@ What makes Ollama significant for the local LLM community is its focus on access
 For anyone interested in building privacy-preserving AI workflows or reducing cloud inference costs, Ollama represents a major accessibility milestone in the local AI tooling ecosystem.
 
 ---
-*Source: [How-To Geek](https://www.howtogeek.com) · Relevance: 9/10*
+*Source: [How-To Geek](https://www.howtogeek.com/ollama-is-the-open-source-app-that-finally-made-free-local-ai-useful-on-my-pc/) · Relevance: 9/10*

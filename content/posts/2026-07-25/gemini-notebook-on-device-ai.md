@@ -30,4 +30,4 @@ Google's Gemini Notebook initiative brings practical on-device AI to collaborati
 For local LLM practitioners, this signals how major technology companies are investing in edge inference infrastructure. The integration of models into notebook environments demonstrates a viable path for deploying LLMs in educational, research, and professional settings where data sovereignty and response latency are critical. This trend validates the importance of optimizing models for local execution and suggests growing ecosystem support for on-device AI workflows.
 
 ---
-*Source: [Google News](https://tech.yahoo.com) · Relevance: 8/10*
+*Source: [Google News](https://tech.yahoo.com/videos/gemini-notebook-device-ai-action-140400144.html) · Relevance: 8/10*

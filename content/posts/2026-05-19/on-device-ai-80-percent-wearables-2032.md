@@ -34,4 +34,4 @@ For local LLM practitioners, wearables represent a unique challenge and opportun
 The 2032 projection (8 years away) means this market transition is already beginning. Practitioners investing in wearable AI infrastructure now—developing frameworks for model compression, battery-aware inference scheduling, and distributed inference across paired devices—will have significant competitive advantages. This expansion beyond phones and laptops represents the maturation of the local AI ecosystem from niche to mainstream.
 
 ---
-*Source: [Google News](https://news.google.com/) · Relevance: 7/10*
+*Source: [Google News](https://www.eetasia.com/on-device-ai-to-be-in-80-of-wearables-by-2032/) · Relevance: 7/10*

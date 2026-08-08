@@ -28,4 +28,4 @@ Wayfinder introduces an elegant solution to the local vs. cloud inference dilemm
 This approach directly addresses a major challenge for local LLM practitioners: deciding when to use resource-constrained local models versus cloud alternatives. By automating this decision, Wayfinder enables users to maximize cost savings and reduce latency without sacrificing capability. The framework is particularly valuable for applications with variable workload complexity, allowing organizations to maintain local deployments for efficiency while maintaining a safety net for edge cases that require frontier models.
 
 ---
-*Source: [GIGAZINE](https://gigazine.net) · Relevance: 8/10*
+*Source: [GIGAZINE](https://gigazine.net/gsc_news/en/20260630-wayfinder/) · Relevance: 8/10*

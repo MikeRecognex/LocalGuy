@@ -28,4 +28,4 @@ Memory bandwidth has consistently been a limiting factor in local LLM deployment
 For the broader local LLM community, Apple's hardware trajectory demonstrates how major chip manufacturers are now engineering silicon explicitly for on-device AI. This convergence of hardware optimization and software frameworks—including support in frameworks like MLX and Core ML—accelerates the viability of sophisticated local inference on consumer devices. The architectural choices evident in M7 will likely influence competitors and shape the landscape of consumer-grade local LLM deployment for years to come.
 
 ---
-*Source: [Wccftech](https://www.wccftech.com) · Relevance: 8/10*
+*Source: [Wccftech](https://wccftech.com/apple-m7-to-bring-new-on-device-ai-performance-56-higher-bandwidth-than-m5/) · Relevance: 8/10*

@@ -30,7 +30,7 @@ GitHub has expanded Copilot CLI capabilities to include bring-your-own-key (BYOK
 
 For enterprises with strict data governance requirements or those seeking reduced latency, this is a game-changer. Local Copilot execution means proprietary codebases never leave corporate infrastructure, and inference latency drops to sub-millisecond ranges. The flexibility to choose between local, private cloud, or GitHub-hosted inference addresses the central concern many organizations have about AI-powered development tools.
 
-This development signals broader industry momentum toward decentralized AI tooling. Developers and DevOps teams should [review GitHub's documentation on local Copilot deployment](https://github.blog/) to evaluate whether self-hosted code generation aligns with their workflow and compliance requirements.
+This development signals broader industry momentum toward decentralized AI tooling. Developers and DevOps teams should [review GitHub's documentation on local Copilot deployment](https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/) to evaluate whether self-hosted code generation aligns with their workflow and compliance requirements.
 
 ---
-*Source: [The GitHub Blog](https://github.blog/) · Relevance: 8/10*
+*Source: [The GitHub Blog](https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/) · Relevance: 8/10*

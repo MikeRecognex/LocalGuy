@@ -37,7 +37,7 @@ Building truly local-first RAG systems just became more practical with the emerg
 
 SQLite's integration of vector search capabilities represents a significant simplification for local LLM developers. By leveraging Hamming distance for efficient similarity matching, this technique maintains reasonable performance while keeping all operations self-contained within a lightweight database engine compatible with edge devices.
 
-This development is particularly valuable for privacy-sensitive applications and resource-constrained environments. [Explore the implementation details on SitePoint](https://www.sitepoint.com) to understand how to integrate SQLite-based RAG with your local LLM infrastructure for document-grounded inference without external dependencies.
+This development is particularly valuable for privacy-sensitive applications and resource-constrained environments. [Explore the implementation details on SitePoint](https://www.sitepoint.com/local-first-rag-vector-search-in-sqlite-with-hamming-distance/) to understand how to integrate SQLite-based RAG with your local LLM infrastructure for document-grounded inference without external dependencies.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/local-first-rag-vector-search-in-sqlite-with-hamming-distance/) · Relevance: 8/10*

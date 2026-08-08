@@ -30,4 +30,4 @@ The approach highlights a key benefit of local inference: the ability to maintai
 For practitioners considering local LLM adoption, this pattern—combining Ollama with personal knowledge bases—represents a replicable framework for building practical AI assistants. The success of this use case demonstrates that local LLMs have moved beyond experimental territory into genuine productivity tooling.
 
 ---
-*Source: [How-To Geek](https://www.howtogeek.com/) · Relevance: 8/10*
+*Source: [How-To Geek](https://www.howtogeek.com/wired-ollama-into-recipe-collection/) · Relevance: 8/10*

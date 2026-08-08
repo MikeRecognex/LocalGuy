@@ -32,4 +32,4 @@ The platform's success reflects a fundamental shift in how developers approach l
 For practitioners building local AI applications, Ollama serves as both a foundation for experimentation and a production-ready platform. Its OpenAI-compatible API endpoint enables easy integration with existing tools and frameworks, while its focus on local-first design ensures data privacy and eliminates cloud dependency—critical requirements for enterprise adoption of local LLM inference.
 
 ---
-*Source: [Quasa](https://quasa.io) · Relevance: 7/10*
+*Source: [Quasa](https://quasa.io/video/ollama-review-the-best-open-source-local-ai-platform-2) · Relevance: 7/10*

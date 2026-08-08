@@ -38,4 +38,4 @@ This release is significant for local LLM practitioners because MoE models repre
 For developers building local AI applications, this adds a viable option in the ecosystem of specialized models. Whether you're using ollama, llama.cpp, or other inference frameworks, smaller MoE models like Mellum2 offer opportunities to improve throughput and reduce hardware requirements without sacrificing output quality.
 
 ---
-*Source: [Google News](https://marktechpost.com) · Relevance: 9/10*
+*Source: [Google News](https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/) · Relevance: 9/10*

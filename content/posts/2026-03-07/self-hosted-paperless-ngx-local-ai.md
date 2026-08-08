@@ -29,4 +29,4 @@ This practical implementation shows how local LLMs solve real problems for priva
 For the local LLM community, success stories like this build momentum for adoption. They prove that on-device inference isn't just technically feasible but genuinely useful for everyday tasks. As more developers publish similar integration guides and automation frameworks for pairing language models with document processing pipelines, the ecosystem becomes increasingly valuable and difficult to ignore.
 
 ---
-*Source: [Google News](https://adafruit.com) · Relevance: 8/10*
+*Source: [Google News](https://blog.adafruit.com/2026/03/06/self-hosted-paperless-ngx-optional-local-ai/) · Relevance: 8/10*

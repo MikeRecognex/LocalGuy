@@ -34,4 +34,4 @@ The funding will likely accelerate Ollama's roadmap around model optimization, c
 This is a pivotal signal that the local-first AI movement has matured beyond hobbyist projects. Enterprises and indie developers can now invest in Ollama-based deployments with confidence that the platform will continue evolving and receiving long-term support.
 
 ---
-*Source: [Google News](https://aiinsider.io) · Relevance: 9/10*
+*Source: [Google News](https://theaiinsider.tech/2026/07/20/ollama-secures-65m-series-b-funding-to-grow-its-open-source-ai-platform/) · Relevance: 9/10*

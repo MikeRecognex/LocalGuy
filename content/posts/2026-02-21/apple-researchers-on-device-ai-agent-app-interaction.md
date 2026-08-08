@@ -31,4 +31,4 @@ The implications for the local AI community are substantial. As devices become m
 For practitioners considering agent deployment strategies, Apple's research provides a concrete example of how modern hardware can support autonomous AI behavior without external API calls, enabling new categories of privacy-preserving applications.
 
 ---
-*Source: [9to5Mac](https://9to5mac.com) · Relevance: 9/10*
+*Source: [9to5Mac](https://9to5mac.com/2026/02/20/apple-researchers-develop-on-device-ai-agent-that-interacts-with-apps-for-you/) · Relevance: 9/10*

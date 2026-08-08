@@ -30,4 +30,4 @@ The voice assistant implementation is particularly noteworthy because it address
 For edge computing practitioners and IoT developers, this proof-of-concept validates the viability of deploying LLMs on resource-constrained environments. The work contributes essential knowledge about model size selection, quantization strategies, and optimization techniques necessary for successful edge deployment.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com) · Relevance: 9/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/offline-raspberry-pi-voice-assistant-runs-local-llm-60a5cc91) · Relevance: 9/10*

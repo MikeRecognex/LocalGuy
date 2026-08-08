@@ -36,4 +36,4 @@ This breakthrough is particularly important as it validates the quantization app
 The practical implications extend beyond hobbyists: this efficiency floor enables edge deployment scenarios in retail, manufacturing, and logistics where latency and data privacy demand on-device inference. As quantization tooling matures and model weights become more efficiently compressible, expect more flagship models to reach this "finally practical" threshold for local deployment.
 
 ---
-*Source: [How-To Geek](https://www.howtogeek.com/) · Relevance: 9/10*
+*Source: [How-To Geek](https://www.howtogeek.com/gemma-4-quantized-models-made-local-ai-practical/) · Relevance: 9/10*

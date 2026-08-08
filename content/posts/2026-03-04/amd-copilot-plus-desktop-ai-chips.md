@@ -35,4 +35,4 @@ For local LLM practitioners on Windows platforms, AMD's Copilot+ chips offer imp
 The significance extends beyond raw performance—AMD's participation legitimizes on-device AI as a core computing paradigm rather than a niche use case. Teams building local LLM applications can now confidently target diverse hardware platforms knowing that major chipmakers are investing in the infrastructure and optimization necessary for efficient inference at scale.
 
 ---
-*Source: [Google News](https://247wallst.com) · Relevance: 7/10*
+*Source: [Google News](https://247wallst.com/investing/2026/03/03/amd-looks-to-displace-intel-with-worlds-first-copilot-desktop-chips/) · Relevance: 7/10*

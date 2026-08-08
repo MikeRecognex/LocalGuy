@@ -26,4 +26,4 @@ For the local LLM deployment community, this represents validation that producti
 Such high-profile implementations by major manufacturers accelerate ecosystem development by proving on-device inference ROI, encouraging investment in model optimization tools and frameworks that make local deployment more accessible and efficient.
 
 ---
-*Source: [Báo VietNamNet](https://baovietnamnet.vn) · Relevance: 7/10*
+*Source: [Báo VietNamNet](https://vietnamnet.vn/en/galaxy-s26-debuts-ai-powered-scam-detection-in-bold-security-push-2493333.html) · Relevance: 7/10*

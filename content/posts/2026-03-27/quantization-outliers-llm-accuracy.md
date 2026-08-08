@@ -33,4 +33,4 @@ For local LLM practitioners, this has practical implications: quantization strat
 The research validates why quantization remains an active area of development in the open-source community, and why simply converting models to lower bit-widths without proper outlier handling produces poor results. This knowledge helps practitioners make informed decisions when balancing model size, inference speed, and accuracy for local deployments.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com) · Relevance: 8/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/quantization-reveals-outliers-impacting-llm-accuracy-187ae8ac) · Relevance: 8/10*

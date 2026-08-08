@@ -40,4 +40,4 @@ The focus on industrial deployment is particularly significant for practitioners
 For teams building local AI systems at scale, this showcase provides insights into how companies approach systematic optimization and deployment of models on edge hardware. Understanding production-grade methodologies helps practitioners structure their own optimization pipelines and anticipate challenges when moving from prototype to widespread deployment.
 
 ---
-*Source: [Google News](https://eqs-news.com) · Relevance: 8/10*
+*Source: [Google News](https://www.eqs-news.com/news/corporate/nota-ai-to-showcase-end-to-end-on-device-ai-from-edge-optimization-to-real-world-industrial-deployment-at-embedded-world-2026/fa722f93-723d-4aa7-b87c-bfd09b01ad02_en) · Relevance: 8/10*

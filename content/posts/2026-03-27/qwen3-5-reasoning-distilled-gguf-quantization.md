@@ -38,4 +38,4 @@ For local LLM practitioners, this is significant because reasoning models tradit
 This development validates the effectiveness of combining multiple optimization strategies rather than relying on a single approach, and demonstrates that advanced model capabilities don't require cloud infrastructure when properly compressed and quantized.
 
 ---
-*Source: [MarkTechPost](https://www.marktechpost.com) · Relevance: 9/10*
+*Source: [MarkTechPost](https://www.marktechpost.com/2026/03/26/a-coding-implementation-to-run-qwen3-5-reasoning-models-distilled-with-claude-style-thinking-using-gguf-and-4-bit-quantization/) · Relevance: 9/10*

@@ -29,4 +29,4 @@ For local LLM operators, understanding these trade-offs is essential when tuning
 This type of performance analysis is invaluable for anyone running self-hosted inference and looking to squeeze maximum efficiency from their deployment stack.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com/) · Relevance: 8/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/article-compares-continuous-and-static-batching-in-llm-infer-534398b2) · Relevance: 8/10*

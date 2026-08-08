@@ -33,4 +33,4 @@ The 2026 edition reflects current state-of-the-art in memory optimization, inclu
 For hobbyists, researchers, and small organizations, this guide is invaluable documentation of what's actually achievable with off-the-shelf consumer hardware in 2026. It bridges the gap between theoretical efficiency improvements and practical setup documentation that most practitioners need.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/10gb-vram-local-llm-the-complete-setup-guide-2026/) · Relevance: 8/10*

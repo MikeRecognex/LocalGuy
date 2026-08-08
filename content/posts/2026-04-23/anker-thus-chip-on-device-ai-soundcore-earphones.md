@@ -44,4 +44,4 @@ This development is noteworthy for the broader local LLM community because it de
 For practitioners deploying models at scale, Anker's move signals that mainstream hardware vendors now view on-device inference as essential rather than optional. As more companies launch custom AI chips, the ecosystem for local inference tools and optimization frameworks will expand, benefiting researchers and engineers building next-generation private, responsive AI systems.
 
 ---
-*Source: [Pandaily](https://pandaily.com) · Relevance: 8/10*
+*Source: [Pandaily](https://pandaily.com/anker-unveils-in-house-thus-chip-to-bring-on-device-ai-across-its-product-line) · Relevance: 8/10*

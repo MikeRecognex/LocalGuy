@@ -42,4 +42,4 @@ This transparency is valuable for the local LLM community because it illustrates
 For developers deploying LLMs on mobile and edge devices, AICore's evolution offers lessons in managing the compilation between model quality, runtime efficiency, and hardware constraints. Google's public discussion suggests the company is prioritizing capability improvements over storage minimization—a signal that model advancement is outpacing storage optimization in the current development cycle.
 
 ---
-*Source: [Google News](https://www.androidauthority.com/) · Relevance: 7/10*
+*Source: [Google News](https://www.androidauthority.com/google-aicore-storage-reason-3663061/) · Relevance: 7/10*

@@ -28,4 +28,4 @@ This finding is critical for accessibility and real-world deployment: many organ
 For local LLM practitioners, this validates the importance of cross-device optimization and reinforces that quantized, optimized models on modest hardware often outperform naive large models on expensive infrastructure. It also highlights deployment opportunities in regions and organizations where hardware refresh cycles are slower.
 
 ---
-*Source: [Google News](https://xda-developers.com) · Relevance: 7/10*
+*Source: [Google News](https://www.xda-developers.com/these-local-ai-models-work-really-well-on-a-very-old-laptop-with-no-gpu/) · Relevance: 7/10*

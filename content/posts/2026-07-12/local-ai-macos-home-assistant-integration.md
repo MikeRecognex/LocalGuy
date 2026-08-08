@@ -32,4 +32,4 @@ This approach demonstrates the intersection of consumer hardware optimization an
 For practitioners, this showcases how existing consumer hardware already supports sophisticated local LLM deployment with minimal additional setup. The example illustrates the growing trend of bringing LLM capabilities to edge devices through purpose-built silicon and accessible open-source frameworks.
 
 ---
-*Source: [XDA](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/every-modern-mac-hides-free-local-ai-home-assistant/) · Relevance: 9/10*

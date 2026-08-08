@@ -35,4 +35,4 @@ This mainstream integration is a watershed moment for local LLM adoption. Mobile
 For practitioners, the Samsung deployment offers a proof-of-concept for how on-device LLMs will scale across consumer electronics. Edge inference is moving from experimental hobbyist territory into mainstream device features. This shift will accelerate development of mobile-optimized model architectures, quantization techniques, and inference runtimes—benefiting anyone running local LLMs on resource-constrained hardware.
 
 ---
-*Source: [Google News](https://9to5google.com) · Relevance: 8/10*
+*Source: [Google News](https://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/) · Relevance: 8/10*

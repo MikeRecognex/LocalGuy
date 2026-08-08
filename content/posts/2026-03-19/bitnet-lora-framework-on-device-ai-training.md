@@ -44,4 +44,4 @@ The BitNet architecture combined with Low-Rank Adaptation (LoRA) allows practiti
 For teams running self-hosted deployments, this framework represents a meaningful step toward truly autonomous, customizable AI systems that don't require external services or high-end infrastructure for continuous improvement.
 
 ---
-*Source: [BTC Times](https://btctimes.com) · Relevance: 9/10*
+*Source: [BTC Times](https://btctimes.com/tethers-qvac-introduces-cross-platform-bitnet-lora-framework-for-on-device-ai-training/) · Relevance: 9/10*

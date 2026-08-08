@@ -36,4 +36,4 @@ This release addresses a critical pain point in local LLM deployment: framework 
 For local LLM practitioners, this means reduced deployment friction and the ability to optimize for specific hardware constraints—whether running on Apple Silicon via MLX, quantized on CPU via llama.cpp, or serving via vLLM on consumer GPUs. The multi-framework approach represents a maturation of the local LLM ecosystem toward interoperability.
 
 ---
-*Source: [MarkTechPost](https://www.marktechpost.com) · Relevance: 9/10*
+*Source: [MarkTechPost](https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/) · Relevance: 9/10*

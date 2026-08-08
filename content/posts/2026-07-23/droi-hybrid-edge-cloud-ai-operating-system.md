@@ -36,4 +36,4 @@ The hybrid approach addresses a key challenge facing local LLM practitioners: no
 For enterprises evaluating local LLM strategies, hybrid systems like DroiClaw offer a pragmatic path forward. Organizations can gradually migrate workloads to on-device execution, maintain fallback cloud capacity, and optimize placement dynamically. As edge hardware capabilities improve and inference frameworks mature, this hybrid-first approach positions systems to evolve seamlessly toward greater local autonomy without costly re-architecture.
 
 ---
-*Source: [Google News](https://manilatimes.net) · Relevance: 8/10*
+*Source: [Google News](https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/shanghai-droi-technology-launches-droiclaw-ai-operating-system-with-hybrid-edge-cloud-architecture/2390021/amp) · Relevance: 8/10*

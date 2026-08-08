@@ -34,4 +34,4 @@ UFS 5.0 represents a critical hardware evolution for mobile and embedded LLM dep
 With production samples already shipping and full manufacturing expected by 2026, device manufacturers will soon be able to build phones and embedded systems purpose-built for on-device AI workloads. This hardware advancement complements software optimizations in quantization and inference engines, creating a complete ecosystem for practical local LLM deployment on consumer devices.
 
 ---
-*Source: [Business Wire](https://www.businesswire.com) · Relevance: 8/10*
+*Source: [Business Wire](https://www.businesswire.com/news/home/20260729429282/en/New-UFS-5.0-Embedded-Flash-Memory-Devices-from-Kioxia-Enable-On-Device-AI) · Relevance: 8/10*

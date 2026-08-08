@@ -36,4 +36,4 @@ The adoption of MLX represents a strategic optimization for Ollama users running
 For practitioners deploying LLMs locally on Apple hardware, this update simplifies the path to faster inference without requiring manual optimization or framework switching. The seamless integration means existing Ollama workflows automatically benefit from MLX's performance gains, making it easier than ever to run capable language models entirely on-device.
 
 ---
-*Source: [9to5Mac](https://9to5mac.com) · Relevance: 9/10*
+*Source: [9to5Mac](https://9to5mac.com/2026/03/31/ollama-adopts-mlx-for-faster-ai-performance-on-apple-silicon-macs/) · Relevance: 9/10*

@@ -27,4 +27,4 @@ For practitioners working on local LLM applications, Snapdragon Wear Elite demon
 The expansion of on-device AI into wearables validates that practical inference is possible across the entire spectrum of consumer devices. Teams working on local LLM projects should consider targeting Wear Elite and similar constrained platforms as they refine quantization strategies and model compression techniques, pushing the boundaries of what's possible with minimal compute and memory resources.
 
 ---
-*Source: [Google News](https://gsmarena.com) · Relevance: 8/10*
+*Source: [Google News](https://www.gsmarena.com/snapdragon_wear_elite_arrives_with_ondevice_ai_capabilities_performance_and_battery_gains-news-71793.php) · Relevance: 8/10*

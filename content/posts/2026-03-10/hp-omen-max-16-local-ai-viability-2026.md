@@ -36,4 +36,4 @@ The review likely examines crucial metrics for local deployment: inference speed
 This benchmark is valuable for practitioners evaluating hardware for local AI deployment, providing concrete data on whether existing consumer hardware can handle current-generation models like Llama 2 70B quantized variants or Mistral-scale models. The timing in 2026 is particularly relevant as model optimization techniques and quantization methods have matured significantly, potentially making high-quality local inference feasible on devices many users already own.
 
 ---
-*Source: [Digital Reviews Network](https://www.digitalreviewsnetwork.com) · Relevance: 8/10*
+*Source: [Digital Reviews Network](https://www.digitalreviews.net/reviews/software/hp-omen-max-16-local-ai-review-2026/) · Relevance: 8/10*

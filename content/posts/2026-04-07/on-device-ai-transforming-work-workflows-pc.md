@@ -38,4 +38,4 @@ This trend matters for local LLM practitioners because it signals growing market
 The PC-as-AI-assistant model also drives hardware innovation, with manufacturers increasingly optimizing processors and GPUs specifically for inference workloads. This creates a positive feedback loop: better hardware enables more capable local models, which drives further adoption, spurring continued optimization efforts across the ecosystem.
 
 ---
-*Source: [Google News](https://www.aithority.com) · Relevance: 8/10*
+*Source: [Google News](https://aithority.com/guest-authors/your-next-assistant-is-your-pc-how-on-device-ai-is-transforming-work-one-workflow-at-a-time/) · Relevance: 8/10*

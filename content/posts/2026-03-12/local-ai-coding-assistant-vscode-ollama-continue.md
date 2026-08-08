@@ -31,7 +31,7 @@ The integration of Ollama with VS Code through the Continue extension has mature
 
 Ollama's recent improvements in model serving and the Continue extension's refinements make this setup both accessible and performant for typical development workflows. By running models locally—whether smaller efficient models like Mistral or larger options like Code Llama—developers avoid exposing proprietary code to external services. The setup supports features like code completion, documentation generation, and refactoring suggestions without leaving your local machine.
 
-For engineering teams concerned with code confidentiality or operating in restricted network environments, this local setup eliminates a major vulnerability while improving developer iteration speed. The guide covers model selection, performance tuning, and integration with popular coding frameworks. [Follow the complete setup guide on SitePoint](https://www.sitepoint.com).
+For engineering teams concerned with code confidentiality or operating in restricted network environments, this local setup eliminates a major vulnerability while improving developer iteration speed. The guide covers model selection, performance tuning, and integration with popular coding frameworks. [Follow the complete setup guide on SitePoint](https://www.sitepoint.com/local-ai-coding-assistant-vscode-ollama-continue/).
 
 ---
-*Source: [Google News](https://www.sitepoint.com) · Relevance: 8/10*
+*Source: [Google News](https://www.sitepoint.com/local-ai-coding-assistant-vscode-ollama-continue/) · Relevance: 8/10*

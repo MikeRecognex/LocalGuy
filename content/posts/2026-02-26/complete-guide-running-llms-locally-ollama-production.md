@@ -36,11 +36,11 @@ mentions:
 status: published
 ---
 
-Running LLMs locally has become increasingly accessible, and [this comprehensive guide](https://www.sitepoint.com) addresses the full journey from initial setup to production deployment. The guide likely covers essential tools like Ollama, model selection strategies, performance optimization, and best practices for managing inference workloads on commodity hardware.
+Running LLMs locally has become increasingly accessible, and [this comprehensive guide](https://www.sitepoint.com/local-llms-complete-guide/) addresses the full journey from initial setup to production deployment. The guide likely covers essential tools like Ollama, model selection strategies, performance optimization, and best practices for managing inference workloads on commodity hardware.
 
 For local LLM practitioners, this represents a valuable reference that bridges the gap between hobby projects and production systems. Understanding how to properly configure, monitor, and scale local LLM deployments is critical as organizations seek to reduce latency, ensure data privacy, and eliminate API costs associated with cloud-based inference.
 
 This type of end-to-end guide is particularly important as the ecosystem matures—developers need clear pathways to move beyond simple demos and into reliable, maintainable systems.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com) · Relevance: 9/10*
+*Source: [SitePoint](https://www.sitepoint.com/local-llms-complete-guide/) · Relevance: 9/10*

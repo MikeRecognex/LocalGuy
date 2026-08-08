@@ -38,4 +38,4 @@ RTX GPUs—ranging from consumer cards like the RTX 4090 to professional RTX 600
 For deployment teams, this optimization partnership means better out-of-the-box performance, improved power efficiency, and more predictable resource utilization. The work likely includes support in NVIDIA's inference frameworks like TensorRT, making integration straightforward for existing infrastructure.
 
 ---
-*Source: [Google News](https://blockchain.news) · Relevance: 10/10*
+*Source: [Google News](https://blockchain.news/news/nvidia-google-gemma-4-rtx-local-ai-optimization) · Relevance: 10/10*

@@ -32,7 +32,7 @@ This practical guide explores how to repurpose locally-deployed LLMs for zero-sh
 
 Zero-shot classification with local LLMs is particularly valuable for organizations handling sensitive data or operating in bandwidth-constrained environments. The approach eliminates the need for labeled training datasets and model retraining, making it ideal for rapid prototyping and production deployments. For teams running models like Llama, Mistral, or Qwen locally, this technique extends their utility beyond chat applications.
 
-The [Towards Data Science article](https://towardsdatascience.com) provides practical examples showing how to structure prompts and optimize inference parameters for classification tasks, offering real-world patterns that local LLM operators can immediately implement.
+The [Towards Data Science article](https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/) provides practical examples showing how to structure prompts and optimize inference parameters for classification tasks, offering real-world patterns that local LLM operators can immediately implement.
 
 ---
-*Source: [Towards Data Science](https://towardsdatascience.com) · Relevance: 8/10*
+*Source: [Towards Data Science](https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/) · Relevance: 8/10*

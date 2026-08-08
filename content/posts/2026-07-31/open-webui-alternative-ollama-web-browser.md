@@ -32,4 +32,4 @@ For those running Ollama locally, having multiple web interface options is criti
 This development is particularly valuable for small teams and individual developers who want accessible inference interfaces without managing Docker or Kubernetes infrastructure. As the local LLM ecosystem matures, quality-of-life tools like simpler web UIs become increasingly important for widespread adoption.
 
 ---
-*Source: [It's FOSS](https://itsfoss.com) · Relevance: 8/10*
+*Source: [It's FOSS](https://itsfoss.com/orionchat/) · Relevance: 8/10*

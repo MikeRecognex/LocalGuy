@@ -39,4 +39,4 @@ This integration is significant because llama.cpp has become the de facto standa
 For practitioners running local models on Intel systems, this means better performance, official support, and optimized kernels without needing to manage multiple tool chains. The convergence of OpenVINO and llama.cpp represents a maturation of the Intel local inference ecosystem.
 
 ---
-*Source: [igor's LAB](https://www.igorslab.de) · Relevance: 9/10*
+*Source: [igor's LAB](https://www.igorslab.de/en/intel-openvino-2026-1-links-llama-c-with-wildcat-lake-and-arc-pro-b70-suddenly-making-intels-ai-strategy-more-tangible/) · Relevance: 9/10*

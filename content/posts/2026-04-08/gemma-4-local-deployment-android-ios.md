@@ -36,7 +36,7 @@ Google has officially released Gemma 4, a model specifically engineered for effi
 
 The practical impact is already visible through Google's AI Edge Eloquent dictation app, which uses Gemma 4 for offline speech-to-text processing. This demonstrates the feasibility of deploying transformer-based models on consumer hardware without routing sensitive data through cloud infrastructure. For local LLM practitioners, Gemma 4's availability opens new possibilities for edge AI applications in production environments, particularly in privacy-sensitive domains.
 
-The ease of deployment is a key factor—multiple guides have emerged showing developers can run Gemma 4 locally with minimal setup friction. Combined with its open-source nature, this positions Gemma 4 as a compelling alternative to larger models for resource-constrained environments. Developers interested in edge deployment should explore how [Gemma 4 can be integrated into local inference stacks](https://www.phandroid.com/).
+The ease of deployment is a key factor—multiple guides have emerged showing developers can run Gemma 4 locally with minimal setup friction. Combined with its open-source nature, this positions Gemma 4 as a compelling alternative to larger models for resource-constrained environments. Developers interested in edge deployment should explore how [Gemma 4 can be integrated into local inference stacks](https://phandroid.com/2026/04/08/googles-gemma-4-is-finally-bringing-real-on-device-ai-to-android-phones/).
 
 ---
-*Source: [Google News](https://www.phandroid.com/) · Relevance: 9/10*
+*Source: [Google News](https://phandroid.com/2026/04/08/googles-gemma-4-is-finally-bringing-real-on-device-ai-to-android-phones/) · Relevance: 9/10*

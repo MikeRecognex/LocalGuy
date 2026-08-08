@@ -41,4 +41,4 @@ For local LLM practitioners, the M5 generation means faster inference speeds for
 The emphasis on local-first AI represents a fundamental shift in Apple's positioning, moving away from cloud-dependent approaches and aligning with broader industry trends toward edge inference. For teams building local LLM applications, M5-equipped Macs now offer competitive advantages in throughput and latency compared to GPU-accelerated Linux workstations in many scenarios.
 
 ---
-*Source: [Google News](https://hothardware.com) · Relevance: 9/10*
+*Source: [Google News](https://hothardware.com/news/apple-unveils-macbook-pro-m5-pro-m5-max) · Relevance: 9/10*

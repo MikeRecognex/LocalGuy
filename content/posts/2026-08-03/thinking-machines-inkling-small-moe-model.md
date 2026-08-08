@@ -38,4 +38,4 @@ The key advantage of this architecture lies in its sparsity: only a subset of pa
 For local LLM enthusiasts, Inkling-Small represents the kind of efficiency-focused innovation that makes multi-billion parameter models practical. Expect strong compatibility with quantisation tools like llama.cpp and frameworks like Ollama, making this an immediate candidate for personal deployment scenarios.
 
 ---
-*Source: [Google News](https://www.marktechpost.com) · Relevance: 9/10*
+*Source: [Google News](https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/) · Relevance: 9/10*

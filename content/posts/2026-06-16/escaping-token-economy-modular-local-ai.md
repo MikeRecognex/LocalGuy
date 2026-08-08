@@ -27,7 +27,7 @@ The 'token economy' of cloud LLM providers—where costs scale with usage—has 
 
 Modular local AI ecosystems allow practitioners to mix and match models, inference engines, embedding systems, and application layers based on their specific needs rather than conforming to a provider's constraints. This flexibility means you can optimize for latency, cost, or accuracy independently, and swap components as better models or tools become available without disrupting your entire pipeline.
 
-For organizations running sophisticated AI workloads—retrieval-augmented generation, multi-model chains, or continuous learning systems—this approach offers both financial and operational advantages. A truly modular local architecture means predictable costs, no token-counting surprises, and the freedom to adopt improvements without renegotiating vendor terms. [Read the full analysis](https://www.theaijournal.com).
+For organizations running sophisticated AI workloads—retrieval-augmented generation, multi-model chains, or continuous learning systems—this approach offers both financial and operational advantages. A truly modular local architecture means predictable costs, no token-counting surprises, and the freedom to adopt improvements without renegotiating vendor terms. [Read the full analysis](https://aijourn.com/escaping-the-token-economy-architecting-modular-local-ai-ecosystems/).
 
 ---
-*Source: [The AI Journal](https://www.theaijournal.com) · Relevance: 7/10*
+*Source: [The AI Journal](https://aijourn.com/escaping-the-token-economy-architecting-modular-local-ai-ecosystems/) · Relevance: 7/10*

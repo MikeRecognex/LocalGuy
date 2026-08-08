@@ -36,4 +36,4 @@ Local LLMs shine for privacy-critical work, offline scenarios, fine-tuned domain
 [The analysis] helps practitioners make informed decisions about infrastructure investment. Rather than an ideological stance toward either cloud or local deployment, effective teams develop competency with both, using local models for the 80% of routine tasks where they're sufficient while maintaining selective cloud access for specialized needs. This pragmatism is becoming mainstream as the local LLM ecosystem matures.
 
 ---
-*Source: [How-To Geek](https://www.howtogeek.com/) · Relevance: 8/10*
+*Source: [How-To Geek](https://www.howtogeek.com/why-i-use-chatgpt-and-local-llms/) · Relevance: 8/10*

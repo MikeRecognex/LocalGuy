@@ -27,4 +27,4 @@ IBM has released new debugging techniques specifically designed for open-weight 
 This development matters for the local LLM community because debugging at the edge often requires different approaches than cloud-based inference. Better debugging capabilities enable faster iteration cycles when fine-tuning models locally or optimizing inference for specific hardware constraints. The ability to diagnose issues within your own infrastructure is crucial for production deployments where data privacy and latency requirements make cloud alternatives impractical.
 
 ---
-*Source: [Google News](https://www.ibm.com) · Relevance: 8/10*
+*Source: [Google News](https://www.ibm.com/think/news/new-way-debugging-open-weight-models) · Relevance: 8/10*

@@ -36,7 +36,7 @@ The local LLM community is buzzing about a fresh 8B model that introduces archit
 
 For local deployment practitioners, this is particularly relevant because 8B models represent the sweet spot for edge devices: large enough to handle complex reasoning tasks, yet small enough to run on laptops, mobile devices, and embedded systems without specialized accelerators. The architectural innovations suggest meaningful improvements in tokens-per-second and memory efficiency, which directly impact the feasibility of real-time local inference applications.
 
-[Read the full analysis on XDA](https://www.xda-developers.com) to understand the technical innovations and how they compare to previous 8B benchmarks. Early adopters should monitor releases to benchmark this against existing solutions like Mistral 7B and Llama 2 8B variants.
+[Read the full analysis on XDA](https://www.xda-developers.com/tried-new-8b-local-llm-deepseek-r1-design/) to understand the technical innovations and how they compare to previous 8B benchmarks. Early adopters should monitor releases to benchmark this against existing solutions like Mistral 7B and Llama 2 8B variants.
 
 ---
-*Source: [XDA](https://www.xda-developers.com) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/tried-new-8b-local-llm-deepseek-r1-design/) · Relevance: 9/10*

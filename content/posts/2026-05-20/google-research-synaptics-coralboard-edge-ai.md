@@ -40,7 +40,7 @@ Google Research's partnership with Synaptics around Coralboard represents a sign
 
 For practitioners deploying local LLMs, Coralboard and Coral hardware offer a middle ground between generic mobile processors and cloud infrastructure. These accelerators are specifically designed for inference workloads, with optimizations that generic CPUs cannot match. The partnership's emphasis on "immersive" experiences suggests the hardware can handle more complex, multi-modal AI tasks than previous generations.
 
-[Google's showcase at I/O 2026](https://www.manilatimes.com) will likely highlight reference implementations and performance metrics that developers can use to evaluate whether Coral devices fit their deployment requirements. As local LLM models continue to improve in capability-per-parameter, specialized hardware like this becomes increasingly important for achieving acceptable latency and power efficiency.
+[Google's showcase at I/O 2026](https://www.manilatimes.net/2026/05/20/tmt-newswire/globenewswire/google-research-and-synaptics-partner-to-showcase-immersive-edge-ai-experiences-powered-by-the-coralboard-at-google-io-2026/2347553) will likely highlight reference implementations and performance metrics that developers can use to evaluate whether Coral devices fit their deployment requirements. As local LLM models continue to improve in capability-per-parameter, specialized hardware like this becomes increasingly important for achieving acceptable latency and power efficiency.
 
 ---
-*Source: [Google News](https://www.manilatimes.com) · Relevance: 7/10*
+*Source: [Google News](https://www.manilatimes.net/2026/05/20/tmt-newswire/globenewswire/google-research-and-synaptics-partner-to-showcase-immersive-edge-ai-experiences-powered-by-the-coralboard-at-google-io-2026/2347553) · Relevance: 7/10*

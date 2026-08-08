@@ -29,4 +29,4 @@ For local LLM practitioners, this feature streamlines agent-based applications w
 This approach aligns with the broader trend of bringing multi-step reasoning and tool-use capabilities to edge devices, reducing latency and improving privacy compared to cloud-based orchestration.
 
 ---
-*Source: [Google News](https://testingcatalog.com) · Relevance: 6/10*
+*Source: [Google News](https://www.testingcatalog.com/mistral-ai-prepares-workflows-integration-for-le-chat/) · Relevance: 6/10*

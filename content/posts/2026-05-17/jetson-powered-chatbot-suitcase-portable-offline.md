@@ -37,4 +37,4 @@ For local LLM enthusiasts, this project exemplifies how modern edge hardware can
 This type of project has applications in disaster response, field operations, education, and remote areas where connectivity is unreliable. It also showcases the growing ecosystem of tools and frameworks that make deploying LLMs on constrained hardware increasingly accessible to developers and makers without extensive ML infrastructure expertise.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com) · Relevance: 8/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/maker-builds-offline-jetson-powered-chatbot-suitcase-50cd88f8) · Relevance: 8/10*

@@ -32,11 +32,11 @@ mentions:
 status: published
 ---
 
-[ROCm 7.2.3 shows meaningful performance improvements over version 7.0.0 when deployed on AMD's Radeon AI PRO R9700](https://phoronix.com/), according to Phoronix's comprehensive benchmarking. These gains across various compute workloads are particularly relevant for practitioners leveraging AMD's professional-grade GPUs for local LLM inference.
+[ROCm 7.2.3 shows meaningful performance improvements over version 7.0.0 when deployed on AMD's Radeon AI PRO R9700](https://www.phoronix.com/review/amd-rocm7-723), according to Phoronix's comprehensive benchmarking. These gains across various compute workloads are particularly relevant for practitioners leveraging AMD's professional-grade GPUs for local LLM inference.
 
 The performance delta between ROCm versions demonstrates that maintaining up-to-date runtime environments is essential for maximizing hardware utilization in local inference deployments. Organizations running AMD GPU-based LLM infrastructure should evaluate upgrading to newer ROCm versions to capture performance gains without hardware changes.
 
 For teams benchmarking inference costs and throughput on AMD hardware, these benchmark results provide concrete data on the performance trajectory of the ROCm stack and help inform decisions about hardware refresh cycles and optimization priorities.
 
 ---
-*Source: [Phoronix](https://phoronix.com/) · Relevance: 8/10*
+*Source: [Phoronix](https://www.phoronix.com/review/amd-rocm7-723) · Relevance: 8/10*

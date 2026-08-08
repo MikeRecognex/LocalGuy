@@ -37,4 +37,4 @@ For local LLM practitioners, Raspberry Pi deployment has historically been chall
 The practical nature of this tutorial makes it invaluable for developers exploring IoT AI applications, edge computing scenarios, and resource-constrained environments where cloud inference is cost-prohibitive or latency-sensitive.
 
 ---
-*Source: [Virtualization Review](https://virtualizationreview.com) · Relevance: 9/10*
+*Source: [Virtualization Review](https://virtualizationreview.com/articles/2026/03/30/running-ai-on-a-raspberry-pi-part-2-running-ai-on-a-pi-in-under--5-minutes.aspx) · Relevance: 9/10*

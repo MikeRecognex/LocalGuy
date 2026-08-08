@@ -23,11 +23,11 @@ mentions:
 status: published
 ---
 
-The proliferation of on-device AI in consumer smartphones represents a significant validation of local inference at scale. [The AI Journal explores how smartphone AI capabilities make device repair and longevity critical considerations](https://www.theaijournal.com), highlighting the value users place on maintaining access to locally-run intelligence features.
+The proliferation of on-device AI in consumer smartphones represents a significant validation of local inference at scale. [The AI Journal explores how smartphone AI capabilities make device repair and longevity critical considerations](https://aijourn.com/apple-intelligence-galaxy-ai-gemini-why-your-ai-powered-phone-is-worth-repairing/), highlighting the value users place on maintaining access to locally-run intelligence features.
 
 Apple Intelligence, Samsung Galaxy AI, and Google's on-device Gemini implementations all demonstrate that deploying LLMs and AI models directly on consumer hardware is not only feasible but increasingly expected. These systems rely on efficient quantisation, model distillation, and careful resource management—the same techniques that local LLM practitioners apply to desktop and server environments.
 
 For the local AI community, the smartphone market serves as proof that mainstream users care about privacy-preserving, offline-capable AI inference. Understanding how these mobile implementations achieve efficiency at scale offers valuable lessons for optimizing LLMs on other resource-constrained devices.
 
 ---
-*Source: [The AI Journal](https://www.theaijournal.com) · Relevance: 7/10*
+*Source: [The AI Journal](https://aijourn.com/apple-intelligence-galaxy-ai-gemini-why-your-ai-powered-phone-is-worth-repairing/) · Relevance: 7/10*

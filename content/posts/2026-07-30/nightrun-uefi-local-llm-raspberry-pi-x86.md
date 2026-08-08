@@ -33,4 +33,4 @@ NightRun represents a significant shift in local LLM deployment paradigms by eli
 Support for both Raspberry Pi 5 and x86 platforms makes this solution broadly applicable across different hardware ecosystems. For local LLM practitioners, this opens possibilities for deploying inference on devices previously considered too constrained, as well as creating secure, purpose-built inference appliances. The bare-metal approach could significantly improve latency and throughput compared to traditional OS-based deployments.
 
 ---
-*Source: [CNX Software](https://www.cnx-software.com) · Relevance: 9/10*
+*Source: [CNX Software](https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/) · Relevance: 9/10*

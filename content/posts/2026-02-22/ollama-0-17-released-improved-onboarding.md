@@ -31,4 +31,4 @@ For local LLM practitioners, better onboarding means faster time-to-value and re
 https://www.phoronix.com/news/ollama-0.17
 
 ---
-*Source: [Phoronix](https://www.phoronix.com/) · Relevance: 8/10*
+*Source: [Phoronix](https://www.phoronix.com/news/ollama-0.17) · Relevance: 8/10*

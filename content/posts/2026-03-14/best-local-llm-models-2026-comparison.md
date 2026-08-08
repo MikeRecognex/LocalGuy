@@ -28,7 +28,7 @@ Model selection is one of the most critical decisions in local LLM deployment, a
 
 For practitioners, choosing between models involves trade-offs: latency, memory usage, accuracy on your specific tasks, and hardware compatibility all factor into the decision. A well-structured comparison helps you understand these trade-offs and select a model that aligns with your constraints. Whether you're targeting mobile devices, embedded systems, or powerful consumer hardware, this guide should provide concrete recommendations with performance metrics.
 
-Consult [SitePoint's model comparison guide](https://www.sitepoint.com/) to find the best model for your deployment scenario.
+Consult [SitePoint's model comparison guide](https://www.sitepoint.com/best-local-llm-models-2026/) to find the best model for your deployment scenario.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com/) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/best-local-llm-models-2026/) · Relevance: 8/10*

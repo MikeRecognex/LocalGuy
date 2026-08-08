@@ -26,7 +26,7 @@ This comprehensive guide serves as an excellent entry point for developers new t
 
 The value of such guides lies in their ability to synthesize fragmented knowledge across multiple tools and approaches. Whether the focus is on Ollama for ease of use, llama.cpp for performance, or other specialized frameworks, a complete developer's guide helps practitioners make informed decisions about their tech stack based on their specific constraints.
 
-Explore the [full developer's guide at SitePoint](https://www.sitepoint.com/) for the latest practices in local LLM deployment.
+Explore the [full developer's guide at SitePoint](https://www.sitepoint.com/run-local-llms-2026-complete-developer-guide/) for the latest practices in local LLM deployment.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com/) · Relevance: 8/10*
+*Source: [SitePoint](https://www.sitepoint.com/run-local-llms-2026-complete-developer-guide/) · Relevance: 8/10*

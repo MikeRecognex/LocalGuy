@@ -39,4 +39,4 @@ Quantization has always been central to local LLM deployment, and TurboQuant app
 The QVAC SDK upgrades position Tether AI as a serious player in the local inference infrastructure space. For practitioners using quantized models with llama.cpp, ollama, or other frameworks, tools like TurboQuant represent the kind of algorithmic innovation that continuously raises the ceiling for what's possible on consumer hardware.
 
 ---
-*Source: [Google News](https://tether.io) · Relevance: 8/10*
+*Source: [Google News](https://tether.io/news/tether-ai-upgrades-qvac-sdk-bringing-turboquant-to-everyday-devices-giving-local-ai-data-center-sized-memory/) · Relevance: 8/10*

@@ -37,7 +37,7 @@ Adobe has shipped Photoshop 27.7 with integrated on-device AI processing capabil
 
 The move to local processing addresses privacy concerns and reduces latency for AI-powered editing features, allowing users to process images without sending data to remote servers. This development is noteworthy because it demonstrates that sophisticated AI models can be efficiently deployed on consumer hardware without sacrificing performance or feature richness.
 
-For the local LLM community, Adobe's approach serves as a blueprint for integrating AI models directly into production applications. Visit [9to5Mac](https://www.9to5mac.com) to learn more about the specific features and performance characteristics of this update.
+For the local LLM community, Adobe's approach serves as a blueprint for integrating AI models directly into production applications. Visit [9to5Mac](https://9to5mac.com/2026/05/20/adobe-photoshop-update-brings-on-device-ai-processing-but-there-is-a-catch/) to learn more about the specific features and performance characteristics of this update.
 
 ---
-*Source: [9to5Mac](https://www.9to5mac.com) · Relevance: 8/10*
+*Source: [9to5Mac](https://9to5mac.com/2026/05/20/adobe-photoshop-update-brings-on-device-ai-processing-but-there-is-a-catch/) · Relevance: 8/10*

@@ -28,9 +28,9 @@ status: published
 
 llama.cpp continues to be the backbone of local LLM deployment, and the b10075 release demonstrates why. This update focuses on critical runtime improvements that directly impact inference speed and resource utilization for practitioners running models on consumer hardware.
 
-While specific details on the four upgrades weren't disclosed in the headline, [llama.cpp's incremental releases typically address quantization efficiency, memory management, and inference acceleration](https://techi.com). For local deployment enthusiasts, staying current with llama.cpp versions is essential—each release compounds the performance gains that make running 7B-70B parameter models practical on edge devices.
+While specific details on the four upgrades weren't disclosed in the headline, [llama.cpp's incremental releases typically address quantization efficiency, memory management, and inference acceleration](https://www.techi.com/llama-cpp-b10075-local-ai-agent-runtime/). For local deployment enthusiasts, staying current with llama.cpp versions is essential—each release compounds the performance gains that make running 7B-70B parameter models practical on edge devices.
 
 This update is particularly valuable for those balancing cost and capability, reinforcing why llama.cpp remains the go-to inference runtime for self-hosted LLM deployments.
 
 ---
-*Source: [Google News](https://techi.com) · Relevance: 9/10*
+*Source: [Google News](https://www.techi.com/llama-cpp-b10075-local-ai-agent-runtime/) · Relevance: 9/10*

@@ -22,11 +22,11 @@ mentions:
 status: published
 ---
 
-The user experience gap between local LLM tools remains significant, with [practitioners increasingly reporting that Ollama delivers working setups in minutes versus hours required by LM Studio](https://www.makeuseofcom). This difference has real implications for adoption, especially among less technical users exploring local inference for the first time.
+The user experience gap between local LLM tools remains significant, with [practitioners increasingly reporting that Ollama delivers working setups in minutes versus hours required by LM Studio](https://www.makeuseof.com/stopped-fighting-lm-studios-model-ui-switched-ollama-setup-took-minutes/). This difference has real implications for adoption, especially among less technical users exploring local inference for the first time.
 
 Ollama's strength lies in its opinionated, batteries-included approach: it handles model downloading, quantisation selection, and port configuration automatically. While LM Studio offers a more granular UI, that flexibility comes at the cost of complexity. For users running standard inference workflows—prompt completion, basic chat interaction, simple integrations—Ollama eliminates unnecessary configuration friction.
 
 This trend suggests the local LLM ecosystem is maturing toward sensible defaults and simplified workflows. As more developers choose tools based on setup speed and operational simplicity, we can expect continued momentum toward leaner, Unix-philosophy-aligned projects. For practitioners new to the space, Ollama remains the recommended first tool to evaluate.
 
 ---
-*Source: [MakeUseOf](https://www.makeuseofcom) · Relevance: 8/10*
+*Source: [MakeUseOf](https://www.makeuseof.com/stopped-fighting-lm-studios-model-ui-switched-ollama-setup-took-minutes/) · Relevance: 8/10*

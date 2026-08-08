@@ -27,7 +27,7 @@ Google's expansion of the AI Edge Gallery to macOS represents a major convenienc
 
 For local LLM practitioners working on macOS, this development streamlines the development and deployment workflow. Rather than relying on third-party tools to run models locally, developers can now use Google's official framework integrated directly into the IDE experience. The Edge Gallery provides optimized model variants designed specifically for local inference, reducing the friction in getting started with on-device AI compared to manually setting up llama.cpp or other community frameworks.
 
-This move also signals Google's commitment to the local-first AI vision, competing directly with frameworks like MLX and Ollama. The [Google AI Edge Gallery on macOS](https://memeburn.com) is particularly relevant for developers seeking vendor-backed, well-maintained tools for deploying Google's own models locally.
+This move also signals Google's commitment to the local-first AI vision, competing directly with frameworks like MLX and Ollama. The [Google AI Edge Gallery on macOS](https://memeburn.com/google-ai-edge-gallery-comes-to-macos-bringing-gemini-models-offline/) is particularly relevant for developers seeking vendor-backed, well-maintained tools for deploying Google's own models locally.
 
 ---
-*Source: [Memeburn](https://memeburn.com) · Relevance: 8/10*
+*Source: [Memeburn](https://memeburn.com/google-ai-edge-gallery-comes-to-macos-bringing-gemini-models-offline/) · Relevance: 8/10*

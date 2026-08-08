@@ -37,7 +37,7 @@ METATRON represents a practical application of local LLM deployment in cybersecu
 
 The tool demonstrates how local LLMs can be integrated into specialized domain workflows, particularly where data sensitivity and regulatory compliance are paramount. Rather than sending reconnaissance data, vulnerability reports, or exploit findings to external APIs, organizations can now perform intelligent security analysis within their own infrastructure.
 
-[METATRON](https://cybersecuritynews.com) highlights an emerging pattern where local inference enables new use cases that were previously impractical with cloud-dependent APIs. For security-conscious organizations and individual practitioners, this showcases why the local LLM ecosystem continues to attract development resources and community enthusiasm.
+[METATRON](https://cybersecuritynews.com/metatron-ai-penetration-testing/) highlights an emerging pattern where local inference enables new use cases that were previously impractical with cloud-dependent APIs. For security-conscious organizations and individual practitioners, this showcases why the local LLM ecosystem continues to attract development resources and community enthusiasm.
 
 ---
-*Source: [CyberSecurityNews](https://cybersecuritynews.com) · Relevance: 7/10*
+*Source: [CyberSecurityNews](https://cybersecuritynews.com/metatron-ai-penetration-testing/) · Relevance: 7/10*

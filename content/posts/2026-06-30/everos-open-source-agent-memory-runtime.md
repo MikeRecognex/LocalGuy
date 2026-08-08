@@ -29,4 +29,4 @@ EverOS brings much-needed infrastructure for managing agent state and memory in 
 For developers running multi-turn conversations or autonomous agents on resource-constrained hardware, EverOS offers a practical path to persistent, context-aware inference. The self-evolving skills capability means agents can improve their behavior over time without retraining, making long-lived local deployments more adaptive. This open-source contribution fills a gap in the ecosystem between simple chat interfaces and complex enterprise RAG systems, making sophisticated agent patterns accessible to local LLM practitioners.
 
 ---
-*Source: [MarkTechPost](https://marktechpost.com) · Relevance: 8/10*
+*Source: [MarkTechPost](https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/) · Relevance: 8/10*

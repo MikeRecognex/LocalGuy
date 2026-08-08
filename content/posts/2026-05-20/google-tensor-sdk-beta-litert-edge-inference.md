@@ -31,7 +31,7 @@ Google's new Tensor SDK beta introduces LiteRT, a purpose-built runtime designed
 
 For local LLM deployment, LiteRT's lightweight architecture is particularly valuable when running inference on resource-constrained devices. The toolkit promises reduced model size requirements and faster inference speeds compared to traditional approaches, making it easier to deploy capable AI systems directly on smartphones, tablets, and embedded hardware without cloud connectivity.
 
-This release aligns with the broader industry shift toward on-device AI and provides developers with [official tooling from Google](https://blog.google) for edge deployment—a critical resource for anyone building privacy-preserving, latency-sensitive AI applications locally.
+This release aligns with the broader industry shift toward on-device AI and provides developers with [official tooling from Google](https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/) for edge deployment—a critical resource for anyone building privacy-preserving, latency-sensitive AI applications locally.
 
 ---
-*Source: [Google News](https://blog.google) · Relevance: 9/10*
+*Source: [Google News](https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/) · Relevance: 9/10*

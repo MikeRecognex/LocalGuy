@@ -40,4 +40,4 @@ For local LLM deployment practitioners, this chip is important because it demons
 The broader implication is that deploying locally-quantized language models to mobile devices is becoming increasingly viable without custom optimization per device. As chipmakers integrate better AI capabilities across price tiers, developers can target larger audiences with on-device LLM applications. This accelerates the timeline for privacy-respecting, offline-capable AI features in consumer applications.
 
 ---
-*Source: [Google News](https://pandaily.com) · Relevance: 8/10*
+*Source: [Google News](https://pandaily.com/mediatek-dimensity-8550-4nm-mobile-soc-may2026) · Relevance: 8/10*

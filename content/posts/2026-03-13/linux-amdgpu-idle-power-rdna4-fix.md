@@ -33,4 +33,4 @@ For self-hosted LLM deployments on AMD hardware, GPU power efficiency directly i
 As AMD's RDNA and newer architectures become increasingly accessible options for local LLM inference (particularly as alternatives to Nvidia in cost-sensitive scenarios), driver-level optimizations like this become critical. The fix underscores that successful local deployment requires not just capable hardware, but also mature software support from kernel and driver maintainers.
 
 ---
-*Source: [Phoronix](https://www.phoronix.com) · Relevance: 8/10*
+*Source: [Phoronix](https://www.phoronix.com/news/Linux-7-Fix-Idle-RDNA4-Compute) · Relevance: 8/10*

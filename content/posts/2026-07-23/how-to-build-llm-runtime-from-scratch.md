@@ -36,4 +36,4 @@ Understanding runtime internals directly benefits local LLM practitioners. Wheth
 This educational approach democratizes the optimization knowledge previously concentrated in teams at Hugging Face, Ollama, and other framework maintainers. As the community develops deeper expertise in runtime design, we'll likely see faster iteration on local inference capabilities and emergence of niche runtimes optimized for specific use cases like mobile, embedded, and edge deployment.
 
 ---
-*Source: [Google News](https://towardsdatascience.com) · Relevance: 8/10*
+*Source: [Google News](https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/) · Relevance: 8/10*

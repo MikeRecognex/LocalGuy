@@ -36,4 +36,4 @@ For the local LLM community, this type of practical guidance is invaluable as th
 The guide's emphasis on avoiding hype is particularly relevant given recent hardware announcements and vendor marketing claims. Practitioners should use such resources to evaluate whether local deployment is appropriate for their specific constraints—model size, latency requirements, budget, and data sensitivity—rather than pursuing local inference as an end goal regardless of practical considerations.
 
 ---
-*Source: [Editorialge](https://editorialge.com) · Relevance: 8/10*
+*Source: [Editorialge](https://editorialge.com/run-llm-locally-privacy-hardware-limits/) · Relevance: 8/10*

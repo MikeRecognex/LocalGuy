@@ -30,4 +30,4 @@ For local LLM practitioners targeting spatial computing and edge devices, the Re
 The trend of hardware vendors integrating specialized AI engines into consumer devices reflects growing recognition that local inference will be essential for next-generation interactive applications. As spatial computing adoption accelerates, platforms like Reality Elite will become reference architectures for practitioners building privacy-preserving, low-latency AI experiences.
 
 ---
-*Source: [Pulse 2.0](https://pulse.2point0.io) · Relevance: 8/10*
+*Source: [Pulse 2.0](https://pulse2.com/qualcomm-launches-snapdragon-reality-elite-platform-for-ai-powered-spatial-computing/) · Relevance: 8/10*

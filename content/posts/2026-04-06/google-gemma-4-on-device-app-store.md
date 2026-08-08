@@ -35,9 +35,9 @@ status: published
 
 Google's AI Edge Gallery app has achieved significant mainstream traction, breaking into the App Store's top 10, as users explore running Gemma 4 models directly on their iOS devices. This marks an important inflection point where on-device LLM inference is becoming accessible to non-technical users, not just developers and researchers.
 
-Gemma 4 represents Google's commitment to creating models specifically optimized for edge deployment, with reduced parameter counts and quantized variants designed for mobile inference. The success of the [Google AI Edge Gallery](https://officechai.com) demonstrates growing consumer interest in privacy-preserving, internet-independent AI capabilities on personal devices.
+Gemma 4 represents Google's commitment to creating models specifically optimized for edge deployment, with reduced parameter counts and quantized variants designed for mobile inference. The success of the [Google AI Edge Gallery](https://officechai.com/ai/google-ai-edge-gallery-breaks-into-top-10-on-app-store-as-users-try-out-on-device-gemma-4-model/) demonstrates growing consumer interest in privacy-preserving, internet-independent AI capabilities on personal devices.
 
 For the local LLM community, this validates the market demand for edge-optimized models and consumer-friendly inference tools. It also raises the bar for open-source alternatives like Ollama and llama.cpp, encouraging continued optimization work and model compression techniques.
 
 ---
-*Source: [OfficeChai](https://officechai.com) · Relevance: 8/10*
+*Source: [OfficeChai](https://officechai.com/ai/google-ai-edge-gallery-breaks-into-top-10-on-app-store-as-users-try-out-on-device-gemma-4-model/) · Relevance: 8/10*

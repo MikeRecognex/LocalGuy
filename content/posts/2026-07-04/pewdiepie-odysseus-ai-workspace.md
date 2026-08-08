@@ -31,4 +31,4 @@ Odysseus likely provides utilities for environment management, model loading, ex
 While commercial alternatives exist, open-source workspace solutions allow community customization and integration with existing local deployment pipelines, making them valuable for teams building bespoke AI systems without cloud dependencies.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com) · Relevance: 6/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/pewdiepie-releases-open-source-odysseus-ai-workspace-ccad3aef) · Relevance: 6/10*

@@ -34,4 +34,4 @@ For the local LLM community, this development matters because improved mobile So
 As mobile chipmakers compete to embed more capable AI accelerators, we should expect similar announcements from Qualcomm, Apple, and MediaTek, further democratizing local LLM deployment across consumer devices.
 
 ---
-*Source: [Google News](https://www.digitimes.com/) · Relevance: 8/10*
+*Source: [Google News](https://www.digitimes.com/news/a20260615PD207/samsung-exynos-performance-on-device-ai-mobile.html) · Relevance: 8/10*

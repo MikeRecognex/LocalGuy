@@ -26,7 +26,7 @@ Samsung's introduction of UFS 5.0 storage marks a critical hardware milestone fo
 
 For practitioners deploying quantized models on smartphones and edge devices, storage bandwidth has been a limiting factor. Models must load weights from flash into memory for inference; slower storage means longer latency and higher power consumption. UFS 5.0's 2x speed improvement directly translates to faster model loading, reduced memory pressure, and the ability to run larger quantized models on devices with limited RAM.
 
-This hardware evolution will unlock practical deployment of larger open-source models on flagship phones. [Samsung's engineering](https://www.hotshardware.com) specifically targets AI workloads, signaling that device manufacturers now prioritize on-device inference performance as a key differentiator in the AI smartphone era.
+This hardware evolution will unlock practical deployment of larger open-source models on flagship phones. [Samsung's engineering](https://hothardware.com/news/samsung-ufs-50-doubles-smartphone-storage-speeds) specifically targets AI workloads, signaling that device manufacturers now prioritize on-device inference performance as a key differentiator in the AI smartphone era.
 
 ---
-*Source: [HotHardware](https://www.hotshardware.com) · Relevance: 8/10*
+*Source: [HotHardware](https://hothardware.com/news/samsung-ufs-50-doubles-smartphone-storage-speeds) · Relevance: 8/10*

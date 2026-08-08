@@ -39,4 +39,4 @@ The piece likely covers practical topics such as model selection, performance ex
 This narrative also reflects a broader industry trend: as models become more efficient and quantisation techniques mature, the total cost of ownership for local inference can undercut cloud API subscriptions within months, particularly for users with consistent inference workloads.
 
 ---
-*Source: [MakeUseOf](https://www.makeuseof.com) · Relevance: 8/10*
+*Source: [MakeUseOf](https://www.makeuseof.com/stopped-paying-for-chatgpt-and-switched-to-local-llm-that-runs-on-my-laptop/) · Relevance: 8/10*

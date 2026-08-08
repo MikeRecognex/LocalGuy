@@ -31,4 +31,4 @@ This new free tool automates that process by taking your hardware specifications
 This development aligns with the broader ecosystem trend toward accessibility tools that lower the complexity curve for local LLM deployment, making it easier for developers to experiment beyond just Ollama and llama.cpp.
 
 ---
-*Source: [XDA](https://www.xda-developers.com/) · Relevance: 9/10*
+*Source: [XDA](https://www.xda-developers.com/open-source-tool-is-the-first-step-before-trying-out-local-ai-llms-llmfit/) · Relevance: 9/10*

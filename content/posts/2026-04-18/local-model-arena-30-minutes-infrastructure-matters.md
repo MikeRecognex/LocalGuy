@@ -37,7 +37,7 @@ A practical deep-dive from HackerNoon demonstrates that building local LLM compa
 
 This insight is crucial for anyone planning local deployments. The piece likely covers containerization strategies (Docker/Podman), concurrent model serving, GPU memory management, and latency optimization. These infrastructure decisions determine whether your setup can effectively run multiple models for comparison or falls apart under simultaneous load.
 
-[Explore the full analysis on HackerNoon](https://hackernoon.com) to understand the infrastructure patterns that matter most. This is essential reading for teams planning production local LLM deployments at scale.
+[Explore the full analysis on HackerNoon](https://hackernoon.com/we-built-a-local-model-arena-in-30-minutes-infrastructure-mattered-more-than-the-app) to understand the infrastructure patterns that matter most. This is essential reading for teams planning production local LLM deployments at scale.
 
 ---
-*Source: [HackerNoon](https://hackernoon.com) · Relevance: 8/10*
+*Source: [HackerNoon](https://hackernoon.com/we-built-a-local-model-arena-in-30-minutes-infrastructure-mattered-more-than-the-app) · Relevance: 8/10*

@@ -34,7 +34,7 @@ Google continues refining its commitment to offline AI with three new feature ad
 
 The feature upgrades suggest that Google's engineering teams have solved several practical challenges in deploying inference models locally: managing model updates, ensuring acceptable performance within power budgets, and maintaining responsive UX despite computational constraints. For developers using Tensor SDK and similar Google tooling, these refinements provide real-world validation that sophisticated features can run entirely on-device.
 
-With [these enhancements now live](https://www.androidauthority.com), the gap between cloud-based and local AI continues to narrow. Local LLM practitioners can draw insights from Google's implementation patterns, particularly around feature-scoped inference and the tradeoffs between model capability and device resource consumption.
+With [these enhancements now live](https://www.androidauthority.com/google-ai-edge-offline-ai-app-upgrades-3669038/), the gap between cloud-based and local AI continues to narrow. Local LLM practitioners can draw insights from Google's implementation patterns, particularly around feature-scoped inference and the tradeoffs between model capability and device resource consumption.
 
 ---
-*Source: [Google News](https://www.androidauthority.com) · Relevance: 8/10*
+*Source: [Google News](https://www.androidauthority.com/google-ai-edge-offline-ai-app-upgrades-3669038/) · Relevance: 8/10*

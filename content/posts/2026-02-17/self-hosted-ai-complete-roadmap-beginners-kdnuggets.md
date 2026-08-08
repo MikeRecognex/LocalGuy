@@ -33,7 +33,7 @@ KDnuggets has released a foundational roadmap for implementing self-hosted AI sy
 
 This roadmap is particularly timely given the accelerating interest in local LLM deployment across enterprises and individual developers. By providing a structured approach to self-hosting, the guide addresses common pain points such as hardware selection, framework choices (Ollama, llama.cpp, vLLM), and operational considerations like monitoring and scaling. The content bridges the gap between academic knowledge and production deployment, offering practical guidance on tool selection and architecture patterns.
 
-For local LLM practitioners, this kind of community-curated guidance is essential for onboarding new team members and establishing best practices. [Check out the complete roadmap](https://www.kdnuggets.com/) for detailed walkthroughs and practical recommendations on getting started with self-hosted AI infrastructure.
+For local LLM practitioners, this kind of community-curated guidance is essential for onboarding new team members and establishing best practices. [Check out the complete roadmap](https://www.kdnuggets.com/self-hosted-ai-complete-roadmap-for-beginners) for detailed walkthroughs and practical recommendations on getting started with self-hosted AI infrastructure.
 
 ---
-*Source: [KDnuggets](https://www.kdnuggets.com/) · Relevance: 8/10*
+*Source: [KDnuggets](https://www.kdnuggets.com/self-hosted-ai-complete-roadmap-for-beginners) · Relevance: 8/10*

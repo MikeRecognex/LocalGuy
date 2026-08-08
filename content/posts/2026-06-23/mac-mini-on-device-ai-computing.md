@@ -29,4 +29,4 @@ For local LLM practitioners, the Mac Mini's appeal lies in its efficient GPU arc
 This positions the Mac Mini as a practical alternative to traditional GPU-based setups for developers prototyping local LLM applications, building RAG systems, or running agents that require consistent, responsive inference without cloud dependencies.
 
 ---
-*Source: [Google News](https://digit.in) · Relevance: 7/10*
+*Source: [Google News](https://www.digit.in/features/general/the-mac-mini-is-the-best-on-device-ai-computer-you-can-buy-heres-why.html) · Relevance: 7/10*

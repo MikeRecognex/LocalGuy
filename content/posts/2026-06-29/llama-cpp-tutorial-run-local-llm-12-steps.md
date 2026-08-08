@@ -30,4 +30,4 @@ For practitioners looking to deploy LLMs with minimal overhead, llama.cpp's effi
 This tutorial comes at a time when local inference is becoming the default choice for privacy-conscious organizations and developers who want to avoid vendor lock-in. Having clear, actionable documentation helps accelerate adoption and ensures quality implementations across the community.
 
 ---
-*Source: [Google News](https://tech-insider.org) · Relevance: 9/10*
+*Source: [Google News](https://tech-insider.org/llama-cpp-tutorial-2026/) · Relevance: 9/10*

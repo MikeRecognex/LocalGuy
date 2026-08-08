@@ -32,4 +32,4 @@ For practitioners requiring serious local LLM capabilities without cloud costs, 
 The dual-GPU architecture enables parallel inference, larger batch sizes, and testing of multiple models simultaneously—capabilities essential for production evaluation and benchmarking. For organizations committed to local deployment, such a workstation can serve as both a development platform and a proof-of-concept for understanding real infrastructure requirements before scaling to larger deployments.
 
 ---
-*Source: [Hackster.io](https://www.hackster.io) · Relevance: 7/10*
+*Source: [Hackster.io](https://www.hackster.io/dilshan-jayakody/building-a-dual-v100-ai-workstation-for-local-llms-9eb327) · Relevance: 7/10*

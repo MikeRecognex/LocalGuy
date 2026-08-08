@@ -26,7 +26,7 @@ Google has made a significant breakthrough in edge LLM deployment by introducing
 
 For local LLM practitioners, this development is transformative. QAT differs from standard post-training quantization by accounting for quantization effects during the training process itself, resulting in better model quality at lower bit-widths. The ability to deploy Gemma 4 with under 1GB of memory opens new possibilities for on-device AI applications that previously required either cloud connectivity or more powerful hardware. This is particularly relevant for developers targeting the growing market of AI-enabled mobile devices and edge systems.
 
-The [announcement from GIGAZINE and other sources](https://gigazine.net) indicates Google is aggressively pushing the boundaries of what's possible in on-device inference, directly competing with other frameworks optimizing for edge deployment like MLX and llama.cpp. Practitioners should monitor Gemma 4's release timeline and integration into popular local inference frameworks.
+The [announcement from GIGAZINE and other sources](https://gigazine.net/gsc_news/en/20260608-google-ai-gemma-4-qat/) indicates Google is aggressively pushing the boundaries of what's possible in on-device inference, directly competing with other frameworks optimizing for edge deployment like MLX and llama.cpp. Practitioners should monitor Gemma 4's release timeline and integration into popular local inference frameworks.
 
 ---
-*Source: [Google News / GIGAZINE](https://gigazine.net) · Relevance: 9/10*
+*Source: [Google News / GIGAZINE](https://gigazine.net/gsc_news/en/20260608-google-ai-gemma-4-qat/) · Relevance: 9/10*

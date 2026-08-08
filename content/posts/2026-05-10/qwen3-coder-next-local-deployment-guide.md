@@ -33,7 +33,7 @@ Qwen3-Coder-Next represents a significant advancement in open-source coding mode
 
 For developers building AI-assisted development tools, local coding models offer substantial advantages: lower latency, complete privacy, reduced operational costs, and no API rate limits. Qwen3-Coder-Next appears specifically engineered for these on-device use cases, making it an excellent choice for IDE integrations and developer workflows.
 
-[The complete deployment guide](https://www.sitepoint.com/) walks through installation, optimization techniques, and integration patterns for incorporating this model into existing development environments. This is essential reading for anyone building local AI coding assistants.
+[The complete deployment guide](https://www.sitepoint.com/qwen3codernext-local-deployment-a-complete-developer-guide-2026/) walks through installation, optimization techniques, and integration patterns for incorporating this model into existing development environments. This is essential reading for anyone building local AI coding assistants.
 
 ---
-*Source: [SitePoint](https://www.sitepoint.com/) · Relevance: 9/10*
+*Source: [SitePoint](https://www.sitepoint.com/qwen3codernext-local-deployment-a-complete-developer-guide-2026/) · Relevance: 9/10*

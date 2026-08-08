@@ -35,4 +35,4 @@ Arc Pro B70's integration into vLLM means practitioners can now achieve competit
 For local LLM operators evaluating GPU options, Arc Pro B70 with vLLM 0.14.0 now represents a validated, production-ready path forward. The release signals Intel's commitment to supporting mainstream ML frameworks, reducing friction for teams considering non-NVIDIA GPU deployments.
 
 ---
-*Source: [Phoronix](https://www.phoronix.com) · Relevance: 9/10*
+*Source: [Phoronix](https://www.phoronix.com/news/Intel-LLM-Scaler-vllm-0.14-b8.2) · Relevance: 9/10*

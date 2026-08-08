@@ -37,4 +37,4 @@ For the local LLM community, this development validates aggressive optimization 
 This achievement has implications for edge devices beyond wearables: IoT sensors, embedded systems, and mobile devices could similarly benefit from similar optimization approaches, expanding the practical use cases for locally-deployed language models.
 
 ---
-*Source: [IEEE Spectrum](https://spectrum.ieee.org) · Relevance: 8/10*
+*Source: [IEEE Spectrum](https://spectrum.ieee.org/amp/wearable-devices-ai-health-mai-2676089259) · Relevance: 8/10*

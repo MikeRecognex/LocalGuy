@@ -41,4 +41,4 @@ Qwen3.5's efficiency characteristics make it particularly well-suited for constr
 This guide exemplifies a broader trend where the barrier to entry for advanced local LLM capabilities continues to drop, making edge AI increasingly practical for a wider audience of developers and organizations.
 
 ---
-*Source: [KDnuggets](https://www.kdnuggets.com) · Relevance: 8/10*
+*Source: [KDnuggets](https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide) · Relevance: 8/10*

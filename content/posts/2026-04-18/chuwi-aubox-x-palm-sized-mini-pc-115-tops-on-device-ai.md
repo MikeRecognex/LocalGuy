@@ -36,7 +36,7 @@ The CHUWI AuBox X represents a significant step in hardware miniaturization for 
 
 For local LLM practitioners, the key takeaway is that viable inference hardware continues to shrink while maintaining substantial compute capacity. A device of this form factor can run quantized models efficiently, making it suitable for real-time inference tasks without relying on cloud infrastructure. The compact size means lower power consumption and easier deployment in diverse environments.
 
-While specific model compatibility and benchmarks need verification, hardware like the AuBox X demonstrates the trend toward ubiquitous local inference. [Learn more on iGeekphone](https://www.igeekphone.com) about the specifications and potential applications for compact AI inference platforms.
+While specific model compatibility and benchmarks need verification, hardware like the AuBox X demonstrates the trend toward ubiquitous local inference. [Learn more on iGeekphone](https://www.igeekphone.com/115-tops-in-0-67l-chuwi-aubox-x-packs-on-device-ai-power-into-a-palm-sized-mini-pc/) about the specifications and potential applications for compact AI inference platforms.
 
 ---
-*Source: [iGeekphone](https://www.igeekphone.com) · Relevance: 8/10*
+*Source: [iGeekphone](https://www.igeekphone.com/115-tops-in-0-67l-chuwi-aubox-x-packs-on-device-ai-power-into-a-palm-sized-mini-pc/) · Relevance: 8/10*

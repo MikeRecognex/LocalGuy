@@ -40,4 +40,4 @@ This use case validates the practical value of on-device inference beyond text-b
 For local LLM practitioners, NordVPN's implementation shows how edge inference solves real security and privacy problems in production applications. Whether deploying audio models, vision systems, or text LLMs, the principle remains: local computation preserves privacy, reduces latency, and eliminates cloud dependencies—drivers increasingly important to end users and enterprises evaluating on-device AI solutions.
 
 ---
-*Source: [Google News](https://www.ghacks.net/) · Relevance: 6/10*
+*Source: [Google News](https://www.ghacks.net/2026/05/04/nordvpn-adds-on-device-ai-voice-detector-to-chrome-extension-to-identify-synthetic-audio/) · Relevance: 6/10*

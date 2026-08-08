@@ -25,4 +25,4 @@ For the local LLM community, Apple Silicon has become increasingly important—t
 Apple's focus on device-side AI infrastructure indicates the company views on-device LLM capability as a core differentiator. This sustained investment in silicon designed for inference workloads creates a virtuous cycle for the local AI community: better hardware attracts more developers, which drives tool maturation (like better MLX optimization), which encourages further hardware improvements.
 
 ---
-*Source: [Google News](https://finance.biggo.com) · Relevance: 8/10*
+*Source: [Google News](https://finance.biggo.com/news/ee5e32ea-6151-4246-a9c8-1f76a023b564) · Relevance: 8/10*

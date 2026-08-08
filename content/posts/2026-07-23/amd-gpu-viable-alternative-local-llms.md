@@ -35,4 +35,4 @@ This development matters significantly for practitioners looking to build afford
 As the edge AI market continues its rapid 24%+ annual growth, hardware diversity reduces vendor lock-in and accelerates adoption of local inference solutions. More options mean more people can experiment with and deploy LLMs locally without betting exclusively on a single GPU manufacturer.
 
 ---
-*Source: [Google News](https://www.makeuseof.com) · Relevance: 9/10*
+*Source: [Google News](https://www.makeuseof.com/nvidia-isnt-only-choice-for-local-llms-anymore-my-amd-test-proves-it/) · Relevance: 9/10*

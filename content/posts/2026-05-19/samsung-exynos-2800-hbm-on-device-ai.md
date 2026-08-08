@@ -35,4 +35,4 @@ For local LLM deployment, this hardware advancement is transformative. Current s
 As the first mainstream mobile chip with on-package HBM, the Exynos 2800 signals that semiconductor manufacturers are taking local AI seriously. This could accelerate similar innovations from Qualcomm and Apple, leading to a new generation of smartphones genuinely capable of running powerful open-source language models without external connectivity.
 
 ---
-*Source: [Google News](https://news.google.com/) · Relevance: 9/10*
+*Source: [Google News](https://www.androidheadlines.com/2026/05/samsung-exynos-2800-first-mobile-chip-hbm-ai.html) · Relevance: 9/10*

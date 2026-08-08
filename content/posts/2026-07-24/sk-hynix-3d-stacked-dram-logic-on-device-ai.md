@@ -34,4 +34,4 @@ This advancement is particularly significant for practitioners attempting on-dev
 For the local LLM community, this development suggests a near-term path toward more viable on-device deployment without relying solely on software optimisations like quantisation and pruning. While the technology is still in hiring/development phases targeting specific U.S. customers, its maturation could fundamentally change what's possible in edge AI over the next 2-3 years.
 
 ---
-*Source: [Wccftech](https://www.wccftech.com) · Relevance: 9/10*
+*Source: [Wccftech](https://wccftech.com/sk-hynix-working-on-dram-breakthrough-to-bring-real-on-device-ai-to-smartphones/) · Relevance: 9/10*

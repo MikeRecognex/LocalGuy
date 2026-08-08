@@ -26,4 +26,4 @@ The accessibility of such terminal-integrated AI assistants demonstrates how mat
 This approach to local AI integration is particularly valuable for privacy-conscious developers and teams working in restricted environments. By keeping inference local and within the terminal, users maintain full control over their data and can customize their AI assistant's behavior to match their specific workflows.
 
 ---
-*Source: [Google News](https://www.makeuseof.com) · Relevance: 8/10*
+*Source: [Google News](https://www.makeuseof.com/local-ai-linux-terminal-troubleshooting/) · Relevance: 8/10*

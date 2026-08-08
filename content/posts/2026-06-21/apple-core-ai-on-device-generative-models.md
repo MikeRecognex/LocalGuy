@@ -31,4 +31,4 @@ The framework's integration across Apple's hardware ecosystem—from iPhones to 
 For the broader local LLM community, Apple's commitment validates years of ecosystem development and provides a significant user base for optimized inference implementations. This announcement accelerates the transition from cloud-dependent AI services toward distributed, privacy-preserving models as the default deployment architecture.
 
 ---
-*Source: [Let's Data Science](https://letsdatascience.com) · Relevance: 10/10*
+*Source: [Let's Data Science](https://letsdatascience.com/news/apple-unveils-core-ai-for-on-device-generative-models-1142390f) · Relevance: 10/10*

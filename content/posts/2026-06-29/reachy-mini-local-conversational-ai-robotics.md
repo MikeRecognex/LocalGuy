@@ -25,4 +25,4 @@ Robots operating in environments with unreliable connectivity, security restrict
 As robotics and IoT become increasingly AI-driven, local LLM deployment becomes infrastructure-critical rather than optional. The success of projects like Reachy Mini validates the technical viability and practical value of moving inference to the edge, opening opportunities for developers to build intelligent embodied systems without vendor lock-in or connectivity assumptions.
 
 ---
-*Source: [Google News](https://letsdatascience.com) · Relevance: 7/10*
+*Source: [Google News](https://letsdatascience.com/news/reachy-mini-adds-local-conversational-ai-61c99ec6) · Relevance: 7/10*

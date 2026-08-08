@@ -39,4 +39,4 @@ vLLM has become the de facto standard for high-throughput LLM inference, offerin
 For local LLM practitioners, this case study underscores the importance of using optimized inference frameworks rather than naive implementations, and demonstrates how the same techniques that power Netflix can be adapted to smaller deployments on consumer or edge hardware.
 
 ---
-*Source: [Google News](https://www.infoq.com) · Relevance: 9/10*
+*Source: [Google News](https://www.infoq.com/news/2026/07/netflix-llm-platform/) · Relevance: 9/10*

@@ -39,4 +39,4 @@ The expanded hardware support encompasses Intel's latest CPUs and Arc discrete G
 This development reflects a healthy trend where specialized hardware vendors invest in mainstream frameworks rather than requiring custom implementations, reducing fragmentation and lowering barriers to hardware-specific optimization.
 
 ---
-*Source: [Phoronix](https://www.phoronix.com) · Relevance: 9/10*
+*Source: [Phoronix](https://www.phoronix.com/news/OpenVINO-2026.1-Released) · Relevance: 9/10*

@@ -27,4 +27,4 @@ This development has profound implications for practitioners relying on llama.cp
 For anyone deploying LLMs locally, this move signals that the ecosystem is maturing with strong institutional support while preserving the decentralized, open-source principles that make local AI accessible. This is a significant vote of confidence in the long-term viability of on-device LLM deployment.
 
 ---
-*Source: [Adafruit](https://adafruit.com) · Relevance: 10/10*
+*Source: [Adafruit](https://blog.adafruit.com/2026/02/20/open-source-ai-ggml-joins-hugging-face-llama-cpp-stays-open-local-ais-long-term-home/) · Relevance: 10/10*
