@@ -45,9 +45,17 @@ module.exports = {
         // inputPath unavailable — fall back to empty
       }
 
-      // Strip URLs and markdown link targets to avoid false positives
+      // Publisher attribution is metadata, not subject matter — drop it before
+      // scanning. Stripping the URL alone is not enough: the link TEXT survives, so
+      // "*Source: [Google News](...)*" left the words "Google News" in the body and
+      // tagged 244 posts with `google` that never mention Google.
+      const withoutAttribution = raw
+        .replace(/^\s*\*Source:.*$/gim, " ")
+        .replace(/\[Read the full article on [^\]]*\]\([^)]*\)\.?/gi, " ");
+
+      // Strip remaining URLs and markdown link targets to avoid false positives
       // (e.g. news.google.com triggering "google")
-      const cleaned = raw
+      const cleaned = withoutAttribution
         .replace(/https?:\/\/[^\s)]+/g, "")
         .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1");
 

@@ -39,7 +39,9 @@ module.exports = {
   },
 
   models: {
-    llama: [/\bllama\b/i],
+    // Must not fire on "llama.cpp" — that is the runtime (tools.llama-cpp), not the
+    // model. Without the lookahead 380 of 479 matches were llama.cpp mentions.
+    llama: [/\bllama\b(?![\.\-\s]?cpp)/i],
     gemma: [/\bgemma\b/i],
     phi: [/\bphi[-\s]?\d/i],
     qwen: [/\bqwen\b/i],

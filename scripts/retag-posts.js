@@ -23,8 +23,15 @@ const aliases = {
 };
 
 function extractTags(title, description, body) {
-  // Strip URLs and markdown link targets to avoid false positives
-  const cleaned = body
+  // Publisher attribution is metadata, not subject matter. Stripping the URL alone
+  // leaves the link TEXT behind, so "*Source: [Google News](...)*" tagged the post
+  // `google`. Must match the cleaning in content/posts/posts.11tydata.js.
+  const withoutAttribution = body
+    .replace(/^\s*\*Source:.*$/gim, " ")
+    .replace(/\[Read the full article on [^\]]*\]\([^)]*\)\.?/gi, " ");
+
+  // Strip remaining URLs and markdown link targets to avoid false positives
+  const cleaned = withoutAttribution
     .replace(/https?:\/\/[^\s)]+/g, "")
     .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1");
 
