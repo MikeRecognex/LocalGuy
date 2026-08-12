@@ -3,11 +3,16 @@ title: "ShoutFlow Launches Pay-Once, On-Device AI Dictation App for the Mac"
 date: 2026-08-09
 description: "ShoutFlow releases a consumer-focused on-device AI application that performs speech-to-text dictation locally on macOS with a one-time purchase model."
 tags:
-  - daily-digest
   - apple-silicon
-  - edge-inference
+  - daily-digest
   - deployment
-status: draft
+  - edge-inference
+  - on-device-inference
+  - privacy-compliance
+  - release
+  - shoutflow
+  - speech-to-text
+status: published
 ---
 
 ShoutFlow represents the growing market of consumer applications leveraging on-device AI inference, specifically targeting macOS users seeking privacy-preserving dictation capabilities. The pay-once pricing model signals a shift away from cloud-dependent, subscription-based AI services, aligning with user demand for local processing and data sovereignty.

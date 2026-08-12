@@ -3,12 +3,20 @@ title: "Llama.cpp B10327 Fixes CUDA Quantized Copy Kernel Performance"
 date: 2026-08-08
 description: "The latest llama.cpp release addresses critical thread and block count issues in CUDA quantized copy kernels, improving inference performance on NVIDIA GPUs. This fix ensures more efficient parallel execution for quantized model operations."
 tags:
+  - consumer-gpu
   - daily-digest
+  - gpu-acceleration
+  - inference-performance
   - llama-cpp
+  - model-quantization
   - nvidia
-  - quantization
   - open-source
-status: draft
+  - quantization
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Llama.cpp B10327 brings important performance optimizations for CUDA-accelerated inference. The fix addresses thread and block count handling in quantized copy kernel launches, which directly impacts how efficiently quantized models run on NVIDIA hardware. Uneven block count scenarios are now properly tested and handled.

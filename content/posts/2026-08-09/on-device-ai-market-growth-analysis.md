@@ -3,11 +3,16 @@ title: "On-Device AI Market Combines AI Operations With Local Processing"
 date: 2026-08-09
 description: "Analysis of the growing on-device AI market that integrates artificial intelligence operations directly on local hardware rather than relying on cloud infrastructure."
 tags:
+  - analysis
+  - consumer-gpu
   - daily-digest
+  - data-sovereignty
+  - deployment
   - edge-inference
   - hardware
-  - deployment
-status: draft
+  - model-quantization
+  - offline-inference
+status: published
 ---
 
 Market analysis indicates accelerating adoption of on-device AI architectures, driven by privacy concerns, latency requirements, and reduced dependency on cloud infrastructure. The convergence of improved quantisation techniques, efficient model architectures, and consumer-grade hardware capabilities is enabling viable local inference across diverse use cases.

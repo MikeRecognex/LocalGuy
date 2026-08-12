@@ -3,11 +3,28 @@ title: "Runware Demonstrates Compact 1MW AI Data Center in 20-Foot Container"
 date: 2026-08-09
 description: "Runware achieves remarkable density by fitting a 1MW AI data center into a standard 20-foot shipping container, demonstrating efficient thermal management and hardware provisioning for scalable local inference infrastructure."
 tags:
+  - 1mw-ai-data-center
   - daily-digest
-  - hardware
+  - datacenter-gpu
+  - edge-data-center
   - edge-deployment
+  - hardware
+  - hardware-density
   - infrastructure
-status: draft
+  - news
+  - runware
+  - self-hosted-infrastructure
+  - thermal-management
+mentions:
+  - name: Runware
+    role: developer
+  - name: Forbes
+    role: publisher
+  - name: Hacker News
+    role: publisher
+  - name: Gabriela Linzainescu
+    role: author
+status: published
 ---
 
 Runware's compact data center demonstrates significant progress in efficient hardware utilization for AI inference at scale. Fitting 1MW of compute into a standard shipping container requires sophisticated thermal management, power distribution, and cooling engineering—the same constraints faced by practitioners scaling from personal machines to small clusters.

@@ -3,12 +3,17 @@ title: "llama.cpp Improves CUDA Performance with Kernel Fusion"
 date: 2026-08-09
 description: "Recent llama.cpp builds optimize CUDA kernel execution through operator fusion, combining rms_norm, multiplication, and rope operations into single kernels. This reduces memory bandwidth overhead and improves inference speed on NVIDIA GPUs."
 tags:
+  - consumer-gpu
   - daily-digest
+  - inference-speed
+  - kernel-fusion
   - llama-cpp
-  - nvidia
+  - memory-bandwidth
   - memory-optimization
+  - nvidia
   - performance
-status: draft
+  - release
+status: published
 ---
 
 Build b10330 delivers meaningful performance improvements for NVIDIA GPU users through CUDA kernel fusion, combining rms_norm, multiplication, and rope operations into a single kernel. This optimization reduces memory bandwidth overhead and improves arithmetic intensity, directly translating to faster token generation on local NVIDIA hardware. The changes include memory range checks to ensure safety and test coverage for edge cases like broadcast weight scenarios.

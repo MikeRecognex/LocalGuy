@@ -4,10 +4,15 @@ date: 2026-08-09
 description: "A comprehensive step-by-step guide for setting up and running local LLMs using Ollama, covering the entire process from installation to inference in approximately 90 minutes."
 tags:
   - daily-digest
-  - ollama
-  - open-source
   - deployment
-status: draft
+  - deployment-guide
+  - model-quantization
+  - ollama
+  - on-device-inference
+  - open-source
+  - runtime-optimization
+  - tutorial
+status: published
 ---
 
 This practical guide provides a structured approach to deploying local LLMs using Ollama, one of the most popular frameworks for on-device inference. The 13-step methodology offers accessibility for practitioners at various experience levels, breaking down the setup process into manageable segments that can be completed in under 90 minutes.

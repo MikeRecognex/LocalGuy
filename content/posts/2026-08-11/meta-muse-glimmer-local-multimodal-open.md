@@ -3,11 +3,18 @@ title: "Meta's Muse Glimmer – Local, Agentic, Multimodal, and Open Source"
 date: 2026-08-11
 description: "Meta releases Muse Glimmer, an open-source multimodal model designed for local, agentic applications that can power AI coding assistants and persistent personal assistants without cloud dependencies. The model emphasizes full local control and multimodal reasoning."
 tags:
-  - daily-digest
-  - open-source
+  - agentic-workflows
   - agents
+  - coding-assistants
+  - daily-digest
+  - edge-device
+  - local-inference
   - multimodal
-status: draft
+  - multimodal-reasoning
+  - muse-glimmer
+  - open-source
+  - release
+status: published
 ---
 
 Meta's Muse Glimmer represents a deliberate move toward practical, deployable multimodal agents that operate entirely on-premises. Unlike previous research-focused releases, Muse Glimmer is engineered for production agentic workflows—coding assistants, persistent memory systems, and long-running collaborative AI—while remaining fully open source and locally controllable.

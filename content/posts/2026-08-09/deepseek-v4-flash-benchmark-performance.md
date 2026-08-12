@@ -3,11 +3,21 @@ title: "DeepSeek V4 Flash Achieves 82.7% on Terminal-Bench 2.1"
 date: 2026-08-09
 description: "DeepSeek V4 Flash demonstrates strong benchmark performance with 82.7% accuracy on Terminal-Bench 2.1 using a public harness. This efficient model variant shows promise for local deployment scenarios requiring high capability with reasonable resource constraints."
 tags:
-  - daily-digest
+  - benchmark-report
   - benchmarks
-  - open-source
+  - consumer-gpu
+  - daily-digest
+  - local-deployment
+  - model-benchmarking
+  - model-efficiency
   - model-optimization
-status: draft
+  - open-source
+  - terminal-bench-2-1
+  - v4-flash
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 DeepSeek V4 Flash's strong performance on Terminal-Bench 2.1 indicates effective optimization for practical inference tasks. The 82.7% accuracy score achieved through a public, reproducible harness provides confidence for practitioners evaluating the model for local deployment. The Flash variant specifically targets efficiency, making it suitable for resource-constrained environments where full-size models become prohibitive.

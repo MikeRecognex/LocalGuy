@@ -3,12 +3,26 @@ title: "LFM2.5-2.6B: On-Device Agentic Model With 128K Context and Tool Calling"
 date: 2026-08-07
 description: "Detailed technical analysis of Liquid AI's LFM2.5-2.6B with open weights, demonstrating how 128K context and tool-calling capabilities are achievable in a 2.6B parameter model optimized for local inference."
 tags:
-  - daily-digest
+  - agentic-reasoning
   - agents
-  - open-source
+  - analysis
+  - consumer-gpu
   - context-window
+  - daily-digest
+  - edge-device
+  - lfm2-5-2-6b
+  - liquid-ai
+  - llama-cpp
+  - long-context
   - memory-optimization
-status: draft
+  - model-compression
+  - ollama
+  - open-source
+  - tool-calling
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 LFM2.5-2.6B represents a technical milestone in bridging the capability gap between resource-constrained devices and frontier models. The model achieves agentic reasoning—multi-step planning, tool invocation, and state tracking—within a 2.6B parameter footprint, a feat made possible through careful architecture design and training methodology tailored for inference efficiency.

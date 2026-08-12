@@ -3,12 +3,20 @@ title: "Benchmarking Local LLMs on Consumer Hardware: Real-World Performance Dat
 date: 2026-08-12
 description: "A practical benchmark comparing local LLM performance on a typical laptop provides concrete data on inference speed, memory usage, and capabilities across different models. This real-world data helps practitioners choose appropriate models for their hardware constraints."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
   - hardware
+  - inference-speed
+  - memory-usage
+  - model-quantization
   - performance
   - quantisation
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This benchmark study provides practitioners with concrete performance data for running local LLMs on actual consumer hardware—the machines people already own. Rather than theoretical specifications, the analysis measures real-world inference speed, memory consumption, and token generation rates across different model sizes and quantization levels. This is invaluable for developers deciding whether their existing laptop can handle local inference or what specifications to target.

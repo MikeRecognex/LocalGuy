@@ -3,12 +3,19 @@ title: "Muse Glimmer Now Available on Ollama – Meta's Open Multimodal Agent Mo
 date: 2026-08-11
 description: "Meta's Muse Glimmer, an open-source multimodal model optimized for local deployment, is now available across all Ollama platforms with state-of-the-art performance on Apple Silicon. The model powers coding agents and long-running personal assistants while maintaining full local inference control."
 tags:
+  - agent-orchestration
+  - agents
+  - apple-silicon
+  - consumer-gpu
   - daily-digest
+  - local-inference
+  - mlx
+  - multimodal-inference
+  - muse-glimmer
   - ollama
   - open-source
-  - apple-silicon
-  - agents
-status: draft
+  - release
+status: published
 ---
 
 Meta has released Muse Glimmer through Ollama v0.32.8, marking a significant milestone for local multimodal LLM deployment. This open-source model is specifically designed for agentic applications like Claude Code alternatives and personal assistants, now with optimized performance across Apple Silicon, NVIDIA, AMD, and CPU platforms.

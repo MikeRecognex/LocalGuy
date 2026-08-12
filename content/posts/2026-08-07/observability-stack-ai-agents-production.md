@@ -3,12 +3,20 @@ title: "Ask HN: What Observability Stack Are You Using for AI Agents in Producti
 date: 2026-08-07
 description: "A Hacker News discussion surfacing critical operational challenges: how do teams monitor and debug AI agents running in production? This conversation captures the current state of observability tooling for local and self-hosted agents."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - analysis
+  - daily-digest
+  - llm-observability
+  - monitoring
+  - monitoring-and-debugging
   - observability
   - production
-  - monitoring
-status: draft
+  - production-deployment
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As local LLM deployments transition from experimentation to production workloads, observability—the ability to understand system behavior through logging, tracing, and metrics—becomes critical. This HN discussion captures practitioners grappling with a fundamental gap: existing observability solutions were designed for traditional microservices, not for AI agents that have non-deterministic behavior, variable inference latency, and complex decision-making chains.

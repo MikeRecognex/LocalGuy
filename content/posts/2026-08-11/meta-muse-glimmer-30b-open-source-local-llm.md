@@ -3,12 +3,19 @@ title: "Meta Releases Muse Glimmer: 30B Open-Source LLM for Local Deployment"
 date: 2026-08-11
 description: "Meta has released Muse Glimmer, a 30 billion parameter open-source agentic AI model under Apache 2.0 license that runs efficiently on consumer hardware without requiring cloud services. The model represents a significant shift toward practical on-device inference with native support for agentic workflows."
 tags:
-  - daily-digest
-  - open-source
+  - agentic-workflows
   - agents
-  - nvidia
   - amd
-status: draft
+  - apple-silicon
+  - consumer-gpu
+  - daily-digest
+  - muse-glimmer
+  - nvidia
+  - on-device-inference
+  - open-source
+  - open-weights
+  - release
+status: published
 ---
 
 Meta's release of Muse Glimmer marks a major milestone in the open-source local LLM ecosystem. As a 30B parameter agentic model under Apache 2.0 licensing, Muse Glimmer is specifically architected to run on consumer-grade GPUs and CPUs without cloud dependencies, addressing a critical gap for organizations seeking privacy-preserving AI inference. The model's agentic capabilities enable autonomous task execution and multi-step reasoning on local hardware.

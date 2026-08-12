@@ -3,11 +3,19 @@ title: "Running AI Agents on Mobile: Phone Transformed Into Self-Installing LLM 
 date: 2026-08-08
 description: "A developer successfully deployed a local LLM as an autonomous agent on a smartphone, demonstrating on-device inference capable of making system-level decisions. This showcases practical edge deployment of reasoning models on resource-constrained mobile hardware."
 tags:
-  - daily-digest
   - agents
+  - autonomous-agents
+  - daily-digest
   - edge-deployment
+  - edge-device
   - mobile-inference
-status: draft
+  - model-quantization
+  - on-device-inference
+  - showcase
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This project demonstrates a significant milestone in local LLM deployment: running autonomous agents directly on mobile devices without cloud dependencies. The ability for an on-device LLM to take actions like software installation represents a leap beyond simple inference, requiring both model efficiency and sophisticated agentic reasoning capabilities.

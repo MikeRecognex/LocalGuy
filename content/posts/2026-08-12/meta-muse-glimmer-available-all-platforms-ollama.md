@@ -3,12 +3,17 @@ title: "Meta's Muse Glimmer Now Available Across All Platforms via Ollama"
 date: 2026-08-12
 description: "Ollama v0.32.8 brings Meta's Muse Glimmer to all platforms with optimized support, including state-of-the-art Apple Silicon performance via MLX. Muse Glimmer powers coding agent applications and personal assistants entirely on-device."
 tags:
-  - daily-digest
-  - ollama
-  - apple-silicon
+  - agent-orchestration
   - agents
+  - apple-silicon
+  - daily-digest
+  - local-inference
   - mlx
-status: draft
+  - muse-glimmer
+  - ollama
+  - release
+  - tool-calling
+status: published
 ---
 
 Meta's Muse Glimmer has reached general availability across all platforms through Ollama, marking a major milestone for open-source local inference. The model is specifically designed for agentic workloads, including coding assistants like Claude Code and long-running personal assistants. What distinguishes Muse Glimmer is its efficiency—it delivers strong coding and reasoning capabilities while remaining practical for local deployment.

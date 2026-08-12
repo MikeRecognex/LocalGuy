@@ -3,12 +3,19 @@ title: "Ollama Releases NVIDIA Nemotron 3.5 Lightning for Agent Execution"
 date: 2026-08-12
 description: "NVIDIA's new 30B mixture-of-experts model with 3B active parameters is now available in Ollama v0.32.9, optimized for agent workloads and on-device execution. The model is designed for frameworks like OpenClaw and Hermes, bringing efficient MoE inference to local deployments."
 tags:
-  - daily-digest
-  - ollama
+  - agent-orchestration
   - agents
-  - nvidia
+  - daily-digest
+  - edge-device
+  - inference-speed
+  - mixture-of-experts
   - moe-models
-status: draft
+  - nemotron-3-5-lightning
+  - nvidia
+  - ollama
+  - openclaw
+  - release
+status: published
 ---
 
 NVIDIA Nemotron 3.5 Lightning represents a significant advancement in efficient local LLM deployment, specifically architected for agent execution with only 3B active parameters despite the 30B total model size. This mixture-of-experts approach dramatically reduces memory requirements and inference latency compared to dense models of similar capability, making it practical for resource-constrained environments and edge devices.

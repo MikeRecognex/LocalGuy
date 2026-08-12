@@ -4,11 +4,20 @@ date: 2026-08-12
 description: "vLLM v0.27.0 features 561 commits from 242 contributors including full-stack Kimi K3 support, new kernel optimizations, and DeepGEMM integration. This release significantly improves inference performance for local LLM serving."
 tags:
   - daily-digest
-  - vllm
-  - performance
+  - deepgemm
+  - inference-speed
+  - kernel-optimization
+  - kimi-k3
+  - local-llm-serving
   - open-source
   - optimization
-status: draft
+  - performance
+  - release
+  - vllm
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 vLLM's v0.27.0 release represents substantial progress in optimizing inference frameworks for local deployment. The release adds comprehensive Kimi K3 support with full-stack implementations across core model files, kernels, Python and Rust frontends, alongside specialized attention and kernel optimizations. The inclusion of DeepGEMM support indicates continuous effort to squeeze maximum performance from available hardware.

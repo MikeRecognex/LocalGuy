@@ -3,12 +3,20 @@ title: "Show HN: Local Multi-Agent AI Running on Android Phone"
 date: 2026-08-07
 description: "A developer successfully deployed a multi-agent AI system running entirely on a mobile phone, demonstrating the viability of edge-based agent orchestration without cloud dependencies. This represents a significant milestone in making autonomous AI workloads accessible on consumer mobile hardware."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - daily-digest
+  - edge-device
   - edge-inference
-  - open-source
   - mobile
-status: draft
+  - mobile-inference
+  - offline-inference
+  - open-source
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The successful deployment of multi-agent LLM systems on Android devices demonstrates the maturity of mobile inference frameworks and the shrinking gap between edge and cloud capabilities. Running multiple coordinated agents on a smartphone challenges traditional assumptions about where complex AI orchestration must occur, enabling use cases from offline productivity tools to privacy-preserving local automation.

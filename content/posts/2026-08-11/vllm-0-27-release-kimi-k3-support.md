@@ -4,10 +4,16 @@ date: 2026-08-11
 description: "vLLM releases v0.27.0 with comprehensive Kimi K3 model support including core kernels, Python and Rust frontends, and optimized attention mechanisms. The release represents major performance and compatibility improvements across serving infrastructure."
 tags:
   - daily-digest
-  - vllm
+  - deepgemm
+  - inference-speed
+  - kimi-k3
   - open-source
+  - performance-optimization
+  - production-deployment
+  - release
   - speculative-decoding
-status: draft
+  - vllm
+status: published
 ---
 
 vLLM v0.27.0 introduces first-class support for Kimi K3 architecture with a complete stack implemented in a single release, including CUDA kernels, inference engines, and language bindings. The addition of AttnRes kernels and DeepGEMM support demonstrates vLLM's continued focus on extracting maximum performance from modern accelerators while maintaining broad model compatibility.

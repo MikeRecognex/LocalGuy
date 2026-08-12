@@ -3,11 +3,20 @@ title: "Shrinking an AI Model 86% Doesn't Make It 86% Dumber: Compression Breakt
 date: 2026-08-07
 description: "Daniel Han explores how aggressive model compression can maintain capabilities, challenging assumptions about size-to-performance tradeoffs in quantization and pruning for local inference."
 tags:
+  - analysis
+  - awq
   - daily-digest
-  - quantization
+  - edge-device
+  - gptq
+  - local-inference
   - memory-optimization
   - model-compression
-status: draft
+  - quantization
+  - raspberry-pi
+mentions:
+  - name: Daniel Han
+    role: author
+status: published
 ---
 
 A critical insight emerging from quantization and compression research is that model size and capability don't scale linearly. Daniel Han's analysis demonstrates that reducing a model by 86% in parameters or disk footprint doesn't necessarily result in proportional capability loss—many modern compression techniques preserve critical reasoning patterns while eliminating redundancy.

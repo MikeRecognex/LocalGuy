@@ -4,10 +4,15 @@ date: 2026-08-09
 description: "A tutorial covering both command-line and desktop application setup for running the Kimi K3 Moonshot model locally via Ollama."
 tags:
   - daily-digest
+  - deployment
+  - deployment-guide
+  - edge-deployment
+  - kimi-k3-moonshot
+  - local-inference
   - ollama
   - open-source
-  - deployment
-status: draft
+  - tutorial
+status: published
 ---
 
 This guide demonstrates how to deploy Kimi K3 Moonshot, an advanced language model, on local hardware using Ollama with both CLI and GUI options. The dual-interface approach acknowledges different user preferences and use cases, from automated scripting to interactive development workflows.

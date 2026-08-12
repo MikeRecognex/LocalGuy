@@ -3,12 +3,25 @@ title: "Show HN: Benchmark Local LLMs Fit for Your Device Specs"
 date: 2026-08-07
 description: "A new benchmarking tool helps developers evaluate which local LLMs are suitable for their specific hardware constraints. This addresses a critical pain point in local LLM deployment: matching model capabilities to available compute resources."
 tags:
-  - daily-digest
   - benchmarks
+  - consumer-gpu
+  - daily-digest
+  - edge-device
   - hardware
+  - hardware-benchmarking
+  - inference-performance
+  - local-bench
+  - model-quantization
   - open-source
   - quantization
-status: draft
+  - showcase
+  - supermodularai
+mentions:
+  - name: SupermodularAI
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Selecting the right model for local deployment requires balancing model capability against hardware constraints like VRAM, RAM, and CPU performance. The local_bench project provides developers with a practical benchmarking framework to evaluate how different quantized models perform on their specific device specifications, eliminating guesswork from the hardware-model matching process.

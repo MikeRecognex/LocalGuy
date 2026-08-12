@@ -3,11 +3,20 @@ title: "TutorMoments: Research on When AI Should Intervene in Learning"
 date: 2026-08-08
 description: "Hugging Face publishes research on adaptive AI tutoring that determines optimal moments for intervention versus learner autonomy. This work has implications for local LLM agents that need to balance helpfulness with user agency."
 tags:
-  - daily-digest
+  - adaptive-learning
   - agents
-  - open-source
+  - ai-agents
+  - ai2
+  - analysis
+  - daily-digest
   - fine-tuning
-status: draft
+  - human-ai-interaction
+  - open-source
+  - tutormoments
+mentions:
+  - name: AI2
+    role: developer
+status: published
 ---
 
 TutorMoments addresses a fundamental challenge in deploying interactive LLM systems locally: knowing when to provide assistance and when to let users struggle productively. This research from AI2 examines how language models can learn to recognize the right moments for intervention, which is essential for building effective local AI tutoring agents.

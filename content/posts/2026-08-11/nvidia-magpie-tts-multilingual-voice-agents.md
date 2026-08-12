@@ -3,12 +3,19 @@ title: "NVIDIA Magpie TTS – Open-Weights Multilingual Voice Agents with Full D
 date: 2026-08-11
 description: "NVIDIA releases Magpie TTS with open weights for building low-latency multilingual voice agents that can be deployed entirely on-premises. The solution provides full control over model deployment without reliance on cloud infrastructure."
 tags:
-  - daily-digest
-  - nvidia
-  - open-source
   - agents
+  - daily-digest
+  - edge-device
+  - edge-inference
   - hardware
-status: draft
+  - low-latency-inference
+  - magpie-tts
+  - nvidia
+  - on-premises-deployment
+  - open-source
+  - release
+  - voice-synthesis
+status: published
 ---
 
 NVIDIA's Magpie TTS represents a significant advancement for local voice agent deployment, offering open-weight models designed for low-latency multilingual inference. Unlike cloud-dependent speech synthesis solutions, Magpie enables developers to deploy complete voice agent pipelines on-premises with full control over model execution and data privacy.

@@ -3,11 +3,16 @@ title: "Llama.cpp Adds LRU Scheduler for Multi-Model Serving"
 date: 2026-08-08
 description: "Llama.cpp B10313 introduces an LRU (Least Recently Used) scheduler for its router, enabling better resource management when serving multiple models simultaneously. This enhancement improves request handling and model eviction policies for local inference servers."
 tags:
+  - consumer-gpu
   - daily-digest
+  - inference-server
   - llama-cpp
-  - open-source
   - memory-optimization
-status: draft
+  - multi-model-serving
+  - open-source
+  - release
+  - resource-management
+status: published
 ---
 
 The new LRU scheduler in llama.cpp's router represents a significant improvement for multi-model serving scenarios common in local deployment. The scheduler intelligently handles request coalescing and prevents unnecessary model evictions, ensuring smoother operation when multiple models compete for limited local resources.

@@ -698,6 +698,22 @@
     },
     "2026-08-07": {
       "text": "Liquid AI's LFM2.5-2.6B model enables agentic AI on Raspberry Pi devices.",
+      "postCount": 17
+    },
+    "2026-08-08": {
+      "text": "Llama.cpp resolves Apple Silicon issues with NORM operations.",
+      "postCount": 9
+    },
+    "2026-08-09": {
+      "text": "DeepSeek V4 Flash achieves 82.7% accuracy on Terminal-Bench 2.1.",
+      "postCount": 10
+    },
+    "2026-08-11": {
+      "text": "Meta releases Muse Glimmer, a 30B open-source LLM for local deployment.",
+      "postCount": 10
+    },
+    "2026-08-12": {
+      "text": "Ollama v0.32.9 integrates NVIDIA's Nemotron 3.5 Lightning model.",
       "postCount": 10
     }
   },
@@ -803,8 +819,12 @@
       "postCount": 61
     },
     "2026-08-02": {
-      "text": "<p>Major stories this week include Apple's on-device AI breakthrough with PrismML and HP's integration of on-device AI into desktop PCs, signaling momentum for local inference.</p>\n<p>Don't miss \"Apple's Hardware Is Ready for On-Device AI\" and \"Kioxia Is Coming for Samsung\" for key insights on local AI deployment and optimized storage technologies like UFS 5.0.</p>",
-      "postCount": 33
+      "text": "<p>Big stories include Apple's on-device AI capabilities with PrismML and HP's integration of on-device AI into desktop PCs.</p>\n<p>Don't miss \"PrismML's Bonsai 27B\" and \"Liquid AI's LFM2.5-2.6B\" for on-device AI advancements.</p>",
+      "postCount": 59
+    },
+    "2026-08-09": {
+      "text": "<p>Big stories include Muse Glimmer, a 30B open-source LLM, and NVIDIA Magpie TTS.</p>\n<p>Don't miss \"DEF CON 34 Exposes 10 Critical Vulnerabilities\", \"Meta Releases Muse Glimmer\", and \"Benchmarking Local LLMs on Consumer Hardware\" for key insights.</p>",
+      "postCount": 20
     }
   }
 }

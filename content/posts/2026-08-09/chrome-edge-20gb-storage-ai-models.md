@@ -3,11 +3,16 @@ title: "Chrome and Edge Now Require 20GB Free Space for AI Models"
 date: 2026-08-09
 description: "Google Chrome and Microsoft Edge are implementing 20GB minimum free storage requirements to support local AI model execution within the browser."
 tags:
-  - daily-digest
+  - browser-inference
   - chrome
-  - edge
+  - daily-digest
   - deployment
-status: draft
+  - edge
+  - edge-device
+  - edge-inference
+  - news
+  - storage-requirements
+status: published
 ---
 
 The 20GB storage requirement signals major browser vendors' commitment to embedding local LLM inference capabilities at scale. This infrastructure investment enables on-device language model execution within web browsers, reducing latency and eliminating cloud API dependencies for web applications.

@@ -4,11 +4,18 @@ date: 2026-08-12
 description: "A practical guide to running large open-source models like Qwen 27B on compact edge hardware using Open WebUI and Ollama. This demonstrates viable deployment of substantial models on small form-factor devices."
 tags:
   - daily-digest
-  - ollama
-  - hardware
-  - quantisation
   - deployment
-status: draft
+  - edge-device
+  - edge-inference
+  - hardware
+  - local-deployment
+  - n5-max
+  - ollama
+  - open-webui
+  - quantisation
+  - qwen-27b
+  - tutorial
+status: published
 ---
 
 This setup showcases practical deployment of substantial local models on compact edge hardware. The Minisforum N5 Max, a small form-factor device, successfully runs Qwen's 27-billion parameter model through Ollama with a web interface. This demonstrates that you don't need enterprise-grade hardware or vast resources to deploy capable open-source models—mainstream edge devices are becoming powerful enough for serious AI inference workloads.

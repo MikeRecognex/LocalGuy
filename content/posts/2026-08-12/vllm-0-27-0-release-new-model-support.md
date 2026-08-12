@@ -4,10 +4,14 @@ date: 2026-08-12
 description: "vLLM v0.27.0 brings significant improvements including Kimi K3 model support with full-stack integration, new kernel optimizations, and contributions from 242 developers. This major release advances the inference serving infrastructure for local and on-premises deployments."
 tags:
   - daily-digest
-  - vllm
-  - open-source
   - inference-optimization
-status: draft
+  - inference-serving
+  - kimi-k3
+  - on-premises-deployment
+  - open-source
+  - release
+  - vllm
+status: published
 ---
 
 vLLM v0.27.0 represents substantial progress in local inference serving infrastructure, delivering 561 commits that expand model support and optimize inference performance. The full-stack integration of Kimi K3 support—including core kernels, Python and Rust frontends, and specialized attention kernels—demonstrates the framework's commitment to comprehensive optimization across the inference stack. The contribution of 64 new developers signals growing adoption in the self-hosted AI community.

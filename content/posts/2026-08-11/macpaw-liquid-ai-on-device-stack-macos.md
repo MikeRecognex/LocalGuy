@@ -3,12 +3,23 @@ title: "MacPaw and Liquid AI: Complete On-Device AI Stack for macOS"
 date: 2026-08-11
 description: "MacPaw has partnered with Liquid AI to deliver a comprehensive on-device AI stack that runs entirely on Mac hardware, eliminating cloud dependencies and ensuring data privacy for Apple users. The implementation showcases optimized inference leveraging Apple Silicon capabilities."
 tags:
-  - daily-digest
   - apple-silicon
-  - mlx
-  - privacy
+  - daily-digest
+  - data-privacy
   - edge-inference
-status: draft
+  - liquid-ai
+  - local-deployment
+  - macpaw
+  - mlx
+  - news
+  - on-device-inference
+  - privacy
+mentions:
+  - name: MacPaw
+    role: partner
+  - name: Liquid AI
+    role: partner
+status: published
 ---
 
 The MacPaw and Liquid AI partnership delivers a turnkey solution for on-device AI inference on macOS, addressing the growing demand for privacy-preserving alternatives to cloud-based services. By building a complete stack optimized for Apple Silicon, the collaboration demonstrates how to effectively utilize the Neural Engine and GPU capabilities present in modern Macs. This approach eliminates network latency and guarantees that sensitive data never leaves the device.
