@@ -56,10 +56,7 @@ whatever slug best describes the content. Use lowercase-kebab-case for all slugs
 
 SEMANTIC TAGS (written to frontmatter tags:)
 - content-type (exactly 1): e.g. news, tutorial, analysis, release, showcase, benchmark-report, opinion, comparison
-- technical-depth (exactly 1): e.g. beginner-friendly, intermediate, advanced
 - topic (1-5): The core subjects of the post. Be specific — e.g. iterative-reasoning, memory-bandwidth, inference-speed, model-compression, voice-synthesis, rag-pipeline, agent-orchestration, deployment-guide, security-audit. Capture what makes this post distinct.
-- audience (exactly 1): e.g. hobbyist, developer, enterprise, researcher
-- sentiment (exactly 1): e.g. bullish, cautious, neutral
 - hardware-tier (0-2, only if hardware explicitly discussed): e.g. consumer-gpu, datacenter-gpu, apple-silicon, cpu-only, edge-device, custom-asic
 
 PRODUCT (written to frontmatter tags:)
@@ -72,7 +69,7 @@ NAMED ENTITIES (written to frontmatter mentions:)
 - organisation: Named companies/orgs beyond those already tagged by regex. Attributes: name, role (e.g. "investor", "publisher", "partner"), handle (if known), url (if in text)
 
 Rules:
-1. Every post MUST have exactly 1 content-type, 1 technical-depth, 1 audience, 1 sentiment
+1. Every post MUST have exactly 1 content-type
 2. Use extraction_text to quote the phrase that justifies each tag
 3. Slugs MUST be lowercase-kebab-case (e.g. "iterative-reasoning" not "Iterative Reasoning")
 4. For topic tags: be specific and descriptive. Prefer "iterative-reasoning" over generic "reasoning". Prefer "cost-saving" over "cost". Capture the actual subject matter.
@@ -98,12 +95,9 @@ EXAMPLES = [
         ),
         extractions=[
             lx.data.Extraction(extraction_class="content-type", extraction_text="released a free API endpoint", attributes={"slug": "release"}),
-            lx.data.Extraction(extraction_class="technical-depth", extraction_text="16,000 tokens/second", attributes={"slug": "intermediate"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="cost-effective inference", attributes={"slug": "cost-saving"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="16,000 tokens/second", attributes={"slug": "inference-speed"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="custom ASICs", attributes={"slug": "asic-inference"}),
-            lx.data.Extraction(extraction_class="audience", extraction_text="viable pathways", attributes={"slug": "developer"}),
-            lx.data.Extraction(extraction_class="sentiment", extraction_text="viable pathways for cost-effective inference", attributes={"slug": "bullish"}),
             lx.data.Extraction(extraction_class="hardware-tier", extraction_text="custom ASICs", attributes={"slug": "custom-asic"}),
             lx.data.Extraction(extraction_class="product", extraction_text="Llama 3.1 8B", attributes={"name": "Llama 3.1 8B", "slug": "llama-3.1-8b", "kind": "model"}),
             lx.data.Extraction(extraction_class="person", extraction_text="CEO Janne Saarikko", attributes={"name": "Janne Saarikko", "role": "CEO"}),
@@ -117,12 +111,9 @@ EXAMPLES = [
         ),
         extractions=[
             lx.data.Extraction(extraction_class="content-type", extraction_text="deployment guidance", attributes={"slug": "tutorial"}),
-            lx.data.Extraction(extraction_class="technical-depth", extraction_text="production-ready deployment", attributes={"slug": "intermediate"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="data privacy", attributes={"slug": "privacy-compliance"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="scalable deployments", attributes={"slug": "production-deployment"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="Docker Compose", attributes={"slug": "docker-deployment"}),
-            lx.data.Extraction(extraction_class="audience", extraction_text="organizations concerned about", attributes={"slug": "enterprise"}),
-            lx.data.Extraction(extraction_class="sentiment", extraction_text="production-ready deployment guidance", attributes={"slug": "bullish"}),
             lx.data.Extraction(extraction_class="product", extraction_text="Ollama", attributes={"name": "Ollama", "slug": "ollama", "kind": "tool"}),
             lx.data.Extraction(extraction_class="product", extraction_text="Docker Compose", attributes={"name": "Docker Compose", "slug": "docker-compose", "kind": "tool"}),
             lx.data.Extraction(extraction_class="organisation", extraction_text="DigitalOcean", attributes={"name": "DigitalOcean", "role": "publisher"}),
@@ -136,12 +127,9 @@ EXAMPLES = [
         ),
         extractions=[
             lx.data.Extraction(extraction_class="content-type", extraction_text="This analysis examines", attributes={"slug": "analysis"}),
-            lx.data.Extraction(extraction_class="technical-depth", extraction_text="iterative reasoning", attributes={"slug": "advanced"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="failure modes in iterative reasoning", attributes={"slug": "iterative-reasoning"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="where local LLMs fail", attributes={"slug": "model-failure-modes"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="deployment", attributes={"slug": "deployment-strategy"}),
-            lx.data.Extraction(extraction_class="audience", extraction_text="crucial guidance for deployment", attributes={"slug": "developer"}),
-            lx.data.Extraction(extraction_class="sentiment", extraction_text="crucial guidance", attributes={"slug": "neutral"}),
         ],
     ),
     lx.data.ExampleData(
@@ -152,11 +140,8 @@ EXAMPLES = [
         ),
         extractions=[
             lx.data.Extraction(extraction_class="content-type", extraction_text="has proposed", attributes={"slug": "analysis"}),
-            lx.data.Extraction(extraction_class="technical-depth", extraction_text="memory bandwidth limitations", attributes={"slug": "advanced"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="fiber optic lines as L2 cache", attributes={"slug": "memory-bandwidth"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="consumer hardware", attributes={"slug": "cost-saving"}),
-            lx.data.Extraction(extraction_class="audience", extraction_text="memory bandwidth limitations that constrain model size", attributes={"slug": "developer"}),
-            lx.data.Extraction(extraction_class="sentiment", extraction_text="could address memory bandwidth limitations", attributes={"slug": "bullish"}),
             lx.data.Extraction(extraction_class="hardware-tier", extraction_text="consumer hardware", attributes={"slug": "consumer-gpu"}),
             lx.data.Extraction(extraction_class="person", extraction_text="John Carmack", attributes={"name": "John Carmack", "role": "programmer", "handle": "@ID_AA_Carmack"}),
             lx.data.Extraction(extraction_class="organisation", extraction_text="Tom's Hardware", attributes={"name": "Tom's Hardware", "role": "publisher"}),
@@ -173,11 +158,8 @@ EXAMPLES = [
         ),
         extractions=[
             lx.data.Extraction(extraction_class="content-type", extraction_text="open-source desktop app", attributes={"slug": "showcase"}),
-            lx.data.Extraction(extraction_class="technical-depth", extraction_text="native macOS interface", attributes={"slug": "beginner-friendly"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="document indexing", attributes={"slug": "rag-pipeline"}),
             lx.data.Extraction(extraction_class="topic", extraction_text="native macOS interface", attributes={"slug": "desktop-app"}),
-            lx.data.Extraction(extraction_class="audience", extraction_text="users get on-device retrieval", attributes={"slug": "hobbyist"}),
-            lx.data.Extraction(extraction_class="sentiment", extraction_text="without a cloud round-trip", attributes={"slug": "bullish"}),
             lx.data.Extraction(extraction_class="hardware-tier", extraction_text="native macOS interface", attributes={"slug": "apple-silicon"}),
             lx.data.Extraction(extraction_class="product", extraction_text="Sidekick", attributes={"name": "Sidekick", "slug": "sidekick", "kind": "project"}),
             lx.data.Extraction(extraction_class="product", extraction_text="llama.cpp", attributes={"name": "llama.cpp", "slug": "llama.cpp", "kind": "tool"}),
@@ -274,10 +256,16 @@ def update_frontmatter(content: str, new_tags: list[str], mentions: list[dict]) 
 # Extraction → tags/mentions mapping
 # ---------------------------------------------------------------------------
 
+# `technical-depth`, `audience` and `sentiment` were dropped deliberately. They were
+# specified as "exactly 1" per post, which forced a value even when the text supported
+# none, so each collapsed onto a single default across the corpus: bullish 70%,
+# developer 70%, intermediate 67%. A tag carried by seven posts in ten cannot
+# discriminate between them. Anything emitted under those classes is now ignored.
 TAG_CLASSES = {
-    "content-type", "technical-depth", "topic",
-    "audience", "sentiment", "hardware-tier",
+    "content-type", "topic", "hardware-tier",
 }
+
+DROPPED_TAG_CLASSES = {"technical-depth", "audience", "sentiment"}
 
 ENTITY_CLASSES = {"person", "organisation", "product"}
 

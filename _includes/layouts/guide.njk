@@ -16,10 +16,8 @@ layout: layouts/base.njk
     <span class="reading-time">{{ content | readingTime }}</span>
     {% if tags %}
     <div class="tags">
-      {%- for tag in tags %}
-        {%- if tag != "guides" %}
-        <a href="/tags/{{ tag }}/" rel="tag">#{{ tag }}</a>
-        {%- endif %}
+      {%- for tag in tags | linkableTags %}
+        <a href="/tags/{{ tag | lower }}/" rel="tag">#{{ tag }}</a>
       {%- endfor %}
     </div>
     {% endif %}

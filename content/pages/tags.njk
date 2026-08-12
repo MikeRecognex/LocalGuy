@@ -1,25 +1,18 @@
 ---
 pagination:
-  data: collections
+  data: collections.tagPages
   size: 1
   alias: tag
-  filter:
-    - all
-    - posts
-    - allPosts
-    - _validatePosts
-    - guides
-permalink: /tags/{{ tag }}/
+permalink: /tags/{{ tag.slug }}/
 eleventyComputed:
-  title: "Tagged: {{ tag }}"
+  title: "Tagged: {{ tag.slug }}"
 layout: layouts/base.njk
 ---
 
-<h1>Tagged "{{ tag }}"</h1>
+<h1>Tagged "{{ tag.slug }}"</h1>
 
 <ul class="post-list">
-{% set taglist = collections[ tag ] %}
-{% for post in taglist | reverse %}
+{% for post in tag.posts | reverse %}
   <li>
     <a href="{{ post.url }}">{{ post.data.title or "Note" }}</a>
     <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>

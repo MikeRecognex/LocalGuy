@@ -101,9 +101,12 @@ module.exports = {
     coding: [/\bcoding\s*(?:agent|assistant|model|benchmark)/i, /\bcode[-\s]?gen/i],
     multimodal: [/\bmultimodal\b/i, /\bvision[-\s]?language\b/i],
     voice: [/\btts\b/i, /\btext[-\s]?to[-\s]?speech\b/i, /\bspeech[-\s]?synth/i, /\btranscription\b/i, /\bwhisper\b/i],
-    privacy: [/\bprivacy\b/i, /\bprivate\s*(?:ai|llm|model|data)\b/i],
-    "edge-deployment": [/\bedge[-\s]?(?:deploy|device|infer|ai)\b/i, /\bon[-\s]?device\b/i, /\bnpu\b/i],
-    "open-source": [/\bopen[-\s]?source\b/i, /\bopen[-\s]?weight/i],
+    // `privacy`, `edge-deployment`, `open-source` and `self-hosted` were removed.
+    // They matched accurately but restated the site's premise rather than the post:
+    // edge-deployment fired on 49% of the corpus, privacy 35%, open-source 25%,
+    // self-hosted 24%. On a site about running LLMs locally, "runs locally" is not a
+    // distinguishing fact, so these tags could never narrow a reader's search.
+    // `inference` was removed earlier for the same reason.
     "speculative-decoding": [/\bspeculative[-\s]?decod/i],
     distillation: [/\bdistill(?:ation|ed)?\b/i],
     "structured-output": [/\bstructured[-\s]?output\b/i, /\bjson[-\s]?schema\b/i],
@@ -111,7 +114,6 @@ module.exports = {
     security: [/\bsecurit/i, /\bvulnerabilit/i, /\bcve[-\s]?\d/i, /\brce\b/i, /\bexposed\s*server/i],
     moe: [/\bmixture[-\s]?of[-\s]?experts?\b/i, /\bmoe\b/i],
     "context-window": [/\bcontext[-\s]?(?:window|length)\b/i, /\blong[-\s]?context\b/i, /\b\d+k\s*(?:context|token)/i],
-    "self-hosted": [/\bself[-\s]?host/i],
     "model-compression": [/\bmodel[-\s]?compress/i, /\bpruning\b/i, /\bsparsif/i],
     training: [/\btraining\b/i, /\bpre[-\s]?train/i],
     "browser-ai": [/\bbrowser[-\s]?(?:deploy|ai|infer)\b/i, /\bwebgpu\b/i, /\bwasm\b/i],

@@ -17,10 +17,8 @@ const POSTS_DIR = path.resolve(__dirname, "../content/posts");
 
 const aliases = {
   benchmark: "benchmarks",
-  "edge-inference": "edge-deployment",
-  "on-device": "edge-deployment",
-  "open-weights": "open-source",
 };
+const suppressed = require("../_data/suppressed-tags.js");
 
 function extractTags(title, description, body) {
   // Publisher attribution is metadata, not subject matter. Stripping the URL alone
@@ -114,14 +112,6 @@ for (const file of files) {
   // Extract taxonomy tags from content
   const autoTags = extractTags(title, description, body);
 
-  // Preserve special tags from existing frontmatter
-  const preserveTags = ["daily-digest"];
-  for (const t of existingTags) {
-    if (preserveTags.includes(t)) {
-      autoTags.add(t);
-    }
-  }
-
   // Apply aliases
   for (const [from, to] of Object.entries(aliases)) {
     if (autoTags.has(from)) {
@@ -129,6 +119,8 @@ for (const file of files) {
       autoTags.add(to);
     }
   }
+
+  for (const t of suppressed) autoTags.delete(t);
 
   const sortedTags = [...autoTags].sort();
   const oldSorted = [...existingTags].sort();

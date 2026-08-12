@@ -2,6 +2,24 @@ const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const wikilinks = require("markdown-it-wikilinks");
 const obsidianCallouts = require("markdown-it-obsidian-callouts");
+const suppressedTags = require("./_data/suppressed-tags.js");
+
+// Eleventy collection names. A post carrying one of these as a frontmatter tag joins
+// that collection rather than describing itself, so it must never get a /tags/ page.
+const RESERVED_TAGS = new Set([
+  "posts", "all", "notes", "allPosts", "_validatePosts", "guides", "tagPages",
+]);
+
+// The set of tags a template may link to — must stay in lockstep with the tagPages
+// collection below, or posts link to /tags/ URLs that were never generated. That is
+// how `guides` (one post, glob-based collection, no page) became a 404.
+const linkable = (tags) =>
+  (Array.isArray(tags) ? tags : [])
+    .filter((t) => typeof t === "string")
+    .filter((t) => {
+      const slug = t.toLowerCase();
+      return !RESERVED_TAGS.has(slug) && !suppressedTags.has(slug);
+    });
 
 module.exports = function (eleventyConfig) {
   // --- Markdown plugins ---
@@ -110,6 +128,36 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => (b.data.updated || b.date) - (a.data.updated || a.date));
   });
 
+  // Tags that get their own /tags/{slug}/ page.
+  //
+  // Paginating straight over `collections` does not work for this: Eleventy registers a
+  // collection key for every tag it sees in raw frontmatter, and suppressing a tag in
+  // eleventyComputed empties that collection without removing the key. The result is a
+  // generated page with nothing on it. Deriving the list from the collection contents
+  // instead means a tag only gets a URL if something actually carries it.
+  // Case variants are merged onto one lowercase slug. Tags arrive in both casings
+  // ("MediaTek" and "mediatek", "HP" and "hp" — 13 such pairs), which produced two
+  // separate collections and therefore two pages splitting the same posts. It looked
+  // fine locally only because macOS is case-insensitive and one directory silently
+  // overwrote the other; on a case-sensitive host both would exist, each half-empty,
+  // and every post links to the lowercase form.
+  eleventyConfig.addCollection("tagPages", function (collectionApi) {
+    const bySlug = new Map();
+    for (const item of collectionApi.getAll()) {
+      for (const tag of linkable(item.data.tags)) {
+        const slug = tag.toLowerCase();
+        if (!bySlug.has(slug)) bySlug.set(slug, { slug, items: new Set() });
+        bySlug.get(slug).items.add(item);
+      }
+    }
+    return [...bySlug.values()]
+      .map(({ slug, items }) => ({
+        slug,
+        posts: [...items].sort((a, b) => a.date - b.date),
+      }))
+      .sort((a, b) => a.slug.localeCompare(b.slug));
+  });
+
   // All built posts — includes archived (URL preservation)
   // Drafts excluded in production, shown in dev
   eleventyConfig.addCollection("allPosts", function (collectionApi) {
@@ -167,9 +215,11 @@ module.exports = function (eleventyConfig) {
     "daily-digest",
   ]);
   eleventyConfig.addFilter("topicTags", (tags) => {
-    if (!Array.isArray(tags)) return [];
-    return tags.filter(t => !classifierTags.has(t));
+    return linkable(tags).filter(t => !classifierTags.has(t));
   });
+
+  // Every tag that has a page. Use this anywhere a tag is rendered as a link.
+  eleventyConfig.addFilter("linkableTags", linkable);
 
   // Posts from the last N days (minimum 3 posts as fallback)
   eleventyConfig.addFilter("recentDays", (posts, days) => {
@@ -273,9 +323,6 @@ module.exports = function (eleventyConfig) {
     // Normalize variant frontmatter tags to canonical slugs
     const aliases = {
       benchmark: "benchmarks",
-      "edge-inference": "edge-deployment",
-      "on-device": "edge-deployment",
-      "open-weights": "open-source",
       inference: null, // too ubiquitous — suppress from cloud
     };
     const counts = {};
@@ -337,9 +384,6 @@ module.exports = function (eleventyConfig) {
 
     const aliases = {
       benchmark: "benchmarks",
-      "edge-inference": "edge-deployment",
-      "on-device": "edge-deployment",
-      "open-weights": "open-source",
       inference: null,
     };
 
@@ -483,9 +527,6 @@ module.exports = function (eleventyConfig) {
 
     const aliases = {
       benchmark: "benchmarks",
-      "edge-inference": "edge-deployment",
-      "on-device": "edge-deployment",
-      "open-weights": "open-source",
       inference: null,
     };
 

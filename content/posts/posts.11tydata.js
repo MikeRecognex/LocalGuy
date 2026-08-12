@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const taxonomy = require("../../_data/tag-taxonomy.js");
+const suppressed = require("../../_data/suppressed-tags.js");
 
 // Ingestion sometimes re-creates the same story on a later date with an
 // identical filename. Permalinks are date-less, so duplicates collide and
@@ -73,12 +74,11 @@ module.exports = {
         }
       }
 
-      // Normalize variant frontmatter tags to canonical slugs
+      // Normalize variant frontmatter tags to canonical slugs. The edge/on-device and
+      // open-weights aliases are gone — their destinations are now suppressed, so
+      // mapping into them would only have renamed a tag on its way to being dropped.
       const aliases = {
         benchmark: "benchmarks",
-        "edge-inference": "edge-deployment",
-        "on-device": "edge-deployment",
-        "open-weights": "open-source",
       };
       for (const [from, to] of Object.entries(aliases)) {
         if (found.has(from)) {
@@ -86,6 +86,8 @@ module.exports = {
           found.add(to);
         }
       }
+
+      for (const tag of suppressed) found.delete(tag);
 
       return [...found].sort();
     },
