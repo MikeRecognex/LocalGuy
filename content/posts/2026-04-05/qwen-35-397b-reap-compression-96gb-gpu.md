@@ -5,7 +5,7 @@ description: "A community researcher successfully compressed Qwen 3.5 397B to 35
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - cost-saving
@@ -22,7 +22,7 @@ tags:
   - model-compression
   - on-premise-deployment
   - parameter-reduction
-  - quantisation
+  - quantization
   - showcase
 status: published
 ---

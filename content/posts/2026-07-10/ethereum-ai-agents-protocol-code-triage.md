@@ -6,7 +6,7 @@ tags:
   - advanced
   - agent-orchestration
   - agents
-  - benchmark
+  - benchmarks
   - bullish
   - code-auditing
   - daily-digest

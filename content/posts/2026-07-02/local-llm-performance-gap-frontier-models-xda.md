@@ -3,7 +3,7 @@ title: "Local LLM Performance Gap With Frontier Models Smaller Than Expected"
 date: 2026-07-02
 description: "A comparative test reveals that locally-deployed LLMs now perform closer to frontier cloud models than many practitioners anticipated, suggesting viable alternatives for privacy-conscious deployments."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - comparison
   - daily-digest

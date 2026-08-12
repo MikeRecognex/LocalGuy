@@ -6,7 +6,7 @@ tags:
   - accuracy
   - analysis
   - ars-technica
-  - benchmark
+  - benchmarks
   - cautious
   - daily-digest
   - deployment

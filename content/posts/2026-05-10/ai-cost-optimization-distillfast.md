@@ -20,7 +20,7 @@ tags:
   - model-efficiency
   - model-optimization
   - open-source
-  - quantisation
+  - quantization
   - resource-constrained-deployment
   - showcase
 status: published

@@ -4,7 +4,7 @@ date: 2026-08-09
 description: "DeepSeek V4 Flash demonstrates strong benchmark performance with 82.7% accuracy on Terminal-Bench 2.1 using a public harness. This efficient model variant shows promise for local deployment scenarios requiring high capability with reasonable resource constraints."
 tags:
   - daily-digest
-  - benchmark
+  - benchmarks
   - open-source
   - model-optimization
 status: draft

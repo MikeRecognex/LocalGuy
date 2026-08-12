@@ -3,7 +3,7 @@ title: "How to Choose Between Small and Frontier Models"
 date: 2026-06-30
 description: "A comprehensive guide comparing trade-offs between small quantized local models and large frontier models, helping practitioners make informed deployment decisions based on latency, cost, and accuracy requirements."
 tags:
-  - benchmark
+  - benchmarks
   - comparison
   - consumer-gpu
   - daily-digest
@@ -16,7 +16,7 @@ tags:
   - model-selection
   - neutral
   - practical-guide
-  - quantisation
+  - quantization
   - quantization-tradeoffs
   - towards-data-science
 mentions:

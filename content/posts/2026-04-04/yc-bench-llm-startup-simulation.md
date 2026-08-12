@@ -5,7 +5,7 @@ description: "A new benchmark puts 12 LLMs through a year-long simulated startup
 tags:
   - advanced
   - agentic-ai
-  - benchmark
+  - benchmarks
   - benchmark-evaluation
   - benchmark-report
   - bullish

@@ -5,7 +5,7 @@ description: "A detailed benchmark study evaluating 37 language models across 10
 tags:
   - apple-silicon
   - apple-silicon-performance
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - daily-digest

@@ -7,7 +7,7 @@ tags:
   - agent-duel
   - agent-evaluation
   - agents
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - deterministic-testing

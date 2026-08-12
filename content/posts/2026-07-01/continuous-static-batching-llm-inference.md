@@ -14,7 +14,7 @@ tags:
   - intermediate
   - lets-data-science
   - performance-benchmark
-  - quantisation
+  - quantization
   - throughput-latency
 mentions:
   - name: Let's Data Science

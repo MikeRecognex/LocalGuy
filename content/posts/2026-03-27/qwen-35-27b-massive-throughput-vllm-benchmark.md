@@ -5,7 +5,7 @@ description: "A developer optimized Qwen 3.5 27B to reach 1.1 million tokens per
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cost-per-token

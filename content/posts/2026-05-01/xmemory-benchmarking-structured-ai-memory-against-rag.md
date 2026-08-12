@@ -5,7 +5,7 @@ description: "A new benchmark comparing structured AI memory systems against ret
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

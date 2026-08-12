@@ -3,7 +3,7 @@ title: "Making AI Code Review Measurable"
 date: 2026-07-08
 description: "A practical guide to implementing metrics and measurement frameworks for evaluating AI-powered code review systems, with implications for local model deployment."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - code-review
   - coding

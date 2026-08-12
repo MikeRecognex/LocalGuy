@@ -4,7 +4,7 @@ date: 2026-03-25
 description: "Comprehensive llama-bench benchmarks comparing RTX 5090 consumer GPU against DGX Spark and AMD AI395 in real-world local inference scenarios, with ROCm and Vulkan results included."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

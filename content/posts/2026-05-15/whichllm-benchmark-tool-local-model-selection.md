@@ -3,7 +3,7 @@ title: "Show HN: Find the best local LLM for your hardware, ranked by benchmarks
 date: 2026-05-15
 description: "A new GitHub tool helps developers identify the optimal local LLM for their specific hardware constraints by ranking models across performance benchmarks. This addresses a key pain point in the local LLM ecosystem where choosing between dozens of models requires extensive manual testing."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-data-aggregation
   - bullish
   - consumer-gpu

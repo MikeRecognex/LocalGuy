@@ -18,7 +18,7 @@ tags:
   - model-compression
   - model-optimization
   - on-device-inference
-  - quantisation
+  - quantization
 mentions:
   - name: Hacker News
     role: publisher

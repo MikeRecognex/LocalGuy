@@ -6,7 +6,7 @@ tags:
   - ai-acceleration
   - ai-device-strategy
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

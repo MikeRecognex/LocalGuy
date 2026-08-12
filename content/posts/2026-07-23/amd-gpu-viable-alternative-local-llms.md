@@ -4,7 +4,7 @@ date: 2026-07-23
 description: "A practical benchmark demonstrates that AMD GPUs are now competitive for running local LLMs, challenging Nvidia's dominance and expanding hardware options for self-hosted inference."
 tags:
   - amd
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

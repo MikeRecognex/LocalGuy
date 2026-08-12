@@ -6,7 +6,7 @@ tags:
   - 1-bit-quantization
   - analysis
   - anythingllm
-  - benchmark
+  - benchmarks
   - bonsai
   - bullish
   - consumer-gpu

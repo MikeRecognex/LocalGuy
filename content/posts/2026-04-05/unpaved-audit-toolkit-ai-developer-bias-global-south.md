@@ -6,7 +6,7 @@ tags:
   - advanced
   - ai-fairness-auditing
   - ai-tool-bias
-  - benchmark
+  - benchmarks
   - bias-mitigation
   - bullish
   - daily-digest

@@ -7,7 +7,7 @@ tags:
   - agents
   - ai-agents
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

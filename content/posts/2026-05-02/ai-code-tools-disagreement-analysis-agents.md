@@ -6,7 +6,7 @@ tags:
   - agents
   - ai-coding-tool-consistency
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cautious
   - code-llm-performance

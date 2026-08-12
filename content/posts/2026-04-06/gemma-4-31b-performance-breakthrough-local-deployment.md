@@ -3,7 +3,7 @@ title: "Gemma 4 31B Achieves Exceptional Performance on Local Hardware"
 date: 2026-04-06
 description: "Google's new Gemma 4 31B model is delivering frontier-level performance at a fraction of the cost, outperforming much larger models like GPT-5.2 and Claude Opus on benchmark leaderboards while remaining viable for local deployment."
 tags:
-  - benchmark
+  - benchmarks
   - benchmarking
   - bullish
   - cloud-api-replacement
@@ -21,7 +21,7 @@ tags:
   - model-quantization
   - model-release
   - model-scaling
-  - quantisation
+  - quantization
   - showcase
 status: published
 ---

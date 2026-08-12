@@ -5,7 +5,7 @@ description: "A new benchmark reveals critical weaknesses in LLM memory systems,
 tags:
   - agent-orchestration
   - agents
-  - benchmark
+  - benchmarks
   - benchmark-report
   - cautious
   - daily-digest

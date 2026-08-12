@@ -15,7 +15,7 @@ tags:
   - model-compression
   - ora-computing
   - performance
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: ORA Computing

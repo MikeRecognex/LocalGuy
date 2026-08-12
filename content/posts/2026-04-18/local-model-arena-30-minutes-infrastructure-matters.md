@@ -5,7 +5,7 @@ description: "HackerNoon shares insights from building a local model comparison 
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - concurrent-serving
   - consumer-gpu

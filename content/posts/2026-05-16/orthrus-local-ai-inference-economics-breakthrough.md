@@ -25,7 +25,7 @@ tags:
   - news
   - orthrus
   - performance
-  - quantisation
+  - quantization
 mentions:
   - name: Orthrus
     role: developer

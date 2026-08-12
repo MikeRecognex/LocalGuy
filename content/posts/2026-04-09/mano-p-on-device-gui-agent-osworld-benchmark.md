@@ -4,7 +4,7 @@ date: 2026-04-09
 description: "Mano-P, an open-source GUI agent optimized for local deployment, achieved top performance on the OSWorld benchmark, demonstrating state-of-the-art capabilities for on-device automation tasks."
 tags:
   - agents
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - daily-digest

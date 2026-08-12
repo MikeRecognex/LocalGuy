@@ -5,7 +5,7 @@ description: "A new benchmark comparing frontier LLM variants in real-time strat
 tags:
   - agent-reasoning
   - ai-agents
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - claude-fable-5

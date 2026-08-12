@@ -4,9 +4,9 @@ date: 2026-03-24
 description: "Systematic benchmarking of different KV cache quantization levels using SWE-bench-lite provides early empirical data on quality-versus-memory trade-offs, helping practitioners optimize memory usage in local deployments without sacrificing reasoning performance."
 tags:
   - daily-digest
-  - quantisation
+  - quantization
   - kv-cache
-  - benchmark
+  - benchmarks
   - memory-optimization
 status: published
 ---

@@ -24,7 +24,7 @@ tags:
   - msn
   - neutral
   - performance-benchmarking
-  - quantisation
+  - quantization
   - showcase
 mentions:
   - name: MSN

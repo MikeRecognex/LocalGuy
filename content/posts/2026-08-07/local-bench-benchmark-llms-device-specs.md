@@ -4,10 +4,10 @@ date: 2026-08-07
 description: "A new benchmarking tool helps developers evaluate which local LLMs are suitable for their specific hardware constraints. This addresses a critical pain point in local LLM deployment: matching model capabilities to available compute resources."
 tags:
   - daily-digest
-  - benchmark
+  - benchmarks
   - hardware
   - open-source
-  - quantisation
+  - quantization
 status: draft
 ---
 

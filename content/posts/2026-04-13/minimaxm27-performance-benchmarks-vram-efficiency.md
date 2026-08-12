@@ -5,7 +5,7 @@ description: "MiniMax-M2.7 benchmarks show strong throughput (127.7 tok/s on dua
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu
@@ -22,7 +22,7 @@ tags:
   - model-performance
   - model-quantization
   - multi-gpu-deployment
-  - quantisation
+  - quantization
   - vram-optimization
 status: published
 ---

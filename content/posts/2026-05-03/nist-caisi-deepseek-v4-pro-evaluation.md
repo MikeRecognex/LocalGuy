@@ -4,7 +4,7 @@ date: 2026-05-03
 description: "NIST's comprehensive evaluation framework reveals that DeepSeek V4 Pro achieves performance parity with GPT-5 on standardized benchmarks, with implications for local deployment viability."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - benchmark-comparison
   - benchmark-report
   - bullish

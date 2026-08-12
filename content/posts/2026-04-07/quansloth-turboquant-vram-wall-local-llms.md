@@ -20,7 +20,6 @@ tags:
   - on-device-inference
   - pacifaist
   - quansloth
-  - quantisation
   - quantization
   - self-hosting
   - showcase

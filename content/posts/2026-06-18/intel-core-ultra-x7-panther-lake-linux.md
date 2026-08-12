@@ -3,7 +3,7 @@ title: "Intel Core Ultra X7 Panther Lake Performance Benchmarked on Linux"
 date: 2026-06-18
 description: "Phoronix publishes comprehensive performance benchmarks for Intel's newest Core Ultra X7 Panther Lake processors running on Linux 7.1. These results are critical for evaluating local LLM inference performance on current-generation Intel hardware."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cpu-only

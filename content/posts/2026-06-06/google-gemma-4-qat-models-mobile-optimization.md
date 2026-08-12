@@ -13,7 +13,7 @@ tags:
   - memory-optimization
   - mobile
   - privacy-focused
-  - quantisation
+  - quantization
   - quantization-aware-training
   - release
 status: published

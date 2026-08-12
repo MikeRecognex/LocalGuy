@@ -4,7 +4,7 @@ date: 2026-04-10
 description: "A detailed technical comparison analyzing where Warp Decode and vLLM's Triton kernel each excel for local LLM inference, with implications for choosing the right decoding strategy for your hardware."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - comparison

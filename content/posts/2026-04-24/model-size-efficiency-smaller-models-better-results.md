@@ -4,7 +4,7 @@ date: 2026-04-24
 description: "Case study demonstrating that model size isn't the only factor determining performance—proper quantization, fine-tuning, and hardware matching can yield superior results with significantly smaller models."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - bullish
   - case-study
   - comparison
@@ -23,7 +23,7 @@ tags:
   - model-performance
   - model-quantization
   - msn
-  - quantisation
+  - quantization
   - resource-optimization
 mentions:
   - name: MSN

@@ -20,7 +20,6 @@ tags:
   - model-compression
   - model-optimization
   - on-device-inference
-  - quantisation
   - quantization
   - showcase
 status: published

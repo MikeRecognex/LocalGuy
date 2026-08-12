@@ -3,7 +3,7 @@ title: "Q4 vs Q6 vs Q8: The Quantization Decision Framework for Local LLMs"
 date: 2026-08-02
 description: "A detailed comparison framework for choosing the right quantisation level (Q4, Q6, Q8) when running local LLMs, balancing model quality, inference speed, and memory requirements."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - comparison
   - consumer-gpu
@@ -19,7 +19,7 @@ tags:
   - ollama
   - performance
   - performance-tradeoffs
-  - quantisation
+  - quantization
   - quantization-tradeoffs
   - sitepoint
 mentions:

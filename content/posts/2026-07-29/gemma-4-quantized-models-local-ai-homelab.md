@@ -22,7 +22,7 @@ tags:
   - model-quantization
   - ollama
   - performance
-  - quantisation
+  - quantization
 mentions:
   - name: How-To Geek
     role: publisher

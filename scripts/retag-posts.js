@@ -15,10 +15,8 @@ const taxonomy = require("../_data/tag-taxonomy.js");
 
 const POSTS_DIR = path.resolve(__dirname, "../content/posts");
 
-const aliases = {
-  benchmark: "benchmarks",
-};
 const suppressed = require("../_data/suppressed-tags.js");
+const { canonicalTag } = require("../_data/tag-aliases.js");
 
 function extractTags(title, description, body) {
   // Publisher attribution is metadata, not subject matter. Stripping the URL alone
@@ -113,16 +111,11 @@ for (const file of files) {
   const autoTags = extractTags(title, description, body);
 
   // Apply aliases
-  for (const [from, to] of Object.entries(aliases)) {
-    if (autoTags.has(from)) {
-      autoTags.delete(from);
-      autoTags.add(to);
-    }
-  }
+  const canonical = new Set([...autoTags].map(canonicalTag));
 
-  for (const t of suppressed) autoTags.delete(t);
+  for (const t of suppressed) canonical.delete(t);
 
-  const sortedTags = [...autoTags].sort();
+  const sortedTags = [...canonical].sort();
   const oldSorted = [...existingTags].sort();
 
   // Check if tags actually changed

@@ -23,7 +23,7 @@ tags:
   - local-inference
   - mini-pc
   - model-quantization
-  - quantised-inference
+  - quantized-inference
   - release
   - showcase
   - xiaomitodaycom

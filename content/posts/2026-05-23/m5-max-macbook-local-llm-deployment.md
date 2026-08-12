@@ -6,7 +6,7 @@ tags:
   - advanced
   - analysis
   - apple-silicon
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

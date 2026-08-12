@@ -8,7 +8,7 @@ tags:
   - agents
   - ai-architect-framework
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-analysis
   - benchmark-report
   - bito

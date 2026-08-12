@@ -14,7 +14,7 @@ tags:
   - model-compression
   - optimization
   - power-efficiency
-  - quantisation
+  - quantization
   - release
   - servethehome
   - tensordyne

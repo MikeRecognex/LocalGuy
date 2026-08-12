@@ -4,7 +4,7 @@ date: 2026-08-04
 description: "A 28.9M-parameter language model successfully deployed on the ESP32-S3 microcontroller, achieving 9 tokens per second inference speed. This breakthrough demonstrates practical on-device AI capability for ultra-low-power edge devices."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

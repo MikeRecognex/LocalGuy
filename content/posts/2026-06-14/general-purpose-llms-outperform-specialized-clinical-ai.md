@@ -4,7 +4,7 @@ date: 2026-06-14
 description: "A Nature study demonstrates that general-purpose LLMs exceed the performance of specialized clinical AI systems, with significant implications for local deployment strategies in healthcare applications."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

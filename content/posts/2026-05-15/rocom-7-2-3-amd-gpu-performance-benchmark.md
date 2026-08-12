@@ -5,7 +5,7 @@ description: "Phoronix benchmarks show measurable performance gains with ROCm 7.
 tags:
   - amd-gpu
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - daily-digest

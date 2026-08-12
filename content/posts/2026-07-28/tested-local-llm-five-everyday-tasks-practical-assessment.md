@@ -3,7 +3,7 @@ title: "Testing Local LLMs on Real Tasks: Honest Assessment of Practical Utility
 date: 2026-07-28
 description: "A real-world evaluation of local LLM performance across five common tasks reveals which use cases truly benefit from on-device inference versus cloud alternatives, providing practitioners with concrete guidance."
 tags:
-  - benchmark
+  - benchmarks
   - cloud-vs-local
   - comparison
   - daily-digest

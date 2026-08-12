@@ -5,7 +5,7 @@ description: "SemiAnalysis published detailed performance tracking of DeepSeek V
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - daily-digest
   - datacenter-gpu
   - deepseek

@@ -3,7 +3,7 @@ title: "AI/ML Benchmark Tool for Local LLM Inference and XGBoost Training"
 date: 2026-05-16
 description: "A new benchmarking tool has been released for measuring local LLM inference performance and XGBoost training across GPU and CPU hardware. This resource helps practitioners evaluate their on-device deployment setups and optimize inference performance."
 tags:
-  - benchmark
+  - benchmarks
   - benchmarking
   - bullish
   - consumer-gpu

@@ -5,7 +5,7 @@ description: "Detailed benchmarking of different GGUF quantization methods for Q
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - benchmarking
   - bullish
@@ -22,7 +22,7 @@ tags:
   - model-compression
   - model-efficiency
   - model-quantization
-  - quantisation
+  - quantization
   - small-model-deployment
 status: published
 ---

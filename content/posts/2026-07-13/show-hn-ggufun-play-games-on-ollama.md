@@ -13,7 +13,7 @@ tags:
   - gguf-quantization
   - intermediate
   - ollama
-  - quantisation
+  - quantization
   - showcase
 mentions:
   - name: Hacker News

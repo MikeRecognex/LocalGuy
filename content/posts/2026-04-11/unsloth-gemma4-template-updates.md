@@ -15,7 +15,7 @@ tags:
   - local-deployment
   - model-updates
   - news
-  - quantisation
+  - quantization
   - reasoning-budget
   - release
   - rlocalllama

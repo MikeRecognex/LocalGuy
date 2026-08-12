@@ -24,7 +24,7 @@ tags:
   - integrated-gpu-performance
   - intermediate
   - llama-cpp
-  - llama-cpp-optimisation
+  - llama-cpp-optimization
   - llama-cpp-optimizations
   - local-deployment
   - local-inference
@@ -32,7 +32,7 @@ tags:
   - news
   - power-efficiency
   - rocm
-  - rocm-optimisation
+  - rocm-optimization
   - rocm-optimizations
   - unified-memory
 status: published

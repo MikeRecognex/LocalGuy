@@ -3,7 +3,7 @@ title: "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB"
 date: 2026-06-28
 description: "Comprehensive benchmark results for running small language models on NVIDIA's Jetson Orin Nano Super with 8GB memory, providing practical performance data for edge LLM deployment."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - daily-digest

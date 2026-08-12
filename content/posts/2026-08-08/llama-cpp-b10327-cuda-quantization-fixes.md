@@ -6,7 +6,7 @@ tags:
   - daily-digest
   - llama-cpp
   - nvidia
-  - quantisation
+  - quantization
   - open-source
 status: draft
 ---

@@ -18,7 +18,7 @@ tags:
   - performance-benchmarking
   - performance-metrics
   - performance-optimization
-  - quantisation
+  - quantization
   - showcase
 mentions:
   - name: MSN

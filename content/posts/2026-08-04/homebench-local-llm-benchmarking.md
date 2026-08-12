@@ -3,7 +3,7 @@ title: "Homebench: Comprehensive Benchmarking Tool for Local LLMs"
 date: 2026-08-04
 description: "A new benchmarking tool specifically designed to measure speed, memory usage, and output quality of locally-running LLMs, helping practitioners optimize their deployments."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - deployment-strategy
@@ -13,7 +13,6 @@ tags:
   - memory-optimization
   - open-source
   - performance-benchmarking
-  - quantisation
   - quantization
   - release
 mentions:

@@ -17,7 +17,7 @@ tags:
   - multi-token-prediction
   - news
   - open-source
-  - quantisation
+  - quantization
   - release
   - speculative-decoding
 status: published

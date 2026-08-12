@@ -19,7 +19,7 @@ tags:
   - model-compression
   - open-source
   - prismml
-  - quantisation
+  - quantization
   - tutorial
 mentions:
   - name: MarkTechPost

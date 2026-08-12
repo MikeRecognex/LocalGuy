@@ -5,7 +5,7 @@ description: "Local LLM practitioners are experiencing notable speed and stabili
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

@@ -20,7 +20,7 @@ tags:
   - neutral
   - open-source
   - open-source-alternatives
-  - quantisation
+  - quantization
   - release
   - rlocalllama
   - unsloth

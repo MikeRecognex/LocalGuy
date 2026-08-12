@@ -3,7 +3,7 @@ title: "$200 NVIDIA V100 Server GPU Mod Beats RTX 3060 in Local LLM Test"
 date: 2026-05-11
 description: "A creative hardware modification using refurbished NVIDIA V100 server GPUs demonstrates strong price-to-performance for local LLM inference, outperforming newer consumer-grade GPUs at a fraction of the cost."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

@@ -17,7 +17,7 @@ tags:
   - long-context
   - on-device-inference
   - open-source
-  - quantisation
+  - quantization
   - release
   - tool-calling
 mentions:

@@ -4,7 +4,7 @@ date: 2026-06-24
 description: "DeepSWE v1.1 enhances the benchmarking and evaluation framework for AI agents performing software engineering tasks. Updated execution and grading mechanisms improve assessment accuracy for locally-deployed coding LLMs and agents."
 tags:
   - agents
-  - benchmark
+  - benchmarks
   - bullish
   - coding-agents
   - daily-digest

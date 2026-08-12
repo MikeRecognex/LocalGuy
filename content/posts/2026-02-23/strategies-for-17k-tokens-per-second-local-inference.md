@@ -15,7 +15,7 @@ tags:
   - inference-optimization
   - memory-optimization
   - model-optimization
-  - optimisation
+  - optimization
   - performance
   - quantization
 mentions:

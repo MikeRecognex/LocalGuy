@@ -3,7 +3,7 @@ title: "Google Gemma 4 Delivers Exceptional Speed and Accuracy for Local Inferen
 date: 2026-04-12
 description: "Early adopters report that Google's Gemma 4 model runs with remarkable speed comparable to 4-9B parameter models while maintaining accuracy levels reminiscent of early Gemini releases, making it a compelling option for resource-constrained local deployments."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

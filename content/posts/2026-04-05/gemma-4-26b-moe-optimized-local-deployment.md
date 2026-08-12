@@ -21,7 +21,7 @@ tags:
   - model-quantization
   - model-release
   - multimodal-ai
-  - quantisation
+  - quantization
   - rlocalllama
   - showcase
   - unsloth

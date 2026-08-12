@@ -20,7 +20,7 @@ tags:
   - memory-optimization
   - model-optimization
   - performance
-  - quantisation
+  - quantization
   - showcase
   - token-budget-management
 mentions:

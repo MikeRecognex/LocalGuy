@@ -5,7 +5,7 @@ description: "PrismML has released Bonsai-8B, a groundbreaking 1-bit quantised m
 tags:
   - 1-bit-quantization
   - advanced
-  - benchmark
+  - benchmarks
   - bullish
   - cpu-only
   - daily-digest
@@ -22,7 +22,7 @@ tags:
   - news
   - prism-ml
   - prismml
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: PrismML

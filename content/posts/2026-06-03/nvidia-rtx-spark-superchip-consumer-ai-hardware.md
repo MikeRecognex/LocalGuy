@@ -24,7 +24,7 @@ tags:
   - nvidia
   - on-device-inference
   - power-efficiency
-  - quantisation
+  - quantization
   - release
   - rtx-spark-architecture
 mentions:

@@ -3,7 +3,7 @@ title: "Gemma 4 31B vs Qwen 3.5 27B: Comprehensive Long Context Benchmark"
 date: 2026-04-11
 description: "Community benchmark comparing Gemma 4 31B and Qwen 3.5 27B for long context workloads on 24GB VRAM, establishing these as the top local models for mid-range GPU setups."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - comparison
@@ -20,7 +20,7 @@ tags:
   - model-comparison
   - model-quantization
   - open-source-ai
-  - quantisation
+  - quantization
   - qwen
   - vram-optimization
 status: published

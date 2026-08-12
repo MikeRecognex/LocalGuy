@@ -21,7 +21,7 @@ tags:
   - model-stabilization
   - news
   - open-source
-  - quantisation
+  - quantization
 mentions:
   - name: ggml-org
     role: project-maintainer

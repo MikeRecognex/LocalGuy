@@ -5,7 +5,7 @@ description: "New research paper presents attack techniques against sparsity-opt
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - cautious
   - daily-digest
   - developer

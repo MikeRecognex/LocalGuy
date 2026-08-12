@@ -4,7 +4,7 @@ date: 2026-04-13
 description: "Benchmarks show speculative decoding with Gemma-4 E2B draft model delivers 29% average throughput improvement and 50% gains on code tasks. This practical optimization technique significantly accelerates local inference on consumer GPUs."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - code-generation

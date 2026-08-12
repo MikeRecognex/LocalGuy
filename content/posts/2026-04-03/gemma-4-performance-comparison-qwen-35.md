@@ -4,7 +4,7 @@ date: 2026-04-03
 description: "Testing on Mac Studio M5 Ultra shows Gemma 4 26B achieves comparable speed (1000 tokens/sec prompt, 60 tokens/sec generation) to larger Qwen 3.5 35B while demonstrating significantly better output quality and reasoning behavior."
 tags:
   - apple-silicon
-  - benchmark
+  - benchmarks
   - bullish
   - comparison
   - daily-digest
@@ -19,7 +19,7 @@ tags:
   - model-quality
   - model-quantization
   - power-efficiency
-  - quantisation
+  - quantization
 status: published
 ---
 

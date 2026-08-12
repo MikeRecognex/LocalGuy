@@ -15,7 +15,7 @@ tags:
   - memory-optimization
   - news
   - on-device-deployment
-  - quantisation
+  - quantization
 status: published
 ---
 

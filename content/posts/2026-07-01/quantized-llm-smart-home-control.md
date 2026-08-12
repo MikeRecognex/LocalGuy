@@ -16,7 +16,7 @@ tags:
   - model-quantization
   - msn
   - privacy
-  - quantisation
+  - quantization
   - showcase
   - smart-home-automation
 mentions:

@@ -14,8 +14,8 @@ tags:
   - memory-optimization
   - model-compression
   - pulse2
-  - quantisation
-  - quantisation-aware-training
+  - quantization
+  - quantization-aware-training
   - release
 mentions:
   - name: Pulse2

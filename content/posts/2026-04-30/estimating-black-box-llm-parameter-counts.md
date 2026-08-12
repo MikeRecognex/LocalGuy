@@ -21,7 +21,7 @@ tags:
   - neutral
   - open-source
   - optimization
-  - quantisation
+  - quantization
 mentions:
   - name: arXiv
     role: publisher

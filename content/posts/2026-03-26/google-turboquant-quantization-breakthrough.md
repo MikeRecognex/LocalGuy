@@ -20,7 +20,7 @@ tags:
   - model-quantization
   - news
   - performance
-  - quantisation
+  - quantization
   - quantization-techniques
   - release
   - starkinsidercom

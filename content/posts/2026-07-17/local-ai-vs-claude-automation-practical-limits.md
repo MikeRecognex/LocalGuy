@@ -5,7 +5,7 @@ description: "An XDA Developers article explores the practical limitations of lo
 tags:
   - agents
   - analysis
-  - benchmark
+  - benchmarks
   - cautious
   - claude
   - cloud-vs-local

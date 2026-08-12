@@ -4,7 +4,7 @@ date: 2026-05-17
 description: "Google has unveiled Gemini Intelligence capabilities restricted to flagship devices, with extreme hardware requirements that limit deployment scope. This underscores the ongoing challenge of fitting capable AI models into accessible, consumer-level hardware."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cautious
   - consumer-hardware

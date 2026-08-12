@@ -5,7 +5,7 @@ description: "A minimal, efficient physics classifier demonstrates that simple, 
 tags:
   - algorithm-comparison
   - algorithm-optimization
-  - benchmark
+  - benchmarks
   - bullish
   - code-efficiency
   - code-optimization
@@ -26,7 +26,7 @@ tags:
   - performance-metrics
   - performance-optimization
   - physics-classification
-  - quantisation
+  - quantization
   - resource-optimization
   - showcase
   - tutorial

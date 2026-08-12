@@ -17,7 +17,7 @@ tags:
   - inference-optimization
   - intermediate
   - model-compression
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: Edgee AI

@@ -23,7 +23,7 @@ tags:
   - on-device-ai
   - pandailycom
   - privacy-preserving-ai
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: MediaTek

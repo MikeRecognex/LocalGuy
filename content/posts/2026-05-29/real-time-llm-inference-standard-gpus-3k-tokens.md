@@ -4,7 +4,7 @@ date: 2026-05-29
 description: "A breakthrough in LLM inference optimization achieves 3,000 tokens per second on standard GPUs, significantly improving real-time inference performance for local deployments."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - cost-saving

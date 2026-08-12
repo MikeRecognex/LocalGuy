@@ -4,7 +4,7 @@ date: 2026-05-10
 description: "A single configuration change in LM Studio dramatically improved local LLM performance to rival cloud-based models. This discovery highlights how optimization tuning can unlock competitive inference speeds for self-hosted deployments."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-hardware
   - context-management

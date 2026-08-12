@@ -3,7 +3,7 @@ title: "Google Gemma 4 Debuts for Pixel 10 With Powerful On-Device AI Features"
 date: 2026-07-16
 description: "Google has released Gemma 4, a new model family optimized for on-device inference on Pixel 10, demonstrating production-grade implementation of privacy-first AI. The model family represents important architectural improvements for resource-constrained edge deployment."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

@@ -3,7 +3,7 @@ title: "Benchmarking a Portable AI Workstation: Lenovo ThinkPad P16 Gen 3, Part 
 date: 2026-05-21
 description: "Detailed performance analysis of the Lenovo ThinkPad P16 Gen 3 as a portable AI workstation, providing real-world benchmarks for local LLM inference and training workflows."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - comparison
   - consumer-gpu

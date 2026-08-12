@@ -3,7 +3,7 @@ title: "PFlash Claims 10x Prefill Speedup Over llama.cpp"
 date: 2026-05-02
 description: "A new inference optimization technique promises dramatic speedups for the prefill phase of local LLM inference, potentially reshaping performance benchmarks for on-device deployments."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

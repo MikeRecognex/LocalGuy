@@ -4,7 +4,7 @@ date: 2026-08-07
 description: "SitePoint's 2026 analysis compares total cost of ownership for self-hosted LLMs versus cloud APIs, providing practitioners with data-driven frameworks for infrastructure decisions."
 tags:
   - daily-digest
-  - benchmark
+  - benchmarks
   - cost-analysis
   - open-source
 status: draft

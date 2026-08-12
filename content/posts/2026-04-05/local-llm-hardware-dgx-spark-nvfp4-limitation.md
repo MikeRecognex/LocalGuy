@@ -22,7 +22,6 @@ tags:
   - nvfp4-support
   - nvidia
   - opinion
-  - quantisation
   - quantization
   - software-support
 status: published

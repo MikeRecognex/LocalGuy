@@ -19,7 +19,7 @@ tags:
   - model-sizing
   - new-model
   - open-source
-  - quantisation
+  - quantization
   - release
   - setup-complexity-reduction
 mentions:

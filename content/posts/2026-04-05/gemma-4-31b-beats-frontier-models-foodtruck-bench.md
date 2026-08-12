@@ -5,7 +5,7 @@ description: "Google's Gemma 4 31B model has demonstrated exceptional performanc
 tags:
   - agentic-applications
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - computational-efficiency
@@ -23,7 +23,7 @@ tags:
   - model-performance
   - model-release
   - open-source
-  - quantisation
+  - quantization
   - sequential-reasoning
 status: published
 ---

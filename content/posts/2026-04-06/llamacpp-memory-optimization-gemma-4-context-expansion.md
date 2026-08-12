@@ -19,7 +19,7 @@ tags:
   - model-quantization
   - multimodal-ai
   - news
-  - quantisation
+  - quantization
   - quantization-techniques
   - rlocalllama
   - selective-quantization

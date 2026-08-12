@@ -23,7 +23,7 @@ tags:
   - model-resilience
   - neutral
   - optimization
-  - quantisation
+  - quantization
 mentions:
   - name: Hacker News
     role: publisher

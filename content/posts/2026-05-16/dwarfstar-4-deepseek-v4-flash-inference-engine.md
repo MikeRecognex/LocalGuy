@@ -22,7 +22,7 @@ tags:
   - memory-optimization
   - model-specific-optimization
   - native-inference-engine
-  - quantisation
+  - quantization
   - release
   - resource-utilization
 mentions:

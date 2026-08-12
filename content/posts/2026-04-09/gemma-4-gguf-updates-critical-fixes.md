@@ -3,7 +3,7 @@ title: "Gemma 4 GGUF Models Updated with Critical Quantization Fixes"
 date: 2026-04-09
 description: "Unsloth has released updated Gemma 4 GGUF quantizations addressing kv-cache issues and other inference problems. New versions are available for both 26B and 31B model sizes."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest
@@ -19,7 +19,7 @@ tags:
   - model-quantization
   - news
   - performance-optimization
-  - quantisation
+  - quantization
   - release
   - rlocalllama
   - unsloth

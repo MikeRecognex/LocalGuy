@@ -20,7 +20,6 @@ tags:
   - memory-optimization
   - model-optimization
   - news
-  - quantisation
   - quantization
   - startup-fortune
   - startupfortunecom

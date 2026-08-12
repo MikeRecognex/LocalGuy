@@ -3,7 +3,7 @@ title: "GPUs vs. TPUs: Decoding the Powerhouses of AI"
 date: 2026-04-04
 description: "A comprehensive comparison of GPU and TPU architectures for AI workloads, examining trade-offs between general-purpose graphics processors and tensor-optimized units for local and edge LLM deployment scenarios."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - comparison
   - consumer-gpu

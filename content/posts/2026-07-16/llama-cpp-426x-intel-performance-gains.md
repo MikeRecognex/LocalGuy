@@ -5,7 +5,7 @@ description: "Recent optimizations in llama.cpp for Intel processors show signif
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - cautious
   - cpu-only
   - cpu-optimization

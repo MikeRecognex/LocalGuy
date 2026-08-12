@@ -21,7 +21,7 @@ tags:
   - neutral
   - performance-tuning
   - prompt-engineering
-  - quantisation
+  - quantization
   - tutorial
 mentions:
   - name: Hacker News

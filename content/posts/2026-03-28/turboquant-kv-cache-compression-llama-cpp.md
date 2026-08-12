@@ -24,7 +24,7 @@ tags:
   - news
   - offline-inference
   - performance
-  - quantisation
+  - quantization
 status: published
 ---
 

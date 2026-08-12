@@ -4,7 +4,7 @@ date: 2026-08-07
 description: "Daniel Han explores how aggressive model compression can maintain capabilities, challenging assumptions about size-to-performance tradeoffs in quantization and pruning for local inference."
 tags:
   - daily-digest
-  - quantisation
+  - quantization
   - memory-optimization
   - model-compression
 status: draft

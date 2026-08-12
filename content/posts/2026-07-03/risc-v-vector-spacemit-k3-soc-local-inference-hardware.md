@@ -3,7 +3,7 @@ title: "RISC-V RVV Vector Benchmarks: SpacemiT K3 SoC Performance for Edge AI"
 date: 2026-07-03
 description: "Performance benchmarking of the SpacemiT K3 system-on-chip using RISC-V vector extensions reveals competitive inference capabilities for local AI workloads on alternative CPU architectures."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cpu-inference

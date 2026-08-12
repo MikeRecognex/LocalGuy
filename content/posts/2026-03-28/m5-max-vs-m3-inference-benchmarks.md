@@ -4,7 +4,7 @@ date: 2026-03-28
 description: "Comprehensive benchmarks comparing Apple's M5 Max and M3 Max chips show significant performance gains across Qwen 3.5 model variants (27B dense, 35B MoE, 122B MoE), with the newer chip delivering 1.4x to 1.7x faster token generation using the oMLX framework."
 tags:
   - apple-silicon
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - context-window-size

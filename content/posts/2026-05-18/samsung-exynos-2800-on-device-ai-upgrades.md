@@ -23,7 +23,7 @@ tags:
   - on-device-ai
   - on-device-llms
   - privacy-first-ai
-  - quantisation
+  - quantization
   - release
 status: published
 ---

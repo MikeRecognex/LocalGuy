@@ -8,7 +8,7 @@ tags:
   - agent-orchestration
   - agents
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cost-saving
   - daily-digest

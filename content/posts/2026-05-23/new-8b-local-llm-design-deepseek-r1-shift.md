@@ -23,7 +23,7 @@ tags:
   - model-efficiency
   - model-release
   - news
-  - quantisation
+  - quantization
   - real-time-inference
   - xda
 mentions:

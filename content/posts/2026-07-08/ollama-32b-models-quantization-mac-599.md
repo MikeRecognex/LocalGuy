@@ -4,7 +4,7 @@ date: 2026-07-08
 description: "A breakthrough demonstration of running large 32-billion parameter models efficiently on consumer Mac hardware through quantization, proving that sophisticated local inference is now accessible on modest hardware."
 tags:
   - apple-silicon
-  - benchmark
+  - benchmarks
   - bullish
   - cost-saving
   - daily-digest

@@ -6,7 +6,7 @@ tags:
   - advanced
   - analysis
   - b300-x8
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - datacenter-gpu

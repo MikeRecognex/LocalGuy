@@ -3,7 +3,7 @@ title: "Round-Trip Correctness: New Metric for Generative AI Process Modeling"
 date: 2026-07-24
 description: "SAP introduces round-trip correctness as a novel evaluation metric for generative AI-based process modeling. This metric helps assess the reliability of AI models for critical business workflows in local deployment scenarios."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer
@@ -17,7 +17,7 @@ tags:
   - model-reliability
   - model-validation
   - optimization
-  - quantisation
+  - quantization
   - release
   - sap
 mentions:

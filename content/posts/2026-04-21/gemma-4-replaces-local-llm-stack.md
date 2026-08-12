@@ -4,7 +4,7 @@ date: 2026-04-21
 description: "Google's Gemma 4 model is making waves in the local LLM community as developers report it outperforms their existing local inference setups. The model appears to offer significant improvements in capability-to-size ratio, making it an attractive option for on-device deployment."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

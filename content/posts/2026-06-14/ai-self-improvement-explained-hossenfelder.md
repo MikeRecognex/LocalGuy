@@ -4,7 +4,7 @@ date: 2026-06-14
 description: "Physics educator Sabine Hossenfelder examines the emerging phenomenon of AI systems improving their own performance, with implications for the future of local model optimization and development."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

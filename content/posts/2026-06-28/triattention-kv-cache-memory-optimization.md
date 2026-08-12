@@ -16,7 +16,7 @@ tags:
   - memory-optimization
   - on-device-inference
   - performance
-  - quantisation
+  - quantization
 mentions:
   - name: blockchain.news
     role: publisher

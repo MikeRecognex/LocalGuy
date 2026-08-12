@@ -4,7 +4,7 @@ date: 2026-04-07
 description: "Benchmarks show Gemma 4 31B ranking among the best models for European languages including Danish, Dutch, French, Italian, and Finnish, offering strong multilingual support for local deployment scenarios."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - daily-digest

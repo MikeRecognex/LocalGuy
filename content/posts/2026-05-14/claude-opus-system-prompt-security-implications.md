@@ -4,7 +4,7 @@ date: 2026-05-14
 description: "Security researchers report Claude Opus 4.7 randomly leaking its system prompt, highlighting vulnerabilities in proprietary models and reinforcing the case for transparent, locally-controlled LLM deployments."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - data-privacy

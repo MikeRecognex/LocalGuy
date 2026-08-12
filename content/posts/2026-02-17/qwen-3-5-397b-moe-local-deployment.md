@@ -17,7 +17,7 @@ tags:
   - llama-cpp-integration
   - local-inference
   - mixture-of-experts
-  - model-quantisation
+  - model-quantization
   - news
   - offline-deployment
   - quantization

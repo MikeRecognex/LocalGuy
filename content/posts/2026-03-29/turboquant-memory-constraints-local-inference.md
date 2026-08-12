@@ -20,12 +20,11 @@ tags:
   - memory-constraints
   - memory-efficiency
   - memory-optimization
-  - model-quantisation
   - model-quantization
   - model-selection
   - on-device-inference
   - performance
-  - quantisation
+  - quantization
   - the-investor
   - turboquant
 mentions:

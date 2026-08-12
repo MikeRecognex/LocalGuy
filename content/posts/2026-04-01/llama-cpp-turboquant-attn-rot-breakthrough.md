@@ -4,7 +4,7 @@ date: 2026-04-01
 description: "ggerganov's TurboQuant lite (attn-rot) quantisation method is on the verge of being merged into llama.cpp, showing significant improvements in KL-divergence and inference quality. Benchmarks on Qwen3.5-35B demonstrate superior performance across multiple quantisation levels, promising faster and more accurate local inference."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer
@@ -17,7 +17,7 @@ tags:
   - memory-optimization
   - model-quantization
   - news
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: ggerganov

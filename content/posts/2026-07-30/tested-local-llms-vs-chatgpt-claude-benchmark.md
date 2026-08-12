@@ -3,7 +3,7 @@ title: "Testing Top Local LLMs Against ChatGPT and Claude Reveals Performance Ga
 date: 2026-07-30
 description: "A comprehensive benchmark comparing leading local LLM options with commercial alternatives like ChatGPT and Claude uncovers specific use cases where open models struggle. This evaluation provides practical guidance for choosing between local and cloud-based solutions."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - cautious
   - chatgpt

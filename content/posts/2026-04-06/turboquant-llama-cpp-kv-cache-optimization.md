@@ -21,7 +21,6 @@ tags:
   - news
   - on-device-inference
   - performance-optimization
-  - quantisation
   - quantization
 mentions:
   - name: llama.cpp

@@ -3,7 +3,7 @@ title: "vLLM vs Ollama 2026: Performance Benchmark Reveals 9x Throughput Gap"
 date: 2026-05-25
 description: "A comprehensive benchmark comparison shows vLLM significantly outperforming Ollama in throughput metrics, with implications for choosing the right inference framework for local deployments."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - comparison

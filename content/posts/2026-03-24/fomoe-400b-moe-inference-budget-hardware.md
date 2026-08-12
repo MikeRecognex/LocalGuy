@@ -6,7 +6,7 @@ tags:
   - daily-digest
   - mixture-of-experts
   - memory-optimization
-  - quantisation
+  - quantization
   - budget-hardware
 status: published
 ---

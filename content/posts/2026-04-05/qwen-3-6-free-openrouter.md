@@ -4,7 +4,7 @@ date: 2026-04-05
 description: "Alibaba's Qwen 3.6 model is now available as a free inference option, providing accessible baseline for local LLM practitioners evaluating model quality and performance. This release expands the ecosystem of deployable models with strong performance-to-cost ratios."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cost-optimization
   - daily-digest

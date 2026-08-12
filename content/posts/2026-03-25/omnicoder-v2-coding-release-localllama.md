@@ -18,7 +18,7 @@ tags:
   - model-release
   - open-source
   - open-source-models
-  - quantisation
+  - quantization
   - release
   - rlocalllama
   - showcase

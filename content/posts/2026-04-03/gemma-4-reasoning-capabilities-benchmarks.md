@@ -5,7 +5,7 @@ description: "Gemma 4 26B and 31B variants demonstrate competitive reasoning abi
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - chain-of-thought-inference
   - cloud-independence

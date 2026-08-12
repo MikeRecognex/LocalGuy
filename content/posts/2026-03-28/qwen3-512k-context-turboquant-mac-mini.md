@@ -5,7 +5,7 @@ description: "Qwen3 achieves 512k token context window using TurboQuant quantisa
 tags:
   - advanced
   - apple-silicon
-  - benchmark
+  - benchmarks
   - bullish
   - code-generation
   - consumer-gpu
@@ -17,12 +17,11 @@ tags:
   - intermediate
   - long-context-llms
   - long-context-window
-  - model-quantisation
   - model-quantization
   - on-device-inference
   - open-source
   - privacy-preserving-ai
-  - quantisation
+  - quantization
   - showcase
 mentions:
   - name: Hacker News

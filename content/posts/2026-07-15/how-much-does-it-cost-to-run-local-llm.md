@@ -4,7 +4,7 @@ date: 2026-07-15
 description: "A practical analysis measuring the actual operational costs of running local LLMs in euros per million tokens, providing real-world benchmarks for self-hosted inference economics."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - cloud-vs-local
   - cost-analysis
   - cost-benchmarking

@@ -20,7 +20,7 @@ tags:
   - model-architecture
   - model-benchmarking
   - model-compression
-  - quantisation
+  - quantization
 status: published
 ---
 

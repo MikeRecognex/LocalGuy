@@ -21,7 +21,7 @@ tags:
   - model-competition
   - model-quantization
   - model-release
-  - quantisation
+  - quantization
   - release
   - self-hosted-deployment
   - unsloth

@@ -4,7 +4,7 @@ date: 2026-04-10
 description: "A detailed optimization case study demonstrates running Qwen 3.5 122B at impressive inference speeds on a budget dual-GPU Blackwell setup. The community shares verified benchmarks with full methodology and reproducible results for large-scale local deployment."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

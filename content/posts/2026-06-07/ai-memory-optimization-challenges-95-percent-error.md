@@ -5,7 +5,7 @@ description: "Research unveiled severe memory retention failures in AI systems, 
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - cautious
   - daily-digest
   - developer

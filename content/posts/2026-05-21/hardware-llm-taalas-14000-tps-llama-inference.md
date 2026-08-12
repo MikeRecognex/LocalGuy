@@ -3,7 +3,7 @@ title: "Hardware LLM Taalas Reaches >14,000 TPS on Llama 3.1 8B"
 date: 2026-05-21
 description: "Taalas demonstrates breakthrough throughput of over 14,000 tokens per second on Llama 3.1 8B, showcasing specialized hardware acceleration for local and edge LLM deployment."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-hardware

@@ -91,12 +91,12 @@ module.exports = {
   },
 
   topics: {
-    quantisation: [/\bquanti[sz]ation\b/i, /\bquanti[sz]e[ds]?\b/i, /\bgguf\b/i, /\bmxfp4\b/i, /\bfp8\b/i, /\bq4_k\b/i, /\bq5_k\b/i, /\bq8_0\b/i],
+    quantization: [/\bquanti[sz]ation\b/i, /\bquanti[sz]e[ds]?\b/i, /\bgguf\b/i, /\bmxfp4\b/i, /\bfp8\b/i, /\bq4_k\b/i, /\bq5_k\b/i, /\bq8_0\b/i],
     "fine-tuning": [/\bfine[-\s]?tun/i, /\blora\b/i, /\bqlora\b/i],
     rag: [/\brag\b/i, /\bretrieval[-\s]?augmented\b/i],
     benchmarks: [/\bbenchmark/i, /\bswe[-\s]?bench\b/i, /\bmmlu\b/i],
     // "inference" removed — matches nearly every post on a local LLM blog
-    "memory-optimisation": [/\bmemory\s*(?:optimi[sz]|reduc|efficien|spar|leak)/i, /\bkv[-\s]?cache\b/i],
+    "memory-optimization": [/\bmemory\s*(?:optimi[sz]|reduc|efficien|spar|leak)/i, /\bkv[-\s]?cache\b/i],
     agents: [/\bagent(?:s|ic)\b/i, /\btool[-\s]?(?:call|use|using)\b/i],
     coding: [/\bcoding\s*(?:agent|assistant|model|benchmark)/i, /\bcode[-\s]?gen/i],
     multimodal: [/\bmultimodal\b/i, /\bvision[-\s]?language\b/i],

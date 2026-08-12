@@ -18,7 +18,7 @@ tags:
   - model-compression
   - news
   - olmo-3
-  - quantisation
+  - quantization
   - quantization-aware-distillation
 status: published
 ---

@@ -6,7 +6,7 @@ tags:
   - advanced
   - agents
   - ai-agents
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cost-optimization

@@ -3,7 +3,7 @@ title: "Gaming PC vs Phone Local LLM Deployment: Only One Remains in Daily Use"
 date: 2026-06-19
 description: "A practical comparison of running identical local LLM tasks on gaming PCs and smartphones reveals significant differences in practical viability and daily usability across different hardware platforms."
 tags:
-  - benchmark
+  - benchmarks
   - cautious
   - comparison
   - consumer-gpu

@@ -21,7 +21,7 @@ tags:
   - ollama
   - ollama-integration
   - performance
-  - quantisation
+  - quantization
   - quasa-connect
   - release
 mentions:

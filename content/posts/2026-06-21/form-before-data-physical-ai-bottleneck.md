@@ -15,7 +15,7 @@ tags:
   - model-architecture
   - model-quantization
   - open-source
-  - quantisation
+  - quantization
   - robotics
 mentions:
   - name: Adolfo Lara

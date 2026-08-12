@@ -15,7 +15,6 @@ tags:
   - kv-cache-optimization
   - memory-optimization
   - neutral
-  - quantisation
   - quantization
   - sitepoint
   - tutorial

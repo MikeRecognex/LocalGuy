@@ -20,7 +20,7 @@ tags:
   - on-device-privacy
   - prismml
   - privacy-compliance
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: PrismML

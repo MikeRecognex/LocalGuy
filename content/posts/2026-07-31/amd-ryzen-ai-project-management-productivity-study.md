@@ -5,7 +5,7 @@ description: "A new study shows AMD Ryzen AI-powered PCs significantly accelerat
 tags:
   - amd-ryzen
   - beginner-friendly
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cpu-only

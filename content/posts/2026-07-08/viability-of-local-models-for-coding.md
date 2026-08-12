@@ -4,7 +4,7 @@ date: 2026-07-08
 description: "Martin Fowler explores the practical factors determining whether local LLMs are viable for code generation and review tasks, examining performance trade-offs and deployment considerations."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - code-generation
   - coding

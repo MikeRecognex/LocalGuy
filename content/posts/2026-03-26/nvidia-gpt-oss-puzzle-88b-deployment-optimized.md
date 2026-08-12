@@ -19,7 +19,7 @@ tags:
   - neural-architecture-search
   - open-source
   - optimization
-  - quantisation
+  - quantization
   - release
   - resource-efficiency
   - resource-optimization

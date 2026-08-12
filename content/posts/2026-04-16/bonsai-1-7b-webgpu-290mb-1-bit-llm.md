@@ -23,7 +23,7 @@ tags:
   - model-optimization
   - model-quantization
   - offline-ai
-  - quantisation
+  - quantization
   - showcase
   - webgpu
   - webgpu-inference

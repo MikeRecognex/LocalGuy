@@ -3,7 +3,7 @@ title: "Phi-4 Mini vs Gemma 3 vs Llama 3.2: 128K vs 32K Context Window Compariso
 date: 2026-07-31
 description: "A detailed comparison of three leading lightweight LLMs optimized for local deployment, focusing on context window capabilities and performance tradeoffs. This benchmark helps practitioners choose the right model for their hardware constraints and use cases."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - comparison
   - consumer-gpu
@@ -21,7 +21,6 @@ tags:
   - model-quantization
   - neutral
   - phi-4-mini
-  - quantisation
   - quantization
   - tech-insider
 mentions:

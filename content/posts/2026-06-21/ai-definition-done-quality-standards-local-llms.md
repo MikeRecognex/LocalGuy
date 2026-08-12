@@ -6,7 +6,7 @@ tags:
   - agents
   - analysis
   - automated-testing
-  - benchmark
+  - benchmarks
   - daily-digest
   - enterprise
   - fine-tuning

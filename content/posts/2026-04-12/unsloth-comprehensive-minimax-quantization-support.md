@@ -18,7 +18,7 @@ tags:
   - model-optimization
   - model-quantization
   - open-source-ecosystem
-  - quantisation
+  - quantization
   - release
   - showcase
   - unsloth

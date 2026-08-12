@@ -3,7 +3,7 @@ title: "110 Tokens/Second on RTX 4070 Super with Qwen 3.6 35B"
 date: 2026-05-22
 description: "A significant performance benchmark demonstrates that consumer-grade GPUs can achieve excellent inference speeds with optimized models, enabling practical local deployment of 35B parameter models."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu
@@ -18,7 +18,6 @@ tags:
   - model-parameters
   - model-quantization
   - performance
-  - quantisation
   - quantization
   - real-time-ai
 status: published

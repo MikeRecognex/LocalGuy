@@ -4,7 +4,6 @@ date: 2026-02-28
 description: Users report that Qwen 3.5-27B significantly exceeds expected performance for its size when paired with effective prompting strategies, suggesting prompt engineering can bridge the capability gap between model sizes.
 tags:
   - consumer-gpu
-  - inference-optimisation
   - inference-optimization
   - local-deployment
   - model-optimization

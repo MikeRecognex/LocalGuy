@@ -6,7 +6,7 @@ tags:
   - advanced
   - agent-orchestration
   - analysis
-  - benchmark
+  - benchmarks
   - cautious
   - daily-digest
   - developer

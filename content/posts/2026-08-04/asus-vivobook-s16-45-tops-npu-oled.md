@@ -3,7 +3,7 @@ title: "ASUS Vivobook S16 Arrives with 45 TOPS NPU and OLED Display"
 date: 2026-08-04
 description: "ASUS launches the Vivobook S16 with a 45 TOPS neural processing unit, providing significant on-device AI acceleration for laptop-class inference workloads. The hardware brings enterprise-grade AI compute to consumer laptops, enabling practical local model deployment."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer
@@ -16,7 +16,7 @@ tags:
   - npu-acceleration
   - on-device-inference
   - privacy-first
-  - quantisation
+  - quantization
   - release
   - vivobook-s16
 status: published

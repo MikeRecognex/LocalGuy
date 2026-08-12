@@ -5,7 +5,7 @@ description: "A newly optimized on-device AI model demonstrates performance that
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu
@@ -24,7 +24,6 @@ tags:
   - on-device-ai
   - on-device-deployment
   - propakistani
-  - quantisation
   - quantization
 mentions:
   - name: ProPakistani

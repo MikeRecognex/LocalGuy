@@ -19,7 +19,7 @@ tags:
   - memory-optimization
   - prompt-engineering
   - prompt-optimization
-  - quantisation
+  - quantization
   - small-language-models
   - token-efficiency
 mentions:

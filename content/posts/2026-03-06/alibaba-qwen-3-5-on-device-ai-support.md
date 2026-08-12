@@ -13,7 +13,7 @@ tags:
   - inference-optimization
   - local-deployment
   - low-latency-ai
-  - model-quantisation
+  - model-quantization
   - on-device-inference
   - qwen
   - release

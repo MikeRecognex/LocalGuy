@@ -4,7 +4,7 @@ date: 2026-05-26
 description: "DeepSeek permanently reduced V4 Pro pricing by 75%, reshaping the cost-benefit analysis for developers deciding between cloud API usage and self-hosted local LLM deployment."
 tags:
   - api-pricing
-  - benchmark
+  - benchmarks
   - bullish
   - cloud-vs-local-inference
   - cost-saving

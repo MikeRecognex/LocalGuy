@@ -5,7 +5,7 @@ description: "NVIDIA's new DFlash block diffusion technique promises to signific
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

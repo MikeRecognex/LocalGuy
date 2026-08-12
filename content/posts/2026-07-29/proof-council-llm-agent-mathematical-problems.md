@@ -7,7 +7,7 @@ tags:
   - agent-orchestration
   - agents
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

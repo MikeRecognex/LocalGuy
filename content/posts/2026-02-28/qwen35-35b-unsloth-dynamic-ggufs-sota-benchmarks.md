@@ -8,7 +8,7 @@ tags:
   - consumer-gpu
   - edge-computing
   - gguf
-  - gguf-quantisation
+  - gguf-quantization
   - hardware-optimization
   - model-variants
   - production-deployment

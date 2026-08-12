@@ -6,7 +6,7 @@ tags:
   - ai-risk-management
   - analysis
   - atlas
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - data-privacy

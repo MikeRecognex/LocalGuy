@@ -2,31 +2,161 @@
   "buildCommand": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site",
   "outputDirectory": "_site",
   "framework": null,
+  "redirects": [
+    {
+      "source": "/tags/gguf-quantisation",
+      "destination": "/tags/gguf-quantization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/gguf-quantisation/",
+      "destination": "/tags/gguf-quantization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/inference-optimisation",
+      "destination": "/tags/inference-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/inference-optimisation/",
+      "destination": "/tags/inference-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/llama-cpp-optimisation",
+      "destination": "/tags/llama-cpp-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/llama-cpp-optimisation/",
+      "destination": "/tags/llama-cpp-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/memory-optimisation",
+      "destination": "/tags/memory-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/memory-optimisation/",
+      "destination": "/tags/memory-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/model-quantisation",
+      "destination": "/tags/model-quantization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/model-quantisation/",
+      "destination": "/tags/model-quantization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/optimisation",
+      "destination": "/tags/optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/optimisation/",
+      "destination": "/tags/optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantisation",
+      "destination": "/tags/quantization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantisation/",
+      "destination": "/tags/quantization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantisation-aware-training",
+      "destination": "/tags/quantization-aware-training/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantisation-aware-training/",
+      "destination": "/tags/quantization-aware-training/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantisation-benchmarking",
+      "destination": "/tags/quantization-benchmarking/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantisation-benchmarking/",
+      "destination": "/tags/quantization-benchmarking/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantised-inference",
+      "destination": "/tags/quantized-inference/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quantised-inference/",
+      "destination": "/tags/quantized-inference/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/rocm-optimisation",
+      "destination": "/tags/rocm-optimization/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/rocm-optimisation/",
+      "destination": "/tags/rocm-optimization/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/assets/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/css/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     },
     {
       "source": "/js/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     },
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "DENY" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
       ]
     }
   ]

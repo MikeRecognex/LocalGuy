@@ -6,7 +6,7 @@ tags:
   - advanced
   - ai-infrastructure-optimization
   - apu-inference
-  - benchmark
+  - benchmarks
   - bullish
   - case-study
   - consumer-apu

@@ -18,7 +18,6 @@ tags:
   - news
   - on-device-inference
   - prismml
-  - quantisation
   - quantization
 mentions:
   - name: Hacker News

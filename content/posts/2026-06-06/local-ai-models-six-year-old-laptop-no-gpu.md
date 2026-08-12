@@ -4,7 +4,7 @@ date: 2026-06-06
 description: "An XDA Developers article demonstrates that capable local language models can run successfully on aging hardware without dedicated GPUs, opening deployment possibilities for resource-constrained environments."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cpu-inference
   - cpu-only

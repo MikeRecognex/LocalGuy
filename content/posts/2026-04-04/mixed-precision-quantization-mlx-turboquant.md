@@ -19,7 +19,7 @@ tags:
   - model-compression
   - on-device-inference
   - quality-size-tradeoffs
-  - quantisation
+  - quantization
   - release
   - showcase
   - turboquant

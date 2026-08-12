@@ -6,7 +6,7 @@ tags:
   - daily-digest
   - edge-deployment
   - memory-optimization
-  - quantisation
+  - quantization
 status: draft
 ---
 

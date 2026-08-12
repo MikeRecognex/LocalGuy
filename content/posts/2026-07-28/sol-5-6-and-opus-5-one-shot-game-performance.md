@@ -4,7 +4,7 @@ date: 2026-07-28
 description: "Social media discussions highlight Sol-5.6 and Opus 5's capability to solve single-example game tasks, suggesting improved reasoning and contextual understanding in local deployable models."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

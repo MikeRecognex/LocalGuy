@@ -4,7 +4,7 @@ date: 2026-06-15
 description: "Samsung's latest Exynos 2600 processor demonstrates significant performance improvements for on-device AI inference, doubling capabilities compared to previous generations according to MLPerf benchmarks."
 tags:
   - ai-benchmarks
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

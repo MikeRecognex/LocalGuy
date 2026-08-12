@@ -4,7 +4,7 @@ date: 2026-07-19
 description: "An analysis comparing the economic trade-offs between building self-hosted inference infrastructure versus renting cloud-based AI services, with implications for deployment strategy decisions."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - cost-analysis

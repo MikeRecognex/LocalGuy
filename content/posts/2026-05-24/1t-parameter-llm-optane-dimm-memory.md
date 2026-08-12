@@ -4,7 +4,7 @@ date: 2026-05-24
 description: "A creative hardware hack demonstrates running a trillion-parameter LLM using affordable Intel Optane DIMM memory, achieving a breakthrough in cost-effective large model deployment. The approach opens new possibilities for running massive models on constrained budgets."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - budget-ai
   - bullish
   - constraint-driven-engineering
@@ -19,7 +19,7 @@ tags:
   - lets-data-science
   - memory-optimization
   - model-optimization
-  - quantisation
+  - quantization
   - resource-constrained-inference
   - showcase
   - unconventional-hardware-deployment

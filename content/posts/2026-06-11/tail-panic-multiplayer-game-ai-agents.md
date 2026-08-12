@@ -6,7 +6,7 @@ tags:
   - agent-evaluation
   - agent-orchestration
   - agents
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

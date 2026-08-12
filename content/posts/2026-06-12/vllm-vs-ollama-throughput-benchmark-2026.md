@@ -3,7 +3,7 @@ title: "vLLM vs Ollama 2026: 793 vs 41 TPS Performance Benchmark"
 date: 2026-06-12
 description: "A comprehensive benchmark comparison reveals vLLM achieves 793 tokens per second versus Ollama's 41 TPS, highlighting a significant 19x performance gap for local LLM inference workloads."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - consumer-gpu
   - daily-digest

@@ -3,7 +3,7 @@ title: "Qwen 3.5-27B Demonstrates Superior Performance vs Gemini 3.1 Pro and GPT
 date: 2026-04-01
 description: "Community benchmarks show Qwen3.5-27B outperforming larger closed-source models in practical scenarios, particularly for code tasks. The open model's availability and performance characteristics make it an attractive option for local deployment when considering capability-per-resource tradeoffs."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - code-generation

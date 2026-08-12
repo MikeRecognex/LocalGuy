@@ -3,7 +3,7 @@ title: "GLM-5.2 Challenges Claude Opus in WebGL Game Build"
 date: 2026-06-22
 description: "GLM-5.2 demonstrates competitive performance against Claude Opus in complex WebGL game development tasks, offering a potentially deployable open alternative for local inference scenarios."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - code-generation
   - comparison

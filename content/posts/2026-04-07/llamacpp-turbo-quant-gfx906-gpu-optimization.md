@@ -21,7 +21,7 @@ tags:
   - model-quantization
   - open-source-innovation
   - performance-optimization
-  - quantisation
+  - quantization
   - release
 status: published
 ---

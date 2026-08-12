@@ -4,7 +4,7 @@ date: 2026-04-25
 description: "Research demonstrates a practical method for reducing LLM hallucination using minimal hardware resources, showing that hallucination mitigation is achievable on modest single-GPU setups."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - cost-saving

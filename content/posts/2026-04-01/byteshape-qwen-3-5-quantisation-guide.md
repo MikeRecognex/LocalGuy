@@ -17,9 +17,9 @@ tags:
   - local-inference
   - local-llm-deployment
   - model-optimization
-  - model-quantisation
-  - quantisation
-  - quantisation-benchmarking
+  - model-quantization
+  - quantization
+  - quantization-benchmarking
   - quantization-comparison
   - qwen
   - release

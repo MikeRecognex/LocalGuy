@@ -14,7 +14,7 @@ tags:
   - distributed-inference
   - enterprise
   - nvidia
-  - quantisation
+  - quantization
   - tensor-parallelism
   - tutorial
 mentions:

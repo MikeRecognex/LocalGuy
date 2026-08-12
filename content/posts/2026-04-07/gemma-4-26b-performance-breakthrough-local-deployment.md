@@ -19,7 +19,7 @@ tags:
   - model-efficiency
   - model-size
   - performance-optimization
-  - quantisation
+  - quantization
   - showcase
   - tool-calling
 mentions:

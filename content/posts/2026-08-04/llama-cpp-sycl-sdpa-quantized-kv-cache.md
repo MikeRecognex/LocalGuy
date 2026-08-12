@@ -15,7 +15,7 @@ tags:
   - llama-cpp
   - local-inference
   - memory-optimization
-  - quantisation
+  - quantization
   - release
   - sycl-optimization
   - vram-optimization

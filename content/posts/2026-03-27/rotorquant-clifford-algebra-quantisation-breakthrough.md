@@ -15,13 +15,12 @@ tags:
   - local-llm-deployment
   - local-llm-frameworks
   - model-compression
-  - model-quantisation
   - model-quantization
   - open-source
   - open-source-ai
   - optimization
   - performance
-  - quantisation
+  - quantization
   - resource-constrained-deployment
   - showcase
   - tonbistudio

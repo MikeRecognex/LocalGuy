@@ -6,7 +6,7 @@ tags:
   - advanced
   - agents
   - airealistai
-  - benchmark
+  - benchmarks
   - bullish
   - code-analysis
   - code-modernization

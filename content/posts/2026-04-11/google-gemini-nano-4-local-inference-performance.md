@@ -4,7 +4,7 @@ date: 2026-04-11
 description: "Google's latest Gemini Nano 4 model brings improved performance and speed for on-device AI inference. The model represents a significant step forward for local LLM deployment on edge devices and mobile platforms."
 tags:
   - android-authority
-  - benchmark
+  - benchmarks
   - benchmarking
   - bullish
   - daily-digest

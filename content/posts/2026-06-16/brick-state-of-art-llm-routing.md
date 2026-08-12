@@ -5,7 +5,7 @@ description: "A new academic paper introduces Brick, advancing techniques for in
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - deployment-optimization

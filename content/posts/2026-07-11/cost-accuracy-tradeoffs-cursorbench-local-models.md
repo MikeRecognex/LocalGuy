@@ -3,7 +3,7 @@ title: "Cost vs. Accuracy in CursorBench 3.1: The Effect of Family and Spend"
 date: 2026-07-11
 description: "New benchmark analysis reveals cost-accuracy tradeoffs across different LLM families, providing critical insights for selecting models for local deployment based on performance requirements and resource constraints."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - cost-accuracy-tradeoff
   - daily-digest
@@ -14,7 +14,7 @@ tags:
   - model-quantization
   - neutral
   - performance
-  - quantisation
+  - quantization
 mentions:
   - name: Hacker News
     role: publisher

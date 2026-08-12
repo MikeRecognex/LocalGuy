@@ -4,7 +4,7 @@ date: 2026-04-27
 description: "The Linux kernel project deploys a local LLM-based bug detection system running on Framework laptops powered by AMD Ryzen AI Max processors, demonstrating practical enterprise deployment of on-device inference."
 tags:
   - ai-augmented-workflows
-  - benchmark
+  - benchmarks
   - bug-detection
   - bullish
   - cloud-cost-reduction

@@ -15,7 +15,7 @@ tags:
   - local-inference
   - model-optimization
   - model-quantization
-  - quantisation
+  - quantization
 mentions:
   - name: GIGAZINE
     role: publisher

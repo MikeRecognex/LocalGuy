@@ -5,7 +5,7 @@ description: "New research addresses catastrophic forgetting during LLM fine-tun
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - catastrophic-forgetting
   - continual-learning

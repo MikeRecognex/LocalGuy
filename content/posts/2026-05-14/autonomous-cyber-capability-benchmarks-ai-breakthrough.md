@@ -7,7 +7,7 @@ tags:
   - agents
   - analysis
   - autonomous-cybersecurity
-  - benchmark
+  - benchmarks
   - bullish
   - cost-saving
   - cyberscoop

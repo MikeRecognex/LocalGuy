@@ -16,7 +16,7 @@ tags:
   - local-deployment
   - memory-optimization
   - mistral
-  - model-quantisation
+  - model-quantization
   - model-size
   - open-source
   - quantization

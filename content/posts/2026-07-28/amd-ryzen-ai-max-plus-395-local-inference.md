@@ -5,7 +5,7 @@ description: "Community explores the viability of AMD's Ryzen AI MAX+ 395 proces
 tags:
   - amd
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

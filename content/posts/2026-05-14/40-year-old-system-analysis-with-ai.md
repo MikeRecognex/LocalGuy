@@ -7,7 +7,7 @@ tags:
   - agents
   - architectural-pattern-discovery
   - architecture-analysis
-  - benchmark
+  - benchmarks
   - bullish
   - case-study
   - code-analysis

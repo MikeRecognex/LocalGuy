@@ -20,7 +20,6 @@ tags:
   - model-quantization
   - on-device
   - on-device-inference
-  - quantisation
   - quantization
 mentions:
   - name: AppleInsider

@@ -3,7 +3,7 @@ title: "Real-World Benchmark: DeepSeek-V3 Matches Claude Sonnet on Routine Codin
 date: 2026-03-26
 description: "A practical benchmark comparing DeepSeek-V3 against Claude Sonnet on 50 real coding tasks shows DeepSeek-V3 achieving comparable quality while enabling local deployment and inference cost savings."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - code-generation

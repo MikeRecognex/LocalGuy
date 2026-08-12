@@ -19,7 +19,7 @@ tags:
   - intermediate
   - local-inference
   - model-quantization
-  - quantisation
+  - quantization
   - qwen
   - vllm
   - vram-capacity

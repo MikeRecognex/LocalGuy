@@ -4,7 +4,7 @@ date: 2026-04-13
 description: "A comparative analysis between Claude and locally-deployed language models on identical prompts uncovered surprising performance differences. This practical benchmark provides valuable insights for practitioners evaluating local vs. cloud-based inference."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - claude
   - comparison

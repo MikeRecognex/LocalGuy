@@ -13,7 +13,7 @@ tags:
   - memory-management
   - memory-optimization
   - oom-prevention
-  - quantisation
+  - quantization
   - release
 mentions:
   - name: Hacker News

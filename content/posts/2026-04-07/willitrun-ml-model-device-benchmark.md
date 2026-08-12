@@ -3,7 +3,7 @@ title: "Show HN: Willitrun – Check if Any ML Model Runs on Any Device (Benchma
 date: 2026-04-07
 description: "Willitrun is a new tool that helps developers determine whether specific machine learning models can run on particular devices, backed by real benchmarking data to guide local deployment decisions."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - benchmarking
   - bullish

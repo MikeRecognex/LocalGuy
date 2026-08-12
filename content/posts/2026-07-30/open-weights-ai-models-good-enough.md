@@ -4,7 +4,7 @@ date: 2026-07-30
 description: "A analysis of how open-source AI models have reached practical viability for most use cases, making local deployment increasingly competitive with proprietary alternatives."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cost-saving
   - daily-digest

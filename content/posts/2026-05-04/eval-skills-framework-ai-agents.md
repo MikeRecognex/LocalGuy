@@ -8,7 +8,7 @@ tags:
   - agents
   - ai-agent-evaluation
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - deployment-risk-management

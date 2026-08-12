@@ -3,7 +3,7 @@ title: "Linux Crushes Windows on llama.cpp Inference by Double Digits"
 date: 2026-04-27
 description: "New benchmarks reveal significant performance advantages for llama.cpp inference on Linux systems compared to Windows, with improvements reaching double-digit percentages across various model sizes."
 tags:
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - comparison

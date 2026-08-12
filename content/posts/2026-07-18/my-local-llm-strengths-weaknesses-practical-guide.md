@@ -4,7 +4,7 @@ date: 2026-07-18
 description: "An honest assessment of the realistic capabilities and limitations of locally-deployed LLMs, helping practitioners understand where local models excel and where they fall short. Essential reading for setting expectations."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - daily-digest
   - developer
   - how-to-geek

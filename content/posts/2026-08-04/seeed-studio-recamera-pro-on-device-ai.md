@@ -3,7 +3,7 @@ title: "Seeed Studio's reCamera Pro Makes On-Device AI Faster and Easier"
 date: 2026-08-04
 description: "Seeed Studio releases reCamera Pro, a specialized hardware platform designed to simplify and accelerate on-device AI inference for computer vision and embedded applications. The device provides optimized inference capabilities tailored for edge deployment scenarios."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - computer-vision
   - daily-digest

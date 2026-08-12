@@ -18,7 +18,6 @@ tags:
   - news
   - prismml
   - privacy-first-ai
-  - quantisation
   - quantization
   - tradingkey
 mentions:

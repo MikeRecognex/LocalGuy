@@ -4,7 +4,7 @@ date: 2026-03-27
 description: "Community members benchmarked Google's TurboQuant extreme compression technique within llama.cpp, providing practical performance data on the quantisation method. Results show how the research translates to real-world inference speed and memory usage improvements."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - benchmark-report
   - benchmarking
   - bullish
@@ -23,7 +23,7 @@ tags:
   - model-quantization
   - news
   - optimization
-  - quantisation
+  - quantization
 status: published
 ---
 

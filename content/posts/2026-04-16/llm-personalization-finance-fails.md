@@ -5,7 +5,7 @@ description: "Research from arxiv reveals significant failures in personalized L
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - cautious
   - daily-digest
   - domain-specific-applications

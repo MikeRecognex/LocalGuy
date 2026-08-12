@@ -4,7 +4,7 @@ date: 2026-07-17
 description: "Google has unveiled new on-device AI capabilities for the upcoming Pixel 10, showcasing advances in edge inference that run directly on mobile hardware without cloud connectivity. These features highlight the industry's momentum toward practical local LLM deployment on consumer devices."
 tags:
   - arm-architecture
-  - benchmark
+  - benchmarks
   - bullish
   - daily-digest
   - developer

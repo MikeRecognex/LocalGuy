@@ -16,7 +16,7 @@ tags:
   - model-quantization
   - model-validation
   - perplexity-errors
-  - quantisation
+  - quantization
   - quantization-quality
   - reproducible-benchmarking
   - rlocalllama

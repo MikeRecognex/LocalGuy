@@ -4,7 +4,7 @@ date: 2026-04-04
 description: "Community benchmarks show Gemma 4 31B delivering superior performance compared to GLM 5.1, with particularly strong results in reasoning and creative text analysis tasks on consumer hardware."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - community-benchmarks

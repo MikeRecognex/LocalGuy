@@ -4,7 +4,7 @@ date: 2026-07-28
 description: "Benchmark results show K3 model inference achieving 20 tokens per second across an 80-GPU RTX 5090 setup, providing insights into scaling strategies for high-throughput local deployments."
 tags:
   - advanced
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - consumer-gpu

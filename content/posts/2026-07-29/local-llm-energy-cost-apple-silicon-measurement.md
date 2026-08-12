@@ -5,7 +5,7 @@ description: "A detailed analysis quantifies the actual power consumption and op
 tags:
   - analysis
   - apple-silicon
-  - benchmark
+  - benchmarks
   - bullish
   - cost-analysis
   - daily-digest

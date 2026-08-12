@@ -5,7 +5,7 @@ description: "FlashAttention-4, written in Python, achieves near-matmul-speed at
 tags:
   - daily-digest
   - inference-optimization
-  - quantisation
+  - quantization
   - performance-benchmark
   - gpu-kernels
 status: published

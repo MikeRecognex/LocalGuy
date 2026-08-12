@@ -3,7 +3,7 @@ title: "Ask HN: Which AI Model Do You Use for What?"
 date: 2026-07-04
 description: "A community discussion thread where developers share their practical choices of AI models for specific local deployment scenarios, providing real-world insights into model selection and performance tradeoffs."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - comparison
   - daily-digest

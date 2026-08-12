@@ -5,7 +5,7 @@ description: "A new Apple research paper demonstrates that embarrassingly simple
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - code-generation
   - daily-digest
@@ -18,7 +18,7 @@ tags:
   - on-device-ai
   - open-source
   - post-processing
-  - quantisation
+  - quantization
   - self-distillation
   - small-language-models
 status: published

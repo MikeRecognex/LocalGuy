@@ -5,7 +5,7 @@ description: "After deploying OpenClaw across 1,000+ isolated VMs, infrastructur
 tags:
   - ai-hype-vs-reality
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - cautious
   - daily-digest

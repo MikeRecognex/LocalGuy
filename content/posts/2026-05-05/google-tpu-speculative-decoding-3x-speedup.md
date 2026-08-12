@@ -5,7 +5,7 @@ description: "Google researchers have demonstrated 3x inference speedups on TPUs
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

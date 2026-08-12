@@ -23,7 +23,6 @@ tags:
   - on-device-ai
   - on-device-inference
   - privacy
-  - quantisation
   - quantization
   - small-model-inference
   - the-bridge

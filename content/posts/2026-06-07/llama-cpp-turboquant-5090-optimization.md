@@ -14,7 +14,7 @@ tags:
   - local-deployment
   - model-quantization
   - performance-optimization
-  - quantisation
+  - quantization
   - showcase
 mentions:
   - name: Hacker News

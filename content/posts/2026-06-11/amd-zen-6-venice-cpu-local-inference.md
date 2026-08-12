@@ -3,7 +3,7 @@ title: "AMD claims 256-core Zen 6 'Venice' CPU beats Nvidia Vera by 3.3x"
 date: 2026-06-11
 description: "AMD's new Zen 6 Venice CPU architecture delivers significant performance improvements for data center and edge inference workloads. Hardware advancement relevant to deploying and scaling local LLM inference."
 tags:
-  - benchmark
+  - benchmarks
   - bullish
   - cpu
   - cpu-inference

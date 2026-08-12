@@ -5,7 +5,7 @@ description: "A detailed comparative benchmark between Gemini 3.1 Pro and Claude
 tags:
   - analysis
   - api-vs-self-hosted
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cloud-vs-local-inference
@@ -22,7 +22,7 @@ tags:
   - model-comparison
   - model-quantization
   - performance-evaluation
-  - quantisation
+  - quantization
 mentions:
   - name: Hacker News
     role: publisher

@@ -3,7 +3,7 @@ title: "Claude vs Local LLM: Real-World Prompt Comparison Reveals Trade-offs"
 date: 2026-04-20
 description: "A practitioner compares Claude's capabilities directly against local LLM alternatives on identical prompts, documenting performance trade-offs relevant to deployment decisions."
 tags:
-  - benchmark
+  - benchmarks
   - comparison
   - daily-digest
   - deployment-strategy

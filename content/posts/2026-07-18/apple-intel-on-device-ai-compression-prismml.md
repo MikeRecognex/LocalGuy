@@ -20,7 +20,7 @@ tags:
   - on-device-inference
   - prismml
   - privacy-compliance
-  - quantisation
+  - quantization
 mentions:
   - name: PrismML
     role: developer

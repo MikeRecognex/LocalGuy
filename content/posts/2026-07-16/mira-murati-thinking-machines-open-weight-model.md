@@ -4,7 +4,7 @@ date: 2026-07-16
 description: "Former OpenAI CTO Mira Murati's new venture, Thinking Machines, has released an open-weight AI model competing with NVIDIA's Nemotron. The model prioritizes efficiency and open deployment, expanding quality options for local LLM practitioners."
 tags:
   - analytics-india-magazine
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - daily-digest

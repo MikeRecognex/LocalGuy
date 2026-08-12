@@ -5,7 +5,7 @@ description: "Nous Research's Hermes mixture-of-agents approach achieves state-o
 tags:
   - advanced
   - analysis
-  - benchmark
+  - benchmarks
   - bullish
   - complex-reasoning
   - consumer-gpu

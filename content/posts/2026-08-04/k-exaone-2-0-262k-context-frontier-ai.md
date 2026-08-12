@@ -5,7 +5,7 @@ description: "K-EXAONE 2.0 introduces a 262K token context window, significantly
 tags:
   - advanced
   - agent-orchestration
-  - benchmark
+  - benchmarks
   - bullish
   - consumer-gpu
   - context-window
@@ -17,7 +17,7 @@ tags:
   - k-exaone-2-0
   - kv-cache-optimization
   - open-source
-  - quantisation
+  - quantization
   - rag-pipeline
   - release
 status: published

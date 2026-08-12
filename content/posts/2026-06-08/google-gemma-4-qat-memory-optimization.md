@@ -13,7 +13,7 @@ tags:
   - gigazine
   - memory-optimization
   - mobile
-  - quantisation
+  - quantization
   - quantization-aware-training
   - release
 mentions:

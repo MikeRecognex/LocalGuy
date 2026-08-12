@@ -12,7 +12,7 @@ tags:
   - intermediate
   - open-source
   - optimization
-  - quantisation
+  - quantization
   - showcase
   - token-reduction
 mentions:

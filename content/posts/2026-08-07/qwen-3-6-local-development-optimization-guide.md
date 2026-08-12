@@ -12,7 +12,6 @@ tags:
   - memory-optimization
   - model-optimization
   - open-source
-  - quantisation
   - quantization
   - qwen-3-6
   - tutorial

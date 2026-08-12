@@ -4,7 +4,7 @@ date: 2026-06-15
 description: "South Korea announces a major government-backed initiative to develop domestically designed AI chips optimized for on-device and edge inference, backed by substantial national funding."
 tags:
   - beginner-friendly
-  - benchmark
+  - benchmarks
   - bullish
   - chosunbiz
   - daily-digest

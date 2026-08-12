@@ -21,7 +21,7 @@ tags:
   - model-quantization
   - msn
   - news
-  - quantisation
+  - quantization
   - showcase
   - software-optimization
 mentions:

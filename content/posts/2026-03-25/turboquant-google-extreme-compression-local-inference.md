@@ -18,12 +18,11 @@ tags:
   - mobile-ai
   - model-compression
   - model-efficiency
-  - model-quantisation
   - model-quantization
   - news
   - on-device-inference
   - performance
-  - quantisation
+  - quantization
   - release
 status: published
 ---

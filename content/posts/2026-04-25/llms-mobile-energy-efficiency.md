@@ -4,7 +4,7 @@ date: 2026-04-25
 description: "Research demonstrates that local LLM inference uses significantly less energy than cloud-based web search on mobile devices, highlighting a major efficiency advantage for on-device deployment."
 tags:
   - analysis
-  - benchmark
+  - benchmarks
   - benchmark-report
   - bullish
   - cost-saving
