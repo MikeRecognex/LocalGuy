@@ -3,12 +3,19 @@ title: "Building Local LLM Rigs with Used Server GPUs: 32GB VRAM for €220"
 date: 2026-08-13
 description: "Practical guide to sourcing used server-grade GPUs for local LLM inference, achieving 32GB of VRAM at fraction of consumer GPU costs, making large model deployment accessible."
 tags:
-  - daily-digest
-  - hardware
-  - cost-optimization
-  - gpu
   - budget
-status: draft
+  - consumer-gpu
+  - context-window
+  - cost-optimization
+  - cost-saving
+  - daily-digest
+  - datacenter-gpu
+  - gpu
+  - hardware
+  - hardware-sourcing
+  - local-inference
+  - tutorial
+status: published
 ---
 
 This practical deep-dive explores the economics and implementation of building local LLM infrastructure using refurbished server-class GPUs, demonstrating that high-capacity inference systems can be built for significantly less than consumer alternatives. The analysis shows how practitioners can acquire 32GB VRAM capabilities for approximately €220 by sourcing used data center hardware, opening up large model inference to budget-conscious developers and smaller organizations.

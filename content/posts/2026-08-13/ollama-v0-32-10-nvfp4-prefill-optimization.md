@@ -4,11 +4,17 @@ date: 2026-08-13
 description: "Ollama releases v0.32.10 with significant prefill speed improvements on NVFP4 quantized models (7-8% faster) and adds system-level configuration file support for easier multi-device deployment."
 tags:
   - daily-digest
-  - ollama
-  - quantisation
+  - deployment-strategy
+  - inference-speed
+  - model-quantization
+  - muse-glimmer
   - nvfp4
+  - ollama
   - performance-optimization
-status: draft
+  - quantisation
+  - qwen-3-6
+  - release
+status: published
 ---
 
 Ollama's latest release (v0.32.10) brings meaningful performance improvements to quantized model inference, particularly for NVFP4-formatted models. The optimization in prefill processing yields 7-8% speed improvements on popular models like Qwen 3.6 and Muse Glimmer, achieved by compiling float-to-int multiplication operations into a single kernel. Additionally, the release defaults repeat penalties to 1.0 (off) unless explicitly configured, bringing better alignment with other inference engines.

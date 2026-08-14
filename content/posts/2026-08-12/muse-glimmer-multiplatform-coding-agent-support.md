@@ -3,12 +3,19 @@ title: "Meta's Muse Glimmer Now Available Across All Platforms in Ollama"
 date: 2026-08-12
 description: "Meta's newest open-source model Muse Glimmer, optimized for coding agents and long-running personal assistants, is now available on all Ollama platforms including Apple Silicon, NVIDIA, and AMD. The model achieves state-of-the-art performance through platform-specific optimizations."
 tags:
-  - daily-digest
-  - ollama
   - agents
   - apple-silicon
+  - claude-code
+  - coding-assistants
+  - consumer-gpu
+  - daily-digest
+  - hardware-optimization
+  - local-inference
   - mlx
-status: draft
+  - muse-glimmer
+  - ollama
+  - release
+status: published
 ---
 
 Muse Glimmer, Meta's latest open-source model, has achieved full multiplatform availability in Ollama, bringing powerful coding agent capabilities to local inference workflows. The model is specifically engineered to power coding agents like Claude Code and Codex, as well as long-running personal assistants, making it a transformative option for developers building AI-augmented development tools that run entirely on-device.

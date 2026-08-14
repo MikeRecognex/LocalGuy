@@ -3,12 +3,22 @@ title: "Running DeepSeek's 284B LLM on a Laptop: Quantisation and GGUF Optimizat
 date: 2026-08-14
 description: "Practitioners demonstrated running DeepSeek's massive 284B parameter model locally on consumer laptops through aggressive quantisation and GGUF format optimization, showing feasibility of ultra-large model local inference."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
-  - deepseek
+  - 284b-llm
   - benchmark
-status: draft
+  - consumer-gpu
+  - daily-digest
+  - deepseek
+  - gguf
+  - gguf-optimization
+  - llama-cpp
+  - local-inference
+  - model-compression
+  - quantisation
+  - showcase
+mentions:
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 The local LLM community achieved a remarkable engineering milestone: running DeepSeek's 284 billion parameter model on standard laptops through aggressive quantisation and GGUF format optimization. This breakthrough demonstrates that even frontier-scale models can be made practical for local deployment when converted to efficient inference formats, challenging assumptions about hardware requirements for advanced reasoning capabilities.

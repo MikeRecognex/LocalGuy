@@ -4,11 +4,21 @@ date: 2026-08-13
 description: "Liquid AI releases LFM2.5-VL-3B, a 3B parameter vision-language model designed for on-device inference with support for UI recognition and OCR. The model delivers efficient multimodal capabilities suitable for resource-constrained edge environments."
 tags:
   - daily-digest
-  - vision-language
+  - edge-device
   - edge-inference
-  - quantisation
+  - lfm2-5-vl-3b
+  - liquid-ai
+  - ocr
+  - on-device-inference
   - open-source
-status: draft
+  - quantisation
+  - release
+  - vision-language
+  - vision-language-model
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 Liquid AI has released LFM2.5-VL-3B, a compact 3B-parameter vision-language model explicitly optimized for edge and on-device deployment. This lightweight architecture enables practical multimodal AI capabilities on smartphones and embedded devices, supporting tasks like UI element recognition and optical character recognition (OCR) with Japanese language support.

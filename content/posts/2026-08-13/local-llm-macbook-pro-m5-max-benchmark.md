@@ -3,12 +3,21 @@ title: "Local Model Performance Benchmarks on MacBook Pro M5 Max: Real-World Inf
 date: 2026-08-13
 description: "Comprehensive performance testing of local LLMs on Apple Silicon M5 Max hardware reveals practical throughput and latency metrics for developers evaluating on-device inference on macOS."
 tags:
-  - daily-digest
   - apple-silicon
   - benchmark
+  - benchmark-report
+  - daily-digest
+  - inference-speed
+  - local-inference
   - macbook
+  - macbook-pro-m5-max
   - performance-optimization
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: GitButler
+    role: publisher
+status: published
 ---
 
 A detailed benchmark study evaluates local LLM inference performance on the MacBook Pro M5 Max, providing practitioners with concrete data on throughput and latency across multiple model sizes and architectures. This testing addresses a critical gap in the local LLM ecosystem—practical, reproducible performance metrics on real consumer hardware rather than theoretical specifications.

@@ -3,12 +3,18 @@ title: "Ollama 0.32.11: DeepSeek Harness and Meta's Muse Code Integration"
 date: 2026-08-14
 description: "Ollama released v0.32.11 with integrated support for DeepSeek Harness agent framework and Meta's Muse Code agentic CLI, plus OpenAI-compatible web search API."
 tags:
-  - daily-digest
-  - ollama
+  - agent-orchestration
   - agents
-  - open-source
+  - cost-saving
+  - daily-digest
+  - deepseek-harness
   - deployment
-status: draft
+  - local-inference
+  - muse-code
+  - ollama
+  - open-source
+  - release
+status: published
 ---
 
 Ollama 0.32.11 brings native integration with DeepSeek Harness, an open-source agent framework, and Meta's Muse Code, enabling local users to run sophisticated agentic workflows entirely on-device. The release also extends the OpenAI-compatible Responses API to support web search capabilities, reducing the friction for developers transitioning from cloud-based solutions to self-hosted inference.

@@ -3,12 +3,20 @@ title: "How to Run Local LLMs for Free on Slow Laptops: A Practical Guide"
 date: 2026-08-12
 description: "How-To Geek details five excellent open-source local LLM projects that can run effectively on limited hardware, providing practical guidance for running capable language models without cloud dependencies or expensive equipment."
 tags:
-  - daily-digest
   - benchmark
+  - cpu-only
+  - daily-digest
+  - hardware
+  - low-spec-hardware
+  - model-quantization
+  - offline-inference
   - open-source
   - optimization
-  - hardware
-status: draft
+  - tutorial
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 This guide addresses a fundamental challenge in local LLM adoption: the assumption that capable models require expensive hardware. By curating five well-engineered open-source projects, it demonstrates that modern quantization techniques, architectural innovations, and inference optimization frameworks have democratized access to meaningful local LLM capabilities—users can now run capable models on older or resource-constrained machines they already own.
