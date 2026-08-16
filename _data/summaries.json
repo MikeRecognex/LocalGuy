@@ -723,6 +723,10 @@
     "2026-08-14": {
       "text": "DeepSeek's 284B LLM runs on laptops via GGUF optimization.",
       "postCount": 5
+    },
+    "2026-08-15": {
+      "text": "Qwen 3.8 27B model optimized for Apple Silicon and AMD Ryzen AI Max processors.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -831,8 +835,8 @@
       "postCount": 59
     },
     "2026-08-09": {
-      "text": "<p>Major stories this week include Meta's release of Muse Glimmer, a 30B open-source LLM, and NVIDIA's Magpie TTS with open weights for building low-latency multilingual voice agents. </p>\n<p>Standout posts include \"DEF CON 34 Exposes 10 Critical Vulnerabilities in Local AI Systems\" and \"Meta Releases Muse Glimmer: 30B Open-Source LLM for Local Deployment\". </p>",
-      "postCount": 35
+      "text": "<p>Meta released Muse Glimmer, a 30B open-source LLM, and NVIDIA introduced Magpie TTS with open weights.</p>\n<p>Check out \"DEF CON 34 Exposes 10 Critical Vulnerabilities\" and \"Meta Releases Muse Glimmer\" for key insights.</p>",
+      "postCount": 40
     }
   }
 }

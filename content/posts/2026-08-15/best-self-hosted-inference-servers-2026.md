@@ -3,12 +3,18 @@ title: "7 Best Self-Hosted Inference Servers for Open-Source Models Compared (20
 date: 2026-08-15
 description: "Comprehensive comparison of leading self-hosted inference server solutions, evaluating performance, features, and deployment characteristics for local LLM inference."
 tags:
-  - daily-digest
-  - llama-cpp
-  - vllm
-  - ollama
   - benchmark
-status: draft
+  - comparison
+  - daily-digest
+  - inference-server
+  - inference-speed
+  - llama-cpp
+  - memory-efficiency
+  - model-quantization
+  - ollama
+  - speculative-decoding
+  - vllm
+status: published
 ---
 
 This comparative analysis arrives at a critical moment when the inference server landscape has matured into specialized tools with distinct tradeoffs. The guide evaluates solutions like llama.cpp, Ollama, vLLM, and others across dimensions that matter for production local deployment: inference speed, memory efficiency, quantization format support, and ease of setup. For practitioners evaluating infrastructure decisions, such comparisons clarify which tool best fits specific constraints around hardware, model size, and feature requirements.

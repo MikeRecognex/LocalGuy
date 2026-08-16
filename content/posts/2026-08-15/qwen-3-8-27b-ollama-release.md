@@ -3,12 +3,17 @@ title: "Ollama Adds Qwen 3.8 27B with Apple Silicon Optimizations"
 date: 2026-08-15
 description: "Ollama v0.32.12 now supports Qwen 3.8 27B, a new open-source model with substantial improvements in coding, professional work, and agentic tasks. The release includes special optimizations for Apple Silicon devices to maximize performance and output quality."
 tags:
+  - agentic-workflows
+  - agents
+  - apple-silicon
   - daily-digest
+  - hardware-optimization
+  - local-deployment
   - ollama
   - open-source
-  - apple-silicon
-  - agents
-status: draft
+  - qwen-3-8-27b
+  - release
+status: published
 ---
 
 Qwen 3.8 27B represents a significant update for local LLM deployment, with a focus on practical agentic capabilities and multi-domain reasoning. The model delivers substantial gains across coding tasks, professional work, research applications, and long-horizon agentic workflows—making it well-suited for self-hosted deployment scenarios where these capabilities matter most.
