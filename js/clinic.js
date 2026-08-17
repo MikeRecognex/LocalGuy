@@ -52,8 +52,6 @@ form.addEventListener('submit', async (e) => {
       body: JSON.stringify({ question })
     })
 
-    const data = await res.json()
-
     // Update remaining count
     const remaining = res.headers.get('X-RateLimit-Remaining')
     if (remaining !== null) {
@@ -61,8 +59,22 @@ form.addEventListener('submit', async (e) => {
       remainingEl.hidden = false
     }
 
+    // Error responses aren't always JSON (platform-level failures return
+    // plain text), so parse defensively rather than throwing into the
+    // catch block below, which would misreport a server error as a network one
+    let data = null
+    try {
+      data = await res.json()
+    } catch {}
+
     if (!res.ok) {
-      errorEl.textContent = data.error || 'Something went wrong.'
+      errorEl.textContent = data?.error || `Server error (${res.status}). Please try again.`
+      errorEl.hidden = false
+      return
+    }
+
+    if (!data) {
+      errorEl.textContent = 'Unexpected response from server. Please try again.'
       errorEl.hidden = false
       return
     }

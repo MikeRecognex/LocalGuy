@@ -7,7 +7,7 @@ const vector = new Index({
 })
 
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions'
-const GROQ_MODEL = 'llama-3.3-70b-versatile'
+const GROQ_MODEL = 'openai/gpt-oss-120b'
 
 const DEFAULT_SYSTEM_PROMPT = `You are the Local LLM Clinic, an expert assistant for LocalFTW — a community site about running AI models locally on your own hardware.
 
@@ -74,8 +74,17 @@ export default async function handler(req, res) {
     return
   }
 
-  // Rate limit
-  const rl = await checkRateLimit(req)
+  // Rate limit — fail closed if the store is unreachable, so an outage
+  // can't be used to bypass the limit on a paid upstream API
+  let rl
+  try {
+    rl = await checkRateLimit(req)
+  } catch (err) {
+    console.error('[clinic] rate limit error:', err)
+    res.status(503).json({ error: 'Service temporarily unavailable. Please try again shortly.' })
+    return
+  }
+
   res.setHeader('X-RateLimit-Remaining', rl.remaining)
   res.setHeader('X-RateLimit-Reset', rl.reset)
 
