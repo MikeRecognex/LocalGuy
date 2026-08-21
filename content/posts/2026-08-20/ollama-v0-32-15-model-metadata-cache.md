@@ -4,11 +4,16 @@ date: 2026-08-20
 description: "Ollama releases v0.32.15 with a new model metadata cache feature designed to reduce per-request overhead and improve inference efficiency. This update includes desktop onboarding improvements and MLX framework updates."
 tags:
   - daily-digest
+  - edge-device
+  - inference-performance
+  - latency-reduction
+  - metadata-caching
+  - mlx
   - ollama
-  - performance
   - open-source
-  - inference
-status: draft
+  - performance
+  - release
+status: published
 ---
 
 Ollama has released v0.32.15 with a significant performance optimization: a model metadata cache that reduces per-request overhead. This is a critical improvement for local LLM deployments where reducing latency between requests can substantially impact user experience and resource utilization. The metadata caching approach minimizes repeated filesystem and model introspection operations.

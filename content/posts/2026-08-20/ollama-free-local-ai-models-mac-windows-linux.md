@@ -3,12 +3,23 @@ title: "Ollama Runs Free AI Models Locally on Mac, Windows and Linux"
 date: 2026-08-20
 description: "Geeky Gadgets covers Ollama, the popular open-source tool that simplifies running large language models locally across desktop platforms. Ollama abstracts away complexity, making local LLM inference accessible to mainstream users."
 tags:
+  - consumer-gpu
+  - cross-platform
   - daily-digest
+  - easy-deployment
+  - gpu-memory-management
+  - inference-optimization
+  - local-deployment
+  - model-quantization
+  - news
+  - offline-ai
+  - offline-inference
   - ollama
   - open-source
-  - cross-platform
-  - easy-deployment
-status: draft
+mentions:
+  - name: Geeky Gadgets
+    role: publisher
+status: published
 ---
 
 Ollama continues to gain mainstream visibility as the go-to tool for local LLM deployment across consumer platforms. The article highlights Ollama's ability to run open-source models like Llama, Mistral, and others with minimal configuration, abstracting away the complexity of model quantization, GPU memory management, and inference optimization. This democratization of local inference is critical for growing adoption beyond the AI developer community.

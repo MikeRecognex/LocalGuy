@@ -3,12 +3,22 @@ title: "GGUF Quantization Deep Dive: Q4_K_M vs IQ4_XS vs IQ4_NL Performance"
 date: 2026-08-19
 description: "A comprehensive analysis compares different GGUF quantization formats, evaluating trade-offs between model quality, inference speed, and memory consumption for practical local LLM deployment decisions."
 tags:
-  - daily-digest
-  - gguf
-  - quantisation
-  - llama-cpp
   - benchmark
-status: draft
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - deployment-strategy
+  - edge-device
+  - gguf
+  - inference-speed
+  - llama-cpp
+  - memory-optimization
+  - model-quantization
+  - quantisation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Quantization remains the primary lever for making large language models practical on consumer hardware, and understanding the nuances between quantization formats is critical for practitioners. This detailed comparison of Q4_K_M, IQ4_XS, and IQ4_NL formats provides empirical guidance on the quality-speed-memory triangle that governs local deployment decisions.

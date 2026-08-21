@@ -3,12 +3,19 @@ title: "AMD EPYC ZenDNN Accelerates llama.cpp Prompt Processing 4.5x"
 date: 2026-08-19
 description: "AMD's ZenDNN library delivers up to 4.5x performance improvement for llama.cpp on EPYC processors, significantly accelerating prompt processing speeds for server-side local LLM deployments."
 tags:
-  - daily-digest
   - amd
-  - llama-cpp
+  - cost-saving
+  - cpu-inference
+  - cpu-only
+  - daily-digest
+  - epyc
   - hardware
+  - inference-speed
+  - llama-cpp
+  - news
   - performance
-status: draft
+  - zendnn
+status: published
 ---
 
 AMD has announced substantial performance gains for llama.cpp workloads on its EPYC processors through the ZenDNN library, achieving up to 4.5x speedup in prompt processing. This optimization is critical for data center operators and enterprises running self-hosted LLM inference at scale, where prompt throughput directly impacts cost-per-token economics.

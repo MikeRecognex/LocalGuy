@@ -4,11 +4,18 @@ date: 2026-08-21
 description: "A practical guide demonstrating how to run private, local AI inference on Raspberry Pi 5 hardware with free, open-source tools."
 tags:
   - daily-digest
+  - edge-ai
+  - edge-device
   - edge-inference
   - hardware
+  - local-inference
+  - model-quantization
+  - offline-llm
   - open-source
   - privacy
-status: draft
+  - raspberry-pi-5
+  - tutorial
+status: published
 ---
 
 This guide validates that meaningful local LLM inference has become feasible on ultra-constrained hardware. Running models on Raspberry Pi 5 represents the extreme end of edge deployment but proves the underlying principle: with proper quantization and optimization, even tiny devices can execute real LLM workloads. The emphasis on "free" and "private" addresses core motivations for local deployment—eliminating API costs and maintaining complete data sovereignty.

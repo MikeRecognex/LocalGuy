@@ -4,11 +4,17 @@ date: 2026-08-21
 description: "Ollama's latest release dramatically improves time-to-first-token by caching resolved model metadata, reducing startup latency from 995ms to 524ms in benchmarks."
 tags:
   - daily-digest
-  - ollama
   - inference-optimization
-  - performance
+  - latency-reduction
+  - metadata-caching
+  - ollama
   - open-source
-status: draft
+  - performance
+  - performance-benchmark
+  - release
+  - startup-latency
+  - time-to-first-token
+status: published
 ---
 
 Ollama v0.32.15 delivers a crucial performance win for interactive local LLM applications: time-to-first-token (TTFT) is cut roughly in half through intelligent metadata caching. The improvements shown in benchmarks—dropping from ~995ms to ~524ms—translate directly to more responsive applications and better user experience in real-time scenarios like code completion, chat interfaces, and interactive tools.

@@ -3,12 +3,21 @@ title: "llama.cpp b10549: Tensor Parallelism Support for LFM2/LFM2MOE Models"
 date: 2026-08-21
 description: "Latest llama.cpp release enables tensor split for LFM2 and LFM2MOE models, expanding multi-GPU inference capabilities for local deployment."
 tags:
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
   - gpu-inference
-  - tensor-parallelism
+  - lfm2
+  - lfm2moe
+  - llama-cpp
+  - memory-constraints
+  - multi-gpu-inference
   - performance
-status: draft
+  - release
+  - tensor-parallelism
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 llama.cpp b10549 extends tensor parallelism support to LFM2 and LFM2MOE architectures, a critical feature for local deployments using multi-GPU setups. Tensor splitting allows large models to be distributed across multiple GPUs, enabling inference on hardware that individually lacks sufficient VRAM for single-GPU deployment. This is particularly valuable for frontier models that exceed typical consumer GPU memory constraints.

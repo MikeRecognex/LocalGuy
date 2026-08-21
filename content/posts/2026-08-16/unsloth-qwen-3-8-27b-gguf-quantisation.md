@@ -3,12 +3,23 @@ title: "Unsloth Releases Qwen 3.8 27B GGUF Quantised Weights"
 date: 2026-08-16
 description: "Unsloth has published optimised GGUF format weights for Qwen 3.8 27B, enabling efficient local deployment with pre-quantised models that balance quality and memory footprint for consumer hardware."
 tags:
+  - consumer-gpu
   - daily-digest
   - gguf
+  - llama-cpp
+  - local-deployment
+  - model-quantization
   - quantisation
   - qwen
+  - qwen-3-8-27b
+  - release
   - unsloth
-status: draft
+mentions:
+  - name: Unsloth
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Unsloth's release of Qwen 3.8 27B in GGUF format represents the community's rapid mobilisation around accessible quantisation of newly released capable models. GGUF (GUFF Unified Format) has emerged as the de facto standard for distributing quantised models optimised for llama.cpp and compatible inference engines, with tooling that allows practitioners to select specific quantisation levels based on hardware constraints.

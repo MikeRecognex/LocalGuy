@@ -727,6 +727,30 @@
     "2026-08-15": {
       "text": "Qwen 3.8 27B model optimized for Apple Silicon and AMD Ryzen AI Max processors.",
       "postCount": 5
+    },
+    "2026-08-16": {
+      "text": "Meta's Muse Glimmer uses ExecuTorch to achieve sub‑second on‑device agentic AI, while Ollama adds Qwen 3.8 27B for Apple Silicon.",
+      "postCount": 5
+    },
+    "2026-08-17": {
+      "text": "DeepSeek V4 Flash was compressed to 57 GB and compiled a Mac compiler, proving extreme quantization works.",
+      "postCount": 5
+    },
+    "2026-08-18": {
+      "text": "AMD’s Radeon AI PRO R9700 now runs Qwen3.8‑27B at 51.8 tokens/sec, boosting local LLM inference.",
+      "postCount": 5
+    },
+    "2026-08-19": {
+      "text": "AMD’s ZenDNN boosts llama.cpp prompt speed 4.5× on EPYC, while vLLM now runs on ROCm‑enabled Radeon 6000 GPUs.",
+      "postCount": 5
+    },
+    "2026-08-20": {
+      "text": "Gemma 4 now runs LLM inference on laptops, while Ollama 0.32.15 adds metadata caching for faster desktop AI",
+      "postCount": 5
+    },
+    "2026-08-21": {
+      "text": "Liquid AI's LFM2.5-DSpark speculative decoding boosts local LLM speed 3.18× without output changes.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -835,8 +859,12 @@
       "postCount": 59
     },
     "2026-08-09": {
-      "text": "<p>Meta released Muse Glimmer, a 30B open-source LLM, and NVIDIA introduced Magpie TTS with open weights.</p>\n<p>Check out \"DEF CON 34 Exposes 10 Critical Vulnerabilities\" and \"Meta Releases Muse Glimmer\" for key insights.</p>",
-      "postCount": 40
+      "text": "",
+      "postCount": 45
+    },
+    "2026-08-16": {
+      "text": "",
+      "postCount": 25
     }
   }
 }

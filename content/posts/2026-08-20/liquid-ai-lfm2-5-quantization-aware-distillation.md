@@ -3,12 +3,23 @@ title: "Liquid AI Releases LFM2.5 Q4_0 Checkpoints from Quantization-Aware Disti
 date: 2026-08-20
 description: "Liquid AI publishes LFM2.5 Q4_0 quantized checkpoints trained with quantization-aware distillation, enabling efficient local inference with maintained model quality. This approach combines distillation and quantization for optimal compression."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - deployment-strategy
   - distillation
   - gguf
+  - lfm-2-5
+  - lfm2-5
+  - liquid-ai
+  - llama-cpp
   - model-compression
-status: draft
+  - quantisation
+  - quantization-aware-distillation
+  - release
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 Liquid AI has released quantization-aware distillation (QAD) checkpoints for LFM2.5 in Q4_0 GGUF format, addressing a key challenge in local LLM deployment: maintaining model quality while aggressively reducing size and compute requirements. Quantization-aware distillation trains the model to be quantized from the ground up, rather than quantizing a full-precision model, resulting in better quality-to-size tradeoffs. The Q4_0 format makes these models compatible with llama.cpp and other GGUF-based inference engines.

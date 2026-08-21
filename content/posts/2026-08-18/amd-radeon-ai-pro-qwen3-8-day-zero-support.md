@@ -3,12 +3,20 @@ title: "AMD Adds Day 0 Qwen3.8 Support, Radeon AI PRO R9700 Hits 51.8 Tokens per
 date: 2026-08-18
 description: "AMD's Radeon AI PRO GPUs now offer native support for Qwen3.8-27B with impressive throughput of 51.8 tokens per second, enabling practitioners to leverage RDNA architecture for efficient local LLM inference without NVIDIA dependency."
 tags:
-  - daily-digest
   - amd
-  - hardware
   - benchmark
+  - consumer-gpu
+  - daily-digest
+  - gpu-compatibility
+  - hardware
+  - inference-speed
+  - local-inference
+  - news
   - quantisation
-status: draft
+  - qwen3-8-27b
+  - radeon-ai-pro-r9700
+  - rocm
+status: published
 ---
 
 AMD has demonstrated rapid support for emerging open-source models by achieving day-zero compatibility with Qwen3.8-27B on their Radeon AI PRO R9700 GPUs. The reported throughput of 51.8 tokens per second represents solid performance for local inference, comparable to high-end consumer GPU offerings and validating AMD's ROCm software stack maturity for production workloads.

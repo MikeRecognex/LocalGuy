@@ -3,12 +3,21 @@ title: "GGUF Quantization Compared: Q4_K_M vs. IQ4_XS vs. IQ4_NL Performance Ana
 date: 2026-08-18
 description: "A detailed technical comparison of GGUF quantization schemes reveals trade-offs between compression ratio, inference speed, and quality preservation. This benchmark guide helps practitioners select optimal quantization strategies for their specific hardware and latency requirements."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
   - benchmark
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - gguf
+  - inference-speed
   - llama-cpp
-status: draft
+  - model-quantization
+  - performance-benchmarking
+  - quantisation
+  - vram-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Detailed quantization benchmarking has emerged as critical knowledge for practitioners optimizing local inference. Comparative analysis of Q4_K_M, IQ4_XS, and IQ4_NL schemes reveals meaningful performance and quality trade-offs that weren't previously well-documented. Understanding these differences allows engineers to make principled hardware allocation decisions rather than defaulting to single quantization schemes.

@@ -3,12 +3,23 @@ title: "DeepSeek V4 Flash Shrunk to 57GB for Local macOS Inference with Compiler
 date: 2026-08-18
 description: "A community contributor has quantized DeepSeek V4 Flash to 57GB, enabling capable inference on Apple Silicon Macs with demonstrated ability to generate production-quality code. This showcases aggressive quantization techniques making frontier-grade models feasible on personal devices."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
   - apple-silicon
+  - code-generation
+  - daily-digest
+  - deepseek-v4-flash
+  - gguf
+  - llama-cpp
+  - local-inference
+  - model-compression
+  - moespresso
   - open-source
-status: draft
+  - quantisation
+  - showcase
+  - v4-flash
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A community member successfully reduced DeepSeek V4 Flash to 57GB while retaining meaningful capability for complex tasks like compiler generation on consumer-grade Apple Silicon hardware. This aggressive quantization achievement—using MoEspresso techniques—demonstrates that even cutting-edge models can fit within the memory constraints of high-end personal devices when properly optimized.

@@ -3,13 +3,21 @@ title: "Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp"
 date: 2026-08-17
 description: "A new native macOS frontend for llama.cpp adds agentic capabilities and Model Context Protocol support. This development improves the usability and functionality of local LLM deployments on Apple Silicon Macs."
 tags:
-  - daily-digest
-  - llama-cpp
-  - mcp
+  - agent-orchestration
   - agents
   - apple-silicon
+  - daily-digest
+  - llama-cpp
+  - llama-macos
+  - local-inference
+  - mcp
+  - model-context-protocol
   - open-source
-status: draft
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Llama-macOS brings native agentic and MCP (Model Context Protocol) support to the macOS ecosystem, providing a purpose-built interface for local LLM inference on Apple Silicon. This project bridges the gap between powerful open-source inference engines like llama.cpp and the need for rich, interactive user experiences that go beyond basic chat interfaces.

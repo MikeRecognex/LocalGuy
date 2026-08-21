@@ -3,12 +3,22 @@ title: "Meta's Muse Glimmer Achieves Fast On-Device Agentic AI with ExecuTorch"
 date: 2026-08-16
 description: "Meta's PyTorch blog details how Muse Glimmer delivers efficient on-device agentic AI inference using ExecuTorch, enabling interactive agent loops with sub-second latency on consumer devices. This represents a major step toward practical edge deployment of complex AI workflows."
 tags:
-  - daily-digest
-  - executorch
-  - edge-inference
+  - agentic-ai
   - agents
+  - daily-digest
+  - edge-device
+  - edge-inference
+  - executorch
+  - inference-speed
+  - model-quantization
+  - muse-glimmer
+  - news
+  - on-device-inference
   - pytorch
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Meta's official PyTorch blog post demonstrates Muse Glimmer running as a fully functional agentic AI system on edge devices via ExecuTorch, their optimised inference engine for mobile and embedded deployment. The architecture achieves interactive latency characteristics suitable for real-time agent reasoning loops, a significant advancement over previous approaches that required cloud roundtrips for multi-step tasks.

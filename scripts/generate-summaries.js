@@ -23,7 +23,7 @@ const matter = require("gray-matter");
 require("dotenv").config();
 
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL = "llama-3.3-70b-versatile";
+const GROQ_MODEL = "openai/gpt-oss-120b";
 const SUMMARIES_PATH = path.join(__dirname, "..", "_data", "summaries.json");
 const POSTS_DIR = path.join(__dirname, "..", "content", "posts");
 const DELAY_MS = 200;

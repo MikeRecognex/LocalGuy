@@ -3,12 +3,21 @@ title: "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on m
 date: 2026-08-17
 description: "A developer successfully compressed DeepSeek V4 Flash to 57GB and demonstrated its capability to write a compiler on a Mac. This showcases practical quantization and model optimization techniques for running state-of-the-art models on consumer hardware."
 tags:
+  - apple-silicon
+  - code-generation
+  - consumer-gpu
   - daily-digest
-  - quantisation
   - deepseek
   - memory-optimization
-  - apple-silicon
-status: draft
+  - model-quantization
+  - moe-architecture
+  - quantisation
+  - showcase
+  - v4-flash
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 DeepSeek V4 Flash, one of the latest high-performance language models, has been successfully optimized to run locally on Mac hardware through aggressive quantization. Reducing the model from its original size to 57GB while maintaining functional capability demonstrates the effectiveness of modern compression techniques and opens access to powerful models for developers without enterprise GPU clusters.

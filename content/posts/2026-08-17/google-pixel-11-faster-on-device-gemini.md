@@ -3,11 +3,17 @@ title: "Google Pixel 11 Launches With Faster On-Device Gemini at $899 Starting P
 date: 2026-08-17
 description: "Google's Pixel 11 ships with improved on-device Gemini inference, indicating major investments by consumer electronics manufacturers in local LLM deployment. This signals mainstream acceptance of edge inference as a key feature."
 tags:
-  - daily-digest
-  - hardware
-  - edge-inference
   - benchmark
-status: draft
+  - daily-digest
+  - edge-device
+  - edge-inference
+  - gemini
+  - hardware
+  - mobile-ai
+  - news
+  - on-device-inference
+  - pixel-11
+status: published
 ---
 
 Google's commitment to faster on-device Gemini inference in the Pixel 11 represents a significant shift in how major manufacturers approach AI capabilities. By prioritizing local model execution over cloud-dependent alternatives, Google demonstrates that consumer-grade phones can now handle meaningful LLM workloads with acceptable latency and quality.

@@ -3,12 +3,18 @@ title: "Ollama Adds Qwen 3.8 27B with Optimised Apple Silicon Support"
 date: 2026-08-16
 description: "Ollama v0.32.12 now supports Qwen 3.8 27B, a 27-billion parameter model optimised for local deployment with special tuning for Apple Silicon devices. The model delivers substantial improvements in coding, professional work, and agentic tasks while running efficiently on consumer hardware."
 tags:
-  - daily-digest
-  - ollama
-  - qwen
+  - agentic-workflows
   - apple-silicon
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - model-quantization
+  - ollama
   - open-source
-status: draft
+  - qwen
+  - qwen-3-8-27b
+  - release
+status: published
 ---
 
 Ollama has released version 0.32.12 with integrated support for Qwen 3.8 27B, marking a significant milestone for accessible local LLM deployment. This 27-billion parameter model is specifically optimised for maximum performance and output quality on Apple Silicon devices, addressing a key pain point for M-series MacBook users seeking capable local inference without cloud dependencies.

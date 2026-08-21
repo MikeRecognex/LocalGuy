@@ -4,11 +4,20 @@ date: 2026-08-21
 description: "Liquid AI introduces speculative decoding models that achieve up to 3.18x faster inference without changing model outputs, significantly improving local LLM performance."
 tags:
   - daily-digest
-  - speculative-decoding
-  - inference-optimization
-  - performance
+  - edge-device
   - gguf
-status: draft
+  - inference-optimization
+  - inference-speed
+  - lfm2-5-dspark
+  - liquid-ai
+  - local-deployment
+  - performance
+  - release
+  - speculative-decoding
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 LFM2.5-DSpark models introduce a game-changing approach to inference acceleration through speculative decoding, achieving up to 3.18x faster token generation without requiring model retraining or output modification. This technique uses lightweight draft models to predict upcoming tokens, which the main model then validates in parallel—a proven method for dramatically reducing latency in local deployments.

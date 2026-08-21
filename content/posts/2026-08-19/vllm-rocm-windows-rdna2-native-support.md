@@ -3,12 +3,21 @@ title: "Native vLLM and ROCm 7.15 Support for AMD RDNA2 GPUs on Windows"
 date: 2026-08-19
 description: "Community developers have released native vLLM integration with ROCm 7.15 for AMD Radeon RX 6000 series GPUs on Windows 11, enabling high-throughput inference at 26 Tflops FP16 on consumer AMD hardware."
 tags:
-  - daily-digest
-  - vllm
   - amd
-  - rocm
+  - consumer-gpu
+  - daily-digest
+  - hardware-compatibility
+  - inference-speed
   - open-source
-status: draft
+  - radeon-rx-6000
+  - release
+  - rocm
+  - vllm
+  - windows-support
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A significant development in AMD GPU support for local LLM inference has emerged with native vLLM and ROCm 7.15 compatibility for RDNA2-based Radeon RX 6000 series GPUs on Windows 11. This implementation achieves 26 Tflops FP16 performance, making mid-range consumer AMD GPUs viable for batch inference workloads on a previously unsupported platform.
