@@ -3,11 +3,21 @@ title: "Google COSMO Leak Reveals Gemini Nano and On-Device AI Skills"
 date: 2026-08-23
 description: "An internal Google document leak revealed details of COSMO, including Gemini Nano variants and on-device skill execution capabilities. This signals major investment in edge AI and lightweight model deployment from a tier-one player."
 tags:
-  - daily-digest
-  - quantisation
-  - edge-inference
+  - analysis
   - benchmark
-status: draft
+  - cosmo
+  - daily-digest
+  - edge-deployment
+  - edge-device
+  - edge-inference
+  - gemini-nano
+  - model-compression
+  - on-device-inference
+  - quantisation
+mentions:
+  - name: NPowerUser
+    role: publisher
+status: published
 ---
 
 Google's leaked COSMO initiative shows serious internal focus on on-device AI execution, with Gemini Nano tuned for edge deployment and 'on-device skills'—modular capabilities that run without cloud connectivity. This aligns with industry momentum toward privacy-first, low-latency inference and suggests Google views local LLM deployment as strategically important rather than a niche concern.

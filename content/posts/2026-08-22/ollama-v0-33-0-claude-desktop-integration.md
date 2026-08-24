@@ -3,12 +3,21 @@ title: "Ollama v0.33.0 Release Candidate Adds Claude Desktop Integration and Per
 date: 2026-08-22
 description: "Ollama's latest release candidate brings Claude Desktop app support, significant TTFT improvements cutting response time in half, and cross-platform fixes. This update makes Ollama more accessible while dramatically improving user experience for local model deployment."
 tags:
+  - apple-silicon
+  - claude-desktop
   - daily-digest
-  - ollama
-  - inference-speed
-  - open-source
+  - deployment-strategy
   - desktop-application
-status: draft
+  - desktop-integration
+  - inference-speed
+  - mlx
+  - ollama
+  - open-source
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama v0.33.0-rc marks a major step forward in user experience and performance. The addition of Claude Desktop app support broadens the platform's appeal beyond technical users, while the implementation of model metadata caching cuts time-to-first-token (TTFT) nearly in half—from ~995ms to ~524ms in benchmarks. This latency improvement directly translates to snappier, more responsive interactions with local models, bringing the user experience closer to cloud-based alternatives.

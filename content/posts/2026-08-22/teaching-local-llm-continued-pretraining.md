@@ -3,12 +3,18 @@ title: "Teaching a Local LLM to Reason About a New Domain Through Continued Pret
 date: 2026-08-22
 description: "A practical guide demonstrating how to adapt local LLMs like Qwen 3 4B to specialized domains using continued pretraining, with evidence of significant capability gains. This approach enables cost-effective domain customization without requiring cloud resources."
 tags:
-  - daily-digest
-  - fine-tuning
   - continued-pretraining
+  - daily-digest
   - domain-adaptation
+  - fine-tuning
+  - local-fine-tuning
   - local-training
-status: draft
+  - qwen-3-4b
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This practical guide addresses a critical challenge for local LLM practitioners: how to adapt general-purpose models to specialized domains without expensive proprietary training. By demonstrating successful continued pretraining on Qwen 3 4B, the author shows that even compact models can be effectively customized for domain-specific reasoning and terminology. This approach leverages local hardware to fine-tune models on proprietary data, eliminating the need to send training data to cloud providers.

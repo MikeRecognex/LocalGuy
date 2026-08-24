@@ -3,12 +3,24 @@ title: "llama.cpp Build b10581 Adds DSpark Support for Faster Local Inference"
 date: 2026-08-22
 description: "The latest llama.cpp release includes native support for DSpark model optimization, enabling users to run DSpark-optimized models like LFM2.5 with maximum efficiency. This update extends llama.cpp's lead as the fastest local inference engine."
 tags:
+  - apple-silicon
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - quantisation
+  - dspark
   - inference-speed
+  - lfm-2-5
+  - liquid-ai
+  - llama-cpp
+  - model-compression
   - model-optimization
-status: draft
+  - quantisation
+  - release
+mentions:
+  - name: Liquid AI
+    role: developer
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 llama.cpp's newest build adds first-class support for DSpark-optimized models, continuing the project's mission to provide the fastest possible inference on CPU and GPU hardware. With this update, users can now leverage the 2.67x speedup benefits of Liquid AI's DSpark optimization directly within llama.cpp's proven infrastructure, which already includes aggressive quantization, KleidiAI acceleration on ARM, and multi-platform support.

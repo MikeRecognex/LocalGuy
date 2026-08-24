@@ -751,6 +751,14 @@
     "2026-08-21": {
       "text": "Liquid AI's LFM2.5-DSpark speculative decoding boosts local LLM speed 3.18× without output changes.",
       "postCount": 5
+    },
+    "2026-08-22": {
+      "text": "Liquid AI's DSpark‑optimized LFM2.5 models hit 2.67× speedup, now supported in llama.cpp b10581.",
+      "postCount": 5
+    },
+    "2026-08-23": {
+      "text": "Google's leaked COSMO doc shows Gemini Nano on‑device AI skills, while llama.cpp adds CUDA pooling support.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -864,7 +872,7 @@
     },
     "2026-08-16": {
       "text": "",
-      "postCount": 25
+      "postCount": 35
     }
   }
 }

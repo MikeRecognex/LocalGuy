@@ -3,11 +3,19 @@ title: "Ollama v0.33.0 Adds Claude Desktop Integration and App Management"
 date: 2026-08-23
 description: "Ollama released v0.33.0 with native Claude Desktop integration, allowing users to toggle local models on/off and choose between local and cloud inference directly from Claude's interface. A new Apps view centralizes third-party integrations."
 tags:
+  - agents
+  - claude-desktop
   - daily-digest
+  - data-privacy
+  - hybrid-inference
+  - model-orchestration
   - ollama
   - open-source
-  - agents
-status: draft
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 This release represents a significant shift in how local LLMs integrate with mainstream AI applications. Rather than being isolated tools, local Ollama models now work seamlessly within Claude Desktop—users can select their own quantised models for privacy-sensitive tasks while falling back to cloud models when needed. This hybrid approach legitimises local inference as a first-class citizen in professional workflows.

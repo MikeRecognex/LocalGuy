@@ -3,12 +3,25 @@ title: "Liquid AI Releases DSpark Version of Compact LFM2.5 Models with Up to 2.
 date: 2026-08-22
 description: "Liquid AI releases optimized DSpark variants of their LFM2.5 models, achieving up to 2.67x inference speedup. These compact models are designed for on-device and edge deployment scenarios where latency and resource constraints are critical."
 tags:
+  - consumer-gpu
   - daily-digest
-  - model-optimization
-  - quantisation
-  - inference-speed
+  - dspark
+  - edge-deployment
+  - edge-device
   - edge-inference
-status: draft
+  - inference-speed
+  - lfm-2-5
+  - liquid-ai
+  - model-optimization
+  - offline-inference
+  - quantisation
+  - release
+mentions:
+  - name: Liquid AI
+    role: developer
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Liquid AI's DSpark optimization brings significant performance improvements to their compact LFM2.5 model family, delivering up to 2.67x faster inference without compromising output quality. DSpark represents a specialized optimization technique targeting the sparse patterns in smaller models, making it ideal for resource-constrained environments where speed and efficiency are paramount.
