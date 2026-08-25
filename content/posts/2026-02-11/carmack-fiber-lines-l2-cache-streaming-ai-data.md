@@ -4,11 +4,13 @@ date: 2026-02-11
 description: John Carmack explores using fiber optic lines as an alternative to DRAM for streaming AI data, potentially revolutionizing memory architecture for large model inference.
 tags:
   - advanced
+  - analysis
   - consumer-gpu
   - cost-saving
   - fiber-optic-memory
   - hardware-optimization
   - inference-optimization
+  - inference-speed
   - local-deployment
   - memory-bandwidth
   - memory-hardware
@@ -22,13 +24,10 @@ mentions:
   - name: John Carmack
     role: programmer
     handle: "@ID_AA_Carmack"
-  - name: John Carmack
-    role: programmer
-    handle: "@ID_AA_Carmack"
   - name: Tom's Hardware
     role: publisher
   - name: Hacker News
-    role: source
+    role: publisher
 status: published
 ---
 

@@ -117,5 +117,21 @@ module.exports = {
     "model-compression": [/\bmodel[-\s]?compress/i, /\bpruning\b/i, /\bsparsif/i],
     training: [/\btraining\b/i, /\bpre[-\s]?train/i],
     "browser-ai": [/\bbrowser[-\s]?(?:deploy|ai|infer)\b/i, /\bwebgpu\b/i, /\bwasm\b/i],
+
+    // Sovereign AI cluster. These describe a legal or national boundary that dictates where
+    // inference is ALLOWED to run — not a preference for self-hosting. That distinction is
+    // why `self-hosted`, `privacy` and `edge-deployment` were suppressed (they restated the
+    // site's premise at 24-49% of the corpus) while these sit at 0.1-3.8% and genuinely narrow.
+    // Measured over 1,999 posts; union of the cluster is 116 posts (5.8%).
+    //
+    // Deliberately excluded: `on-prem` (86 posts) — it is a deployment style, not a
+    // jurisdiction, and duplicates the suppressed `self-hosted`. And `DMA`, which collides
+    // with Direct Memory Access on a hardware-heavy corpus; the Digital Markets Act is
+    // matched by its full name instead.
+    "sovereign-ai": [/\bsovereign\w*\b/i, /\bdigital sovereignty\b/i, /\bnational ai\b/i],
+    "data-residency": [/\bdata residen\w+\b/i, /\bdata local[is]z?ation\b/i, /\bin-country\b/i, /\bcross[-\s]border data\b/i],
+    "air-gapped": [/\bair[-\s]?gapp?ed\b/i],
+    "ai-regulation": [/\bGDPR\b/, /\bEU AI Act\b/i, /\bAI Act\b/, /\bNIS2\b/i, /\bDigital Markets Act\b/i, /\bHIPAA\b/, /\bSchrems\b/i],
+    "export-controls": [/\bexport control\w*\b/i, /\bentity list\b/i, /\bchip ban\b/i],
   },
 };

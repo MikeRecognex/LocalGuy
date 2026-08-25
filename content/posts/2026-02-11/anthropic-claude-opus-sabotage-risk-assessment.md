@@ -6,12 +6,15 @@ tags:
   - advanced
   - ai-sabotage-risks
   - ai-safety
+  - analysis
   - anthropic
   - cautious
+  - claude-opus-4-6
   - data-privacy
   - local-deployment
   - local-deployment-safety
   - model-comparison
+  - model-evaluation
   - model-failure-modes
   - neutral
   - offline-deployment

@@ -30,8 +30,6 @@ tags:
   - real-world-applications
   - showcase
 mentions:
-  - name: CozAI Photo
-    role: solution-provider
   - name: Hacker News
     role: publisher
 status: published

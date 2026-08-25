@@ -4,11 +4,19 @@ date: 2026-08-24
 description: "Dictata is a new open-source tool combining local Whisper speech-to-text with LLM post-processing for high-quality dictation entirely on-device, eliminating cloud transcription dependencies."
 tags:
   - daily-digest
-  - whisper
-  - open-source
+  - data-privacy
+  - dictata
   - edge-inference
+  - multi-model-pipeline
+  - open-source
   - privacy
-status: draft
+  - showcase
+  - speech-recognition
+  - whisper
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Dictata demonstrates a practical end-to-end local inference pipeline combining Whisper speech recognition with LLM-based cleanup and correction. By running both components locally, users achieve private dictation without sending audio to cloud services, addressing privacy and latency concerns for sensitive applications like medical dictation or confidential note-taking.

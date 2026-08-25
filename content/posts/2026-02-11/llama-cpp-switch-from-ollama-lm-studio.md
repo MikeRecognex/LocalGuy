@@ -5,6 +5,8 @@ description: A detailed comparison reveals why switching to raw llama.cpp can pr
 tags:
   - advanced
   - bullish
+  - comparison
+  - deployment-strategy
   - developer
   - developer-tooling
   - gui-tools
@@ -20,14 +22,13 @@ tags:
   - lm-studio
   - local-deployment
   - local-llm-optimization
+  - memory-management
   - memory-optimization
   - model-comparison
   - ollama
   - performance-optimization
   - software-optimization
 mentions:
-  - name: It's FOSS
-    role: publisher
   - name: It's FOSS
     role: publisher
 status: published

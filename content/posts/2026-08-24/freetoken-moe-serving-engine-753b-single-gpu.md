@@ -3,12 +3,19 @@ title: "FreeToken: Edge-Native MoE Serving Engine Runs 753B GLM-5.2 on Single Wo
 date: 2026-08-24
 description: "FreeToken demonstrates a breakthrough in edge inference by enabling 753B parameter mixture-of-experts models to run on a single workstation GPU through optimized MoE serving. This represents a significant advancement in memory-efficient local deployment of extremely large models."
 tags:
+  - consumer-gpu
   - daily-digest
-  - memory-optimization
-  - moe
   - edge-inference
+  - freetoken
+  - glm-5-2
+  - memory-efficient-inference
+  - memory-optimization
+  - mixture-of-experts
+  - moe
+  - moe-inference
   - quantisation
-status: draft
+  - release
+status: published
 ---
 
 FreeToken is a specialized MoE (Mixture of Experts) serving engine designed specifically for edge-native inference, enabling practitioners to run massive 753B parameter models like GLM-5.2 on a single consumer-grade GPU. This represents a major leap forward in making ultra-large models accessible for local deployment without requiring expensive multi-GPU setups or cloud infrastructure.

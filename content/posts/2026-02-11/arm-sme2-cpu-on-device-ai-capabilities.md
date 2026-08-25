@@ -10,9 +10,13 @@ tags:
   - arm-sme2-technology
   - cost-saving
   - cpu-inference
+  - cpu-only
   - edge-computing
   - edge-deployment
+  - edge-device
+  - hardware-acceleration
   - hardware-optimization
+  - inference-speed
   - llm-accessibility
   - matrix-operations
   - neutral
@@ -22,6 +26,7 @@ tags:
   - power-efficiency
   - release
   - samsung
+  - sme2
   - transformer-models
 status: published
 ---

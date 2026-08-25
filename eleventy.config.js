@@ -10,16 +10,39 @@ const RESERVED_TAGS = new Set([
   "posts", "all", "notes", "allPosts", "_validatePosts", "guides", "tagPages",
 ]);
 
-// The set of tags a template may link to — must stay in lockstep with the tagPages
-// collection below, or posts link to /tags/ URLs that were never generated. That is
-// how `guides` (one post, glob-based collection, no page) became a 404.
-const linkable = (tags) =>
+// A tag needs this many posts before it earns its own /tags/ page.
+//
+// At 1, the site generated 6,020 tag pages for 2,004 posts and 4,206 of them (70%)
+// listed a single article. A page whose entire body is one link is thin content, and
+// three of them for every real post is what search engines use to judge the site as a
+// whole. The open-ended LLM vocabulary guarantees this: most semantic tags are minted
+// once and never seen again.
+//
+// Two is still one link plus one link. Three is the smallest count at which the page
+// answers "what else is there on this?" — which is the only reason to visit it.
+const MIN_POSTS_FOR_TAG_PAGE = 3;
+
+// Tags that are allowed to exist at all — reserved collection names and tags that
+// restate the site's premise are dropped regardless of how many posts carry them.
+const eligible = (tags) =>
   (Array.isArray(tags) ? tags : [])
     .filter((t) => typeof t === "string")
     .filter((t) => {
       const slug = t.toLowerCase();
       return !RESERVED_TAGS.has(slug) && !suppressedTags.has(slug);
     });
+
+// Slugs that actually got a page, filled in by the tagPages collection below.
+// Eleventy runs every collection before it renders any template, so this is populated
+// by the time `linkable` is called from a filter. It must NOT be consulted from inside
+// tagPages itself, which is what builds it — use `eligible` there.
+const generatedTagSlugs = new Set();
+
+// The set of tags a template may link to — must stay in lockstep with the tagPages
+// collection below, or posts link to /tags/ URLs that were never generated. That is
+// how `guides` (one post, glob-based collection, no page) became a 404.
+const linkable = (tags) =>
+  eligible(tags).filter((t) => generatedTagSlugs.has(t.toLowerCase()));
 
 module.exports = function (eleventyConfig) {
   // --- Markdown plugins ---
@@ -144,18 +167,33 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("tagPages", function (collectionApi) {
     const bySlug = new Map();
     for (const item of collectionApi.getAll()) {
-      for (const tag of linkable(item.data.tags)) {
+      // `eligible`, not `linkable`: linkable filters on generatedTagSlugs, which this
+      // loop is what populates. Using it here would return nothing on every build.
+      for (const tag of eligible(item.data.tags)) {
         const slug = tag.toLowerCase();
         if (!bySlug.has(slug)) bySlug.set(slug, { slug, items: new Set() });
         bySlug.get(slug).items.add(item);
       }
     }
-    return [...bySlug.values()]
+
+    const pages = [...bySlug.values()]
+      .filter(({ items }) => items.size >= MIN_POSTS_FOR_TAG_PAGE)
       .map(({ slug, items }) => ({
         slug,
         posts: [...items].sort((a, b) => a.date - b.date),
       }))
       .sort((a, b) => a.slug.localeCompare(b.slug));
+
+    generatedTagSlugs.clear();
+    for (const page of pages) generatedTagSlugs.add(page.slug);
+
+    const dropped = bySlug.size - pages.length;
+    console.log(
+      `[tags] ${pages.length} tag pages generated, ${dropped} below the ` +
+        `${MIN_POSTS_FOR_TAG_PAGE}-post threshold suppressed.`
+    );
+
+    return pages;
   });
 
   // All built posts — includes archived (URL preservation)

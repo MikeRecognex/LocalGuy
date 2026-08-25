@@ -9,6 +9,7 @@ tags:
   - document-processing
   - embedding-generation
   - enterprise
+  - epsteinfiles-rag
   - large-scale-data-processing
   - local-data-processing
   - offline-deployment
@@ -16,12 +17,14 @@ tags:
   - private-llm-deployment
   - rag
   - rag-chunking
+  - rag-pipeline
   - rag-retrieval-performance
   - rag-scaling
   - retrieval-optimization
+  - showcase
 mentions:
-  - name: r/LocalLLaMA
-    role: source
+  - name: Reddit
+    role: publisher
 status: published
 ---
 

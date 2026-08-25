@@ -3,12 +3,20 @@ title: "llama.cpp Build 10605: Mamba2 GEMM Optimization Improves State-Space Mod
 date: 2026-08-24
 description: "The latest llama.cpp release optimizes Mamba2 models by flattening input/output projections to dispatch GEMM operations instead of GEMV, delivering better GPU utilization and inference speed for state-space architectures."
 tags:
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - optimization
-  - nvidia
+  - gpu-optimization
+  - gpu-utilization
   - inference-speed
-status: draft
+  - kernel-optimization
+  - llama-cpp
+  - mamba2
+  - nvidia
+  - optimization
+  - performance-optimization
+  - release
+  - state-space-models
+status: published
 ---
 
 llama.cpp build 10605 brings performance optimizations specifically targeting Mamba2, an increasingly popular state-space model architecture. The key improvement involves restructuring tensor operations to dispatch general matrix multiplication (GEMM) kernels instead of matrix-vector multiplication (GEMV), which significantly improves GPU utilization and reduces inference latency.

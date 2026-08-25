@@ -12,6 +12,7 @@ tags:
   - document-processing
   - extended-reasoning
   - local-deployment
+  - long-context
   - model-enhancement
   - news
   - offline-deployment
@@ -20,7 +21,7 @@ tags:
   - self-hosted
 mentions:
   - name: r/LocalLLaMA
-    role: source
+    role: publisher
 status: published
 ---
 

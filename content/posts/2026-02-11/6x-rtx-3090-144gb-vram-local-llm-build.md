@@ -4,16 +4,20 @@ date: 2026-02-11
 description: A LocalLLaMA community member showcases a custom-built system with 6x RTX 3090 GPUs providing 144GB of VRAM, featuring modified drivers with P2P support for high-performance local LLM inference.
 tags:
   - advanced
+  - asrock
   - community-hardware
   - consumer-gpu
   - cpu-inference
   - custom-hardware-builds
+  - gigabyte
   - gpu-interconnect
   - gpu-interconnect-bandwidth
+  - hardware-build
   - high-vram-llms
   - high-vram-systems
   - hobbyist
   - home-lab
+  - inference-performance
   - large-model-inference
   - local-inference
   - multi-gpu-setup
@@ -24,13 +28,16 @@ tags:
   - p2p-gpu-communication
   - production-ops
   - quantization
+  - rtx-3090
+  - showcase
+  - tinygrad
 mentions:
-  - name: Gigabyte
-    role: hardware manufacturer
+  - name: r/LocalLLaMA
+    role: publisher
   - name: ASRock
-    role: hardware manufacturer
-  - name: TinyGrad
-    role: software developer
+    role: manufacturer
+  - name: Gigabyte
+    role: manufacturer
 status: published
 ---
 

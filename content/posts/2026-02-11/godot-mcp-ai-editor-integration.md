@@ -13,6 +13,7 @@ tags:
   - cloud-independence
   - developer
   - developer-tooling
+  - game-development
   - godot
   - godot-mcp
   - integration
@@ -35,9 +36,9 @@ tags:
   - workflow-integration
 mentions:
   - name: GitHub
-    role: repository-host
+    role: publisher
   - name: Hacker News
-    role: source
+    role: publisher
 status: published
 ---
 

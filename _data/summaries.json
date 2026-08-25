@@ -759,6 +759,10 @@
     "2026-08-23": {
       "text": "Google's leaked COSMO doc shows Gemini Nano on‑device AI skills, while llama.cpp adds CUDA pooling support.",
       "postCount": 5
+    },
+    "2026-08-24": {
+      "text": "FreeToken runs 753B GLM‑5.2 MoE on a single GPU, proving edge‑native massive model inference feasible.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -873,6 +877,10 @@
     "2026-08-16": {
       "text": "",
       "postCount": 35
+    },
+    "2026-08-23": {
+      "text": "",
+      "postCount": 5
     }
   }
 }

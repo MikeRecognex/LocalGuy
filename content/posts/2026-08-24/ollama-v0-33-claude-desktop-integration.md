@@ -3,12 +3,19 @@ title: "Ollama 0.33: Claude Desktop Integration Brings Model Selection and App M
 date: 2026-08-24
 description: "Ollama's latest release adds seamless Claude Desktop integration, allowing users to switch between local and cloud models directly from the menu bar, plus improved app management features for better workflow integration."
 tags:
+  - agents
+  - app-integration
+  - claude-desktop
   - daily-digest
+  - data-privacy
+  - hybrid-inference
+  - model-management
   - ollama
   - open-source
-  - agents
+  - release
   - tooling
-status: draft
+  - workflow-integration
+status: published
 ---
 
 Ollama 0.33 introduces a significant usability improvement by integrating directly with Claude Desktop, enabling users to toggle individual local models on/off and select from available local models within Claude's interface. The release includes a new Apps view for managing integrations with copyable commands, streamlining the setup process for combining local inference with Claude workflows.

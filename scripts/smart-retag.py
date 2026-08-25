@@ -58,6 +58,11 @@ SEMANTIC TAGS (written to frontmatter tags:)
 - content-type (exactly 1): e.g. news, tutorial, analysis, release, showcase, benchmark-report, opinion, comparison
 - topic (1-5): The core subjects of the post. Be specific — e.g. iterative-reasoning, memory-bandwidth, inference-speed, model-compression, voice-synthesis, rag-pipeline, agent-orchestration, deployment-guide, security-audit. Capture what makes this post distinct.
 - hardware-tier (0-2, only if hardware explicitly discussed): e.g. consumer-gpu, datacenter-gpu, apple-silicon, cpu-only, edge-device, custom-asic
+- deployment-context (0-2, USUALLY ABSENT — omit entirely unless the text explicitly says so):
+  Regulatory, jurisdictional or institutional constraints that dictate WHERE a model is allowed
+  to run and WHO controls it. e.g. sovereign-ai, data-residency, air-gapped, regulated-industry,
+  government-deployment, export-controls, national-ai-strategy, defence-deployment
+  This is NOT "runs locally" — that is true of every post on this site and is not a context.
 
 PRODUCT (written to frontmatter tags:)
 - product (0-3): The named project, tool, model, app, or hardware that the post is ABOUT.
@@ -84,6 +89,10 @@ Rules:
    they were syndicated from is not what the post is about.
 10. Keep product slugs to the product name only. Strip vendor prefixes and marketing suffixes:
     "PrismML's Bonsai 27B" -> slug "bonsai-27b"; "Seeed Studio reCamera Pro" -> slug "recamera-pro".
+11. deployment-context has NO default. Most posts warrant none — emitting zero is the correct and
+    expected outcome. Emit one only when the post names a jurisdiction, regulator, statute, public
+    institution, or an explicit prohibition on data leaving a boundary. Wanting privacy is not
+    sovereignty; being legally unable to send data offshore is.
 """)
 
 EXAMPLES = [
@@ -164,6 +173,25 @@ EXAMPLES = [
             lx.data.Extraction(extraction_class="product", extraction_text="Sidekick", attributes={"name": "Sidekick", "slug": "sidekick", "kind": "project"}),
             lx.data.Extraction(extraction_class="product", extraction_text="llama.cpp", attributes={"name": "llama.cpp", "slug": "llama.cpp", "kind": "tool"}),
             lx.data.Extraction(extraction_class="organisation", extraction_text="Hacker News", attributes={"name": "Hacker News", "role": "publisher"}),
+        ],
+    ),
+    # deployment-context fires here and only here across these examples. The other five
+    # emit none, which is the signal that the axis is optional rather than forced — the
+    # mistake that collapsed `sentiment`, `audience` and `technical-depth` onto one value.
+    lx.data.ExampleData(
+        text=(
+            "German public hospitals cannot send patient records to US-hosted APIs under GDPR, "
+            "so Charite is running Teuken 7B on an air-gapped on-premise cluster. "
+            "The deployment keeps all inference inside national borders."
+        ),
+        extractions=[
+            lx.data.Extraction(extraction_class="content-type", extraction_text="The deployment", attributes={"slug": "showcase"}),
+            lx.data.Extraction(extraction_class="topic", extraction_text="patient records", attributes={"slug": "healthcare-ai"}),
+            lx.data.Extraction(extraction_class="deployment-context", extraction_text="cannot send patient records to US-hosted APIs under GDPR", attributes={"slug": "data-residency"}),
+            lx.data.Extraction(extraction_class="deployment-context", extraction_text="keeps all inference inside national borders", attributes={"slug": "sovereign-ai"}),
+            lx.data.Extraction(extraction_class="hardware-tier", extraction_text="on-premise cluster", attributes={"slug": "datacenter-gpu"}),
+            lx.data.Extraction(extraction_class="product", extraction_text="Teuken 7B", attributes={"name": "Teuken 7B", "slug": "teuken-7b", "kind": "model"}),
+            lx.data.Extraction(extraction_class="organisation", extraction_text="Charite", attributes={"name": "Charite", "role": "deployer"}),
         ],
     ),
 ]
@@ -262,7 +290,7 @@ def update_frontmatter(content: str, new_tags: list[str], mentions: list[dict]) 
 # developer 70%, intermediate 67%. A tag carried by seven posts in ten cannot
 # discriminate between them. Anything emitted under those classes is now ignored.
 TAG_CLASSES = {
-    "content-type", "topic", "hardware-tier",
+    "content-type", "topic", "hardware-tier", "deployment-context",
 }
 
 DROPPED_TAG_CLASSES = {"technical-depth", "audience", "sentiment"}
@@ -380,6 +408,7 @@ def main():
     parser.add_argument("--batch-size", type=int, default=10, help="Posts per langextract batch")
     parser.add_argument("--max-workers", type=int, default=2, help="Concurrent Gemini requests (keep low to avoid rate limits)")
     parser.add_argument("--model", default="gemini-3.5-flash", help="Gemini model ID")
+    parser.add_argument("--limit", type=int, help="Process at most N uncached posts (cost control)")
     args = parser.parse_args()
 
     # Load environment
@@ -410,6 +439,11 @@ def main():
     if not to_process:
         print("All posts are cached. Use --no-cache to force reprocessing.")
         return
+
+    if args.limit:
+        total_uncached = len(to_process)
+        to_process = to_process[:args.limit]
+        print(f"Limiting to {len(to_process)} of {total_uncached} uncached posts.")
 
     print(f"Processing {len(to_process)} posts ({len(posts) - len(to_process)} cached)...")
 
