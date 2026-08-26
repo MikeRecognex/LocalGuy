@@ -3,11 +3,19 @@ title: "Run Open Models on Claude Desktop via Ollama Integration"
 date: 2026-08-26
 description: "Ollama now enables Claude Desktop users to seamlessly run open-source models locally through simple configuration. This integration democratizes access to Claude Desktop's powerful agentic capabilities while preserving user data privacy through local inference."
 tags:
-  - daily-digest
-  - ollama
+  - agent-orchestration
   - agents
+  - claude-desktop
+  - daily-digest
+  - local-first-workflow
+  - ollama
   - open-source
-status: draft
+  - privacy-compliance
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The integration of Ollama with Claude Desktop represents a pivotal moment for local-first AI workflows. Users can now configure Claude Desktop to route requests to locally-running Ollama instances, effectively creating a hybrid system where Claude's reasoning and planning capabilities are augmented by custom local models.

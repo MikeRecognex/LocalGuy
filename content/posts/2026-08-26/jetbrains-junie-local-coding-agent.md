@@ -3,11 +3,24 @@ title: "JetBrains Releases Junie Local: On-Device Coding Agent for macOS"
 date: 2026-08-26
 description: "JetBrains launches Junie Local, a fully on-device coding agent for macOS that performs code generation and refactoring without sending data to cloud servers. This release demonstrates enterprise adoption of local LLM inference for professional development workflows."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
   - apple-silicon
+  - code-generation
+  - coding-assistant
+  - consumer-gpu
+  - daily-digest
+  - jetbrains
+  - junie-local
   - open-source
-status: draft
+  - privacy-compliance
+  - release
+mentions:
+  - name: JetBrains
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 JetBrains' introduction of Junie Local marks a significant milestone in bringing capable AI agents to developer workflows while maintaining strict data privacy. By running the coding agent entirely on-device, JetBrains eliminates the privacy concerns and latency penalties associated with cloud-based code generation.

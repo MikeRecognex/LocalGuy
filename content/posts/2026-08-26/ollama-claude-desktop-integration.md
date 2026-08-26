@@ -3,11 +3,19 @@ title: "Ollama v0.33.0 Adds Claude Desktop Integration and Improved Caching"
 date: 2026-08-26
 description: "Ollama's latest release enables seamless Claude Desktop integration as a third-party gateway provider while fixing critical performance issues with agent prefill caching. This breakthrough simplifies local LLM deployment workflows for developers using Anthropic's tools."
 tags:
-  - daily-digest
-  - ollama
+  - agent-orchestration
   - agents
+  - claude-desktop
+  - daily-digest
+  - developer-workflow
+  - ollama
   - open-source
-status: draft
+  - prefill-caching
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama v0.33.0 represents a significant milestone for local LLM integration, bringing native support for Claude Desktop as a gateway provider. This allows developers to configure their local Ollama instances to work seamlessly with Claude Desktop, bridging cloud and on-device inference workflows.

@@ -3,12 +3,17 @@ title: "Ollama 0.33 Adds Claude Desktop Integration with Model Switching"
 date: 2026-08-25
 description: "Ollama's latest release includes direct Claude Desktop integration, allowing users to manage local Ollama models directly from Claude's menu bar and seamlessly switch between local and cloud models."
 tags:
+  - claude-desktop
   - daily-digest
+  - desktop-integration
+  - hybrid-inference
+  - inference-optimization
+  - integration
+  - local-deployment
   - ollama
   - open-source
-  - integration
-  - inference-optimization
-status: draft
+  - release
+status: published
 ---
 
 Ollama's integration with Claude Desktop represents a significant usability milestone for local LLM deployment. Users can now toggle individual Ollama models on or off for use within Claude, manage local model availability directly from the menu bar, and switch between local and cloud-based models without friction. This removes a major barrier to local model adoption—developers no longer need to maintain separate workflows or switch applications to access their locally-deployed models alongside cloud alternatives.

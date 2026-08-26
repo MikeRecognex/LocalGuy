@@ -3,11 +3,20 @@ title: "vLLM-iOS Achieves 88% Faster Multi-Agent Inference on Mobile Devices"
 date: 2026-08-26
 description: "A new iOS implementation of vLLM demonstrates continuous batching optimization that accelerates multi-agent LLM inference by 88% on mobile hardware. This represents a major breakthrough in edge deployment, enabling complex agent orchestration directly on consumer devices."
 tags:
-  - daily-digest
-  - vllm
+  - agent-orchestration
   - apple-silicon
+  - continuous-batching
+  - daily-digest
+  - edge-device
+  - edge-inference
   - memory-optimization
-status: draft
+  - release
+  - vllm
+  - vllm-ios
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The vLLM-iOS project brings continuous batching—a core optimization technique from the server-side vLLM framework—to Apple's mobile ecosystem. By implementing sophisticated request batching and KV cache management on iOS, researchers achieved an 88% speedup in multi-agent inference scenarios compared to naive sequential execution.
