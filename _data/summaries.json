@@ -771,6 +771,14 @@
     "2026-08-26": {
       "text": "JetBrains launches Junie Local, an on‑device macOS coding agent that runs LLM inference without cloud.",
       "postCount": 5
+    },
+    "2026-08-27": {
+      "text": "IBM opens Granite 4.2 models under Apache 2.0, letting developers run agentic AI locally.",
+      "postCount": 5
+    },
+    "2026-08-28": {
+      "text": "IBM's Granite 4.2 models launch, promising faster local LLM deployment alongside a VRAM tweak that doubles speed.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -888,7 +896,7 @@
     },
     "2026-08-23": {
       "text": "",
-      "postCount": 15
+      "postCount": 25
     }
   }
 }

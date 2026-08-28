@@ -3,12 +3,19 @@ title: "vLLM v0.28.0 Features Major Kimi-K3 Optimization and Decode Context Para
 date: 2026-08-27
 description: "vLLM 0.28.0 introduces Decode Context Parallel (DCP) support and optimized kernels for Kimi-K3, alongside improvements for 270+ contributors. The release enables faster multi-sequence inference on both datacenter and edge hardware."
 tags:
+  - batched-inference
+  - context-parallelism
   - daily-digest
-  - vllm
-  - inference-optimization
-  - speculative-decoding
+  - datacenter-gpu
+  - edge-device
   - hardware
-status: draft
+  - inference-optimization
+  - inference-speed
+  - kimi-k3
+  - release
+  - speculative-decoding
+  - vllm
+status: published
 ---
 
 vLLM's v0.28.0 release demonstrates the framework's commitment to practical performance improvements across diverse hardware configurations. The addition of Decode Context Parallel (DCP) support represents a significant optimization for batched inference scenarios common in production deployments, where multiple users or requests must be served simultaneously. Combined with fused FlashKDA kernels for both decode and prefill stages, this release provides meaningfully faster throughput for local and edge inference.

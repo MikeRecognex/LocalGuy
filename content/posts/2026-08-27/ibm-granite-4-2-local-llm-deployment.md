@@ -3,12 +3,25 @@ title: "IBM Releases Granite 4.2 Open-Weight Models for Local Deployment Under A
 date: 2026-08-27
 description: "IBM releases the Granite 4.2 family of open-weight models with built-in agentic capabilities under Apache 2.0 license, enabling unrestricted local deployment for enterprise and individual developers."
 tags:
-  - daily-digest
-  - open-source
+  - agentic-capabilities
   - agents
+  - complex-reasoning
+  - daily-digest
+  - edge-device
+  - edge-inference
   - granite
+  - granite-4-2
+  - ibm
   - model-release
-status: draft
+  - open-license
+  - open-source
+  - release
+mentions:
+  - name: IBM
+    role: developer
+  - name: Ars Technica
+    role: publisher
+status: published
 ---
 
 IBM's Granite 4.2 release represents a significant contribution to the local LLM ecosystem by providing production-ready models optimized for on-device deployment with full Apache 2.0 licensing. The open-weight design and agentic capabilities built directly into the models eliminate the need for external frameworks or specialized prompting techniques, making these models particularly suitable for edge inference scenarios where simplicity and reliability are paramount.

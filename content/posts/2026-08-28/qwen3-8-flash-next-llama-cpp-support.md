@@ -3,12 +3,19 @@ title: "Qwen3.8-Flash-Next Added to llama.cpp with GGUF Support"
 date: 2026-08-28
 description: "llama.cpp now supports Qwen3.8-Flash-Next with full GGUF architecture implementation, including low-rank hyper-connections and n-gram hash embeddings for optimized local inference."
 tags:
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - qwen
+  - edge-deployment
   - gguf
+  - gguf-format
+  - inference-optimization
+  - llama-cpp
+  - model-quantization
   - open-source
-status: draft
+  - qwen
+  - qwen3-8-flash-next
+  - release
+status: published
 ---
 
 The latest llama.cpp build (b10660) introduces native support for Qwen3.8-Flash-Next, Alibaba's latest efficient language model architecture. This release adds comprehensive GGUF-side plumbing including model architecture definitions and tensor support for the model's distinctive low-rank hyper-connection components and probabilistic learned embeddings (PLE) with n-gram hashing.

@@ -3,12 +3,20 @@ title: "VRAM Optimization Breakthrough: Single Setting Change Doubles Local Mode
 date: 2026-08-28
 description: "A practical discovery reveals that a single configuration change can double inference speed on local AI models by eliminating wasteful VRAM usage, offering immediate performance gains for existing deployments."
 tags:
+  - analysis
+  - consumer-gpu
   - daily-digest
+  - gpu-utilization
+  - hardware
+  - inference-optimization
+  - inference-speed
   - memory-optimization
   - performance
-  - inference-optimization
-  - hardware
-status: draft
+  - vram-optimization
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 A detailed analysis published by XDA identifies a commonly-overlooked configuration issue causing significant VRAM waste in local LLM deployments. By adjusting a single default setting, practitioners can achieve 2x speedup gains without requiring hardware upgrades or model changes. This discovery highlights how much untapped performance potential exists in current local LLM infrastructure due to suboptimal default configurations.

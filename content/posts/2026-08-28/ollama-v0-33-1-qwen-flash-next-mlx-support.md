@@ -3,12 +3,17 @@ title: "Ollama v0.33.1 Adds Qwen3.8-Flash-Next Support via MLX Backend"
 date: 2026-08-28
 description: "Ollama's latest release includes native Qwen3.8-Flash-Next support through its MLX backend, along with structured output capabilities and Metal GPU optimizations for macOS users."
 tags:
-  - daily-digest
-  - ollama
-  - mlx
-  - qwen
   - apple-silicon
-status: draft
+  - daily-digest
+  - inference-acceleration
+  - mlx
+  - ollama
+  - qwen
+  - qwen3-8-flash-next
+  - release
+  - structured-outputs
+  - tool-calling
+status: published
 ---
 
 Ollama v0.33.1 extends its model support with native Qwen3.8-Flash-Next compatibility through the MLX backend, directly benefiting Apple Silicon users. The release also introduces structured output support in the MLX runner and addresses GPU timeout issues when loading models from slower storage, improving the user experience for resource-constrained environments.
