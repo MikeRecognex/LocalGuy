@@ -779,6 +779,10 @@
     "2026-08-28": {
       "text": "IBM's Granite 4.2 models launch, promising faster local LLM deployment alongside a VRAM tweak that doubles speed.",
       "postCount": 5
+    },
+    "2026-08-29": {
+      "text": "AMD launches ROCm 10 with ROCm.AI, delivering 3.3× inference boost for local LLMs via Hyperloom agents.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -896,7 +900,7 @@
     },
     "2026-08-23": {
       "text": "",
-      "postCount": 25
+      "postCount": 30
     }
   }
 }
