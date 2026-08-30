@@ -18,6 +18,12 @@ mentions:
   - name: Hacker News
     role: publisher
 status: published
+# Duplicate of 2026-08-19/gguf-quantization-comparison-q4-k-m-iq4.md — same source
+# article (kaitchup "Choosing a GGUF model"), ingested twice a day apart. The 08-19
+# copy is the fuller write-up, so this one is unpublished and 301'd to it in
+# vercel.json. Kept on disk as the ingestion record.
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 Detailed quantization benchmarking has emerged as critical knowledge for practitioners optimizing local inference. Comparative analysis of Q4_K_M, IQ4_XS, and IQ4_NL schemes reveals meaningful performance and quality trade-offs that weren't previously well-documented. Understanding these differences allows engineers to make principled hardware allocation decisions rather than defaulting to single quantization schemes.

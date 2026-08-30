@@ -1,3 +1,42 @@
+# Duplicate Posts — GGUF Pair Deduped, 31 More Groups Found
+
+## What was done
+- [x] Confirmed `2026-08-18/gguf-quantization-comparison-q4-k-m-vs-iq4.md` and
+      `2026-08-19/gguf-quantization-comparison-q4-k-m-iq4.md` cite the identical source
+      (`kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i`), a day apart.
+- [x] Kept the 08-19 copy (fuller body, source relevance 9/10 vs 8/10); unpublished the
+      08-18 copy via frontmatter `permalink: false` + `eleventyExcludeFromCollections: true`.
+- [x] Added a 301 in `vercel.json` from the retired slug to the survivor, matching the
+      existing tag-canonicalisation redirect convention. Suppressing without a redirect
+      would have 404'd a live URL and thrown away its link equity.
+- [x] Clean rebuild verified: retired page absent from `_site`, survivor present, sitemap
+      lists only the survivor, and zero references to the retired slug remain anywhere in
+      `_site` (related-posts and archives dropped it automatically).
+
+## The bigger finding: this is 1 of 32
+Grouping all posts by their `*Source:` URL (ignoring bare-domain sources) gives
+**32 groups covering 78 posts** — roughly 46 redundant pages. Worst offenders repeat 4x
+(vLLM 0.27.0, Ollama v0.32.8, the quesma Qwen3.8 quantization benchmark).
+
+`posts.11tydata.js` only dedupes **identical filenames**, so it catches the copies the
+ingester names the same way and misses every near-miss slug (`...q4-k-m-vs-iq4` vs
+`...q4-k-m-iq4`). Source URL is the stronger signal.
+
+**Do not naively dedupe on source URL.** The URL degrades to a section page for some
+publishers — `www.msn.com/en-us/news/technology` is shared by 6 completely unrelated
+posts, `www.msn.com/news` by 3, `www.msn.com/en-us/news` by 2. MSN never yields a real
+article URL in this corpus. A rule keyed on source URL must exclude those hosts/paths or
+it will suppress ~11 legitimate posts.
+
+## Follow-ups (not started, need a decision)
+- [ ] Decide whether to extend `posts.11tydata.js` to dedupe on source URL with a
+      degraded-source exclusion list, or keep handling groups by hand. Automating it
+      retires ~46 published URLs in one build — large blast radius, wants review of the
+      list first.
+- [ ] Whichever way: each retired URL needs a `vercel.json` 301, not just suppression.
+- [ ] Better still, fix it upstream in the n8n ingester so the same source URL is not
+      posted twice. Note `n8n/` is gitignored, so that work is not visible in this repo.
+
 # Retag Pipeline — Diagnosis and `--untagged` Safety Net
 
 ## Diagnosis: there was no failure

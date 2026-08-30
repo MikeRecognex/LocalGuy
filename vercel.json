@@ -4,6 +4,16 @@
   "framework": null,
   "redirects": [
     {
+      "source": "/posts/gguf-quantization-comparison-q4-k-m-vs-iq4",
+      "destination": "/posts/gguf-quantization-comparison-q4-k-m-iq4/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/gguf-quantization-comparison-q4-k-m-vs-iq4/",
+      "destination": "/posts/gguf-quantization-comparison-q4-k-m-iq4/",
+      "permanent": true
+    },
+    {
       "source": "/tags/gguf-quantisation",
       "destination": "/tags/gguf-quantization/",
       "permanent": true
