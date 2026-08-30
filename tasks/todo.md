@@ -1,3 +1,77 @@
+# Retag Pipeline — Diagnosis and `--untagged` Safety Net
+
+## Diagnosis: there was no failure
+
+`npm run smart-retag:drafts && npm run generate-summaries` was reported as failing.
+It does not. Both API keys valid, `gemini-3.5-flash` and `openai/gpt-oss-120b` both
+still available, `langextract` imports cleanly, `glob`/`gray-matter` resolve
+transitively despite being absent from package.json. Exit code 0.
+
+What it prints is `No posts found to process.` — there are zero drafts, so
+`--drafts-only` selects nothing. A no-op, not an error.
+
+Coverage was checked before assuming a backfill was needed, and none is:
+
+| group | n | mean tags |
+|---|---|---|
+| Aug, has mentions | 109 | 12.4 |
+| Aug, **no** mentions | 78 | 11.7 |
+| May–Jul, has mentions | 766 | 16.8 |
+| May–Jul, **no** mentions | 58 | 16.4 |
+
+Posts without `mentions:` are not under-tagged, so absence of mentions means the
+extractor found no entities — not that it never ran. The 380-entry cache was a red
+herring (see below).
+
+## Drift finding (real, benign)
+
+August posts carry ~4.6 fewer tags than May–July. Roughly half is the deliberate
+removal of `technical-depth`/`audience`/`sentiment`. The onset is **2026-08-04**,
+matching `f768bf05` (aggregator slugs added to `SUPPRESS_TAGS`), *not* the 2026-08-12
+commit. `n8n/` is untracked in git, so an upstream contribution can't be ruled out.
+
+Does not degrade related-posts: August still carries 7.0 discriminating tags/post and
+gets related links at 99.4% (98.8% with the full 4), matching Feb–Jun.
+
+## Fix: durable provenance + `--untagged`
+
+Root cause of the unusable cache: it was keyed by content hash taken *before*
+`update_frontmatter` rewrote the file, so every entry described a version that no
+longer existed. Hence 380 entries against 2,034 posts.
+
+- [x] Cache keyed by post path; stores the post-write hash
+- [x] `--untagged` selects posts the extractor has never seen, regardless of status —
+      closes the one-shot window created by generate-summaries auto-publishing drafts
+- [x] `--drafts-only` + `--untagged` rejected as mutually exclusive
+- [x] One-time migration seeds the existing corpus as processed (avoids a pointless
+      2,034-post Gemini backfill); `--no-cache` forces a genuine full re-run
+- [x] `smart-retag:untagged` npm script
+- [x] `retag-and-summarize` switched to `--untagged` — this is what actually closes
+      the trap in the daily pipeline; `--drafts-only` remains available standalone
+- [x] Runaway guard: `--untagged` refuses a run over 50 posts without an explicit
+      `--limit`. The cache is gitignored, so a fresh clone or deleted cache makes
+      every post look unseen, and this runs unattended from the daily pipeline — the
+      failure mode was a silent full-corpus re-extraction and the bill for it
+
+## Verification
+
+- [x] Mutual-exclusion guard exits 1
+- [x] Dry runs leave the cache byte-identical
+- [x] Migration produced 2,034 path-keyed entries
+- [x] End-to-end: temp fixture post was the only one selected out of 2,035, extracted
+      9 tags + 2 mentions correctly; fixture removed, corpus back to 2,034
+- [x] Runaway guard fires on a hidden cache (2,034 selected → exit 1); cache restored
+      byte-identical afterwards
+- [x] `npm run retag-and-summarize` runs clean end-to-end, leaves summaries.json
+      unchanged
+
+## Note
+
+`--dry-run` skips the *write*, not the extraction — it still calls Gemini and still
+costs. It is not a free way to preview a large run; use `--limit`.
+
+---
+
 # Related Posts — Internal Linking for SEO
 
 Prompted by a Vercel agent SEO review: ~2,034 posts, but zero post-to-post links

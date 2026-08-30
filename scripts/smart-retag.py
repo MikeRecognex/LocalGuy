@@ -26,6 +26,15 @@ from dotenv import load_dotenv
 POSTS_DIR = Path(__file__).resolve().parent.parent / "content" / "posts"
 CACHE_FILE = Path(__file__).resolve().parent.parent / ".smart-retag-cache.json"
 
+# Refuse an unattended --untagged run larger than this without an explicit --limit.
+#
+# The cache is gitignored, so it exists only on the machine that built it. A fresh
+# clone, a new machine or a deleted cache file makes every post look unseen, and
+# --untagged runs from the daily pipeline where nobody is watching — so the failure
+# mode is a silent full-corpus re-extraction and the Gemini bill that comes with it.
+# Daily ingestion is 5-18 posts, so anything past this is not a normal day's work.
+UNTAGGED_RUNAWAY_LIMIT = 50
+
 # Tags that the regex taxonomy already handles — do NOT extract these as orgs
 TAXONOMY_ORGS = {
     "nvidia", "amd", "intel", "qualcomm", "apple", "microsoft", "google",
@@ -374,6 +383,17 @@ def map_extractions(extractions: list) -> tuple[list[str], list[dict]]:
 # Cache
 # ---------------------------------------------------------------------------
 
+# The cache doubles as the record of which posts have been through the extractor, so
+# it is keyed by post path rather than by content hash.
+#
+# Keying by hash could not survive a run: the hash was taken before extraction, then
+# update_frontmatter rewrote the file, so the key described a version of the post that
+# no longer existed on disk. Every entry was stale the moment it was written, which is
+# why 380 entries had accumulated against 2,034 posts. The stored hash is now the
+# post-write one, so "seen before and unchanged since" is answerable.
+#
+# Entries are {path: {"hash": ..., "tags": [...], "mentions": [...]}}.
+
 def load_cache(path: Path) -> dict:
     if path.exists():
         return json.loads(path.read_text())
@@ -382,6 +402,35 @@ def load_cache(path: Path) -> dict:
 
 def save_cache(path: Path, cache: dict):
     path.write_text(json.dumps(cache, indent=2) + "\n")
+
+
+def is_legacy_cache(cache: dict) -> bool:
+    """True for the old hash-keyed format, which has no "hash" field in its values."""
+    return bool(cache) and any(
+        not isinstance(v, dict) or "hash" not in v for v in cache.values()
+    )
+
+
+def seed_cache(posts: list[Path]) -> dict:
+    """Record the current corpus as already processed.
+
+    The legacy cache is keyed by pre-write hashes that no longer match anything on
+    disk, so its entries cannot be mapped back to posts and are discarded. Treating
+    the existing corpus as processed is the deliberate choice: these posts were
+    measured as carrying the same tag density whether or not the extractor found
+    entities in them, so re-running the whole archive through Gemini would spend the
+    budget to rewrite tags that are already there. --untagged exists to catch posts
+    that slip past the draft window from here on, not to re-litigate the archive.
+    Use --no-cache to force a genuine full re-run.
+    """
+    return {
+        str(p.relative_to(POSTS_DIR)): {
+            "hash": file_hash(p.read_text()),
+            "tags": [],
+            "mentions": [],
+        }
+        for p in posts
+    }
 
 
 def file_hash(content: str) -> str:
@@ -393,7 +442,15 @@ def file_hash(content: str) -> str:
 # ---------------------------------------------------------------------------
 
 def collect_posts(drafts_only: bool) -> list[Path]:
-    """Collect markdown posts, optionally filtering to drafts only."""
+    """Collect markdown posts, optionally filtering to drafts only.
+
+    --drafts-only is a one-shot window. generate-summaries.js flips every draft to
+    published as its last step, so a post is only selectable here between being
+    written and the next summaries run. Anything that misses that window — an n8n
+    publish that lands without a local retag, a failed batch, a post added by hand —
+    can never be picked up by this filter again. --untagged in main() exists for
+    exactly that case.
+    """
     posts = sorted(POSTS_DIR.rglob("*.md"))
     if drafts_only:
         posts = [p for p in posts if "status: draft" in p.read_text()[:2000]]
@@ -403,6 +460,8 @@ def collect_posts(drafts_only: bool) -> list[Path]:
 def main():
     parser = argparse.ArgumentParser(description="Smart semantic tagging for LocalFTW posts")
     parser.add_argument("--drafts-only", action="store_true", help="Only process draft posts")
+    parser.add_argument("--untagged", action="store_true",
+                        help="Process posts the extractor has never seen, regardless of status")
     parser.add_argument("--no-cache", action="store_true", help="Force reprocessing of all posts")
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing files")
     parser.add_argument("--batch-size", type=int, default=10, help="Posts per langextract batch")
@@ -418,27 +477,61 @@ def main():
         print("Error: GEMINI_API_KEY not found in .env", file=sys.stderr)
         sys.exit(1)
 
+    if args.drafts_only and args.untagged:
+        print("Error: --drafts-only and --untagged select different sets; pick one.",
+              file=sys.stderr)
+        sys.exit(1)
+
     # Collect posts
-    posts = collect_posts(args.drafts_only)
+    posts = collect_posts(args.drafts_only and not args.untagged)
     if not posts:
+        # Not an error: with no drafts outstanding there is nothing for --drafts-only
+        # to do, which is the normal state between a summaries run and the next
+        # ingestion. --untagged is the flag that still finds work here.
         print("No posts found to process.")
         return
 
     # Load cache
     cache = {} if args.no_cache else load_cache(CACHE_FILE)
 
-    # Filter to uncached posts
+    if cache and is_legacy_cache(cache):
+        cache = seed_cache(collect_posts(False))
+        if not args.dry_run:
+            save_cache(CACHE_FILE, cache)
+        print(f"Migrated cache to path-keyed format; seeded {len(cache)} posts as "
+              f"already processed. Use --no-cache to force a full re-run.")
+
+    # Filter to posts not already processed at their current content
     to_process = []
     for post_path in posts:
         content = post_path.read_text()
         h = file_hash(content)
-        if h in cache and not args.no_cache:
-            continue
-        to_process.append((post_path, content, h))
+        key = str(post_path.relative_to(POSTS_DIR))
+        if not args.no_cache:
+            entry = cache.get(key)
+            if entry and entry.get("hash") == h:
+                continue
+            if args.untagged and entry:
+                # --untagged asks for posts never seen, not posts edited since.
+                continue
+        to_process.append((post_path, content, h, key))
 
     if not to_process:
         print("All posts are cached. Use --no-cache to force reprocessing.")
         return
+
+    if args.untagged and not args.limit and len(to_process) > UNTAGGED_RUNAWAY_LIMIT:
+        print(
+            f"Error: --untagged selected {len(to_process)} posts, over the "
+            f"{UNTAGGED_RUNAWAY_LIMIT} expected for a normal run.\n"
+            f"The cache at {CACHE_FILE.name} is probably missing or was rebuilt, which "
+            f"makes every post look unseen.\n"
+            f"Re-run with --limit N to proceed deliberately. Note --dry-run still calls "
+            f"the API — it skips the write, not the extraction — so it is not a free "
+            f"way to inspect this.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
 
     if args.limit:
         total_uncached = len(to_process)
@@ -451,7 +544,7 @@ def main():
     for batch_start in range(0, len(to_process), args.batch_size):
         batch = to_process[batch_start:batch_start + args.batch_size]
         documents = []
-        for post_path, content, h in batch:
+        for post_path, content, h, key in batch:
             # Strip frontmatter for extraction — send only body text
             fm_match = FM_PATTERN.match(content)
             body = content[fm_match.end():] if fm_match else content
@@ -501,7 +594,7 @@ def main():
         if not isinstance(results, list):
             results = [results]
 
-        for (post_path, content, h), result in zip(batch, results):
+        for (post_path, content, h, key), result in zip(batch, results):
             tags, mentions = map_extractions(result.extractions)
 
             existing = get_existing_tags(FM_PATTERN.match(content).group(1))
@@ -519,6 +612,10 @@ def main():
             else:
                 updated = update_frontmatter(content, tags, mentions)
                 post_path.write_text(updated)
+                # Hash the written file, not the input. The cache records what is on
+                # disk now, so an unchanged post is skipped next run and an edited one
+                # is picked back up.
+                h = file_hash(updated)
                 if new_tags or mentions:
                     print(f"  {post_path.relative_to(POSTS_DIR)}")
                     if new_tags:
@@ -528,7 +625,7 @@ def main():
                             print(f"    + mention: {m['name']}")
 
             # Update cache
-            cache[h] = {"tags": tags, "mentions": mentions}
+            cache[key] = {"hash": h, "tags": tags, "mentions": mentions}
 
         # Save cache after each batch (crash-safe)
         if not args.dry_run:
