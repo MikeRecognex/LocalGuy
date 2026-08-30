@@ -783,6 +783,10 @@
     "2026-08-29": {
       "text": "AMD launches ROCm 10 with ROCm.AI, delivering 3.3× inference boost for local LLMs via Hyperloom agents.",
       "postCount": 5
+    },
+    "2026-08-30": {
+      "text": "vLLM’s decode context parallelism now powers multi‑GPU inference, while 4‑bit Qwen3.8‑27B runs on 16 GB cards.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -900,7 +904,7 @@
     },
     "2026-08-23": {
       "text": "",
-      "postCount": 30
+      "postCount": 35
     }
   }
 }

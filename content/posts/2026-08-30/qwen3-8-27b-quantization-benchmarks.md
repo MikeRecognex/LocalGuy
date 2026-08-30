@@ -3,11 +3,22 @@ title: "Benchmarking Qwen3.8 27B Quantizations: 4-bit Holds Up, 1-bit Collapses"
 date: 2026-08-30
 description: "Critical quantization analysis shows 4-bit quantization remains viable for Qwen3.8 27B on consumer hardware, while aggressive 1-bit quantization causes severe degradation. Essential guidance for practitioners optimizing large models for local deployment."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - local-deployment
+  - memory-optimization
+  - model-compression
+  - quantisation
   - qwen
-status: draft
+  - qwen3-8-27b
+mentions:
+  - name: Quesma
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Quantization is the most practical pathway to running large models on consumer GPUs, and this benchmark provides concrete data on where the tradeoffs lie. The finding that 4-bit quantization maintains reasonable quality while 1-bit approaches collapse has immediate implications for anyone trying to fit Qwen3.8's 27B parameters into 16GB VRAM or less.

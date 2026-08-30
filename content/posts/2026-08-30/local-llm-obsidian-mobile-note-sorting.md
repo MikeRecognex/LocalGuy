@@ -3,11 +3,17 @@ title: "Local LLM Paired with Obsidian on Mobile Eliminates Daily Note-Sorting H
 date: 2026-08-30
 description: "Real-world case study of integrating a local LLM with Obsidian on Android, demonstrating practical on-device AI for knowledge management without cloud dependencies or privacy concerns."
 tags:
-  - daily-digest
-  - on-device
   - android
+  - daily-digest
+  - edge-device
+  - knowledge-management
+  - mobile-inference
+  - obsidian
+  - on-device
   - privacy
-status: draft
+  - productivity-tools
+  - showcase
+status: published
 ---
 
 This use case exemplifies why practitioners choose local LLMs over cloud APIs: immediate responsiveness on mobile, zero data transmission, and cost elimination. Running inference directly on mobile devices eliminates the latency of network roundtrips and the privacy trade-offs of sending personal notes to external services. The combination of Obsidian (a popular open-source knowledge base) with local inference creates a compelling productivity workflow.

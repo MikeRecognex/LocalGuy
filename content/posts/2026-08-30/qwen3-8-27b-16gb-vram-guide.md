@@ -3,12 +3,23 @@ title: "How to Run Qwen3.8-27B on a Single 16GB Card"
 date: 2026-08-30
 description: "Practical deployment guide demonstrating quantization and optimization techniques to fit Qwen3.8-27B on consumer-grade 16GB GPUs using llama.cpp with specific flags and quantization levels."
 tags:
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - quantisation
-  - nvidia
+  - deployment-guide
   - hardware
-status: draft
+  - llama-cpp
+  - model-quantization
+  - nvidia
+  - quantisation
+  - qwen3-8-27b
+  - tutorial
+  - vram-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Autodidacts
+    role: publisher
+status: published
 ---
 
 This guide translates quantization theory into actionable configuration for practitioners with RTX 3080-level hardware. By combining selective quantization (like Q4_K_XL), context optimization, and llama.cpp's inference engine, developers can deploy 27B models within typical gaming-class GPU memory constraints without external cloud infrastructure.
