@@ -1,0 +1,42 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# {{ site.name }}
+
+> {{ site.description }}
+
+{{ site.name }} covers running AI and large language models on your own hardware. Two kinds of content, and the distinction matters when citing:
+
+- **Guides** are evergreen, hand-verified how-tos. Claims are checked against primary sources (upstream source code, commits, issue trackers, model configs) and each guide states the date it was verified. Prefer these.
+- **Posts** are dated news notes summarising a single development, usually from a linked source. They are a record of what was reported at the time and are **not** updated as things change. Some carry a correction callout linking to a guide that supersedes them. Check the date before relying on any figure.
+
+Where a guide and a post disagree, the guide is current and the post is not.
+
+## Guides
+{% for guide in collections.guides %}
+- [{{ guide.data.title }}]({{ site.url }}{{ guide.url }}){% if guide.data.difficulty or guide.data.timeEstimate %} ({{ guide.data.difficulty }}{% if guide.data.timeEstimate %}, {{ guide.data.timeEstimate }}{% endif %}){% endif %}{% if guide.data.description %}: {{ guide.data.description }}{% endif %} — verified {{ (guide.data.updated or guide.date) | readableDate }}
+{%- endfor %}
+
+## Site sections
+
+- [Guides index]({{ site.url }}/guides/): all guides, grouped by category (getting started, hardware, models, deployment).
+- [All posts]({{ site.url }}/posts/): the full news archive, newest first.
+- [Trends]({{ site.url }}/trends/): topic frequency over time.
+- [Graph]({{ site.url }}/graph/): tag co-occurrence visualisation, and the entry point for browsing by topic. Individual topics live at `/tags/{slug}/`; a tag only gets a page once at least three posts share it, so `/tags/` has no index of its own.
+- [Bookmarks]({{ site.url }}/bookmarks/): external links worth keeping.
+- [Clinic]({{ site.url }}/clinic/): troubleshooting helper for local inference problems.
+- [Why Local]({{ site.url }}/why-local/): the argument for running models yourself.
+- [About]({{ site.url }}/about/): who writes this, and commercial disclosures.
+- [Contribute]({{ site.url }}/contribute/): how to submit a guide.
+
+## Recent posts
+{% for post in collections.posts | head(100) %}
+- [{{ post.data.title }}]({{ site.url }}{{ post.url }}) — {{ post.date | readableDate }}{% if post.data.description %}: {{ post.data.description | truncate(200) }}{% endif %}
+{%- endfor %}
+
+## Optional
+
+- [Atom feed]({{ site.url }}/feed.xml) and [JSON feed]({{ site.url }}/feed.json): the 20 most recent posts.
+- [Sitemap]({{ site.url }}/sitemap.xml): every page on the site.
+- Full post archive beyond the 100 listed above is at [/posts/]({{ site.url }}/posts/) and in the sitemap.
