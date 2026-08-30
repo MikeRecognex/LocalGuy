@@ -10,6 +10,7 @@ _private/
 .mcp.json
 .venv/
 .smart-retag-cache.json
+.codebase-index-cache.pkl
 SMART-RETAG.md
 n8n/
 .env*.local
