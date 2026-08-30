@@ -626,6 +626,46 @@ article .mention-chip small {
   color: var(--color-muted, #888);
 }
 
+.related-posts {
+  margin: 2.5rem 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border, #ddd);
+}
+
+.related-posts h2 {
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-muted, #888);
+  margin: 0 0 0.75rem;
+}
+
+.related-posts ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.related-posts li {
+  margin-bottom: 0.6rem;
+}
+
+.related-posts a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.related-posts a:hover {
+  text-decoration: underline;
+}
+
+.related-posts time {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--color-muted, #888);
+}
+
 article .e-content {
   margin-bottom: 2rem;
 }

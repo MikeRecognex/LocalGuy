@@ -1,3 +1,52 @@
+# Related Posts — Internal Linking for SEO
+
+Prompted by a Vercel agent SEO review: ~2,034 posts, but zero post-to-post links
+(verified — no wikilinks anywhere in `content/posts`).
+
+## Why not naive tag overlap
+
+The corpus cannot support counting shared tags. Document frequency of the top tags:
+`daily-digest` 72%, `bullish` 66%, `developer` 66%, `intermediate` 63%, `open-source`
+38%. None describe subject matter — they are a pipeline artifact, sentiment, audience
+and difficulty. Overlap counting links everything to everything through those four.
+Separately, 4,211 of 6,039 tags (70%) sit on exactly one post and can never relate
+anything; only 1,133 tags reach 3+ posts.
+
+## Implementation
+
+- [x] `_data/related-posts.js` — IDF-weighted cosine similarity over tag sets
+  - `ln(N/df)` weighting so rare specific tags dominate and boilerplate contributes ~0
+  - cosine normalisation so heavily-tagged posts don't become everyone's match
+  - `DF_CEILING` 0.25 as a candidate-generation guard (not the ranking mechanism)
+  - `MIN_SHARED_TAGS` 2 — one rare shared tag scores high but is usually classifier noise
+  - deterministic tie-break (score → date → url)
+- [x] `_relatedPosts` collection + `relatedTo` filter in `eleventy.config.js`
+  - follows the existing `generatedTagSlugs` populate-then-read pattern
+  - candidates drawn from published posts only, never `allPosts`
+- [x] `<nav class="related-posts">` in `_includes/layouts/post.njk`, outside `<article>`
+- [x] `.related-posts` styles in `css/style.css`
+
+## Verification
+
+- [x] `npm run build` succeeds
+- [x] 2,012 / 2,028 posts have related links (16 below threshold)
+- [x] 7,982 internal links added; 1,981 posts get the full 4
+- [x] 0 broken links (every target resolves to a built `index.html`)
+- [x] 0 self-links
+- [x] Byte-identical output across two consecutive builds (determinism)
+- [x] Spot-checked relevance: GGUF quantisation → quantisation posts, dual-V100 rig →
+      GPU hardware posts, Jetson benchmark → device-benchmark posts
+
+## Follow-ups (not done)
+
+- Posts → guides linking. Higher SEO value (concentrates authority on the one
+  published guide) but changes what "related" means; deliberately deferred.
+- Near-duplicate content surfaced by the feature: "GGUF Quantization Deep Dive" and
+  "GGUF Quantization Compared" are the same story under different filenames. The
+  duplicate suppression in `posts.11tydata.js` only catches identical filenames.
+
+---
+
 # The Local LLM Clinic — RAG-Powered Q&A Feature
 
 ## Implementation

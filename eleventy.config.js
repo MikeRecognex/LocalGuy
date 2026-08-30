@@ -3,11 +3,13 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const wikilinks = require("markdown-it-wikilinks");
 const obsidianCallouts = require("markdown-it-obsidian-callouts");
 const suppressedTags = require("./_data/suppressed-tags.js");
+const { buildRelatedIndex } = require("./_data/related-posts.js");
 
 // Eleventy collection names. A post carrying one of these as a frontmatter tag joins
 // that collection rather than describing itself, so it must never get a /tags/ page.
 const RESERVED_TAGS = new Set([
   "posts", "all", "notes", "allPosts", "_validatePosts", "guides", "tagPages",
+  "_relatedPosts",
 ]);
 
 // A tag needs this many posts before it earns its own /tags/ page.
@@ -43,6 +45,12 @@ const generatedTagSlugs = new Set();
 // how `guides` (one post, glob-based collection, no page) became a 404.
 const linkable = (tags) =>
   eligible(tags).filter((t) => generatedTagSlugs.has(t.toLowerCase()));
+
+// Post url -> related posts, filled in by the _relatedPosts collection below and read
+// back by the relatedTo filter at render time. Same arrangement as generatedTagSlugs
+// above: Eleventy runs every collection before it renders any template, so the map is
+// populated by the time a template asks for it.
+const relatedByUrl = new Map();
 
 module.exports = function (eleventyConfig) {
   // --- Markdown plugins ---
@@ -210,6 +218,34 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Related posts, keyed by url. Side-effect only — nothing paginates over this, it
+  // just populates relatedByUrl for the relatedTo filter, which is why it carries the
+  // underscore prefix used by _validatePosts.
+  //
+  // Candidates come from the published set, not allPosts. allPosts keeps archived and
+  // (in dev) draft posts so their URLs survive, and linking to those from a published
+  // page would put drafts in front of readers and, in production, emit links to pages
+  // that were never built.
+  eleventyConfig.addCollection("_relatedPosts", function (collectionApi) {
+    const published = collectionApi
+      .getFilteredByGlob("content/posts/**/*.md")
+      .filter((item) => item.data.status === "published")
+      .filter((item) => item.data.eleventyExcludeFromCollections !== true);
+
+    relatedByUrl.clear();
+    for (const [url, items] of buildRelatedIndex(published, eligible)) {
+      relatedByUrl.set(url, items);
+    }
+
+    const withRelated = [...relatedByUrl.values()].filter((r) => r.length > 0).length;
+    console.log(
+      `[related] ${withRelated}/${published.length} posts have related links ` +
+        `(${published.length - withRelated} below the shared-tag threshold).`
+    );
+
+    return [];
+  });
+
   // --- Filters ---
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -258,6 +294,8 @@ module.exports = function (eleventyConfig) {
 
   // Every tag that has a page. Use this anywhere a tag is rendered as a link.
   eleventyConfig.addFilter("linkableTags", linkable);
+
+  eleventyConfig.addFilter("relatedTo", (url) => relatedByUrl.get(url) || []);
 
   // Posts from the last N days (minimum 3 posts as fallback)
   eleventyConfig.addFilter("recentDays", (posts, days) => {

@@ -46,4 +46,22 @@ layout: layouts/base.njk
   </footer>
 </article>
 
+{# Outside <article> deliberately: these links are navigation about the post, not part
+   of its h-entry content, and nesting them would fold other posts' titles into this
+   one's microformat payload and its e-content. #}
+{% set related = page.url | relatedTo %}
+{% if related.length %}
+<nav class="related-posts" aria-labelledby="related-posts-heading">
+  <h2 id="related-posts-heading">Related posts</h2>
+  <ul>
+    {%- for post in related %}
+    <li>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+      <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+    </li>
+    {%- endfor %}
+  </ul>
+</nav>
+{% endif %}
+
 {% include "partials/comments.njk" %}
