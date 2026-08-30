@@ -12,6 +12,9 @@ tags:
 status: published
 ---
 
+> [!tip] There is a full guide for running this on local models
+> **[Running Prime Agent on a Local Model](/guides/prime-agent-local-models/)** — the `models.json` provider config for Ollama and vLLM, which `compat` flags matter for which backend, why auto-refine should be off before you trust it on a small model, and the telemetry and sandbox defaults worth changing. No Prime Intellect account required.
+
 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) has picked up 19,254 stars and 2,095 forks since its 8 May 2026 launch, on the back of Prime Intellect's $130M Series A. It is MIT-licensed TypeScript, and — unusually for a company-backed agent — it needs no account with the company that publishes it.
 
 Two design choices make it worth a look if you run models locally.
