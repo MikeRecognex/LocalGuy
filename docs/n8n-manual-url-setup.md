@@ -1,83 +1,185 @@
-# Manual URL trigger — n8n Cloud setup
+# Manual URL trigger — step-by-step setup
 
-Lets you hand the daily workflow a specific URL on demand instead of waiting for
-the `15 12 * * *` cron. Local side is `scripts/queue-url.js`; this file is the
-half that has to be pasted into n8n Cloud.
+Adds a second way to start the content workflow: hand it one specific URL, on
+demand, instead of waiting for the `15 12 * * *` cron and hoping your link wins one
+of the five slots.
 
-**Why a webhook and not the API:** n8n's public REST API manages workflows and
-reads executions, but has no endpoint that starts a run with a payload. A
-Webhook trigger node is the supported way to do this.
+The local half (`scripts/queue-url.js`, the `queue-url` skill) is already built and
+committed. This document is the half that has to be done by hand in the n8n Cloud
+editor.
 
-## How it joins the existing workflow
-
-```
-Daily 1215pm Trigger ─→ 3 feed nodes ─→ Merge All Feeds ─┐
-                                                          ├─→ Deduplicate & Prepare for AI
-Webhook (Manual URL) ─→ Shape Manual Article ────────────┘         │
-                                                                   ↓
-                                            Code in JavaScript → HTTP Request
-                                            → Format Obsidian Markdown
-                                            → Prepare GitHub Payload → Create a file
-```
-
-Two things forced this join point rather than something further downstream:
-
-1. **`Format Obsidian Markdown` calls `$('Deduplicate & Prepare for AI')` by name.**
-   If the manual branch skipped that node, the reference would resolve against a
-   node that never executed and the run would fail. So the manual branch must
-   route *through* it.
-2. **`Deduplicate & Prepare for AI` is where `articles_text` is built**, which is
-   the only thing the AI step ever sees.
-
-Adding a second trigger is safe: n8n only runs the branch descending from
-whichever trigger fired, so the cron path is unchanged.
-
-> [!warning] The relevance filter is not in the dedupe node
-> It's in the prompt — `Select the TOP 5 most important stories` … `Return ONLY a
-> valid JSON array of 5 objects`. Sending one manual article through that prompt
-> asks the model for five stories out of one, which is how you get four
-> hallucinated filler posts. **Step 3 below is not optional.**
+**Time:** about 30 minutes. **Risk:** you are editing the workflow that publishes
+the site's daily content. Part 1 takes a backup before anything else — don't skip it.
 
 ---
 
-## 1. New node — `Webhook (Manual URL)`
+## Contents
 
-Type: **Webhook**
+- [What you are building](#what-you-are-building)
+- [Part 1 — Back up the workflow](#part-1--back-up-the-workflow-do-this-first)
+- [Part 2 — Check for drift](#part-2--check-for-drift)
+- [Part 3 — Add the Webhook trigger](#part-3--add-the-webhook-trigger)
+- [Part 4 — Add the Shape Manual Article node](#part-4--add-the-shape-manual-article-node)
+- [Part 5 — Wire the connections](#part-5--wire-the-connections)
+- [Part 6 — Fix the prompt node](#part-6--fix-the-prompt-node)
+- [Part 7 — Mark manual drafts](#part-7--mark-manual-drafts)
+- [Part 8 — Activate and get the URL](#part-8--activate-and-get-the-url)
+- [Part 9 — Fill in .env](#part-9--fill-in-env)
+- [Part 10 — Test](#part-10--test)
+- [Troubleshooting](#troubleshooting)
+- [Rollback](#rollback)
+- [Known limitations](#known-limitations)
 
-| Setting | Value |
+---
+
+## What you are building
+
+The workflow today:
+
+```
+Daily 1215pm Trigger ─┬─→ Hacker News RSS ──→ Parse HN RSS ──────┐
+                      ├─→ Reddit r/LocalLLaMA → Parse Reddit ────┼─→ Merge All Feeds
+                      └─→ RSS Read ─────────→ Parse Google News ─┘        │
+                                                                          ↓
+                                                       Deduplicate & Prepare for AI
+                                                                          ↓
+                                             Code in JavaScript  (builds the prompt)
+                                                                          ↓
+                                                    HTTP Request  (calls Claude)
+                                                                          ↓
+                                                   Format Obsidian Markdown
+                                                                          ↓
+                                                     Prepare GitHub Payload
+                                                                          ↓
+                                                           Create a file
+```
+
+What you're adding — two new nodes joining an existing one:
+
+```
+Webhook (Manual URL) ──→ Shape Manual Article ──→ Deduplicate & Prepare for AI
+                                                   (everything downstream reused)
+```
+
+Adding a second trigger is safe. n8n only executes the branch descending from
+whichever trigger fired, so a cron run never touches the webhook nodes and vice versa.
+
+### Two constraints that dictated this design
+
+Worth understanding before you start, because both fail in confusing ways.
+
+**1. The join point is not negotiable.** `Format Obsidian Markdown` contains this:
+
+```js
+const originalArticles = JSON.parse(
+  $('Deduplicate & Prepare for AI').first().json.articles_text
+);
+```
+
+It looks that node up **by name**. If the manual branch joined further downstream,
+that node wouldn't have executed and the reference fails. So the manual branch must
+route *through* `Deduplicate & Prepare for AI`.
+
+**2. The relevance filter is not a node — it's prompt text.** It's tempting to
+assume `Deduplicate & Prepare for AI` does the filtering. It doesn't; it dedupes by
+title and builds a JSON blob. The actual selection happens inside the prompt in
+`Code in JavaScript`:
+
+> Select the **TOP 5** most important stories … Return ONLY a valid JSON array of **5 objects**
+
+Send one manual article through that and you are asking the model to pick 5 from a
+list of 1 and return 5 objects. It will comply by **inventing four**. This pipeline
+already has a documented history of fabricating publisher domains, so this is a
+realistic failure, not a theoretical one — and the output goes straight to a public
+repo. **Part 6 is the step that prevents it. Do not skip it.**
+
+---
+
+## Part 1 — Back up the workflow (do this first)
+
+1. Open n8n Cloud and the workflow **`Daily Local LLM News → Obsidian`**.
+2. Top-right menu (the `⋯`) → **Download**. This saves a `.json` export.
+3. Move it somewhere you'll find it:
+
+```bash
+mkdir -p ~/Backups
+mv ~/Downloads/Daily*Local*LLM*News*.json ~/Backups/n8n-daily-news-$(date +%Y%m%d).json
+ls -la ~/Backups/n8n-daily-news-*.json
+```
+
+This is your rollback point. If anything goes wrong you can import it and be back
+where you started.
+
+## Part 2 — Check for drift
+
+The copy in `n8n/daily-local-llm-news.json` is an export from **2 August**. If the
+live workflow has changed since, instructions below that say "replace this node"
+could silently revert your later edits.
+
+Compare your fresh backup against it:
+
+```bash
+cd /Users/michaeldoyle/Scratch/LocalGuy
+python3 - <<'PY'
+import json, glob, os
+live = sorted(glob.glob(os.path.expanduser('~/Backups/n8n-daily-news-*.json')))[-1]
+old  = 'n8n/daily-local-llm-news.json'
+def nodes(p):
+    return {n['name']: n.get('parameters', {}).get('jsCode', '') for n in json.load(open(p))['nodes']}
+a, b = nodes(old), nodes(live)
+print('comparing against:', live, '\n')
+for name in sorted(set(a) | set(b)):
+    if name not in a:   print(f'  NEW in live:      {name}')
+    elif name not in b: print(f'  GONE from live:   {name}')
+    elif a[name] != b[name]: print(f'  *** CHANGED ***   {name}')
+    else:               print(f'  unchanged:        {name}')
+PY
+```
+
+- If `Code in JavaScript` says **unchanged** — paste the Part 6 code as-is.
+- If it says **CHANGED** — stop, and merge the branching into *your* version rather
+  than overwriting it. The change is small and described at the end of Part 6.
+
+## Part 3 — Add the Webhook trigger
+
+1. In the editor, click **+** (top right) to open the node panel.
+2. Search **Webhook**, add it. It appears as a trigger node.
+3. Rename it to **`Webhook (Manual URL)`** — double-click the title in the node's
+   detail view.
+4. Set these parameters:
+
+| Field | Value |
 |---|---|
 | HTTP Method | `POST` |
 | Path | `manual-url` |
 | Authentication | **Header Auth** |
 | Respond | **Immediately** |
 
-Create the Header Auth credential with:
+**Respond = Immediately** matters. A full run takes a while (page fetch → Claude →
+GitHub commit); the CLI only needs confirmation the job was accepted. Leave it on
+the default and the CLI sits there until the whole run finishes or the request
+times out.
 
-- Name: `x-manual-queue-secret`
-- Value: a long random string — generate with `openssl rand -hex 32`
+5. Next to **Authentication**, click **Create new credential**. Type is **Header
+   Auth**. Two fields:
 
-Then put that same value, and the node's **Production** URL, into `.env`:
+   - **Name:** `x-manual-queue-secret`
+   - **Value:** the secret already in your `.env`:
 
+```bash
+grep N8N_MANUAL_WEBHOOK_SECRET .env | cut -d= -f2
 ```
-N8N_MANUAL_WEBHOOK_URL=https://<your-instance>.app.n8n.cloud/webhook/manual-url
-N8N_MANUAL_WEBHOOK_SECRET=<the random string>
-```
 
-`.env` is gitignored (`.gitignore:7`). Use the Production URL, not the Test URL —
-the Test URL only listens while you have the editor open on "Listen for test event".
-Production requires the workflow to be **Active**.
+   Name the credential something like `LocalGuy manual queue` and save.
 
-Respond "Immediately" matters: the full run takes a while, and the CLI only needs
-to know the webhook accepted the job.
+   The header name must match exactly — `scripts/queue-url.js` sends
+   `x-manual-queue-secret` and nothing else.
 
-## 2. New node — `Shape Manual Article`
+## Part 4 — Add the Shape Manual Article node
 
-Type: **Code**, mode **Run Once for All Items**.
-Connect: `Webhook (Manual URL)` → this node → `Deduplicate & Prepare for AI`.
-
-The AI step never fetches the article — it writes from the title and snippet
-alone. So this node pulls the page's `<title>` and meta description to give it
-something real to work from.
+1. Add a **Code** node. Rename it to **`Shape Manual Article`**.
+2. Set **Mode** to **Run Once for All Items** (usually the default).
+3. Replace the entire contents with:
 
 ```js
 const payload = $input.first().json.body || $input.first().json;
@@ -130,14 +232,41 @@ return [{
 }];
 ```
 
-`source: 'Manual'` is load-bearing — it survives untouched through
-`Deduplicate & Prepare for AI` and is what steps 3 and 4 branch on. No change to
-the dedupe node is needed.
+Three things about this node:
 
-## 3. Edit — `Code in JavaScript` (the prompt)
+- **It fetches the page.** The AI step never opens the article — it writes from
+  title and snippet alone. Pulling the real `<title>` and meta description is what
+  makes the draft resemble the actual thing. If the fetch fails it logs and carries
+  on rather than aborting.
+- **`source: 'Manual'` is load-bearing.** It passes untouched through
+  `Deduplicate & Prepare for AI` and is what Parts 6 and 7 branch on. No change to
+  the dedupe node is needed anywhere.
+- **The output shape must match the feed parsers**, because it feeds the same node
+  they do.
 
-Replace the whole node with this. The only change is that the task block now
-branches on whether the batch is a single manual article.
+## Part 5 — Wire the connections
+
+Drag from each node's output dot to the next node's input dot:
+
+1. `Webhook (Manual URL)` → `Shape Manual Article`
+2. `Shape Manual Article` → **`Deduplicate & Prepare for AI`**
+
+`Deduplicate & Prepare for AI` now has two incoming connections — one from
+`Merge All Feeds`, one from `Shape Manual Article`. That's correct and expected.
+
+**Change nothing else.** The cron's existing wiring stays exactly as it is.
+
+> Checkpoint: `Daily 1215pm Trigger` should still connect to all three feed nodes,
+> and `Merge All Feeds` should still connect to `Deduplicate & Prepare for AI`. If
+> you accidentally detached something, undo (Cmd-Z) before continuing.
+
+## Part 6 — Fix the prompt node
+
+This is the step that stops four invented posts. Check Part 2 before pasting.
+
+Open the node named literally **`Code in JavaScript`** — the default name, never
+renamed. It sits between `Deduplicate & Prepare for AI` and `HTTP Request`, and it
+builds the Claude prompt. Replace its entire contents:
 
 ```js
 const input = $input.first().json;
@@ -212,11 +341,27 @@ ${closing}`
 return [{ json: { requestBody: JSON.stringify(body) } }];
 ```
 
-## 4. Edit — `Format Obsidian Markdown`
+**What actually changed**, if you need to merge this by hand instead:
 
-Two small changes so manual drafts are auditable.
+1. Added `const list = input.articles || [];` and
+   `const isManual = list.length === 1 && list[0].source === 'Manual';`
+2. Pulled the `TASK:` paragraph out into a `task` variable with two branches.
+3. Pulled the final `Return ONLY…` paragraph out into a `closing` variable with two
+   branches.
+4. Made the intro line and the `Prioritise:` block conditional inline.
 
-**a.** Find the frontmatter array near the end and add the `origin` line:
+`isManual` requires **both** exactly one article **and** `source === 'Manual'`, so
+it cannot fire on a cron run. On the cron path this generates a prompt
+byte-identical to the 2 August version — model, `max_tokens` and text all verified
+by executing both versions and diffing the resulting API body.
+
+## Part 7 — Mark manual drafts
+
+So you can tell hand-picked drafts from cron ones.
+
+### 7a. `Format Obsidian Markdown` — two additions
+
+Find the frontmatter array near the end of the node and add the `origin` line:
 
 ```js
       const markdown = [
@@ -227,11 +372,11 @@ Two small changes so manual drafts are auditable.
         'tags:',
         tagsYaml,
         'status: draft',
-        ...(originalArticle?.source === 'Manual' ? ['origin: manual'] : []),   // <-- add
+        ...(originalArticle?.source === 'Manual' ? ['origin: manual'] : []),   // <-- add this line
         '---',
 ```
 
-**b.** In the same loop, add `manual` to the pushed object:
+Then, a few lines below in the same loop, add `manual` to the pushed object:
 
 ```js
       output.push({
@@ -240,12 +385,12 @@ Two small changes so manual drafts are auditable.
           filepath,
           title: story.title,
           markdown,
-          manual: originalArticle?.source === 'Manual',   // <-- add
+          manual: originalArticle?.source === 'Manual',   // <-- add this line
         }
       });
 ```
 
-## 5. Edit — `Prepare GitHub Payload`
+### 7b. `Prepare GitHub Payload` — replace entirely
 
 ```js
   const items = $input.all();
@@ -264,25 +409,105 @@ Two small changes so manual drafts are auditable.
   return output;
 ```
 
-## 6. Test before trusting it
+## Part 8 — Activate and get the URL
 
-1. Save, and make sure the workflow is **Active** (Production webhooks 404 otherwise).
-2. `node scripts/queue-url.js add <some url> --title "..."`
-3. `node scripts/queue-url.js run 1`
-4. In n8n, open **Executions** and confirm one run, one item through
-   `Format Obsidian Markdown` — **not five**. If you see five, step 3 didn't take.
-5. `git pull` and check the new file has `origin: manual` and `status: draft`.
+1. **Save** the workflow.
+2. Toggle it **Active** (top right). Production webhooks return 404 while inactive.
+3. Open `Webhook (Manual URL)` and copy the **Production URL**. It looks like:
 
-Drafts land in `content/posts/<today>/` with `status: draft`, so nothing publishes
-until you flip the status yourself.
+```
+https://<your-instance>.app.n8n.cloud/webhook/manual-url
+```
 
-## Known rough edges
+> **Production, not Test.** The Test URL (`/webhook-test/...`) only listens while
+> you have the editor open with "Listen for test event" clicked, and it fires once.
+> Copying the Test URL is the most common mistake here.
 
-- **Tag.** Manual drafts still get the `daily-digest` tag from the existing tag
-  builder. Harmless, but inaccurate — change `const tags = ['daily-digest']` in
-  `Format Obsidian Markdown` if it bothers you. It affects tag pages, so check the
-  3-post threshold before splitting the tag.
-- **Dedupe against existing posts.** There is none. Queue a URL you've already
-  covered and you'll get a second post about it.
-- **Paywalled or JS-rendered pages** return little useful HTML, so the fetch in
-  step 2 falls back to hostname. Pass `--title` and `--note` for those.
+## Part 9 — Fill in .env
+
+`.env` already has the secret and a commented placeholder. Fill it in:
+
+```bash
+cd /Users/michaeldoyle/Scratch/LocalGuy
+# replace the host with your own
+sed -i '' 's|^# N8N_MANUAL_WEBHOOK_URL=.*|N8N_MANUAL_WEBHOOK_URL=https://YOUR-INSTANCE.app.n8n.cloud/webhook/manual-url|' .env
+grep -c 'N8N_MANUAL_WEBHOOK_URL=https' .env    # expect 1
+```
+
+`.env` is gitignored (`.gitignore:7`). Never commit it.
+
+## Part 10 — Test
+
+Use a real article you'd genuinely publish — this commits to the public repo.
+
+```bash
+node scripts/queue-url.js add "https://example.com/article" --title "A real headline"
+node scripts/queue-url.js list
+node scripts/queue-url.js run 1
+```
+
+Expected output: `-> #1 https://... accepted`.
+
+Now verify, in order. **Check each before moving on.**
+
+| # | Where | Expect |
+|---|---|---|
+| 1 | CLI | `accepted`, not an error |
+| 2 | n8n → **Executions** | one new execution, status Success |
+| 3 | That execution → `Shape Manual Article` | one item out, real `title`, `source: "Manual"` |
+| 4 | That execution → `Format Obsidian Markdown` | **1 item out — not 5** |
+| 5 | `git pull` | one new file in `content/posts/<today>/` |
+| 6 | The file | has `status: draft` **and** `origin: manual` |
+| 7 | Commit message | starts `Add draft (manual):` |
+
+**Step 4 is the one that matters.** Five items means Part 6 didn't apply — stop,
+delete the drafts it created, and re-check that node.
+
+```bash
+git pull --quiet && grep -rl 'origin: manual' content/posts | tail -3
+```
+
+The draft is `status: draft`, so nothing appears on the site until you change it to
+`published` yourself.
+
+## Troubleshooting
+
+| Symptom | Cause | Fix |
+|---|---|---|
+| `404` from the webhook | Workflow inactive, or Test URL used | Activate; use the Production URL |
+| `403` / `401` | Header name or secret mismatch | Credential name must be exactly `x-manual-queue-secret`; re-copy the value from `.env` |
+| CLI hangs, then times out | Webhook **Respond** isn't "Immediately" | Change it in the Webhook node |
+| `Missing N8N_MANUAL_WEBHOOK_URL...` | `.env` not filled in | Part 9 |
+| Execution fails in `Format Obsidian Markdown` with a `$(...)` error | Manual branch bypasses `Deduplicate & Prepare for AI` | Re-wire per Part 5 |
+| **Five drafts from one URL** | Part 6 not applied | Re-paste the prompt node; delete the invented posts |
+| Draft title is a bare hostname | Page fetch failed (paywall / JS-rendered) | Pass `--title` and `--note` when queueing |
+| `Manual queue: missing or invalid url` | Webhook body not reaching the node | Check the execution's Webhook node output for a `body` property |
+
+## Rollback
+
+If the daily cron breaks, restore the Part 1 backup:
+
+1. n8n → **Workflows** → **Import from File**, select `~/Backups/n8n-daily-news-*.json`.
+2. Re-activate.
+
+Then confirm the cron recovers by counting drafts per day:
+
+```bash
+git log --format='%ad %s' --date=short | grep 'Add draft' | awk '{print $1}' | uniq -c | head
+```
+
+Normal output is roughly 10 drafts/day. Nothing on the day after a change means the
+workflow is failing — check n8n's execution history rather than git.
+
+## Known limitations
+
+- **No dedupe against published posts.** Queue a URL you've already covered and
+  you'll get a second post about it. The `queue-url` skill greps `content/posts`
+  first; the raw CLI does not.
+- **Manual drafts still get the `daily-digest` tag** from the existing tag builder
+  in `Format Obsidian Markdown`. Inaccurate but harmless. If you change it, note
+  that tag pages need 3+ posts, so a lone `manual` tag won't get one.
+- **The AI never reads the article** — only the title and meta description. A thin
+  source page produces a thin draft. That's inherent to the pipeline, not to this
+  change.
+- **No retry.** A failed dispatch leaves the entry `pending`; run it again.
