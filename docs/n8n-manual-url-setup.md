@@ -37,10 +37,14 @@ the site's daily content. Part 1 takes a backup before anything else — don't s
 The workflow today:
 
 ```
-Daily 1215pm Trigger ─┬─→ Hacker News RSS ──→ Parse HN RSS ──────┐
-                      ├─→ Reddit r/LocalLLaMA → Parse Reddit ────┼─→ Merge All Feeds
-                      └─→ RSS Read ─────────→ Parse Google News ─┘        │
-                                                                          ↓
+Daily 1215pm Trigger ─┬─→ RSS Read  (Google News) → Parse Google News ─┐
+                      ├─→ HFNode    (Hacker News) ───────────────────  ┤
+                      ├─→ RSS Read1 (HF blog) ────→ Code in JavaScript1┤
+                      ├─→ RSS Read2 (llama.cpp) ──→ Code in JavaScript2┼→ Merge All Feeds
+                      ├─→ RSS Read3 (Ollama) ─────→ Code in JavaScript3┤        │
+                      ├─→ RSS Read4 (vLLM) ───────→ Code in JavaScript4┤        │
+                      └─→ RSS Read5 (Simon W.) ───→ Code in JavaScript5┘        │
+                                                                                ↓
                                                        Deduplicate & Prepare for AI
                                                                           ↓
                                              Code in JavaScript  (builds the prompt)
@@ -112,9 +116,10 @@ where you started.
 
 ## Part 2 — Check for drift
 
-The copy in `n8n/daily-local-llm-news.json` is an export from **2 August**. If the
-live workflow has changed since, instructions below that say "replace this node"
-could silently revert your later edits.
+The copy in `n8n/daily-local-llm-news.json` is a local, gitignored export — last
+refreshed **31 August 2026**, which is what the code in this guide was built against.
+If the live workflow has changed since, instructions below that say "replace this
+node" could silently revert your later edits.
 
 Compare your fresh backup against it:
 
@@ -136,9 +141,22 @@ for name in sorted(set(a) | set(b)):
 PY
 ```
 
-- If `Code in JavaScript` says **unchanged** — paste the Part 6 code as-is.
-- If it says **CHANGED** — stop, and merge the branching into *your* version rather
-  than overwriting it. The change is small and described at the end of Part 6.
+### Reading the output
+
+The one line that matters is the one for **`Code in JavaScript`**. That is the node
+Part 6 asks you to overwrite, so it's the only place where a stale copy could
+destroy work you've done since 2 August.
+
+- **`unchanged`** — your live node still matches the repo. When you reach Part 6 you
+  can paste its code over the top without losing anything.
+- **`*** CHANGED ***`** — you have edited that node since. Do **not** paste over it.
+  Part 6 ends with a short list of exactly what its code adds, so you can apply those
+  additions to your own version by hand.
+
+Any other node showing `CHANGED`, `NEW` or `GONE` is fine to ignore for now — nothing
+in this guide overwrites them wholesale.
+
+Nothing to do in n8n for this part. Once you've read the output, continue to Part 3.
 
 ## Part 3 — Add the Webhook trigger
 
@@ -256,13 +274,17 @@ Drag from each node's output dot to the next node's input dot:
 
 **Change nothing else.** The cron's existing wiring stays exactly as it is.
 
-> Checkpoint: `Daily 1215pm Trigger` should still connect to all three feed nodes,
-> and `Merge All Feeds` should still connect to `Deduplicate & Prepare for AI`. If
-> you accidentally detached something, undo (Cmd-Z) before continuing.
+Note you are joining **`Deduplicate & Prepare for AI`**, not `Merge All Feeds`. The
+merge node's inputs are reserved for the cron's feeds — don't add an eighth.
+
+> Checkpoint: `Daily 1215pm Trigger` should still connect to all seven feed branches
+> (`RSS Read`, `RSS Read1`–`RSS Read5`, `HFNode`), and `Merge All Feeds` should still
+> connect to `Deduplicate & Prepare for AI`. If you accidentally detached something,
+> undo (Cmd-Z) before continuing.
 
 ## Part 6 — Fix the prompt node
 
-This is the step that stops four invented posts. Check Part 2 before pasting.
+This is the step that stops four invented posts.
 
 Open the node named literally **`Code in JavaScript`** — the default name, never
 renamed. It sits between `Deduplicate & Prepare for AI` and `HTTP Request`, and it
@@ -273,22 +295,18 @@ const input = $input.first().json;
 const articles = input.articles_text;
 const list = input.articles || [];
 
+// A manual run arrives as exactly one hand-picked item.
 const isManual = list.length === 1 && list[0].source === 'Manual';
 
 const task = isManual
-  ? `TASK:
-Write ONE post about the single article above. It was selected by hand, so do not
-judge whether it is worth covering — cover it. Return a JSON array containing
-exactly ONE object with ALL of these fields:`
-  : `TASK:
-Select the TOP 5 most important stories about LOCAL LLM deployment. For each, return a JSON
-object with ALL of these fields:`;
+  ? `TASK: Write ONE post about the single article above. It was picked by hand, so do not judge whether it is worth covering — cover it. Return a JSON array containing exactly ONE object with ALL of these fields:`
+  : `TASK: Select the TOP 5 most important stories about LOCAL LLM deployment. For each, return a JSON object with ALL of these fields:`;
 
 const closing = isManual
-  ? `Return ONLY a valid JSON array containing exactly 1 object. No wrapping object, no
-markdown fences, no commentary outside the array.`
-  : `Return ONLY a valid JSON array of 5 objects. No wrapping object, no markdown fences, no
-commentary outside the array.`;
+  ? `Only use what is in the article entry above. If the title and snippet do not tell you something, leave it out — do not infer version numbers, benchmark figures, dates or company names that are not present.
+
+Return ONLY a valid JSON array containing exactly 1 object. No wrapping object, no markdown fences, no commentary outside the array.`
+  : `Return ONLY a valid JSON array of 5 objects. No wrapping object, no markdown fences, no commentary outside the array.`;
 
 const body = {
   model: "claude-haiku-4-5-20251001",
@@ -296,42 +314,31 @@ const body = {
   messages: [
     {
       role: "user",
-      content: `You are a senior AI/ML engineer curating a daily digest about deploying and
-running LLMs locally (on-device, self-hosted, edge inference).
+      content: `You are a senior AI/ML engineer curating a daily digest about deploying and running LLMs locally (on-device, self-hosted, edge inference).
 
-${isManual ? 'Here is an article selected by hand for coverage:' : "Here are today's collected articles from Google News, Hacker News, and Reddit r/LocalLLaMA:"}
+Here are today's collected articles:
 
 ${articles}
 
 ${task}
 
-- source_index: The "index" number of the article you are writing about. This MUST match
-exactly one of the index values from the list above. This is critical for linking to the
-correct source.
-- slug: URL-safe slug (lowercase, hyphens, no special chars, max 60 chars). Example:
-"llama-cpp-adds-mcp-support"
+- source_index: The "index" number of the article you are writing about. This MUST match exactly one of the index values from the list above. This is critical for linking to the correct source.
+- slug: URL-safe slug (lowercase, hyphens, no special chars, max 60 chars). Example: "llama-cpp-adds-mcp-support"
 - title: Clear headline (plain text, properly capitalised)
-- description: 1-2 sentence summary for RSS feeds and meta descriptions (plain text, no
-markdown)
-- tags: Array of 2-4 lowercase tag strings relevant to the story (e.g. "llama-cpp",
-"hardware", "quantisation", "ollama", "benchmark", "fine-tuning", "mlx", "open-source",
-"mcp", "agents", "memory-optimization")
-- source_name: Short source name (e.g. "r/LocalLLaMA", "Hacker News", "Google News")
+- description: 1-2 sentence summary for RSS feeds and meta descriptions (plain text, no markdown)
+- tags: Array of 2-4 lowercase tag strings. Tags MUST be specific technical topics like "llama-cpp", "hardware", "quantisation", "ollama", "benchmark", "fine-tuning", "mlx", "open-source", "mcp", "agents", "memory-optimization", "vllm", "gguf", "apple-silicon", "amd", "nvidia", "rag", "context-window", "speculative-decoding". Do NOT use generic category tags like "developer", "bullish", "intermediate", "analysis", "showcase", "case-study", "beginner", "advanced", "tutorial", "news", "opinion".
+- source_name: Copy the "source" value of that article exactly as it appears in the list above. Do not invent or reword it.
 - relevance_score: 1-10 rating
-- body_markdown: 2-3 paragraphs of markdown. Explain what happened and why it matters for
-local LLM practitioners. Do NOT include any links to the source article in body_markdown —
-the source link will be added automatically. Do NOT include any frontmatter or YAML — only
-the post body.
+- body_markdown: 2-3 paragraphs of markdown. Explain what happened and why it matters for local LLM practitioners. Do NOT include any links to the source article in body_markdown — the source link will be added automatically. Do NOT include any frontmatter or YAML — only the post body.
 
-IMPORTANT: Do NOT return source_url. Return source_index instead — the exact index number
-from the article list above. The system will resolve the correct URL automatically.
+IMPORTANT: Do NOT return source_url. Return source_index instead — the exact index number from the article list above. The system will resolve the correct URL automatically.
 
-${isManual ? 'Write only about the article given. Do not invent additional stories.' : `Prioritise:
+Prioritise:
 - New model releases optimised for local/edge deployment
 - Performance breakthroughs (quantisation, inference speed, memory reduction)
 - New tools/frameworks (Ollama, llama.cpp, vLLM, MLX, ExLlama updates)
 - Practical deployment guides and benchmarks
-- Hardware developments relevant to local inference`}
+- Hardware developments relevant to local inference
 
 ${closing}`
     }
@@ -341,19 +348,45 @@ ${closing}`
 return [{ json: { requestBody: JSON.stringify(body) } }];
 ```
 
-**What actually changed**, if you need to merge this by hand instead:
+### What this changes on the cron path
 
-1. Added `const list = input.articles || [];` and
-   `const isManual = list.length === 1 && list[0].source === 'Manual';`
-2. Pulled the `TASK:` paragraph out into a `task` variable with two branches.
-3. Pulled the final `Return ONLY…` paragraph out into a `closing` variable with two
-   branches.
-4. Made the intro line and the `Prioritise:` block conditional inline.
+Two lines, both deliberate. Verified by executing the live node and this one against
+identical input and diffing the resulting prompt — nothing else differs:
 
-`isManual` requires **both** exactly one article **and** `source === 'Manual'`, so
-it cannot fire on a cron run. On the cron path this generates a prompt
-byte-identical to the 2 August version — model, `max_tokens` and text all verified
-by executing both versions and diffing the resulting API body.
+| | Was | Now |
+|---|---|---|
+| Source list | "collected articles from Google News, Hacker News, and Reddit r/LocalLLaMA" | "collected articles" |
+| `source_name` | `Short source name (e.g. "r/LocalLLaMA", ...)` | `Copy the "source" value of that article exactly` |
+
+Reddit hasn't been a feed since April; the workflow now reads Google News, Hacker
+News, the Hugging Face blog, Simon Willison, and the llama.cpp / Ollama / vLLM
+release feeds. Naming three sources — one of them retired — invited the model to
+label posts from memory. Pointing it at each item's own `source` field removes the
+guesswork. `model` and `max_tokens` are untouched.
+
+The **tags** instruction is preserved verbatim, including the expanded technical tag
+list and the ban on generic category tags.
+
+### If you have edited this node since 31 August
+
+The code above was rebuilt on an export taken that day. Re-run the Part 2 drift check
+first; if `Code in JavaScript` reports `CHANGED` again, apply these four edits to your
+version by hand rather than pasting:
+
+1. Add at the top:
+   ```js
+   const input = $input.first().json;
+   const articles = input.articles_text;
+   const list = input.articles || [];
+   const isManual = list.length === 1 && list[0].source === 'Manual';
+   ```
+2. Pull the `TASK:` paragraph into a `task` variable with two branches.
+3. Pull the final `Return ONLY…` paragraph into a `closing` variable with two branches,
+   adding the "do not infer version numbers" clause to the manual branch.
+4. Interpolate `${task}` and `${closing}` where those paragraphs used to be.
+
+`isManual` requires **both** exactly one article **and** `source === 'Manual'`, so it
+cannot fire on a cron run.
 
 ## Part 7 — Mark manual drafts
 

@@ -24,7 +24,7 @@ LocalFTW pulls together the news, guides, and projects that matter to people run
 
 Two kinds of content, made two different ways. The difference matters if you're deciding how much weight to put on something here.
 
-**News posts are drafted automatically.** A daily workflow pulls from Hacker News, Reddit's r/LocalLLaMA and Google News, and a language model writes a short summary of the items it picks — working from each item's headline and the source's own description, not from the full article. Drafts are reviewed before they go live, and every post carries its source link and its date. They're a record of what was reported at the time, not independent reporting, and they aren't updated as things change.
+**News posts are drafted automatically.** A daily workflow pulls from Hacker News, Google News, the Hugging Face blog, Simon Willison's blog, and the release feeds for llama.cpp, Ollama and vLLM. A language model then writes a short summary of the items it picks — working from each item's headline and the source's own description, not from the full article. Drafts are reviewed before they go live, and every post carries its source link and its date. They're a record of what was reported at the time, not independent reporting, and they aren't updated as things change.
 
 **Guides are written and verified by hand.** Claims are checked against primary sources — upstream code, commits, issue trackers, model configs — and each guide states the date it was verified. Where a guide and an older post disagree, the guide is the current one.
 
