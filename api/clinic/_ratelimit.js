@@ -9,7 +9,6 @@ const WINDOW = 3600 // 1 hour in seconds
 const LIMIT = 10
 const LOG_KEY = 'clinic:log'
 const LOG_MAX = 1000
-const LOG_TTL = 604800 // 7 days
 
 export async function checkRateLimit(req) {
   const ip = req.headers['x-forwarded-for']?.split(',')[0]?.trim()
@@ -49,9 +48,10 @@ export async function logQuery(ip, question, rateLimited) {
     q: question.slice(0, 500),
     blocked: rateLimited
   })
+  // No TTL: the log is a long-run record of what people ask, so it should not
+  // expire during quiet weeks. ltrim caps it at LOG_MAX, so it stays bounded.
   await redis.lpush(LOG_KEY, entry)
   await redis.ltrim(LOG_KEY, 0, LOG_MAX - 1)
-  await redis.expire(LOG_KEY, LOG_TTL)
 }
 
 async function fireAbuseAlert(ip, count) {
