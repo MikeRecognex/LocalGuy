@@ -11,7 +11,8 @@ Input: `$ARGUMENTS` — a URL to queue, or `list`, or `run <id>` / `run --all`.
 
 The daily workflow fires on cron at 12:15. This path lets a hand-picked URL go
 through the same drafting and GitHub-commit nodes on demand. Local queue is
-`n8n/url-queue.json` (gitignored); dispatch POSTs to a Webhook trigger in n8n Cloud.
+`n8n/url-queue.json` (gitignored); dispatch POSTs to a Webhook trigger in the
+self-hosted n8n instance.
 
 ## Routing
 
@@ -34,6 +35,14 @@ or invented post.
 - one or two sentences on what the thing genuinely is or does
 - whether it is even about local LLM deployment
 
+For **GitHub URLs use `gh`, not `WebFetch`** — it gets you the canonical description
+and the README rather than a rendered page:
+
+```bash
+gh api repos/<owner>/<repo> --jq '{description, language, license: .license.spdx_id, created_at, pushed_at, topics}'
+gh api repos/<owner>/<repo>/readme --jq '.content' | base64 -d | head -80
+```
+
 > [!danger] If the page won't fetch, do not queue it
 > Reddit returns 403 to non-browser clients, and it is not alone. The n8n side
 > fetches with the same kind of headers and gets the same 403, so the model ends up
@@ -52,6 +61,22 @@ Then:
 ```bash
 node scripts/queue-url.js add "<url>" --title "<real headline>" --note "<what it is, 1-2 sentences>"
 ```
+
+> [!important] The note is the model's only evidence — put nothing in it you cannot source
+> Whatever you write in `--note` is treated downstream as fact about the article. Your
+> own reasonable inferences will come back in the draft as if the source had said them,
+> and at that point they are indistinguishable from the source's own claims.
+>
+> Real example: the DeepSeek Harness README never says "model-agnostic". I wrote it in
+> the note as shorthand, and the draft returned "a model-agnostic foundation for
+> orchestrating LLM components on-device" — a sourced-sounding claim that traced back
+> only to me.
+>
+> So: every phrase in the note must be something you actually read. If a caveat matters
+> (preview status, no benchmarks published, known limitation), state it in the note
+> **explicitly and in the negative** — "do not describe it as production-ready", "no
+> parameter counts or benchmarks appear anywhere". That form works; the model respects
+> it.
 
 > [!warning] Don't queue something the site has already covered
 > There is no dedupe against published posts. Before adding, check:
@@ -99,22 +124,45 @@ The draft lands in `content/posts/<today>/` with `status: draft` and
 
 ## Step 5 — Read the draft against the source
 
-Do not just report that it landed. Open it and check the claims against what you
-established in step 1. The recurring failure is **overclaiming**, not fabrication:
-the model takes a single demonstration and generalises it into a capability.
+Do not just report that it landed. Open it and check every claim against what you
+established in step 1. Assume there is something wrong with it — across every manual
+draft so far, there has been.
 
-Real example — a post about one generated Snake game came back asserting the model
-"can handle complex agentic reasoning", plus a closing paragraph about rate limits
-and reproducibility that appeared nowhere in the source.
+The model does **not** invent numbers. It invents *significance* and *architecture*,
+and it does so overwhelmingly **in the final paragraph**, which is where the checking
+effort belongs.
+
+Three failures seen so far, in escalating order:
+
+1. **Overclaiming from one result.** A post about a single generated Snake game came
+   back asserting the model "can handle complex agentic reasoning", plus a closing
+   paragraph on rate limits and reproducibility that appeared nowhere in the source.
+2. **Inflated quantifiers and verbs.** A position paper's "many invocations" became
+   "most invocations"; "argues for" became "validates the direction many practitioners
+   are already exploring". Watch for *validates, proves, confirms, demonstrates,
+   perfectly, directly translates to, only, most*.
+3. **Invented architecture.** Given a repo described only as "everything is a plugin",
+   the draft asserted the plugin system composes "inference engines, memory systems,
+   and tool integrations without vendor lock-in". None of those categories exist in the
+   README. The model knows what such a system *usually* contains and wrote that instead.
+   This is the hardest one to catch, because it reads like domain knowledge.
 
 So check specifically:
 
 - Does every named figure, model, and piece of hardware appear in the source?
 - Does any sentence generalise a single result into a general capability?
+- **Are any named features, components or categories absent from the source?**
+- Does any factual-sounding claim trace back only to *your* note rather than the source?
 - Is the final paragraph drawing conclusions the source never drew?
+- Are stated prerequisites right? One draft said "without external dependencies" of a
+  tool whose README opens with "Install Node.js".
 
-Say what you found. Offer to tighten it — the fix is usually deleting a clause and
-a paragraph, not rewriting.
+Also check the tags — the model adds plausible ones the source doesn't support
+(`memory-optimization` on a paper that never mentions memory).
+
+Say what you found, and say plainly where it came from — including when the fault is
+your note rather than the model. Offer to tighten it; the fix is usually deleting a
+clause and a paragraph, not rewriting.
 
 ## Step 6 — Report
 
