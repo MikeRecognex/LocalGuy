@@ -60,6 +60,9 @@ KV elements per token = 2 (K and V) × 4 kv_heads × 256 head_dim × 16 full-att
 | 170,000 | 11.14 GB | 5.57 GB |
 | 262,144 (native max) | 17.18 GB | 8.59 GB |
 
+> [!note] These are decimal GB (10⁹), compared against a nominal "48GB"
+> `nvidia-smi` reports a 3090 as 24576 MiB, so two cards are 48 **GiB** — about 51.5 GB decimal. Sizing decimal cache figures against a binary card budget understates your headroom by roughly 7%, which is the safe direction to be wrong in: every "fits" verdict below still holds with room to spare. In binary the same two rows are 10.38 and 16.00 GiB. The [VRAM guide](/guides/how-much-context-fits-vram/) works in GiB throughout.
+
 Against a Q4_K_M weight file of **16.74 GB** (measured, `unsloth/Qwen3.5-27B-GGUF`), on 48GB total with roughly 44–45GB usable after CUDA context and activations:
 
 | Configuration | Total | Fits? |
@@ -77,6 +80,9 @@ Now the counterfactual that shows why this matters. Had all 64 layers been full 
 ```
 
 Plus 16.74 GB of weights. It would not fit, on any KV quantization scheme, at any context near that length. The hybrid architecture isn't a footnote to the story — it *is* the story.
+
+> [!tip] Doing this for a different model?
+> The same arithmetic generalises, but four architectures break the standard formula — including one that overestimates by 57x. **[How Much Context Actually Fits in Your VRAM](/guides/how-much-context-fits-vram/)** has the formula, a script that reads any model's `config.json`, and a verified table across six architectures.
 
 > [!note] The recurrent state isn't free, it's just constant
 > The 48 Gated DeltaNet layers hold roughly 75 MB per sequence at FP16, independent of context length. Irrelevant for one stream; at eight concurrent sequences it's around 0.6 GB, which you should budget but won't notice.
@@ -169,6 +175,7 @@ Single-stream and batch numbers answer different questions, and prompt length ch
 
 ## Next steps
 
+- The same maths for any model: [How Much Context Actually Fits in Your VRAM](/guides/how-much-context-fits-vram/)
 - Model card and config: [Qwen/Qwen3.5-27B](https://huggingface.co/Qwen/Qwen3.5-27B) — and check the current 27B before committing
 - Cross-platform measurements with stated methodology: [BAEM1N/llm-bench](https://github.com/BAEM1N/llm-bench)
 - Long-context correctness issue: [llama.cpp#27756](https://github.com/ggml-org/llama.cpp/issues/27756)
