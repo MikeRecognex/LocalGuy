@@ -165,7 +165,7 @@ async function cmdRun(args) {
 
   if (!endpoint || !secret) {
     console.error('Missing N8N_MANUAL_WEBHOOK_URL or N8N_MANUAL_WEBHOOK_SECRET in .env')
-    console.error('Add the Webhook trigger in n8n Cloud first — see n8n/MANUAL-URL-SETUP.md')
+    console.error('Add the Webhook trigger in n8n Cloud first — see docs/n8n-manual-url-setup.md')
     process.exit(1)
   }
 

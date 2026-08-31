@@ -18,7 +18,17 @@ About four years ago I started exploring what was possible with local language m
 
 The local AI space moves fast. Important developments are scattered across Reddit threads, Hacker News comments, GitHub repos, and X posts. There's no shortage of information, but there's a real shortage of curation.
 
-LocalFTW pulls together the news, guides, and projects that matter to people running AI locally. Every post is reviewed for genuine utility — no marketing fluff, no hype cycles, no "10 AI tools that will change your life" listicles.
+LocalFTW pulls together the news, guides, and projects that matter to people running AI locally — no marketing fluff, no hype cycles, no "10 AI tools that will change your life" listicles.
+
+## How the Content Is Made
+
+Two kinds of content, made two different ways. The difference matters if you're deciding how much weight to put on something here.
+
+**News posts are drafted automatically.** A daily workflow pulls from Hacker News, Reddit's r/LocalLLaMA and Google News, and a language model writes a short summary of the items it picks — working from each item's headline and the source's own description, not from the full article. Drafts are reviewed before they go live, and every post carries its source link and its date. They're a record of what was reported at the time, not independent reporting, and they aren't updated as things change.
+
+**Guides are written and verified by hand.** Claims are checked against primary sources — upstream code, commits, issue trackers, model configs — and each guide states the date it was verified. Where a guide and an older post disagree, the guide is the current one.
+
+The workflow that drafts the posts, prompt included, is [in the repo](https://github.com/MikeRecognex/LocalGuy/blob/main/docs/n8n-manual-url-setup.md).
 
 ## What Drives This
 
@@ -32,7 +42,7 @@ Three things:
 
 ## How It's Built
 
-LocalFTW is built the way it preaches — local-first. Content is written in Obsidian, versioned with Git, built with Eleventy, and deployed as static HTML to Vercel. No database, no CMS, no tracking scripts. The site itself is open source on [GitHub](https://github.com/MikeRecognex/LocalGuy).
+LocalFTW is built the way it preaches — local-first. Guides are written in Obsidian, everything is versioned with Git, built with Eleventy, and deployed as static HTML to Vercel. No database, no CMS, no tracking scripts. The site itself is open source on [GitHub](https://github.com/MikeRecognex/LocalGuy).
 
 ## Get Involved
 
