@@ -24,11 +24,11 @@ Where a guide and a post disagree, the guide is current and the post is not.
 - [All posts]({{ site.url }}/posts/): the full news archive, newest first.
 - [Trends]({{ site.url }}/trends/): topic frequency over time.
 - [Graph]({{ site.url }}/graph/): tag co-occurrence visualisation, and the entry point for browsing by topic. Individual topics live at `/tags/{slug}/`; a tag only gets a page once at least three posts share it, so `/tags/` has no index of its own.
-- [Bookmarks]({{ site.url }}/bookmarks/): external links worth keeping.
-- [Clinic]({{ site.url }}/clinic/): troubleshooting helper for local inference problems.
-- [Why Local]({{ site.url }}/why-local/): the argument for running models yourself.
+- [Bookmarks]({{ site.url }}/bookmarks/): a private, per-reader list of posts they have reacted to, behind GitHub sign-in. No public content — nothing to index here.
+- [Clinic]({{ site.url }}/clinic/): asks a question in natural language and answers it by searching this site's published articles, with source links. Rate limited to ten questions per hour.
+- [Why Local]({{ site.url }}/why-local/): the argument for running models yourself, written for newcomers.
 - [About]({{ site.url }}/about/): who writes this, and commercial disclosures.
-- [Contribute]({{ site.url }}/contribute/): how to submit a guide.
+- [Contribute]({{ site.url }}/contribute/): how to submit a **post**, via a GitHub issue template. Guides are contributed separately, through the "contribute a guide" link on the guides index.
 
 ## Recent posts
 {% for post in collections.posts | head(100) %}
