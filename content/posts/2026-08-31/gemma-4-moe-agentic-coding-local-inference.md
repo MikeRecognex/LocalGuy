@@ -1,7 +1,7 @@
 ---
 title: "Gemma 4 MoE for Agentic Coding: Testing Open-Weight Models on AMD APU Hardware"
 date: 2026-08-31
-description: "Alex Ewerlof benchmarks Gemma 4 26B MoE for coding tasks on an AMD Ryzen 7 PRO APU, demonstrating that open-weight models can power practical agentic workflows despite trailing proprietary alternatives in raw capability."
+description: "Alex Ewerlof runs Gemma 4 26B MoE for coding on an AMD Ryzen 7 PRO 250 APU with 64GB of RAM, and reports that tooling closes much of the gap to proprietary models — at the cost of cold starts and slower inference."
 tags:
   - manual
   - agents
@@ -12,11 +12,11 @@ status: draft
 origin: manual
 ---
 
-Running agentic coding workflows on local hardware remains challenging but increasingly viable. Alex Ewerlof tested Gemma 4 variants on an AMD Ryzen 7 PRO 250 APU with 64GB RAM using LM Studio, leveraging a 150k context window to tackle code generation and execution tasks. The Gemma 4 26B MoE variant successfully produced a working Snake game, validating that open-weight models can handle complex agentic reasoning despite performance gaps versus proprietary flagship models.
+Alex Ewerlof has written up what it's actually like to use local models for coding work, prompted by cloud pricing moving past its introductory phase. He ran Gemma 4 variants on an AMD Ryzen 7 PRO 250 APU with 64GB of RAM, driving them through LM Studio with a 150k context window. The concrete result he reports is Gemma 4 26B MoE generating a working Snake game.
 
-The practical verdict: open-weight models lag behind closed alternatives, but thoughtful tooling and sufficient hardware mitigates much of the gap. Cold-start delays and slower inference remain the primary drawbacks for time-sensitive workflows. The takeaway matters for practitioners seeking autonomy and cost control—local agentic systems are achievable today without cloud dependency, though they require careful hardware selection and realistic performance expectations.
+His conclusion is measured rather than triumphant: open-weight models underperform the flagship proprietary ones, but in his words, "with tooling (e.g. an AI harness) you can compensate a lot." The drawbacks he names are cold-start delay and slower inference than a hosted API — the familiar cost of keeping the model on your own machine.
 
-This aligns with a broader shift: as proprietary model pricing tightens, the economic case for self-hosted agentic inference strengthens. Even with inference speed tradeoffs, local deployment unlocks data privacy, consistent availability, and elimination of rate limits—all critical for production coding agents that need reliable, reproducible behavior.
+Worth reading for the setup detail rather than the verdict. An APU with 64GB of shared memory is a different proposition from a discrete GPU, and the combination of that hardware, a 150k context and an agent harness is a specific configuration you can compare your own against. One generated game is a demonstration, not a benchmark, so treat the capability claims as a starting point for your own testing rather than a settled result.
 
 [Read the full article on blog.alexewerlof.com](https://blog.alexewerlof.com/p/local-llms-for-agentic-coding).
 
