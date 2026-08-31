@@ -409,7 +409,49 @@ Find the frontmatter array near the end of the node and add the `origin` line:
         '---',
 ```
 
-Then, a few lines below in the same loop, add `manual` to the pushed object:
+### Two more one-liners, higher up in the same node
+
+Both were found by running this end to end, and both matter.
+
+**Around line 40**, where `sourceName` is resolved. `Shape Manual Article` sets
+`source: 'Manual'`, and Part 6 tells the model to copy that value — so without this
+the post reads *"Read the full article on Manual"*. Replace:
+
+```js
+      const sourceName = story.source_name || originalArticle?.source || 'Unknown';
+```
+
+with:
+
+```js
+      const isManualItem = originalArticle?.source === 'Manual';
+      let sourceName = story.source_name || originalArticle?.source || 'Unknown';
+      if (isManualItem) {
+        try { sourceName = new URL(sourceUrl).hostname.replace(/^www\./, ''); }
+        catch { sourceName = 'source'; }
+      }
+```
+
+Derive it, don't ask the model. `sourceUrl` is declared on the line above.
+
+**Around line 65**, the tag builder. A hand-picked post is not part of the daily
+digest. Replace:
+
+```js
+      const tags = ['daily-digest'];
+```
+
+with:
+
+```js
+      const tags = [originalArticle?.source === 'Manual' ? 'manual' : 'daily-digest'];
+```
+
+Both leave the cron path byte-identical.
+
+### Back in the loop
+
+Then, a few lines below, add `manual` to the pushed object:
 
 ```js
       output.push({
@@ -537,9 +579,13 @@ workflow is failing — check n8n's execution history rather than git.
 - **No dedupe against published posts.** Queue a URL you've already covered and
   you'll get a second post about it. The `queue-url` skill greps `content/posts`
   first; the raw CLI does not.
-- **Manual drafts still get the `daily-digest` tag** from the existing tag builder
-  in `Format Obsidian Markdown`. Inaccurate but harmless. If you change it, note
-  that tag pages need 3+ posts, so a lone `manual` tag won't get one.
+- **Sources that block scraping produce worthless drafts.** Reddit returns 403 to
+  non-browser clients, so `Shape Manual Article` gets nothing and the model writes
+  from the title alone. Verified: it does not invent numbers or versions, but it
+  will produce confident, content-free filler about things it knows nothing about.
+  **Check the draft before keeping it, and prefer URLs that actually fetch.**
+- **Manual posts are tagged `manual`**, which needs 3+ posts before it gets a tag
+  page — expect no `/tags/manual/` until then.
 - **The AI never reads the article** — only the title and meta description. A thin
   source page produces a thin draft. That's inherent to the pipeline, not to this
   change.
