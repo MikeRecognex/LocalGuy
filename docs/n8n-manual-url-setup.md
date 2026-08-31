@@ -427,12 +427,17 @@ with:
       const isManualItem = originalArticle?.source === 'Manual';
       let sourceName = story.source_name || originalArticle?.source || 'Unknown';
       if (isManualItem) {
-        try { sourceName = new URL(sourceUrl).hostname.replace(/^www\./, ''); }
-        catch { sourceName = 'source'; }
+        const m = String(sourceUrl).match(/^https?:\/\/(?:www\.)?([^/:?#]+)/i);
+        sourceName = m ? m[1] : 'source';
       }
 ```
 
-Derive it, don't ask the model. `sourceUrl` is declared on the line above.
+Derive it, don't ask the model. Two constraints: this must sit **below** the
+`const sourceUrl = ...` line, and `sourceName` must be `let`, not `const`.
+
+Match the host with a regex rather than `new URL(...)` — n8n's Code sandbox does
+not expose the `URL` constructor, so the constructor version throws and silently
+falls back, printing `Source: [source]`. Confirmed by running it.
 
 **Around line 65**, the tag builder. A hand-picked post is not part of the daily
 digest. Replace:
