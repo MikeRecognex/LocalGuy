@@ -6,7 +6,10 @@ _private/
 .vercel
 .env
 .env.*
-.claude/
+.claude/*
+!.claude/skills/
+!.claude/CLAUDE.md
+.claude/settings.local.json
 .mcp.json
 .venv/
 .smart-retag-cache.json
