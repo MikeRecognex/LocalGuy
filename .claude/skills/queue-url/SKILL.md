@@ -79,11 +79,19 @@ node scripts/queue-url.js add "<url>" --title "<real headline>" --note "<what it
 > it.
 
 > [!warning] Don't queue something the site has already covered
-> There is no dedupe against published posts. Before adding, check:
+> Nothing checks `content/posts`. The queue's own dedupe is exact string equality on
+> the URL, so a trailing slash or a `?utm_source=` is enough to slip a second copy past
+> it. Before adding, check:
 > ```bash
-> grep -rl "<distinctive phrase or domain>" content/posts | head
+> grep -rli "<distinctive phrase or domain>" content/posts | head
 > ```
-> If it's already covered, tell the user and ask before queueing a second post.
+> A hit is not automatically a duplicate — distinguish "we published a post about this"
+> from "a post about something else mentioned it in passing". Report which it is and
+> let the user decide; don't silently skip.
+>
+> If a duplicate does get committed, the Eleventy build suppresses the later copy
+> (`[posts] Suppressing duplicate post ...`), so the site stays clean — but the file
+> still lands in the repo.
 
 ## Step 2 — Ask before dispatching
 

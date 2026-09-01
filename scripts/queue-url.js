@@ -18,7 +18,7 @@
  *   node scripts/queue-url.js remove <id>
  *
  * Requires in .env:
- *   N8N_MANUAL_WEBHOOK_URL     production webhook URL from n8n Cloud
+ *   N8N_MANUAL_WEBHOOK_URL     production webhook URL from n8n
  *   N8N_MANUAL_WEBHOOK_SECRET  value for the webhook's header auth
  */
 
@@ -165,7 +165,7 @@ async function cmdRun(args) {
 
   if (!endpoint || !secret) {
     console.error('Missing N8N_MANUAL_WEBHOOK_URL or N8N_MANUAL_WEBHOOK_SECRET in .env')
-    console.error('Add the Webhook trigger in n8n Cloud first — see docs/n8n-manual-url-setup.md')
+    console.error('Add the Webhook trigger in n8n first — see docs/n8n-manual-url-setup.md')
     process.exit(1)
   }
 
