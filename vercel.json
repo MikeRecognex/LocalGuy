@@ -4,6 +4,16 @@
   "framework": null,
   "redirects": [
     {
+      "source": "/posts/freetoken-moe-serving-engine-753b-single-gpu",
+      "destination": "/posts/freetoken-edge-native-moe-serving-engine/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/freetoken-moe-serving-engine-753b-single-gpu/",
+      "destination": "/posts/freetoken-edge-native-moe-serving-engine/",
+      "permanent": true
+    },
+    {
       "source": "/posts/gguf-quantization-comparison-q4-k-m-vs-iq4",
       "destination": "/posts/gguf-quantization-comparison-q4-k-m-iq4/",
       "permanent": true
