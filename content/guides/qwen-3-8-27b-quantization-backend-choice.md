@@ -21,6 +21,8 @@ That plan does not work. The two articles describe different quantizations, and 
 
 > [!warning] Verified 2 September 2026
 > The headline finding since those articles ran: **on llama.cpp, this model silently stops generating somewhere between 98K and 114K context** — no error, no warning, just an immediate end-of-sequence token. That is [ggml-org/llama.cpp#27756](https://github.com/ggml-org/llama.cpp/issues/27756), open, filed 26 August 2026 and reported against Qwen3.8-27B by name. Treat llama.cpp's usable context as **~96K, not the 262K on the model card**, regardless of quantization.
+>
+> This matters more, not less, now that a fork advertising 262K context on a 16GB card is circulating. It solves memory, not correctness — see *The adaptive-KV-streaming fork solves a different problem*, below.
 
 ## The two articles don't describe the same setup
 
@@ -78,6 +80,7 @@ These are real byte sizes from the Hugging Face file listing, not estimates from
 | **Q4_K_M** | **15.33 GiB** | **16.55 GiB** | **16.20 GiB** | **no** |
 | Q4_K_S | 14.30 GiB | 15.57 GiB | 15.17 GiB | marginal |
 | **IQ4_XS** | **13.27 GiB** | 14.50 GiB | **14.14 GiB** | **yes** |
+| Q3_K_XL | 12.24 GiB | — | 13.11 GiB | yes |
 | **IQ3_XXS** | **10.18 GiB** | 11.76 GiB | **11.05 GiB** | **yes, comfortably** |
 | Q2_K_XL | 9.15 GiB | — | 10.02 GiB | yes |
 | IQ1_S | 5.77 GiB | — | 6.64 GiB | yes |
@@ -137,6 +140,27 @@ Notably, the Qwen model card names vLLM, SGLang and TokenSpeed as the frameworks
 
 If you need genuine long context on this model today, that differential is your answer: use vLLM.
 
+### The adaptive-KV-streaming fork solves a different problem
+
+[RaymondHuang210129/llama.cpp-adaptive-kv-streaming](https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming) has been circulating as the answer to long context on 16GB, and its own README validates on exactly this model:
+
+| | |
+|---|---|
+| Branch | `feature/adaptive-kv-stream` (default), pushed 2 Sep 2026 |
+| Mechanism | Block-granular KV streaming to pinned host memory with a bounded CUDA pool, via `--kv-stream-stage-mib N` |
+| Validated on | `unsloth/Qwen3.8-27B-GGUF` **UD-Q3_K_XL** (12.24 GiB), RTX 5070 Ti 16GB |
+| Claimed context | 262,144, Flash Attention, Q8_0 K cache / Q4_0 V cache, one slot |
+| Largest concrete run cited | **122,880 tokens** at `512/512` |
+| Author's own framing | "research code" |
+
+It is a genuine fork with real CUDA work in it, and the mechanism is orthogonal to #27756 — which is precisely the problem. **#27756 is a correctness defect, not a memory one.** It reproduces on mainline CUDA, mainline CPU and ik_llama.cpp, is unaffected by KV cache type, and passes on vLLM with identical weights. The fork changes where KV tensors live; it does not touch whatever is emitting EOS.
+
+To be exact about what I checked and what I did not: I have not run this fork. Its README makes **no mention of #27756, EOS, empty output, or Gated DeltaNet** — it does not claim to fix the defect. It is based on mainline, and the candidate upstream fix ([PR #28068](https://github.com/ggml-org/llama.cpp/pull/28068), GDN normalization from `max` to `rsqrt`) is **still open and unmerged**. So there is no reason to expect the defect to be absent, and no published evidence either way.
+
+Note also that the largest run the README actually reports completing — 122,880 tokens — sits *inside* the 98K–114K failure band's far side, and the README reports it as a throughput result, not a correctness one. Prefill completing and streaming staying active is exactly what #27756 looks like before the empty response arrives.
+
+The trap is that the fork removes the constraint that used to protect you. On stock llama.cpp a 16GB card runs out of VRAM well before 98K, so you never reach the cliff. Allocate 262K successfully and you walk straight off it. If you try the fork, **plant a fact at the start of a long prompt and ask for it at the end** before trusting any load that appears to succeed.
+
 ### Speculative decoding is the least stable surface everywhere
 
 The widely-copied 16GB command enables MTP speculative decoding by default (`--spec-type draft-mtp`). Across every backend, that is the area with the most open bugs right now — including [llama.cpp#28158](https://github.com/ggml-org/llama.cpp/issues/28158), where DFlash/MTP emits an out-of-bounds token id equal to `n_vocab` (248320) on Vulkan, and Ollama issues covering MTP variants failing to run, forcing CPU offload, and running 2× slower than non-MTP on Apple Silicon.
@@ -171,7 +195,7 @@ That Ollama OpenAI-endpoint bug deserves emphasis: `/api/chat` working while `/v
 |---|---|
 | To fit 16GB with the most quality available | `unsloth` **UD-IQ4_XS** (13.27 GiB) + mmproj. Untested for quality — measure it. |
 | To fit 16GB with headroom for context and MTP | `unsloth` **UD-IQ3_XXS** (10.18 GiB) + mmproj. This is the configuration the 16GB article actually ran. |
-| Context beyond ~96K | **vLLM.** Not llama.cpp, at any quantization. |
+| Context beyond ~96K | **vLLM.** Not llama.cpp, at any quantization, and not the streaming fork — it fixes memory, not the EOS defect. |
 | Benchmarked quality with no surprises | **Q4_K_M on 24GB+.** The quant Quesma actually validated. |
 | Simplest possible start | **Ollama** `qwen3.8:27b` — but use `/api/chat`, not the OpenAI-compatible endpoint. |
 
@@ -191,6 +215,7 @@ And before you build anything on long context, run a retrieval check rather than
 - Model card and architecture: [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 - Quant files and real sizes: [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF), [bartowski/Qwen3.8-27B-GGUF](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF)
 - The benchmark, with its methodology stated: [Quesma — Qwen3.8 27B quantizations benchmarked](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
-- The long-context defect: [llama.cpp#27756](https://github.com/ggml-org/llama.cpp/issues/27756)
+- The long-context defect: [llama.cpp#27756](https://github.com/ggml-org/llama.cpp/issues/27756), and the candidate fix still unmerged at [PR #28068](https://github.com/ggml-org/llama.cpp/pull/28068)
+- The KV streaming fork, for the memory problem only: [RaymondHuang210129/llama.cpp-adaptive-kv-streaming](https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming)
 - KV cache arithmetic for this architecture: [What Actually Fits on Dual RTX 3090s](/guides/qwen-27b-dual-3090-context-math/)
 - The posts that prompted this guide: [[qwen3-8-quantization-benchmarks-4bit-optimal|Qwen3.8 27B Quantization Benchmarks: 4-Bit Remains Optimal Trade-off]] and [[qwen3-8-27b-16gb-vram-guide|How to Run Qwen3.8-27B on a Single 16GB Card]]

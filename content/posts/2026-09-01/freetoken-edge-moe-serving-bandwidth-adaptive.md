@@ -8,7 +8,7 @@ tags:
   - memory-optimization
   - nvidia
   - agents
-status: draft
+status: published
 origin: manual
 ---
 
