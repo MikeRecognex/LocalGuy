@@ -3,11 +3,19 @@ title: "macOS MLX Control Center v0.4 Released"
 date: 2026-08-31
 description: "An updated control interface for MLX, Apple's machine learning framework, providing improved management and monitoring of on-device model inference on macOS systems."
 tags:
-  - daily-digest
-  - mlx
   - apple-silicon
+  - daily-digest
+  - local-inference
+  - mlx
+  - mlx-control-center
+  - model-management
   - open-source
-status: draft
+  - release
+  - user-interface
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The MLX ecosystem continues to mature with tools that make it easier for macOS users to deploy and manage local LLMs on Apple Silicon. The Control Center provides a user-friendly interface for what has traditionally required command-line expertise, lowering the barrier to entry for running models locally on Apple devices.

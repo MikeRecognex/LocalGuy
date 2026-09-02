@@ -3,12 +3,24 @@ title: "Gemma 4 vs Phi-4-mini vs Llama 3.2: VRAM Requirements Compared"
 date: 2026-09-01
 description: "Detailed comparison of three major open-source models and their VRAM requirements, ranging from 3GB to 16GB, helping practitioners choose the right model for their hardware constraints."
 tags:
-  - daily-digest
   - benchmark
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - edge-device
+  - gemma-4
+  - hardware-constraints
+  - llama-3-2
   - memory-optimization
+  - model-quantization
   - open-source
+  - phi-4-mini
   - quantisation
-status: draft
+  - vram-requirements
+mentions:
+  - name: Tech Insider
+    role: publisher
+status: published
 ---
 
 This benchmark directly addresses one of the most critical challenges in local LLM deployment: understanding which models fit within specific hardware constraints. The comparison of Gemma 4, Phi-4-mini, and Llama 3.2 across VRAM requirements from 3GB to 16GB provides practical guidance for practitioners working with limited resources—from edge devices to entry-level GPUs.

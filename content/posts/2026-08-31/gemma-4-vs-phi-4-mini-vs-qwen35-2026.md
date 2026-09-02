@@ -3,11 +3,19 @@ title: "Gemma 4 vs Phi-4 Mini vs Qwen3.5: On-Device AI Comparison 2026"
 date: 2026-08-31
 description: "A comprehensive comparison of three lightweight models specifically optimized for on-device deployment, analyzing their tradeoffs in size, speed, and capability."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
+  - comparison
+  - daily-digest
+  - edge-device
+  - gemma-4
+  - inference-speed
+  - local-deployment
   - model-comparison
-status: draft
+  - model-tradeoffs
+  - phi-4-mini
+  - quantisation
+  - qwen-3-5
+status: published
 ---
 
 The competitive landscape for on-device language models continues to intensify as major players release increasingly efficient alternatives. Gemma 4, Phi-4 Mini, and Qwen3.5 represent different approaches to achieving capable inference within strict device constraints, with significant implications for practitioners choosing models for local deployment.

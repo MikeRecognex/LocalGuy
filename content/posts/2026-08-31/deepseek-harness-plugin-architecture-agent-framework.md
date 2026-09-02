@@ -3,11 +3,20 @@ title: "DeepSeek Harness: Open-Source Agent Framework with Plugin-Based Architec
 date: 2026-08-31
 description: "DeepSeek AI has published an open-source agent harness (dsh) built on a plugin architecture, run locally via a web UI. It is a developer preview, with compatibility-breaking changes expected."
 tags:
+  - agent-orchestration
+  - agents
+  - cordis
+  - deepseek-harness
+  - developer-preview
+  - framework
   - manual
   - open-source
-  - agents
-  - framework
-status: draft
+  - plugin-architecture
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 origin: manual
 ---
 

@@ -3,12 +3,22 @@ title: "Gemma 4 MoE for Agentic Coding: Testing Open-Weight Models on AMD APU Ha
 date: 2026-08-31
 description: "Alex Ewerlof runs Gemma 4 26B MoE for coding on an AMD Ryzen 7 PRO 250 APU with 64GB of RAM, and reports that tooling closes much of the gap to proprietary models — at the cost of cold starts and slower inference."
 tags:
-  - manual
+  - agentic-coding
   - agents
   - amd
+  - analysis
   - context-window
+  - cpu-only
+  - gemma-4-26b-moe
+  - inference-speed
+  - lm-studio
+  - manual
   - open-source
-status: draft
+  - unified-memory
+mentions:
+  - name: Alex Ewerlof
+    role: developer
+status: published
 origin: manual
 ---
 

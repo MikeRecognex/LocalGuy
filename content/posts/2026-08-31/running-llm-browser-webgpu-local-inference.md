@@ -3,11 +3,18 @@ title: "Running LLMs in the Browser: WebGPU Verification and Local Inference"
 date: 2026-08-31
 description: "A technical guide on executing LLMs directly in web browsers using WebGPU, enabling truly local inference without server dependencies while verifying model integrity."
 tags:
-  - daily-digest
-  - webgpu
   - browser-inference
+  - daily-digest
+  - edge-deployment
+  - model-verification
   - open-source
-status: draft
+  - tutorial
+  - webgpu
+  - webgpu-acceleration
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Browser-based LLM inference represents a significant frontier for edge deployment, eliminating the need for backend infrastructure and keeping inference entirely on user devices. This guide explores WebGPU's capabilities for accelerating model computations within the browser environment, addressing both performance and security concerns through model hash verification.

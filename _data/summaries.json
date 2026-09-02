@@ -785,7 +785,19 @@
       "postCount": 5
     },
     "2026-08-30": {
-      "text": "vLLM’s decode context parallelism now powers multi‑GPU inference, while 4‑bit Qwen3.8‑27B runs on 16 GB cards.",
+      "text": "vLLM’s decode context parallelism now powers production inference at PyTorch Conference, enabling efficient long‑document handling.",
+      "postCount": 6
+    },
+    "2026-08-31": {
+      "text": "DeepSeek released its open‑source dsh agent harness with plugin architecture and local web UI preview.",
+      "postCount": 8
+    },
+    "2026-09-01": {
+      "text": "FreeToken enables 290B‑plus MoE models on consumer GPUs using CPU‑GPU co‑execution, while speculative decoding cuts inference latency.",
+      "postCount": 6
+    },
+    "2026-09-02": {
+      "text": "Hugging Face’s new WebGPU kernel suite lets browsers run LLM inference locally without servers.",
       "postCount": 5
     }
   },
@@ -904,7 +916,11 @@
     },
     "2026-08-23": {
       "text": "",
-      "postCount": 35
+      "postCount": 36
+    },
+    "2026-08-30": {
+      "text": "",
+      "postCount": 19
     }
   }
 }

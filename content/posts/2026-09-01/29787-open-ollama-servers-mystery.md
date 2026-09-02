@@ -3,12 +3,19 @@ title: "29,787 Open Ollama Servers and an Unsolved Mystery"
 date: 2026-09-01
 description: "Investigation into thousands of unsecured Ollama servers exposed on the internet, highlighting critical security implications for self-hosted local LLM deployments."
 tags:
+  - analysis
   - daily-digest
+  - deployment
+  - deployment-security
+  - infrastructure
+  - network-security
   - ollama
   - security
-  - infrastructure
-  - deployment
-status: draft
+  - self-hosting
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This discovery of nearly 30,000 exposed Ollama servers represents both a sobering security reality and an implicit validation of Ollama's adoption. The sheer volume indicates substantial production deployment, yet the openness suggests widespread misconfiguration of default settings. For practitioners deploying Ollama locally, this serves as a critical reminder that network accessibility settings require explicit attention—the default state exposes inference capabilities to the public internet.

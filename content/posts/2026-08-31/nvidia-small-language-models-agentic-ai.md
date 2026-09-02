@@ -3,10 +3,15 @@ title: "NVIDIA Research: Small Language Models Are the Future of Agentic AI"
 date: 2026-08-31
 description: "NVIDIA Research argues that small language models are more suitable and economical than LLMs for many agentic tasks, with on-device and real-time inference among the motivating scenarios."
 tags:
-  - manual
+  - agent-orchestration
   - agents
+  - cost-saving
+  - manual
   - nvidia
-status: draft
+  - on-device-inference
+  - opinion
+  - small-language-models
+status: published
 origin: manual
 ---
 

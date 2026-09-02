@@ -3,12 +3,23 @@ title: "Perplexity Launches Hybrid Compute: Cloud Agents Orchestrate Local Model
 date: 2026-09-02
 description: "Perplexity introduces Hybrid Compute for Mac, a privacy-respecting architecture where cloud agents coordinate task routing, offloading sensitive computations to local models on-device. This marks a shift toward consumer-friendly local-first AI systems."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - hybrid-inference
   - apple-silicon
+  - daily-digest
+  - data-privacy
+  - hybrid-compute
+  - hybrid-inference
+  - local-first
+  - perplexity
   - privacy
-status: draft
+  - release
+mentions:
+  - name: Perplexity
+    role: developer
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 Perplexity's Hybrid Compute represents a pragmatic architectural approach to local inference: rather than forcing all computation to stay on-device or sending all data to the cloud, the system uses intelligent routing. Cloud-based agents determine which tasks require full reasoning versus those sensitive to latency or privacy, then orchestrate execution—running appropriate computations locally on the Mac while maintaining cloud connectivity for sophisticated reasoning tasks. This hybrid model acknowledges that local and cloud resources have complementary strengths.

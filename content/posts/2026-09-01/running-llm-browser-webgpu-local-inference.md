@@ -3,12 +3,25 @@ title: "Running LLMs in the Browser: WebGPU and Local Inference"
 date: 2026-09-01
 description: "Guide to running language models directly in web browsers using WebGPU, enabling client-side inference without server dependencies or data transmission."
 tags:
-  - daily-digest
-  - webgpu
-  - edge-inference
-  - open-source
   - browser-deployment
-status: draft
+  - browser-inference
+  - client-side-inference
+  - consumer-gpu
+  - daily-digest
+  - edge-inference
+  - llama-cpp
+  - model-security
+  - ollama
+  - open-source
+  - tutorial
+  - webgpu
+  - webgpu-acceleration
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: CapyToolkit
+    role: publisher
+status: published
 ---
 
 Browser-based LLM inference represents a frontier for true edge deployment: running models on end-user devices without any server communication. WebGPU—a modern web standard for GPU computation—enables this by providing JavaScript with direct access to device GPU hardware. This eliminates the privacy, latency, and connectivity concerns inherent to cloud-based inference while putting computational power directly in users' hands.
