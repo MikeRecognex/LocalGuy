@@ -3,12 +3,25 @@ title: "Running 104GB Qwen3.8-Flash-Next on 48GB Mac at ~12 tok/s"
 date: 2026-09-03
 description: "A developer demonstrates running a 104GB model on a 48GB Mac using innovative slot streaming techniques, achieving practical inference speeds of ~12 tokens/second and expanding the possibilities for large model deployment on consumer hardware."
 tags:
-  - daily-digest
-  - memory-optimization
   - apple-silicon
-  - quantisation
+  - consumer-gpu
+  - daily-digest
+  - inference-speed
+  - large-model-inference
+  - memory-management
+  - memory-optimization
   - open-source
-status: draft
+  - quantisation
+  - qwen3-8-flash-next
+  - showcase
+  - slotstream
+mentions:
+  - name: carloslfu
+    role: developer
+    handle: "@carloslfu"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This is a significant breakthrough in memory-efficient inference on Apple Silicon. The slotstream technique allows loading models larger than available RAM by intelligently managing which model weights are actively loaded during inference, effectively creating a dynamic memory management system that trades compute for memory bandwidth.

@@ -3,12 +3,21 @@ title: "Show HN: Single-File GGUF Inference"
 date: 2026-09-03
 description: "A browser-based GGUF inference solution enables running quantized models directly in WebAssembly, allowing local LLM inference without any backend server or installation required."
 tags:
+  - browser-inference
   - daily-digest
+  - edge-device
   - gguf
-  - quantisation
+  - model-quantization
   - open-source
-  - inference
-status: draft
+  - quantisation
+  - showcase
+  - single-file-gguf-inference
+  - wasm-inference
+  - webassembly
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 WebAssembly-based GGUF inference represents an intriguing frontier for truly distributed local inference—bringing model execution to the edge directly in user browsers. This approach eliminates infrastructure dependencies and backend servers entirely, making it ideal for privacy-sensitive applications and zero-installation deployments.

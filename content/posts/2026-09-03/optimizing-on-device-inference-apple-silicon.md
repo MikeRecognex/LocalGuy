@@ -3,12 +3,22 @@ title: "Optimizing On-Device Inference for Apple Silicon"
 date: 2026-09-03
 description: "Perplexity publishes a comprehensive guide on optimizing LLM inference specifically for Apple Silicon, covering techniques to maximize performance and efficiency on Apple's ARM-based processors for local deployment."
 tags:
-  - daily-digest
   - apple-silicon
-  - optimization
+  - core-ml
+  - daily-digest
+  - inference-optimization
+  - local-deployment
+  - memory-optimization
+  - mlx
   - open-source
-  - inference
-status: draft
+  - optimization
+  - tutorial
+mentions:
+  - name: Perplexity
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 As Apple Silicon adoption accelerates for AI applications, having dedicated optimization guidance is crucial for developers building local inference systems. This resource likely covers architectural considerations specific to M-series chips, memory access patterns, and leveraging frameworks like MLX and Core ML for maximum efficiency.

@@ -799,6 +799,10 @@
     "2026-09-02": {
       "text": "Hugging Face’s new WebGPU kernel suite lets browsers run LLM inference locally without servers.",
       "postCount": 5
+    },
+    "2026-09-03": {
+      "text": "Lemonade AI launches version 11.9 with AMD ROCm HRX backend, enabling local inference on AMD GPUs.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -920,7 +924,7 @@
     },
     "2026-08-30": {
       "text": "",
-      "postCount": 19
+      "postCount": 24
     }
   }
 }
