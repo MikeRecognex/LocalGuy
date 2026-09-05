@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://hawaii.ziti.uni-heidelberg.de/blog/llm-brain-damage/"
 status: published
 ---
 

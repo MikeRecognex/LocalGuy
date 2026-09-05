@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: OPPO
     role: developer
+source:
+  name: "Google News"
+  url: "https://finance.biggo.com/news/681e2f81-d26b-4336-9659-53a70d548e64"
 status: published
 ---
 

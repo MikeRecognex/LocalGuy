@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Crypto Briefing
     role: publisher
+source:
+  name: "Crypto Briefing"
+  url: "https://cryptobriefing.com"
 status: published
 ---
 

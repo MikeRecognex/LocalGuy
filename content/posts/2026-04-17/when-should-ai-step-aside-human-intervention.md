@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Carnegie Mellon University
     role: research-institution
+source:
+  name: "Hacker News"
+  url: "https://blog.ml.cmu.edu/2026/04/13/when-should-ai-step-aside-teaching-agents-when-humans-want-to-intervene/"
 status: published
 ---
 

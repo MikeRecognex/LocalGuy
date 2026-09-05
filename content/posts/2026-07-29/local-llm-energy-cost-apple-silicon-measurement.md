@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Towards Data Science"
+  url: "https://towardsdatascience.com/how-much-does-a-local-llm-actually-cost-to-run-i-measured-every-watt-on-apple-silicon/"
 status: published
 ---
 

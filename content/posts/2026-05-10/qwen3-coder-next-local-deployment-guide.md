@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/qwen3codernext-local-deployment-a-complete-developer-guide-2026/"
 status: published
 ---
 

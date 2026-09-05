@@ -23,6 +23,9 @@ mentions:
     role: source
   - name: clawhosters
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://clawhosters.com/blog/posts/own-ai-assistant-costs-clawhosters"
 status: published
 ---
 

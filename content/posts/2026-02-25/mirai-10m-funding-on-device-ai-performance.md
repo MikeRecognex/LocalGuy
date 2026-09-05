@@ -25,6 +25,9 @@ mentions:
     role: company
   - name: AI Insider
     role: publisher
+source:
+  name: "AI Insider"
+  url: "https://theaiinsider.tech/2026/02/24/mirai-announces-10m-to-advance-on-device-ai-performance-for-consumer-devices/"
 status: published
 ---
 

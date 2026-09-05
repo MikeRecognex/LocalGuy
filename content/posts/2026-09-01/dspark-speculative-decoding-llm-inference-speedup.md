@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPby15TmFaNHlvLVVmemczUDdGYmo0ejg0QVdkYUJObGF4a01DaGJWUjd0Q0xfMlFxY1MwY21iQzR2dmE3MnNLbmNLMElJTjZBSkFqQUM1bzN6Q195b2wyUl8ybzl1VkhDVmd0Ym5kWUVFUm41S21LcFpfRjdzUzJDQ0VNMk5qS2RG?oc=5"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: developer
   - name: ServeTheHome
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.servethehome.com/tensordyne-napier-ai-processor-announced-with-logarithmic-math/"
 status: published
 ---
 

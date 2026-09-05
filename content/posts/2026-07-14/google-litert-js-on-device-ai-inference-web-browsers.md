@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Quasa
     role: publisher
+source:
+  name: "quasa.io"
+  url: "https://quasa.io"
 status: published
 ---
 

@@ -8,6 +8,9 @@ tags:
   - edge-inference
   - hardware
   - tools
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

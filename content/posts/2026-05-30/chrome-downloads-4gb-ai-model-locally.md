@@ -21,6 +21,9 @@ tags:
   - storage-management
   - user-privacy
   - webgpu-wasm
+source:
+  name: "Google News"
+  url: "https://www.msn.com/chrome-ai-model-download"
 status: published
 ---
 

@@ -8,6 +8,9 @@ tags:
   - hardware
   - benchmarking
   - deployment
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

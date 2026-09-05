@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://theaileverageweekly.com/posts/how-switching-ai-tools-mid-sprint-cost-us-a-day-and-what-we-learned-we.html"
 status: published
 ---
 

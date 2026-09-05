@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: KDnuggets
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.kdnuggets.com/tweaking-local-language-model-settings-with-ollama"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://apertus-ai.org/articles/2026-07-apertus-1-5/"
 status: published
 ---
 

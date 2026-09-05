@@ -16,6 +16,9 @@ tags:
   - neutral
   - opinion
   - tool-calling
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

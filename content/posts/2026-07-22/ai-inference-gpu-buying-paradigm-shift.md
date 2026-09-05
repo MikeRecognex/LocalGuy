@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Techloy
     role: publisher
+source:
+  name: "Techloy"
+  url: "https://www.techloy.com/ai-inference-is-rewriting-the-gpu-buying-playbook/"
 status: published
 ---
 

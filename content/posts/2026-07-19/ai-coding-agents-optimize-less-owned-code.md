@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: Open Energy Transition
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code"
 status: published
 ---
 

@@ -32,6 +32,9 @@ mentions:
     role: publisher
   - name: Technobezz
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.technobezz.com/best/dell-offers-the-14-plus-with-core-ultra-9-and-32gb-ram-for-149999/"
 status: published
 ---
 

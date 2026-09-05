@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://mobile.wednesday.is/the-enterprise-mobile-ai-report-2026"
 status: published
 ---
 

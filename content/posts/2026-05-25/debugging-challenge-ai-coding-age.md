@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: The Incident Challenge
     role: project
+source:
+  name: "Hacker News"
+  url: "https://theincidentchallenge.com/"
 status: published
 ---
 

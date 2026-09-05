@@ -38,6 +38,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rewz9p/we_build_sleep_for_local_llms_model_learns_facts/"
 status: published
 ---
 

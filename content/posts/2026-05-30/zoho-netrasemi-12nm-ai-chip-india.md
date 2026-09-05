@@ -38,6 +38,9 @@ mentions:
     role: chip developer
   - name: India Today
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.indiatoday.in/zoho-netrasemi-ai-chip"
 status: published
 ---
 

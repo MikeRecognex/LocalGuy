@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Tech Insider
     role: publisher
+source:
+  name: "tech-insider.org"
+  url: "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tamFUdnR2TEJQUFA1ZFBBeWpyWkxJbzZ0OWt5bkZ3b0hvcEF1aXpLbVZmdkQxSVJlNFAxS25yRm5NVDIteHhRTkYza2NETWFCRGhlTDdNajZhcWt2RkgxRUxZZkN1TDNYTC1NSmdXM3hrVTZSYjA4?oc=5"
 status: published
 ---
 

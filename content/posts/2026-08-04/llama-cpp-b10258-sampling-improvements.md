@@ -16,6 +16,9 @@ tags:
   - open-source
   - release
   - sampling-mechanisms
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10258"
 status: published
 ---
 

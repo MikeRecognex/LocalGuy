@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: ElevenLabs
     role: competitor
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1s46ylj"
 status: published
 ---
 

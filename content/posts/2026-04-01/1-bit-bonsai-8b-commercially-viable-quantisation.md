@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: prism-ml
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://prismml.com/news/bonsai-8b"
 status: published
 ---
 

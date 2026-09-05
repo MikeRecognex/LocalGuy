@@ -23,6 +23,9 @@ tags:
   - release
   - showcase
   - wearables
+source:
+  name: "Google News"
+  url: "https://www.msn.com/en-us/news/technology/snapdragon-c-specs"
 status: published
 ---
 

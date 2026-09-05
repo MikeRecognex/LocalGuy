@@ -8,6 +8,9 @@ tags:
   - quantization
   - performance-benchmark
   - gpu-kernels
+source:
+  name: "r/LocalLLaMA"
+  url: "https://medium.com/ai-advances/flashattention-4-python-gpu-kernel-blackwell-2b18f51c8b32?sk=59bca93c369143e5f74fb0f86e57e6d0"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/i/status/2078536501969756319"
 status: published
 ---
 

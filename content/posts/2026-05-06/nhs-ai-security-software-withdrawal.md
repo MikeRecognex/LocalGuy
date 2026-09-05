@@ -34,6 +34,9 @@ mentions:
     role: publisher
   - name: Computing.co.uk
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.computing.co.uk/news/2026/security/nhs-england-withdraws-public-software-over-hacking-fears"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/my-local-llm-is-helping-me-make-my-dream-game-one-day-at-a-time/"
 status: published
 ---
 

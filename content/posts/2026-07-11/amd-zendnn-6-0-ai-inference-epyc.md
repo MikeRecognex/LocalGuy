@@ -15,6 +15,9 @@ tags:
   - intermediate
   - moe-acceleration
   - release
+source:
+  name: "AMD"
+  url: "https://www.amd.com/en/products/software/zendnn.html"
 status: published
 ---
 

@@ -20,6 +20,9 @@ mentions:
     role: CEO
   - name: Reuters
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/"
 status: published
 ---
 

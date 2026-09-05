@@ -15,6 +15,9 @@ tags:
   - qwen
   - qwen-model
   - resource-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rk5qmr/qwen3527b_q4_quantization_comparison/"
 status: published
 ---
 

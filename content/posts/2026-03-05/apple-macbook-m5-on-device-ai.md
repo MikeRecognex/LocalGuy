@@ -20,6 +20,9 @@ tags:
   - power-efficiency
   - quantization
   - release
+source:
+  name: "Google News"
+  url: "https://inshorts.com/en/news/apple-unveils-macbook-pro-with-m5-pro--m5-max-and-on-device-ai-1772629413486"
 status: published
 ---
 

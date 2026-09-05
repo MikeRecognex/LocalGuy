@@ -31,6 +31,9 @@ mentions:
     role: developer community
   - name: Mastodon
     role: platform
+source:
+  name: "Hacker News"
+  url: "https://mastodon.social/@firefoxwebdevs/116492853483021978"
 status: published
 ---
 

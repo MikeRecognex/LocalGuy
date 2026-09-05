@@ -23,6 +23,9 @@ mentions:
     handle: "@rasbt"
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://magazine.sebastianraschka.com/p/using-local-coding-agents"
 status: published
 ---
 

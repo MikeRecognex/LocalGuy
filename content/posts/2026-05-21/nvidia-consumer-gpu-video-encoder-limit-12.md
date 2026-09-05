@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://developer.nvidia.com/video-encode-decode-support-matrix"
 status: published
 ---
 

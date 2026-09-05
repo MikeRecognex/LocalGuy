@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: ByteShape
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/byteshape/Qwen3.5-9B-GGUF"
 status: published
 ---
 

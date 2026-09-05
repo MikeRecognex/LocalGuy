@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://lkml.org/lkml/2026/5/17/896"
 status: published
 ---
 

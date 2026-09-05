@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: LGAI
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B"
 status: published
 ---
 

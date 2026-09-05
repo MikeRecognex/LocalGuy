@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Yahoo Tech
     role: publisher
+source:
+  name: "Yahoo Tech"
+  url: "https://www.yahoo.com/tech/setting-up-local-llm-production"
 status: published
 ---
 

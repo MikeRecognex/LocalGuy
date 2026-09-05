@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: GeekyGadgets.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.geeky-gadgets.com/qwen-3-5-small-models/"
 status: published
 ---
 

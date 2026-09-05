@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://old.reddit.com/r/java/comments/1shho8f/the_purejava_llm_revolution_the_jvm_now_has_all/"
 status: published
 ---
 

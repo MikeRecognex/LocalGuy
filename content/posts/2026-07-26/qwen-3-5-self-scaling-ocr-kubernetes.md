@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/neural-maze/production-ocr-course"
 status: published
 ---
 

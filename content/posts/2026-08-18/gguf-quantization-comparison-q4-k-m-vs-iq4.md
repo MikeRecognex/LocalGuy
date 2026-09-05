@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i"
 status: published
 # Duplicate of 2026-08-19/gguf-quantization-comparison-q4-k-m-iq4.md — same source
 # article (kaitchup "Choosing a GGUF model"), ingested twice a day apart. The 08-19

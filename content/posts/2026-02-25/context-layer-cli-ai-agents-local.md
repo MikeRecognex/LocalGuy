@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://ctxlayer.dev/"
 status: published
 ---
 

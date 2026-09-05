@@ -8,6 +8,9 @@ tags:
   - open-source
   - edge-deployment
   - vision
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcDd0MlpJXzFYUGxTRjQtaVJHNWthN2xZcGdtbHZFekRMb1RxcHFTVXkwTzhmZkNsZ1ROT3R3NnM2a1dpZVNOZ01zUUxtNUtOSTBrUk9kMFlVc0ZNNGtQRklkMnNHWGR2UnB0bTNCY0ZfMHJDYUZJRW8zQkxwWFpwSGh2N2JDQQ?oc=5"
 status: draft
 ---
 

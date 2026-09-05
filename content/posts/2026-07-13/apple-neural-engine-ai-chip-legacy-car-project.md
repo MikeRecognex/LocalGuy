@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: The Verge
     role: publisher
+source:
+  name: "The Verge"
+  url: "https://www.theverge.com/2024/1/15/apple-self-driving-car-ai-chips"
 status: published
 ---
 

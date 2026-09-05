@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://abstatisticalconsulting.substack.com/p/brief-notes-on-the-openaihugging"
 status: published
 ---
 

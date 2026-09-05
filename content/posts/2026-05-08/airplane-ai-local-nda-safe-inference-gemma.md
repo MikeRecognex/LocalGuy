@@ -26,6 +26,9 @@ mentions:
     role: product provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://airplane-ai.franzai.com/"
 status: published
 ---
 

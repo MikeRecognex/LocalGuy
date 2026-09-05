@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://system-2-arena.vercel.app/showcase/ra2?war=sol-vs-fable-lake"
 status: published
 ---
 

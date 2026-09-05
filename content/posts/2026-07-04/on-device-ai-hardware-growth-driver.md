@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Shenzhen Longsys
     role: manufacturer
+source:
+  name: "finance.biggo.com"
+  url: "https://finance.biggo.com"
 status: published
 ---
 

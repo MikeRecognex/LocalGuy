@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://nowledge-labs.ai/blog/rent-the-intelligence-own-the-memory"
 status: published
 ---
 

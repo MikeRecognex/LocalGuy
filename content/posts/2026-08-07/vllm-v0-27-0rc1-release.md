@@ -16,6 +16,9 @@ tags:
   - open-source
   - release
   - vllm
+source:
+  name: "vLLM release"
+  url: "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1"
 status: published
 ---
 

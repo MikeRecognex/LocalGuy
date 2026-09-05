@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: JournalArta
     role: publisher
+source:
+  name: "JournalArta"
+  url: "https://www.journalarta.com"
 status: published
 ---
 

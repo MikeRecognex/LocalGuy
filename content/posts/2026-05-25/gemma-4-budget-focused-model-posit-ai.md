@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Posit
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://posit.co/blog/gemma-4-new-budget-focused-model-posit-ai"
 status: published
 ---
 

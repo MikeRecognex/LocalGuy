@@ -15,6 +15,9 @@ tags:
   - open-source
   - production-deployment
   - quantization
+source:
+  name: "NVIDIA Blog"
+  url: "https://www.nvidia.com/en-us/ai-data-center/jetson/"
 status: published
 ---
 

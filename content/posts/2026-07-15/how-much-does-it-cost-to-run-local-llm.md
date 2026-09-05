@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Towards Data Science"
+  url: "https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/"
 status: published
 ---
 

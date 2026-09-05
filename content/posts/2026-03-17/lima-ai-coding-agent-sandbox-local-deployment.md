@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Atomic Object
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://spin.atomicobject.com/lima-ai-coding-agent-sandbox/"
 status: published
 ---
 

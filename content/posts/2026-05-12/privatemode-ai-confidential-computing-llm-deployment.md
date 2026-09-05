@@ -27,6 +27,9 @@ mentions:
     role: provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.privatemode.ai/"
 status: published
 ---
 

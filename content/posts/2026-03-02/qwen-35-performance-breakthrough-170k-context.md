@@ -8,6 +8,9 @@ tags:
   - performance-benchmark
   - quantization
   - qwen
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/kkbjdu2x6img1"
 status: published
 ---
 

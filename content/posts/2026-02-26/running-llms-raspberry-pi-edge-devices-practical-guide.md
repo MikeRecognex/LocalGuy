@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/llms-raspberry-pi-edge/"
 status: published
 ---
 

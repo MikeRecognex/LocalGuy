@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: IEEE Spectrum
     role: publisher
+source:
+  name: "IEEE Spectrum"
+  url: "https://spectrum.ieee.org/amp/wearable-devices-ai-health-mai-2676089259"
 status: published
 ---
 

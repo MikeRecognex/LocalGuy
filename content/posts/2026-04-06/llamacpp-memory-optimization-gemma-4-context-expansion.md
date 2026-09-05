@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sdst2i/get_30k_more_context_using_q8_mmproj_with_gemma_4/"
 status: published
 ---
 

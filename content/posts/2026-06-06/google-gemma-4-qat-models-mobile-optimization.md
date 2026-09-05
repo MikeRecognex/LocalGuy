@@ -16,6 +16,9 @@ tags:
   - quantization
   - quantization-aware-training
   - release
+source:
+  name: "Google News"
+  url: "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/"
 status: published
 ---
 

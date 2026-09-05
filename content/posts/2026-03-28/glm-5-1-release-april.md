@@ -20,6 +20,9 @@ tags:
   - opinion
   - release
   - use-case-matching
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s5l23i/glm51_model_weight_will_be_released_on_april_6_or/"
 status: published
 ---
 

@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.manilatimes.net/2026/05/20/tmt-newswire/globenewswire/google-research-and-synaptics-partner-to-showcase-immersive-edge-ai-experiences-powered-by-the-coralboard-at-google-io-2026/2347553"
 status: published
 ---
 

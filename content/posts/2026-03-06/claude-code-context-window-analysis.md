@@ -21,6 +21,9 @@ mentions:
     role: community-publisher
   - name: theredbeard.io
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://theredbeard.io/blog/five-clis-walk-into-a-context-window/"
 status: published
 ---
 

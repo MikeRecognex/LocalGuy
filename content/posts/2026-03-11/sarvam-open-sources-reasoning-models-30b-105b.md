@@ -25,6 +25,9 @@ mentions:
     role: model-developer
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/sarvam-open-sources-30b-105b-reasoning-models"
 status: published
 ---
 

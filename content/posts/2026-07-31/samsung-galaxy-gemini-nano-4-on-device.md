@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: SamMobile
     role: publisher
+source:
+  name: "SamMobile"
+  url: "https://www.sammobile.com/news/samsungs-newest-foldable-phones-use-googles-gemini-nano-4-on-device-ai-model/"
 status: published
 ---
 

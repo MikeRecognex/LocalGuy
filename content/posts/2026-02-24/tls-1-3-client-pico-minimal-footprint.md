@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: theotrama
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/theotrama/pico-tls"
 status: published
 ---
 

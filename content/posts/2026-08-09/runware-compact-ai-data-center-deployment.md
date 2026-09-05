@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: Gabriela Linzainescu
     role: author
+source:
+  name: "Hacker News"
+  url: "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/"
 status: published
 ---
 

@@ -12,6 +12,9 @@ tags:
   - open-source
   - runtime-optimization
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vUHJvenZGNk14MFVyZjNKUUhHSVNndkRYRHU2eUcyRU1yR21RcFh6cUlBcE9keVU0MDlkaW9EX21adFkzY2tsT3FRcFBjQ2FzZEM4dTFDb1B6ZEpiVVhLMV84dTJsX2ZoUUcwbEpfN0V3WDA?oc=5"
 status: published
 ---
 

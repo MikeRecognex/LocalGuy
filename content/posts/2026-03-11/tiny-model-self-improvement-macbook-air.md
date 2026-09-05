@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rq3bix/ran_an_experiment_08b_model_teaching_itself_on_a/"
 status: published
 ---
 

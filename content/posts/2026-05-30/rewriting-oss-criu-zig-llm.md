@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Loophole Labs
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://loopholelabs.io/blog/rewriting-oss-in-the-ai-era"
 status: published
 ---
 

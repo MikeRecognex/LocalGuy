@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hackster.io
     role: publisher
+source:
+  name: "Hackster.io"
+  url: "https://www.hackster.io/news/run-a-local-llm-on-raspberry-pi-s-bare-metal-linux-not-necessary-6c7e3817293f"
 status: published
 ---
 

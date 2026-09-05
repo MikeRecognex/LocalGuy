@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/"
 status: published
 ---
 

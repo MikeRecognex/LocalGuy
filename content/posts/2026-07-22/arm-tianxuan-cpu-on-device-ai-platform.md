@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: BigGo Finance
     role: publisher
+source:
+  name: "BigGo Finance"
+  url: "https://finance.biggo.com/news/f5ebea4b-d115-4f64-8b1a-266cdf2acfd5"
 status: published
 ---
 

@@ -9,6 +9,9 @@ tags:
   - open-source
   - vllm
   - tooling
+source:
+  name: "PrimeIntellect-ai/prime-agent"
+  url: "https://github.com/PrimeIntellect-ai/prime-agent"
 status: published
 ---
 

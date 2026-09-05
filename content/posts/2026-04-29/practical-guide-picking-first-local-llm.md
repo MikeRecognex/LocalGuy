@@ -8,6 +8,9 @@ tags:
   - guides
   - model-selection
   - ollama
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/picking-your-first-local-llm-easier-than-internet-makes-it-sound/"
 status: published
 ---
 

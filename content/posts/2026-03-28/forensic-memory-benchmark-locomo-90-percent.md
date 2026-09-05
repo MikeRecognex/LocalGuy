@@ -31,6 +31,9 @@ mentions:
     role: competitor
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://forensicmemory.com/proof.html"
 status: published
 ---
 

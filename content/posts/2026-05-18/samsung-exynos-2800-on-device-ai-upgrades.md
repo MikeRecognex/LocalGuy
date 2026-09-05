@@ -25,6 +25,9 @@ tags:
   - privacy-first-ai
   - quantization
   - release
+source:
+  name: "Google News"
+  url: "https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/"
 status: published
 ---
 

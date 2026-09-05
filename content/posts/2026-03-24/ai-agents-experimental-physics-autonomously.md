@@ -8,6 +8,9 @@ tags:
   - autonomous-systems
   - research
   - applications
+source:
+  name: "Hacker News"
+  url: "https://arxiv.org/abs/2603.20179"
 status: published
 ---
 

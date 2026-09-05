@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hackster.io
     role: publisher
+source:
+  name: "Hackster.io"
+  url: "https://www.hackster.io/dilshan-jayakody/building-a-dual-v100-ai-workstation-for-local-llms-9eb327"
 status: published
 ---
 

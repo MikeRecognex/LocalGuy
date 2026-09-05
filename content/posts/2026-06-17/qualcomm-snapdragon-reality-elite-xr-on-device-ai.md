@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Gadgets 360
     role: publisher
+source:
+  name: "Gadgets 360"
+  url: "https://www.gadgets360.com"
 status: published
 ---
 

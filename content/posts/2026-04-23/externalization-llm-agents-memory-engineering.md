@@ -26,6 +26,9 @@ tags:
   - research
   - researcher
   - scalable-deployment
+source:
+  name: "Hacker News"
+  url: "https://arxiv.org/abs/2604.08224"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Newser
     role: publisher
+source:
+  name: "Newser"
+  url: "https://www.newser.com"
 status: published
 ---
 

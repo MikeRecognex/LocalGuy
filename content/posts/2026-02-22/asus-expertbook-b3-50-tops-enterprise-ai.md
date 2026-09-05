@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/asus-expertbook-b3"
 status: published
 ---
 Asus's ExpertBook B3 G2, equipped with 50 TOPS of dedicated AI compute capability, represents a significant milestone in enterprise hardware for local model deployment. This class of business laptop brings meaningful acceleration for inference workloads, making on-device model serving viable for professional applications without requiring external GPU clusters.

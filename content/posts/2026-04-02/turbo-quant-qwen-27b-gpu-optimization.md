@@ -20,6 +20,9 @@ tags:
   - qwen
   - showcase
   - turbo-quant
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/118nngfciksg1.png"
 status: published
 ---
 

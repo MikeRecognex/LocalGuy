@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Gyro-Claw
     role: project
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47307215"
 status: published
 ---
 

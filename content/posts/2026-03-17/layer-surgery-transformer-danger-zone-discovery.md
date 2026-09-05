@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rvxmnh/i_spent_a_weekend_doing_layer_surgery_on_6/"
 status: published
 ---
 

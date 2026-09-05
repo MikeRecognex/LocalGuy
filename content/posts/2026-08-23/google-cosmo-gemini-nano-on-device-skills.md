@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: NPowerUser
     role: publisher
+source:
+  name: "Google News / NPowerUser"
+  url: "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1h3M0o0a1czbkh3Ujh5RE8zZDBHdThlZHVMc2QwOGVBX3lSNHhKalBjMk1fRjRCMk5rZTBEeDgyNnAxNzR3RkFONTdmTWt6emhGSFZSY0k2Rk1RanVTNWtpWThNbHBydWY1RW11R2NqblE2bVBUOGtNQm1zX0tBSUtSYVo?oc=5"
 status: published
 ---
 

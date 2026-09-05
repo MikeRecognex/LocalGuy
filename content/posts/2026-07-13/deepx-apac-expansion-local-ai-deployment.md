@@ -25,6 +25,9 @@ mentions:
     role: partner
   - name: TradingView
     role: publisher
+source:
+  name: "TradingView"
+  url: "https://www.tradingview.com/news/deepx-expands-apac-footprint-avnet-distribution"
 status: published
 ---
 

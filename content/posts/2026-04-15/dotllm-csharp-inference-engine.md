@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://kokosa.dev/blog/2026/dotllm/"
 status: published
 ---
 

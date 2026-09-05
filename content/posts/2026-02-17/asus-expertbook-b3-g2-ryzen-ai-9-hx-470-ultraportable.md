@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/asus-expertbook-b3-g2-laptop-has-a-ryzen-ai-9-hx-470-cpu-in-a-1-41kg-body/ar-AA1svmN0"
 status: published
 ---
 

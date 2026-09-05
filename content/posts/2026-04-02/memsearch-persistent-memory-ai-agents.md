@@ -29,6 +29,9 @@ mentions:
     role: creator
   - name: Zilliztech
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/zilliztech/memsearch"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: developer
   - name: Jablíčkář.cz
     role: publisher
+source:
+  name: "Jablíčkář.cz"
+  url: "https://jablickar.cz/de/vivo-na-summitu-ai-for-good-global-summit-2026-predstavilo-bezpecnostni-reseni-pro-on-device-ai/"
 status: published
 ---
 

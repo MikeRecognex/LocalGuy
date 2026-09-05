@@ -34,6 +34,9 @@ mentions:
     role: source
   - name: preset.io
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://preset.io/blog/project-glasswing-open-source-ai-reckoning/"
 status: published
 ---
 

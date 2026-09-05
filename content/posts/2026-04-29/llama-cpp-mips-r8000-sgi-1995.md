@@ -8,6 +8,9 @@ tags:
   - hardware
   - edge-inference
   - open-source
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/mov_axbx/status/2048656497370923470"
 status: published
 ---
 

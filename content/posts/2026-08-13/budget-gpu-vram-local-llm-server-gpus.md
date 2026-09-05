@@ -15,6 +15,9 @@ tags:
   - hardware-sourcing
   - local-inference
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaFo5Vm9fcEp4UURncXQxajFMYjBUSUU0SElwTUI5VFRYN2NnVlIyYVFYS3QyVHkwMW4ySW1yYnczTjhIRGxYZ3o3TjRiYXJKdGctZlZQTWxzZkR5OUVia1N6UUdEUVJWRk8yS2l5MDBvSmlHT3dvSzFnUkhjVWlrVHZseUU1Z0F2anpz?oc=5"
 status: published
 ---
 

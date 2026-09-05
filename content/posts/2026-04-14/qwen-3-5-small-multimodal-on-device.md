@@ -33,6 +33,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://ai-tldr.dev/releases/alibaba-qwen-3-5-small/"
 status: published
 ---
 

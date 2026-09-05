@@ -17,6 +17,9 @@ mentions:
     role: community-forum
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rgpwn5/qwen_3527b_punches_waaaaay_above_its_weight_with/"
 status: published
 ---
 

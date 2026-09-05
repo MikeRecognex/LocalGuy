@@ -27,6 +27,9 @@ tags:
   - performance-improvement
   - performance-overhead
   - production-deployment
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sj6zz8/huge_improvement_after_moving_from_ollama_to/"
 status: published
 ---
 

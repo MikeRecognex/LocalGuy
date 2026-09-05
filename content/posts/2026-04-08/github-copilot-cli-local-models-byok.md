@@ -23,6 +23,9 @@ tags:
   - news
   - release
   - self-hosted-ai
+source:
+  name: "The GitHub Blog"
+  url: "https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/"
 status: published
 ---
 

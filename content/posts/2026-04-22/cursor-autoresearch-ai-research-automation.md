@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Andrey Karpathy
     role: researcher
+source:
+  name: "Hacker News"
+  url: "https://github.com/ergenekonyigit/cursor-autoresearch/tree/main"
 status: published
 ---
 

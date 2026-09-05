@@ -22,6 +22,9 @@ tags:
   - researcher
   - small-model-training
   - training
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r7mscr/i_trained_a_language_model_on_cpu_in_12_hours/"
 status: published
 ---
 

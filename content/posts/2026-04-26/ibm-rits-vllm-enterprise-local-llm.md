@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.futurumgroup.com/ibm-rits-vllm-enterprise-ai"
 status: published
 ---
 

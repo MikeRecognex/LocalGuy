@@ -23,6 +23,9 @@ tags:
   - performance-optimization
   - quantization
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://github.com/arte-fact/llamacpp-gfx-906-turbo"
 status: published
 ---
 

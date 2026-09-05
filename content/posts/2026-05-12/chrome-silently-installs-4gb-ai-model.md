@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/chrome-ai-model-download/"
 status: published
 ---
 

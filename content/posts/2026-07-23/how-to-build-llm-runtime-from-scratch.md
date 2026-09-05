@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Google News"
+  url: "https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/"
 status: published
 ---
 

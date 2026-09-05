@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://bito.ai/benchmarks/swe-bench-pro-evaluation/"
 status: published
 ---
 

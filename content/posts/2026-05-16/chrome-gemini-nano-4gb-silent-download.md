@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://msn.com"
 status: published
 ---
 

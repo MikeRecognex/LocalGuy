@@ -31,6 +31,9 @@ mentions:
     role: framework
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://yoloai.dev/posts/ai-agent-threat-landscape/"
 status: published
 ---
 

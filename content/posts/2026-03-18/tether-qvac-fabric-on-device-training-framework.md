@@ -31,6 +31,9 @@ mentions:
     role: developer
   - name: The Cryptonomist
     role: publisher
+source:
+  name: "The Cryptonomist"
+  url: "https://en.cryptonomist.ch/2026/03/18/on-device-ai-qvac-fabric/"
 status: published
 ---
 

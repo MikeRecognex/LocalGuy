@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: Ars Technica
     role: publisher
+source:
+  name: "Ars Technica"
+  url: "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcklZLTRHcnNPemQwb3BScFFPUFI3cXNvYV9KSDhFaXItQUhXa3FwdkpXYzB2ZlItQmI3S0xKbDlhZ2hDOFBrNE93MHZReWZnblNuRUhYUWJPcWdmN0psd0hLYXl5UWttenlXekJPcG1semVGZGk2V0tNMXIxYXk3TGZEVTZCanVIMUpYWHlYNVV3OGJpZGRxazg4MTFNNGcxbmFFYWlR?oc=5"
 status: published
 ---
 

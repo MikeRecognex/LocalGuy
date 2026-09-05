@@ -31,6 +31,9 @@ mentions:
     role: project
   - name: PyTorch Foundation
     role: backer
+source:
+  name: "Google News"
+  url: "https://www.streetinsider.com/PRNewswire/PyTorch+Foundation+Welcomes+Helion+as+a+Foundation-Hosted+Project+to+Standardize+Open,+Portable,+and+Accessible+AI+Kernel+Authoring/26278253.html"
 status: published
 ---
 

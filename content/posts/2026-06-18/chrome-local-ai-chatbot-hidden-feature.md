@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: PiunikaWeb
     role: publisher
+source:
+  name: "PiunikaWeb"
+  url: "https://piunikaweb.com/2026/06/18/how-to-use-chrome-gemini-nano-local-ai/"
 status: published
 ---
 

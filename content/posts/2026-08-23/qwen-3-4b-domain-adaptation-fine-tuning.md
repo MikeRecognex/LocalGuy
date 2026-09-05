@@ -17,6 +17,9 @@ mentions:
     role: publisher
   - name: teachmecoolstuff.com
     role: publisher
+source:
+  name: "Hacker News / teachmecoolstuff.com"
+  url: "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain"
 status: published
 ---
 

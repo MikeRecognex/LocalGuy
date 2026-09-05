@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: MiniBench
     role: benchmark provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/ubergarm/Qwen3.5-397B-A17B-GGUF"
 status: published
 ---
 

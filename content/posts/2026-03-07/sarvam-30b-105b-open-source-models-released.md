@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Sarvam AI
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.sarvam.ai/blogs/sarvam-30b-105b"
 status: published
 ---
 

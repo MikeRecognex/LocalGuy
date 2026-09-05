@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e"
 status: published
 ---
 

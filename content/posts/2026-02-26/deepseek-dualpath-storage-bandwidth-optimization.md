@@ -42,6 +42,9 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rf740o/deepseek_released_new_paper_dualpath_breaking_the/"
 status: published
 ---
 

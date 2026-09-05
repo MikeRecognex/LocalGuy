@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: 조선일보
     role: publisher
+source:
+  name: "조선일보"
+  url: "https://www.chosun.com"
 status: published
 ---
 

@@ -8,6 +8,9 @@ tags:
   - observability
   - open-source
   - production-deployment
+source:
+  name: "Hacker News"
+  url: "https://github.com/tryrubric/rubric"
 status: published
 ---
 

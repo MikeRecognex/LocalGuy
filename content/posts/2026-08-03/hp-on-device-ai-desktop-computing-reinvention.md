@@ -31,6 +31,9 @@ mentions:
     role: manufacturer
   - name: Reseller News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.reseller.co.nz/article/4204257/hp-looks-to-on-device-ai-to-reinvent-desktop-computing.html"
 status: published
 ---
 

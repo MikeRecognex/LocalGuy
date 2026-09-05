@@ -16,6 +16,9 @@ tags:
   - on-device-ai
   - privacy-preserving-ai
   - qualcomm
+source:
+  name: "Google News"
+  url: "https://bitget.com"
 status: published
 ---
 

@@ -24,6 +24,9 @@ mentions:
     role: provider
   - name: blockchain.news
     role: publisher
+source:
+  name: "blockchain.news"
+  url: "https://blockchain.news/dflash-speculative-decoding"
 status: published
 ---
 

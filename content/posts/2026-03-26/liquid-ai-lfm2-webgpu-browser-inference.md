@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Liquid AI
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/9wsr6hcw29rg1"
 status: published
 ---
 

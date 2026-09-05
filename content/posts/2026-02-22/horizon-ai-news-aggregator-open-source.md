@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: GitHub
     role: repository-host
+source:
+  name: "Hacker News"
+  url: "https://github.com/Thysrael/Horizon"
 status: published
 ---
 

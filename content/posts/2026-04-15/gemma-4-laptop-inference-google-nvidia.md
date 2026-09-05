@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Geeky Gadgets
     role: publisher
+source:
+  name: "Google News / Geeky Gadgets"
+  url: "https://www.geeky-gadgets.com/free-local-ai-gemma-4-2026/"
 status: published
 ---
 

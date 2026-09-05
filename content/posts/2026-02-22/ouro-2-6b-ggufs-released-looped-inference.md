@@ -15,6 +15,9 @@ tags:
   - quantization
   - reasoning
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rbbmcl/ouro_26b_ggufs_are_up_q8_0_and_q4_k_m_release/"
 status: published
 ---
 

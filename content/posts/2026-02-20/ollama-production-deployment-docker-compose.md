@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/ollama-local-llm-production-deployment-docker/"
 status: published
 ---
 

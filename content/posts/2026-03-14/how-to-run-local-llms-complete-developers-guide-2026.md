@@ -19,6 +19,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/run-local-llms-2026-complete-developer-guide/"
 status: published
 ---
 

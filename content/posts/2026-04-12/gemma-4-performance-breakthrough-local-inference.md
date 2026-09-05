@@ -22,6 +22,9 @@ tags:
   - performance
   - real-time-inference
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sithlm/if_you_havent_yet_given_gemma_4_a_godo_it_today/"
 status: published
 ---
 

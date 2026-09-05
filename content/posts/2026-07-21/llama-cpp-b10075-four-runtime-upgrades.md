@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Techi
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.techi.com/llama-cpp-b10075-local-ai-agent-runtime/"
 status: published
 ---
 

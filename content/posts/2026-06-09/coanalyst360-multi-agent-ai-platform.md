@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: PenLink
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://www.penlink.com/press-release/coanalyst360-launch/"
 status: published
 ---
 

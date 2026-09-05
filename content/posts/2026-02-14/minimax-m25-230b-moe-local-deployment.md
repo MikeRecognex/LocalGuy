@@ -30,6 +30,9 @@ tags:
   - on-device-inference
   - quantization
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/MiniMaxAI/MiniMax-M2.5"
 status: published
 ---
 

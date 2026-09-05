@@ -15,6 +15,9 @@ tags:
   - production-ops
   - real-world-performance
   - self-hosted
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r7shtv/i_built_a_benchmark_that_tests_coding_llms_on/"
 status: published
 ---
 

@@ -34,6 +34,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://pydantic.dev/articles/pydantic-deep-agents"
 status: published
 ---
 

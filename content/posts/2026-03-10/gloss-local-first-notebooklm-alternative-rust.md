@@ -14,6 +14,9 @@ tags:
   - open-source
   - rag
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/8lyj777a65og1"
 status: published
 ---
 

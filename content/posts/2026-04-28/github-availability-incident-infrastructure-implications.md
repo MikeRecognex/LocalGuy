@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
 status: published
 ---
 

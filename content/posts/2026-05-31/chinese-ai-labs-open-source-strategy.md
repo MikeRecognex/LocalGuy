@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open"
 status: published
 ---
 

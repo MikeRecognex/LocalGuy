@@ -25,6 +25,9 @@ mentions:
     role: manufacturer
   - name: Gizmochina
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.gizmochina.com/2026/07/19/nubia-announces-ai-agent-smartphone-with-on-device-ai-processing/"
 status: published
 ---
 

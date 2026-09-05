@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: LatestLY
     role: publisher
+source:
+  name: "LatestLY"
+  url: "https://www.latestly.com/quickly/technology/google-limits-gemini-intelligence-to-new-flagships-7433572.html"
 status: published
 ---
 

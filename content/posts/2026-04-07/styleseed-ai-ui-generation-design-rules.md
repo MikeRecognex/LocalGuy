@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: bitjaru
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/bitjaru/styleseed"
 status: published
 ---
 

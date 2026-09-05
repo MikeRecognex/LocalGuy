@@ -15,6 +15,9 @@ tags:
   - open-source
   - qwen
   - qwen3-8-27b
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0UENzNDB1bElnY0FiSDB5RjNEZG5TSzJ1c21zRVFia1pmWkdwaF9qanY0a1lLaFdiTjJ4azBNRXNBenk0enhBYlo1elpST0RxUnhid0w2U0tqZmxQM1JHUWN5TFVYeDR3dkpRQm1B?oc=5"
 status: published
 ---
 

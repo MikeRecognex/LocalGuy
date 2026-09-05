@@ -21,6 +21,9 @@ tags:
   - on-device-deployment
   - storage-efficiency
   - storage-footprint
+source:
+  name: "Hacker News"
+  url: "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
 status: published
 ---
 

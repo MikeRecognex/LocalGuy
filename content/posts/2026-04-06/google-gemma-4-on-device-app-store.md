@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: OfficeChai
     role: publisher
+source:
+  name: "OfficeChai"
+  url: "https://officechai.com/ai/google-ai-edge-gallery-breaks-into-top-10-on-app-store-as-users-try-out-on-device-gemma-4-model/"
 status: published
 ---
 

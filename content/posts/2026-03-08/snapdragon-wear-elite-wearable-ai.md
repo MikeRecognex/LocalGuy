@@ -16,6 +16,9 @@ tags:
   - release
   - resource-optimization
   - wearable-ai
+source:
+  name: "Google News"
+  url: "https://www.qoo10.co.id"
 status: published
 ---
 

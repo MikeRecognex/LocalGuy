@@ -22,6 +22,9 @@ mentions:
     role: cloud-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://mrkt30.com/company-blew-500m-on-claude-because-nobody-set-a-spending-limit/"
 status: published
 ---
 

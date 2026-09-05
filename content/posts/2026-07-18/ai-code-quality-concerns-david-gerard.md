@@ -22,6 +22,9 @@ mentions:
     role: critic
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.youtube.com/watch?v=EwLW11Ucnps"
 status: published
 ---
 

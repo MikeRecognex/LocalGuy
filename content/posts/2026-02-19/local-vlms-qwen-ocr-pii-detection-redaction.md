@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r8smbk/local_vlms_qwen_3_vl_for_document_ocr_with/"
 status: published
 ---
 

@@ -23,6 +23,9 @@ tags:
   - performance
   - real-time-ai
   - speculative-decoding
+source:
+  name: "Google News"
+  url: "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
 status: published
 ---
 

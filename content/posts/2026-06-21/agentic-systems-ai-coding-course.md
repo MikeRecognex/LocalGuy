@@ -21,6 +21,9 @@ mentions:
     role: author
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/bryanyzhu/agentic-ai-system-course"
 status: published
 ---
 

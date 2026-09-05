@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: GitHub
     role: publisher
+source:
+  name: "github.com"
+  url: "https://github.com/deepseek-ai/deepseek-harness"
 status: published
 origin: manual
 ---

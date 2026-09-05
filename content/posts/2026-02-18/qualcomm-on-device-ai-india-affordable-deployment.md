@@ -30,6 +30,9 @@ mentions:
     role: partner
   - name: moneycontrol.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://moneycontrol.com"
 status: published
 ---
 

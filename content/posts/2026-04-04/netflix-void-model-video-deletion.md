@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/bgt3czvcwysg1.jpeg"
 status: published
 ---
 

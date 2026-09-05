@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hindustan Times
     role: publisher
+source:
+  name: "Hindustan Times"
+  url: "https://www.hindustantimes.com"
 status: published
 ---
 

@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/coolest-open-source-projects-2026"
 status: published
 ---
 

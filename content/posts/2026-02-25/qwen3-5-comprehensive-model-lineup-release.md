@@ -14,6 +14,9 @@ tags:
   - quantization
   - qwen
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/Qwen/Qwen3.5-35B-A3B"
 status: published
 ---
 

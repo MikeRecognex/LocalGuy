@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rnvps2/im_benchmarking_10_llms_including_deepseek_llama/"
 status: published
 ---
 

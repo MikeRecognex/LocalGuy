@@ -30,6 +30,9 @@ mentions:
     role: competitor
   - name: Unsloth Studio
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rwwqbm/my_company_just_handed_me_a_2x_h200_282gb_vram/"
 status: published
 ---
 

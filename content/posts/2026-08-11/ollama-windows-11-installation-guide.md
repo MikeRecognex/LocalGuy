@@ -12,6 +12,9 @@ tags:
   - tutorial
   - windows
   - windows-deployment
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU1UOGlIaVZBRkZkSTFTaElaV1UxdTFsV2Y2VlFTVHAwb1RRY3JhODBMblEtSEJvWVpGN3E5RnlpMFhnXzZVN0RNazBKMXlLVmphekhLRXNvNGJHOUpHd2FFV2h3d0xkWmxrMXdxSjNtWmJBendyY3RiajQ1bmZObzVRUWIyS3pBeEtOTFR6bTlaUQ?oc=5"
 status: published
 ---
 

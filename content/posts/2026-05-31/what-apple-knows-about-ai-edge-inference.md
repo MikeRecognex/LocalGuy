@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon"
 status: published
 ---
 

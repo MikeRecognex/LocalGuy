@@ -17,6 +17,9 @@ mentions:
     role: publisher
   - name: GitButler
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.gitbutler.com/local-llm-gauntlet"
 status: published
 ---
 

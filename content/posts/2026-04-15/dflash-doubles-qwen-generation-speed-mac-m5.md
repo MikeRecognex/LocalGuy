@@ -25,6 +25,9 @@ tags:
   - speculative-decoding
 mentions:
   - name: oMLX
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1sltncp"
 status: published
 ---
 

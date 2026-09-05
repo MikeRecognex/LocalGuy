@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
 status: published
 ---
 

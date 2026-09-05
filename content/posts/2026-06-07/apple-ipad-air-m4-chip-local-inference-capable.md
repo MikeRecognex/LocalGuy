@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Technobezz
     role: publisher
+source:
+  name: "Technobezz"
+  url: "https://www.technobezz.com/best/apple-ipad-air-with-m4-chip-and-1tb-storage-drops-to-1349"
 status: published
 ---
 

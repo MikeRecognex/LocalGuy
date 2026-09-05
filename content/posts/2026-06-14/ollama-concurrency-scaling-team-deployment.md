@@ -16,6 +16,9 @@ tags:
   - ollama
   - production-deployment
   - scaling
+source:
+  name: "Google News"
+  url: "https://technetbook.com"
 status: published
 ---
 

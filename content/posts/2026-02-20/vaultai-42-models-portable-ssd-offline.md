@@ -31,6 +31,9 @@ mentions:
     role: product
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://vaultai.us/"
 status: published
 ---
 

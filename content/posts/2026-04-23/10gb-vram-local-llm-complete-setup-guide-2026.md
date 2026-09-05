@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/10gb-vram-local-llm-the-complete-setup-guide-2026/"
 status: published
 ---
 

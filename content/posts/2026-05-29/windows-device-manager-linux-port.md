@@ -29,6 +29,9 @@ mentions:
     handle: "actuallyaridan"
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/actuallyaridan/linux-devmgmt"
 status: published
 ---
 

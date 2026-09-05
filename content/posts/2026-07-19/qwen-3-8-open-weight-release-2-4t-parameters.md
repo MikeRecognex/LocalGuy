@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
 status: published
 ---
 

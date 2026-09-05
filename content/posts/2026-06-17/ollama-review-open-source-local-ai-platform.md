@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Quasa
     role: publisher
+source:
+  name: "Quasa"
+  url: "https://quasa.io/video/ollama-review-the-best-open-source-local-ai-platform-2"
 status: published
 ---
 

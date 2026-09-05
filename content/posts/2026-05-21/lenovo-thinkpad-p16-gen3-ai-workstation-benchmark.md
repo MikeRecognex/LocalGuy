@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Virtualization Review
     role: publisher
+source:
+  name: "Virtualization Review"
+  url: "https://virtualizationreview.com/articles/2026/05/20/benchmarking-a-portable-ai-workstation-lenovo-thinkpad-p16-gen-3-part-2.aspx"
 status: published
 ---
 

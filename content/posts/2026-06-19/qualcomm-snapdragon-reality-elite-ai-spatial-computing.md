@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Pulse 2.0
     role: publisher
+source:
+  name: "Pulse 2.0"
+  url: "https://pulse2.com/qualcomm-launches-snapdragon-reality-elite-platform-for-ai-powered-spatial-computing/"
 status: published
 ---
 

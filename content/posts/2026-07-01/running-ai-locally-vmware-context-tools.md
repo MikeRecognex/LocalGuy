@@ -22,6 +22,9 @@ mentions:
     role: infrastructure-provider
   - name: Virtualization Review
     role: publisher
+source:
+  name: "Virtualization Review"
+  url: "https://virtualizationreview.com/articles/2026/06/30/running-ai-locally-part-2-from-vmware-context-to-hands-on-tools.aspx"
 status: published
 ---
 

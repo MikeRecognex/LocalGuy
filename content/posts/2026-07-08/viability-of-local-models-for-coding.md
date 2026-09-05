@@ -23,6 +23,9 @@ mentions:
     handle: "@martinfowler"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html"
 status: published
 ---
 

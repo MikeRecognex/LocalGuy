@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: TestingCatalog
     role: publisher
+source:
+  name: "TestingCatalog"
+  url: "https://www.testingcatalog.com/mistral-releases-mistral-small-4-model-under-apache-2-0-licence/"
 status: published
 ---
 

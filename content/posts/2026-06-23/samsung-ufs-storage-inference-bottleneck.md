@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: The Elec
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.thelec.net/news/articleView.html?idxno=11576"
 status: published
 ---
 

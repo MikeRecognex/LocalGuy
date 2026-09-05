@@ -24,6 +24,9 @@ tags:
   - performance
   - quantization
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
 status: published
 ---
 

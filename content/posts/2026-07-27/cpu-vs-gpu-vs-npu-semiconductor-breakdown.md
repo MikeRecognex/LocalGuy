@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: WION
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.wion.in"
 status: published
 ---
 

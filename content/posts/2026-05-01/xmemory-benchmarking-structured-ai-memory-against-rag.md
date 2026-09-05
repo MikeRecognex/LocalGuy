@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://arxiv.org/abs/2604.27906"
 status: published
 ---
 

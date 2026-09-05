@@ -26,6 +26,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: community-forum
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1r22hlq"
 status: published
 ---
 

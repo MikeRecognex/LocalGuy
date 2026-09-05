@@ -24,6 +24,9 @@ mentions:
     role: partner
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yc1pWTkwzT0lMUThRWHJEc3NFUkNsSDhXVnR3VW43eDEzN3FxRlF5TXA1cjBZLTVsTGJkN3Y0SzBHeGNNQnFiblJRbDFEUUxadFdoQldYOFBScVJjaHF3WTRpdEROdGVjVUJwamZONkVFTDA?oc=5"
 status: published
 ---
 

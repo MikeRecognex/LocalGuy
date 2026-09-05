@@ -23,6 +23,9 @@ tags:
   - qualcomm
   - quality-assurance
   - quantization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r7s5nh/we_tested_the_same_int8_model_on_5_snapdragon/"
 status: published
 ---
 

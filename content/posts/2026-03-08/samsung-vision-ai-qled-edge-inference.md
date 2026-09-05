@@ -16,6 +16,9 @@ tags:
   - on-device-inference
   - vision
   - vision-ai
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

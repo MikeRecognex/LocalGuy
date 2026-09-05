@@ -16,6 +16,9 @@ tags:
   - release
   - vllm
   - vllm-integration
+source:
+  name: "AMD"
+  url: "https://www.amd.com/en/developer/resources/technical-articles/2026/amd-pace-integrates-with-vllm.html"
 status: published
 ---
 

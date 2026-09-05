@@ -30,6 +30,9 @@ mentions:
     role: manufacturer
   - name: StorageReview.com
     role: publisher
+source:
+  name: "StorageReview.com"
+  url: "https://www.storagereview.com/review/ubiquiti-unifi-g6-turret-review-4k-poe-camera-with-on-device-ai-for-199"
 status: published
 ---
 

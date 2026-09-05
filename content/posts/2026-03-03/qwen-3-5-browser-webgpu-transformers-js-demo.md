@@ -16,6 +16,9 @@ tags:
   - transformers-js
   - web-ai-integration
   - webgpu
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/hta9o2i95omg1"
 status: published
 ---
 

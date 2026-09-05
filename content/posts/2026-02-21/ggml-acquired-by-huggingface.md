@@ -26,6 +26,9 @@ mentions:
     role: acquired organization
   - name: r/LocalLLaMA
     role: community-forum
+source:
+  name: "r/LocalLLaMA"
+  url: "https://github.com/ggml-org/llama.cpp/discussions/19759"
 status: published
 ---
 

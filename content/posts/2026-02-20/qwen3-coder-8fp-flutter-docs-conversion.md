@@ -37,6 +37,9 @@ tags:
   - production-ops
   - showcase
   - zhipu
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1r9h3g8"
 status: published
 ---
 

@@ -8,6 +8,9 @@ tags:
   - mlx
   - optimization
   - open-source
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcndoT0Y1NDAyUHk3M3BiTW1SQWRHeDE3LU94MmkxMEprcEhuM0pRaTVUblRHREt2MTJ2dUt1S3RoRGFoTldsVVVlbENvMF9MTHFndFgzSll2LXo5cmpGWndhendzaWR0NHp4emVXRGJhWVdFQ01BZkRYY1Vmc3QtdTNR?oc=5"
 status: draft
 ---
 

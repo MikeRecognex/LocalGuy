@@ -11,6 +11,9 @@ tags:
   - metal-performance
   - open-source
   - release
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10319"
 status: published
 ---
 

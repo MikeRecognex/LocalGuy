@@ -19,6 +19,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@DolphinDB_Inc/from-raw-data-to-trained-models-an-ml-journey-b588fb81a086"
 status: published
 ---
 

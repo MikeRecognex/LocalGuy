@@ -16,6 +16,9 @@ tags:
   - open-source
   - open-source-models
   - release
+source:
+  name: "Google News"
+  url: "https://www.newsbytes.com"
 status: published
 ---
 

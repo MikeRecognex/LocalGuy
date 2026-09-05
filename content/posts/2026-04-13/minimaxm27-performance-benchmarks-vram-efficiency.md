@@ -24,6 +24,9 @@ tags:
   - multi-gpu-deployment
   - quantization
   - vram-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sjx7kg/minimaxm27_nvfp4_on_2x_rtx_pro_6000_blackwell/"
 status: published
 ---
 

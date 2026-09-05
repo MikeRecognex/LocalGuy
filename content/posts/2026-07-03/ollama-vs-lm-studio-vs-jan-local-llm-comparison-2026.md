@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Tech Insider
     role: publisher
+source:
+  name: "Tech Insider"
+  url: "https://tech-insider.org/ollama-vs-lm-studio-vs-jan-local-llms-2026"
 status: published
 ---
 

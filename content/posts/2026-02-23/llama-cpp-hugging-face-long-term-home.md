@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: WinBuzzer
     role: publisher
+source:
+  name: "WinBuzzer"
+  url: "https://www.winbuzzer.com/2026/01/open-source-llama-cpp-finds-long-term-home-at-hugging-face/"
 status: published
 ---
 

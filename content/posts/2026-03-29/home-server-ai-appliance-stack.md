@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/i-turned-my-home-server-into-an-ai-appliance-and-this-is-the-stack-that-actually-stuck"
 status: published
 ---
 

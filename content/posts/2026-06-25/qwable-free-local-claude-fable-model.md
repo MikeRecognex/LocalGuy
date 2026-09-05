@@ -15,6 +15,9 @@ tags:
   - privacy
   - privacy-compliance
   - release
+source:
+  name: "Google News"
+  url: "https://lcx.exchange/"
 status: published
 ---
 

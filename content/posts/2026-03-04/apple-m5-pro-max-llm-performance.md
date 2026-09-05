@@ -20,6 +20,9 @@ tags:
   - performance
   - release
   - user-experience
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/2q4hcz9obumg1.png"
 status: published
 ---
 

@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Android Authority
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.androidauthority.com/google-ai-edge-offline-ai-app-upgrades-3669038/"
 status: published
 ---
 

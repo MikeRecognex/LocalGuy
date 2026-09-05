@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Guidelabs.ai
     role: author
+source:
+  name: "Hacker News"
+  url: "https://www.guidelabs.ai/post/concept-discovery-in-steerling-8b/"
 status: published
 ---
 

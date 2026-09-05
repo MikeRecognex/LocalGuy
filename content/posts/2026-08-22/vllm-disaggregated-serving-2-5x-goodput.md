@@ -15,6 +15,9 @@ tags:
   - memory-optimization
   - release
   - vllm
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmxLcVEySjFhdXNlekNGMFgwZWF4ZTZLRk13akp0em44ZkYyOFFZS2xvMmFBOTk3aGxyN3d3Y1Z1OGpyWXFlM3M4djZNOVZQand3cF91OVhvbGI0SXNKN2RWRnc2STZ4alFMV1R6aUlBM09RWWdRSkRTY2N1by1BLURXUUhUWTZ5aTNSd25LRVI0MmFaSWV2UFFTbXNWTi12OWI4QlhGMHM2WkM3OEQ2WWhsVmZDdXI1a2ctYkl5dGk?oc=5"
 status: published
 ---
 

@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have/"
 status: published
 ---
 

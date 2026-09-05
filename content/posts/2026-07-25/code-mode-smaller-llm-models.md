@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models"
 status: published
 ---
 

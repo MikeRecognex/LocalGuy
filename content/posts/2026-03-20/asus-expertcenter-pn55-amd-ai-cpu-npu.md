@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: SMBtech
     role: publisher
+source:
+  name: "SMBtech"
+  url: "https://smbtech.au/news/asus-launches-expertcenter-pn55-ruggedised-industrial-mini-pc-with-amd-ai-cpu-and-55-tops-npu/"
 status: published
 ---
 

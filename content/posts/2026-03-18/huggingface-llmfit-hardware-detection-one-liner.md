@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: OpenClaw
     role: backer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/eqycj7gumnpg1.png"
 status: published
 ---
 

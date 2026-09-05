@@ -21,6 +21,9 @@ mentions:
   - name: Martin Alderson
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/"
 status: published
 ---
 

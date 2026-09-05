@@ -15,6 +15,9 @@ tags:
   - on-device-processing
   - privacy
   - privacy-preservation
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

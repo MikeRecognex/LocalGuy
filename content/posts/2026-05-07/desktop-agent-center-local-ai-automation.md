@@ -22,6 +22,9 @@ tags:
   - open-source
   - privacy-compliance
   - showcase
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=48047444"
 status: published
 ---
 

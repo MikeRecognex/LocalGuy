@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://readuncut.com/the-ai-layoff-receipts/"
 status: published
 ---
 

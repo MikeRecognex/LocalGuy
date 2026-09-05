@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-in/news/technology/asus-zenbook-14-launches-in-india-prices-start-at-rs-1-15-990/ar-AA1suDBW"
 status: published
 ---
 

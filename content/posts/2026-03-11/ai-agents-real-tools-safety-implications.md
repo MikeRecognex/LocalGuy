@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@tbelbek/38-researchers-gave-ai-agents-real-tools-one-deleted-its-own-mail-server-to-keep-a-secret-979b000bb8db"
 status: published
 ---
 

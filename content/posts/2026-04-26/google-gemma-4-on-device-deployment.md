@@ -25,6 +25,9 @@ tags:
   - quantization
   - release
   - resource-constrained-ai
+source:
+  name: "Google News"
+  url: "https://www.msn.com/en-us/news/gemma-4-phone-laptop"
 status: published
 ---
 

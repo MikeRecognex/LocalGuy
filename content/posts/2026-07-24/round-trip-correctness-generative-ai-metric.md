@@ -25,6 +25,9 @@ mentions:
     role: creator
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://community.sap.com/t5/technology-blog-posts-by-sap/round-trip-correctness-a-new-metric-for-generative-ai-based-process/ba-p/14091979"
 status: published
 ---
 

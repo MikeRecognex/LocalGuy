@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: msn.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

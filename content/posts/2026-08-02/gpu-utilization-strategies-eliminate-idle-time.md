@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: 36Kr
     role: publisher
+source:
+  name: "36氪"
+  url: "https://36kr.com"
 status: published
 ---
 

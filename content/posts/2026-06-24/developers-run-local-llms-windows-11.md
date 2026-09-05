@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/developers-run-local-llms-on-windows-11-a51101e0"
 status: published
 ---
 

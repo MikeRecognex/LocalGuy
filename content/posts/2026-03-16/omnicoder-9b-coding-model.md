@@ -27,6 +27,9 @@ tags:
   - resource-efficiency
   - showcase
   - tool-calling
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rv24kk/omnicoder9b_best_vibe_coding_model_for_8_gb_card/"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Analytics Insight
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.analyticsinsight.net/google-chrome-quietly-installs-googles-4gb-ai-model-heres-how-to-get-rid-of-it/"
 status: published
 ---
 

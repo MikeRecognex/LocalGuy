@@ -24,6 +24,9 @@ tags:
   - responsible-ai-deployment
   - showcase
   - tutorial
+source:
+  name: "Hacker News"
+  url: "https://github.com/moswek/unpaved"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ramir9/release_ouro26bthinking_first_working_inference/"
 status: published
 ---
 

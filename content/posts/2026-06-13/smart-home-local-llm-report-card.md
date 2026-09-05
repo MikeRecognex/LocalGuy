@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.howtogeek.com/smart-home-local-llm"
 status: published
 ---
 

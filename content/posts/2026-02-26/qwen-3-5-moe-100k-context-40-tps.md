@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rey2ko/qwen_35_35b_moe_100k_context_40_tps_on_rtx_5060/"
 status: published
 ---
 

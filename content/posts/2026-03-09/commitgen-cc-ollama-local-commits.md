@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Eaglemann/commitgen-cc"
 status: published
 ---
 

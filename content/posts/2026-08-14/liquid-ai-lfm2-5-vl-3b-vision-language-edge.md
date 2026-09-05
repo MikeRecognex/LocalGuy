@@ -20,6 +20,9 @@ mentions:
     role: developer
   - name: MarkTechPost
     role: publisher
+source:
+  name: "MarkTechPost"
+  url: "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDFKbGdEQmlqNTdVUFVxLXd2MjRwV1FXbVJLOERiNkNhM0lXS0JLQXN6WkVYUDdOay1LSWJxMWIybEo2cllDU0p4Tzg3Zk9zc1ZKTTRaQ1hXendJMDZLNXhlQVNnaTEzbDFKR3RreEs0bUpCVnFKSlI1RzlMRHRTaG1ZQUFSS05OandXZjdHMWx3SGMxT1h3X2RrbEs4b29Q0gGgAUFVX3lxTE1YMUpsZ0RCaWo1N1VQVXEtd3YyNHBXUVdtUks4RGI2Q2EzSVdLQktBc3paRVhQN05rLUtJYnExYjJsSjZyWUNTSnhPODdmT3NzVkpNNFpDWFd6d0kwNks1eGVBU2dpMTNsMUpHdGt4SzRtSkJWcUpKUjVHOUxEdFNobVlBQVJLTk5qd1dmN0cxbHdIYzFPWHdfZGtsSzhvb1A?oc=5"
 status: published
 ---
 

@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s0vnpu/i_havent_experienced_qwen35_35b_and_27b_over/"
 status: published
 ---
 

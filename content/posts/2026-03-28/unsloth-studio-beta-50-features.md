@@ -30,6 +30,9 @@ mentions:
     role: project
   - name: Unsloth
     role: project
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/89bl7grwqlrg1"
 status: published
 ---
 

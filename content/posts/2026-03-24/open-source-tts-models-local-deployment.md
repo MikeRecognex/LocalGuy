@@ -8,6 +8,9 @@ tags:
   - open-source
   - local-inference
   - edge-deployment
+source:
+  name: "Hacker News"
+  url: "https://firethering.com/best-open-source-tts-models/"
 status: published
 ---
 

@@ -17,6 +17,9 @@ tags:
   - on-device-inference
   - performance-optimization
   - tutorial
+source:
+  name: "Google Blog"
+  url: "https://developers.googleblog.com/diffusiongemma-the-developer-guide/"
 status: published
 ---
 

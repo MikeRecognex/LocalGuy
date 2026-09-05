@@ -34,6 +34,9 @@ mentions:
     role: hardware-vendor
   - name: Pandaily
     role: publisher
+source:
+  name: "Pandaily"
+  url: "https://pandaily.com/anker-unveils-in-house-thus-chip-to-bring-on-device-ai-across-its-product-line"
 status: published
 ---
 

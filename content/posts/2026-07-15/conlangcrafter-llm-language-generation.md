@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/morrisalp/ConlangCrafter"
 status: published
 ---
 

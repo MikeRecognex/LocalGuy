@@ -24,6 +24,9 @@ mentions:
     role: manufacturer
   - name: Pandaily
     role: publisher
+source:
+  name: "Google News"
+  url: "https://pandaily.com/xiaomi-huawei-on-device-ai-20260622"
 status: published
 ---
 

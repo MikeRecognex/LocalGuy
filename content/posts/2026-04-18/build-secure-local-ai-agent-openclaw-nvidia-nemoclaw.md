@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: NemoClaw
     role: solution-provider
+source:
+  name: "NVIDIA Developer"
+  url: "https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
   - voice-preservation
   - voice-synthesis
   - voxcpm2-model
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sg89kl/new_tts_model_voxcpm2/"
 status: published
 ---
 

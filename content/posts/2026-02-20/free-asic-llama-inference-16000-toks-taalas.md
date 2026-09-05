@@ -28,6 +28,9 @@ tags:
   - offline-deployment
   - release
   - taalas
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r9e27i/free_asic_llama_31_8b_inference_at_16000_toks_no/"
 status: published
 ---
 

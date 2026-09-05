@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: chshyd.in
     role: publisher
+source:
+  name: "chshyd.in"
+  url: "https://chshyd.in"
 status: published
 ---
 

@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Fortune.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://fortune.com"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
   - on-device-inference
   - pytorch
   - pytorch-integration
+source:
+  name: "Google News"
+  url: "https://research.ibm.com/blog/pytorch-support-ibm-spyre"
 status: published
 ---
 

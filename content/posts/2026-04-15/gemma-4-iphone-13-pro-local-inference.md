@@ -23,6 +23,9 @@ tags:
   - on-device-inference
   - privacy-preserving-ai
   - showcase
+source:
+  name: "Hacker News"
+  url: "https://github.com/mylovelycodes/LiteRTLM-Swift"
 status: published
 ---
 

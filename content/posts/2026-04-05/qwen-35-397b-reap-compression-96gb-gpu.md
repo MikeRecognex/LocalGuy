@@ -24,6 +24,9 @@ tags:
   - parameter-reduction
   - quantization
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/Goldkoron/Qwen3.5-397B-A17B-REAP35"
 status: published
 ---
 

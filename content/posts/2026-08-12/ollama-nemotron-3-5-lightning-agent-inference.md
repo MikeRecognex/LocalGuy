@@ -15,6 +15,9 @@ tags:
   - ollama
   - openclaw
   - release
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.9"
 status: published
 ---
 

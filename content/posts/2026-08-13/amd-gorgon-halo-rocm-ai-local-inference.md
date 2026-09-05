@@ -15,6 +15,9 @@ tags:
   - release
   - rocm-ai
   - workstation-hardware
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFpJUzdZV2dydjZXQVpPQnBUSHZ3emUyUTFMa1RSMVV3Rkw2eUhrek5qZGIwODBVMDRPWVJqM1ZIMS1uYjhqaGFHQjRSNTFFeWxRMmR6WTdXZkY3V0MycGdRZzdQeEtHNlpXNU9RbzJsNUN6c2VicnRmcUNOMWZQVEFzQmktRFMzVVFyZm5BQmQzRFRkQ2JoTGlrc2ZnWHdiQ1E?oc=5"
 status: published
 ---
 

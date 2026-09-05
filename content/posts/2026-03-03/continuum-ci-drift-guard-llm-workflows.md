@@ -18,6 +18,9 @@ mentions:
     role: tool
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Mofa1245/Continuum"
 status: published
 ---
 

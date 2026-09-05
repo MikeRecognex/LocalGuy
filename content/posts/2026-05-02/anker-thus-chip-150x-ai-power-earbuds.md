@@ -32,6 +32,9 @@ mentions:
     role: manufacturer
   - name: Gizmochina
     role: publisher
+source:
+  name: "Gizmochina"
+  url: "https://www.gizmochina.com/2026/05/01/anker-thus-ai-chip-launch-earbuds/"
 status: published
 ---
 

@@ -25,6 +25,9 @@ mentions:
     role: partner
   - name: TradingKey
     role: publisher
+source:
+  name: "TradingKey"
+  url: "https://www.tradingkey.com/analysis/stocks/us-stocks/262029758-apple-prismml-ai-compression-iphone-qwen-baba-siri-tradingkey"
 status: published
 ---
 

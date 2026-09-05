@@ -25,6 +25,9 @@ tags:
   - open-source
   - quantization
   - sequential-reasoning
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/dzatb00148tg1.png"
 status: published
 ---
 

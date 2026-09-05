@@ -35,6 +35,9 @@ mentions:
     role: publisher
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com/the-tooling-problem-in-local-ai-is-finally-getting-solved-and-that-matters-as-much-as-the-models/"
 status: published
 ---
 

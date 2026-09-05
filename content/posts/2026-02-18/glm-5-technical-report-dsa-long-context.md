@@ -22,6 +22,9 @@ tags:
   - technical-report
   - training
   - zhipu
+source:
+  name: "r/LocalLLaMA"
+  url: "https://arxiv.org/abs/2602.15763"
 status: published
 ---
 

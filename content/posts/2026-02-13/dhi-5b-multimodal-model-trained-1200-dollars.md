@@ -32,6 +32,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/5tsgquvue7jg1.png"
 status: published
 ---
 An undergraduate student has achieved a remarkable milestone by training Dhi-5B, a 5 billion parameter multimodal language model from scratch using just ₹1.1 lakh ($1,200) in compute costs. The [project announcement](https://i.redd.it/5tsgquvue7jg1.png) highlights the use of compute-optimal training techniques and latest architectural innovations with a custom-built training codebase.

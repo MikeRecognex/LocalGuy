@@ -19,6 +19,9 @@ tags:
   - model-optimization
   - showcase
   - tensor-allocation
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sabiux/running_smollm2360m_on_a_samsung_galaxy_watch_4/"
 status: published
 ---
 

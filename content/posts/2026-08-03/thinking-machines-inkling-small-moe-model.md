@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: MarkTechPost
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@contact.n8n410/sovereign-ai-why-the-next-gpt-will-be-born-in-our-living-rooms-not-a-data-center-c26ec99d8daa"
 status: published
 ---
 

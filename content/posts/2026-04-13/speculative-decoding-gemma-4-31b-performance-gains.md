@@ -20,6 +20,9 @@ tags:
   - local-inference
   - model-quantization
   - speculative-decoding
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sjct6a/speculative_decoding_works_great_for_gemma_4_31b/"
 status: published
 ---
 

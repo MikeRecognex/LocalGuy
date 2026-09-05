@@ -16,6 +16,9 @@ tags:
   - older-hardware-compatibility
   - open-source
   - qwen
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/mg9ixtw58pmg1.png"
 status: published
 ---
 

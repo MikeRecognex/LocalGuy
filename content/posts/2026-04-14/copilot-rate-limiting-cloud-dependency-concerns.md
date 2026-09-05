@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/orgs/community/discussions/180092"
 status: published
 ---
 

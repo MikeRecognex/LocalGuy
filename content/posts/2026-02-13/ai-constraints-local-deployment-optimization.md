@@ -35,6 +35,9 @@ mentions:
     role: publisher
   - name: askcodi
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://askcodi.substack.com/p/the-future-of-ai-slop-is-constraints"
 status: published
 ---
 This analysis explores how constraints are becoming increasingly important in AI deployment, which has significant implications for local LLM practitioners working with limited computational resources. The piece ldiscusses optimization techniques and resource management strategies that are essential for running models efficiently on consumer hardware.

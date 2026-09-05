@@ -12,6 +12,9 @@ tags:
   - production-deployment
   - speculative-decoding
   - vllm
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ1B0TmZJN0s5Qm1GMndjekRYTEVjTlVRY3lGQUU1ZjlhcHJCU1N4T2NQRmdhdFFPaXRLMFR6SzF5ZmdDekN3MmozTTZKYmxkMDY5a3djSy15SzRBNE0wckdWU2RDV1BaRVBWa3Rfb0RFajZLMldPMC1XN2RUbjd0Wi13ZkVWeGFUTG1tWG1pZzNLRG5zS1NNS2FLY2FTUXhfbUE?oc=5"
 status: published
 ---
 

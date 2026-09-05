@@ -29,6 +29,9 @@ mentions:
     role: source
   - name: The Next Platform
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians-5247566"
 status: published
 ---
 

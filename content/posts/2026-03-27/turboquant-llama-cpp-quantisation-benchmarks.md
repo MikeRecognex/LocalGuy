@@ -24,6 +24,9 @@ tags:
   - news
   - optimization
   - quantization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1s4bzo2"
 status: published
 ---
 

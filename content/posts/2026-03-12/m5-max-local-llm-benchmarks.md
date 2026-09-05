@@ -17,6 +17,9 @@ tags:
   - memory-optimization
   - performance-comparison
   - unified-memory
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/4koejumaidog1.jpeg"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Northwestern University
     role: researcher
+source:
+  name: "Hacker News"
+  url: "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/"
 status: published
 ---
 

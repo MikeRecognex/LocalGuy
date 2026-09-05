@@ -12,6 +12,9 @@ tags:
   - ollama
   - open-source
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IeEFPekZMT1lpLWF0NDlXaE9WeDBPM1VQT0hPWGl3RzJBQTZ6UWZLT2o2eDJpLU52eUlnY2lnNFZ4YnJrODBfZFQtLXQzM3pQaVRhM0N6ZGQzcUk?oc=5"
 status: published
 ---
 

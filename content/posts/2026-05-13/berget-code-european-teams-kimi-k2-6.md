@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Berget
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://berget.ai/blog/berget-code-launch-en"
 status: published
 ---
 

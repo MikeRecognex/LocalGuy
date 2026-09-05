@@ -30,6 +30,9 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/pengrambo3-tech/ZeusHammer"
 status: published
 ---
 

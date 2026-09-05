@@ -20,6 +20,9 @@ tags:
   - olmo-3
   - quantization
   - quantization-aware-distillation
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/cturan/Olmo-3-7B-Instruct-Q1_0"
 status: published
 ---
 

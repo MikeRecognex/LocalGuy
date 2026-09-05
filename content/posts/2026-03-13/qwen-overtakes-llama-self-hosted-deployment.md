@@ -23,6 +23,9 @@ mentions:
     role: data provider
   - name: The New Stack
     role: publisher
+source:
+  name: "The New Stack"
+  url: "https://thenewstack.io/runpod-ai-infrastructure-reality/"
 status: published
 ---
 

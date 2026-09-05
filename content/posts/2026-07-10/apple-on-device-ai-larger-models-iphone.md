@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: PrismML
     role: developer
+source:
+  name: "MacRumors"
+  url: "https://www.macrumors.com/2024/apple-on-device-ai"
 status: published
 ---
 

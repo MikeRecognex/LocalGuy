@@ -18,6 +18,9 @@ tags:
   - release
   - self-hosted
   - tool-use
+source:
+  name: "Google News"
+  url: "https://gigazine.net/alibaba-copaw-ai-agent-open-source/"
 status: published
 ---
 

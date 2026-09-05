@@ -19,6 +19,9 @@ mentions:
     role: publisher
   - name: Adafruit
     role: publisher
+source:
+  name: "Google News"
+  url: "https://blog.adafruit.com/2026/03/06/self-hosted-paperless-ngx-optional-local-ai/"
 status: published
 ---
 

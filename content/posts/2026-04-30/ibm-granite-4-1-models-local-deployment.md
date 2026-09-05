@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: IBM Research
     role: developer
+source:
+  name: "IBM Research"
+  url: "https://research.ibm.com/granite"
 status: published
 ---
 

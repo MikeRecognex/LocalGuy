@@ -7,6 +7,9 @@ tags:
   - open-source
   - distillation
   - model-protection
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rcseh1/fun_fact_anthropic_has_never_opensourced_any_llms/"
 status: published
 ---
 

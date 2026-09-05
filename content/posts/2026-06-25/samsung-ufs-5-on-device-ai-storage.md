@@ -16,6 +16,9 @@ tags:
   - release
   - storage
   - storage-bandwidth
+source:
+  name: "Google News"
+  url: "https://news.samsung.com/ca/samsung-unveils-ufs-5-0-solution-for-next-gen-on-device-ai-applications"
 status: published
 ---
 

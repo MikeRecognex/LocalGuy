@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Ant Group
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0"
 status: published
 ---
 Ant Group has open-sourced [Ming-flash-omni-2.0](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0), a groundbreaking 100B parameter MoE model that activates only 6B parameters during inference. This truly omni-modal architecture handles image, text, video, and audio inputs while generating image, text, and audio outputs in a single unified model.

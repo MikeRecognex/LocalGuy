@@ -24,6 +24,9 @@ mentions:
     role: regulatory-body
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_202502_blockchain_v2_en.pdf"
 status: published
 ---
 

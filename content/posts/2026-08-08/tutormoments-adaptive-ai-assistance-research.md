@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: AI2
     role: developer
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/allenai/tutormoments"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Techcritter.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.tech-critter.com/asus-ugen300-usb-ai-accelerator-malaysia/"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: InfoQ
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.infoq.com/news/2026/07/netflix-llm-platform/"
 status: published
 ---
 

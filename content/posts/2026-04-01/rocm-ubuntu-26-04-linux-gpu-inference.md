@@ -31,6 +31,9 @@ mentions:
     role: platform-provider
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/Ubuntu-26.04-With-ROCm"
 status: published
 ---
 

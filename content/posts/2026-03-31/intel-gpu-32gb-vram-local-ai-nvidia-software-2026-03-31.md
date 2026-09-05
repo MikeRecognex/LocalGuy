@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "XDA Developers"
+  url: "https://www.xda-developers.com/intel-gpu-32gb-vram-local-ai-software-nvidia-keeps-winning/"
 status: published
 ---
 

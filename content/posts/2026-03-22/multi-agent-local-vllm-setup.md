@@ -22,6 +22,9 @@ tags:
   - showcase
   - vllm
   - vllm-inference
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/ejygpp5kriqg1"
 status: published
 ---
 

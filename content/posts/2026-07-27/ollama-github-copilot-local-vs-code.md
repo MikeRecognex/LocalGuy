@@ -19,6 +19,9 @@ tags:
   - tutorial
   - vs-code
   - vscode
+source:
+  name: "Google News"
+  url: "https://mshale.com"
 status: published
 ---
 

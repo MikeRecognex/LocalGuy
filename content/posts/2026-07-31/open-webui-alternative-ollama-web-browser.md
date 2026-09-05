@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: It's FOSS
     role: publisher
+source:
+  name: "It's FOSS"
+  url: "https://itsfoss.com/orionchat/"
 status: published
 ---
 

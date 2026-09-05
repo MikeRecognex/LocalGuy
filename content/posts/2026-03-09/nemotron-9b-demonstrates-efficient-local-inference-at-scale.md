@@ -22,6 +22,9 @@ tags:
   - patent-classification
   - real-time-ai
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ro52cu/i_classified_35m_us_patents_with_nemotron_9b_on_a/"
 status: published
 ---
 

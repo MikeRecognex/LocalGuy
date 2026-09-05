@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: aelitium-dev
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/aelitium-dev/aelitium-v3"
 status: published
 ---
 

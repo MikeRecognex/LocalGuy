@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: EE Times
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.eetimes.com/nand-reimagined-in-high-bandwidth-flash-to-complement-hbm/"
 status: published
 ---
 

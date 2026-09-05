@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
 status: published
 ---
 

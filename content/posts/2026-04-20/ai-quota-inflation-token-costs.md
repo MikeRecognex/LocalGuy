@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.theregister.com/2026/04/20/inflation_ai_quota/"
 status: published
 ---
 

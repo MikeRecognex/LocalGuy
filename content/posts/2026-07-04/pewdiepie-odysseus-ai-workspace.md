@@ -21,6 +21,9 @@ mentions:
     handle: "@pewdiepie"
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/pewdiepie-releases-open-source-odysseus-ai-workspace-ccad3aef"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: gHacks
     role: publisher
+source:
+  name: "gHacks"
+  url: "https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/"
 status: published
 ---
 

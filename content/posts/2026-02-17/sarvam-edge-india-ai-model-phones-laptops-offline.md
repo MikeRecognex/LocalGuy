@@ -28,6 +28,9 @@ mentions:
     role: ai-company
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-in/news/technology/meet-sarvam-edge-indias-ai-model-that-runs-on-phones-and-laptops-with-no-internet/ar-AA1swqXX"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
   - model-benchmarking
   - model-compression
   - quantization
+source:
+  name: "Hacker News"
+  url: "https://research.cloudflare.com/nikulin2026/"
 status: published
 ---
 

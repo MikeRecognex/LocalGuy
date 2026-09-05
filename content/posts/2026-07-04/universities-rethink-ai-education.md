@@ -20,6 +20,9 @@ mentions:
     role: researcher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/"
 status: published
 ---
 

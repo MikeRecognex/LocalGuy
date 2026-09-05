@@ -23,6 +23,9 @@ mentions:
     role: computer science legend
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
 status: published
 ---
 

@@ -14,6 +14,9 @@ tags:
   - quantisation
   - qwen
   - qwen-3-8-27b
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEJJNW5iYy1uTzlKVU02MDQwSDhMdTJFcUtRbF9SbU1fZ0JBdG9WejkxWTE3dzBxZ3oxNUM0YURpd29EZmJrdVgxMWZnMWZJeGF4bTlaYmlfa25yM0lESmNvU3dsX052Y0dLdUZXTnA0eUhwcWNxV2RxSnowODN1WXg2VWRoaUhFUkN3dEoxcVpHQQ?oc=5"
 status: published
 ---
 

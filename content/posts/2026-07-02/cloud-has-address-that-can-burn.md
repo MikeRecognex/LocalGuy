@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://appedus.com/the-cloud-has-an-address-and-that-address-can-burn/"
 status: published
 ---
 

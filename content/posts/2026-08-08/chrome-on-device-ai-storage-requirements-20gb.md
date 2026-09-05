@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: Ubergizmo
     role: publisher
+source:
+  name: "Google News (Ubergizmo)"
+  url: "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TMEVtTXZZYnBKZGRKSEVSQmU3UXVWdmRuZGR2N3ZVVTZHR0ZSNGtmcnowUXVfT2ZrUWVwRHRXSXJoX2Vla1pnamZhd3hETlZLTTBtNkNzbDY0LTZfWWktYjVIcTd1MHl4Z0xkQg?oc=5"
 status: published
 ---
 

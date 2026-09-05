@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.senko.net/open-weights-ai-models-have-become-good-enough"
 status: published
 ---
 

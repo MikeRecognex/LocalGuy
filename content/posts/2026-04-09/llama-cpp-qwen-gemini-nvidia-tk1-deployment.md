@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://forums.developer.nvidia.com/t/gemini-cli-zeroclaw-llama-cpp-qwen3-5-on-tk1/365653"
 status: published
 ---
 

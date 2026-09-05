@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: MobileReality
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/MobileReality/mdma"
 status: published
 ---
 

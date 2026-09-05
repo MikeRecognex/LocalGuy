@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/local-ai-isnt-just-ollama-heres-the-ecosystem-that-actually-makes-it-useful"
 status: published
 ---
 

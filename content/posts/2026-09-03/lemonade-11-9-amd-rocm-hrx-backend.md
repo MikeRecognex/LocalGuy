@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1teEFqM0VSV25MWGlzRW9jWnMwZ01FYzZYVUZkdVZTSnJRWjdJbDZQZHhMY1ZOWHdwX0hpc01pQ0JYUkxiSmlWenA5TFBvR2VIZ1cydHFQaEhPeXlPc3JUVTN3?oc=5"
 status: published
 ---
 

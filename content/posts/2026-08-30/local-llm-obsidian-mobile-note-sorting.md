@@ -13,6 +13,9 @@ tags:
   - privacy
   - productivity-tools
   - showcase
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1otb21acnVOaWZhUmlqRERrNXZsWjU3UDZMM2xETWwxSl9tZU9yMVdhd3lFc2IwdE5kMkJHeElKc05rMV9OVGpGOEUwOXUwZGhtN0N2SVpVR2prcnZMMHNZYTEtX1h2VmREb1lES253bWEwcXlFYTBKa21lWmhPNmttWUJjZnZPZ1lRYTZEZ0xuZlBqWV81RDNEMWVSWG55Y3BzNg?oc=5"
 status: published
 ---
 

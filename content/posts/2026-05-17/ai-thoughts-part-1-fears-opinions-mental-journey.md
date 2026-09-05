@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/"
 status: published
 ---
 

@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: StartupHub.ai
     role: publisher
+source:
+  name: "StartupHub.ai"
+  url: "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/run-llms-locally-with-llama-cpp"
 status: published
 ---
 

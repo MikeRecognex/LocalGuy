@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/lm-studio-0.4-headless"
 status: published
 ---
 

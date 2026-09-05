@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Google News"
+  url: "https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/"
 status: published
 ---
 

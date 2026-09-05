@@ -30,6 +30,9 @@ mentions:
     role: manufacturer
   - name: Pandaily.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://pandaily.com/mediatek-dimensity-8550-4nm-mobile-soc-may2026"
 status: published
 ---
 

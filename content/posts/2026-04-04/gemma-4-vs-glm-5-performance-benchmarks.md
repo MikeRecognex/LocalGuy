@@ -22,6 +22,9 @@ tags:
   - performance
   - reasoning-capabilities
   - reasoning-tasks
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sbtr5i/gemma_4_31b_sweeps_the_floor_with_glm_51/"
 status: published
 ---
 

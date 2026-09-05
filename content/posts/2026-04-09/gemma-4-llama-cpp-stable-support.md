@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: ggml-org
     role: project-maintainer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/"
 status: published
 ---
 

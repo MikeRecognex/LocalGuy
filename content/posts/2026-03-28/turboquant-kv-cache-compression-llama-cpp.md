@@ -25,6 +25,9 @@ tags:
   - offline-inference
   - performance
   - quantization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s56g07/skipping_90_of_kv_dequant_work_228_decode_at_32k/"
 status: published
 ---
 

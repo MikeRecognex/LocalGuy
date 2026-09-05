@@ -15,6 +15,9 @@ tags:
   - parser-generation
   - parsing-infrastructure
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rmp3ep/llamacpp_now_with_automatic_parser_generator/"
 status: published
 ---
 

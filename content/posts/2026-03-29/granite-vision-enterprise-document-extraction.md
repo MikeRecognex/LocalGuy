@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: IBM
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/ibm-granite/granite-4.0-3b-vision"
 status: published
 ---
 

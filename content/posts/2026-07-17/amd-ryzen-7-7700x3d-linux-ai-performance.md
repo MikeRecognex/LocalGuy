@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/AMD-Ryzen-7-7700X3D"
 status: published
 ---
 

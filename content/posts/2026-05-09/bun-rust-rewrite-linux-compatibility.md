@@ -29,6 +29,9 @@ mentions:
     handle: "@jarredsumner"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/jarredsumner/status/2053047748191232310"
 status: published
 ---
 

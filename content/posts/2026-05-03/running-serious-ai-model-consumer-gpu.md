@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com"
 status: published
 ---
 

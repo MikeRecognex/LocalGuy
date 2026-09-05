@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/microsoft-intelligent-terminal"
 status: published
 ---
 

@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: Nikkei Asia
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite"
 status: published
 ---
 

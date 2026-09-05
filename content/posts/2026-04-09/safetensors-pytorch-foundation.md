@@ -29,6 +29,9 @@ mentions:
     role: source
   - name: Pytorch Foundation
     role: maintainer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/"
 status: published
 ---
 

@@ -11,6 +11,9 @@ tags:
   - on-device-inference
   - opinion
   - small-language-models
+source:
+  name: "research.nvidia.com"
+  url: "https://research.nvidia.com/labs/lpr/slm-agents/"
 status: published
 origin: manual
 ---

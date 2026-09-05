@@ -26,6 +26,9 @@ mentions:
     role: manufacturer
   - name: Business Wire
     role: publisher
+source:
+  name: "Business Wire"
+  url: "https://www.businesswire.com/news/home/20260729429282/en/New-UFS-5.0-Embedded-Flash-Memory-Devices-from-Kioxia-Enable-On-Device-AI"
 status: published
 ---
 

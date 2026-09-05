@@ -23,6 +23,9 @@ tags:
   - qwen
   - vllm
   - vram-capacity
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1siar7y/intel_arc_pro_b70_32gb_performance_on_qwen3527bq4/"
 status: published
 ---
 

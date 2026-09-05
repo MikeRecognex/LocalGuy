@@ -35,6 +35,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/browser-based-rag-private-docs/"
 status: published
 ---
 

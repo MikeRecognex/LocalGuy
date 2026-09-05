@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Reddit
     role: community platform
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1segstx/gemma_4_26b_a3b_is_mindblowingly_good_if/"
 status: published
 ---
 

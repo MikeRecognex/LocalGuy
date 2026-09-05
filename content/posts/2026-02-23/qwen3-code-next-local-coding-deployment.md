@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rc1ra2/my_realworld_qwen3codenext_local_coding_test_so/"
 status: published
 ---
 

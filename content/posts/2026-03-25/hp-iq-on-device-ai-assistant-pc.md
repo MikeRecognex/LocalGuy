@@ -31,6 +31,9 @@ mentions:
     role: manufacturer
   - name: Business Insider
     role: publisher
+source:
+  name: "Business Insider"
+  url: "https://www.businessinsider.com/"
 status: published
 ---
 

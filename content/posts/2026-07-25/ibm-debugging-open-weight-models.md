@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: IBM
     role: developer
+source:
+  name: "Google News"
+  url: "https://www.ibm.com/think/news/new-way-debugging-open-weight-models"
 status: published
 ---
 

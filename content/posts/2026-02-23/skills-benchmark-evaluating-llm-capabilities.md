@@ -15,6 +15,9 @@ tags:
   - open-source
   - quantization
   - testing
+source:
+  name: "Hacker News"
+  url: "https://github.com/razbakov/skills-benchmark"
 status: published
 ---
 

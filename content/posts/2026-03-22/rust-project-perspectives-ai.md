@@ -29,6 +29,9 @@ mentions:
     role: developer-community
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
 status: published
 ---
 

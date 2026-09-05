@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/free-tools-run-powerful-ai-on-pc-without-subscription/"
 status: published
 ---
 

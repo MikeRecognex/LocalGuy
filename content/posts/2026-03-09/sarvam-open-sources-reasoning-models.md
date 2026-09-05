@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Sarvam
     role: AI lab
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

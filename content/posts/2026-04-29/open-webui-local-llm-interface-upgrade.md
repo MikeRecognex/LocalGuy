@@ -8,6 +8,9 @@ tags:
   - tools-frameworks
   - user-experience
   - self-hosted
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

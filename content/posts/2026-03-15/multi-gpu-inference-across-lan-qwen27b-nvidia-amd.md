@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ru17mh/running_qwen3527b_q5_splitt_across_a_4070ti_and/"
 status: published
 ---
 

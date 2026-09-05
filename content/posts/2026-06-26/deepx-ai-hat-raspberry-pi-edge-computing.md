@@ -25,6 +25,9 @@ mentions:
     role: creator
   - name: TradingView
     role: publisher
+source:
+  name: "TradingView"
+  url: "https://www.tradingview.com/news/"
 status: published
 ---
 

@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: community
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=48433171"
 status: published
 ---
 

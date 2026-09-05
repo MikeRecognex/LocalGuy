@@ -32,6 +32,9 @@ mentions:
   - name: BrowserOS
   - name: Neowin
     role: publisher
+source:
+  name: "Neowin"
+  url: "https://www.neowin.net/software/browseros-0440/"
 status: published
 ---
 

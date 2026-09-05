@@ -36,6 +36,9 @@ mentions:
     role: publisher
   - name: Proxmox
     role: technology provider
+source:
+  name: "Google News"
+  url: "https://www.msn.com/en-us/news/technology/gpu-passthrough-to-lxcs-beats-vms-in-proxmox-and-its-way-simpler-than-youd-think"
 status: published
 ---
 

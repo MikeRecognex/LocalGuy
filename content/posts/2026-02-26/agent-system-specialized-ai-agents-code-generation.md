@@ -30,6 +30,9 @@ mentions:
     handle: "boraoztunc"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/boraoztunc/agent-system"
 status: published
 ---
 

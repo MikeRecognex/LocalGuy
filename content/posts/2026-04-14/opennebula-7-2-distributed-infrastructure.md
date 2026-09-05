@@ -34,6 +34,9 @@ mentions:
     role: platform provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://opennebula.io/blog/announcements/opennebula-7-2-released/"
 status: published
 ---
 

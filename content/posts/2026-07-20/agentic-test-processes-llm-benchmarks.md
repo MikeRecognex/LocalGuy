@@ -25,6 +25,9 @@ mentions:
     handle: "@danluu"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://danluu.com/ai-coding/"
 status: published
 ---
 

@@ -33,6 +33,9 @@ mentions:
     role: validator
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro"
 status: published
 ---
 

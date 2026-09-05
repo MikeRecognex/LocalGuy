@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Tenure AI
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://tenureai.dev/"
 status: published
 ---
 

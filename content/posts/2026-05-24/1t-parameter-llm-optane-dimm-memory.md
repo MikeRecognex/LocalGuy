@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/redditor-runs-1t-parameter-llm-from-768gb-optane-dimms-9c2ad032"
 status: published
 ---
 

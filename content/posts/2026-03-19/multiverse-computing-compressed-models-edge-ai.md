@@ -29,6 +29,9 @@ mentions:
     role: tool-developer
   - name: TipRanks
     role: publisher
+source:
+  name: "TipRanks"
+  url: "https://www.tipranks.com/news/private-companies/multiverse-computing-targets-on-device-ai-with-compressed-models-and-new-api-portal"
 status: published
 ---
 

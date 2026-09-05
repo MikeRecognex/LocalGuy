@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Security Boulevard
     role: publisher
+source:
+  name: "Security Boulevard"
+  url: "https://securityboulevard.com/2026/04/exposed-llm-infrastructure-how-attackers-find-and-exploit-misconfigured-ai-deployments/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/i-fired-claude-after-forcing-it-to-build-a-private-self-hosted-claude-replacement/"
 status: published
 ---
 

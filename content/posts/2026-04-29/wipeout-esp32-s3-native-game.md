@@ -8,6 +8,9 @@ tags:
   - edge-inference
   - optimization
   - embedded
+source:
+  name: "Hacker News"
+  url: "https://hackaday.com/2026/04/29/wipeout-clone-runs-native-on-esp32-s3/"
 status: published
 ---
 

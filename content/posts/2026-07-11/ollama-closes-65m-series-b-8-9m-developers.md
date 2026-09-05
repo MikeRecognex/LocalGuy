@@ -20,6 +20,9 @@ mentions:
     role: developer
   - name: Tech Times
     role: publisher
+source:
+  name: "Tech Times"
+  url: "https://www.techtimes.com/articles/ollama-closes-65m-series-b"
 status: published
 ---
 

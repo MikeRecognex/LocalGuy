@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: StackOne
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://www.npmjs.com/package/@stackone/defender"
 status: published
 ---
 

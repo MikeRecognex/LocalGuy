@@ -40,6 +40,9 @@ mentions:
     role: project
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIelVBVXM3Ym9Zbk5SZ0UzMWtyb1F6MnB6WGZsc1ltQUZxbmU3RldidHRFclNsR01RM0hNZ3pyelpwcGhmQ2tHU0QtNkVTQ09UQXREaGR2cWZzVjFFV3Iw?oc=5"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Tech Insider
     role: publisher
+source:
+  name: "Google News"
+  url: "https://tech-insider.org/llama-cpp-tutorial-2026/"
 status: published
 ---
 

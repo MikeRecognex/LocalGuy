@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Towards Data Science"
+  url: "https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/"
 status: published
 ---
 

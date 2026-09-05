@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: Tether AI
     role: local inference infrastructure provider
+source:
+  name: "Google News"
+  url: "https://tether.io/news/tether-ai-upgrades-qvac-sdk-bringing-turboquant-to-everyday-devices-giving-local-ai-data-center-sized-memory/"
 status: published
 ---
 

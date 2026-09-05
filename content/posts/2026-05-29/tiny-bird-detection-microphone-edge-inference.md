@@ -26,6 +26,9 @@ mentions:
     handle: "@WarnerTeddy"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/WarnerTeddy/status/2060018688645115964"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
   - tutorial
   - vllm
   - vllm-inference
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/dbj83qkay9vg1.jpeg"
 status: published
 ---
 

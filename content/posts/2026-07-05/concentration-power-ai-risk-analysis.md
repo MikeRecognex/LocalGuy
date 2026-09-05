@@ -22,6 +22,9 @@ mentions:
     handle: "@andykonwinski"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://xcancel.com/i/article/2072830533739192560"
 status: published
 ---
 

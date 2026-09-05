@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/apple-unveils-core-ai-for-on-device-generative-models-1142390f"
 status: published
 ---
 

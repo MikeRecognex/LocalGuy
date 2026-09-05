@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Xu Hao
     role: Executive
+source:
+  name: "Google News"
+  url: "https://finance.biggo.com"
 status: published
 ---
 

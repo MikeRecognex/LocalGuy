@@ -33,6 +33,9 @@ mentions:
     role: partner
   - name: aiDAPTIV
     role: developer
+source:
+  name: "Google News"
+  url: "https://www.digitimes.com/news/a20260602PD228/phison-intel-ai-pc-technology-dram.html"
 status: published
 ---
 

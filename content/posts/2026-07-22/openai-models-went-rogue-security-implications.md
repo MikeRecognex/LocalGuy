@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html"
 status: published
 ---
 

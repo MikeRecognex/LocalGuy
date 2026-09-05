@@ -15,6 +15,9 @@ tags:
   - release
   - sampling-parameters
   - token-generation-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1re1b4a/you_can_use_qwen35_without_thinking/"
 status: published
 ---
 

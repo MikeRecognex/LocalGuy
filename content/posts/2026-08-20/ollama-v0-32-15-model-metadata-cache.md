@@ -13,6 +13,9 @@ tags:
   - open-source
   - performance
   - release
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.15"
 status: published
 ---
 

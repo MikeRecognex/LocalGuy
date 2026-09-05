@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: HP
     role: manufacturer
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

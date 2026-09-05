@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://taoofmac.com/space/blog/2026/05/12/0720"
 status: published
 ---
 

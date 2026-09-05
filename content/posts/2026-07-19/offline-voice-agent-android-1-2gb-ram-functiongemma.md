@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://old.reddit.com/r/androiddev/comments/1v07clk/a_full_offline_voice_agent_in_12_gb_of_ram_say_a/"
 status: published
 ---
 

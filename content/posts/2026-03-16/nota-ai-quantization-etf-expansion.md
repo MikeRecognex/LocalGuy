@@ -29,6 +29,9 @@ mentions:
     role: company
   - name: Digital Today
     role: publisher
+source:
+  name: "Digital Today"
+  url: "https://www.digitaltoday.kr"
 status: published
 ---
 

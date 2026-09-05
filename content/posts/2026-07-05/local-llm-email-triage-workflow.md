@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/local-llm-email-triage"
 status: published
 ---
 

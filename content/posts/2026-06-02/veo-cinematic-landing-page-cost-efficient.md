@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: johnkueh.com
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://johnkueh.com/articles/veo-cinematic-hero"
 status: published
 ---
 

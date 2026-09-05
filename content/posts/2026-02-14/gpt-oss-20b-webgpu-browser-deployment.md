@@ -31,6 +31,9 @@ tags:
   - webgpu
   - webgpu-acceleration
   - webml-community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/ioqb4q8jkajg1"
 status: published
 ---
 

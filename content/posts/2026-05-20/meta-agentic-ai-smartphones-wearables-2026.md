@@ -23,6 +23,9 @@ tags:
   - on-device-ai
   - wearable-ai
   - wearables
+source:
+  name: "Google News"
+  url: "https://www.indexbox.io"
 status: published
 ---
 

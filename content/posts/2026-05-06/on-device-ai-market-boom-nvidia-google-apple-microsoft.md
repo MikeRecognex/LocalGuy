@@ -34,6 +34,9 @@ mentions:
     role: publisher
   - name: OpenPR
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.openpr.com/"
 status: published
 ---
 

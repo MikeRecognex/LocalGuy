@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: PrismML
     role: developer
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVHdiUjNiTGhWRTNsSHlNY09oOXNlb2podTJtM1RncDJ2TmxkLXlUZ0g2QzJReXdmMnFqb21XSzBIcDliNHg0REhkMGdKODNQWTJRU0FlQ0RYNWpGd2gzSURZN2lyZmZERjAyeUhHcVM3MmJSRWVIV3pHel9tbGgyeGI4Rk9MT1JIWHVyaXBTTzdib1IzLUpVSGpXLWNwLW92VFNWVXRGREVub0FueEdBSnBqalQ4ZTNsWWtWRWNleFNKTENmbWk2cXRFWlZqNkp6TVBRNDR1NVA1SG5iM1gyQW42cVNyUQ?oc=5"
 status: published
 ---
 

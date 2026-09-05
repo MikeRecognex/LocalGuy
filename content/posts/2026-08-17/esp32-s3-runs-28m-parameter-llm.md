@@ -13,6 +13,9 @@ tags:
   - model-compression
   - open-source
   - showcase
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nNEU4eVE0MGtWUlV5X3ljZmExcU5QbW81QWFvYlY0RDBTYVZFY1FySFE0WHVNSk1Ga1F3dldNc0RoWmk0SWNkVk0zUlVCNGRNc0gxVXFHUmhtQzVEeVRRZlc1NEtBa1JMSVREZQ?oc=5"
 status: published
 ---
 

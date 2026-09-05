@@ -31,6 +31,9 @@ mentions:
     role: manufacturer
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/minisforum-launches-n5-max-ai-nas-with-openclaw-28102469"
 status: published
 ---
 

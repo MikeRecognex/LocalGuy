@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Noi
     role: tool-provider
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

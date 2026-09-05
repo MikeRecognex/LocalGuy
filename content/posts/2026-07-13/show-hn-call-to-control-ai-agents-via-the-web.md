@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://diffforge.ai/"
 status: published
 ---
 

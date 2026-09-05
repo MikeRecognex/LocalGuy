@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Digit
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.digit.in/features/general/the-mac-mini-is-the-best-on-device-ai-computer-you-can-buy-heres-why.html"
 status: published
 ---
 

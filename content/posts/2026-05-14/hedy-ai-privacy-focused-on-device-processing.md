@@ -28,6 +28,9 @@ mentions:
     role: market entrant
   - name: The National Law Review
     role: publisher
+source:
+  name: "The National Law Review"
+  url: "https://www.natlawreview.com"
 status: published
 ---
 

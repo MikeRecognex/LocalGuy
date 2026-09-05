@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Transformers.js
     role: library
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/owg2ok0lp2qg1"
 status: published
 ---
 

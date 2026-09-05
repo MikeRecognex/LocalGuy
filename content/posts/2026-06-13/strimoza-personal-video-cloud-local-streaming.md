@@ -23,6 +23,9 @@ mentions:
     role: service-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.strimoza.com/"
 status: published
 ---
 

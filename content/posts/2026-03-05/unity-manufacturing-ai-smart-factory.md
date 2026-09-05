@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: Google News
     role: source
+source:
+  name: "Google News"
+  url: "https://www.thelec.net/news/articleView.html?idxno=5653"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: manufacturer
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/risc-v-spacemit-k3-benchmarks"
 status: published
 ---
 

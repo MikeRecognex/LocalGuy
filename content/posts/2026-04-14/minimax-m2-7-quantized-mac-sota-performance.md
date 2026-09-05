@@ -22,6 +22,9 @@ tags:
   - quantization
   - showcase
   - sota-inference
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1sl2bac"
 status: published
 ---
 

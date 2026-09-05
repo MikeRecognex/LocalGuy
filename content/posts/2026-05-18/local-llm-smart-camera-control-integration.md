@@ -25,6 +25,9 @@ tags:
   - smart-home
   - smart-home-ai
   - vision-language-models
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

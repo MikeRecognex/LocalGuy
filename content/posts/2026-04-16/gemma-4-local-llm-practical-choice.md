@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/gemma-4-not-smartest-local-llm-but-reach-for/"
 status: published
 ---
 

@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
   - qwen3
   - real-world-applications
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://github.com/ggml-org/llama.cpp/pull/19441"
 status: published
 ---
 

@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: comuniq.xyz
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://comuniq.xyz/post?t=861"
 status: published
 ---
 

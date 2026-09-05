@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: GitHub
     role: publisher
+source:
+  name: "vLLM release"
+  url: "https://github.com/vllm-project/vllm/releases/tag/v0.27.0"
 status: published
 ---
 

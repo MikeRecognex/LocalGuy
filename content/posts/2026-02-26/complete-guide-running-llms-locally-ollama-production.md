@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/local-llms-complete-guide/"
 status: published
 ---
 

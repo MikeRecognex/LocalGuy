@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: AD HOC NEWS
     role: publisher
+source:
+  name: "AD HOC NEWS"
+  url: "https://www.ad-hoc-news.de/boerse/news/marktberichte/enhanced-interface-speed-enables-high-performance-on-device-ai-features-in/68606398"
 status: published
 ---
 

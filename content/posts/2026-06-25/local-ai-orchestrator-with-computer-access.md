@@ -20,6 +20,9 @@ mentions:
     role: host
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/shreyasks094/Zeus"
 status: published
 ---
 

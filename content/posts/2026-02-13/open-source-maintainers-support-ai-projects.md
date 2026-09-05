@@ -24,6 +24,9 @@ mentions:
     role: platform-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/"
 status: published
 ---
 GitHub's announcement about supporting open source maintainers comes at a critical time for the local LLM ecosystem, where many essential tools like llama.cpp, Ollama, and various quantization frameworks depend on volunteer maintainers. This support could help ensure the sustainability of projects that are fundamental to local AI deployment.

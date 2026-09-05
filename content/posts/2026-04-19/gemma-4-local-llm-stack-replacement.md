@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/googles-new-free-gemma-4-replaced-whole-local-llm-stack/"
 status: published
 ---
 

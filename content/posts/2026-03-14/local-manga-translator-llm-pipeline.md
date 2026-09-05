@@ -21,6 +21,9 @@ tags:
   - optical-character-recognition
   - pipeline
   - pipeline-architecture
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rtf4v8/local_manga_translator_with_llms_built_in/"
 status: published
 ---
 

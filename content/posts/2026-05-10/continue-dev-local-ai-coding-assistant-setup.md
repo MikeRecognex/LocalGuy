@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/continuedev-for-developers-the-complete-local-ai-coding-assistant-setup/"
 status: published
 ---
 

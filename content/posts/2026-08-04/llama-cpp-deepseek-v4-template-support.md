@@ -15,6 +15,9 @@ tags:
   - open-source
   - reasoning-models
   - release
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10254"
 status: published
 ---
 

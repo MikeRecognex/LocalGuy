@@ -31,6 +31,9 @@ tags:
 mentions:
   - name: PyTorch Foundation
     role: ecosystem-host
+source:
+  name: "Google News"
+  url: "https://channellife.co.nz/story/alibaba-cloud-joins-pytorch-foundation-as-platinum-member"
 status: published
 ---
 

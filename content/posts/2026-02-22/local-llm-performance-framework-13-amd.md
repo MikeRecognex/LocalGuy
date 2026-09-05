@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://msf.github.io/blogpost/local-llm-performance-framework13.html"
 status: published
 ---
 

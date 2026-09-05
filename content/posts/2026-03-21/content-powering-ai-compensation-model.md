@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@tenslor.com/your-site-content-is-powering-ai-your-bank-account-has-no-idea-that-needs-to-change-96d0ac07b8f8"
 status: published
 ---
 

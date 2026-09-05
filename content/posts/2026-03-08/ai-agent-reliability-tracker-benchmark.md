@@ -24,6 +24,9 @@ mentions:
     role: researcher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://hal.cs.princeton.edu/reliability/"
 status: published
 ---
 

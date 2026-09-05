@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Seco
     role: manufacturer
+source:
+  name: "Google News"
+  url: "https://electronics360.globalspec.com/article/23406/embedded-world-2026-seco-launches-edge-ai-som"
 status: published
 ---
 

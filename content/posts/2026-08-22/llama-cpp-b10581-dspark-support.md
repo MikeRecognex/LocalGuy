@@ -20,6 +20,9 @@ mentions:
     role: developer
   - name: GitHub
     role: publisher
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10581"
 status: published
 ---
 

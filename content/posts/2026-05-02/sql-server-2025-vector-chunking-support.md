@@ -39,6 +39,9 @@ mentions:
     role: vector-store-provider
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/sql-server-2025-adds-built-in-chunking-and-vector-support-0c6d8e04"
 status: published
 ---
 

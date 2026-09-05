@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://mp.weixin.qq.com/s/Xfsq8YDP7xkOLzbh1HwdjA"
 status: published
 ---
 

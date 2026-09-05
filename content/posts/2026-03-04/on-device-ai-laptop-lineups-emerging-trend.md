@@ -25,6 +25,9 @@ tags:
   - on-device-ai-hardware
   - on-device-ai-laptops
   - quantization
+source:
+  name: "Google News"
+  url: "https://www.trendhunter.com/trends/latest-macbook-pro-models"
 status: published
 ---
 

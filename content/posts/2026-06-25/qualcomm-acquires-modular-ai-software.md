@@ -23,6 +23,9 @@ mentions:
     role: acquired-company
   - name: H2S Media
     role: publisher
+source:
+  name: "Google News"
+  url: "https://h2smedia.com/"
 status: published
 ---
 

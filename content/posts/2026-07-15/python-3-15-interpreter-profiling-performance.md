@@ -21,6 +21,9 @@ mentions:
     role: author
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rsqzua/i_finetuned_a_14b_model_that_outperforms_claude/"
 status: published
 ---
 

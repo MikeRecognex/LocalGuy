@@ -16,6 +16,9 @@ tags:
   - nvidia
   - release
   - speculative-decoding
+source:
+  name: "NVIDIA Developer"
+  url: "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/"
 status: published
 ---
 

@@ -1,20 +1,16 @@
 // Topic co-occurrence graph — force-directed d3 visualization
-import { forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide }
+import { forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide, forceX, forceY }
   from "https://esm.sh/d3-force@3";
 import { select, selectAll } from "https://esm.sh/d3-selection@3";
 import { zoom, zoomIdentity } from "https://esm.sh/d3-zoom@3";
 import { drag } from "https://esm.sh/d3-drag@3";
 import { scaleSqrt } from "https://esm.sh/d3-scale@4";
 
-const raw = document.getElementById("graph-data");
-if (!raw) throw new Error("Missing #graph-data script element");
-
-const graphData = JSON.parse(raw.textContent);
-let { nodes, edges } = graphData;
+const graphData = await fetch("/graph-data.json").then(r => r.json());
 
 // Deep-copy originals for re-filtering
-const allNodes = nodes.map(n => ({ ...n }));
-const allEdges = edges.map(e => ({ ...e }));
+const allNodes = graphData.nodes.map(n => ({ ...n }));
+const allEdges = graphData.edges.map(e => ({ ...e }));
 
 // Category colors (reuse CSS vars from trends page)
 const catConfig = {
@@ -107,6 +103,126 @@ function hideTooltip() {
 // Label visibility threshold
 const LABEL_MIN_COUNT = 5;
 
+// --- Search highlight state ---
+// Highlighting dims rather than removes: a co-occurrence graph is only
+// meaningful with its context intact.
+let highlightQuery = "";
+let matchedIds = new Set();   // nodes whose name contains the query
+let inFocusIds = new Set();   // matches plus their direct neighbours
+
+// Current render state, needed to re-apply highlighting without a re-simulation
+let nodeSel = null;
+let linkSel = null;
+let currentEdges = [];
+let currentMaxWeight = 1;
+
+const endId = (x) => (typeof x === "object" && x !== null ? x.id : x);
+
+function labelOpacity(d) {
+  if (highlightQuery) return inFocusIds.has(d.id) ? 0.9 : 0;
+  return d.count >= LABEL_MIN_COUNT ? 0.9 : 0;
+}
+
+function nodeOpacity(d) {
+  if (!highlightQuery) return 1;
+  if (matchedIds.has(d.id)) return 1;
+  return inFocusIds.has(d.id) ? 0.75 : 0.12;
+}
+
+function linkOpacity(d) {
+  const base = 0.2 + 0.6 * (d.weight / currentMaxWeight);
+  if (!highlightQuery) return base;
+  const s = endId(d.source);
+  const t = endId(d.target);
+  // Keep only edges that actually touch a match
+  return matchedIds.has(s) || matchedIds.has(t) ? base : base * 0.08;
+}
+
+// Cap on how many post-derived tags a single query may highlight
+const POST_TAG_LIMIT = 15;
+
+// Post text index, fetched on first search so the landing page doesn't pay for it
+let postIndex = null;
+let postIndexPending = false;
+
+function loadPostIndex() {
+  if (postIndex || postIndexPending) return;
+  postIndexPending = true;
+  fetch("/graph-posts.json")
+    .then(r => r.json())
+    .then(data => {
+      postIndex = data;
+      // The query may have changed while this was in flight
+      computeHighlight();
+      applyHighlight();
+    })
+    .catch(() => { /* tag-name matching still works */ })
+    .finally(() => { postIndexPending = false; });
+}
+
+function computeHighlight() {
+  matchedIds = new Set();
+  inFocusIds = new Set();
+  if (!highlightQuery) return;
+
+  // Tags whose own name matches — always an exact expression of intent
+  for (const n of allNodes) {
+    if (n.id.toLowerCase().includes(highlightQuery)) matchedIds.add(n.id);
+  }
+
+  // Tags belonging to posts whose title/description mentions the query.
+  // Ranked by how many matching posts carry them: a broad term like "apple"
+  // otherwise touches a third of the graph, which highlights nothing useful.
+  if (postIndex) {
+    const counts = new Map();
+    for (const [text, tagIdxs] of postIndex.posts) {
+      if (!text.includes(highlightQuery)) continue;
+      for (const i of tagIdxs) {
+        const tag = postIndex.tags[i];
+        counts.set(tag, (counts.get(tag) || 0) + 1);
+      }
+    }
+    const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    // Drop one-off co-occurrences unless that would leave nothing
+    const minCount = ranked.some(([, c]) => c >= 2) ? 2 : 1;
+    for (const [tag, c] of ranked.filter(([, c]) => c >= minCount).slice(0, POST_TAG_LIMIT)) {
+      matchedIds.add(tag);
+    }
+  }
+
+  for (const id of matchedIds) inFocusIds.add(id);
+  for (const e of currentEdges) {
+    const s = endId(e.source);
+    const t = endId(e.target);
+    if (matchedIds.has(s)) inFocusIds.add(t);
+    if (matchedIds.has(t)) inFocusIds.add(s);
+  }
+}
+
+function applyHighlight() {
+  if (!nodeSel || !linkSel) return;
+  nodeSel.attr("opacity", nodeOpacity);
+  nodeSel.select("text").attr("opacity", labelOpacity);
+  linkSel.attr("stroke-opacity", linkOpacity);
+
+  const status = document.getElementById("graph-search-status");
+  if (!status) return;
+  if (!highlightQuery) {
+    status.textContent = "";
+    return;
+  }
+  // Count only what is actually on screen at the current threshold
+  const visible = new Set(nodeSel.data().map(n => n.id));
+  const shown = [...matchedIds].filter(id => visible.has(id)).length;
+  if (shown) {
+    status.textContent = `${shown} topic${shown === 1 ? "" : "s"}`;
+  } else if (matchedIds.size) {
+    status.textContent = "no match at this threshold";
+  } else {
+    status.textContent = "no match";
+  }
+}
+
 function rebuildGraph() {
   const minWeight = parseInt(document.getElementById("weight-slider").value, 10);
 
@@ -141,13 +257,21 @@ function rebuildGraph() {
   g.selectAll("*").remove();
   if (simulation) simulation.stop();
 
-  if (!filteredNodes.length) return;
+  if (!filteredNodes.length) {
+    nodeSel = null;
+    linkSel = null;
+    currentEdges = [];
+    return;
+  }
 
   const width = container.clientWidth;
   const height = container.clientHeight;
 
   // Max edge weight for opacity scaling
   const maxWeight = Math.max(...edgeCopies.map(e => e.weight), 1);
+  currentEdges = edgeCopies;
+  currentMaxWeight = maxWeight;
+  computeHighlight();
 
   // Links
   const link = g.append("g")
@@ -156,7 +280,7 @@ function rebuildGraph() {
     .data(edgeCopies)
     .join("line")
     .attr("stroke", "var(--color-muted)")
-    .attr("stroke-opacity", d => 0.2 + 0.6 * (d.weight / maxWeight))
+    .attr("stroke-opacity", linkOpacity)
     .attr("stroke-width", d => 0.5 + 2 * (d.weight / maxWeight));
 
   // Node groups
@@ -170,7 +294,8 @@ function rebuildGraph() {
     .on("mouseout", hideTooltip)
     .on("click", (event, d) => {
       window.location.href = `/tags/${d.id}/`;
-    });
+    })
+    .attr("opacity", nodeOpacity);
 
   // Circles
   node.append("circle")
@@ -187,17 +312,13 @@ function rebuildGraph() {
     .attr("fill", "var(--color-text)")
     .attr("font-size", "11px")
     .attr("pointer-events", "none")
-    .attr("opacity", d => d.count >= LABEL_MIN_COUNT ? 0.9 : 0);
+    .attr("opacity", labelOpacity);
 
-  // Show labels on hover for small nodes
+  // Show labels on hover for any node whose label is currently hidden
   node.on("mouseover.label", function(event, d) {
-    if (d.count < LABEL_MIN_COUNT) {
-      select(this).select("text").attr("opacity", 0.9);
-    }
+    select(this).select("text").attr("opacity", 0.9);
   }).on("mouseout.label", function(event, d) {
-    if (d.count < LABEL_MIN_COUNT) {
-      select(this).select("text").attr("opacity", 0);
-    }
+    select(this).select("text").attr("opacity", labelOpacity(d));
   });
 
   // Drag behavior
@@ -219,12 +340,23 @@ function rebuildGraph() {
 
   node.call(dragBehavior);
 
+  nodeSel = node;
+  linkSel = link;
+  applyHighlight();
+
   // Force simulation
   simulation = forceSimulation(filteredNodes)
     .force("link", forceLink(edgeCopies).id(d => d.id).distance(80).strength(d => d.weight / maxWeight * 0.5))
     .force("charge", forceManyBody().strength(-150))
     .force("center", forceCenter(width / 2, height / 2))
     .force("collide", forceCollide().radius(d => rScale(d.count) + 4))
+    // forceCenter only shifts the centre of mass; it does nothing to stop the
+    // cloud spreading past the edges, which clipped outer labels. These pull each
+    // node individually toward the middle. Deliberately weak — strong enough to
+    // keep the layout in frame, too weak to flatten the clusters into a disc, and
+    // it stays a soft force so drag and pan still reach outside the box.
+    .force("x", forceX(width / 2).strength(0.3))
+    .force("y", forceY(height / 2).strength(0.3))
     .on("tick", () => {
       link
         .attr("x1", d => d.source.x)
@@ -250,6 +382,25 @@ slider.addEventListener("input", () => {
   weightLabel.textContent = slider.value;
   rebuildGraph();
 });
+
+// --- Search (highlight, not filter) ---
+const searchInput = document.getElementById("graph-search");
+if (searchInput) {
+  searchInput.addEventListener("input", () => {
+    highlightQuery = searchInput.value.trim().toLowerCase();
+    if (highlightQuery) loadPostIndex();
+    computeHighlight();
+    applyHighlight();
+  });
+  searchInput.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      searchInput.value = "";
+      highlightQuery = "";
+      computeHighlight();
+      applyHighlight();
+    }
+  });
+}
 
 // --- Init ---
 renderLegend();

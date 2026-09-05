@@ -16,6 +16,9 @@ tags:
   - on-device-inference
   - open-source
   - release
+source:
+  name: "Google News"
+  url: "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/"
 status: published
 ---
 

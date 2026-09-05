@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: StarkInsider.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.starkinsider.com/2026/03/google-turboquant-llm-compression-less-memory.html"
 status: published
 ---
 

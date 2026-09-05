@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: greenstevester
     role: author
+source:
+  name: "Hacker News"
+  url: "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5"
 status: published
 ---
 

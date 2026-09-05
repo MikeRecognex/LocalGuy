@@ -28,6 +28,9 @@ tags:
   - quantization
   - quantized-models
   - smart-city-ai
+source:
+  name: "Google News"
+  url: "https://www.seoul-economy.com"
 status: published
 ---
 

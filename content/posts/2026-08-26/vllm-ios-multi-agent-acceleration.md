@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html"
 status: published
 ---
 

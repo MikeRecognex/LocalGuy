@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: tonbistudio
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s44p77/rotorquant_1019x_faster_alternative_to_turboquant/"
 status: published
 ---
 

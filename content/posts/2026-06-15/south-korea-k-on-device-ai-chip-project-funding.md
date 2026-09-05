@@ -23,6 +23,9 @@ mentions:
     role: competitor
   - name: Chosunbiz
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.chosunbiz.com/"
 status: published
 ---
 

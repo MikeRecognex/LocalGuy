@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Republic.world
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.republic.world/technology/samsung-galaxy-book-6-series-launched-in-india-with-intel-core-ultra-chips-ai-features"
 status: published
 ---
 

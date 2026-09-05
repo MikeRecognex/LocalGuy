@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/b27xdhewq5lg1.png"
 status: published
 ---
 

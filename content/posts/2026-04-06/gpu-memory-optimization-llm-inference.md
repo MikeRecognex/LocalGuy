@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: darshanfofadiya.com
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://darshanfofadiya.com/llm-inference/gpu-memory.html"
 status: published
 ---
 

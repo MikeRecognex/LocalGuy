@@ -30,6 +30,9 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://openwrt.org/releases/25.12/notes-25.12.0"
 status: published
 ---
 

@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@contact.n8n410/why-ai-models-fail-at-iterative-reasoning-51f8f9930625"
 status: published
 ---
 

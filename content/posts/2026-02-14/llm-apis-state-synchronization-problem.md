@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://lucumr.pocoo.org/2025/11/22/llm-apis/"
 status: published
 ---
 

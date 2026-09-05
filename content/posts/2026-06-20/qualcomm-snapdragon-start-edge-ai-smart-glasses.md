@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Tech Times
     role: publisher
+source:
+  name: "Tech Times"
+  url: "https://www.techtimes.com/articles/318634/20260619/qualcomm-launches-snapdragon-start-speed-ai-smart-glasses-market.htm"
 status: published
 ---
 

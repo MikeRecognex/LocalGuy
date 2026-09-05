@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: viralcode
     role: project-owner
+source:
+  name: "Hacker News"
+  url: "https://github.com/viralcode/vib-OS"
 status: published
 ---
 

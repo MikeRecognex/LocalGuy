@@ -27,6 +27,9 @@ mentions:
     role: application developer
   - name: Linuxiac
     role: publisher
+source:
+  name: "Linuxiac"
+  url: "https://linuxiac.com/photoprism-ai-powered-photos-app-brings-better-ollama-integration/"
 status: published
 ---
 

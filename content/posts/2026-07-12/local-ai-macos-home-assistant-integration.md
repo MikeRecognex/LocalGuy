@@ -22,6 +22,9 @@ mentions:
     role: software-platform
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/every-modern-mac-hides-free-local-ai-home-assistant/"
 status: published
 ---
 

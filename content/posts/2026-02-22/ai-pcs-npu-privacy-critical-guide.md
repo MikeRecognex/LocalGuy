@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Techgenyz
     role: publisher
+source:
+  name: "Techgenyz"
+  url: "https://www.techgenyz.com/ai-pcs-npu-privacy"
 status: published
 ---
 As NPU (Neural Processing Unit) adoption accelerates in consumer and enterprise PCs, understanding their actual capabilities and privacy implications has become critical for local LLM deployment decisions. This guide clarifies seven key misconceptions about AI PCs, NPU performance characteristics, and what on-device processing actually means for data privacy.

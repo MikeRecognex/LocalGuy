@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@DolphinDB_Inc/dolphindb-v3-00-6-ecde33229456"
 status: published
 ---
 

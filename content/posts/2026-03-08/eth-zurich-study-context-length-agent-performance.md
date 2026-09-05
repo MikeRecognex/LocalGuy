@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ro21dr/eth_zurich_study_confirms_that_more_context/"
 status: published
 ---
 

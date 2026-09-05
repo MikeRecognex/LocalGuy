@@ -15,6 +15,9 @@ tags:
   - memory-bandwidth
   - news
   - performance
+source:
+  name: "Google News"
+  url: "https://finance.biggo.com/news/ee5e32ea-6151-4246-a9c8-1f76a023b564"
 status: published
 ---
 

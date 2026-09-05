@@ -30,6 +30,9 @@ mentions:
     role: partner
   - name: Tech in Asia
     role: publisher
+source:
+  name: "Tech in Asia"
+  url: "https://www.techasia.com"
 status: published
 ---
 

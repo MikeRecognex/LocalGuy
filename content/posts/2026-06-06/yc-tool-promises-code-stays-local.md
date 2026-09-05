@@ -21,6 +21,9 @@ mentions:
     role: investor
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/intcyberdigest/status/2063026347522539754"
 status: published
 ---
 

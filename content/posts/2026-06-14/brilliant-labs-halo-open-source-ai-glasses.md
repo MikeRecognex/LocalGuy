@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Brilliant Labs
     role: developer
+source:
+  name: "Google News"
+  url: "https://quasa.io/video/brilliant-labs-halo-open-source-ai-glasses-for-curious-minds"
 status: published
 ---
 

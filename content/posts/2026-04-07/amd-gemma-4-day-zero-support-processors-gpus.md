@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: DigitalTerminal.io
     role: publisher
+source:
+  name: "Google News"
+  url: "https://digitalterminal.in/trending/amd-announces-day-0-support-for-google-gemma-4-across-processors-and-gpus"
 status: published
 ---
 

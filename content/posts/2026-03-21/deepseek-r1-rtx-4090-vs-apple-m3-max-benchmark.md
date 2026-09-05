@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/deepseek-r1-rtx-4090-vs-apple-m3-max"
 status: published
 ---
 

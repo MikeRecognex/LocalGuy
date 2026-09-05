@@ -32,6 +32,9 @@ mentions:
     role: community
   - name: Qwen
     role: model-developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s0aa1y/qwen35122ba10b_uncensored_aggressive_gguf_release/"
 status: published
 ---
 

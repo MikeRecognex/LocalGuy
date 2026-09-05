@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVU0TjVrY2V6N3ExbGo0MERRZDkwNWR5RVcxck1iTlNDNnVROFJvLTNxRmVTQWdid3F1SHNRb3RhOFRhYVk5TEdsRExGVmVRUXcxY1JqUmx5RFkwNEtlZmxOTkxHSWJzaHJVMXlrQmlKQTRBLWVQSno0MmotRGpNaXVPV2NUdVNaRTk3Y056WDVWazd2QlRqSw?oc=5"
 status: published
 ---
 

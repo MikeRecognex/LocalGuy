@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@engineersofai/why-we-built-synapsekit-the-truth-about-production-llm-frameworks-94214cc3a172"
 status: published
 ---
 

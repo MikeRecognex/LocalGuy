@@ -23,6 +23,9 @@ tags:
   - resource-constraints
 mentions:
   - name: Mike Ayles
+source:
+  name: "Hacker News"
+  url: "https://www.mikeayles.com/blog/rag-coding-tools/"
 status: published
 ---
 

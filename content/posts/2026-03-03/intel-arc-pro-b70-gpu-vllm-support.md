@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: wccftech.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.wccftech.com/intel-confirms-arc-pro-b70-workstation-gpu-via-llm-scaler-vllm-ai-release-notes/"
 status: published
 ---
 

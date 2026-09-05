@@ -27,6 +27,9 @@ mentions:
     role: manufacturer
   - name: Lenovo
     role: hardware-vendor
+source:
+  name: "Google News"
+  url: "https://www.digitimes.com"
 status: published
 ---
 

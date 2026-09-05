@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rzaqjn/qwen_35_397b_is_the_best_local_coder_i_have_used/"
 status: published
 ---
 

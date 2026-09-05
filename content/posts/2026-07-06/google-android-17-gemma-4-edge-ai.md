@@ -17,6 +17,9 @@ tags:
   - on-device-inference
   - open-source
   - release
+source:
+  name: "Google News"
+  url: "https://inews.zoombangla.com/google-android-17-gemma-4-local-ai/"
 status: published
 ---
 

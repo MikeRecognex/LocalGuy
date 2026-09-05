@@ -32,6 +32,9 @@ mentions:
     handle: "@Wewoc"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Wewoc/Garmin_Local_Archive"
 status: published
 ---
 

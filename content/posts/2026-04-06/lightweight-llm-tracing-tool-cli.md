@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: SKE-Labs
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/SKE-Labs/lightrace"
 status: published
 ---
 

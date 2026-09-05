@@ -12,6 +12,9 @@ tags:
   - edge-inference
   - news
   - storage-requirements
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGctcFpVRHlJZ0xCMDNlRmltLVViSWhLWUxERzBjcC0wTFU5QzVGRHVrVy1oeFBzbnZqRnZpR1p4UHVaRFpLVmRJLTJUOFpRVUVkVVV2R0tBaDRiZzhSMVljdG5Sa2xtNzdodndfOGZGSkRIdEgxQ0Ewb3puQVhmeXRRYUtYVXNNVWdVVg?oc=5"
 status: published
 ---
 

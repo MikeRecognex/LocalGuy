@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/thin_signal/status/2028412948167942334"
 status: published
 ---
 

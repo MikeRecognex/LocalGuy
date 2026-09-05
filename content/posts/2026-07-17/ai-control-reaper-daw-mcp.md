@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/xDarkzx/Reaper-MCP/tree/main/reaper_mcp/tools"
 status: published
 ---
 

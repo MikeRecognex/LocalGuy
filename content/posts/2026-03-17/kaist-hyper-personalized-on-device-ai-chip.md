@@ -33,6 +33,9 @@ mentions:
     role: research-institution
   - name: Seoul Economic Daily
     role: publisher
+source:
+  name: "Seoul Economic Daily"
+  url: "https://www.seoul.co.kr"
 status: published
 ---
 

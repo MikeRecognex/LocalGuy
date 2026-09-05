@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.bluebyday.com/posts/good-llm-dev-and-usage/"
 status: published
 ---
 

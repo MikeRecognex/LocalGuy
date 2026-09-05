@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Yahoo Tech
     role: publisher
+source:
+  name: "Google News"
+  url: "https://tech.yahoo.com/videos/gemini-notebook-device-ai-action-140400144.html"
 status: published
 ---
 

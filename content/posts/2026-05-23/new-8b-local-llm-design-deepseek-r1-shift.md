@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/tried-new-8b-local-llm-deepseek-r1-design/"
 status: published
 ---
 

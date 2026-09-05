@@ -19,6 +19,9 @@ mentions:
     role: publisher
   - name: Castform
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://castform.com/blog/unslop/"
 status: published
 ---
 

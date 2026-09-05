@@ -17,6 +17,9 @@ tags:
   - qwen
   - release
   - uncensored-models
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rq7jtm/qwen3535ba3b_uncensored_aggressive_gguf_release/"
 status: published
 ---
 

@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/JeevanJoshi2061/titan_engine_core"
 status: published
 ---
 

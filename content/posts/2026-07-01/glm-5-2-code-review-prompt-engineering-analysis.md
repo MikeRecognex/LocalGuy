@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.kilo.ai/p/glm-52s-code-reviews-are-only-as"
 status: published
 ---
 

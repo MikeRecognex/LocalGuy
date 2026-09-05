@@ -22,6 +22,9 @@ tags:
   - performance
   - release
   - showcase
+source:
+  name: "Google News"
+  url: "https://news.google.com/"
 status: published
 ---
 

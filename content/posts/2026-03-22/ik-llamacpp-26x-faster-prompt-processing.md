@@ -21,6 +21,9 @@ tags:
   - quantization
   - qwen-model-optimization
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s07ysr/ik_llamacpp_gives_26x_faster_prompt_processing_on/"
 status: published
 ---
 

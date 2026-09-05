@@ -18,6 +18,9 @@ tags:
   - prompt-processing-optimization
   - tutorial
   - ubatch-size-configuration
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rnrxsv/llamacpp_in_case_people_are_struggling_with/"
 status: published
 ---
 

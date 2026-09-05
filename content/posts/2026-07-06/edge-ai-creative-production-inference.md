@@ -17,6 +17,9 @@ tags:
   - privacy-protection
   - real-time
   - use-cases
+source:
+  name: "Google News"
+  url: "https://ascendants.in/founders-corner/edge-ai-creative-production-campaign-workflows/"
 status: published
 ---
 

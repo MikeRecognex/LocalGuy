@@ -23,6 +23,9 @@ mentions:
     role: manufacturer
   - name: Hackster.io
     role: publisher
+source:
+  name: "Hackster.io"
+  url: "https://www.hackster.io/news/neoeyes-ne503-brings-20-tops-of-on-device-ai-to-industrial-cameras-a0d8c402b66c"
 status: published
 ---
 

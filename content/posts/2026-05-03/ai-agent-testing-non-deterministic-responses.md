@@ -28,6 +28,9 @@ mentions:
     handle: "adlrocha"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to"
 status: published
 ---
 

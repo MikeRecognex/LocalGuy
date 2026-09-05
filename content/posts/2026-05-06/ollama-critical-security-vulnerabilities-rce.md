@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Help Net Security
     role: publisher
+source:
+  name: "Help Net Security"
+  url: "https://www.helpnetsecurity.com/2026/05/05/ollama-windows-vulnerabilities-cve-2026-42248-cve-2026-42249/"
 status: published
 ---
 

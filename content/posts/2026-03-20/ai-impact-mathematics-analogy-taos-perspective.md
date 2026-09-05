@@ -30,6 +30,9 @@ mentions:
     role: Mathematician
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://mathstodon.xyz/@tao/116252708577614828"
 status: published
 ---
 

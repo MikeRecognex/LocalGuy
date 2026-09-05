@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rbafs8/i_trained_a_language_model_on_cpu_for_40_hours_it/"
 status: published
 ---
 The latest iteration of FlashLM, version 5 'Thunderbolt', represents a significant achievement for the local ML community: [successful CPU-only model training that outperforms GPU baselines](https://www.reddit.com/r/LocalLLaMA/comments/1rbafs8/i_trained_a_language_model_on_cpu_for_40_hours_it/). After 40 hours of training on standard CPU hardware, the model achieved a final perplexity of just 1.36 with only 29.7M parameters (26.5M ternary-quantized).

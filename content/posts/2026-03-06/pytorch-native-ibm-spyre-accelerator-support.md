@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: IBM Research
     role: developer
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TQ2xkbnVBb0R4NlJ1QmQwLTNTTUdoRERLQ21rSnItRWlidjdRNjExOTRrMjZQekJGY0E2dVExaERVVWZNTGhUbkdhZjdXdjgySGZZZ1JNVjB3MExEOHIxSWdCWUxOUQ?oc=5"
 status: published
 ---
 

@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/"
 status: published
 ---
 

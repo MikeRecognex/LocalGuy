@@ -22,6 +22,9 @@ mentions:
     role: Linux kernel maintainer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
 status: published
 ---
 

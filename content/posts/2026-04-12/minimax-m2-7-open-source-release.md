@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://firethering.com/minimax-m2-7-agentic-model/"
 status: published
 ---
 

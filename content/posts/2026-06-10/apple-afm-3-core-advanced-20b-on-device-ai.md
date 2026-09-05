@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: VentureBeat
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.cryptobriefing.com/apple-afm-3-core-advanced-20-billion-parameters/"
 status: published
 ---
 

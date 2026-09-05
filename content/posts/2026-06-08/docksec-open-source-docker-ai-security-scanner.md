@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Help Net Security
     role: publisher
+source:
+  name: "Help Net Security"
+  url: "https://www.helpnetsecurity.com/2026/06/08/docksec-open-source-ai-docker-security-scanner/"
 status: published
 ---
 

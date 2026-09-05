@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: npm
     role: platform
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s8xj2e/claude_codes_source_just_leaked_i_extracted_its/"
 status: published
 ---
 

@@ -25,6 +25,9 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://angelo-lima.fr/en/sourdine-transcription-reunions-ia-locale-en/"
 status: published
 ---
 

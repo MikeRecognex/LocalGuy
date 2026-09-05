@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: TechCrunch
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/ollama-easiest-way-start-local-llms-worst-keep-running/"
 status: published
 ---
 

@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/ai-server-deepseek-r1-rtx-4090"
 status: published
 ---
 

@@ -31,6 +31,9 @@ tags:
 mentions:
   - name: It's FOSS
     role: publisher
+source:
+  name: "It's FOSS"
+  url: "https://news.google.com/rss/articles/CBMiREFVX3lxTE43aGlSUHI3c3E5SDRyWmhnbFZwU0lUWW9uTUE1R0didGpfQ3ZIc3ZDdzQtbWV0aVV0RnAtb0JsZTBRRWRo?oc=5"
 status: published
 ---
 

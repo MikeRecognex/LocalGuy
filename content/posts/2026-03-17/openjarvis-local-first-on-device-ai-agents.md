@@ -26,6 +26,9 @@ mentions:
     role: project
   - name: Dataconomy
     role: publisher
+source:
+  name: "Dataconomy"
+  url: "https://dataconomy.com/2026/03/16/openjarvis-local-first-ai-agents-that-run-entirely-on-device/"
 status: published
 ---
 

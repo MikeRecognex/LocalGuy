@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: kmjournal.net
     role: publisher
+source:
+  name: "kmjournal.net"
+  url: "https://kmjournal.net/qualcomm-samsung-ai-alliance"
 status: published
 ---
 

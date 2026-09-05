@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://blog.atuin.sh/atuin-v18-13/"
 status: published
 ---
 

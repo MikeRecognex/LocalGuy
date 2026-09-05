@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://quasa.io/media/how-to-run-a-local-ai-model-with-ollama-on-windows-11"
 status: published
 ---
 

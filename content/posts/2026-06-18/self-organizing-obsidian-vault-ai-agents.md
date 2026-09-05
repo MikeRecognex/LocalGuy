@@ -21,6 +21,9 @@ mentions:
     role: software
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/ibrahimkobeissy/ai-second-brain-template"
 status: published
 ---
 

@@ -24,6 +24,9 @@ mentions:
     role: platform provider
   - name: Techzine Global
     role: publisher
+source:
+  name: "Techzine Global"
+  url: "https://www.techzine.eu/news/infrastructure/139076/red-hat-launches-ai-enterprise-for-hybrid-ai-deployments/"
 status: published
 ---
 

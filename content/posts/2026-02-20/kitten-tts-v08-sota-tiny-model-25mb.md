@@ -35,6 +35,9 @@ tags:
 mentions:
   - name: Kitten ML
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/rzgwarr4rdkg1"
 status: published
 ---
 

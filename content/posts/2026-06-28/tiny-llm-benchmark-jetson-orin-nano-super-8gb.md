@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/"
 status: published
 ---
 

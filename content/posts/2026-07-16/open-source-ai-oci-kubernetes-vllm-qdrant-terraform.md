@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Oracle
     role: publisher
+source:
+  name: "Oracle Blogs"
+  url: "https://blogs.oracle.com/ai-and-ml/open-source-ai-on-oci"
 status: published
 ---
 

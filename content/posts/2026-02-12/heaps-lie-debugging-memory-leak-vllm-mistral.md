@@ -19,6 +19,9 @@ tags:
   - vllm-memory-leak
   - vllm-optimization
   - vllm-stability
+source:
+  name: "Mistral AI"
+  url: "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xdF9xTEgyMzh4d3dlOUxHR0tiNVVzejl1TFUzNkZ6RndMNmNUUnpRb0RwMHBvZV9wZlY3eVJiS3JmY2pGN2R1NnA0YloyeUFyTVZfak0tcEJsMVhYSEtwY25FVQ?oc=5"
 status: published
 ---
 Mistral AI's engineering team has published a detailed technical post-mortem of debugging a critical memory leak in vLLM, one of the most popular inference engines for local LLM deployment. The investigation reveals sophisticated memory management issues that can severely impact long-running inference servers.

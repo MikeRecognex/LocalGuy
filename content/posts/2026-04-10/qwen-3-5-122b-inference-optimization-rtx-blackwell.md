@@ -23,6 +23,9 @@ tags:
   - model-benchmarking
   - qwen
   - qwen-model-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sh7yxa/qwen35122b_at_198_toks_on_2x_rtx_pro_6000/"
 status: published
 ---
 

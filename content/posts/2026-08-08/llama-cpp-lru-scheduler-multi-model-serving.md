@@ -12,6 +12,9 @@ tags:
   - open-source
   - release
   - resource-management
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10313"
 status: published
 ---
 

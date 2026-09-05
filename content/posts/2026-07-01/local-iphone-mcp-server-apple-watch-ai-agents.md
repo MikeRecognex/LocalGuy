@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://bernhardhering.de/blog/ask-my-health-codex-workout-plan/"
 status: published
 ---
 

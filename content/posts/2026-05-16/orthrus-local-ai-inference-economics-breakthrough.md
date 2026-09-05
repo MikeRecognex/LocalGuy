@@ -32,6 +32,9 @@ mentions:
   - name: fortune.com
     role: publisher
   - name: Orthrus
+source:
+  name: "Google News"
+  url: "https://fortune.com"
 status: published
 ---
 

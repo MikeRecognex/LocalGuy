@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: Analytics India Magazine
     role: publisher
+source:
+  name: "Analytics India Magazine"
+  url: "https://analyticsindiamag.com/mira-murati-thinking-machines"
 status: published
 ---
 

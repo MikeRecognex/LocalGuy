@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://astral.sh/blog/ruff-v0.16.0"
 status: published
 ---
 

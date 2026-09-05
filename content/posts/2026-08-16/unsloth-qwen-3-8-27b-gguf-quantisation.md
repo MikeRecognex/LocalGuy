@@ -19,6 +19,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
 status: published
 ---
 

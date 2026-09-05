@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://chromewebstore.google.com/detail/chat-privacy/piakgcdlbcadfnhgmpfpfejfmmpmnmkp"
 status: published
 ---
 

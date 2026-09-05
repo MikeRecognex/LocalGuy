@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://apps.apple.com/us/app/dictawiz-voice-notes-recorder/id6759256382"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: PhoneArena
     role: publisher
+source:
+  name: "PhoneArena"
+  url: "https://www.phonearena.com/news/google-pixel-10-on-device-ai"
 status: published
 ---
 

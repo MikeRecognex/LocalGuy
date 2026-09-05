@@ -32,6 +32,9 @@ tags:
 mentions:
   - name: Marktechpost
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.marktechpost.com/2026/06/01/meet-memory-os-a-6-layer-open-source-memory-stack-built-on-top-of-hermes-agent/"
 status: published
 ---
 

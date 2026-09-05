@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: CodecAI
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://codecai.net/"
 status: published
 ---
 

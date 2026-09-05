@@ -24,6 +24,9 @@ tags:
   - tutorial
   - vllm
   - vllm-inference
+source:
+  name: "AMD"
+  url: "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFRrNXV2eE93My1Vb21nR1czd3VYdDBtNHRIbFcycWVVWHdNSkx0N2JmVU1XaFdSNU91R214YmhUT2pja2pJZVR0dk5jWnFRSHAyQ29uNEtwVF9xSUxTWkhOZXg4bnJpckdEQmwzUXJJMXhFbGZXM1locEVLMFdfVDc3WTM0UHYxSFc2WGV2WkE3RXVIWnZlVE1ZZ2I4SFdfYno0MklxYW5IUlpMb1UwZ19YTFA3aU9lM08xQ0kwZmFyWFpzUVM4NEdYWQ?oc=5"
 status: published
 ---
 

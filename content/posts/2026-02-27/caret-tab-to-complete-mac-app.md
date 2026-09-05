@@ -23,6 +23,9 @@ mentions:
     role: application
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.trycaret.com/list"
 status: published
 ---
 

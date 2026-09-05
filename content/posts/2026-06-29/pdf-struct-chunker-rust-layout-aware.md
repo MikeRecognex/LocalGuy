@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/matthiasnordwig/pdf-struct-chunker"
 status: published
 ---
 

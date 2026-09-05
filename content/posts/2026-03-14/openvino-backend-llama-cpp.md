@@ -19,6 +19,9 @@ tags:
   - openvino-integration
   - performance-optimization
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rte9m7/thanks_to_the_intel_team_for_openvino_backend_in/"
 status: published
 ---
 

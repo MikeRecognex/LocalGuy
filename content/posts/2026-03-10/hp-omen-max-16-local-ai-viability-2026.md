@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Digital Reviews Network
     role: publisher
+source:
+  name: "Digital Reviews Network"
+  url: "https://www.digitalreviews.net/reviews/software/hp-omen-max-16-local-ai-review-2026/"
 status: published
 ---
 

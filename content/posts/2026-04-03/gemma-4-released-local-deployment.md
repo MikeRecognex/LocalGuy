@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Unsloth
     role: quantization provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1salgre/gemma_4_has_been_released/"
 status: published
 ---
 

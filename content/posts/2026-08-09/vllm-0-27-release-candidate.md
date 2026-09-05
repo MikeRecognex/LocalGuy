@@ -12,6 +12,9 @@ tags:
   - release
   - self-hosted-inference
   - vllm
+source:
+  name: "vLLM release"
+  url: "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc2"
 status: published
 ---
 

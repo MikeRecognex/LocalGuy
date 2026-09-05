@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: HackerNoon
     role: publisher
+source:
+  name: "HackerNoon"
+  url: "https://hackernoon.com/we-built-a-local-model-arena-in-30-minutes-infrastructure-mattered-more-than-the-app"
 status: published
 ---
 

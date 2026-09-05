@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Sportskeeda Tech
     role: publisher
+source:
+  name: "Sportskeeda Tech"
+  url: "https://sportskeeda.com/tech"
 status: published
 ---
 

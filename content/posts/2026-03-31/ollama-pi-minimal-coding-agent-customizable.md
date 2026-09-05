@@ -31,6 +31,9 @@ mentions:
     role: application
   - name: Sci-Tech Today
     role: publisher
+source:
+  name: "Sci-Tech Today"
+  url: "https://sci-tech-today.com"
 status: published
 ---
 

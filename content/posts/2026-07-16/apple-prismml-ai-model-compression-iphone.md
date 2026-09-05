@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: CNBC
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html"
 status: published
 ---
 

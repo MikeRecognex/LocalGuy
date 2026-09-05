@@ -32,6 +32,9 @@ mentions:
     role: industrial solutions provider
   - name: 매일경제
     role: publisher
+source:
+  name: "매일경제"
+  url: "https://mk.co.kr"
 status: published
 ---
 

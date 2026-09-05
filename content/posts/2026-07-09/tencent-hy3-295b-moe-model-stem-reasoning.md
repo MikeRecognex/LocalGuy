@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: TechJuice
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.techjuice.pk"
 status: published
 ---
 

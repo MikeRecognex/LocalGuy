@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: HyperExcel
     role: startup
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHQyMW5PSlZOSmc3V0hFN1h1aTVPNFYzSzFXbXNRdG9QQjdLQXlGSUxxaGo2eEtWZGtkdXhyelFMdnljZU1PU21MWm83QldmQW1ONl9VLVlRT0dwZ1A2N0ZRa0lLNzJiNUEyR29yaFFlSkc3UmZONUhiX3dJYU84WNIBlAFBVV95cUxPY3lMV1VTLU9CTjdtbWIxNnNLb0R2QlNZQTcydTFtZ1RMdmpFeTFoMTJxUDk1QVRhSE9YY2dxU2NwaWNtZXl2aGFRZmRxTm9xNjUwTFJyYnRsTlBUSEdGMUJ5Z2h2WGgyWWxwb3FOaVlJWU1jWjlOSG5nVFdGWFpZSERmazlQelBFRUVmOGR2NXpDZ2RP?oc=5"
 status: published
 ---
 

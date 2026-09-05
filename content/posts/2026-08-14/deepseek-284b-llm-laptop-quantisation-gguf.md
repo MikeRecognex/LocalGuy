@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iTWRmSkR5alBPX0VQZFdFTTJ4TzNQZEV4aEZUSkxZT0pLNkM4QkhpTWhPTkdaRDFxSWxHQVl4ZVlETTNFVWZGZENyTTBKRzhwNVJhNXloSXpOZUE?oc=5"
 status: published
 ---
 

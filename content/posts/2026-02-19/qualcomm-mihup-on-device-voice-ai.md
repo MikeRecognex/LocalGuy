@@ -30,6 +30,9 @@ mentions:
     role: partner
   - name: varindia.com
     role: publisher
+source:
+  name: "varindia.com"
+  url: "https://www.varindia.com/news/mihup-and-qualcomm-collaborate-to-advance-secure-on-device-voice-ai-for-bfsi"
 status: published
 ---
 The collaboration between Qualcomm and Mihup highlights the growing importance of on-device voice AI for regulated industries, particularly banking and financial services where data privacy and regulatory compliance are paramount. This partnership demonstrates that enterprise-grade local inference infrastructure is moving beyond hobbyist projects into production-critical applications.

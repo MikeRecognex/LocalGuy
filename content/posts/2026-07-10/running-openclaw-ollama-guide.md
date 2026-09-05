@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://www.kdnuggets.com/ollama-openclaw-guide"
 status: published
 ---
 

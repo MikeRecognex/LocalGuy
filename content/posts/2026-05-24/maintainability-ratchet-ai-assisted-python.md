@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
   - small-model-performance
   - total-cost-of-ownership
   - use-cases
+source:
+  name: "Google News"
+  url: "https://news.google.com/"
 status: published
 ---
 

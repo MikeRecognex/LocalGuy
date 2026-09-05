@@ -15,6 +15,9 @@ tags:
   - local-deployment
   - model-release
   - open-source
+source:
+  name: "Google News"
+  url: "https://letsdatascience.com/news/glm-52-challenges-claude-opus-in-webgl-game-build-97e3fe1f"
 status: published
 ---
 

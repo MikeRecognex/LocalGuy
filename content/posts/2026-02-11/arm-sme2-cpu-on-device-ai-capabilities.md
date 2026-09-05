@@ -28,6 +28,9 @@ tags:
   - samsung
   - sme2
   - transformer-models
+source:
+  name: "Samsung"
+  url: "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczVRdUM5dnBQcWV1YlN3c0ZIMUhNUjhCcU8xRzVpT3l1UzduUjF3UUxmUnJPZ01tNkZQMktpNlFHNERKaTBRUjlnYnNKLUsyLWRhMFIwMnI1YklqSk55SU1aNTdJNWg0cU5SWnZOM0U3S01BUFdPRjlwMENUa3ZDdmlET3lhSzk4cWJsOC1qSWxLcUZGWFlSWUdQZWlMRG1Tenp1aE5qS3REUE5UOUExOGh1UFo?oc=5"
 status: published
 ---
 

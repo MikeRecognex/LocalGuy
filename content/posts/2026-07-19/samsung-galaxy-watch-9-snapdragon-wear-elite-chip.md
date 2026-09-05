@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: LatestLY
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.latestly.com"
 status: published
 ---
 

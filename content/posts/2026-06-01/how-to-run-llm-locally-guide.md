@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Editorialge
     role: publisher
+source:
+  name: "Editorialge"
+  url: "https://editorialge.com/run-llm-locally-privacy-hardware-limits/"
 status: published
 ---
 

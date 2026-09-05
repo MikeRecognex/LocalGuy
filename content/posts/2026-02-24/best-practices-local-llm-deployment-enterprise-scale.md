@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rd9kpk/best_practices_for_running_local_llms_for_70150/"
 status: published
 ---
 

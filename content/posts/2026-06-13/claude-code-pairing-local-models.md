@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: KDnuggets
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.kdnuggets.com/claude-code-local-models"
 status: published
 ---
 

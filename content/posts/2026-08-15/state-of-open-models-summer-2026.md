@@ -15,6 +15,9 @@ tags:
   - performance-benchmarks
   - quantization
   - vllm
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/state-of-open-models-summer-2026"
 status: published
 ---
 

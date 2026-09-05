@@ -19,6 +19,9 @@ mentions:
     role: manufacturer
   - name: Trend Hunter
     role: publisher
+source:
+  name: "Google News (Trend Hunter)"
+  url: "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QN0ZWaDhXaXRTdTFnZDE0VklYY0JTeXN5Nzg4TURwckZKd2p4aVFoRDQ0UFdoU1pBOE5vbmpuU1dtaGlVMHE5QV8ybldMQURlZktHYlVvZTRRQkVEMy03eGZfMmI5RFhLbHVF?oc=5"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.youtube.com/watch?v=bgZ3pmr0DIs"
 status: published
 ---
 

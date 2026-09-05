@@ -17,6 +17,9 @@ tags:
   - multi-modal-ai
   - npu
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/ndpi723pkuog1.png"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Ad-hoc-news.de
     role: publisher
+source:
+  name: "Ad-hoc-news.de"
+  url: "https://ad-hoc-news.de"
 status: published
 ---
 

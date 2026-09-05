@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://dupr.at/thermodynamic-efficiency-inversion"
 status: published
 ---
 

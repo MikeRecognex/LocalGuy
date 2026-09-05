@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/Llamafile-0.10.4"
 status: published
 ---
 

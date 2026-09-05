@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/most-people-ollama-llama-cpp-local-llms-tool-serious/"
 status: published
 ---
 

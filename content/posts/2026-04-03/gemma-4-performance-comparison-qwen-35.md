@@ -20,6 +20,9 @@ tags:
   - model-quantization
   - power-efficiency
   - quantization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sb73ar/gemma_4_is_good/"
 status: published
 ---
 

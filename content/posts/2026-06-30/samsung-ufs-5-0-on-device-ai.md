@@ -16,6 +16,9 @@ tags:
   - model-quantization
   - release
   - storage
+source:
+  name: "Samsung"
+  url: "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications"
 status: published
 ---
 

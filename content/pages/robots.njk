@@ -4,4 +4,19 @@ eleventyExcludeFromCollections: true
 ---
 User-agent: *
 Allow: /
+
+# Retrieval crawlers for AI assistants. These fetch pages to ground and cite
+# answers, and are distinct from the training crawlers each vendor also runs.
+# Named explicitly so that a future Disallow on the "*" group cannot silently
+# make the site ineligible for citation — the most specific group wins.
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: {{ site.url }}/sitemap.xml

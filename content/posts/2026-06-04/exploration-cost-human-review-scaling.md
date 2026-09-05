@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.fbeeper.com/agentkitten/2026/06/04/Exploration-Got-Cheap-Human-Review-Did-Not/"
 status: published
 ---
 

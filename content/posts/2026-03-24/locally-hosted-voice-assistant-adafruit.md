@@ -8,6 +8,9 @@ tags:
   - edge-inference
   - tutorial
   - open-source
+source:
+  name: "Adafruit"
+  url: "https://blog.adafruit.com/2026/04/01/a-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant-2/"
 status: published
 ---
 

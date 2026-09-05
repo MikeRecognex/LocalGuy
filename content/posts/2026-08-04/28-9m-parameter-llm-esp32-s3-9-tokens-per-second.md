@@ -17,6 +17,9 @@ tags:
   - microcontroller-inference
   - model-compression
   - showcase
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYThaZDJTajB5SHd0Z3I1TVBqT2REM2tvd2JhWlRRS0hpOHZ6Q0VGSG40Sl9KaW1tamRoTHZBR2JiQkE2N3BFamlIdVF3dWpsZ2RWN0xoTnZOREc0aGwxN2FEVnljejE3NHU5OTFDcTFzZzJhd1lybW9mM25RWDd2OE1TVDdPckJiZkk1aEFUYWpYRzM3aEZDQ01rRU5ZeDhz0gGoAUFVX3lxTE1HVjRwT05PWG9NLVNNVDZRYXBSUXBubzIydWd6MkdGelp2RmthY3pXeWpRNXpWWVJLSDM2TGNCZW45aUk2YW9USF9vQTZYZl9jQVBmaHdYV0NDcWxPVXJLOGg0UzBfRjhqU3VHRWx6Tm9yTTlqVjctRHFXb2VVUGR6Qkp0VHN1WVRWQnhKSk43VDk3UUlFM2d6R2hrS3JESlhMd0tySzZlRw?oc=5"
 status: published
 ---
 

@@ -27,6 +27,9 @@ tags:
   - privacy-preserving-ai
   - real-time-multimodal-ai
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/jdurdr0ysetg1"
 status: published
 ---
 

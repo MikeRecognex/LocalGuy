@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Runtime Guard
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://runtime-guard.ai/articles/agent-security-enforcement-layer/"
 status: published
 ---
 

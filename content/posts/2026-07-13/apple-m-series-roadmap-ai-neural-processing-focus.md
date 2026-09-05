@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: Wccftech
     role: publisher
+source:
+  name: "Wccftech"
+  url: "https://www.wccftech.com/apple-m7-chip-design-ai-neural-processing"
 status: published
 ---
 

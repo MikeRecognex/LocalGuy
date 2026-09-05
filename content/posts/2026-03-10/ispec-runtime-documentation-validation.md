@@ -22,6 +22,9 @@ mentions:
     role: creator
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/johnfire/ispec"
 status: published
 ---
 

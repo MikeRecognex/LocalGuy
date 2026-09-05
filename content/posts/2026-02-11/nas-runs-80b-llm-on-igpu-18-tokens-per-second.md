@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r1lkfw/my_nas_runs_an_80b_llm_at_18_toks_on_its_igpu_no/"
 status: published
 ---
 

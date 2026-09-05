@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i"
 status: published
 ---
 

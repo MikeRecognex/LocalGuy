@@ -1,12 +1,12 @@
 ---
-title: "The Local LLM Clinic"
+title: "AI Search"
 layout: layouts/page.njk
 permalink: /clinic/
-description: "Describe your local AI use-case or problem, and the Clinic searches our articles to give you a tailored answer with source links."
+description: "Describe your local AI use-case or problem, and AI Search looks through our articles to give you a tailored answer with source links."
 ---
 
 <div class="clinic-container">
-  <p class="clinic-intro">Describe your use-case or problem and the Clinic will search our published articles to give you a tailored answer with source links. Ten questions per hour.</p>
+  <p class="clinic-intro">Describe your use-case or problem and AI Search will look through our published articles to give you a tailored answer with source links. Ten questions per hour.</p>
 
   <form id="clinic-form" class="clinic-form">
     <label for="clinic-question" class="sr-only">Your question</label>
@@ -21,7 +21,7 @@ description: "Describe your local AI use-case or problem, and the Clinic searche
     <div class="clinic-form-footer">
       <span id="clinic-char-count" class="clinic-char-count">0 / 500</span>
       <button type="submit" id="clinic-submit" class="clinic-submit">
-        Ask the Clinic
+        Search
       </button>
     </div>
   </form>

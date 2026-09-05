@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/local-first-rag-vector-search-in-sqlite-with-hamming-distance/"
 status: published
 ---
 

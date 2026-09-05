@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5817303"
 status: published
 ---
 

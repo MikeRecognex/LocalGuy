@@ -16,6 +16,9 @@ tags:
   - local-inference
   - market-trends
   - on-device-ai
+source:
+  name: "Multiple Sources"
+  url: "https://samsung.com"
 status: published
 ---
 

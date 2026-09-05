@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Android Authority
     role: publisher
+source:
+  name: "Google News"
+  url: "https://androidauthority.com/nvidia-rtx-spark-pc-chip-built-like-smartphone"
 status: published
 ---
 

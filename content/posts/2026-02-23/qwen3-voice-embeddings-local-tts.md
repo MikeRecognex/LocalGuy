@@ -19,6 +19,9 @@ tags:
   - voice-synthesis
 mentions:
   - name: Qwen3
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/zmcs7iysm5lg1.png"
 status: published
 ---
 

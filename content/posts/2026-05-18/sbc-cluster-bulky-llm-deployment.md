@@ -19,6 +19,9 @@ tags:
   - resource-constrained-ai
   - sbc-clusters
   - showcase
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

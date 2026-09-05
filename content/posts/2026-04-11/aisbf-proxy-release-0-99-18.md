@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Aisbf
     role: project
+source:
+  name: "Hacker News"
+  url: "https://pypi.org/project/aisbf/"
 status: published
 ---
 

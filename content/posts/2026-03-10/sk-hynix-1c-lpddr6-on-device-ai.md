@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: SK Hynix
     role: source
+source:
+  name: "SK Hynix"
+  url: "https://www.skhynix.com"
 status: published
 ---
 

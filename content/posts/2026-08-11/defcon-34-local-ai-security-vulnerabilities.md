@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: DEF CON
     role: organisation
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTM0ZHN6YzVERGRVdWNqUG80a2ZCdWEyaDZrajItVkNZbnhfdVQ2LS13OGFsd1cxaF9MaDFPOWhZNDVUb29BeUJDN1Rma2xsd1Y5M2RITG9ZeGR0VHBEN0FMRHlyV0w1YUZmSjBodUo3VXhHQlJ5am5fTXdMdk5qR1h5blM5VDNkNmt4V0c4YkkyQzNpSmc?oc=5"
 status: published
 ---
 

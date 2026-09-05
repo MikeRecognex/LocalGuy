@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/quantization-reveals-outliers-impacting-llm-accuracy-187ae8ac"
 status: published
 ---
 

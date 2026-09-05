@@ -30,6 +30,9 @@ mentions:
     role: platform-provider
   - name: eXoPlatform
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.exoplatform.com/blog/introducing-exo-mcp-server-secure-ai-integrations-digital-workplace/"
 status: published
 ---
 

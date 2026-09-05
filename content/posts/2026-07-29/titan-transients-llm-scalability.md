@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://queue.acm.org/detail.cfm?id=3819082"
 status: published
 ---
 

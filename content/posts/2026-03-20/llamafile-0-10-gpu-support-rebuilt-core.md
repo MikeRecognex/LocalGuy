@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Mozilla/Phoronix"
+  url: "https://mozilla.org"
 status: published
 ---
 

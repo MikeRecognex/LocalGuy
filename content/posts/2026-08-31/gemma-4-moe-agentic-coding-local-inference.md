@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Alex Ewerlof
     role: developer
+source:
+  name: "blog.alexewerlof.com"
+  url: "https://blog.alexewerlof.com/p/local-llms-for-agentic-coding"
 status: published
 origin: manual
 ---

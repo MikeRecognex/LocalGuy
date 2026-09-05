@@ -21,6 +21,9 @@ tags:
   - user-autonomy
   - user-control
   - user-control-vs-vendor-control
+source:
+  name: "Google News"
+  url: "https://news.google.com/"
 status: published
 ---
 

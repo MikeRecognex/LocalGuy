@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: BBN Times
     role: publisher
+source:
+  name: "BBN Times"
+  url: "https://www.bbntimes.com/technology/on-device-ai-in-mobile-apps-what-should-run-on-the-phone-vs-the-cloud-a-2026-decision-guide"
 status: published
 ---
 

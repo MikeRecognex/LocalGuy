@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: ApexCovantage
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.apexcovantage.com/resources/blog/ai-licensing-marketplaces-a-guide-for-publishers"
 status: published
 ---
 

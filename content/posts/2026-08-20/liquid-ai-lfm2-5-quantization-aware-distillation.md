@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Liquid AI
     role: developer
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/LiquidAI/qad"
 status: published
 ---
 

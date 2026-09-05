@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: GIGAZINE
     role: publisher
+source:
+  name: "GIGAZINE"
+  url: "https://gigazine.net"
 status: published
 ---
 

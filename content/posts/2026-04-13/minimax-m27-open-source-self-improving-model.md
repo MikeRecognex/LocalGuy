@@ -21,6 +21,9 @@ tags:
   - self-improvement
   - self-improving-llms
   - self-improving-models
+source:
+  name: "Google News"
+  url: "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1517059/latest-news/AAFN"
 status: published
 ---
 

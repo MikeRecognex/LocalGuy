@@ -32,6 +32,9 @@ mentions:
     role: source
   - name: The New York Times
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"
 status: published
 ---
 

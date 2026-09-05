@@ -24,6 +24,9 @@ mentions:
     role: product
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://tech.stonecharioteer.com/posts/2026/merrilin-code-blocks/"
 status: published
 ---
 

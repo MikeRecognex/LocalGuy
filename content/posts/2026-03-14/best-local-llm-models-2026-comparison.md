@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/best-local-llm-models-2026/"
 status: published
 ---
 

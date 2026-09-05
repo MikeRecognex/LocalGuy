@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Tech Insider
     role: publisher
+source:
+  name: "tech-insider.org"
+  url: "https://tech-insider.org/vllm-vs-ollama-2026/"
 status: published
 ---
 

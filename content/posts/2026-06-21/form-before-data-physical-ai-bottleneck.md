@@ -22,6 +22,9 @@ mentions:
     role: author
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://adlrocha.substack.com/p/adlrocha-form-before-data-the-real"
 status: published
 ---
 

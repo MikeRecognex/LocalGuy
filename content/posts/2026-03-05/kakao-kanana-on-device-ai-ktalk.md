@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.chosun.com/"
 status: published
 ---
 

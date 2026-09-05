@@ -15,6 +15,9 @@ tags:
   - quantisation
   - release
   - speculative-decoding
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.10"
 status: published
 ---
 

@@ -17,6 +17,9 @@ tags:
   - text-to-speech-integration
   - tts-integration
   - writing-workflow-enhancements
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1rafo5b"
 status: published
 ---
 

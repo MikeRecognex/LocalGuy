@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Artificial Analysis Intelligence Index
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/b5eytfmy33kg1.jpeg"
 status: published
 ---
 

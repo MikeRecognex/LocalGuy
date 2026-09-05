@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Marktechpost
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.marktechpost.com/kvcache-elastic-memory-llm"
 status: published
 ---
 

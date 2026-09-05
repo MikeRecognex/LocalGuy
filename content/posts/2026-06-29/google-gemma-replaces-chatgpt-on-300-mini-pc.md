@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.howtogeek.com/googles-gemma-ai-runs-locally-on-my-300-mini-pc-and-it-replaced-chatgpt-for-more-than-i-expected/"
 status: published
 ---
 

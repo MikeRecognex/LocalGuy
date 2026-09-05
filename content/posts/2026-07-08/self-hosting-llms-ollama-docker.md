@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Open Source For You
     role: publisher
+source:
+  name: "Open Source For You"
+  url: "https://opensource.com"
 status: published
 ---
 

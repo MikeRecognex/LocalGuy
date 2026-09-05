@@ -19,6 +19,9 @@ tags:
   - quantization
   - release
   - vivobook-s16
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMickFVX3lxTFBIMDJ6aUY5aTlpS3hfME1mNzN2UzhGM3NGVXBPenhQRDJEV25Od1J6NGppOGRWWWNFTkwtbjh2Yi10V2FWdkV3MEZ5QndZMXJnLTE1YkVueEh6NHZPam9xU0dLU2VjXzgwX0tmRjloN2wwUQ?oc=5"
 status: published
 ---
 

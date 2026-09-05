@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
 status: published
 ---
 

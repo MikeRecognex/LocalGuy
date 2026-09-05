@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/shadowlilac/gemma-4-e4b-mtp-extraction-effort"
 status: published
 ---
 

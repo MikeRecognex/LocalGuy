@@ -17,6 +17,9 @@ tags:
   - local-deployment
   - qwen
   - reasoning
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r2c34d/qwen_coder_next_is_an_odd_model/"
 status: published
 ---
 

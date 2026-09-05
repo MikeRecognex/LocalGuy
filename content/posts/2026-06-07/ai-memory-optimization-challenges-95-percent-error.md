@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0"
 status: published
 ---
 

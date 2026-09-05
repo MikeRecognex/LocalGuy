@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Patches"
 status: published
 ---
 

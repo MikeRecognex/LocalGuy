@@ -12,6 +12,9 @@ tags:
   - hardware
   - model-quantization
   - offline-inference
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41LTBWaGhMTWF5amdjNGtDSHhsdVN4NWpBNjNfYUg4bHpDYVFvTGo1NEJrME5LSlo4RDl5MF9BcHRaU3lDOS1LR1hFUEtqR2dQcEUw?oc=5"
 status: published
 ---
 

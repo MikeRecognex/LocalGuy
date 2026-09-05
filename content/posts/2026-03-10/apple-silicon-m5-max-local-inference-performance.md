@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hardware Canucks
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/hbofjnt4q1og1.png"
 status: published
 ---
 

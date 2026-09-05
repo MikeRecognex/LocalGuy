@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.howtogeek.com/what-local-llm-is-actually-good-at/"
 status: published
 ---
 

@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide"
 status: published
 ---
 

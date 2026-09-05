@@ -28,6 +28,9 @@ mentions:
     role: manufacturer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.espressif.com/en/news/ESP32_S31_Release"
 status: published
 ---
 

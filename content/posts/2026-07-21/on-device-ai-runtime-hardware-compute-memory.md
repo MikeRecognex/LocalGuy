@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: WAIC 2026
     role: event
+source:
+  name: "Google News"
+  url: "https://finance.biggo.com/news/1e2622dc-5708-427c-90fc-5b0e92aeb371"
 status: published
 ---
 

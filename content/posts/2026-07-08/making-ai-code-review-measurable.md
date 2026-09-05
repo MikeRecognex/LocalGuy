@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://azuanz.com/posts/making-ai-code-review-measurable/"
 status: published
 ---
 

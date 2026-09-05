@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: nocodefunctions.com
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://nocodefunctions.com/blog/three-flavors-agentic-coding/"
 status: published
 ---
 

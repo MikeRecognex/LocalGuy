@@ -32,6 +32,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://cozaiphoto.com/"
 status: published
 ---
 

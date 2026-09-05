@@ -36,6 +36,9 @@ mentions:
   - name: HP
   - name: Pocket-lint
     role: publisher
+source:
+  name: "Pocket-lint"
+  url: "https://www.pocket-lint.com/hp-iq-hands-on/"
 status: published
 ---
 

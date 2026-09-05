@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/Linux-7-Fix-Idle-RDNA4-Compute"
 status: published
 ---
 

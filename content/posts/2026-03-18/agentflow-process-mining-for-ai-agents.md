@@ -30,6 +30,9 @@ mentions:
     role: solution-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/ClemenceChee/AgentFlow"
 status: published
 ---
 

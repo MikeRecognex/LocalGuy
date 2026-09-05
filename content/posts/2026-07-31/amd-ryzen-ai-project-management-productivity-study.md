@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: EIN News
     role: publisher
+source:
+  name: "EIN News"
+  url: "https://www.einnews.com/pr_news/930560537/new-third-party-study-shows-how-amd-ryzen-ai-laptops-can-give-digital-nomads-their-workweek-back"
 status: published
 ---
 

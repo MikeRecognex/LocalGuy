@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://m4ttl4w.substack.com/p/energy-the-final-frontier"
 status: published
 ---
 

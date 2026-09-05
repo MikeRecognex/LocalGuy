@@ -21,6 +21,9 @@ tags:
   - kimi-k3
   - mi355x
   - nvidia
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGpQQnl3a2lPemY4anZYaV9uR3Fmb3VPX3ZJc0JhZHBYVzdHMTM0ZWx2ZE01VHBRWmpOTHI1R2hLNnJCdEx2QlJ3N0xWT2xfQUJLU2xNVFNjQzRIa0l2ZV94NEg1blZVaFNqZ0JxRDFRel9JSEFFTUNOc0xSUnQ4ZDFXTDJfajNfdl9JbDRhbnkyU0pmMXRn?oc=5"
 status: published
 ---
 

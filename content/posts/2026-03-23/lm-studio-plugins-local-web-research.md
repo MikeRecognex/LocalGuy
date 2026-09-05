@@ -27,6 +27,9 @@ mentions:
   - name: LM Studio
     role: developer
   - name: LM Studio
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1s19rd7"
 status: published
 ---
 

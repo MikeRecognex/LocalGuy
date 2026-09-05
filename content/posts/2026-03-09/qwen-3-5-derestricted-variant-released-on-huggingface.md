@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/ArliAI/Qwen-3.5-27B-Derestricted"
 status: published
 ---
 

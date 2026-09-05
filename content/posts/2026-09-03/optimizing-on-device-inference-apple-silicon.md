@@ -18,6 +18,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon"
 status: published
 ---
 

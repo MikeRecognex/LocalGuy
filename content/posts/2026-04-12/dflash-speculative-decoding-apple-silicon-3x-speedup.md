@@ -23,6 +23,9 @@ tags:
   - real-time-inference
   - showcase
   - speculative-decoding
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/qnwcms262lug1"
 status: published
 ---
 

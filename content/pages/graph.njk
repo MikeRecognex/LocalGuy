@@ -5,8 +5,6 @@ permalink: /graph/
 description: "How local AI topics relate to each other through shared articles â€” an interactive co-occurrence graph."
 ---
 
-{%- set data = collections.posts | graphData %}
-
 <div class="graph-page">
   <header class="graph-header">
     <h1>Local LLM Topic Graph</h1>
@@ -17,8 +15,14 @@ description: "How local AI topics relate to each other through shared articles â
     <div class="graph-legend" id="graph-legend"></div>
     <div class="graph-slider">
       <label for="weight-slider">Min. shared articles</label>
-      <input type="range" id="weight-slider" min="2" max="8" value="2" step="1">
-      <span id="weight-value">2</span>
+      <input type="range" id="weight-slider" min="2" max="8" value="4" step="1">
+      <span id="weight-value">4</span>
+    </div>
+
+    <div class="graph-search">
+      <label for="graph-search" class="sr-only">Find a topic</label>
+      <input type="search" id="graph-search" placeholder="Find a topicâ€¦" autocomplete="off" spellcheck="false">
+      <span id="graph-search-status" class="graph-search-status" role="status" aria-live="polite"></span>
     </div>
   </div>
 
@@ -57,5 +61,4 @@ description: "How local AI topics relate to each other through shared articles â
   </section>
 </div>
 
-<script id="graph-data" type="application/json">{{ data | dump | safe }}</script>
 <script id="trend-data" type="application/json">{{ tdata | dump | safe }}</script>

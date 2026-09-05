@@ -40,6 +40,9 @@ mentions:
     role: partner
   - name: SiMa
     role: partner
+source:
+  name: "Google News"
+  url: "https://www.taiwannews.com.tw/news/6328008"
 status: published
 ---
 

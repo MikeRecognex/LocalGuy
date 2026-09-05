@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/my-local-llm-doesnt-replace-claude-it-makes-claude-dramatically-better/"
 status: published
 ---
 

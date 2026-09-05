@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Technetbook
     role: publisher
+source:
+  name: "Technetbook"
+  url: "https://www.technetbook.com/news"
 status: published
 ---
 

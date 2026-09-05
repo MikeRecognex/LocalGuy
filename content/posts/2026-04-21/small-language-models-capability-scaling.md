@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Oracle
     role: publisher
+source:
+  name: "Oracle Blogs"
+  url: "https://blogs.oracle.com/developers/16-ways-to-make-a-small-language-model-think-bigger"
 status: published
 ---
 

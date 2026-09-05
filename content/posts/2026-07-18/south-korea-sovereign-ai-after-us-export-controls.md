@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://en.yna.co.kr/view/AEN20260716005600320"
 status: published
 ---
 

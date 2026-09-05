@@ -20,6 +20,9 @@ tags:
   - operating-system-integration
   - os-integration
   - windows
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

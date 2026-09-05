@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Birgitta Boeckeler
     role: speaker
+source:
+  name: "Hacker News"
+  url: "https://www.youtube.com/watch?v=qB7rsbDfmQg"
 status: published
 ---
 

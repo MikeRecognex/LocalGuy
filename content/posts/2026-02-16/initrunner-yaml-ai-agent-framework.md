@@ -25,6 +25,9 @@ mentions:
     handle: "@vladkesler"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/vladkesler/initrunner"
 status: published
 ---
 

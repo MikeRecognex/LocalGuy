@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://derogab.com/2026/08/01/AI-Notes/"
 status: published
 ---
 

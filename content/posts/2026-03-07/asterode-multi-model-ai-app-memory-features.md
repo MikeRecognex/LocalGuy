@@ -23,6 +23,9 @@ mentions:
     role: project-owner
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://asterode.ai"
 status: published
 ---
 

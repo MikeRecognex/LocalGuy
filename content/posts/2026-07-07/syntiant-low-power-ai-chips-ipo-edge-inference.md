@@ -23,6 +23,9 @@ mentions:
     role: hardware-manufacturer
   - name: SiliconANGLE
     role: publisher
+source:
+  name: "SiliconANGLE"
+  url: "https://www.siliconangle.com/syntiant-ipo"
 status: published
 ---
 

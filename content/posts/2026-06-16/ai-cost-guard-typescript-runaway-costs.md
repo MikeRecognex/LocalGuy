@@ -21,6 +21,9 @@ mentions:
     role: host
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/salimassili62-afk/ai-costguard"
 status: published
 ---
 

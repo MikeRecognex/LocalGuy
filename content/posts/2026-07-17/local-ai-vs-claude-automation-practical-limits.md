@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "XDA Developers"
+  url: "https://www.xda-developers.com/local-ai-replace-claude"
 status: published
 ---
 

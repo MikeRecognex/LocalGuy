@@ -24,6 +24,9 @@ mentions:
     role: author
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "http://medium.com/@joe.dumont1/why-responsible-ai-is-the-bedrock-of-ai-powered-applications-400b8e8e0f3e"
 status: published
 ---
 

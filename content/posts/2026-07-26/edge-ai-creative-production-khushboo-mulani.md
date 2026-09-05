@@ -26,6 +26,9 @@ mentions:
     role: analyst
   - name: Ascendants
     role: publisher
+source:
+  name: "Ascendants"
+  url: "https://ascendants.in/founders-corner/edge-ai-creative-production-campaign-workflows/"
 status: published
 ---
 

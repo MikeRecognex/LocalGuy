@@ -14,6 +14,9 @@ tags:
   - ml-pipeline-automation
   - open-source
   - training
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rbwbgl/nanollama_train_llama_3_from_scratch_and_export/"
 status: published
 ---
 

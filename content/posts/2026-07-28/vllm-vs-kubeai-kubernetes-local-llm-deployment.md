@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/open-weight-ai-kubernetes/"
 status: published
 ---
 

@@ -15,6 +15,9 @@ tags:
   - phi-4-mini
   - quantisation
   - qwen-3-5
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSVJBakVFTEd5dHJPWjdobWFRT0NpN0w0MHNuTG91VFlpZE5MTU9yeUItYnBUN1B6Wjk3MW1LQk9vc1NSemJ6ZWgzRFV0cUR5VHAzSVI5UUdWcG1xTUp0bVJIZFA2YmhoZXVhOGlBN0c?oc=5"
 status: published
 ---
 

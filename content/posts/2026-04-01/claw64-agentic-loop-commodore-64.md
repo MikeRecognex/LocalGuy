@@ -22,6 +22,9 @@ tags:
   - retro-computing
   - retro-computing-ai
   - showcase
+source:
+  name: "Hacker News"
+  url: "https://github.com/sttts/claw64"
 status: published
 ---
 

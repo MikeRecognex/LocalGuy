@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Slax
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://slax.com/blog/local-first-slax-reader/"
 status: published
 ---
 

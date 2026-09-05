@@ -26,6 +26,9 @@ tags:
   - on-device-ai
   - on-device-ai-optimization
   - release
+source:
+  name: "Google News"
+  url: "https://www.arm.com/blogs/blueprint/gemma-4-mobile-ai"
 status: published
 ---
 

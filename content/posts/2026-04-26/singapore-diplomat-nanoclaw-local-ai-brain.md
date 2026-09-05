@@ -29,6 +29,9 @@ mentions:
     role: user
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://officechai.com/ai/singapores-foreign-minister-builds-an-ai-second-brain-using-nanoclaw-says-it-can-answer-every-question-for-a-diplomat/"
 status: published
 ---
 

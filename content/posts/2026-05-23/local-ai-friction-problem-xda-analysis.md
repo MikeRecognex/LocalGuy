@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/the-biggest-thing-holding-local-ai-back-isnt-model-quality-its-friction/"
 status: published
 ---
 

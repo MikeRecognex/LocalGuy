@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source-community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rzkw4x/m5_max_128g_performance_tests_i_just_got_my_new/"
 status: published
 ---
 

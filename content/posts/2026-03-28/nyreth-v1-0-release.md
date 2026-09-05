@@ -25,6 +25,9 @@ mentions:
     role: platform
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.youtube.com/watch?v=cQvCFmfjJLA"
 status: published
 ---
 

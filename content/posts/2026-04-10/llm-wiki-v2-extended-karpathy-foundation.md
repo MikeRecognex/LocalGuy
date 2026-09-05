@@ -30,6 +30,9 @@ mentions:
     role: foundational researcher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://gist.github.com/rohitg00/2067ab416f7bbe447c1977edaaa681e2"
 status: published
 ---
 

@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/switched-local-llm-cloud-version-hasnt-been-worth/"
 status: published
 ---
 

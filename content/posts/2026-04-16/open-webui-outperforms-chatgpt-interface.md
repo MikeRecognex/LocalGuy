@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/after-two-months-open-webui-updates-pick-chatgpt-interface-local-llms/"
 status: published
 ---
 

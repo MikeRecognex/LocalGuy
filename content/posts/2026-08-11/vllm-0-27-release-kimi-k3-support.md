@@ -13,6 +13,9 @@ tags:
   - release
   - speculative-decoding
   - vllm
+source:
+  name: "vLLM"
+  url: "https://github.com/vllm-project/vllm/releases/tag/v0.27.0"
 status: published
 ---
 

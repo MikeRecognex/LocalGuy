@@ -34,6 +34,9 @@ mentions:
     role: publisher
   - name: The Investor
     role: publisher
+source:
+  name: "The Investor"
+  url: "https://www.theinvestor.co.kr/article/10704972"
 status: published
 ---
 

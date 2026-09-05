@@ -21,6 +21,9 @@ mentions:
     handle: "@carloslfu"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/carloslfu/slotstream"
 status: published
 ---
 

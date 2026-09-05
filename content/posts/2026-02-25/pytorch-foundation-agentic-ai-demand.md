@@ -26,6 +26,9 @@ mentions:
     role: project
   - name: Morningstar
     role: publisher
+source:
+  name: "Morningstar"
+  url: "https://www.morningstar.com"
 status: published
 ---
 

@@ -15,6 +15,9 @@ tags:
   - open-source
   - release
   - voice-synthesis
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
 status: published
 ---
 

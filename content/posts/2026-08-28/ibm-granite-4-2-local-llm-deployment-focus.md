@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Ars Technica
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/"
 status: published
 ---
 

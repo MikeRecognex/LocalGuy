@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Reddit
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r1oan9/epsteinfilesrag_building_a_rag_pipeline_on_2m/"
 status: published
 ---
 

@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers"
 status: published
 ---
 

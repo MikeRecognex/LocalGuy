@@ -22,6 +22,9 @@ mentions:
     role: auditor
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/grithai/status/2027410244352028683"
 status: published
 ---
 

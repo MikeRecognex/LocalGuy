@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/"
 status: published
 ---
 

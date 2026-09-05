@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: oMLX
     role: framework-developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sl032h/omlx_just_implemented_dflash/"
 status: published
 ---
 

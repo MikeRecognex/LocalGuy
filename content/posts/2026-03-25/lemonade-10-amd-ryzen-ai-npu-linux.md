@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/Lemonade-10.0.1"
 status: published
 ---
 

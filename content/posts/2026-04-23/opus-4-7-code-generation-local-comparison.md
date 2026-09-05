@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://thoughts.jock.pl/p/opus-4-7-codex-comeback-2026"
 status: published
 ---
 

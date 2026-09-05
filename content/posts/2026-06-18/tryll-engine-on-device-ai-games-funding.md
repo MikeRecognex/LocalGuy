@@ -23,6 +23,9 @@ mentions:
     role: developer
   - name: Tech.eu
     role: publisher
+source:
+  name: "Tech.eu"
+  url: "https://tech.eu/2026/06/17/tryll-launches-ai-gaming-engine-alpha-and-secures-600k-pre-seed-funding/"
 status: published
 ---
 

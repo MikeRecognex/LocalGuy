@@ -26,6 +26,9 @@ mentions:
     role: developer
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/shanghai-droi-technology-launches-droiclaw-ai-operating-system-with-hybrid-edge-cloud-architecture/2390021/amp"
 status: published
 ---
 

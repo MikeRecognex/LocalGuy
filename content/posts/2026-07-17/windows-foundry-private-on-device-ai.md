@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: TheWinCentral
     role: publisher
+source:
+  name: "thewincentral.com"
+  url: "https://www.thewincentral.com/microsoft-foundry-private-ai"
 status: published
 ---
 

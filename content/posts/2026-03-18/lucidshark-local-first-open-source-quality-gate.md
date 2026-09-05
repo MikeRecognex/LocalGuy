@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: lucidshark.com
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://lucidshark.com"
 status: published
 ---
 

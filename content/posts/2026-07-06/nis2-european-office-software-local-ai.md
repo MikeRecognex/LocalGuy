@@ -17,6 +17,9 @@ tags:
   - regulation
   - regulatory-compliance
   - use-cases
+source:
+  name: "Google News"
+  url: "https://adhocnews.com"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: amabito
     role: project-owner
+source:
+  name: "Hacker News"
+  url: "https://github.com/amabito/tri-memory"
 status: published
 ---
 

@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: poyo.co
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://poyo.co/note/20260525T094605/"
 status: published
 ---
 

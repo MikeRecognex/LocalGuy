@@ -24,6 +24,9 @@ mentions:
     role: platform
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/ronfriedhaber/autark/blob/main/extra/notebooks/data_gov_ev_analysis_1.ipynb"
 status: published
 ---
 

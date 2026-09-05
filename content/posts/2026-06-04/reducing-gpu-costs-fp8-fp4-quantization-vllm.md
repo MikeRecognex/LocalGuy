@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Cloud Magazine
     role: publisher
+source:
+  name: "Google News"
+  url: "https://cloudmagazine.com"
 status: published
 ---
 

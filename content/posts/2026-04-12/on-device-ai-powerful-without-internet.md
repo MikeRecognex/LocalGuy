@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Analytics Insight
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.analyticsinsight.net/ampstories/artificial-intelligence/on-device-ai-powerful-ai-without-internet"
 status: published
 ---
 

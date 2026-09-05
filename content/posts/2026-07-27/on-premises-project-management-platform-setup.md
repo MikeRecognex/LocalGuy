@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://ones.com/blog/how-to-set-up-an-on-premises-project-management-platform-without-real-time-cloud-sync/"
 status: published
 ---
 

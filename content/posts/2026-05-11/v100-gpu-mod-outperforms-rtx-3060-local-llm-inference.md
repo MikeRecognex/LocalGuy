@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: VideoCardz.com
     role: publisher
+source:
+  name: "VideoCardz.com"
+  url: "https://www.videocardz.com/v100-mod-benchmark"
 status: published
 ---
 

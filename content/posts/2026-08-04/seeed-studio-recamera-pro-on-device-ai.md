@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Seeed Studio
     role: manufacturer
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWEtfaHRVZXhtZm1Fa0NFYVZ6cHNsLXYyMklhZnBUbDA4S2NuWHR5cF9BbHl4WGVaWnlRMVJXYjZfV2U5S1Z6UHh4ellJSkQyMzRBUUVsTnlxaEtiSjV5WEdGQWYtc012VFlGdV9hXzdfcUtoUUZNWmd1VGlFRGk5WlZVTjR1dVpfTkxFeGJyLVFUUlVlc3VmeUM5MF9ucWYzTXdxNTlhOFJUdw?oc=5"
 status: published
 ---
 

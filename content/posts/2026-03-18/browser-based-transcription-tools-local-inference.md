@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Trend Hunter
     role: publisher
+source:
+  name: "Trend Hunter"
+  url: "https://www.trendhunter.com"
 status: published
 ---
 

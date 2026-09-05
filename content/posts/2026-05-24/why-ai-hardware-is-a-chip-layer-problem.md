@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Easelinktech
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/"
 status: published
 ---
 

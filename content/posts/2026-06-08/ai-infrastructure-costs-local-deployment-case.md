@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://www.nature.com/articles/d41586-026-01369-z"
 status: published
 ---
 

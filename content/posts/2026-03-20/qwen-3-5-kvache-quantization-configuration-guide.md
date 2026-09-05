@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Reddit
     role: community-platform
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ryoab7/qwen_35_27b_quantize_kv_cache_or_not/"
 status: published
 ---
 

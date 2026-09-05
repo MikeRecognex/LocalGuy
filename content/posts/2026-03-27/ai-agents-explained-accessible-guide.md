@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.investigatingsoftware.co.uk/2026/03/the-best-book-on-ai-agents-for-layman.html"
 status: published
 ---
 
