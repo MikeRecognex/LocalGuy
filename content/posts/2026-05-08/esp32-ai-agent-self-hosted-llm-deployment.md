@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: xda-developers
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/ran-espressif-official-ai-agent-esp32-self-hosted-llm/"
 status: published
 ---
 

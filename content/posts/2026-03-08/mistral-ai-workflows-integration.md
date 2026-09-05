@@ -19,6 +19,9 @@ tags:
   - reasoning
   - tool-use
   - workflow-automation
+source:
+  name: "Google News"
+  url: "https://www.testingcatalog.com/mistral-ai-prepares-workflows-integration-for-le-chat/"
 status: published
 ---
 

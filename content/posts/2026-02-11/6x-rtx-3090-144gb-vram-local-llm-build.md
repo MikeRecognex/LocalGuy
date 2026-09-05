@@ -38,6 +38,9 @@ mentions:
     role: manufacturer
   - name: Gigabyte
     role: manufacturer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/ju0ed5uceuig1.jpeg"
 status: published
 ---
 

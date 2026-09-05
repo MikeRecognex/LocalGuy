@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://gopeekapp.blogspot.com/2026/06/glm-52-vs-claude-opus-45.html"
 status: published
 ---
 

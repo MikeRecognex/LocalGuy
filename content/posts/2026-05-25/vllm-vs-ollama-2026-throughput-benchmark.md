@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: tech-insider.org
     role: publisher
+source:
+  name: "tech-insider.org"
+  url: "https://tech-insider.org/vllm-vs-ollama-2026-throughput"
 status: published
 ---
 

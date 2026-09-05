@@ -18,6 +18,9 @@ tags:
   - release
   - vulkan
   - vulkan-backend
+source:
+  name: "llama.cpp"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10257"
 status: published
 ---
 

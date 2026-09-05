@@ -15,6 +15,9 @@ tags:
   - news
   - open-source
   - reasoning
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1rcnv9h"
 status: published
 ---
 

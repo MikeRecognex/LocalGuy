@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://fortune.com"
 status: published
 ---
 

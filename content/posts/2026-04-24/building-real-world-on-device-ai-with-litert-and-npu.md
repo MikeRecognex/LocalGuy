@@ -25,6 +25,9 @@ tags:
   - open-source
   - optimization
   - showcase
+source:
+  name: "Google News"
+  url: "https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/"
 status: published
 ---
 

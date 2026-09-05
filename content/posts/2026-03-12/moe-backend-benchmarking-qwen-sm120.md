@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rrfqlu/i_spent_8_hours_benchmarking_every_moe_backend/"
 status: published
 ---
 

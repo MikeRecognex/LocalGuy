@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available"
 status: published
 ---
 

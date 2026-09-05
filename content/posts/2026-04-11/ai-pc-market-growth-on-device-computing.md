@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: openPR
     role: publisher
+source:
+  name: "openPR"
+  url: "https://www.openpr.com/news/4464534/ai-pc-market-to-reach-usd-235-28-billion-by-2032-driven-by-rapid"
 status: published
 ---
 

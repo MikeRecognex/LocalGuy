@@ -30,6 +30,9 @@ mentions:
     role: project-creator
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://openhome.com"
 status: published
 ---
 

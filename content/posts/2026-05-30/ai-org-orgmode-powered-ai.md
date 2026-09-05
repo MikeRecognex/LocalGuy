@@ -20,6 +20,9 @@ tags:
   - task-management-ai
   - tool-integration
   - tools
+source:
+  name: "Hacker News"
+  url: "https://ai-org.net/"
 status: published
 ---
 

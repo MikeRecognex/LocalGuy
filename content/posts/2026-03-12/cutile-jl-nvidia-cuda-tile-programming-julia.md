@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/"
 status: published
 ---
 

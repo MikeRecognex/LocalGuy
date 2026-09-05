@@ -26,6 +26,9 @@ mentions:
     role: researcher
   - name: StartupHub.ai
     role: publisher
+source:
+  name: "StartupHub.ai"
+  url: "https://www.startuphub.ai/ai-news/ai-research/2026/google-s-cormac-brick-on-tiny-llms-for-on-device-agents"
 status: published
 ---
 

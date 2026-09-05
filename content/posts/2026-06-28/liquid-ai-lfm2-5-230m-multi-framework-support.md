@@ -26,6 +26,9 @@ mentions:
     role: developer
   - name: MarkTechPost
     role: publisher
+source:
+  name: "MarkTechPost"
+  url: "https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Signalbloom.ai
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.signalbloom.ai/posts/nvidia-nemotron-3-super-is-a-bigger-deal-than-you-think/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Exasol
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.exasol.com/blog/train-your-own-llm/"
 status: published
 ---
 

@@ -25,6 +25,9 @@ tags:
   - moe-models
   - news
   - selective-expert-loading
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1slue0z/hot_experts_in_your_vram_dynamic_expert_cache_in/"
 status: published
 ---
 

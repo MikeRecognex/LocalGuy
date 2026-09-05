@@ -36,6 +36,9 @@ mentions:
     role: library
   - name: r/LocalLLaMA
     role: community-forum
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/4hrn5eh985rg1.jpeg"
 status: published
 ---
 

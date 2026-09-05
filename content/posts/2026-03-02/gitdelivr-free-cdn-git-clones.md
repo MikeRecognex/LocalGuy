@@ -25,6 +25,9 @@ mentions:
     role: service provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://gitdelivr.net/"
 status: published
 ---
 

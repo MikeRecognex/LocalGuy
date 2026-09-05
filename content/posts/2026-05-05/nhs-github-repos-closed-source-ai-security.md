@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/"
 status: published
 ---
 

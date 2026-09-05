@@ -36,6 +36,9 @@ mentions:
     role: source
   - name: Fathom Journal
     role: publisher
+source:
+  name: "Google News"
+  url: "https://fathomjournal.com/"
 status: published
 ---
 

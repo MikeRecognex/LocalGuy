@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.msn.com/two-tier-local-llm"
 status: published
 ---
 

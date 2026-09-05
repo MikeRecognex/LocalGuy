@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Avocado Studio
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://docs.avocadostudio.dev"
 status: published
 ---
 

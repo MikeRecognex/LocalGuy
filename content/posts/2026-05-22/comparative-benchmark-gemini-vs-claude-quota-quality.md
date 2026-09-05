@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.reddit.com/r/Bard/s/4SvwzqPdKm"
 status: published
 ---
 

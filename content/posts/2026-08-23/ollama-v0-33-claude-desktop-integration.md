@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: GitHub
     role: publisher
+source:
+  name: "Ollama / GitHub"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2"
 status: published
 ---
 

@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/ollama-llama-cpp-webui"
 status: published
 ---
 

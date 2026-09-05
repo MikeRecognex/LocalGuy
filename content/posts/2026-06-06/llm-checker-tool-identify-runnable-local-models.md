@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Gigazine
     role: publisher
+source:
+  name: "Google News"
+  url: "https://gigazine.net/gsc_news/en/20260606-llm-checker/"
 status: published
 ---
 

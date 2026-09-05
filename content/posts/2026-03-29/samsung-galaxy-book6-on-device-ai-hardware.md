@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/samsung-launches-galaxy-book6-series-in-india-with-nvidia-rtx-5070-graphics-and-on-device-ai-price-specs-and-more"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: standard-project
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
 status: published
 ---
 

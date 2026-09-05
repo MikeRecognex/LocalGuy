@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: YourStory
     role: publisher
+source:
+  name: "YourStory"
+  url: "https://yourstory.com/ai-story/amd-brings-data-center-level-ai-to-personal-computers"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Bloomberg
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd"
 status: published
 ---
 

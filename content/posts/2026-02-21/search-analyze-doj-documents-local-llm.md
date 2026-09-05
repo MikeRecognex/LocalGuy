@@ -24,6 +24,9 @@ mentions:
     handle: artmedlar
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/artmedlar/epstein-files-analyzer"
 status: published
 ---
 

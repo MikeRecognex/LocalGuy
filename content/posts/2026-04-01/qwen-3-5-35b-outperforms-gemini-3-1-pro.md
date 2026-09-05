@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s93n1j/for_me_qwen3527b_is_better_than_gemini_31_pro_and/"
 status: published
 ---
 

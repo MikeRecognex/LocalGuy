@@ -596,9 +596,24 @@ module.exports = function (eleventyConfig) {
     };
   });
 
+  // Normalise a post's raw tags to the ids used as graph nodes.
+  // Shared by graphData and graphPostIndex so the two always agree.
+  const graphTagAliases = { benchmark: "benchmarks", inference: null };
+  const graphTagExclude = new Set(["posts", "all", "notes", "allPosts", "_validatePosts", "guides"]);
+
+  const normaliseGraphTags = (rawTags) => {
+    const out = [];
+    for (let tag of rawTags || []) {
+      if (tag in graphTagAliases) tag = graphTagAliases[tag];
+      if (tag === null || graphTagExclude.has(tag) || classifierTags.has(tag)) continue;
+      out.push(tag);
+    }
+    return out;
+  };
+
   // Co-occurrence graph data: nodes = tags, edges = shared articles
   // Used by the /graph/ page for force-directed visualization
-  eleventyConfig.addFilter("graphData", (posts) => {
+  const buildGraphData = (posts) => {
     const taxonomy = require("./_data/tag-taxonomy.js");
 
     const aliases = {
@@ -702,6 +717,47 @@ module.exports = function (eleventyConfig) {
         edgeCount: edges.length,
       },
     };
+  };
+
+  // Recomputing the graph is expensive; graphPostIndex needs the same node set.
+  let graphCacheKey = null;
+  let graphCacheValue = null;
+  const graphDataCached = (posts) => {
+    if (graphCacheKey !== posts) {
+      graphCacheKey = posts;
+      graphCacheValue = buildGraphData(posts);
+    }
+    return graphCacheValue;
+  };
+
+  eleventyConfig.addFilter("graphData", graphDataCached);
+
+  // Lazy-loaded search index: maps post text to graph node ids, so the graph
+  // can be searched by what posts actually say, not just by tag name.
+  eleventyConfig.addFilter("graphPostIndex", (posts) => {
+    const nodeIds = new Set(graphDataCached(posts).nodes.map((n) => n.id));
+
+    // Tag strings repeat across thousands of posts; index into a dictionary instead
+    const tagList = [...nodeIds];
+    const tagIndex = new Map(tagList.map((t, i) => [t, i]));
+
+    const entries = [];
+    for (const post of posts) {
+      const tags = normaliseGraphTags(post.data.tags)
+        .filter((t) => nodeIds.has(t))
+        .map((t) => tagIndex.get(t));
+      if (!tags.length) continue;
+
+      const text = `${post.data.title || ""} ${post.data.description || ""}`
+        .toLowerCase()
+        .replace(/\s+/g, " ")
+        .trim();
+      if (!text) continue;
+
+      entries.push([text, [...new Set(tags)]]);
+    }
+
+    return { tags: tagList, posts: entries };
   });
 
   eleventyConfig.addFilter("byCategory", (items, category) => {

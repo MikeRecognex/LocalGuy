@@ -33,6 +33,9 @@ tags:
 mentions:
   - name: Ollama
     role: framework-provider
+source:
+  name: "Google News"
+  url: "https://www.el-balad.com"
 status: published
 ---
 

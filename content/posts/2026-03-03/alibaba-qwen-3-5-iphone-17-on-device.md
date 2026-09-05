@@ -19,6 +19,9 @@ tags:
   - release
   - resource-efficiency
   - small-language-models
+source:
+  name: "Google News"
+  url: "https://www.techeblog.com/alibabas-new-qwen-3-5-small-ai-model-can-run-directly-on-an-iphone-17/"
 status: published
 ---
 

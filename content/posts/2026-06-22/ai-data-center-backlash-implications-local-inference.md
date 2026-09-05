@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Axios
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.axios.com/2026/06/22/ai-data-center-backlash-poll"
 status: published
 ---
 

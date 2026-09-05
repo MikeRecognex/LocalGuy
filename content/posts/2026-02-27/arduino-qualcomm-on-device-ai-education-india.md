@@ -23,6 +23,9 @@ mentions:
     role: partner
   - name: Arduino
     role: partner
+source:
+  name: "Google News"
+  url: "https://indianexpress.com"
 status: published
 ---
 

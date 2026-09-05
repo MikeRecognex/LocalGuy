@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/review/intel-core-ultra-x7-358h-linux"
 status: published
 ---
 

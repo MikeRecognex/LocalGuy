@@ -22,6 +22,9 @@ tags:
   - release
   - tiny-aya
   - training
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r70ohs/tiny_aya/"
 status: published
 ---
 

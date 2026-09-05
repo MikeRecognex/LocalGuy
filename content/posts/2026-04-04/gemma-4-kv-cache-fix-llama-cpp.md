@@ -24,6 +24,9 @@ tags:
   - open-source-tooling
   - release
   - vram-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sbwkou/finally_gemma_4_kv_cache_is_fixed/"
 status: published
 ---
 

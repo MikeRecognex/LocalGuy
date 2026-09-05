@@ -21,6 +21,9 @@ tags:
   - performance-benchmarking
   - qwen
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/2oygqov5ipsg1.jpeg"
 status: published
 ---
 

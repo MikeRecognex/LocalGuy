@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/switched-to-linux-for-local-llms-setup-took-minutes/"
 status: published
 ---
 

@@ -14,6 +14,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
 status: published
 ---
 

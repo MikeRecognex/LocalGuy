@@ -16,6 +16,9 @@ tags:
   - release
   - webgpu
   - webgpu-kernels
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/webgpu-kernels"
 status: published
 ---
 

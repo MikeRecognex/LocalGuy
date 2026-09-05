@@ -26,6 +26,9 @@ mentions:
     role: CEO
   - name: Quartz
     role: publisher
+source:
+  name: "Google News"
+  url: "https://qz.com/tim-cook-apple-on-device-ai-competitive-weapon-final-earnings-call-073126"
 status: published
 ---
 

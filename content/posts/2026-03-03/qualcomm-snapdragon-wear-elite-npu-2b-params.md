@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Gizmochina
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.gizmochina.com/snapdragon-wear-elite-brings-3nm-power-and-on-device-ai-to-wear-os/"
 status: published
 ---
 

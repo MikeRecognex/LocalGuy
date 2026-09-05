@@ -18,6 +18,9 @@ tags:
   - task-automation
   - tool-calling
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0V1RhU0dnUGhlUllrdEV0YUVCak5XaFg4dmlCekVNdW40TDdjNXRRN3hQSlNVcjRjRlNvQ3RCdWg4RW1zaTlhdVFWVTFOTWRPUXYzUmhNQ0NMNzRMQThKcFJ6VlZmNUVGV0I1QlJR?oc=5"
 status: published
 ---
 

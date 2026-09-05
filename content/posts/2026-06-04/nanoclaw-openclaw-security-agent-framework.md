@@ -22,6 +22,9 @@ mentions:
     role: critic
   - name: The New Stack
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://thenewstack.io/nanoclaw-openclaw-agent-security/"
 status: published
 ---
 

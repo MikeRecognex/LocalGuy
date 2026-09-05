@@ -20,6 +20,9 @@ mentions:
     role: tool-provider
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/ollama-0.17"
 status: published
 ---
 

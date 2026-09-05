@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://seed.bytedance.com/en/seedance2_0"
 status: published
 ---
 

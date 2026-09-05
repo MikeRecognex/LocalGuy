@@ -27,6 +27,9 @@ mentions:
     role: data provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Jossifresben/BibCrit"
 status: published
 ---
 

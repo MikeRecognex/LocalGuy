@@ -27,6 +27,9 @@ mentions:
   - name: Andrej Karpathy
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/nex-crm/wuphf"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: The Manila Times
     role: publisher
+source:
+  name: "The Manila Times"
+  url: "https://www.manilatimes.net/2026/08/01/tmt-newswire/globenewswire/ai-efficiency-layer-cuts-energy-use-and-expands-server-capacity-on-existing-hardware/2396395"
 status: published
 ---
 

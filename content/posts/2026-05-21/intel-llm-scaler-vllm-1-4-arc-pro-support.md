@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.4"
 status: published
 ---
 

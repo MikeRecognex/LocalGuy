@@ -26,6 +26,9 @@ mentions:
     role: regulator
   - name: ABC Money
     role: publisher
+source:
+  name: "ABC Money"
+  url: "https://www.abcmoney.com"
 status: published
 ---
 

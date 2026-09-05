@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: TipRanks
     role: publisher
+source:
+  name: "TipRanks"
+  url: "https://tipranks.com"
 status: published
 ---
 

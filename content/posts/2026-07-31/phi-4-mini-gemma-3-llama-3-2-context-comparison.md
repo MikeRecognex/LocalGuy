@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Tech Insider
     role: publisher
+source:
+  name: "Tech Insider"
+  url: "https://tech-insider.org"
 status: published
 ---
 

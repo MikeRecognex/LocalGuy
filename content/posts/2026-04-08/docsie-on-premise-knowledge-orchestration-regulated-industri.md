@@ -29,6 +29,9 @@ mentions:
     role: solution provider
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.usatoday.com/"
 status: published
 ---
 

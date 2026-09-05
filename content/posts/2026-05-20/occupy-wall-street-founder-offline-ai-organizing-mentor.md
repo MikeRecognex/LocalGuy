@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://boingboing.net/2026/05/19/occupy-wall-street-co-founder-built-an-ai-organizing-mentor-that-runs-offline.html"
 status: published
 ---
 

@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: KazKozDev
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/KazKozDev/book-translator"
 status: published
 ---
 

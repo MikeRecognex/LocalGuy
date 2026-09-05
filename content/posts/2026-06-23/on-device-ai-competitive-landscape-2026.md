@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: 36Kr
     role: publisher
+source:
+  name: "Google News"
+  url: "https://36kr.com"
 status: published
 ---
 

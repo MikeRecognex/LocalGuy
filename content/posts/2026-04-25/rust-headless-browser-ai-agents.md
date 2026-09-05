@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/h4ckf0r0day/obscura"
 status: published
 ---
 

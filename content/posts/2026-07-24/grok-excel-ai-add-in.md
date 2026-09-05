@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: The Register
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138"
 status: published
 ---
 

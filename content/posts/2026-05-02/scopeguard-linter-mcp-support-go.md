@@ -28,6 +28,9 @@ mentions:
     role: tool-developer
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://old.reddit.com/r/golang/comments/1t0nw27/scopeguard_007_your_goto_linter_for_scope_and/"
 status: published
 ---
 

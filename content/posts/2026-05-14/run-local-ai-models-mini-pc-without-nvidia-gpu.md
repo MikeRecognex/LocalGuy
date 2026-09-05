@@ -28,6 +28,9 @@ mentions:
   - name: Kingston
   - name: Digital Reviews Network
     role: publisher
+source:
+  name: "Digital Reviews Network"
+  url: "https://www.digitalreviews.net/reviews/pc/local-ai-mini-pc-kingston-kc3000-fury-ddr5/"
 status: published
 ---
 

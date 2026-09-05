@@ -22,6 +22,9 @@ mentions:
     role: hardware-developer
   - name: Sixfab
     role: hardware-developer
+source:
+  name: "Google News"
+  url: "https://acrofan.com"
 status: published
 ---
 

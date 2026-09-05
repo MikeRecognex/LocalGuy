@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: GitHub
     role: hosting-platform
+source:
+  name: "Hacker News"
+  url: "https://github.com/pssah4/stigmergy"
 status: published
 ---
 

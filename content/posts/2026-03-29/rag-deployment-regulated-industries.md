@@ -23,6 +23,9 @@ tags:
   - rag-strategy
   - regulated-industries
   - regulated-industry-deployment
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s6oiuq/lessons_from_deploying_rag_bots_for_regulated/"
 status: published
 ---
 

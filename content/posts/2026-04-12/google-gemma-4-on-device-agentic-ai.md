@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: The Decoder
     role: publisher
+source:
+  name: "Google News"
+  url: "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/"
 status: published
 ---
 

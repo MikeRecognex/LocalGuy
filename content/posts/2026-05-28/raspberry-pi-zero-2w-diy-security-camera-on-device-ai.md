@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: cnxsoftware.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.cnx-software.com/2026/05/28/privacy-focused-open-source-raspberry-pi-zero-2w-diy-security-camera-offers-end-to-end-encryption-on-device-ai/"
 status: published
 ---
 

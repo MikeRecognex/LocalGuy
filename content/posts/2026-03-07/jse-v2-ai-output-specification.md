@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://marchliu.github.io/2026/03/07/jse-v20-ai-output-specification"
 status: published
 ---
 

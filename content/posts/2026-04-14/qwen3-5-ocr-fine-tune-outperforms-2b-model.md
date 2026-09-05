@@ -21,6 +21,9 @@ tags:
   - qwen
   - release
   - small-model-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1skyq19/update_i_finetuned_qwen3508b_for_ocr_and_it/"
 status: published
 ---
 

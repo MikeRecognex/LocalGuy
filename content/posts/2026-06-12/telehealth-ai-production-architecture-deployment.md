@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Geekyants
     role: author
+source:
+  name: "Hacker News"
+  url: "https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
   - small-models
   - vision-language-models
   - vlm
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/a8w5tut036og1"
 status: published
 ---
 

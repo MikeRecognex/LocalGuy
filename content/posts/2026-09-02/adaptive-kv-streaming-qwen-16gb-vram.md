@@ -8,6 +8,9 @@ tags:
   - context-window
   - memory-optimization
   - quantisation
+source:
+  name: "Hacker News"
+  url: "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming"
 status: published
 ---
 

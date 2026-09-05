@@ -32,6 +32,9 @@ mentions:
     role: developer
   - name: AnythingLLM
     role: reviewer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/1o2k0u2innsg1"
 status: published
 ---
 

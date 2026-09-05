@@ -39,6 +39,9 @@ mentions:
     role: platform
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r9ours/qwen35_plus_glm_5_gemini_31_pro_sonnet_46_three/"
 status: published
 ---
 

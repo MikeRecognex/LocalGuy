@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: 9to5Mac
     role: publisher
+source:
+  name: "Google News"
+  url: "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/"
 status: published
 ---
 

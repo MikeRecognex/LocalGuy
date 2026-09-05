@@ -33,6 +33,9 @@ mentions:
     role: manufacturer
   - name: MSN
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.msn.com/en-us/tech/pluggable-tbt5-ai"
 status: published
 ---
 

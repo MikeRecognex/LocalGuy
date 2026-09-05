@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@alizahidraja/can-a-1-200-year-old-trust-system-help-build-more-reliable-ai-882e6cc4485b"
 status: published
 ---
 

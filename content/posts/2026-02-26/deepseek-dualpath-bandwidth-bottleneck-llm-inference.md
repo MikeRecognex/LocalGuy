@@ -42,6 +42,9 @@ mentions:
     role: repository
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://arxiv.org/abs/2602.21548"
 status: published
 ---
 

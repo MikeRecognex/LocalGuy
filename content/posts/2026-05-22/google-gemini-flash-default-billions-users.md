@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://techthreedots.com/google-makes-gemini-3-5-flash-the-default-ai-model-for-billions-of-users"
 status: published
 ---
 

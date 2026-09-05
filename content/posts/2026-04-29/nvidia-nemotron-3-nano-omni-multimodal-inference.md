@@ -8,6 +8,9 @@ tags:
   - multimodal
   - edge-inference
   - nvidia
+source:
+  name: "NVIDIA Developer"
+  url: "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/"
 status: published
 ---
 

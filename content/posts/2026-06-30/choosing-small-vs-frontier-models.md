@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Towards Data Science"
+  url: "https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/"
 status: published
 ---
 

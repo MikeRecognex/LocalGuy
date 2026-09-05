@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://reddit.com/r/LocalLLaMA/comments/1rll349/ran_qwen_35_9b_on_m1_pro_16gb_as_an_actual_agent/"
 status: published
 ---
 

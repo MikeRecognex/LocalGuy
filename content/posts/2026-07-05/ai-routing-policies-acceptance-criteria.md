@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: Age of Product
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://age-of-product.com/ai-routing-policy/"
 status: published
 ---
 

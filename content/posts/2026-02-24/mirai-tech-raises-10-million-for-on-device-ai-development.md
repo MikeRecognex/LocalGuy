@@ -22,6 +22,9 @@ mentions:
     role: startup
   - name: Inventure
     role: publisher
+source:
+  name: "Inventure"
+  url: "https://inventure.com.ua"
 status: published
 ---
 

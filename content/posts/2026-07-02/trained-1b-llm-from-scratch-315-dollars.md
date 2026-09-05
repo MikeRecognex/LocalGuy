@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://huggingface.co/AIIT-Threshold/Tessera-1B"
 status: published
 ---
 

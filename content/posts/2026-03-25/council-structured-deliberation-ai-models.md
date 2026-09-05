@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Council
     role: framework
+source:
+  name: "Hacker News"
+  url: "https://councilengine.dev/"
 status: published
 ---
 

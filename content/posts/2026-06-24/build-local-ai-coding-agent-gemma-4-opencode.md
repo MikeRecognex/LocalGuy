@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Towards Data Science"
+  url: "https://towardsdatascience.com/build-your-own-local-ai-coding-agent-with-gemma-4-and-opencode-2/"
 status: published
 ---
 

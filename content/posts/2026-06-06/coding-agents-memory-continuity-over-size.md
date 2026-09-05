@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger"
 status: published
 ---
 

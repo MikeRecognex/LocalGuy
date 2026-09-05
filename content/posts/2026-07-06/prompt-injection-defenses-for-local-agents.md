@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://fabraix.com/blog/nobody-has-solved-prompt-injection"
 status: published
 ---
 

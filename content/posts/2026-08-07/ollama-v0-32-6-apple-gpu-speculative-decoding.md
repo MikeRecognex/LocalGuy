@@ -15,6 +15,9 @@ tags:
   - qwen-3-5
   - release
   - speculative-decoding
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.6"
 status: published
 ---
 

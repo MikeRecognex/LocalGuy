@@ -16,6 +16,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "LinkediIn"
+  url: "https://www.linkedin.com/posts/alvaro-cintas_the-1-problem-with-local-ai-is-now-solved-activity-7436432703836717056-59Qn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEr_pgBj8d-O1H4DHGB1EGZ09GUmRXYwmw"
 status: published
 ---
 https://www.linkedin.com/posts/alvaro-cintas_the-1-problem-with-local-ai-is-now-solved-activity-7436432703836717056-59Qn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEr_pgBj8d-O1H4DHGB1EGZ09GUmRXYwmw

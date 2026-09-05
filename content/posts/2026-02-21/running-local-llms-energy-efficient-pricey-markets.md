@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/run-local-llms-one-worlds-priciest-energy-markets/"
 status: published
 ---
 

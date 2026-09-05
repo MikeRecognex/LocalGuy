@@ -28,6 +28,9 @@ tags:
   - reasoning-optimization
   - retrieval-augmented-generation
   - structured-prompting
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s05thz/llama_8b_matching_70b_on_multihop_qa_with/"
 status: published
 ---
 

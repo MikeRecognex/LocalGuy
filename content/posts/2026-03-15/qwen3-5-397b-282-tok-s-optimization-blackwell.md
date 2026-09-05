@@ -26,6 +26,9 @@ mentions:
     role: project
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rtrdsv/55_toks_how_i_got_qwen35397b_running_at_speed/"
 status: published
 ---
 

@@ -24,6 +24,9 @@ mentions:
     role: manufacturer
   - name: Wccftech
     role: publisher
+source:
+  name: "Wccftech"
+  url: "https://wccftech.com/sk-hynix-working-on-dram-breakthrough-to-bring-real-on-device-ai-to-smartphones/"
 status: published
 ---
 

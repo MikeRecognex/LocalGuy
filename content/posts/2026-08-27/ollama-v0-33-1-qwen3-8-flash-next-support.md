@@ -16,6 +16,9 @@ tags:
   - qwen3-8-flash-next
   - release
   - structured-outputs
+source:
+  name: "Ollama Release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.33.1"
 status: published
 ---
 

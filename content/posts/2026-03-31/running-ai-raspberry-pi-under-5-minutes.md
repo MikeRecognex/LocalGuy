@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Virtualization Review
     role: publisher
+source:
+  name: "Virtualization Review"
+  url: "https://virtualizationreview.com/articles/2026/03/30/running-ai-on-a-raspberry-pi-part-2-running-ai-on-a-pi-in-under--5-minutes.aspx"
 status: published
 ---
 

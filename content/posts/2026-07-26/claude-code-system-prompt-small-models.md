@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://antigma.ai/blog/2026/07/25/short-prompt-small-models"
 status: published
 ---
 

@@ -8,6 +8,9 @@ tags:
   - kv-cache
   - benchmarks
   - memory-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s28z12/swebench_results_for_different_kv_cache/"
 status: published
 ---
 

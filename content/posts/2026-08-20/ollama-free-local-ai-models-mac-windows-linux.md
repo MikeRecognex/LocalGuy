@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Geeky Gadgets
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrS19NeHFNVkQ2bUJsb2VXWm1Ca2l0bzBUYjNOUVI5aWh3Q2NZY3Y4LTBWaGRLTFkwSHlpZndMQmU3UUNqdFU1Q05mUmlZck50N09ZX09Tck5YZDl3NHdUUkY1c3RBdw?oc=5"
 status: published
 ---
 

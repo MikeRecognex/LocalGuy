@@ -18,6 +18,9 @@ tags:
   - vllm
   - vllm-deployment
   - vllm-inference
+source:
+  name: "Mistral AI"
+  url: "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xdF9xTEgyMzh4d3dlOUxHR0tiNVVzejl1TFUzNkZ6RndMNmNUUnpRb0RwMHBvZV9wZlY3eVJiS3JmY2pGN2R1NnA0YloyeUFyTVZfak0tcEJsMVhYSEtwY25FVQ?oc=5"
 status: published
 ---
 

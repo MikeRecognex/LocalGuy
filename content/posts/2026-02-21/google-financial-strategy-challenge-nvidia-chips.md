@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.wsj.com/tech/ai/google-is-exploring-ways-to-use-its-financial-might-to-take-on-nvidia-0fbadc84"
 status: published
 ---
 

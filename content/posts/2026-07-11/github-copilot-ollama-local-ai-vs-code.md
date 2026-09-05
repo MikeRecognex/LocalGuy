@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Mshale
     role: publisher
+source:
+  name: "Mshale"
+  url: "https://www.mshale.com/github-copilot-ollama"
 status: published
 ---
 

@@ -27,6 +27,9 @@ mentions:
     handle: "@realgeorgehotz"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html"
 status: published
 ---
 

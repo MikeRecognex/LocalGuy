@@ -21,6 +21,9 @@ tags:
   - privacy-compliance
   - privacy-preserving-ai
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/b07luw4yjcrg1"
 status: published
 ---
 

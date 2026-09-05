@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/added-these-mcp-servers-local-llm-stack-one-replaces-paid-tool/"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/review/amd-rocm7-723"
 status: published
 ---
 

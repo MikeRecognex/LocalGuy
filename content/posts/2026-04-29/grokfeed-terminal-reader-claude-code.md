@@ -8,6 +8,9 @@ tags:
   - tools
   - open-source
   - local-inference
+source:
+  name: "Hacker News"
+  url: "https://github.com/emarkou/grokfeed"
 status: published
 ---
 

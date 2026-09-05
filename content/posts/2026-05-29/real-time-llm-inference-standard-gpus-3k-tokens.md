@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
 status: published
 ---
 

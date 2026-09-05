@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/i-let-a-local-llm-rewrite-my-resume-and-it-caught-things-chatgpt-missed/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: The AI Journal
     role: publisher
+source:
+  name: "The AI Journal"
+  url: "https://aijourn.com/escaping-the-token-economy-architecting-modular-local-ai-ecosystems/"
 status: published
 ---
 

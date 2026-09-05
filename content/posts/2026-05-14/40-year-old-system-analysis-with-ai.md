@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a"
 status: published
 ---
 

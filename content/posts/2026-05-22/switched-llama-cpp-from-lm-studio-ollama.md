@@ -20,6 +20,9 @@ tags:
   - performance-optimization
   - resource-optimization
   - tool-migration
+source:
+  name: "MSN"
+  url: "https://news.microsoft.com/"
 status: published
 ---
 

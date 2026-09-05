@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Memeburn
     role: publisher
+source:
+  name: "Memeburn"
+  url: "https://www.memeburn.com/apple-2026-ai-strategy"
 status: published
 ---
 

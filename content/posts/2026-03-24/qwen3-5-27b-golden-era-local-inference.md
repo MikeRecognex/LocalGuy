@@ -8,6 +8,9 @@ tags:
   - model-release
   - single-gpu
   - local-deployment
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_golden_time_for_low_vram1/"
 status: published
 ---
 

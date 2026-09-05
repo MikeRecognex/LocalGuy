@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: arXiv
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://arxiv.org/abs/2606.13241"
 status: published
 ---
 

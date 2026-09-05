@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Chosunbiz
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.chosunbiz.com"
 status: published
 ---
 

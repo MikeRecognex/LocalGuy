@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: PacifAIst
     role: project-owner
+source:
+  name: "Hacker News"
+  url: "https://github.com/PacifAIst/Quansloth"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://jackson.dev/post/dont-sleep-on-bitnet/"
 status: published
 ---
 

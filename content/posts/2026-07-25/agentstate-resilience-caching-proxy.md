@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/aleenz1102/AgentState"
 status: published
 ---
 

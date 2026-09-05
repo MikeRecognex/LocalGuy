@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Morai.eu
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://morai.eu/private-llm-vs-chatgpt-in-business-when-it-makes-sense-and-when-it-doesnt/"
 status: published
 ---
 

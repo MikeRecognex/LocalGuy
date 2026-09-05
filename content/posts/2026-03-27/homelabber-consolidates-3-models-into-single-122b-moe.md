@@ -27,6 +27,9 @@ tags:
   - moe-models
   - self-hosting
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s4p922/consolidated_my_homelab_from_3_models_down_to_one/"
 status: published
 ---
 

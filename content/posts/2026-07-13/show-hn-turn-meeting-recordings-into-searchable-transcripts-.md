@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://motionobj.com/minutefile/"
 status: published
 ---
 

@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12bmNEVHZRZU1zSGE4MUFpeFNPOTBvXzNPdUFlb0Nxc2lXcTVvd255YlNHS1dJVk91S1YzU2FnVEdYWjdJdTEtNGdvenV1WVJKTFFJcm9TV3RWMWJUT0sySHdRWQ?oc=5"
 status: published
 ---
 

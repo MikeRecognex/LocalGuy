@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://ai.rundatarun.io/AI%20Systems%20%26%20Architecture/reproducing-warp-decode-blackwell"
 status: published
 ---
 

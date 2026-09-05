@@ -16,6 +16,9 @@ tags:
   - news
   - open-source
   - quantization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://github.com/ggml-org/llama.cpp/commit/26c084662903ddaca19bef982831bfb0856e8257"
 status: published
 ---
 

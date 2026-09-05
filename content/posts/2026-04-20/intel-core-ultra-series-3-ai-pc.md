@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: Yahoo Finance Singapore
     role: publisher
+source:
+  name: "Yahoo Finance Singapore"
+  url: "https://finance.yahoo.com"
 status: published
 ---
 

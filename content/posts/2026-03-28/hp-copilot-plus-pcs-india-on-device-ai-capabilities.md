@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: HP
     role: manufacturer
+source:
+  name: "Google News"
+  url: "https://www.msn.com/en-us/news/technology/hp-launches-4-new-copilot-plus-pcs-in-india-with-on-device-ai-capabilities"
 status: published
 ---
 

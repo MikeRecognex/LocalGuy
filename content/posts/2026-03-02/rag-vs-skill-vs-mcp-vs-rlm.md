@@ -18,6 +18,9 @@ tags:
   - retrieval-augmented-generation
   - retrieval-language-models
   - skill-based-llms
+source:
+  name: "Hacker News"
+  url: "https://blog.alexewerlof.com/p/rag-vs-skill-vs-mcp-vs-rlm"
 status: published
 ---
 

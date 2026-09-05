@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s3170r/benchmark_the_ultimate_llamacpp_shootout_rtx_5090/"
 status: published
 ---
 

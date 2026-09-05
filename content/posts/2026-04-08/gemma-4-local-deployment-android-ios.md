@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Phandroid
     role: publisher
+source:
+  name: "Google News"
+  url: "https://phandroid.com/2026/04/08/googles-gemma-4-is-finally-bringing-real-on-device-ai-to-android-phones/"
 status: published
 ---
 

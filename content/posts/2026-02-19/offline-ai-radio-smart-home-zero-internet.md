@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Reddit
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r8ectu/i_plugged_a_30_radio_into_my_mac_mini_and_told_my/"
 status: published
 ---
 

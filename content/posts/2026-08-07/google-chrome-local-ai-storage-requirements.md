@@ -16,6 +16,9 @@ tags:
   - news
   - on-device-deployment
   - quantization
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wUndYUk9uVzVqek9FcXBRVUNFelB5b3Z0SnRXMGVITTFhek92MzVKN2tLN1hyRzJwSm1jb1VhV0VOanZlVmExb1VMSkdnb0poY1N2bjdjZ2gxeHkzZVQwSEotX3JtR29FR2VVMUJaemxPNFZ6WlRSYnQyb3doUQ?oc=5"
 status: published
 ---
 

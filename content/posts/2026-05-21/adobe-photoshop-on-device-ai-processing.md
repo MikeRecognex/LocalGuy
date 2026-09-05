@@ -30,6 +30,9 @@ mentions:
     role: integrator
   - name: 9to5Mac
     role: publisher
+source:
+  name: "9to5Mac"
+  url: "https://9to5mac.com/2026/05/20/adobe-photoshop-update-brings-on-device-ai-processing-but-there-is-a-catch/"
 status: published
 ---
 

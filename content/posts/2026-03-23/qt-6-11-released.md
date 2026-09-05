@@ -29,6 +29,9 @@ mentions:
     role: framework provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.qt.io/blog/qt-6.11-released"
 status: published
 ---
 

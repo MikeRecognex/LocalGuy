@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: seetrex-ai
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/seetrex-ai/laimark"
 status: published
 ---
 

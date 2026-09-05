@@ -22,6 +22,9 @@ mentions:
     role: manufacturer
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSThiR1NvcXUxeGRXX1VmVHVWeURyeXpnQ0FFbnNkWmpJTEJWTG9zaWlhUDV3aWg0Z3dtMFdJLXc4bkthTTNDSkc2cjFTX3BvQVJNVlNYMnRPekp5bWJPNzFWX0ZnN1RGMDBzeTdoaXV5dlRSX1BycW5HRWhCVVdvMlkxWGFDbVdXTm11QnRWTEM2RDdZWGF0eHlZS0F2VERwNXNrYzNqM0t3SUlxc3c?oc=5"
 status: published
 ---
 

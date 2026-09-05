@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: ITPro
     role: publisher
+source:
+  name: "ITPro"
+  url: "https://www.itpro.com/hardware/amd-predicts-rise-of-agent-computers"
 status: published
 ---
 

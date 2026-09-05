@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/review/vllm-0.21-intel"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: VentureBeat
     role: publisher
+source:
+  name: "VentureBeat"
+  url: "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes"
 status: published
 ---
 

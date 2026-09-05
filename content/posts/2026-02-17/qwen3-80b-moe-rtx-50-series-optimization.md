@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r71af3/solution_found_qwen3next_80b_moe_running_at_39_ts/"
 status: published
 ---
 

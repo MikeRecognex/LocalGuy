@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: VirtuCommerce
     role: author
+source:
+  name: "Hacker News"
+  url: "https://virtocommerce.com/assets/ai-ready-pim-framework"
 status: published
 ---
 

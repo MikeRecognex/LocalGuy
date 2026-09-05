@@ -28,6 +28,9 @@ mentions:
     role: research institution
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.tohoku.ac.jp/en/press/a_new_magnetic_material_for_the_ai_era.html"
 status: published
 ---
 

@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com/hipfire-is-a-rust-native-amd-inference-engine-that-beats-llamacpp-on-consumer-gpus/"
 status: published
 ---
 

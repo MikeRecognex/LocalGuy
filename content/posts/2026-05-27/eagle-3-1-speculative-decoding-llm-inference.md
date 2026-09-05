@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: MarkTechPost
     role: publisher
+source:
+  name: "MarkTechPost"
+  url: "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/"
 status: published
 ---
 

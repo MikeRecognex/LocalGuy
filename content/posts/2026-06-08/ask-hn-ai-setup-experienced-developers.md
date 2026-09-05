@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=48443152"
 status: published
 ---
 

@@ -25,6 +25,9 @@ mentions:
     role: infrastructure-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://sliplane.io/blog/hetzner-inference"
 status: published
 ---
 

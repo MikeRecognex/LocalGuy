@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: stepfun-ai
     role: dataset-creator
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT"
 status: published
 ---
 

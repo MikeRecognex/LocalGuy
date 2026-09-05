@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/paired-claude-code-with-editor-built-local-ai-coding-setup-never-leaves/"
 status: published
 ---
 

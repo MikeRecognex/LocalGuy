@@ -18,6 +18,9 @@ tags:
   - nvidia
   - oom-prevention
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUXc4RlFUcUYzbTJKZmJNbFVCVkw5QUswM3pqMFQ3b2R6dThZTFMtWGRmalpMbUJmOUhhWWJ0TWF0T3l0cl9NenpXRlVIeldIUjdSbkFQc0kwb1g1ZzFXNmlMWHYyWW5EQ0dJdDN3?oc=5"
 status: published
 ---
 

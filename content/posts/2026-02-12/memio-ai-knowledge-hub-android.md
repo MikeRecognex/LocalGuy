@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.memio.site/"
 status: published
 ---
 Memio has launched a new Android application designed as an AI-powered knowledge hub that aggregates and processes notes, RSS feeds, and web articles. The application appears to focus on local data processing and organization, which could indicate the use of on-device AI models for content analysis and summarization.

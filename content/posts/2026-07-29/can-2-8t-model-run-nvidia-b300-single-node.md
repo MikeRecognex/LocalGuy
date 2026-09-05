@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/"
 status: published
 ---
 

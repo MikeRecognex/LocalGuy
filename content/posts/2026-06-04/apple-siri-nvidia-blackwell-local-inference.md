@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/"
 status: published
 ---
 

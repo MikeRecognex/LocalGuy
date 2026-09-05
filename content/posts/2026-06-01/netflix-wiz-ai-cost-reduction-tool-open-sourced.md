@@ -24,6 +24,9 @@ mentions:
     role: engineer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702"
 status: published
 ---
 

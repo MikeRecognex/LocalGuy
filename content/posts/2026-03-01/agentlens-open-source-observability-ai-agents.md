@@ -21,6 +21,9 @@ mentions:
     role: tool-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47205382"
 status: published
 ---
 

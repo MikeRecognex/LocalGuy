@@ -8,6 +8,9 @@ tags:
   - distributed-inference
   - edge-deployment
   - open-source
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0FtcjkyUWhUaW5OQ3IzVFc0elRBSUUzakwwdnhJRndGLTVKT0YtaTNhMURwanRiVFQtNEhybHpzMDg5c1VUX2dfc0xxMEJLUGpJSTVnZDdmNTJTMzg0LUxWdDFheGkwNU5xVVBTb0NNT2dveUliMmRsSWxQQXpKRGVsZFY4cm1jT0RhNmpvdGY3OTJVN0ZpMWczQ3NOR2ZDbFhCc1JsM0ExUjlyRlhUVTgxMXltQkhvdVJv?oc=5"
 status: draft
 ---
 

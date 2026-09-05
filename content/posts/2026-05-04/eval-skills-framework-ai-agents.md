@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: latitude-dev
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/latitude-dev/eval-skills"
 status: published
 ---
 

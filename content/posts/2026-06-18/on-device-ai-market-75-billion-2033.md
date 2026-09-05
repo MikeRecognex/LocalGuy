@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: PR Newswire
     role: publisher
+source:
+  name: "PR Newswire"
+  url: "https://www.prnewswire.com/news-releases/on-device-ai-market-set-to-surpass-usd-75-5-billion-by-2033-as-demand-for-real-time-intelligence-and-privacy-first-computing-accelerates-302803234.html"
 status: published
 ---
 

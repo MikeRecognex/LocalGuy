@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: VoiceShelf
     role: project
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/63gkyfpuqxng1"
 status: published
 ---
 

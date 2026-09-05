@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Wolfram
     role: tech-provider
+source:
+  name: "Hacker News"
+  url: "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
 status: published
 ---
 

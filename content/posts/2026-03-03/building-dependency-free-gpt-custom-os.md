@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hackaday
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://hackaday.com/2026/03/03/building-a-dependency-free-gpt-on-a-custom-os/"
 status: published
 ---
 

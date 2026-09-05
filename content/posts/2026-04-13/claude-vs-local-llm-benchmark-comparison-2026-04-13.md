@@ -27,6 +27,9 @@ tags:
   - performance-evaluation
   - privacy-critical-applications
   - vendor-lock-in
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

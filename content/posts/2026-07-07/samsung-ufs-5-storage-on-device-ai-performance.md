@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Indiablooms
     role: publisher
+source:
+  name: "Indiablooms"
+  url: "https://www.indiablooms.com/samsung-ufs-5-0-ai"
 status: published
 ---
 

@@ -35,6 +35,9 @@ mentions:
     role: publisher
   - name: GitHub
     role: platform
+source:
+  name: "Hacker News"
+  url: "https://github.com/xinxin7/claw-shield"
 status: published
 ---
 

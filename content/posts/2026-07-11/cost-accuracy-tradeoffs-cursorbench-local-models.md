@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.shibaprasadb.com/2026/07/09/cursorbench-analysis.html"
 status: published
 ---
 

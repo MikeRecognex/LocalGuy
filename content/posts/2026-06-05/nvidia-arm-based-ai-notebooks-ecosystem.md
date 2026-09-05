@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Communications Today
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.communicationstoday.com"
 status: published
 ---
 

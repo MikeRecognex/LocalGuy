@@ -31,6 +31,9 @@ mentions:
     role: hardware-manufacturer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/bcyangkmluohmars/linux-alpine-v2"
 status: published
 ---
 

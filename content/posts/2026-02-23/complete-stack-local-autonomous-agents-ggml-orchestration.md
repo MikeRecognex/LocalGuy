@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/complete-stack-local-autonomous-agents-ggml-orchestration/"
 status: published
 ---
 

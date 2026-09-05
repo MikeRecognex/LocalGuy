@@ -24,6 +24,9 @@ mentions:
     role: framework
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-0.14-b8.1"
 status: published
 ---
 

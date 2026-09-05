@@ -20,6 +20,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://techstrong.ai/articles/jetbrains-releases-junie-local-bringing-its-coding-agent-fully-on-device-to-macs/"
 status: published
 ---
 

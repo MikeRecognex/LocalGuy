@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: The New York Times
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html"
 status: published
 ---
 

@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://www.fortune.com"
 status: published
 ---
 

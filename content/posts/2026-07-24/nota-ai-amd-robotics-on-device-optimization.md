@@ -22,6 +22,9 @@ mentions:
     role: partner
   - name: PR Newswire
     role: publisher
+source:
+  name: "PR Newswire"
+  url: "http://www.prnewswire.com/news-releases/nota-ai-joins-the-amd-robotics-partner-network-to-accelerate-development-of-next-generation-physical-ai-solutions---extending-its-on-device-ai-optimization-technology-into-the-robotics-sector-302832058.html"
 status: published
 ---
 

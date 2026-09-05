@@ -8,6 +8,9 @@ tags:
   - infrastructure
   - open-source
   - local-networks
+source:
+  name: "Hacker News"
+  url: "https://github.com/nakabonne/pbgopy"
 status: published
 ---
 

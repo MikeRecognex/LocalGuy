@@ -33,6 +33,9 @@ mentions:
     role: source
   - name: itsthatlady.dev
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
 status: published
 ---
 

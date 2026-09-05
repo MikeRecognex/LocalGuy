@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: TrustedReviews
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.trustedreviews.com/wwdc-2026-on-device-ai"
 status: published
 ---
 

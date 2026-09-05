@@ -19,6 +19,9 @@ mentions:
     role: partner
   - name: Liquid AI
     role: partner
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMihwFBVV95cUxORjd3UWpPU3ZVVjZXQVM3SWQwLXRhSUhHSl9VNFhFVHppdzRRRkZ3QzFzUDVmNXBKaVFMY1hHOEtXSG1UN3FyaXVPZ0MyOC1lUVdpTEtCZDVpMXJZdDctZnJ5V1RfLXo4VFotc01CcFU3UFYxZnl0eFFoRFV1WmpyQ3dNVzMycWc?oc=5"
 status: published
 ---
 

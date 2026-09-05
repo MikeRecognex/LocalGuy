@@ -32,6 +32,9 @@ mentions:
     role: tool
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://llm-architecture-cost-modeler.vercel.app/"
 status: published
 ---
 

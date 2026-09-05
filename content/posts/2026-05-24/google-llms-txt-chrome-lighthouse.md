@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246"
 status: published
 ---
 

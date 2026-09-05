@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Adafruit
     role: publisher
+source:
+  name: "Adafruit"
+  url: "https://blog.adafruit.com/2026/05/12/running-a-local-llm-on-a-12-year-old-raspberry-pi-1/"
 status: published
 ---
 

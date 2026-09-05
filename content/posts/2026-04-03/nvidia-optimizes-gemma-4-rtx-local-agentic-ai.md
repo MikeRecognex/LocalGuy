@@ -25,6 +25,9 @@ tags:
   - nvidia
   - production-deployment
   - release
+source:
+  name: "Google News"
+  url: "https://blogs.nvidia.com/blog/2025/01/gemma-4-rtx-optimization/"
 status: published
 ---
 

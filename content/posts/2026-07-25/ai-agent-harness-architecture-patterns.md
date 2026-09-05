@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.martinrichards.me/post/whats_inside_the_harness/"
 status: published
 ---
 

@@ -31,6 +31,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/f624mg43aslg1.jpeg"
 status: published
 ---
 

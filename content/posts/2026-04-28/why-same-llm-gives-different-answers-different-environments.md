@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://johndwade.substack.com/p/the-environment-rewrites-the-question"
 status: published
 ---
 π

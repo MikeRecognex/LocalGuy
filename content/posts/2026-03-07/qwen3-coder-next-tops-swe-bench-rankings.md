@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/s4taslgvukng1.png"
 status: published
 ---
 

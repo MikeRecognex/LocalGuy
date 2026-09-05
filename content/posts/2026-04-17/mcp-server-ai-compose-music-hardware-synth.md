@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://namirsab.dev/blog/teaching-claude-to-use-my-novation-circuit-tracks-part-3/"
 status: published
 ---
 

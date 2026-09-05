@@ -32,6 +32,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://huggingface.co/spaces/webml-community/bonsai-webgpu"
 status: published
 ---
 

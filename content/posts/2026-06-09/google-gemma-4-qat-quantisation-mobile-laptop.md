@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Pulse2
     role: publisher
+source:
+  name: "Google News"
+  url: "https://pulse2.com/google-gemma-4-qat-models-reduce-memory-requirements-for-mobile-and-laptop-ai/"
 status: published
 ---
 

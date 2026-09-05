@@ -20,6 +20,9 @@ mentions:
     role: infrastructure-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://status.sr.ht/issues/2026-06-06-llms-again/"
 status: published
 ---
 

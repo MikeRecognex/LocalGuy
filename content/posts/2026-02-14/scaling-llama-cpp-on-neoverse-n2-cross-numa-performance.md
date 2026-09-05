@@ -34,6 +34,9 @@ tags:
 mentions:
   - name: Semiconductor Engineering
     role: publisher
+source:
+  name: "Semiconductor Engineering"
+  url: "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSU1tbDJUMjRHOC1Kc2t3bGNISFdyc25UYk1tR2tlSWtEbzJOTHZvMC1IWmVSd1BCMm02X0dFT2ZtTmY3RU56WUhhZmxJNUhSdFRmeHJRaXB1cjFtVV9XcHRhelZPdzhZWjlkUmFoTGVtMGdseW5DZjQ3OGl1Z2lHQkZ2MXRLYTNrMGhuLVBFekVtM2x5X1NIVXBGRTdBcjdV?oc=5"
 status: published
 ---
 

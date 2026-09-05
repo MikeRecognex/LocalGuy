@@ -23,6 +23,9 @@ tags:
   - rag
   - resource-optimization
   - vram-efficiency
+source:
+  name: "Oracle Blogs"
+  url: "https://blogs.oracle.com/ai-and-datascience/accelerate-llm-inference-lmcache-on-oci-data-science"
 status: published
 ---
 

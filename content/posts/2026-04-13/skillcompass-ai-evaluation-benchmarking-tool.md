@@ -31,6 +31,9 @@ mentions:
     role: tool
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Evol-ai/SkillCompass"
 status: published
 ---
 

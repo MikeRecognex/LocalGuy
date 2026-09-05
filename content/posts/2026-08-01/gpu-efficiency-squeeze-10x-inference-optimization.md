@@ -21,6 +21,9 @@ tags:
   - local-deployment
   - ollama
   - vllm
+source:
+  name: "Google News"
+  url: "https://finance.biggo.com/news/3682e4ece0bc23d0"
 status: published
 ---
 

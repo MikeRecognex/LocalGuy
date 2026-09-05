@@ -41,6 +41,9 @@ tags:
 mentions:
   - name: MarkTechPost
     role: publisher
+source:
+  name: "MarkTechPost"
+  url: "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/"
 status: published
 ---
 

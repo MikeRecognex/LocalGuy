@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: JetBrains
     role: developer
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiowFBVV95cUxONk0xWDJSZGlBcnowN0s1MUx1Z0kxV0xfZVF2OG5tUG9PeDBVWnc3LThKRzdnSkJPUFFpOFo1NGJIUWVVaFpoQ0NfMnBTc3o1aTNPd3J2RVMzSnVGWXVuc0pzbFZHV0hJbjB3YnpXU3VRUzI2X0pSSm9FNy02aHE1aDVkLWR6UnczS1NkSzFVQi1CWDVsNXBMTnlqSFVqcW9FZ2lN0gGjAUFVX3lxTE42TTFYMlJkaUFyejA3SzUxTHVnSTFXTF9lUXY4bm1Qb094MFVadzctOEpHN2dKQk9QUWk4WjU0YkhRZVVoWmhDQ18ycFNzejVpM093cnZFUzNKdUZZdW5zSnNsVkdXSEluMHdieldTdVFTMjZfSlJKb0U3LTZocTVoNWQtZHpSdzNLU2RLMVVCLUJYNWw1cExOeWpIVWpxb0VnaU0?oc=5"
 status: published
 ---
 

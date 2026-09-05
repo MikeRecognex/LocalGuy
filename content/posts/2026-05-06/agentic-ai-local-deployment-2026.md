@@ -36,6 +36,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://simplai.ai/simplai-university"
 status: published
 ---
 

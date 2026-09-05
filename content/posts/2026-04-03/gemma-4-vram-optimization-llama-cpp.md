@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-forum
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sb80yv/vram_optimization_for_gemma_4/"
 status: published
 ---
 

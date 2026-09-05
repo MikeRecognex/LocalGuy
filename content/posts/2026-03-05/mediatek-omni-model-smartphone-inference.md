@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: The Tech Outlook
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.thetechoutlook.com/news/oppo-and-mediatek-unveil-on-device-ai-innovations-at-mwc-2026-progress-on-omni-model-advances-in-cross-ecosystem-connectivity-and-more/"
 status: published
 ---
 

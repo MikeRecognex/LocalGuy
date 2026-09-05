@@ -27,6 +27,9 @@ mentions:
     role: manufacturer
   - name: Chosunbiz
     role: publisher
+source:
+  name: "Chosunbiz"
+  url: "https://www.chosunbiz.com/site/data/html_dir/2026/03/05/2026030500000.html"
 status: published
 ---
 

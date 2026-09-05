@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Octopoda
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/ahpjfe21oqtg1"
 status: published
 ---
 

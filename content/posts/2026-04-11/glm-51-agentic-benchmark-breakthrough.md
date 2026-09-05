@@ -23,6 +23,9 @@ tags:
   - reasoning-benchmarks
   - self-hosting
   - tool-calling
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/"
 status: published
 ---
 

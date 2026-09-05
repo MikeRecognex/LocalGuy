@@ -24,6 +24,9 @@ mentions:
   - name: sermakarevich
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/sermakarevich/chunker"
 status: published
 ---
 

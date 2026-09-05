@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r8jjtq"
 status: published
 ---
 

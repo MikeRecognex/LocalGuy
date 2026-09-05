@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: NokiaPowerUser
     role: publisher
+source:
+  name: "Google News"
+  url: "https://nokiapoweruser.com/android-phones-are-getting-smarter-without-internet-heres-why-on-device-ai-is-the-next-big-shift/"
 status: published
 ---
 

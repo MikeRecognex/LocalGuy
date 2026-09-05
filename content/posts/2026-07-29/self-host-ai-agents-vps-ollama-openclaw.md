@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Analytics Insight
     role: publisher
+source:
+  name: "Analytics Insight"
+  url: "https://www.analyticsinsight.net/"
 status: published
 ---
 

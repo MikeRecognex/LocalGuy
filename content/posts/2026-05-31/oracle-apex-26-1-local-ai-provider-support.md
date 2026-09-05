@@ -21,6 +21,9 @@ tags:
   - open-source
   - release
   - vendor-lock-in-reduction
+source:
+  name: "Oracle Blogs"
+  url: "https://blogs.oracle.com/apex/expanding-ai-choice-with-out-of-the-box-support-for-major-ai-providers-in-oracle-apex-26-1"
 status: published
 ---
 

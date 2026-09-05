@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com/llamacpp-merges-speculative-checkpointing-and-local-ai-inference-takes-a-significant-leap-forward/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Geeky Gadgets
     role: publisher
+source:
+  name: "Geeky Gadgets"
+  url: "https://www.geeky-gadgets.com/run-32b-local-llm-mac-mini/"
 status: published
 ---
 

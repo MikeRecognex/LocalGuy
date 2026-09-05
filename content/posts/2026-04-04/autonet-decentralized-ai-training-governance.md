@@ -29,6 +29,9 @@ mentions:
     role: platform-provider
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://autonet.computer"
 status: published
 ---
 

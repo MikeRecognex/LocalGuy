@@ -15,6 +15,9 @@ tags:
   - mlx
   - privacy-preserving
   - unified-memory
+source:
+  name: "Google News"
+  url: "https://www.msn.com/"
 status: published
 ---
 

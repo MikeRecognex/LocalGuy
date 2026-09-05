@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: GitHub
     role: publisher
+source:
+  name: "llama.cpp GitHub"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10589"
 status: published
 ---
 

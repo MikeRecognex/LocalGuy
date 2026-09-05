@@ -22,6 +22,9 @@ tags:
   - performance-optimization
   - production-stability
   - release
+source:
+  name: "Google News"
+  url: "https://news.google.com/"
 status: published
 ---
 

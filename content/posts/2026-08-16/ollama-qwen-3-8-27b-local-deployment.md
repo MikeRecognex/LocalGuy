@@ -14,6 +14,9 @@ tags:
   - qwen
   - qwen-3-8-27b
   - release
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.12"
 status: published
 ---
 

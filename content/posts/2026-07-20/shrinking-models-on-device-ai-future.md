@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: AppleInsider
     role: publisher
+source:
+  name: "AppleInsider"
+  url: "https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future"
 status: published
 ---
 

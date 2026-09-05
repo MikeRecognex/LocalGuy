@@ -23,6 +23,9 @@ mentions:
     role: model-developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://huggingface.co/pthinc/Cicikus_PTHS_v3_4.4B"
 status: published
 ---
 

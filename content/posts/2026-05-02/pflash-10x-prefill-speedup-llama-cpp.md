@@ -28,6 +28,9 @@ mentions:
   - name: PFlash
   - name: Fortune
     role: publisher
+source:
+  name: "Fortune"
+  url: "https://fortune.com/"
 status: published
 ---
 

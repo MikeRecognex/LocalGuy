@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r1r3nk/nanbeige413b_a_small_general_model_that_reasons/"
 status: published
 ---
 

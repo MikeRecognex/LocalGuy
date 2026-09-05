@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Medium
     role: publisher
+source:
+  name: "Medium"
+  url: "https://medium.com/@adnanmasood/getting-started-with-nvidia-dgx-spark-unboxing-first-boot-dashboard-and-running-gemma-locally-2d9054fab7db"
 status: published
 ---
 

@@ -24,6 +24,9 @@ mentions:
     role: manufacturer
   - name: SK Hynix
     role: semiconductor manufacturer
+source:
+  name: "thelec.net"
+  url: "https://www.thelec.net/news/articleView.html?idxno=15968"
 status: published
 ---
 

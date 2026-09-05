@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283"
 status: published
 ---
 

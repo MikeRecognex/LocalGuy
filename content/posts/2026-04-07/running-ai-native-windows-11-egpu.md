@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Virtualization Review
     role: publisher
+source:
+  name: "Google News"
+  url: "https://virtualizationreview.com/articles/2026/04/06/running-ai-natively-on-windows-11-using-an-egpu.aspx"
 status: published
 ---
 

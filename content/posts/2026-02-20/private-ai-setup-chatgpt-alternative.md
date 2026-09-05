@@ -36,6 +36,9 @@ mentions:
     role: publisher
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/stopped-paying-for-chatgpt-built-private-ai-setup-anyone-can-run/"
 status: published
 ---
 

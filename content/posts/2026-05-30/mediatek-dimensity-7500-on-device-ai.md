@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: MediaTek
     role: chip-manufacturer
+source:
+  name: "Google News"
+  url: "https://www.techlomedia.com/mediatek-dimensity-7500"
 status: published
 ---
 

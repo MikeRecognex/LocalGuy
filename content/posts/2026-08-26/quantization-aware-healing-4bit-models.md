@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Multiverse Computing
     role: researcher
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
 status: published
 ---
 

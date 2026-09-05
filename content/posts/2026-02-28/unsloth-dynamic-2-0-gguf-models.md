@@ -24,6 +24,9 @@ mentions:
     role: platform-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs"
 status: published
 ---
 

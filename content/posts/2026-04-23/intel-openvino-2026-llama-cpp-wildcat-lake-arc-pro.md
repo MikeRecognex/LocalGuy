@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: igor's LAB
     role: publisher
+source:
+  name: "igor's LAB"
+  url: "https://www.igorslab.de/en/intel-openvino-2026-1-links-llama-c-with-wildcat-lake-and-arc-pro-b70-suddenly-making-intels-ai-strategy-more-tangible/"
 status: published
 ---
 

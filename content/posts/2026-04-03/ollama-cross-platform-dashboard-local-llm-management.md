@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://hackernoon.com/building-cross-platform-ollama-dashboard"
 status: published
 ---
 

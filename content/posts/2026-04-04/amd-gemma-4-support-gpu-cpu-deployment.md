@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Wccftech
     role: publisher
+source:
+  name: "Google News"
+  url: "https://wccftech.com/amd-rolls-out-gemma-4-model-support-across-full-range-of-gpus-cpus/"
 status: published
 ---
 

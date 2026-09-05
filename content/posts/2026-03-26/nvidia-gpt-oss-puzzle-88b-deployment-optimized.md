@@ -24,6 +24,9 @@ tags:
   - resource-efficiency
   - resource-optimization
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/nvidia/gpt-oss-puzzle-88B"
 status: published
 ---
 

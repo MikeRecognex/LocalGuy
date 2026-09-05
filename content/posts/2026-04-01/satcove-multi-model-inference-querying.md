@@ -31,6 +31,9 @@ mentions:
     role: provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://satcove.com"
 status: published
 ---
 

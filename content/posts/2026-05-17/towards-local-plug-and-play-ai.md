@@ -28,6 +28,9 @@ mentions:
     handle: "adlrocha"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play"
 status: published
 ---
 

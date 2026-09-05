@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.howtogeek.com/bedside-ai-assistant-reads-me-the-news/"
 status: published
 ---
 

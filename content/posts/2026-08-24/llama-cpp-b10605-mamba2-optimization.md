@@ -16,6 +16,9 @@ tags:
   - performance-optimization
   - release
   - state-space-models
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10605"
 status: published
 ---
 

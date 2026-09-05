@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Aithority.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://aithority.com/guest-authors/your-next-assistant-is-your-pc-how-on-device-ai-is-transforming-work-one-workflow-at-a-time/"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     handle: "@ylecun"
   - name: YouTube
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.youtube.com/watch?v=72Xj8k5WQX4"
 status: published
 ---
 

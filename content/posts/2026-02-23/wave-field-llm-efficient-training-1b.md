@@ -19,6 +19,9 @@ tags:
   - rapid-model-iteration
   - resource-efficiency
   - training
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/6m7q2vzlm6lg1.png"
 status: published
 ---
 

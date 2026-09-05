@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: VentureBeat
     role: publisher
+source:
+  name: "Google News"
+  url: "https://venturebeat.com/ai/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026"
 status: published
 ---
 

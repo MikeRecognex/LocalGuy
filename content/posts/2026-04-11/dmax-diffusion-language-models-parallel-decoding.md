@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: National University of Singapore
     role: research institution
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/buzbtk1hdeug1"
 status: published
 ---
 

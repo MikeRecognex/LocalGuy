@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: The AI Journal
     role: publisher
+source:
+  name: "The AI Journal"
+  url: "https://www.aijournal.com/future-of-mobile-ai-on-device-intelligence/"
 status: published
 ---
 

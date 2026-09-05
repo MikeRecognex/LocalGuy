@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://apps.apple.com/us/app/phonetic-formatter-english/id6757941187"
 status: published
 ---
 

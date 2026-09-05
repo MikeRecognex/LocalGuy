@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/i-put-a-local-llm-on-my-phone-and-stopped-needing-cloud-ai-for-most-tasks/"
 status: published
 ---
 

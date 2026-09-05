@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.makeuseof.com/windows-now-shows-which-apps-used-on-device-ai-and-id-check-it-right-now/"
 status: published
 ---
 

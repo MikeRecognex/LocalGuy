@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Nota AI
     role: developer
+source:
+  name: "Google News"
+  url: "https://www.eqs-news.com/news/corporate/nota-ai-to-showcase-end-to-end-on-device-ai-from-edge-optimization-to-real-world-industrial-deployment-at-embedded-world-2026/fa722f93-723d-4aa7-b87c-bfd09b01ad02_en"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/gemma-4-quantized-models-made-local-ai-practical/"
 status: published
 ---
 

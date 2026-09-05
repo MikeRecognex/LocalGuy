@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47109850"
 status: published
 ---
 DietPi continues to be the foundation for running local LLMs on ultra-resource-constrained single-board computers. The v10.1 release reinforces its position as the lightweight, optimized Linux distribution of choice for practitioners deploying inference on Raspberry Pi, Orange Pi, and similar edge devices where every kilobyte of memory and CPU cycle matters.

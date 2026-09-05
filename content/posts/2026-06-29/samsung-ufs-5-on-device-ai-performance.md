@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: New Electronics
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.newelectronics.co.uk/content/news/samsung-presents-ufs-50-storage-targeted-at-on-device-ai-performance"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://blog.wildedge.dev/posts/in-app-voice-assistant"
 status: published
 ---
 

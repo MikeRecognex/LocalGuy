@@ -26,6 +26,9 @@ mentions:
   - name: Sandeep Bansod
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://sandeepbansod.medium.com/why-your-docker-container-is-1-2gb-when-it-should-be-80mb-7b443a90f60f"
 status: published
 ---
 

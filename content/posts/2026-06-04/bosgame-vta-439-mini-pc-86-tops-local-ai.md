@@ -24,6 +24,9 @@ mentions:
     role: manufacturer
   - name: Acrofan
     role: publisher
+source:
+  name: "Google News"
+  url: "https://acrofan.com"
 status: published
 ---
 

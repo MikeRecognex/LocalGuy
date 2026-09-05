@@ -24,6 +24,9 @@ mentions:
     role: innovator
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzlMQjhzcmFkem5Yb2VZRXQ4RXR0OV9wSW44MThxMHNiejY3RXVyVVhHYXFJMVptUzhUNnY2UnBfak5zM3pFR0JXOFVpbFpyeWhmYmdMTHRLNUhrcmNPNUZMbjhhclJiTWxUM2VOR1M2VW9vc09seVpfTjlacVhnZ2QzZ3FJVFNlM21yTXBDMEktdw?oc=5"
 status: published
 ---
 

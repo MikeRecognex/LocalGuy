@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: iPhone Islam
     role: publisher
+source:
+  name: "iPhone Islam"
+  url: "https://iphoneislam.com/language/en/2026/05/the-power-of-m4-in-your-hands-how-to-run-ai-models-locally-with-24gb-of-memory/166427"
 status: published
 ---
 

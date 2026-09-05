@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ryo0i9/nemotron_cascade_2_30b_a3b/"
 status: published
 ---
 

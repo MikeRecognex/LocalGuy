@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://corti.com/serving-nemotron-super-120b-with-a-1m-token-context-on-a-2-node-dgx-spark-cluster/"
 status: published
 ---
 

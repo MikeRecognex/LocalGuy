@@ -29,6 +29,9 @@ mentions:
     role: manufacturer
   - name: iGeekphone
     role: publisher
+source:
+  name: "iGeekphone"
+  url: "https://www.igeekphone.com/115-tops-in-0-67l-chuwi-aubox-x-packs-on-device-ai-power-into-a-palm-sized-mini-pc/"
 status: published
 ---
 

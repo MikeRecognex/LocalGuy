@@ -25,6 +25,9 @@ mentions:
     role: developer
   - name: ababnews.com
     role: publisher
+source:
+  name: "ababnews.com"
+  url: "https://www.ababnews.com/news/e9ca7001-05f5-4ca5-ad44-1de849baebae"
 status: published
 ---
 

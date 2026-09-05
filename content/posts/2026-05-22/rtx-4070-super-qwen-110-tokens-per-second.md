@@ -20,6 +20,9 @@ tags:
   - performance
   - quantization
   - real-time-ai
+source:
+  name: "Google News"
+  url: "https://news.google.com/"
 status: published
 ---
 

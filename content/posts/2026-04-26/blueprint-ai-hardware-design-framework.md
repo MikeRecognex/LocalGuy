@@ -25,6 +25,9 @@ mentions:
     role: framework-developer
   - name: Blueprint
     role: design framework
+source:
+  name: "Hacker News"
+  url: "https://www.blueprint.am/"
 status: published
 ---
 

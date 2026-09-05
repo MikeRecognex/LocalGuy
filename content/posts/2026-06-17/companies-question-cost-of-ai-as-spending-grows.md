@@ -19,6 +19,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680"
 status: published
 ---
 

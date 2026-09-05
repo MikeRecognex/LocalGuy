@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: MarkTechPost
     role: publisher
+source:
+  name: "MarkTechPost"
+  url: "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/"
 status: published
 ---
 

@@ -8,6 +8,9 @@ tags:
   - optimization
   - memory-optimization
   - guide
+source:
+  name: "Hacker News"
+  url: "https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon"
 status: draft
 ---
 

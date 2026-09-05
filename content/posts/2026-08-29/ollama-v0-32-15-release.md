@@ -13,6 +13,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.15"
 status: published
 ---
 

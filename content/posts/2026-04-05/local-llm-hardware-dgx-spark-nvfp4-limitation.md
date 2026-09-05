@@ -24,6 +24,9 @@ tags:
   - opinion
   - quantization
   - software-support
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1scf1x8/dont_buy_the_dgx_spark_nvfp4_still_missing_after/"
 status: published
 ---
 

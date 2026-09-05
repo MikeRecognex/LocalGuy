@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/nobodywho_ai/status/2036759422135832779"
 status: published
 ---
 

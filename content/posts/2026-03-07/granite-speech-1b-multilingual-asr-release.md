@@ -35,6 +35,9 @@ tags:
 mentions:
   - name: IBM
     role: provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/ibm-granite/granite-4.0-1b-speech"
 status: published
 ---
 

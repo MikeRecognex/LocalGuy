@@ -13,6 +13,9 @@ tags:
   - release
   - structured-outputs
   - tool-calling
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.33.1"
 status: published
 ---
 

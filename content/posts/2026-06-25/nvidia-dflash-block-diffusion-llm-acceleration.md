@@ -16,6 +16,9 @@ tags:
   - memory-bandwidth
   - nvidia
   - optimization
+source:
+  name: "Google News"
+  url: "https://developer.nvidia.com/"
 status: published
 ---
 

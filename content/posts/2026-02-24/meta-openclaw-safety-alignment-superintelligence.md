@@ -19,6 +19,9 @@ mentions:
     role: ai-lab
   - name: r/LocalLLaMA
     role: community-forum
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rc1lmz/so_is_openclaw_local_or_not"
 status: published
 ---
 

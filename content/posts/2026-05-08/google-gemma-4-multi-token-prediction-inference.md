@@ -20,6 +20,9 @@ tags:
   - quantization
   - release
   - speculative-decoding
+source:
+  name: "Google News"
+  url: "https://pulse2.com/google-gemma-4-multi-token-prediction-drafters-released-to-accelerate-ai-inference/"
 status: published
 ---
 

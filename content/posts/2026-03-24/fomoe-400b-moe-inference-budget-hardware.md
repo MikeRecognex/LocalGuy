@@ -8,6 +8,9 @@ tags:
   - memory-optimization
   - quantization
   - budget-hardware
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s1wgph/run_qwen35_flagship_model_with_397_billion/"
 status: published
 ---
 

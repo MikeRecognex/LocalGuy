@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s4hudr/qwen_35_27b_at_11m_toks_on_b200s_all_configs_on/"
 status: published
 ---
 

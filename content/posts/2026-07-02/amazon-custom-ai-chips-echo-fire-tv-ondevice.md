@@ -22,6 +22,9 @@ mentions:
     role: manufacturer
   - name: Seeking Alpha
     role: publisher
+source:
+  name: "Google News / Seeking Alpha"
+  url: "https://seekingalpha.com/news/4609539-amazon-developing-custom-on-device-ai-chips-for-echo-and-fire-tv-lineups-report"
 status: published
 ---
 

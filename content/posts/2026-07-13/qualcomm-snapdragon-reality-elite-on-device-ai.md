@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Yahoo Finance
     role: publisher
+source:
+  name: "Yahoo Finance"
+  url: "https://finance.yahoo.com/news/qualcomm-qcom-unveils-snapdragon-reality-elite-device-ai-spatial-computing"
 status: published
 ---
 

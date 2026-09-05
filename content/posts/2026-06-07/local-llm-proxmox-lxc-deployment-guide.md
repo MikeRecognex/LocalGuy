@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: Proxmox
     role: developer
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: software-vendor
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://msn.com"
 status: published
 ---
 

@@ -12,6 +12,9 @@ tags:
   - memory-optimization
   - model-optimization
   - release
+source:
+  name: "llama.cpp"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10715"
 status: published
 ---
 

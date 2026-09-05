@@ -20,6 +20,9 @@ tags:
   - resource-constrained-ai
   - small-llms
   - tooling-diversity
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/xobw2q1stlqg1.png"
 status: published
 ---
 

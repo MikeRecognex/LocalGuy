@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: CDRLabs
     role: publisher
+source:
+  name: "EE Times"
+  url: "https://www.eetimes.com/new-era-of-on-device-ai-driven-by-high-speed-ufs-5-0-storage/"
 status: published
 ---
 

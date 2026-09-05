@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Tweaktown
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.tweaktown.com/news/94201/amd-s-new-ryzen-ai-400-series-desktop-processors-feature-integrated-radeon-860m-gpus/94201/"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/powtac/status/2037813823571194078"
 status: published
 ---
 

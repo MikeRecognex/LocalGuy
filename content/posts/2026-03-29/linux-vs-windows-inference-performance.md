@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: reddit
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s6hb1h/friendly_reminder_inference_is_way_faster_on/"
 status: published
 ---
 

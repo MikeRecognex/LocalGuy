@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: ggerganov
     handle: "@ggerganov"
+source:
+  name: "r/LocalLLaMA"
+  url: "https://github.com/ggml-org/llama.cpp/pull/21038#issuecomment-4163240936"
 status: published
 ---
 

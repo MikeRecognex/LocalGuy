@@ -8,6 +8,9 @@ tags:
   - edge-inference
   - home-assistant
   - benchmarks
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com"
 status: published
 ---
 

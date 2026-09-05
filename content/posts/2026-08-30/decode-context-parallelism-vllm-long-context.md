@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://vllm.ai/blog/2026-08-07-decode-context-parallelism"
 status: published
 ---
 

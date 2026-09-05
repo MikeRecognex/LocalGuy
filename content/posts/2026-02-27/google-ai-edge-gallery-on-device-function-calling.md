@@ -18,6 +18,9 @@ tags:
   - open-source
   - release
   - structured-output
+source:
+  name: "Google News"
+  url: "https://developers.googleblog.com/on-device-function-calling-in-google-ai-edge-gallery/"
 status: published
 ---
 

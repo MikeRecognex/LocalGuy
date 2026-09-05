@@ -22,6 +22,9 @@ mentions:
     role: provider
   - name: 01net
     role: publisher
+source:
+  name: "01net"
+  url: "https://01net.com"
 status: published
 ---
 

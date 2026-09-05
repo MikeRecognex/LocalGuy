@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: VmExit
     role: project
+source:
+  name: "Hacker News"
+  url: "https://vmexit.dev"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
   - tutorial
   - vllm
   - vllm-inference
+source:
+  name: "AMD"
+  url: "https://www.amd.com/en/developer/resources/technical-articles/2026/deploying-hermes-agent-for-free-on-amd-developer-cloud-with-open.html"
 status: published
 ---
 

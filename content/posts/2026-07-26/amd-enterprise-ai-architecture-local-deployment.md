@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Quasa
     role: publisher
+source:
+  name: "Quasa"
+  url: "https://quasa.io/media/amd-advancing-ai-2026-enterprise-ai-architecture-basics-for-startup-founders"
 status: published
 ---
 

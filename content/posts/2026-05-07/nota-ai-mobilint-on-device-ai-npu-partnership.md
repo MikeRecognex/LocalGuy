@@ -34,6 +34,9 @@ mentions:
   - name: Mobilint
   - name: EQS News
     role: publisher
+source:
+  name: "EQS News"
+  url: "https://eqs-news.com/nota-ai-mobilint-partnership"
 status: published
 ---
 

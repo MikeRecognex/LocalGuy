@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://github.com/ggml-org/llama.cpp/pull/18655"
 status: published
 ---
 

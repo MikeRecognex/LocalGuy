@@ -30,6 +30,9 @@ mentions:
     role: platform
   - name: The AI Journal
     role: publisher
+source:
+  name: "The AI Journal"
+  url: "https://www.aijournal.com/news"
 status: published
 ---
 

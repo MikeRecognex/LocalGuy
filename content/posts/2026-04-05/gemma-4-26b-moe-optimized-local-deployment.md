@@ -29,6 +29,9 @@ mentions:
   - name: Unsloth
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1scucfg/gemma_4_26b_is_the_perfect_all_around_local_model/"
 status: published
 ---
 

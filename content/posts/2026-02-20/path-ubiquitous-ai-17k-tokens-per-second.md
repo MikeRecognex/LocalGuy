@@ -30,6 +30,9 @@ tags:
   - real-time-inference
   - self-hosted
   - ubiquitousai
+source:
+  name: "Hacker News"
+  url: "https://taalas.com/the-path-to-ubiquitous-ai/"
 status: published
 ---
 

@@ -2,7 +2,9 @@
 {%- set pageTitle = title or site.name -%}
 {%- set pageDesc = description or site.description -%}
 {%- set pageImage = site.url + "/assets/" + (image if image else "og-default.png") -%}
-{%- set isArticle = layout == "layouts/post.njk" or layout == "layouts/guide.njk" -%}
+{%- set isPost = layout == "layouts/post.njk" -%}
+{%- set isGuide = layout == "layouts/guide.njk" -%}
+{%- set isArticle = isPost or isGuide -%}
 <link rel="canonical" href="{{ canonical }}">
 <meta property="og:title" content="{{ pageTitle }}">
 <meta property="og:description" content="{{ pageDesc }}">
@@ -31,22 +33,57 @@
 <meta name="twitter:description" content="{{ pageDesc }}">
 <meta name="twitter:image" content="{{ pageImage }}">
 {%- if isArticle %}
+{#- Guides are evergreen how-tos, posts are dated news notes. The distinction is
+    editorially load-bearing (see /llms.txt), so it is typed rather than flattened
+    into a generic Article. topicTags drops the classifier tags — audience and
+    sentiment labels are not keywords. -#}
+{%- set topics = tags | topicTags if tags else [] -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "{% if isGuide %}TechArticle{% else %}NewsArticle{% endif %}",
   "headline": {{ title | dump | safe }},
   "description": {{ pageDesc | dump | safe }},
   "image": "{{ pageImage }}",
+  "inLanguage": {{ site.language | dump | safe }},
+  "isAccessibleForFree": true,
   "datePublished": "{{ date | isoDate }}",
-  {%- if updated %}
-  "dateModified": "{{ updated | isoDate }}",
-  {%- else %}
-  "dateModified": "{{ date | isoDate }}",
+  "dateModified": "{{ (updated or date) | isoDate }}",
+  {%- if topics.length %}
+  "keywords": {{ topics | dump | safe }},
+  {%- endif %}
+  {%- if isGuide and difficulty %}
+  "proficiencyLevel": {{ difficulty | dump | safe }},
+  {%- endif %}
+  {%- if isPost and source.url %}
+  "isBasedOn": {
+    "@type": "WebPage",
+    "url": {{ source.url | dump | safe }}
+    {%- if source.name -%}
+    , "publisher": { "@type": "Organization", "name": {{ source.name | dump | safe }} }
+    {%- endif %}
+  },
+  {%- endif %}
+  {%- if isPost and mentions.length %}
+  "mentions": [
+    {%- for m in mentions %}
+    {
+      "@type": "{% if m.role == 'author' %}Person{% else %}Organization{% endif %}",
+      "name": {{ m.name | dump | safe }}
+      {%- if m.url -%}
+      , "url": {{ m.url | dump | safe }}
+      {%- elif m.handle -%}
+      , "url": {{ ("https://x.com/" + (m.handle | replace("@", ""))) | dump | safe }}
+      {%- endif %}
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ],
   {%- endif %}
   "author": {
     "@type": "Person",
-    "name": {{ site.author | dump | safe }}
+    "name": {{ site.author | dump | safe }},
+    "url": "{{ site.url }}/about/",
+    "sameAs": ["https://x.com/{{ site.twitterHandle | replace('@', '') }}"]
   },
   "publisher": {
     "@type": "Organization",

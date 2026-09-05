@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Gagadget.com
     role: publisher
+source:
+  name: "Gagadget.com"
+  url: "https://www.gagadget.com"
 status: published
 ---
 

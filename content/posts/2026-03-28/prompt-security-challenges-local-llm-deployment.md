@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: TrendHunter
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.trendhunter.com/trends/prompt-security-challenges"
 status: published
 ---
 

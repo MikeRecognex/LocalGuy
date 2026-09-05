@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iYVdkdnMzRUZRRXY0YlFRSWF5em5tNU9Ca2Q3dDdDY0ZwcElwN3llcHBsbHJ6bzZldE8tZ0lKMDlVUUZBOUVlbE5jTV80SEtLVHZPeVNrQ2FQMWo3LUh2Q05qcWVwalJPU0d0RC1aRGhlckNZeVE?oc=5"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
   - processor-variants
   - release
   - software-ecosystem
+source:
+  name: "Google News"
+  url: "https://chartmill.com/amd-ryzen-ai-400-series-portfolio/"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
   - rag-pipelines
   - tool-use
   - vllm
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rjb7yk/psa_if_you_want_to_test_new_models_use/"
 status: published
 ---
 

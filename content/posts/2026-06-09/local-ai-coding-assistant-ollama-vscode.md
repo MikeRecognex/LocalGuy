@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/built-a-fully-local-ai-coding-assistant-windows-ollama-and-vs-code/"
 status: published
 ---
 

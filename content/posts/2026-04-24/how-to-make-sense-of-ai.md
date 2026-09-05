@@ -28,6 +28,9 @@ mentions:
     role: source
   - name: Commoncog
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://commoncog.com/how-to-make-sense-of-ai/"
 status: published
 ---
 

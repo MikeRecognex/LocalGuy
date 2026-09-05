@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://ohdoylerules.com/tricks/how-i-use-ai-in-sublime-text/"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Tech Critter
     role: publisher
+source:
+  name: "Tech Critter"
+  url: "https://www.tech-critter.com/asus-expertbook-p1-launch-malaysia/"
 status: published
 ---
 

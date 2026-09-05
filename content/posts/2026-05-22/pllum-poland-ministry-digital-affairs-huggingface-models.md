@@ -32,6 +32,9 @@ mentions:
     role: publisher
   - name: CYFRAGOVPL
     role: model provider
+source:
+  name: "Hacker News"
+  url: "https://huggingface.co/CYFRAGOVPL"
 status: published
 ---
 

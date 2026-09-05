@@ -32,6 +32,9 @@ mentions:
     role: analyst
   - name: Notebookcheck
     role: publisher
+source:
+  name: "Notebookcheck"
+  url: "https://www.notebookcheck.net"
 status: published
 ---
 

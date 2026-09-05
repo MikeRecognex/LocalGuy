@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Yahoo Finance
     role: publisher
+source:
+  name: "Yahoo Finance"
+  url: "https://finance.yahoo.com/news/qualcomm-on-device-ai"
 status: published
 ---
 

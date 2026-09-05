@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/ollama-is-the-open-source-app-that-finally-made-free-local-ai-useful-on-my-pc/"
 status: published
 ---
 

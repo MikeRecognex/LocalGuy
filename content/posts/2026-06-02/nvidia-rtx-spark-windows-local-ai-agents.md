@@ -25,6 +25,9 @@ tags:
   - security-privacy
   - windows
   - windows-ai
+source:
+  name: "Google News"
+  url: "https://www.tweaktown.com/news/111932/nvidia-and-microsoft-team-up-to-bring-secure-on-device-ai-agents-to-windows-pcs/index.html"
 status: published
 ---
 

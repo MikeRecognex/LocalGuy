@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://cacm.acm.org/blogcacm/topological-control-of-llms-a-route-to-trustworthy-ai/"
 status: published
 ---
 

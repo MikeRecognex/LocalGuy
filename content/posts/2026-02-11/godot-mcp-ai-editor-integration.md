@@ -39,6 +39,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/tomyud1/godot-mcp"
 status: published
 ---
 

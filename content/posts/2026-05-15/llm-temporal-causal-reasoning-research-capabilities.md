@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Krellix Labs
     role: researcher
+source:
+  name: "Hacker News"
+  url: "https://github.com/krellixlabs/llm-reasoning-research"
 status: published
 ---
 

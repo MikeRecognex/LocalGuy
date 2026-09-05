@@ -34,6 +34,9 @@ mentions:
     role: source
   - name: r/LocalLLaMA
     role: community-source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1shbqmx/psa_gemma_4_template_improvements/"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://quantum.microsoft.com/en-us/insights/blogs/qir/introducing-the-microsoft-quantum-development-kit-preview"
 status: published
 ---
 

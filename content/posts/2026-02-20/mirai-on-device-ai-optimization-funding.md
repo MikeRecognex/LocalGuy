@@ -46,6 +46,9 @@ mentions:
     role: developer
   - name: Whalesbook
     role: publisher
+source:
+  name: "Whalesbook"
+  url: "https://www.whalesbook.com"
 status: published
 ---
 

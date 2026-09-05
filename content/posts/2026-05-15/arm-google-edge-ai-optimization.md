@@ -23,6 +23,9 @@ tags:
   - quantization
   - resource-optimization
   - tutorial
+source:
+  name: "Google News"
+  url: "https://blog.google/"
 status: published
 ---
 

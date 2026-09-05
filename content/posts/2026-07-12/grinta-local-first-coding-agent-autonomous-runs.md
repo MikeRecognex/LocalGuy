@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: GitHub
     role: hosting-platform
+source:
+  name: "Hacker News"
+  url: "https://github.com/josephsenior/Grinta-Coding-Agent"
 status: published
 ---
 

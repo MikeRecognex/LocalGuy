@@ -22,6 +22,9 @@ mentions:
     role: data-source
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://asanchez.dev/blog/ais-real-impact-on-software-launches-evidence-from-product-hunt/"
 status: published
 ---
 A new analysis examining Product Hunt launch data provides concrete evidence of how AI tools are impacting software development and product launches. The study offers valuable insights into real-world AI adoption patterns that could inform local LLM deployment strategies and market positioning.

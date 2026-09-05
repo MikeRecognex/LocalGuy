@@ -17,6 +17,9 @@ tags:
   - resource-constrained-ai
   - wearable-ai
   - wearables-ai
+source:
+  name: "Google News"
+  url: "https://www.gsmarena.com/snapdragon_wear_elite_arrives_with_ondevice_ai_capabilities_performance_and_battery_gains-news-71793.php"
 status: published
 ---
 

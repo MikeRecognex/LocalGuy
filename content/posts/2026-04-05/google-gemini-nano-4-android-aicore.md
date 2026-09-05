@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: WinBuzzer
     role: publisher
+source:
+  name: "WinBuzzer"
+  url: "https://winbuzzer.com/gemini-nano-4-android-aicore"
 status: published
 ---
 

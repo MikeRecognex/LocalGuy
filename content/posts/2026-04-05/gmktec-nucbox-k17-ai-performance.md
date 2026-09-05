@@ -32,6 +32,9 @@ mentions:
     role: manufacturer
   - name: xiaomitoday.com
     role: publisher
+source:
+  name: "xiaomitoday.com"
+  url: "https://xiaomitoday.com/gmktec-nucbox-k17"
 status: published
 ---
 

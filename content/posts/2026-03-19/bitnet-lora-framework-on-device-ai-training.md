@@ -34,6 +34,9 @@ mentions:
     role: developer
   - name: BTC Times
     role: publisher
+source:
+  name: "BTC Times"
+  url: "https://btctimes.com/tethers-qvac-introduces-cross-platform-bitnet-lora-framework-for-on-device-ai-training/"
 status: published
 ---
 

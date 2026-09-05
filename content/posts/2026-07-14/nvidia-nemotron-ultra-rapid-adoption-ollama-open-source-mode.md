@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: ababnews.com
     role: publisher
+source:
+  name: "ababnews.com"
+  url: "https://ababnews.com"
 status: published
 ---
 

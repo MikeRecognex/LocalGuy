@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/NousResearch/status/2070610321278988385"
 status: published
 ---
 

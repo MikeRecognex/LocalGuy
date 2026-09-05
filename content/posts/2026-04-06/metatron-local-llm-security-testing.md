@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: CyberSecurityNews
     role: publisher
+source:
+  name: "CyberSecurityNews"
+  url: "https://cybersecuritynews.com/metatron-ai-penetration-testing/"
 status: published
 ---
 

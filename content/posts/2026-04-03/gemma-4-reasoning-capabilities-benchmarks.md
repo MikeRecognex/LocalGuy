@@ -22,6 +22,9 @@ tags:
   - reasoning-performance
   - showcase
   - thinking-tokens
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sav9wg/gemma_4_is_efficient_with_thinking_tokens_but_it/"
 status: published
 ---
 

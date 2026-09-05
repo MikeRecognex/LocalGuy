@@ -17,6 +17,9 @@ tags:
   - qwen
   - qwen3-8-27b
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RNnROYnR1LW5HQ3B0V3ZuUmFicThDRkFrVHBQZTZ5Nk1sUnQ4V3cxdTVNZWpjRXAyRnNuMjBBVThLWlZ2WEh3eWNRNmxjY1p1em5PdlA5MFBRb2dFcDRNcURDU3BReU1TV0l3akdB?oc=5"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
   - on-device-inference
   - quantization
   - showcase
+source:
+  name: "디지털투데이 (Google News)"
+  url: "https://www.digitaltoday.co.kr/en/view/42973/cloud-not-needed-anymore-running-400b-class-llm-on-iphone-succeeds"
 status: published
 ---
 

@@ -19,6 +19,9 @@ tags:
   - release
   - sycl-optimization
   - vram-optimization
+source:
+  name: "llama.cpp"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10255"
 status: published
 ---
 

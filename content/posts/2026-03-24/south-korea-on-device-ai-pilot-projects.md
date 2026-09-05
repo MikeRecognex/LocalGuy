@@ -8,6 +8,9 @@ tags:
   - edge-inference
   - government
   - deployment
+source:
+  name: "디지털투데이"
+  url: "https://www.디지털투데이.com"
 status: published
 ---
 

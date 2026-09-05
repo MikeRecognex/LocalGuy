@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: ChannelLife
     role: publisher
+source:
+  name: "Google News"
+  url: "https://channellife.co.nz/story/nvidia-pushes-jetson-as-edge-hub-for-open-ai-models"
 status: published
 ---
 

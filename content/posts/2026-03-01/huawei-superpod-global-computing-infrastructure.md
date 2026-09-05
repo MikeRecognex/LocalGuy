@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: The Malaysian Reserve
     role: publisher
+source:
+  name: "The Malaysian Reserve"
+  url: "https://themalaysianreserve.com/2026/03/01/huaweis-superpod-portfolio-creates-new-option-for-global-computing-at-mwc-barcelona-2026/"
 status: published
 ---
 

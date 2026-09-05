@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim/"
 status: published
 ---
 

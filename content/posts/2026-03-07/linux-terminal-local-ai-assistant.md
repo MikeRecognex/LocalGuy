@@ -16,6 +16,9 @@ tags:
   - self-hosted
   - terminal-integration
   - tutorial
+source:
+  name: "Google News"
+  url: "https://www.makeuseof.com/local-ai-linux-terminal-troubleshooting/"
 status: published
 ---
 

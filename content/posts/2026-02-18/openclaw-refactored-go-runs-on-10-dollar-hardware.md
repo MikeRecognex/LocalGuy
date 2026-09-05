@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: picoclaw.net
     role: project-site
+source:
+  name: "Hacker News"
+  url: "https://picoclaw.net/"
 status: published
 ---
 

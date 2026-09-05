@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/llama-4-scout-on-mlx-the-complete-apple-silicon-guide-2026/"
 status: published
 ---
 

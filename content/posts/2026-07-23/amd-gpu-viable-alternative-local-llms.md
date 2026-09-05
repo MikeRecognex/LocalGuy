@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.makeuseof.com/nvidia-isnt-only-choice-for-local-llms-anymore-my-amd-test-proves-it/"
 status: published
 ---
 

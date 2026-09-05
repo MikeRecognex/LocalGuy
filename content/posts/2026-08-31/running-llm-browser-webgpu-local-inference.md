@@ -14,6 +14,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/"
 status: published
 ---
 

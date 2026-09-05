@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Hothardware.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://hothardware.com/news/apple-unveils-macbook-pro-m5-pro-m5-max"
 status: published
 ---
 

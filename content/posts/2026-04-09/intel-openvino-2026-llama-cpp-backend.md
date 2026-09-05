@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/OpenVINO-2026.1-Released"
 status: published
 ---
 

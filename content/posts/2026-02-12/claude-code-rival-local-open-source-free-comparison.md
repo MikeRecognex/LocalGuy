@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: ZDNET
     role: publisher
+source:
+  name: "ZDNET"
+  url: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0VEQ1lXZlkzUHkyUG52LW9heG50UmRNRnpqWUdaZGVaMm55SlZSeTM3a3hCWkhicGJ6NjRUWUdJNlFyLWwwWGhTc21HUFFQSkNpc0g2VmxoWXZlTU9ZRGNhY0REYnM0UUl6RTY0RUV6UFhPVFdiS2todGVNMnBaVmE3SWhfdktwRV9r?oc=5"
 status: published
 ---
 A comprehensive hands-on evaluation reveals that local, open-source alternatives to Claude's coding capabilities are reaching competitive performance levels. The testing demonstrates that developers can now run sophisticated code generation models entirely offline, without sacrificing significant quality.

@@ -23,6 +23,9 @@ tags:
   - retro-hardware
   - showcase
   - vintage-hardware-ai
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/g7q59ca8v6qg1.jpeg"
 status: published
 ---
 

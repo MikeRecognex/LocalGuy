@@ -32,6 +32,9 @@ mentions:
     role: example
   - name: CyberSecurityNews
     role: publisher
+source:
+  name: "CyberSecurityNews"
+  url: "https://www.cybersecuritynews.com/kali-linux-ollama-penetration-testing/"
 status: published
 ---
 

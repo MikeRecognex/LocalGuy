@@ -23,6 +23,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://clipthesis.com/"
 status: published
 ---
 Clipthesis demonstrates a compelling real-world use case for local LLMs and vision models: intelligent video management and search. By running inference locally on a user's machine, the application can analyze video content, generate semantic tags, and enable searching across a video library without uploading sensitive content to cloud services.

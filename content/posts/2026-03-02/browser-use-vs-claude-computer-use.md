@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://techstackups.com/comparisons/browser-use-vs-claude-computer-use/"
 status: published
 ---
 

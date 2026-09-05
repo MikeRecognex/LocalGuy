@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Tech Times
     role: publisher
+source:
+  name: "Tech Times"
+  url: "https://www.techtimes.com/articles/321742/20260727/nvidia-molt-open-sources-agentic-rl-training-that-scales-trillion-parameter-models.htm"
 status: published
 ---
 

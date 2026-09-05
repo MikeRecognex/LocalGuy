@@ -26,6 +26,9 @@ mentions:
     role: investor
   - name: TechCrunch
     role: publisher
+source:
+  name: "TechCrunch"
+  url: "https://techcrunch.com/2024/ollama-raises-65m"
 status: published
 ---
 

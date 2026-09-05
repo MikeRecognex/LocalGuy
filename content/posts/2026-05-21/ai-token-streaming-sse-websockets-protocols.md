@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://zknill.io/posts/ai-token-streaming-isnt-about-sse-vs-websockets/"
 status: published
 ---
 

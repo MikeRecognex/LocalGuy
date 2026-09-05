@@ -22,6 +22,9 @@ mentions:
     role: community member
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rik253/psa_qwen_35_requires_bf16_kv_cache_not_f16/"
 status: published
 ---
 

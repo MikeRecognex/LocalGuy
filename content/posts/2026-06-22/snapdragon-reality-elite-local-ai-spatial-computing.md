@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Sportskeeda
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.sportskeeda.com"
 status: published
 ---
 

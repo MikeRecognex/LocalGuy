@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Memeburn
     role: publisher
+source:
+  name: "Memeburn"
+  url: "https://memeburn.com/google-ai-edge-gallery-comes-to-macos-bringing-gemini-models-offline/"
 status: published
 ---
 

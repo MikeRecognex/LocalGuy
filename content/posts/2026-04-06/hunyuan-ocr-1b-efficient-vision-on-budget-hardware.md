@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Reddit
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sdrawo/hunyuanocr_1b_finally_a_viable_ocr_solution_for/"
 status: published
 ---
 

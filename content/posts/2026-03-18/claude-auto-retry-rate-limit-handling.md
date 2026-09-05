@@ -25,6 +25,9 @@ tags:
   - retry-logic
   - showcase
   - tmux-utility
+source:
+  name: "Hacker News"
+  url: "https://github.com/cheapestinference/claude-auto-retry"
 status: published
 ---
 

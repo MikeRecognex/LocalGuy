@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/benvinegar/slop-scan"
 status: published
 ---
 

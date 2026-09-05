@@ -22,6 +22,9 @@ tags:
   - qwen
   - real-time-ai-applications
   - realtime-ai-applications
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rzntv5/multitoken_prediction_mtp_for_qwen35_is_coming_to/"
 status: published
 ---
 

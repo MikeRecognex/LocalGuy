@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2"
 status: published
 ---
 

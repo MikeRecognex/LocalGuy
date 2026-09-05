@@ -24,6 +24,9 @@ mentions:
     role: co-founder
   - name: LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/l7xvpse6iyug1.jpeg"
 status: published
 ---
 

@@ -39,6 +39,9 @@ mentions:
     role: existing-solution
   - name: Binance
     role: source
+source:
+  name: "Binance"
+  url: "https://www.binance.com/en/square/post/310663649490274"
 status: published
 ---
 

@@ -34,6 +34,9 @@ mentions:
     role: hardware-manufacturer
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/linux-kernel-ai-bot-framework"
 status: published
 ---
 

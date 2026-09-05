@@ -24,6 +24,9 @@ mentions:
     role: service-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://beforeupload.com/"
 status: published
 ---
 

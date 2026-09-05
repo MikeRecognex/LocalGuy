@@ -15,6 +15,9 @@ tags:
   - model-scaling
   - news
   - quantization
+source:
+  name: "Google News"
+  url: "https://www.geekygadgets.com/running-local-ai-models-on-mac-studio-128gb/"
 status: published
 ---
 

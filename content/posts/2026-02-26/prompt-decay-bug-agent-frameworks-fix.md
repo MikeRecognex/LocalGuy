@@ -30,6 +30,9 @@ mentions:
     role: platform
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://gist.github.com/sigalovskinick/c6c88f235dc85be9ae40c4737538e8c6"
 status: published
 ---
 

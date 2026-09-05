@@ -32,6 +32,9 @@ mentions:
     role: AI chipmaker
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/en-us/news/technology/chinese-ai-chipmaker-axera-semiconductor-to-raise-379-million-via-hong-kong-ipo/ar-AA1swwCw"
 status: published
 ---
 

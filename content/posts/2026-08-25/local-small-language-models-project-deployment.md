@@ -13,6 +13,9 @@ tags:
   - resource-constrained-inference
   - small-language-models
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWjR0YllHVnRuSl9nenJGbWJ2Y1pFUDcwSWNnYWZkaFBjdjh1Y3I3ak1kTVVBTjZtaHBPc2dFT3k1WmJaRXFSSUh2cUhyc2pfbkYyUjdES0thMmdoQ0g0d1ZoMWNUdkpWYy1UdF9DSFVZTGMtaElLRmNwMGhkS00ydVpfVW1aN1M2Ymp6RTltNFo?oc=5"
 status: published
 ---
 

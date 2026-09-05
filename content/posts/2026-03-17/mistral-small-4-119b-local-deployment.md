@@ -22,6 +22,9 @@ tags:
   - quantization
   - release
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: GIGAZINE
     role: publisher
+source:
+  name: "GIGAZINE"
+  url: "https://gigazine.net/gsc_news/en/20260630-wayfinder/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: The AI Journal
     role: publisher
+source:
+  name: "The AI Journal"
+  url: "https://aijourn.com/apple-intelligence-galaxy-ai-gemini-why-your-ai-powered-phone-is-worth-repairing/"
 status: published
 ---
 

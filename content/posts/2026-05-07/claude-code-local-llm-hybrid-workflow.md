@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://msn.com/claude-code-local-llm-hybrid"
 status: published
 ---
 

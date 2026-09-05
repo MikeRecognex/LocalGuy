@@ -8,6 +8,9 @@ tags:
   - memory-optimization
   - nvidia
   - agents
+source:
+  name: "github.com"
+  url: "https://github.com/FlashML-org/FreeToken"
 status: published
 origin: manual
 ---

@@ -12,6 +12,9 @@ tags:
   - release
   - shoutflow
   - speech-to-text
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjc3aEZ1NnlwYVF2UThFZ0dKcnAxR3FMSUh4NENCbHhBU1JFTHozdjE1dV9PY2NrN19DNENvU3ljUGYxU0kwTEUzdFJPWjRJZDNRZWwwS2xRLVhQMmFLdGJFdUxsZ2lVN1FVSGxVbHpsS01uSkVuaWV0bU04QUNfLW9FMjhrS1plRWdRVEMtbEQtSXk0VUxPVkxFLXhVWHJyZ2I2cEF1dkRQT3ZK?oc=5"
 status: published
 ---
 

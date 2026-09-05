@@ -35,6 +35,9 @@ mentions:
     role: platform provider
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com/lucebox-brings-faster-local-ai-inference-to-amd-strix-halo/"
 status: published
 ---
 

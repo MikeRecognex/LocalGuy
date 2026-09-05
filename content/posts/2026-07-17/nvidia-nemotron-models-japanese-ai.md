@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/"
 status: published
 ---
 

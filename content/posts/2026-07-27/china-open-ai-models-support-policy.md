@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits"
 status: published
 ---
 

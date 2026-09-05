@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/breaking-the-speed-limit-strategies-for-17k-tokens-sec-local-inference/"
 status: published
 ---
 

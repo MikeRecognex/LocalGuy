@@ -8,6 +8,9 @@ tags:
   - tools-frameworks
   - automation
   - open-source
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

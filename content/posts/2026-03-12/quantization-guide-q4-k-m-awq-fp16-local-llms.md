@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.sitepoint.com/quantization-q4km-vs-awq-fp16-local-llms/"
 status: published
 ---
 

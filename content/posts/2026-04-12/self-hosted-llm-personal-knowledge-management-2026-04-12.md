@@ -22,6 +22,9 @@ tags:
   - self-hosted
   - self-hosted-llm
   - showcase
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

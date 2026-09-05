@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: The Motley Fool
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.fool.com/investing/2026/08/03/apples-hardware-is-ready-for-on-device-ai-and-pris/"
 status: published
 ---
 

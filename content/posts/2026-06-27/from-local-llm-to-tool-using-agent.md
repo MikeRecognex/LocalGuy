@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Towards Data Science
     role: publisher
+source:
+  name: "Towards Data Science"
+  url: "https://towardsdatascience.com/from-local-llm-to-tool-using-agent/"
 status: published
 ---
 

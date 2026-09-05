@@ -25,6 +25,9 @@ mentions:
     handle: "@JeremiahFieldhaven"
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390"
 status: published
 ---
 

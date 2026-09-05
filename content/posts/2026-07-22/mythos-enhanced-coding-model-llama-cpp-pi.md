@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi"
 status: published
 ---
 

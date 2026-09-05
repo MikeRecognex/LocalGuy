@@ -12,6 +12,9 @@ tags:
   - hardware-benchmarking
   - inference-optimization
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvX0V5TUdnTzBxV2VjXzZ0Mm9MUTFjWklUMExYdXNEMGJSYTltSlJWeXJCa3pvT2psbFp1UUs4MUtiR0d1cWFMX0FYSHRqellkWm5sZmVBdlZkaTVYNU0wZlpSdzg4Z01OTEd6cC1HX2FCOTVreGFjTUR4bG9iZw?oc=5"
 status: published
 ---
 

@@ -14,6 +14,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain"
 status: published
 ---
 

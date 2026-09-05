@@ -37,6 +37,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47598503"
 status: published
 ---
 

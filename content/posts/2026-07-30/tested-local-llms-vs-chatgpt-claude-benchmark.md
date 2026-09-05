@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/tested-the-best-local-llms-against-claude-and-chatgpt-with-one-a-pelican/"
 status: published
 ---
 

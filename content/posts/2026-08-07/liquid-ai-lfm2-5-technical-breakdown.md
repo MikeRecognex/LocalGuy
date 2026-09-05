@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Liquid AI
     role: developer
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFhtRTlrd0FWclVzWTZXb3BHaXhjal9vT3NTZ3pSQW51emRNZG9mTGpuNlpUcUpxQjBPRnRjV2FtY0p6N3FaWVNSUlFHdDRqamplVDU4QTFpRmJKWjJUZHFJY3JiTl9vckVOT0VwQ1BWSm1JZmFPVHBCNk9mc044dWpFdklfdzZwbzQzQm5yN3JUM2tJ0gGUAUFVX3lxTE1QWG1FOWt3QVZyVXNZNldvcEdpeGNqX29Pc1NnelJBbnV6ZE1kb2ZMam42WlRxSnFCME9GdGNXYW1jSno3cVpZU1JSUUd0NGpqamVUNThBMWlGYkpaMlRkcUljcmJOX29yRU5PRXBDUFZKbUlmYU9UcEI2T2ZzTjh1akV2SV93NnBvNDNCbnI3clQza0k?oc=5"
 status: published
 ---
 

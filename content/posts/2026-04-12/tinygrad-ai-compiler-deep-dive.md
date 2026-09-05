@@ -30,6 +30,9 @@ mentions:
     role: compiler
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://tinyblog-phi.vercel.app/tinygrad"
 status: published
 ---
 

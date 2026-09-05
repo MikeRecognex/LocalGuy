@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Techi
     role: publisher
+source:
+  name: "Techi"
+  url: "https://techi.com/llama-cpp-intel-gains"
 status: published
 ---
 

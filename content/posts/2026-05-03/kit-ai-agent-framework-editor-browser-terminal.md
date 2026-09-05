@@ -27,6 +27,9 @@ mentions:
     role: creator
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/raiyanyahya/kit"
 status: published
 ---
 

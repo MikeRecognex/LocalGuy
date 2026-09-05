@@ -29,6 +29,9 @@ mentions:
     role: partner
   - name: Fortune India
     role: publisher
+source:
+  name: "Fortune India"
+  url: "https://www.fortuneindia.com"
 status: published
 ---
 

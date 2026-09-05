@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: CNX Software
     role: publisher
+source:
+  name: "CNX Software"
+  url: "https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/"
 status: published
 ---
 

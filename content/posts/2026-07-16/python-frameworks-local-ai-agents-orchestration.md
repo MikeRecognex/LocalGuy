@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: KDnuggets
     role: publisher
+source:
+  name: "KDnuggets"
+  url: "https://www.kdnuggets.com/python-frameworks-local-ai-agents"
 status: published
 ---
 

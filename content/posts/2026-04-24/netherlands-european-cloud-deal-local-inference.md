@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://nltimes.nl/2026/04/24/netherlands-reaches-deal-european-cloud-company-decrease-us-tech-reliance"
 status: published
 ---
 

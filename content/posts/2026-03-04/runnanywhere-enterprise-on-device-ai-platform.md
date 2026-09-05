@@ -23,6 +23,9 @@ mentions:
     role: platform provider
   - name: RunAnywhere
     role: platform-provider
+source:
+  name: "Google News"
+  url: "https://www.tradingview.com/news/eqs:7c6b5feac094b:0-runanywhere-launches-production-grade-on-device-ai-platform-to-power-enterprise-scale-ai-on-devices/"
 status: published
 ---
 

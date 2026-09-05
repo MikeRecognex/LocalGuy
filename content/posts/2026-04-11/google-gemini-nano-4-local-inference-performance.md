@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Android Authority
     role: publisher
+source:
+  name: "Android Authority"
+  url: "https://www.androidauthority.com/gemini-nano-4-benchmarks-3655763/"
 status: published
 ---
 

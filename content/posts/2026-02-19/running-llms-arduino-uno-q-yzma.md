@@ -27,6 +27,9 @@ mentions:
     role: contributor
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://projecthub.arduino.cc/marc-edgeimpulse/running-local-llms-and-vlms-on-the-arduino-uno-q-with-yzma-74e288"
 status: published
 ---
 

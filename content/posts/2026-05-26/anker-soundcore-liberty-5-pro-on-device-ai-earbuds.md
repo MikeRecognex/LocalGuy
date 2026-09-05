@@ -32,6 +32,9 @@ mentions:
     role: manufacturer
   - name: jamonline.ph
     role: publisher
+source:
+  name: "Google News"
+  url: "https://jamonline.ph/tech-news/anker-launches-soundcore-liberty-5-pro-earbuds-with-a-touch-screen-and-an-on-device-ai-chip/"
 status: published
 ---
 

@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/openclaw-isnt-the-only-raspberry-pi-ai-toolhere-are-4-others-you-can-try-this-week/"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Mezha.net
     role: publisher
+source:
+  name: "Mezha.net"
+  url: "https://mezha.net/eng/bukvy/66b1fa14_apple_upgrades_siri/"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Wccftech
     role: publisher
+source:
+  name: "Wccftech"
+  url: "https://www.wccftech.com/news"
 status: published
 ---
 

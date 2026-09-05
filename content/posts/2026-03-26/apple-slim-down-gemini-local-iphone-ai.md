@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: The Bridge
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.thebridgechronicle.com/tech/apple-slim-down-google-gemini-iphone-ai-mp99"
 status: published
 ---
 

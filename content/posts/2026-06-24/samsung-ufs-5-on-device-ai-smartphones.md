@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: HotHardware
     role: publisher
+source:
+  name: "HotHardware"
+  url: "https://hothardware.com/news/samsung-ufs-50-doubles-smartphone-storage-speeds"
 status: published
 ---
 

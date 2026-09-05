@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: 9to5Google
     role: publisher
+source:
+  name: "Google News"
+  url: "https://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/"
 status: published
 ---
 

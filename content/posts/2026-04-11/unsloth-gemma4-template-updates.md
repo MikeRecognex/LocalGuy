@@ -27,6 +27,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sia1w6/unsloth_updated_all_gemma4_uploads/"
 status: published
 ---
 

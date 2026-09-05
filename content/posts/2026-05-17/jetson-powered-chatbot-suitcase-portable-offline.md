@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/maker-builds-offline-jetson-powered-chatbot-suitcase-50cd88f8"
 status: published
 ---
 

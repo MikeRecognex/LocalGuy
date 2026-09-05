@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-forum
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r3t8ro/nvidias_new_technique_cuts_llm_reasoning_costs_by/"
 status: published
 ---
 

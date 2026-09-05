@@ -27,6 +27,9 @@ mentions:
   - name: CERN
     role: research institution
   - name: CERN
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s5wzb3/cern_is_burning_tiny_ai_models_directly_into/"
 status: published
 ---
 

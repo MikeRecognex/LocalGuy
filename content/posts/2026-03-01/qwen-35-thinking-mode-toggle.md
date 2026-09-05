@@ -22,6 +22,9 @@ mentions:
     role: community
   - name: Unsloth
     role: tool-provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rhohqk/how_to_switch_qwen_35_thinking_onoff_without/"
 status: published
 ---
 

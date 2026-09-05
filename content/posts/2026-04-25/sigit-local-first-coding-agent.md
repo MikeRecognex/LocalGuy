@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Sigit
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/getsigit/sigit"
 status: published
 ---
 

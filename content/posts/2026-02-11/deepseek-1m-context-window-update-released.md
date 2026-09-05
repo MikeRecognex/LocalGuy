@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r1snhv/deepseek_has_launched_grayscale_testing_for_its/"
 status: published
 ---
 

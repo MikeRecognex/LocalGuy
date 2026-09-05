@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://mistral.ai/fr/products/vibe"
 status: published
 ---
 

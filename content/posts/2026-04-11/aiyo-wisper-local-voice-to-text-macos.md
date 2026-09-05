@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Aiyo28/aiyo-wisper"
 status: published
 ---
 

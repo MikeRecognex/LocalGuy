@@ -23,6 +23,9 @@ mentions:
     role: investor
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.indexventures.com/perspectives/life-the-universe-and-simile-leading-similes-series-a/"
 status: published
 ---
 Simile AI's substantial $100M Series A funding round signals significant investor confidence in local AI infrastructure solutions. While details about their specific technology stack remain limited, the funding level suggests they're working on enterprise-grade solutions that likely include local deployment capabilities and edge inference optimization.

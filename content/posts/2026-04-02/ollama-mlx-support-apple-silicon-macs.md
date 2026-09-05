@@ -26,6 +26,9 @@ mentions:
     role: platform
   - name: The Mac Observer
     role: publisher
+source:
+  name: "The Mac Observer"
+  url: "https://www.macobserver.com/news/apple-silicon-macs-run-local-ai-faster-with-ollamas-new-mlx-support/"
 status: published
 ---
 

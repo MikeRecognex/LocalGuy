@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.howtogeek.com/reasons-im-canceling-my-chatgpt-subscription-and-making-the-most-of-local-llms/"
 status: published
 ---
 

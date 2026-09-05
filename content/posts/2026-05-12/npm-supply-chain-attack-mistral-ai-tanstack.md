@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/"
 status: published
 ---
 

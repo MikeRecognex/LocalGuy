@@ -24,6 +24,9 @@ mentions:
     role: community forum
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47585025"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rb4luf/otitans_orthogonal_loras_for_gemma_3_using/"
 status: published
 ---
 

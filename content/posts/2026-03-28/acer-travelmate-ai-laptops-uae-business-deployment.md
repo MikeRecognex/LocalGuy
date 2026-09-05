@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: tbreak.ae
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.tbreak.ae/acer-travelmate-ai-laptops-launch-in-uae-for-biz"
 status: published
 ---
 

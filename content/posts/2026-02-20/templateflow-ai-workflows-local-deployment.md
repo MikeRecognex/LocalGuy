@@ -35,6 +35,9 @@ mentions:
     role: framework-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/heyaohuo/TemplateFlow"
 status: published
 ---
 

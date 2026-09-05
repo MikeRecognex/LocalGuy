@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/"
 status: published
 ---
 

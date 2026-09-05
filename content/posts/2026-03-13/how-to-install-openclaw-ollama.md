@@ -25,6 +25,9 @@ mentions:
     role: project
   - name: HackerNoon
     role: publisher
+source:
+  name: "HackerNoon"
+  url: "https://hackernoon.com/how-to-install-openclaw-with-ollama-step-by-step-tutorial"
 status: published
 ---
 

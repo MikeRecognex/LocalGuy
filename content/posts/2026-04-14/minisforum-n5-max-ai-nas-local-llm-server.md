@@ -32,6 +32,9 @@ mentions:
     role: manufacturer
   - name: Technetbook
     role: publisher
+source:
+  name: "Technetbook"
+  url: "https://www.technetbooks.com/2026/04/minisforum-n5-max-ai-nas-local-llm.html"
 status: published
 ---
 

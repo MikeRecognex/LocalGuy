@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/local-llm-chat-box-until-hermes-agent-let-run-scripts-files-jobs/"
 status: published
 ---
 

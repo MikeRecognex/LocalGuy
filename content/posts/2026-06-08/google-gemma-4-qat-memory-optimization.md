@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: GIGAZINE
     role: publisher
+source:
+  name: "Google News / GIGAZINE"
+  url: "https://gigazine.net/gsc_news/en/20260608-google-ai-gemma-4-qat/"
 status: published
 ---
 

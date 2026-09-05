@@ -20,6 +20,9 @@ tags:
   - local-deployment
   - long-horizon-reasoning
   - model-comparison
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1sbyte4"
 status: published
 ---
 

@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.phoronix.com/news/Open-Source-GreenBoost-NVIDIA"
 status: published
 ---
 

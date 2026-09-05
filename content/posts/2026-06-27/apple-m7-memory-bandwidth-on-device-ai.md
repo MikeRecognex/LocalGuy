@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Wccftech
     role: publisher
+source:
+  name: "Wccftech"
+  url: "https://wccftech.com/apple-m7-to-bring-new-on-device-ai-performance-56-higher-bandwidth-than-m5/"
 status: published
 ---
 

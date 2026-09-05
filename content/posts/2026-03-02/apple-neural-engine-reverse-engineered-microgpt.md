@@ -18,6 +18,9 @@ tags:
   - on-device-training
   - performance-optimization
   - reverse-engineering
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/vl6kd7lvpfmg1.jpeg"
 status: published
 ---
 

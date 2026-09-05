@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Geeky Gadgets
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.geeky-gadgets.com/private-llm-server-setup/"
 status: published
 ---
 

@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/memex-lab/dart_agent_core"
 status: published
 ---
 

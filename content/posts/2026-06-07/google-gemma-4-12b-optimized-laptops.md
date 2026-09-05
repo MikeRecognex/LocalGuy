@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Explosion
     role: publisher
+source:
+  name: "explosion.com"
+  url: "https://www.explosion.com/191422/googles-new-gemma-4-12b-ai-model-is-built-for-laptops/"
 status: published
 ---
 

@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Hostinger
     role: publisher
+source:
+  name: "Hostinger"
+  url: "https://www.hostinger.com"
 status: published
 ---
 

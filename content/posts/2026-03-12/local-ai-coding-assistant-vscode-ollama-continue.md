@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.sitepoint.com/local-ai-coding-assistant-vscode-ollama-continue/"
 status: published
 ---
 

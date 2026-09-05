@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: makeuseOf.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://makeuseOf.com"
 status: published
 ---
 

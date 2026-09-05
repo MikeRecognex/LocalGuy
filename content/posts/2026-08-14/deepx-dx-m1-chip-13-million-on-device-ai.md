@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: DeepX
     role: developer
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wZWR1endwblV6OVRoZDBfY1BHbVFucTdQdVhSdUVJU2Z4bW5DaDVfcWtKc0l0RmlZNHUtcjNzbjZ0M3paa2pDRDN4YnB6UndtcWhaRlZuOTdxTW1TTlhhZi1pSTA?oc=5"
 status: published
 ---
 

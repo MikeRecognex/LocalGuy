@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rh6pru/google_found_that_longer_chain_of_thought/"
 status: published
 ---
 

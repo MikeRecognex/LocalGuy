@@ -21,6 +21,9 @@ mentions:
     role: host
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/m0rvayne/mcp-osascript"
 status: published
 ---
 

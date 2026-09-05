@@ -30,6 +30,9 @@ mentions:
     role: developer
   - name: NordVPN
     role: provider
+source:
+  name: "Google News"
+  url: "https://www.ghacks.net/2026/05/04/nordvpn-adds-on-device-ai-voice-detector-to-chrome-extension-to-identify-synthetic-audio/"
 status: published
 ---
 

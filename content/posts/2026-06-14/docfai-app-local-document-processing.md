@@ -20,6 +20,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://docfai.app/features/"
 status: published
 ---
 

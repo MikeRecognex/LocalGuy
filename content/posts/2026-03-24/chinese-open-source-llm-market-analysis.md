@@ -8,6 +8,9 @@ tags:
   - model-release
   - market-analysis
   - international
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s1gm9z/the_current_state_of_the_chinese_llms_scene/"
 status: published
 ---
 

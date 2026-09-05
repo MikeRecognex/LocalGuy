@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: X
     role: platform
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/open-source-extension-lets-you-rewrite-your-x-algorithm-using-local-llm/"
 status: published
 ---
 

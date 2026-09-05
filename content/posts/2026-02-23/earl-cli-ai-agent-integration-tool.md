@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/brwse/earl"
 status: published
 ---
 

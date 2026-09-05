@@ -29,6 +29,9 @@ mentions:
     role: software-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://bun.com/blog/bun-v1.3.13"
 status: published
 ---
 

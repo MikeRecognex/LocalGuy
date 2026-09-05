@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Tech Insider
     role: publisher
+source:
+  name: "Google News"
+  url: "https://tech-insider.org/how-to-run-llm-locally-2026/"
 status: published
 ---
 

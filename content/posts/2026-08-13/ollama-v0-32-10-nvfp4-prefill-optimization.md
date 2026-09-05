@@ -14,6 +14,9 @@ tags:
   - quantisation
   - qwen-3-6
   - release
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1"
 status: published
 ---
 

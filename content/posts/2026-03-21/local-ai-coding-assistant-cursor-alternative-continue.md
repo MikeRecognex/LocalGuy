@@ -37,6 +37,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/local-ai-coding-assistant-cursor-alternative"
 status: published
 ---
 

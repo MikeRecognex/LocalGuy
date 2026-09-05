@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://stackresearch.org/blog/memory-should-decay/"
 status: published
 ---
 

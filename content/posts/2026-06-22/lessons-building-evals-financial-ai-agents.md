@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Primer
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.primerapp.com/blog/lessons-from-3-years-of-evals/"
 status: published
 ---
 

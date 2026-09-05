@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Lasso Security
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.lasso.security/blog/sandboxed-ai-agents-attack-surface"
 status: published
 ---
 

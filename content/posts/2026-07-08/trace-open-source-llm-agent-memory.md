@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: GitHub
     role: host
+source:
+  name: "Hacker News"
+  url: "https://github.com/husain34/TRACE"
 status: published
 ---
 

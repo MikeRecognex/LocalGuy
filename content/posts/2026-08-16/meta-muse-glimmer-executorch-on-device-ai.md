@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/"
 status: published
 ---
 

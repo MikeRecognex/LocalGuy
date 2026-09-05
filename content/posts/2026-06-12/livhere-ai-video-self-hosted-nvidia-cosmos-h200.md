@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://twitter.com/manassharmahere/status/2065370878519468221"
 status: published
 ---
 

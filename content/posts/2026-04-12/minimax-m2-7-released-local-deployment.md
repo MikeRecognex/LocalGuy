@@ -29,6 +29,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/MiniMaxAI/MiniMax-M2.7"
 status: published
 ---
 

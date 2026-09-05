@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle"
 status: published
 ---
 

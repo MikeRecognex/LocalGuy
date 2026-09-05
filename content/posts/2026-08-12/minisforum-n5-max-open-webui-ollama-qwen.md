@@ -15,6 +15,9 @@ tags:
   - quantisation
   - qwen-27b
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdEx3TE1BQUtXTTV0QTVMeUhvbFlZdjZKbDVRMTJxQmlxUGhiNmNCaS1lZHh4NkhTUzNmVlZVWFVSWXpYV0xDN2FQUzY5MW9fbTNGTlRER214RFdEbzhVcFN2Qm9UbWJxdFFUdXJIRUVSSzY2WmVQZkNLZnRGMldFdEdNblFweHcwVVFRaG5ZTlpaTU1pNWl0cVNjWDNvd2k5WWRVcjFYcUtwRXZHNWVkY2pabENwSUhpSGJRNUZ2YXBTR1VkV2M4cQ?oc=5"
 status: published
 ---
 

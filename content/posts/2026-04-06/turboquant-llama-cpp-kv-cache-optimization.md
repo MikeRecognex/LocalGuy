@@ -27,6 +27,9 @@ mentions:
     role: project
   - name: Fathom Journal
     role: publisher
+source:
+  name: "Fathom Journal"
+  url: "https://fathomjournal.com"
 status: published
 ---
 

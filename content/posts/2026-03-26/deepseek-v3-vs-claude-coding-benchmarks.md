@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s421zr/deepseekv3_vs_claude_sonnet_for_routine_coding/"
 status: published
 ---
 

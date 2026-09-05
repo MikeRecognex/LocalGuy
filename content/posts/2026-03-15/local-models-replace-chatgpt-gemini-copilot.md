@@ -13,6 +13,9 @@ tags:
   - open-source
   - quantization
   - self-hosted
+source:
+  name: "MSN"
+  url: "https://www.msn.com/news"
 status: published
 ---
 

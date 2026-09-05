@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s2u2p2/omnicoder_v2_dropped/"
 status: published
 ---
 

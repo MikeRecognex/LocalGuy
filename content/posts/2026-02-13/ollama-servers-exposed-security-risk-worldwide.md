@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: The Hacker News
     role: publisher
+source:
+  name: "The Hacker News"
+  url: "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pWWJOOU9xM1BncmI2QnQ4R2Y4TUFFNkdJUk53UFpIMk9ud1M3Qk5PaURvcGEtejVadnBEaFVHdi04VHQwdldKRlh1MFNYYUlsMENUVEhLMGc2NDZmOUJCMzFBUlhmMlJYOG1YSUtra0VGOC1mWFJsbkxuTQ?oc=5"
 status: published
 ---
 A comprehensive security scan has revealed that over 175,000 Ollama servers are publicly accessible without any authentication, spanning 130 countries worldwide. This massive exposure represents a significant security risk for organizations and individuals running local LLM deployments, as these servers can be accessed and potentially abused by anyone on the internet.

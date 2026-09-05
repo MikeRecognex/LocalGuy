@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Adafruit
     role: publisher
+source:
+  name: "Adafruit"
+  url: "https://blog.adafruit.com/2026/02/20/open-source-ai-ggml-joins-hugging-face-llama-cpp-stays-open-local-ais-long-term-home/"
 status: published
 ---
 

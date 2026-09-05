@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: adlrocha
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai"
 status: published
 ---
 

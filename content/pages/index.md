@@ -21,18 +21,6 @@ permalink: /
         <h1 class="hero-text">LOCAL FTW</h1>
         <p class="hero-tagline">News, guides and discovery for the local LLM community.</p>
       </div>
-
-      {%- set cloud = collections.posts | tagCloud %}
-      {%- if cloud.length %}
-      <div class="sidebar-section">
-        <h2 class="sidebar-heading">Trending Topics</h2>
-        <div class="tag-cloud" role="navigation" aria-label="Trending topics">
-        {%- for item in cloud | head(15) %}
-          <a href="/tags/{{ item.tag }}/" class="tag-cloud-item" data-weight="{{ item.weight }}">{{ item.tag }}<span class="tag-count">{{ item.count }}</span></a>
-        {%- endfor %}
-        </div>
-      </div>
-      {%- endif %}
     </div>
   </aside>
 
@@ -52,18 +40,15 @@ permalink: /
     </ul>
 
 <div class="clinic-cta">
-  <img src="/graphlogo.svg" alt="Topic Graph" class="clinic-cta-logo" />
+  <img src="/ambulogo.png" alt="AI Search" class="clinic-cta-logo" />
   <div>
-    <strong>New: Local LLM Topic Graph</strong> — Explore how topics relate to each other through shared articles with an interactive force-directed graph. <a href="/graph/">Explore &rarr;</a>
+    <strong>AI Search</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
   </div>
 </div>
 
-<div class="clinic-cta">
-  <img src="/ambulogo.png" alt="Local LLM Clinic" class="clinic-cta-logo" />
-  <div>
-    <strong>The Local LLM Clinic</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
-  </div>
-</div>
+<div class="landing-split">
+
+  <div class="landing-col-posts">
 
 {% if collections.posts.length %}
 
@@ -96,6 +81,37 @@ permalink: /
   <a href="/guides/" class="all-guides-link">All Guides &rarr;</a>
 </div>
 {% endif %}
+
+  </div>
+
+  <aside class="landing-col-graph" aria-label="Topic graph">
+    <div class="graph-panel">
+      <div class="graph-panel-head">
+        <h2>Topic Graph</h2>
+        <a href="/graph/">Full view &rarr;</a>
+      </div>
+      <div class="graph-controls">
+        <div class="graph-legend" id="graph-legend"></div>
+        <div class="graph-slider">
+          <label for="weight-slider">Min. shared articles</label>
+          <input type="range" id="weight-slider" min="2" max="8" value="4" step="1">
+          <span id="weight-value">4</span>
+        </div>
+        <div class="graph-search">
+          <label for="graph-search" class="sr-only">Find a topic</label>
+          <input type="search" id="graph-search" placeholder="Find a topic…" autocomplete="off" spellcheck="false">
+          <span id="graph-search-status" class="graph-search-status" role="status" aria-live="polite"></span>
+        </div>
+      </div>
+      <div class="graph-container" id="graph-container">
+        <svg id="graph-svg" width="100%" height="100%"></svg>
+      </div>
+    </div>
+  </aside>
+
+</div>
+
+<div class="graph-tooltip" id="graph-tooltip"></div>
 
   </div>
 </div>

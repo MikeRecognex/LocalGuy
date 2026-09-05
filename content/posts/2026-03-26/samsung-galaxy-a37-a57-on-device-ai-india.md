@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: t2online.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://t2online.in/tech/tech-news/samsung-galaxy-a37-5g-and-a57-5g-with-on-device-ai-launched-in-india-starting-at-rs-41-999/2004317"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://ddalcu.github.io/mlx-serve/"
 status: published
 ---
 

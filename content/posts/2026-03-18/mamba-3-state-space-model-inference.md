@@ -31,6 +31,9 @@ mentions:
     role: developer
   - name: together.ai
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.together.ai/blog/mamba-3"
 status: published
 ---
 

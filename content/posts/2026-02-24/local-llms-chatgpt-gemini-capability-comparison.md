@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Make Tech Easier
     role: publisher
+source:
+  name: "Make Tech Easier"
+  url: "https://maketecheasier.com/local-llms-vs-chatgpt/"
 status: published
 ---
 

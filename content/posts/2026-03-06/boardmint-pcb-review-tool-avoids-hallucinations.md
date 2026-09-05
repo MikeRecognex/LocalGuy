@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Boardmint.io
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://boardmint.io/"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: letsdatascience.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.letsdatascience.com/snapdragon-c-debuts"
 status: published
 ---
 

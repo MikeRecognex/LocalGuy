@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/gave-local-llm-email-access-without-handing-over-inbox/"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Elon Musk
   - name: Cursor
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/o5jfb7y747qg1.jpeg"
 status: published
 ---
 

@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: Marktechpost.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/"
 status: published
 ---
 

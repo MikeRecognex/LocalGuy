@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Daniel Han
     role: author
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MkRyZlVGeFU2QjJJSmcyeXlZczJidFh3MXRZOW53dDFzUWtGSk01R1VrR1JCTHhPdUt0RWpzVnF2YWV4VlA3emdoaEd1MF8tSlJRaTJNYnk2Z28?oc=5"
 status: published
 ---
 

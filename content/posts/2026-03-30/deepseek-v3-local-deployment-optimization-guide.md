@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/deepseek-v3-deployment-guide"
 status: published
 ---
 

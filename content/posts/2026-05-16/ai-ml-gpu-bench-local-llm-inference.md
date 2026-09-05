@@ -24,6 +24,9 @@ tags:
   - release
   - showcase
   - xgboost-training
+source:
+  name: "Hacker News"
+  url: "https://github.com/albedan/ai-ml-gpu-bench"
 status: published
 ---
 

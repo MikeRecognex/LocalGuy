@@ -24,6 +24,9 @@ tags:
   - release
   - resource-efficiency
   - sdk-release
+source:
+  name: "Google News"
+  url: "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/"
 status: published
 ---
 

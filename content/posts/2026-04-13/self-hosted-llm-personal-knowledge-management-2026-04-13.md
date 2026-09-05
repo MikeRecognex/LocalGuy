@@ -23,6 +23,9 @@ tags:
   - self-hosting
   - showcase
   - use-case
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

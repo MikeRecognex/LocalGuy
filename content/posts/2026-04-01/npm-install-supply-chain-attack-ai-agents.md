@@ -36,6 +36,9 @@ mentions:
     role: publisher
   - name: Axios
     role: software-library
+source:
+  name: "Hacker News"
+  url: "https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install"
 status: published
 ---
 

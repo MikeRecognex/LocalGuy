@@ -20,6 +20,9 @@ tags:
   - rag
   - release
   - voice
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r2f56h/microsoftmarkitdown/"
 status: published
 ---
 Microsoft has released MarkItDown, a comprehensive document processing tool designed to convert various file formats into markdown suitable for LLM consumption. The tool supports a wide range of formats including PDF, HTML, DOCX, PPTX, XLSX, EPUB, and Outlook messages, making it valuable for preprocessing documents before feeding them to local LLMs.

@@ -13,6 +13,9 @@ tags:
   - news
   - on-device-inference
   - pixel-11
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEozTTlVbTBGcjR6WTdidWhLVE95LTNyM09xd3FJUTNCNEtGUHllUmJPRHVzX05tcy11Q2tjNG1JMWpfbjMzZXpUSXJMMzh0aG45Mmk3dUx1Q291b3BuVU1Ldk1QaGRqNTVuQlFpb2J3d1dFMVBrQTk2cGg2bDVMcDd2Q2ZNV2piM1g2QXRqb05wcXF1WE83bnEwb2M?oc=5"
 status: published
 ---
 

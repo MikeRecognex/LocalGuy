@@ -26,6 +26,9 @@ mentions:
     role: author
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://marcgg.com/blog/2026/04/15/my-current-ai-workflow/"
 status: published
 ---
 

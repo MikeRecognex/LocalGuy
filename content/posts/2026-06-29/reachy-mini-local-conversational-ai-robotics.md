@@ -15,6 +15,9 @@ tags:
   - model-quantization
   - robotics
   - showcase
+source:
+  name: "Google News"
+  url: "https://letsdatascience.com/news/reachy-mini-adds-local-conversational-ai-61c99ec6"
 status: published
 ---
 

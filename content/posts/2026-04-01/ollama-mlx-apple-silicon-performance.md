@@ -26,6 +26,9 @@ mentions:
     role: developer
   - name: 9to5Mac
     role: publisher
+source:
+  name: "9to5Mac"
+  url: "https://9to5mac.com/2026/03/31/ollama-adopts-mlx-for-faster-ai-performance-on-apple-silicon-macs/"
 status: published
 ---
 

@@ -15,6 +15,9 @@ tags:
   - news
   - performance
   - zendnn
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRElxalZKZFUyV0VnYUtlalJBeDdXdlY1VDRwc0VSNHJIcXhaNGt1ZkMwWVpLcUxhOG1TMTY0cDVGZXVXaWdwWmxWRDRTLUlJMHF6SG9TSDBtb3A4R3hpWG9VLTdNUkJaMWJxdmw5Z2FkREtlUWduVlo3Z2I3TVNwdVAzM0kwVFE4b25Ob1I4UHgwZ1NXVTljSg?oc=5"
 status: published
 ---
 

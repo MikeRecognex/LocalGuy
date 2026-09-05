@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/finally-set-up-local-coding-assistant-inside-editor-stack-gold/"
 status: published
 ---
 

@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/local-llm-settings-most-people-never-touch/"
 status: published
 ---
 

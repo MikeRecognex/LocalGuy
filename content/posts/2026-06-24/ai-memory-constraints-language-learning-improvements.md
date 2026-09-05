@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Max Planck Institute
     role: research-institution
+source:
+  name: "Hacker News"
+  url: "https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning"
 status: published
 ---
 

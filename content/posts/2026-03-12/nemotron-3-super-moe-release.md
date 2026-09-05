@@ -15,6 +15,9 @@ tags:
   - quantization
   - release
   - self-hosted
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rqy3cx/nemotron_3_super_released/"
 status: published
 ---
 

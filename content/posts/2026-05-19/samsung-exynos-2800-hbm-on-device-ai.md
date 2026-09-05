@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Google News
     role: source
+source:
+  name: "Google News"
+  url: "https://www.androidheadlines.com/2026/05/samsung-exynos-2800-first-mobile-chip-hbm-ai.html"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com/llamacpp-now-supports-multi-token-prediction-in-beta-and-the-implications-for-local-ai-tooling-are-bigger-than-the-pr-suggests/"
 status: published
 ---
 

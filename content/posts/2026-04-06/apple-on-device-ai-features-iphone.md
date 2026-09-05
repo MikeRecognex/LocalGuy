@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Knocksense
     role: publisher
+source:
+  name: "Knocksense"
+  url: "https://knocksense.com"
 status: published
 ---
 

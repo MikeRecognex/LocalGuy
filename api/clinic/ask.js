@@ -9,7 +9,7 @@ const vector = new Index({
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions'
 const GROQ_MODEL = 'openai/gpt-oss-120b'
 
-const DEFAULT_SYSTEM_PROMPT = `You are the Local LLM Clinic, an expert assistant for LocalFTW — a community site about running AI models locally on your own hardware.
+const DEFAULT_SYSTEM_PROMPT = `You are AI Search, an expert assistant for LocalFTW — a community site about running AI models locally on your own hardware.
 
 You answer questions about local LLM use-cases, hardware, deployment, tools, and techniques based on the site's published articles provided as context.
 

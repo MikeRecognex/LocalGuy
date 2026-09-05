@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Wi-Fi Now
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.wifi-now.com/news-article/qualcomms-new-dragonwing-mbm-silicon-combines-interactive-multimedia-with-top-tier-connectivity-on-device-ai/"
 status: published
 ---
 

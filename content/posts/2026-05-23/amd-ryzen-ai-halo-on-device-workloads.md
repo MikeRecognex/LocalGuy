@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: SMBtech
     role: publisher
+source:
+  name: "SMBtech"
+  url: "https://smbtech.au/news/amd-unveils-ryzen-ai-halo-developer-platform-and-ryzen-ai-max-pro-400-series-for-on-device-ai-workloads/"
 status: published
 ---
 

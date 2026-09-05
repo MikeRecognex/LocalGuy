@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Tom's Hardware
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks"
 status: published
 ---
 

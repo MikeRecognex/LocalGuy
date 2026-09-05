@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Cybernews
     role: publisher
+source:
+  name: "Cybernews"
+  url: "https://cybernews.com/vps/best-ollama-vps/"
 status: published
 ---
 

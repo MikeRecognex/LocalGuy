@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/ai-lab-tech/triton-control"
 status: published
 ---
 

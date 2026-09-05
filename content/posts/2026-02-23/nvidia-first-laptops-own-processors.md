@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: WeRSM
     role: publisher
+source:
+  name: "WeRSM"
+  url: "https://www.wersm.com/nvidia-could-launch-its-first-laptops-with-its-own-processors/"
 status: published
 ---
 

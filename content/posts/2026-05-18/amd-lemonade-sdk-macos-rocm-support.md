@@ -31,6 +31,9 @@ mentions:
     role: publisher
   - name: Phoronix
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.phoronix.com/news/Lemonade-SDK-10.5-Released"
 status: published
 ---
 

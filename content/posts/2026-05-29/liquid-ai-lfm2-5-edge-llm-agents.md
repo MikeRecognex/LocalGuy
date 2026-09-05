@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Liquid AI
     role: developer
+source:
+  name: "Google News"
+  url: "https://tipranks.com"
 status: published
 ---
 

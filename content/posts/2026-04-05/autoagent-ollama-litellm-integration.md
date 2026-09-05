@@ -28,6 +28,9 @@ mentions:
     role: tool
   - name: Fathom Journal
     role: publisher
+source:
+  name: "Fathom Journal"
+  url: "https://fathomjournal.com/autoagent-ollama-litellm"
 status: published
 ---
 

@@ -35,6 +35,9 @@ tags:
   - rocm-optimization
   - rocm-optimizations
   - unified-memory
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/nznwscltjyng1.gif"
 status: published
 ---
 

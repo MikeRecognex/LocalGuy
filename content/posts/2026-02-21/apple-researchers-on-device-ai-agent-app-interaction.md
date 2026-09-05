@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: 9to5Mac
     role: publisher
+source:
+  name: "9to5Mac"
+  url: "https://9to5mac.com/2026/02/20/apple-researchers-develop-on-device-ai-agent-that-interacts-with-apps-for-you/"
 status: published
 ---
 

@@ -43,6 +43,9 @@ mentions:
     role: developer
   - name: Chosunbiz
     role: publisher
+source:
+  name: "Chosunbiz"
+  url: "https://www.chosunbiz.com"
 status: published
 ---
 

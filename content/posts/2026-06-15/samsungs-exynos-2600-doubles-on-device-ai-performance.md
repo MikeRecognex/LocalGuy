@@ -24,6 +24,9 @@ mentions:
     role: chipmaker
   - name: Digitimes
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.digitimes.com/news/a20260615PD207/samsung-exynos-performance-on-device-ai-mobile.html"
 status: published
 ---
 

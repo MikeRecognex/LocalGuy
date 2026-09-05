@@ -24,6 +24,9 @@ mentions:
     role: developer
   - name: AI Insider
     role: publisher
+source:
+  name: "Google News"
+  url: "https://theaiinsider.tech/2026/07/20/ollama-secures-65m-series-b-funding-to-grow-its-open-source-ai-platform/"
 status: published
 ---
 

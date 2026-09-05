@@ -31,6 +31,9 @@ mentions:
   - name: OpenBMB
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/openbmb-runs-local-agents-with-minicpm5-1b-27472042"
 status: published
 ---
 

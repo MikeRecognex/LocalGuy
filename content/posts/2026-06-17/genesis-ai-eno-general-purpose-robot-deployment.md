@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Genesis AI
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/"
 status: published
 ---
 

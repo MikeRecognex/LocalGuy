@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Neowin
     role: publisher
+source:
+  name: "Google News (Neowin)"
+  url: "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXR3ekFpdVVSc2c5bjI1aEdRZ3hHMDJuYjBtWDh6c0ZmdUk0bXNCcDJpbkctbmlFdVhfY0Z0dE40Z0tQM1Q4cDl6ZFZpZGZKaXFGZ0NyMHRRckdkRVVQT3VzRVIzdnpaZnVnMmxsUm1MYk9LN05ZS1NGSndLc3pKRXpfTlRaRnpSTzlhVDVJdWRGLVR6T2cwOUdSRXJaU2ZyTlhQbHFZeFJ6cGxKNEVDMUJ3a2jSAbQBQVVfeXFMUHV0d3pBaXVVUnNnOW4yNWhHUWd4RzAybmIwbVg4enNGZnVJNG1zQnAyaW5HLW5pRXVYX2NGdHRONGdLUDNUOHA5emRWaWRmSmlxRmdDcjB0UXJHZEVVUE91c0VSM3Z6WmZ1ZzJsbFJtTGJPSzdOWUtTRkp3S3N6SkV6X05UWkZ6Uk85YVQ1SXVkRi1Uek9nMDlHUkVyWlNmck5YUGxxWXhSenBsSjRFQzFCd2to?oc=5"
 status: published
 ---
 

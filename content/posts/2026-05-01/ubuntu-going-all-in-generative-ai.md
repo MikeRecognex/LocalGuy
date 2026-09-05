@@ -37,6 +37,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/"
 status: published
 ---
 

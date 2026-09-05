@@ -25,6 +25,9 @@ tags:
   - release
   - windows
   - windows-ai
+source:
+  name: "Google News"
+  url: "https://247wallst.com/investing/2026/03/03/amd-looks-to-displace-intel-with-worlds-first-copilot-desktop-chips/"
 status: published
 ---
 

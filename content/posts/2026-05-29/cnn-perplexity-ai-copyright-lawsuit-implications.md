@@ -36,6 +36,9 @@ mentions:
     role: litigant
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright"
 status: published
 ---
 

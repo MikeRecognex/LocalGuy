@@ -24,6 +24,9 @@ mentions:
     role: developer
   - name: StreetInsider
     role: publisher
+source:
+  name: "StreetInsider"
+  url: "https://www.streetinsider.com"
 status: published
 ---
 

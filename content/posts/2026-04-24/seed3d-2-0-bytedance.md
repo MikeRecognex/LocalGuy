@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://seed.bytedance.com/en/seed3d_2_0"
 status: published
 ---
 

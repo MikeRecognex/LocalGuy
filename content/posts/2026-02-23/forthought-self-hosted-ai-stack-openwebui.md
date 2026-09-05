@@ -25,6 +25,9 @@ mentions:
     role: project
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://github.com/MariosAdamidis/FORTHought"
 status: published
 ---
 

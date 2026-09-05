@@ -23,6 +23,9 @@ mentions:
     role: developer
   - name: findarticles.com
     role: publisher
+source:
+  name: "findarticles.com"
+  url: "https://findarticles.com"
 status: published
 ---
 

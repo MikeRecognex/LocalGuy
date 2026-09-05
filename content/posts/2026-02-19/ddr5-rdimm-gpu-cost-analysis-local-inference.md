@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r83irw/psa_ddr5_rdimm_price_passed_the_point_were_3090/"
 status: published
 ---
 

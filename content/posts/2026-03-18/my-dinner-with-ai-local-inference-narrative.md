@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://grumpygamer.com/my_dinner_with_ai/"
 status: published
 ---
 

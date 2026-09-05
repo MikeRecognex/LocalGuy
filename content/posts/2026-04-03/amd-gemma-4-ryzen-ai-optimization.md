@@ -26,6 +26,9 @@ tags:
   - strix-halo-architecture
   - vendor-lock-in-prevention
   - vendor-neutrality
+source:
+  name: "Google News"
+  url: "https://www.amd.com/en/newsroom"
 status: published
 ---
 

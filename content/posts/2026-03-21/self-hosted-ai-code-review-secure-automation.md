@@ -33,6 +33,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/self-hosted-ai-code-review"
 status: published
 ---
 

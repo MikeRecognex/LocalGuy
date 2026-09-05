@@ -16,6 +16,9 @@ tags:
   - news
   - open-source
   - quantization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1rvw9j8"
 status: published
 ---
 

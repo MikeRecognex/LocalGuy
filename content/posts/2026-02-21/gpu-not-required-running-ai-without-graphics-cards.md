@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/needed-gpu-to-run-ai-learned-these-models/"
 status: published
 ---
 

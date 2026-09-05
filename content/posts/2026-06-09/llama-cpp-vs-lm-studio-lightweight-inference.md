@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: How-To Geek
     role: publisher
+source:
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/i-switched-from-lm-studio-to-llamacpp-and-im-never-going-back-to-a-bloated-wrapper/"
 status: published
 ---
 

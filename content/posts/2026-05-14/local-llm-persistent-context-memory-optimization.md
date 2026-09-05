@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: MSN
     role: source
+source:
+  name: "MSN"
+  url: "https://www.msn.com"
 status: published
 ---
 

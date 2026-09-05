@@ -29,6 +29,9 @@ mentions:
     role: application-developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.linuxjournal.com/content/libreoffice-264-beta-experiments-ai-writing-features-and-smarter-editing-tools"
 status: published
 ---
 

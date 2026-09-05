@@ -18,6 +18,9 @@ tags:
   - minimal-footprint-deployment
   - optimization
   - uefi-deployment
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.youtube.com/watch?v=wsfKZWg-Wv4"
 status: published
 ---
 

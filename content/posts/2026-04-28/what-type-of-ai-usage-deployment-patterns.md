@@ -22,6 +22,9 @@ tags:
   - real-time-inference
   - self-hosted-deployment
   - workload-suitability
+source:
+  name: "Hacker News"
+  url: "https://jensrantil.github.io/posts/types-of-ai-implementations/"
 status: published
 ---
 

@@ -29,6 +29,9 @@ mentions:
     role: platform
   - name: OpenRouter
     role: api-provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/54xxp91s6wjg1.png"
 status: published
 ---
 

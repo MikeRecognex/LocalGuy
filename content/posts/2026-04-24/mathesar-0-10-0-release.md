@@ -28,6 +28,9 @@ mentions:
     role: tool provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://docs.mathesar.org/0.10.0/releases/0.10.0/"
 status: published
 ---
 

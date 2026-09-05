@@ -34,6 +34,9 @@ mentions:
     role: publisher
   - name: XDA-Developers
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/tailscales-new-tool-ensures-people-arent-feeding-sensitive-data-to-ai/"
 status: published
 ---
 

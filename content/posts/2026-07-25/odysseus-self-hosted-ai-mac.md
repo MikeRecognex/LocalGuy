@@ -23,6 +23,9 @@ mentions:
     role: creator
   - name: Korben
     role: publisher
+source:
+  name: "Google News"
+  url: "https://korben.info/en/odysseus-pewdiepie-self-hosted-ai-fast-mac.html"
 status: published
 ---
 

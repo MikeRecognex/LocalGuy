@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/stopped-fighting-lm-studios-model-ui-switched-ollama-setup-took-minutes/"
 status: published
 ---
 

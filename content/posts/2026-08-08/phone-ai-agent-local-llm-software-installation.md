@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "Google News (XDA)"
+  url: "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1RpT3hrUTNSY01KbDQyM3oxRloyMWVySjduTUNtdFpTUmF2ZnVmbW9CVU9adndaOUZyaEp1WmhCM2lRQlpJTXNWTk5KaEg2SXM5Yl85RGRaaVNuY2N0c251WXRuREZMUzEtemsyU2M4VEhIclJndUI3d29uNFFDRC1SOVk3RXNsNzJSTENXNk1mWUM5?oc=5"
 status: published
 ---
 

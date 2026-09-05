@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: GitHub
     role: platform
+source:
+  name: "Hacker News"
+  url: "https://github.com/apple/python-apple-fm-sdk"
 status: published
 ---
 

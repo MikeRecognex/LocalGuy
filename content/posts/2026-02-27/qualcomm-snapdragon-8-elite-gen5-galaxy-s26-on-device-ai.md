@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.thefinancialexpress.com.bd"
 status: published
 ---
 

@@ -27,6 +27,9 @@ tags:
   - qwen
   - resource-allocation
   - resource-management
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rfvjd0/qwen_35_craters_on_hard_coding_tasks_tested_all/"
 status: published
 ---
 

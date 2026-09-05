@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Propakistani
     role: publisher
+source:
+  name: "Google News"
+  url: "https://propakistani.pk/2026/05/25/deepseeks-flagship-ai-model-v4-pro-is-now-75-cheaper-permanently/"
 status: published
 ---
 

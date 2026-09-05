@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://letsdatascience.com/news/article-compares-continuous-and-static-batching-in-llm-infer-534398b2"
 status: published
 ---
 

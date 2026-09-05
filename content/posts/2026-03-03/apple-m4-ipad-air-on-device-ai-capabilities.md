@@ -17,6 +17,9 @@ tags:
   - platform-strategy
   - privacy-focused-ai
   - release
+source:
+  name: "Google News"
+  url: "https://www.findarticles.com/p/articles/mi_m0EIN/is_/ai_a_n/"
 status: published
 ---
 

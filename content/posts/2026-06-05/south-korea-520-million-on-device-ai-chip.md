@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Digitimes
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.digitimes.com/news/a20260604VL215/budget-on-device-ai-chips-development-government.html"
 status: published
 ---
 

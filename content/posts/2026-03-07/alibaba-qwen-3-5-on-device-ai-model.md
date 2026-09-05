@@ -18,6 +18,9 @@ tags:
   - qwen-3-5
   - release
   - self-hosted
+source:
+  name: "Google News"
+  url: "https://www.news18.com"
 status: published
 ---
 

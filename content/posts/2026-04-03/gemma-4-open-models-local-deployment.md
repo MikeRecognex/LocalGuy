@@ -24,6 +24,9 @@ tags:
   - privacy-preserving-ai
   - reasoning-capabilities
   - release
+source:
+  name: "Google News"
+  url: "https://blog.google/technology/ai/gemma-4-local-ai/"
 status: published
 ---
 

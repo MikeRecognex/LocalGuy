@@ -15,6 +15,9 @@ tags:
   - quantization
   - qwen-3-6
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSWlmR0xOdTYwZ0lZRTBFdkdTWUgtLWZrTTV2bi1keWZ0NHl0NDZPOHJsLS1LWkt2eldyWi1lWi1HTUdqN2RoMXI0Y1pmT1NEVF9vUE83bndiN0U?oc=5"
 status: published
 ---
 

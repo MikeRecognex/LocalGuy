@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rh43za/qwen_3535ba3b_is_beyond_expectations_its_replaced/"
 status: published
 ---
 

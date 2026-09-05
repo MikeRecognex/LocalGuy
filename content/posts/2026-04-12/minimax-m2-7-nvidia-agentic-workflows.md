@@ -24,6 +24,9 @@ tags:
   - self-hosted-deployment
   - showcase
   - tool-orchestration
+source:
+  name: "Google News"
+  url: "https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/"
 status: published
 ---
 

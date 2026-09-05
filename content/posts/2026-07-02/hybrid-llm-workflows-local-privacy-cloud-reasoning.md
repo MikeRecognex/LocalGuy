@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: TechGig
     role: publisher
+source:
+  name: "TechGig"
+  url: "https://techgig.com/"
 status: published
 ---
 

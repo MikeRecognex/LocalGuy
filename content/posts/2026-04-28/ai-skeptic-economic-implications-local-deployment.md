@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://hashutopia.com/register"
 status: published
 ---
 

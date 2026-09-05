@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: EDN
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.edn.com/ai-is-stress-testing-processor-architectures-and-risc-v-fits-the-moment/"
 status: published
 ---
 

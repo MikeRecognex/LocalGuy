@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Heretic project
     role: original-project
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rawoe4/psa_the_software_shade_is_a_fraudulent/"
 status: published
 ---
 

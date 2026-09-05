@@ -31,6 +31,9 @@ tags:
   - open-source
   - paddleocr
   - release
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r9mkgj/paddleocrvl_now_in_llamacpp/"
 status: published
 ---
 

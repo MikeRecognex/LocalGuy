@@ -25,6 +25,9 @@ tags:
   - model-optimization
   - news
   - on-device-ai
+source:
+  name: "Google News"
+  url: "https://boldnewsonline.com/"
 status: published
 ---
 

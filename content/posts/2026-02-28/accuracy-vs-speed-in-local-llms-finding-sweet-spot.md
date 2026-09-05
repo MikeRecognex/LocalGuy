@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://grigio.org/accuracy-vs-speed-in-local-llms-finding-your-sweet-spot/"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
   - open-source-code-agent
   - release
   - researcher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/mistralai/Leanstral-2603"
 status: published
 ---
 

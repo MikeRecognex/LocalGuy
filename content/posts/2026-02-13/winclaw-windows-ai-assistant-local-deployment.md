@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: itc-ou-shigou
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/itc-ou-shigou/winclaw"
 status: published
 ---
 

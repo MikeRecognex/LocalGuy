@@ -24,6 +24,9 @@ tags:
   - open-source-ai
   - privacy-compliance
   - release
+source:
+  name: "Google News"
+  url: "https://www.rttnews.com/3636815/google-launches-gemma-4-for-advanced-on-device-ai.aspx"
 status: published
 ---
 

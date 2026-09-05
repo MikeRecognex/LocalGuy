@@ -22,6 +22,9 @@ mentions:
     handle: Pankaj3112
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/Pankaj3112/pluckr"
 status: published
 ---
 

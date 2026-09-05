@@ -28,6 +28,9 @@ mentions:
   - name: Zandieh
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s62g5v/a_simple_explanation_of_the_key_idea_behind/"
 status: published
 ---
 

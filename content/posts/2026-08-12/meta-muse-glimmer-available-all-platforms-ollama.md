@@ -13,6 +13,9 @@ tags:
   - ollama
   - release
   - tool-calling
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.32.8"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Desde Linux
     role: publisher
+source:
+  name: "Google News"
+  url: "https://blog.desdelinux.net/en/January/"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://msn.com/local-llm-news-brief-lessons"
 status: published
 ---
 

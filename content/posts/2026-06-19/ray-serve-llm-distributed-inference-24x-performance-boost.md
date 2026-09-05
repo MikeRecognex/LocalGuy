@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: blockchain.news
     role: publisher
+source:
+  name: "blockchain.news"
+  url: "https://blockchain.news"
 status: published
 ---
 

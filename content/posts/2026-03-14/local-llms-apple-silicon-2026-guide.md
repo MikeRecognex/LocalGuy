@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/local-llms-apple-silicon-mac-2026/"
 status: published
 ---
 

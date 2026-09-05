@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Wccftech
     role: publisher
+source:
+  name: "Wccftech"
+  url: "https://www.wccftech.com/amd-vllm-atom-plugin/"
 status: published
 ---
 

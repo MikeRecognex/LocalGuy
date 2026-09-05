@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Gigazine
     role: publisher
+source:
+  name: "Google News"
+  url: "https://gigazine.net/gsc_news/en/20260515-dwarfstar-4/"
 status: published
 ---
 

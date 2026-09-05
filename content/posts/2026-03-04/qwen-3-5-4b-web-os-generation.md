@@ -15,6 +15,9 @@ tags:
   - qwen
   - single-pass-generation
   - small-llm-capabilities
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.youtube.com/watch?v=LsGwk2OkIMA"
 status: published
 ---
 

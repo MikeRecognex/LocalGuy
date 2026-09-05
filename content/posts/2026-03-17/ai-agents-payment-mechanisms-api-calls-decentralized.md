@@ -41,6 +41,9 @@ mentions:
     role: publisher
   - name: paywatcher
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://paragraph.com/@paywatcher/how-ai-agents-pay-for-api-calls-%E2%80%94-and-how-to-verify-they-did"
 status: published
 ---
 

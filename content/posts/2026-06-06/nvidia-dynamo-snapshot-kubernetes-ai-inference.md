@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Marktechpost
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/"
 status: published
 ---
 

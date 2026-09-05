@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medicalxpress.com/news/2026-04-ai-scans-reddit-flag-overlooked.html"
 status: published
 ---
 

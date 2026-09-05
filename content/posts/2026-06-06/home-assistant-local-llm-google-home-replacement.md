@@ -21,6 +21,9 @@ mentions:
     role: publisher
   - name: Home Assistant
     role: developer
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/i-replaced-google-home-with-home-assistant-and-a-local-llm-and-im-not-looking-back/"
 status: published
 ---
 

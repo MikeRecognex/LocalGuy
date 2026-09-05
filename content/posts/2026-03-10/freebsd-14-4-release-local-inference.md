@@ -29,6 +29,9 @@ mentions:
     role: operating-system-project
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.freebsd.org/releases/14.4R/announce/"
 status: published
 ---
 

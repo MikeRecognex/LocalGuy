@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.chuanxilu.net/en/posts/2026/06/half-life-of-protocol-compliance-2/"
 status: published
 ---
 

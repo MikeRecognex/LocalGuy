@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Potato OS
     role: project
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/fxjr1y5yytsg1"
 status: published
 ---
 

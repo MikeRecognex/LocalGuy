@@ -15,6 +15,9 @@ tags:
   - release
   - tooling
   - workflow-integration
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2"
 status: published
 ---
 

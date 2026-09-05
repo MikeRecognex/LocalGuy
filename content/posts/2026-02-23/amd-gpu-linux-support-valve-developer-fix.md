@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: Phoronix
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.phoronix.com/news/Hawaii-Macs-AMDGPU-DC-Fix"
 status: published
 ---
 

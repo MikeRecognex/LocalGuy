@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hostinger
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.hostinger.com/tutorials/ollama"
 status: published
 ---
 

@@ -22,6 +22,9 @@ mentions:
     role: publisher
   - name: Corebase
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/corebasehq/coremcp"
 status: published
 ---
 

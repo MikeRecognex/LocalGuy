@@ -23,6 +23,9 @@ tags:
   - quantization
   - qwen
   - vram-optimization
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1si8mn1/gemma_4_31b_vs_qwen_35_27b_which_is_best_for_long/"
 status: published
 ---
 

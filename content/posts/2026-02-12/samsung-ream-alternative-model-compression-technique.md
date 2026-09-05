@@ -21,6 +21,9 @@ tags:
   - release
   - samsung
   - zhipu
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r2moge/lobotomyless_reap_by_samsung_ream/"
 status: published
 ---
 

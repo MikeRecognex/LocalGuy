@@ -21,6 +21,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://asahilinux.org/2026/06/progress-report-7-1/"
 status: published
 ---
 

@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: The Manila Times
     role: publisher
+source:
+  name: "The Manila Times"
+  url: "https://www.manilatimes.com"
 status: published
 ---
 

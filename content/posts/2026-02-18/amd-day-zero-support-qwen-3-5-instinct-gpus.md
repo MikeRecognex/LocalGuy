@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: TechPowerUp
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.techpowerup.com"
 status: published
 ---
 

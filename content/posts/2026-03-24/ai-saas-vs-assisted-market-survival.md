@@ -8,6 +8,9 @@ tags:
   - deployment-models
   - saas
   - local-vs-cloud
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47500930"
 status: published
 ---
 

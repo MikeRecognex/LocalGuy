@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: The New Stack
     role: publisher
+source:
+  name: "The New Stack"
+  url: "https://thenewstack.io/how-to-integrate-vs-code-with-ollama-for-local-ai-assistance/"
 status: published
 ---
 

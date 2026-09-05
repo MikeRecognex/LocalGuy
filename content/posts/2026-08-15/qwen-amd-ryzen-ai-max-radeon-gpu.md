@@ -15,6 +15,9 @@ tags:
   - qwen-3-8-27b
   - radeon
   - ryzen-ai-max
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzQ5c1BQdlI0THVOcm5Ia2lfQzRMUUp3NjM4Uk5yWUxCdl9hNEh1RkFJVFBZVmEyZHZFcU9HdWloUVdCM3FnY3o5LXczd0dLYW04OEt1YURkdjlLREJ0R2g1X1oyaXBEelp1V0lIc0VmUXpwcmwxTDdmV0JmS0ctVDBiVTFfUmZJRUsxVFprOVBjeFBKYkkzaXZuQU9HMUV0Mkw4RVJHSnYwZkE?oc=5"
 status: published
 ---
 

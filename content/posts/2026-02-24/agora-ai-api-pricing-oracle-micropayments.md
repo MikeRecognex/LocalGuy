@@ -23,6 +23,9 @@ mentions:
     role: creator
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/cylonmolting-creator/agora-oracle"
 status: published
 ---
 

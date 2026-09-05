@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Huawei
     role: hardware-manufacturer
+source:
+  name: "Google News"
+  url: "https://www.semianalysis.com/p/deepseekv4-16t-day-0-to-day-43-performance"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: The Decoder
     role: publisher
+source:
+  name: "Google News"
+  url: "https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/"
 status: published
 ---
 

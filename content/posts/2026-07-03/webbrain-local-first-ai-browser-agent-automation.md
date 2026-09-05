@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: MarkTechPost
     role: publisher
+source:
+  name: "MarkTechPost"
+  url: "https://www.marktechpost.com/webbrain-local-first-ai-browser-agent"
 status: published
 ---
 

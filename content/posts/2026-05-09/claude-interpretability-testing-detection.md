@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://firethering.com/anthropic-nla-claude-thoughts-interpretability/"
 status: published
 ---
 

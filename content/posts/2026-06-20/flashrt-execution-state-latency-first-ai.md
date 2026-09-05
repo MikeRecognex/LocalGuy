@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: StartupHub.ai
     role: publisher
+source:
+  name: "StartupHub.ai"
+  url: "https://startuphub.ai"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rv44vo/qwen35_overthinking_anxiety_duct_tape_fix/"
 status: published
 ---
 

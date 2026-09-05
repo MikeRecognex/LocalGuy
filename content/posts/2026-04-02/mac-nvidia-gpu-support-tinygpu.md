@@ -27,6 +27,9 @@ tags:
   - unified-memory
 mentions:
   - name: TinyGPU
+source:
+  name: "r/LocalLLaMA"
+  url: "https://docs.tinygrad.org/tinygpu/"
 status: published
 ---
 

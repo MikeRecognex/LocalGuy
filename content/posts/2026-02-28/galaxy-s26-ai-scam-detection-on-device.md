@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Báo VietNamNet
     role: publisher
+source:
+  name: "Báo VietNamNet"
+  url: "https://vietnamnet.vn/en/galaxy-s26-debuts-ai-powered-scam-detection-in-bold-security-push-2493333.html"
 status: published
 ---
 

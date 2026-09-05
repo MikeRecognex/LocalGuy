@@ -18,6 +18,9 @@ tags:
   - privacy-first-ai
   - quantization
   - release
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

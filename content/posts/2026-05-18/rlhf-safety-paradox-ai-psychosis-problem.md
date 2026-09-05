@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.promptinjection.net/p/ai-psychosis-the-safety-paradox-how-rlhf-creates"
 status: published
 ---
 

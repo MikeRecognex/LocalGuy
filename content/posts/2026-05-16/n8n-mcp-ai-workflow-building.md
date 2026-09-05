@@ -26,6 +26,9 @@ mentions:
     role: platform-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/czlonkowski/n8n-mcp"
 status: published
 ---
 

@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Glass Almanac
     role: publisher
+source:
+  name: "Glass Almanac"
+  url: "https://glassalmanac.com/meta-reveals-ai-packed-smartwatch-in-2026-why-wearables-shift-now/"
 status: published
 ---
 

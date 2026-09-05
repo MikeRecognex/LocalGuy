@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: The Next Platform
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.nextplatform.com/2026/02/19/taalas-etches-ai-models-onto-transistors-to-rocket-boost-inference/"
 status: published
 ---
 

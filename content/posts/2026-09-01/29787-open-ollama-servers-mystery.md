@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://day50.dev/woahllama/"
 status: published
 ---
 

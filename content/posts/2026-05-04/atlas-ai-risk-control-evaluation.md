@@ -33,6 +33,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://atlas.latticeflow.ai/"
 status: published
 ---
 

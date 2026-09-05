@@ -25,6 +25,9 @@ tags:
   - rocm-vulkan-comparison
   - rocm-vulkan-support
   - throughput-latency
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1s0tcf7"
 status: published
 ---
 

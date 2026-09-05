@@ -19,6 +19,9 @@ tags:
   - self-hosted
   - vendor-lock-in-avoidance
   - web-ide
+source:
+  name: "Hacker News"
+  url: "https://github.com/kill136/claude-code-open"
 status: published
 ---
 

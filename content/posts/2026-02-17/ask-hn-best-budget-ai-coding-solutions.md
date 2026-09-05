@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Hacker News
     role: platform
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=47046139"
 status: published
 ---
 This discussion addresses a critical concern for developers adopting AI tools: finding cost-effective solutions without relying on expensive cloud APIs. Budget-conscious practitioners are actively seeking locally-runnable coding assistants and self-hosted alternatives that don't require subscription costs or API fees.

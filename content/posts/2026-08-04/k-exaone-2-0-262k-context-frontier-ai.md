@@ -20,6 +20,9 @@ tags:
   - quantization
   - rag-pipeline
   - release
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VWMxQjl4Q1pneXNFSUFXT1lwMjIxd1VuMWlyR2dhVnBNY0tyWDVYaXViaTdOSXlKdGoxNFNpRlZtM3hwR3VOcjFOMUVETENhcnFCSnhaSXVTN01YWFZvM2xibkM5VDJFMExhcHlBLWpacjVMVDVWZA?oc=5"
 status: published
 ---
 

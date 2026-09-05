@@ -24,6 +24,9 @@ tags:
   - model-optimization
   - optimization-technique
   - speculative-decoding
+source:
+  name: "Google News"
+  url: "https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/"
 status: published
 ---
 

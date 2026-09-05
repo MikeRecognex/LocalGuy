@@ -14,6 +14,9 @@ tags:
   - muse-glimmer
   - open-source
   - release
+source:
+  name: "Hugging Face Blog"
+  url: "https://huggingface.co/blog/muse-glimmer"
 status: published
 ---
 

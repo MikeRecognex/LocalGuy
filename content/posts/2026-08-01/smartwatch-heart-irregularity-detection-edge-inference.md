@@ -21,6 +21,9 @@ tags:
   - on-device
   - privacy-compliance
   - wearables
+source:
+  name: "Google News"
+  url: "https://financialcontent.com"
 status: published
 ---
 

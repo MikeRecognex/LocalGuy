@@ -24,6 +24,9 @@ mentions:
     role: library-developer
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/ggml-hugging-face"
 status: published
 ---
 GGML, the critical infrastructure library powering efficient local language model inference, has joined Hugging Face. This partnership represents a significant consolidation in the local LLM ecosystem, bringing together one of the most important quantisation and optimization frameworks with the world's largest model hub.

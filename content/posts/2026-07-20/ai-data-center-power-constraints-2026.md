@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.spheron.network/blog/ai-data-center-power-constraints-2026/"
 status: published
 ---
 

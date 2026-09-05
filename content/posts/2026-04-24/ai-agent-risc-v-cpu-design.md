@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: IEEE Spectrum
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://spectrum.ieee.org/ai-chip-design"
 status: published
 ---
 

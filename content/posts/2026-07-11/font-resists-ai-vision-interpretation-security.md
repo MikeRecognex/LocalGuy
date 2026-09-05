@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: Mixfont
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.mixfont.com/ghost-font"
 status: published
 ---
 

@@ -15,6 +15,9 @@ tags:
 mentions:
   - name: Hostinger
     role: publisher
+source:
+  name: "Google News (Hostinger)"
+  url: "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uclg1RHhpVzRUOFF6alFvdXV0U2lQZTF0NE9ObzlSNkI1M2NydHN1UmtuSHgxUVJpQXJYbHNOUFZpM21SUEduc29ZaE1XalJIeExveU80UG54OUlLeEItc0ZwMGNvdw?oc=5"
 status: published
 ---
 

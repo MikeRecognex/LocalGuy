@@ -30,6 +30,9 @@ mentions:
     role: platform
   - name: How-To Geek
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.howtogeek.com/best-local-ai-model-for-home-assistant-isnt-always-the-biggest/"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: HackerNoon
     role: publisher
+source:
+  name: "HackerNoon"
+  url: "https://hackernoon.com/dont-buy-an-uncensored-ai-on-a-flash-drive-what-you-can-do-instead"
 status: published
 ---
 

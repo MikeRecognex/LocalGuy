@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: TechRadar
     role: publisher
+source:
+  name: "TechRadar"
+  url: "https://www.techradar.com/pro/this-is-probably-the-most-powerful-external-gpu-enclosure-pluggables-tbt5-ai-is-the-first-one-that-explicitly-targets-local-llm-and-workstation-gpu"
 status: published
 ---
 

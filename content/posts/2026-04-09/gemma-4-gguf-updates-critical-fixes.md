@@ -28,6 +28,9 @@ mentions:
     role: developer
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
 status: published
 ---
 

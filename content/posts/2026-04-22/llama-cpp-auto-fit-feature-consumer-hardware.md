@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Startup Fortune
     role: publisher
+source:
+  name: "Startup Fortune"
+  url: "https://startupfortune.com/llamacpps-auto-fit-feature-is-quietly-reshaping-what-local-ai-inference-can-do-on-consumer-hardware/"
 status: published
 ---
 

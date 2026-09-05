@@ -13,6 +13,9 @@ tags:
   - ollama
   - open-source
   - release
+source:
+  name: "Ollama release"
+  url: "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3"
 status: published
 ---
 

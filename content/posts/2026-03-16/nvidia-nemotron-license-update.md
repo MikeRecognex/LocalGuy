@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rue6tn/nvidia_updated_the_nemotron_super_3_122b_a12b/"
 status: published
 ---
 

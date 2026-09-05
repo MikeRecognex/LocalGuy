@@ -24,6 +24,9 @@ tags:
   - rag-pipeline
   - wearable-ai
   - wearables
+source:
+  name: "Google News"
+  url: "https://www.eetasia.com/on-device-ai-to-be-in-80-of-wearables-by-2032/"
 status: published
 ---
 

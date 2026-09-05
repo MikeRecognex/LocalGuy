@@ -27,6 +27,9 @@ mentions:
     role: adopter
   - name: r/LocalLLaMA
     role: source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rbhksy/google_opensources_npu_ip_synaptics_implements_it/"
 status: published
 ---
 

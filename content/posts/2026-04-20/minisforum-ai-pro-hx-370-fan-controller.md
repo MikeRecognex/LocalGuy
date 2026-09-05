@@ -30,6 +30,9 @@ mentions:
     role: publisher
   - name: MiniPcThinker
     role: author
+source:
+  name: "Hacker News"
+  url: "https://github.com/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller/blob/main/INVESTIGATION.md"
 status: published
 ---
 

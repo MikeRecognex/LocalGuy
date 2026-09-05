@@ -17,6 +17,9 @@ tags:
   - on-device-inference
   - open-source
   - qwen
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/un4csg5odmqg1.png"
 status: published
 ---
 

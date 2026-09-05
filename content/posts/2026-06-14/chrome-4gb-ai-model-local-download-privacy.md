@@ -16,6 +16,9 @@ tags:
   - on-device-inference
   - privacy
   - user-consent
+source:
+  name: "Google News"
+  url: "https://www.msn.com"
 status: published
 ---
 

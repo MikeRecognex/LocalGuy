@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/q4-vs-q6-vs-q8-quantization-local-llms/"
 status: published
 ---
 

@@ -27,6 +27,9 @@ mentions:
     role: critical infrastructure provider
   - name: Unsloth
     role: provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://huggingface.co/unsloth/MiniMax-M2.7-GGUF"
 status: published
 ---
 

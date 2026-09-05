@@ -26,6 +26,9 @@ mentions:
     role: manufacturer
   - name: HotHardware
     role: publisher
+source:
+  name: "Google News"
+  url: "https://hothardware.com/news/msi-pro-max-edge-ai-runs-120b-local-ai-models-128gb-ram"
 status: published
 ---
 

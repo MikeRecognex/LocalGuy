@@ -29,6 +29,9 @@ tags:
   - workstation
   - workstation-hardware
   - workstation-laptop
+source:
+  name: "Google News"
+  url: "https://abs-cbn.com/hp-zbook-ultra-14-g1a-local-ai-workflows/"
 status: published
 ---
 

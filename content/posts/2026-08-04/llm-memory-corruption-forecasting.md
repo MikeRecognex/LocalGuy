@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://manazir.dev/work/anamnesis-forecasting-memory-corruption"
 status: published
 ---
 

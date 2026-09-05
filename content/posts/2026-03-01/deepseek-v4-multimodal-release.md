@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Financial Times
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/kwyym79lz7mg1.jpeg"
 status: published
 ---
 

@@ -26,6 +26,9 @@ mentions:
     role: platform
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://ml.energy/leaderboard/"
 status: published
 ---
 

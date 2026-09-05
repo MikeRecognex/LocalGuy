@@ -24,6 +24,9 @@ tags:
   - parallel-inference
   - performance
   - release
+source:
+  name: "Google News"
+  url: "https://news.google.com/"
 status: published
 ---
 

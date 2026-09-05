@@ -23,6 +23,9 @@ tags:
   - model-scaling
   - quantization
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/cg0ej8ee9ftg1.png"
 status: published
 ---
 

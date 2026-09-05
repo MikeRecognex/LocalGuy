@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: The Economic Times
     role: publisher
+source:
+  name: "The Economic Times"
+  url: "https://economictimes.indiatimes.com/"
 status: published
 ---
 

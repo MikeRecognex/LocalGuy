@@ -17,6 +17,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim"
 status: published
 ---
 

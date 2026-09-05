@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Fish Audio
     role: developer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rptdpl/fish_audio_releases_s2_opensource_controllable/"
 status: published
 ---
 

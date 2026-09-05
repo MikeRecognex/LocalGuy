@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: HackerNoon
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://hackernoon.com"
 status: published
 ---
 

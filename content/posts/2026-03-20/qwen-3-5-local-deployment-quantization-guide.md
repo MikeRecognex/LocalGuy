@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1ryljps/qwen35_is_a_working_dog/"
 status: published
 ---
 

@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: Perplexity
     role: application-provider
+source:
+  name: "Google News"
+  url: "https://www.business-standard.com/technology/tech-news/perplexity-brings-on-device-ai-workflow-to-macs-with-personal-computer-126050800493_1.html"
 status: published
 ---
 

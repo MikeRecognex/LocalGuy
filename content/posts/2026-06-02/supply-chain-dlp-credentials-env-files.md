@@ -29,6 +29,9 @@ mentions:
     role: tool-provider
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://scdlp.io/"
 status: published
 ---
 

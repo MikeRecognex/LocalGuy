@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/these-local-ai-models-work-really-well-on-a-very-old-laptop-with-no-gpu/"
 status: published
 ---
 

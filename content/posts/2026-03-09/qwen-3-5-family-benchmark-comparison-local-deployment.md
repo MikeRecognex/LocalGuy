@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Unsloth
     role: provider
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/krs0xrebcung1.png"
 status: published
 ---
 

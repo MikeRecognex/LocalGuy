@@ -32,6 +32,9 @@ mentions:
     role: publisher
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/turned-phone-local-llm-server-handles-vision-voice-tool-calls/"
 status: published
 ---
 

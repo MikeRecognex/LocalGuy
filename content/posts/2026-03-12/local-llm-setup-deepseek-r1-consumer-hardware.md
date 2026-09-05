@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.sitepoint.com/1500-local-ai-setup-deepseek-r1-consumer-gpu/"
 status: published
 ---
 

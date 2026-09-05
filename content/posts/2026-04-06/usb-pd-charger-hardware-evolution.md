@@ -30,6 +30,9 @@ mentions:
     role: manufacturer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://charge-test.com/verbatim-mini-gan-charger-140w-review-one-of-the-first-chargers-with-full-usb-pd-3-2-avs-support/"
 status: published
 ---
 

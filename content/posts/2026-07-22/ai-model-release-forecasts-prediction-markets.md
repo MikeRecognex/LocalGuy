@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://matthewlloyd.github.io/ai-model-release-timeline/"
 status: published
 ---
 

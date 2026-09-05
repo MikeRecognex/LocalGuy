@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Phoronix
     role: publisher
+source:
+  name: "Phoronix"
+  url: "https://www.phoronix.com/news/AMD-Lemonade-10.7-Released"
 status: published
 ---
 

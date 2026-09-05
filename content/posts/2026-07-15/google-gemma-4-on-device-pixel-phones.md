@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: Pkrevenue.com
     role: publisher
+source:
+  name: "Pkrevenue.com"
+  url: "https://pkrevenue.com/google-expands-on-device-ai-for-pixel-phones-with-gemma-4/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://ziraph.com/blog/apple-on-device-ai-wwdc-2026"
 status: published
 ---
 

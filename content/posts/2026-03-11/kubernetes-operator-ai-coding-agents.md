@@ -25,6 +25,9 @@ mentions:
     role: publisher
   - name: Medium
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@bobbydeveaux/we-built-an-ai-that-plans-codes-reviews-and-ships-and-then-we-used-it-to-build-itself-2c2a453b35b7"
 status: published
 ---
 

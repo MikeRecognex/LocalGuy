@@ -29,6 +29,9 @@ mentions:
     role: publisher
   - name: Next.js
     role: framework
+source:
+  name: "Hacker News"
+  url: "https://wasp.sh/blog/2026/03/26/nextjs-vs-wasp-40-percent-less-tokens-same-app"
 status: published
 ---
 

@@ -20,6 +20,9 @@ tags:
   - offline-ai
   - open-source
   - showcase
+source:
+  name: "Hacker News"
+  url: "https://github.com/IndianTinker/chatmcp"
 status: published
 ---
 

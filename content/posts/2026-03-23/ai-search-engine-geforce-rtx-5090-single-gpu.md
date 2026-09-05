@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: GameGPU
     role: publisher
+source:
+  name: "GameGPU"
+  url: "https://www.gamegpu.com"
 status: published
 ---
 

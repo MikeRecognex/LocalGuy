@@ -20,6 +20,9 @@ tags:
   - streaming
   - streaming-asr
   - swift-development
+source:
+  name: "Hacker News"
+  url: "https://old.reddit.com/r/iOSProgramming/comments/1sickii/streaming_asr_on_apple_silicon_via_coreml_and_the/"
 status: published
 ---
 

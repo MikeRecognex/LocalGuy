@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: KDnuggets
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers"
 status: published
 ---
 

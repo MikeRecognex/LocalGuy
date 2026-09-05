@@ -27,6 +27,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: source
+source:
+  name: "Hacker News"
+  url: "https://enji.ai/tech-articles/snowball-iterative-context-processing/"
 status: published
 ---
 

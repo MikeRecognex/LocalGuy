@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: findarticles.com
     role: publisher
+source:
+  name: "findarticles.com"
+  url: "https://findarticles.com"
 status: published
 ---
 A notable shift is occurring in the macOS local LLM ecosystem as GPT4All gains traction as a preferred alternative to Ollama. This development highlights the competitive landscape of local inference tools, where user experience and performance optimizations continue to evolve.

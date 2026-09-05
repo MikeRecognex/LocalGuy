@@ -34,6 +34,9 @@ mentions:
     role: publisher
   - name: SavvyCanary
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.savvycanary.com/gpus-vs-tpus-decoding-the-powerhouses-of-ai/"
 status: published
 ---
 

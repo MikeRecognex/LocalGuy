@@ -26,6 +26,9 @@ mentions:
     role: platform
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/1st1/lat.md"
 status: published
 ---
 

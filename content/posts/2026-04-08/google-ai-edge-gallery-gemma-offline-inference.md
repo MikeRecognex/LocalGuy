@@ -22,6 +22,9 @@ tags:
   - privacy-preserving-ai
   - showcase
   - speech-to-text
+source:
+  name: "Google News"
+  url: "https://analyticsinsight.net/"
 status: published
 ---
 

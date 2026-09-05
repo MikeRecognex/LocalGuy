@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Ad Hoc News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://adhocnews.com/qualcomm-snapdragon-8-gen4"
 status: published
 ---
 

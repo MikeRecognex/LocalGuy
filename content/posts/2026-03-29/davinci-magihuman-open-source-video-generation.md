@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://firethering.com/davinci-magihuman-open-source-ai-video-model/"
 status: published
 ---
 

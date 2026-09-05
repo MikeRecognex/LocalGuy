@@ -20,6 +20,9 @@ tags:
   - release
   - speech-to-text
   - voice-processing
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1sjhxrw/audio_processing_landed_in_llamaserver_with_gemma4/"
 status: published
 ---
 

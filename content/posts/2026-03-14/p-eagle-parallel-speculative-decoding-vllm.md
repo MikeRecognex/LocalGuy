@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: AWS
     role: publisher
+source:
+  name: "AWS"
+  url: "https://aws.amazon.com/blogs/machine-learning/"
 status: published
 ---
 

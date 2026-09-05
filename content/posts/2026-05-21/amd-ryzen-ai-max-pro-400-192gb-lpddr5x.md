@@ -31,6 +31,9 @@ mentions:
     role: source
   - name: ServeTheHome
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.servethehome.com/amd-reveals-ryzen-ai-max-pro-400-series-192gb-ram-for-ai-systems/"
 status: published
 ---
 

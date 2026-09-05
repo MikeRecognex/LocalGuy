@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Longsys
     role: manufacturer
+source:
+  name: "Google News"
+  url: "https://tradingview.com"
 status: published
 ---
 

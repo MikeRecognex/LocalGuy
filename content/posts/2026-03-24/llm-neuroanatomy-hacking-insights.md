@@ -8,6 +8,9 @@ tags:
   - model-optimization
   - research
   - mechanistic-interpretability
+source:
+  name: "Hacker News"
+  url: "https://dnhkng.github.io/posts/rys-ii/"
 status: published
 ---
 

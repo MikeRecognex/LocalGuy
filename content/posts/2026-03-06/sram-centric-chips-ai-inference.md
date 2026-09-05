@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: Gimlet Labs
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://gimletlabs.ai/blog/sram-centric-chips"
 status: published
 ---
 

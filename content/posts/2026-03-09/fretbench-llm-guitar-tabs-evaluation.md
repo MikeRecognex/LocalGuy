@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: FretBench
     role: project
+source:
+  name: "Hacker News"
+  url: "https://fretbench.tymo.ai/blog/i-asked-14-ai-models-to-read-guitar-tabs/"
 status: published
 ---
 

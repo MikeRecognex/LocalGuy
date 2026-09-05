@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: AWS Labs
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://awslabs.github.io/nx-plugin-for-aws/"
 status: published
 ---
 

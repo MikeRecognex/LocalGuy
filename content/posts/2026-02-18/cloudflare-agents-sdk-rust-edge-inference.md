@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Marktechpost.com
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.marktechpost.com/2026/02/17/cloudflare-releases-agents-sdk-v0-5-0-with-rewritten-cloudflare-ai-chat-and-new-rust-powered-infire-engine-for-optimized-edge-inference-performance/"
 status: published
 ---
 

@@ -23,6 +23,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1slk4di/minimax_m27_gguf_investigation_fixes_benchmarks/"
 status: published
 ---
 

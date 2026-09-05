@@ -25,6 +25,9 @@ tags:
   - on-device-inference
   - privacy-compliance
   - release
+source:
+  name: "NVIDIA Blog"
+  url: "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/"
 status: published
 ---
 

@@ -14,6 +14,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://huggingface.co/blog/jedisct1/lawyers-and-local-ai"
 status: published
 ---
 

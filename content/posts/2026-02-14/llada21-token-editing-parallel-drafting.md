@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r3yahe/llada21_100b16b_released_now_with_token_editing/"
 status: published
 ---
 

@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Let's Data Science
     role: publisher
+source:
+  name: "Let's Data Science"
+  url: "https://lets.datasciencesociety.com/"
 status: published
 ---
 

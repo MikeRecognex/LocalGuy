@@ -29,6 +29,9 @@ tags:
 mentions:
   - name: MakeUseOf
     role: publisher
+source:
+  name: "MakeUseOf"
+  url: "https://www.makeuseof.com/stopped-paying-for-chatgpt-and-switched-to-local-llm-that-runs-on-my-laptop/"
 status: published
 ---
 

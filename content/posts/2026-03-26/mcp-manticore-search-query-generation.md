@@ -31,6 +31,9 @@ mentions:
     role: tool
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://medium.com/@s_nikolaev/mcp-manticore-let-your-ai-assistant-write-manticore-queries-for-you-82b3a3efe24d"
 status: published
 ---
 

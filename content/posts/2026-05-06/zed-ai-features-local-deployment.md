@@ -31,6 +31,9 @@ mentions:
     role: software company
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://zed.dev/blog/not-building-ai-for-the-money"
 status: published
 ---
 

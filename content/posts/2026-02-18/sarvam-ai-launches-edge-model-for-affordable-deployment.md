@@ -23,6 +23,9 @@ mentions:
     role: ai-company
   - name: Sarvam AI
     role: provider
+source:
+  name: "Google News"
+  url: "https://timesofindia.com"
 status: published
 ---
 

@@ -23,6 +23,9 @@ mentions:
     role: publisher
   - name: Trend Hunter
     role: publisher
+source:
+  name: "Trend Hunter"
+  url: "https://www.trendhunter.com/trends/ainative-store"
 status: published
 ---
 

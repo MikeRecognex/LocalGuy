@@ -20,6 +20,9 @@ tags:
   - small-llms
   - wearable-ai
   - wearable-ai-deployment
+source:
+  name: "Google News"
+  url: "https://www.ubergizmo.com/articles/qualcomm-snapdragon-wear-elite-mwc-2026/"
 status: published
 ---
 

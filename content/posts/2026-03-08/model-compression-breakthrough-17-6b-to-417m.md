@@ -14,6 +14,9 @@ tags:
   - news
   - quantization
   - research
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rnw5ge/high_school_student_seeking_advice_found_an/"
 status: published
 ---
 

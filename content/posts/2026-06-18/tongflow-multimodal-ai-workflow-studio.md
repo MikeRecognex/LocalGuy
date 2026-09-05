@@ -22,6 +22,9 @@ mentions:
     role: competitor
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/user-attachments/assets/407a7e7b-2d44-4c90-8016-33d0a9f5e7d5"
 status: published
 ---
 

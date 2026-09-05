@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Decrypt
     role: publisher
+source:
+  name: "Decrypt"
+  url: "https://decrypt.co/chrome-4gb-ai-model-download"
 status: published
 ---
 

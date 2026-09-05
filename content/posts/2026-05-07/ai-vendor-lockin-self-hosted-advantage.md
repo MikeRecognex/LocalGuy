@@ -28,6 +28,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lockin-bites/"
 status: published
 ---
 

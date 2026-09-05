@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: ZDNET
     role: publisher
+source:
+  name: "ZDNET"
+  url: "https://www.zdnet.com"
 status: published
 ---
 

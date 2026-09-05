@@ -32,6 +32,9 @@ mentions:
   - name: AICore
   - name: Android Authority
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.androidauthority.com/google-aicore-storage-reason-3663061/"
 status: published
 ---
 

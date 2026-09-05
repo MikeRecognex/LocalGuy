@@ -33,6 +33,9 @@ mentions:
     role: project
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://www.utkarshapoorva.com/writing/meta-llama-trap/"
 status: published
 ---
 

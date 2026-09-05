@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: whitecell-dev
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://github.com/whitecell-dev/Semantic-Extractor/tree/main"
 status: published
 ---
 

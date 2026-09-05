@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Reddit
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rm7nq1/to_everyone_using_still_ollamalmstudio_llamaswap/"
 status: published
 ---
 

@@ -25,6 +25,9 @@ tags:
 mentions:
   - name: YTECHB
     role: publisher
+source:
+  name: "YTECHB"
+  url: "https://www.ytechb.com/how-to-build-a-self-hosted-ai-server-with-lm-studio/"
 status: published
 ---
 

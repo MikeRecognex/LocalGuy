@@ -21,6 +21,9 @@ tags:
   - model-quantization
   - release
   - vram-capacity
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1s3bb3y/intel_launches_arc_pro_b70_and_b65_with_32gb_gddr6/"
 status: published
 ---
 

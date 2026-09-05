@@ -22,6 +22,9 @@ mentions:
     role: developer
   - name: MSN
     role: publisher
+source:
+  name: "MSN"
+  url: "https://www.msn.com/amazon-custom-chips-devices-2027"
 status: published
 ---
 

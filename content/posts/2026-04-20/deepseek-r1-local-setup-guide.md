@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: SitePoint
     role: publisher
+source:
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/running-deepseek-r1-locally-your-complete-setup-guide-2026/"
 status: published
 ---
 

@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: SDxCentral
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.sdxcentral.com/news/amd-acquires-fastflowlm-to-accelerate-on-device-ai-inferencing/"
 status: published
 ---
 

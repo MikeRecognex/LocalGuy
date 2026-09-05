@@ -20,6 +20,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.xda-developers.com/x-everyday-things-a-local-llm-does-for-me-that-i-would-never-pay-a-chatbot-for/"
 status: published
 ---
 

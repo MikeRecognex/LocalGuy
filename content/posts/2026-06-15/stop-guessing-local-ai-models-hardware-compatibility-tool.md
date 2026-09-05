@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: XDA
     role: publisher
+source:
+  name: "XDA"
+  url: "https://www.xda-developers.com/open-source-tool-is-the-first-step-before-trying-out-local-ai-llms-llmfit/"
 status: published
 ---
 

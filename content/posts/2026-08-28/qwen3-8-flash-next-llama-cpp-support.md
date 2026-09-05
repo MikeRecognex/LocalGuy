@@ -15,6 +15,9 @@ tags:
   - qwen
   - qwen3-8-flash-next
   - release
+source:
+  name: "llama.cpp release"
+  url: "https://github.com/ggml-org/llama.cpp/releases/tag/b10660"
 status: published
 ---
 

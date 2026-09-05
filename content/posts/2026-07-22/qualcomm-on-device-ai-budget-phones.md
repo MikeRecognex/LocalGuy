@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: MediaTek
     role: competitor
+source:
+  name: "SmartPrix"
+  url: "https://www.smartprix.com/bytes/qualcomms-next-budget-chip-could-bring-on-device-ai-to-the-phones-most-people-actually-buy/"
 status: published
 ---
 

@@ -30,6 +30,9 @@ tags:
 mentions:
   - name: Geeky Gadgets
     role: publisher
+source:
+  name: "Geeky Gadgets"
+  url: "https://www.geekygadgets.com/running-local-llm-raspberry-pi/"
 status: published
 ---
 

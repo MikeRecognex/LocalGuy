@@ -28,6 +28,9 @@ tags:
 mentions:
   - name: Google News
     role: publisher
+source:
+  name: "Google News"
+  url: "https://blockchain.news/news/nvidia-google-gemma-4-rtx-local-ai-optimization"
 status: published
 ---
 

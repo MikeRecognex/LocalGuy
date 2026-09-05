@@ -24,6 +24,9 @@ tags:
 mentions:
   - name: Techgenyz
     role: publisher
+source:
+  name: "Techgenyz"
+  url: "https://techgenyz.com/google-gemma-4-pixel-10"
 status: published
 ---
 

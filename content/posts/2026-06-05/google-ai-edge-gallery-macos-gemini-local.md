@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: Technobezz
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.technobezz.com/news/google-launches-ai-edge-gallery-on-macos-for-running-gemini-models-locally"
 status: published
 ---
 

@@ -24,6 +24,9 @@ tags:
   - model-quantization
   - quantization
   - small-model-deployment
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/ez7e5lj5fitg1.png"
 status: published
 ---
 

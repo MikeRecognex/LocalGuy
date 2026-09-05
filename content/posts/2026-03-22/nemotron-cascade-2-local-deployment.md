@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rzud2z/dont_sleep_on_the_new_nemotron_cascade/"
 status: published
 ---
 

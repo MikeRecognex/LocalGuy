@@ -28,6 +28,9 @@ mentions:
     role: manufacturer
   - name: SammyFans
     role: publisher
+source:
+  name: "Google News"
+  url: "https://www.sammyfans.com/2026/08/02/kioxia-ufs-5-0-and-pcie-6-0-ai-nand/"
 status: published
 ---
 

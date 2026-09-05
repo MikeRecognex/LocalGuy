@@ -19,6 +19,9 @@ tags:
   - quantization-tradeoffs
 mentions:
   - name: Unsloth
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/5wtmzjgvillg1.png"
 status: published
 ---
 

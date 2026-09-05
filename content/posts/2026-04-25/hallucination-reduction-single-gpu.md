@@ -26,6 +26,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://zenodo.org/records/19703218"
 status: published
 ---
 

@@ -26,6 +26,9 @@ tags:
 mentions:
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://aliparnan.com/blog-specialists-to-builders.html"
 status: published
 ---
 

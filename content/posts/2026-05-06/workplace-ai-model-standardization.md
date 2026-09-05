@@ -30,6 +30,9 @@ mentions:
     role: discussion-platform
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=48034252"
 status: published
 ---
 

@@ -13,6 +13,9 @@ tags:
   - prismml
   - privacy
   - unified-memory
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zXzh6SFo5Zld3NTJjTy1Lb1dGbmJqeW9vazBHSzU1Y3J0bGptd3lLdzJEYTg0R1BaX0ttekFDOXhPdGVtZ2RxOVBhY3c0VUJiSnVpMlIwb1hkM1ZSWmxKZ3BjZ1VmNWI2Vm1BckRvZnJ6SVVaVVRTcVln?oc=5"
 status: published
 ---
 

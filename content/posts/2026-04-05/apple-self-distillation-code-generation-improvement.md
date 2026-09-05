@@ -21,6 +21,9 @@ tags:
   - quantization
   - self-distillation
   - small-language-models
+source:
+  name: "r/LocalLLaMA"
+  url: "https://arxiv.org/abs/2604.01193"
 status: published
 ---
 

@@ -27,6 +27,9 @@ mentions:
     role: researcher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://policylayer.com/research/state-of-mcp-2026"
 status: published
 ---
 

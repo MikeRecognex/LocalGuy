@@ -27,6 +27,9 @@ tags:
   - performance-optimization
   - resource-optimization
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://i.redd.it/snxv2h5s4ppg1.jpeg"
 status: published
 ---
 

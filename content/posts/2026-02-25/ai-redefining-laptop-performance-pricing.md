@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: Spiceworks
     role: publisher
+source:
+  name: "Spiceworks"
+  url: "https://www.spiceworks.com"
 status: published
 ---
 

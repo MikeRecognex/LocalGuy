@@ -18,6 +18,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1rabcyp"
 status: published
 ---
 

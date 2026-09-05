@@ -14,6 +14,9 @@ tags:
   - native-interop
   - open-source
   - release
+source:
+  name: "Hacker News"
+  url: "https://deemwar-products.github.io/mochallama/"
 status: published
 ---
 

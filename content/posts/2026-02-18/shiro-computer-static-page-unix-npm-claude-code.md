@@ -21,6 +21,9 @@ tags:
 mentions:
   - name: shiro.computer
     role: developer
+source:
+  name: "Hacker News"
+  url: "https://shiro.computer/about"
 status: published
 ---
 

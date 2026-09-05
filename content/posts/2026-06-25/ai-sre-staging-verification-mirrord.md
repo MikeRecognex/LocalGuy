@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: MetalBear
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://metalbear.com/blog/ai-sre-holmesgpt/"
 status: published
 ---
 

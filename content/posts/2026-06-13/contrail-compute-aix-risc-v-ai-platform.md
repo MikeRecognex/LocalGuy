@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: Epic Semiconductors
     role: manufacturer
+source:
+  name: "Hacker News"
+  url: "https://www.epicsemi.com/products/contrail/contrail-compute/"
 status: published
 ---
 

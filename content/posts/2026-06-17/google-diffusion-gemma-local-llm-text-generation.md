@@ -22,6 +22,9 @@ tags:
 mentions:
   - name: XDA Developers
     role: publisher
+source:
+  name: "XDA Developers"
+  url: "https://www.xda-developers.com/tried-google-diffusiongemma-generate-text-like-image-local-llm/"
 status: published
 ---
 

@@ -20,6 +20,9 @@ mentions:
     role: publisher
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://blog.ethereum.org/2026/07/09/triage-is-the-product"
 status: published
 ---
 

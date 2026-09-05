@@ -19,6 +19,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: publisher
+source:
+  name: "r/LocalLLaMA"
+  url: "https://v.redd.it/mfr3o67pn1mg1"
 status: published
 ---
 

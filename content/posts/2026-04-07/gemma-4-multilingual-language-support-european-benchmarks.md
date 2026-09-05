@@ -21,6 +21,9 @@ tags:
   - multilingual-llm
   - multilingual-models
   - privacy-compliance
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1seo2rq"
 status: published
 ---
 

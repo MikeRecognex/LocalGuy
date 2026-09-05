@@ -902,6 +902,80 @@ a.wikilink:hover {
   min-width: 0;
 }
 
+/* 50/50 split: posts left, topic graph right */
+.landing-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.landing-col-posts,
+.landing-col-graph {
+  min-width: 0;
+}
+
+.landing-col-posts > h2:first-child {
+  margin-top: 0;
+}
+
+.graph-panel {
+  position: sticky;
+  top: calc(var(--header-height) + 1rem);
+}
+
+.graph-panel-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.graph-panel-head h2 {
+  margin: 0;
+}
+
+.graph-panel-head a {
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.graph-panel .graph-controls {
+  gap: 0.6rem 0.9rem;
+  margin-bottom: 0.75rem;
+  justify-content: flex-start;
+}
+
+.graph-panel .graph-search input[type="search"] {
+  width: 9rem;
+}
+
+.graph-panel .graph-search-status {
+  min-width: 0;
+}
+
+.graph-panel .graph-slider {
+  font-size: 0.78rem;
+}
+
+.graph-panel .graph-slider input[type="range"] {
+  width: 72px;
+}
+
+/* Square, not letterboxed. A force-directed layout spreads to fill its box, so a
+   wide-and-short container splays the graph into a flat lozenge and wastes the
+   node spacing. Aspect ratio drives the height; the row grows to match. */
+.graph-panel .graph-container {
+  aspect-ratio: 1 / 1;
+  height: auto;
+  /* Keeps the panel shorter than the viewport so position:sticky has somewhere to
+     travel. Only binds on unusually short windows, where square gives way to fit. */
+  max-height: calc(100vh - var(--header-height) - 12rem);
+}
+
 /* Inline search button */
 .landing-search {
   margin-bottom: 1.5rem;
@@ -990,7 +1064,39 @@ a.wikilink:hover {
 
 /* Landing page needs wider max-width */
 body:has(.landing-layout) {
-  max-width: 56rem;
+  max-width: 82rem;
+}
+
+/* === Wide screens ===
+   This used to pin .landing-layout to 100vh and scroll only the posts column.
+   That model gave the graph whatever height was left over, which on a 900px-tall
+   laptop was 193px — a flat lozenge that a force-directed layout splays across.
+   A square graph cannot fit on one screen alongside the search box, join-in list
+   and clinic CTA, so the page scrolls normally instead and the graph sticks in
+   view (the base .graph-panel rule already does this). One scrollbar, not two. */
+@media (min-width: 1101px) {
+  /* stretch, not the base `start`: the graph column has to be as tall as the posts
+     column for the sticky panel inside it to have anywhere to travel. */
+  .landing-split {
+    margin-top: 1.5rem;
+    align-items: stretch;
+  }
+}
+
+/* === Narrow desktop / tablet: stack the split === */
+@media (max-width: 1100px) {
+  body:has(.landing-layout) {
+    max-width: 56rem;
+  }
+
+  .landing-split {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .graph-panel {
+    position: static;
+  }
 }
 
 /* === Mobile: collapse sidebar === */
@@ -2258,6 +2364,34 @@ footer p:last-child a:hover {
   text-align: center;
   font-weight: 600;
   color: var(--color-text);
+}
+
+.graph-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.graph-search input[type="search"] {
+  width: 11rem;
+  padding: 0.3rem 0.6rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  color: var(--color-text);
+  font-family: inherit;
+  font-size: 0.8rem;
+}
+
+.graph-search input[type="search"]:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
+}
+
+.graph-search-status {
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  min-width: 8ch;
 }
 
 .graph-container {

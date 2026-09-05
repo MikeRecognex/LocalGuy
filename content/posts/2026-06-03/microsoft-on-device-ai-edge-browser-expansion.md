@@ -27,6 +27,9 @@ tags:
   - offline-inference
   - privacy-controls
   - release
+source:
+  name: "Google News"
+  url: "https://blogs.windows.com/windows-insider/en-us/expanding-on-device-ai-in-microsoft-edge"
 status: published
 ---
 

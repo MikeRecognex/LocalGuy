@@ -20,6 +20,9 @@ mentions:
     role: developer
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://github.com/mem9-ai/mem9"
 status: published
 ---
 

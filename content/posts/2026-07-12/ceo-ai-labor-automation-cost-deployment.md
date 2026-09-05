@@ -25,6 +25,9 @@ mentions:
     role: subject
   - name: Hacker News
     role: publisher
+source:
+  name: "Hacker News"
+  url: "https://futurism.com/future-society/palo-alto-ceo-ai-arora-automation-labor"
 status: published
 ---
 

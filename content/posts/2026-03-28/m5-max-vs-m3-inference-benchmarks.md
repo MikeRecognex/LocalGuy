@@ -23,6 +23,9 @@ tags:
   - omlx-framework
   - qwen-models
   - showcase
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/gallery/1s5np41"
 status: published
 ---
 

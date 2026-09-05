@@ -24,6 +24,9 @@ mentions:
     role: publisher
   - name: Hackster.io
     role: publisher
+source:
+  name: "Hackster.io"
+  url: "https://www.hackster.io/news/how-to-run-high-performance-llms-locally-on-the-arduino-uno-q-5d537abafc29"
 status: published
 ---
 

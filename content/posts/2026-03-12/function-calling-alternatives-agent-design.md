@@ -16,6 +16,9 @@ tags:
 mentions:
   - name: Manus
     role: employer
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/"
 status: published
 ---
 

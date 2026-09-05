@@ -27,6 +27,9 @@ tags:
 mentions:
   - name: The Decoder
     role: publisher
+source:
+  name: "The Decoder"
+  url: "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/"
 status: published
 ---
 

@@ -23,6 +23,9 @@ tags:
   - quantization
   - resource-constrained-deployment
   - showcase
+source:
+  name: "Hacker News"
+  url: "https://news.ycombinator.com/item?id=48082112"
 status: published
 ---
 

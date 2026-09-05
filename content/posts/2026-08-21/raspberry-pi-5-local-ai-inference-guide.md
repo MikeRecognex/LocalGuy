@@ -15,6 +15,9 @@ tags:
   - privacy
   - raspberry-pi-5
   - tutorial
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclhvUXpyNzlSMDI2Y0tKOG1KSU5xVlZFX0h4RHBOeHdmTTBUMmJrWXVBMkpPVkxEc0p4dVFGZlJhUm9UY25qM2VDcTVTU0NZR3o2VHUzMzZfbFhTdFV3UjZLbTc2ajl5OTNyZXF5Ymg2b1J5dUN6a1A5dVFWVUtuQVV1OFNDSjBMemVlX0JvdGNoTV92dm5aa0o1ZVlvOTFtaWpqdmFIdnNyTVVHRk5ELWNscWFIblo2?oc=5"
 status: published
 ---
 

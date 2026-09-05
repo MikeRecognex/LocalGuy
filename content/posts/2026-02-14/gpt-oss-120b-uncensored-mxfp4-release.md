@@ -31,6 +31,9 @@ tags:
 mentions:
   - name: r/LocalLLaMA
     role: community-source
+source:
+  name: "r/LocalLLaMA"
+  url: "https://www.reddit.com/r/LocalLLaMA/comments/1r3zuuf/gptoss_120b_uncensored_aggressive_release_mxfp4/"
 status: published
 ---
 

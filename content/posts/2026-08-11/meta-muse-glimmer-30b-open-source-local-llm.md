@@ -15,6 +15,9 @@ tags:
   - open-source
   - open-weights
   - release
+source:
+  name: "Google News"
+  url: "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSzlhcXY2UHFyUF9jTFE3QjZGS0QwRFNmRDJYbjE3Tmt2YURQUTBjeUhpbG9YRTFwVk1nYVY5a3RZVzYzVHNZd3hfc1ZHd1ByUm5WSk5nV2ZUN21oako0TmE1TUhwNjdKajJ3Z2VSRUR2UG9SdWZYcjROUGZScXFrV1ZueldSMENmM1UwaUVsbzVZcTRpdzlOS0dSWkd2QmNBU1pyT1BDLU9NRjl5OUxtUEwxTXJHVkRlcU1FV2ZnRDNrS2I1TU41cTVtWFRnd0VmODB3UW1yZ3BMaGZWVkEyYlJmSkQwNkNqbnVMNTFDYTkyTk0?oc=5"
 status: published
 ---
 
