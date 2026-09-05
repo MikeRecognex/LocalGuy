@@ -85,73 +85,10 @@ let simulation;
 
 // Node size scale
 const maxCount = Math.max(...allNodes.map(n => n.count), 1);
-const rBase = scaleSqrt().domain([1, maxCount]).range([4, 24]);
+const rScale = scaleSqrt().domain([1, maxCount]).range([4, 24]);
 
-// Gap between touching circles, and the smallest radius still worth drawing and
-// clicking. Shared by the collide force and the density fit below, which have to
-// agree or the fit under-counts the space each node really needs.
+// Gap between touching circles.
 const COLLIDE_PAD = 4;
-const R_FLOOR = 3;
-
-// How far radii may be scaled down to fit more tags in. Shrinking is preferable
-// to discarding, but only up to a point: at much below this the nodes stop
-// reading as sized circles and the graph becomes an undifferentiated dot field.
-const MIN_SCALE = 0.55;
-
-// Fraction of the container the collision discs are allowed to cover. A force
-// layout always expands to fill its box, so this — not the force strengths — is
-// what decides whether the graph is readable. Circle packing jams at 0.907; the
-// graph was previously running at 0.76, which is why nothing had room to move.
-const TARGET_PACK = 0.25;
-
-// Set per rebuild by fitDensity(). Shrinking the nodes rather than discarding
-// them keeps the weight slider in charge of how much of the graph you see.
-let radiusScale = 1;
-const rScale = (count) => Math.max(R_FLOOR, rBase(count) * radiusScale);
-
-// Area budget alone is not enough at the low end of the weight slider. The long
-// tail of tags is almost all small nodes, so hundreds of them fit inside the
-// budget while every one of their edges still gets drawn — the box fills with a
-// grey hairball of dots. Cap the count too, at roughly one node per 4000px², and
-// let the density fit size whatever survives.
-const NODE_AREA_PER = 4000;
-
-// Shrink radii until the node set fits the density budget, and only start
-// dropping nodes once everything is already at the smallest size worth drawing.
-function fitDensity(nodes, budget) {
-  const totalAt = (k) => nodes.reduce((sum, n) => {
-    const r = Math.max(R_FLOOR, rBase(n.count) * k) + COLLIDE_PAD;
-    return sum + Math.PI * r * r;
-  }, 0);
-
-  if (totalAt(1) <= budget) return { k: 1, keep: null };
-
-  if (totalAt(MIN_SCALE) <= budget) {
-    // Monotonic in k, so bisect rather than trying to invert the floor and pad.
-    let lo = MIN_SCALE, hi = 1;
-    for (let i = 0; i < 24; i++) {
-      const mid = (lo + hi) / 2;
-      if (totalAt(mid) <= budget) lo = mid; else hi = mid;
-    }
-    return { k: lo, keep: null };
-  }
-
-  // Even at the smallest size worth drawing the set overflows, so keep the
-  // highest-count tags and drop the long tail. Filling the budget with dots is
-  // not a better answer than showing fewer tags: past roughly a hundred and
-  // fifty nodes in this box the graph reads as a grey hairball whatever the
-  // packing figure says.
-  let used = 0;
-  const keep = new Set();
-  for (const n of [...nodes].sort((a, b) => b.count - a.count)) {
-    const r = Math.max(R_FLOOR, rBase(n.count) * MIN_SCALE) + COLLIDE_PAD;
-    const disc = Math.PI * r * r;
-    if (used + disc > budget && keep.size) break;
-    used += disc;
-    keep.add(n.id);
-  }
-  return { k: MIN_SCALE, keep };
-}
 
 // Tooltip
 const tooltip = document.getElementById("graph-tooltip");
@@ -166,19 +103,16 @@ function hideTooltip() {
   tooltip.style.opacity = 0;
 }
 
-// Label visibility. The count threshold alone was fine when the graph showed a
-// few dozen nodes; at the low end of the weight slider it puts hundreds of 11px
-// labels in the box and they pile up on each other. Labels do not shrink with
-// the nodes — an unreadable label is worse than no label — so they get their own
-// budget, roughly one per 8000px² of container, awarded to the biggest tags.
-// Everything else still names itself on hover.
 const LABEL_MIN_COUNT = 5;
-const LABEL_AREA_PER = 8000;
-// Ring of container kept clear of node centres so edge labels are not cut off.
-const LABEL_INSET = 40;
+// Labels are held at a constant size on screen and counter-scaled against the
+// zoom, so these are screen pixels, not layout units.
+const LABEL_PX = 11;
+const LABEL_OFFSET_PX = 12;
 // Clear space demanded around a label before it counts as non-colliding.
 const LABEL_GAP = 2;
 let labelledIds = new Set();
+// Last applied zoom transform, needed to test labels against the viewport edge.
+let viewTransform = zoomIdentity;
 
 // --- Search highlight state ---
 // Highlighting dims rather than removes: a co-occurrence graph is only
@@ -200,12 +134,24 @@ function labelOpacity(d) {
   return d.count >= LABEL_MIN_COUNT && labelledIds.has(d.id) ? 0.9 : 0;
 }
 
-// The area budget above is only an opening guess, made before anything is laid
-// out. It cannot know that the biggest tags are also the best connected ones, so
-// they end up bunched in the middle writing over each other while the rim stays
-// anonymous. Once the simulation settles, walk the tags largest-first and keep
-// every label that does not collide with one already kept. Dropped labels still
-// appear on hover, so nothing becomes unreachable.
+// Hold labels at a constant size on screen whatever the zoom. dy is a layout
+// distance but the gap below the circle should be a screen distance, hence the
+// division: at zoom k the label lands rScale(count)*k + LABEL_OFFSET_PX from the
+// node centre on screen, regardless of k.
+function applyLabelScale(k) {
+  if (!nodeSel) return;
+  nodeSel.select("text")
+    .attr("font-size", `${LABEL_PX / k}px`)
+    .attr("dy", d => rScale(d.count) + LABEL_OFFSET_PX / k);
+}
+
+// Which labels are legible depends on the zoom, not on the tag's rank: at a wide
+// view only the big well-separated tags have room, and zooming in should reveal
+// the rest rather than leaving them permanently hidden. So decide by collision
+// at the current scale — walk the tags largest-first and keep every label that
+// does not overlap one already kept. Because every label is scaled by the same
+// factor, testing overlap in layout units gives the same answer as testing it in
+// screen pixels. Dropped labels still appear on hover, so nothing is unreachable.
 function declutterLabels() {
   if (!nodeSel) return;
   const placed = [];
@@ -215,6 +161,10 @@ function declutterLabels() {
     .filter(({ d }) => d.count >= LABEL_MIN_COUNT)
     .sort((a, b) => b.d.count - a.d.count);
 
+  const width = container.clientWidth;
+  const height = container.clientHeight;
+  const { k, x: tx, y: ty } = viewTransform;
+
   for (const { el, d } of entries) {
     const bb = el.querySelector("text").getBBox();
     const box = {
@@ -223,6 +173,10 @@ function declutterLabels() {
       x2: d.x + bb.x + bb.width + LABEL_GAP,
       y2: d.y + bb.y + bb.height + LABEL_GAP,
     };
+    // A label the viewport cuts in half is worse than no label, and once the
+    // opening zoom hits its floor the frame no longer guarantees they all fit.
+    if (box.x1 * k + tx < 0 || box.x2 * k + tx > width) continue;
+    if (box.y1 * k + ty < 0 || box.y2 * k + ty > height) continue;
     if (placed.some((p) => box.x1 < p.x2 && p.x1 < box.x2 && box.y1 < p.y2 && p.y1 < box.y2)) continue;
     placed.push(box);
     keep.add(d.id);
@@ -332,7 +286,11 @@ function applyHighlight() {
   }
 }
 
+// Set by rebuildGraph, consumed once by the simulation's "end" handler.
+let pendingFit = false;
+
 function rebuildGraph() {
+  pendingFit = true;
   const minWeight = parseInt(document.getElementById("weight-slider").value, 10);
 
   // Filter edges by weight threshold and hidden categories
@@ -351,42 +309,15 @@ function rebuildGraph() {
     connectedIds.add(e.source);
     connectedIds.add(e.target);
   }
-  const candidateNodes = allNodes
+  const filteredNodes = allNodes
     .filter(n => connectedIds.has(n.id) && !hiddenCategories.has(n.category))
     .map(n => ({ ...n }));
 
   const width = container.clientWidth;
   const height = container.clientHeight;
 
-  // Size the nodes to the box before drawing anything. Both are functions of
-  // container area, so the small homepage panel and the full-page graph each
-  // show as much as they can hold without either needing to know which it is.
-  const ranked = [...candidateNodes].sort((a, b) => b.count - a.count);
-  const shortlist = ranked.slice(0, Math.max(8, Math.round((width * height) / NODE_AREA_PER)));
-  const fit = fitDensity(shortlist, TARGET_PACK * width * height);
-  radiusScale = fit.k;
-  const keptIds = fit.keep || new Set(shortlist.map((n) => n.id));
-
-  labelledIds = new Set(
-    candidateNodes
-      .filter((n) => keptIds.has(n.id))
-      .sort((a, b) => b.count - a.count)
-      .slice(0, Math.max(4, Math.round((width * height) / LABEL_AREA_PER)))
-      .map((n) => n.id)
-  );
-
-  // Re-derive edges against the kept set, then drop anything the pruning left
-  // stranded — an isolated node in a co-occurrence graph carries no information.
-  const keptEdges = filteredEdges.filter(e => keptIds.has(e.source) && keptIds.has(e.target));
-  const stillConnected = new Set();
-  for (const e of keptEdges) {
-    stillConnected.add(e.source);
-    stillConnected.add(e.target);
-  }
-  const filteredNodes = candidateNodes.filter(n => stillConnected.has(n.id));
-
   // Deep-copy edges with string IDs (d3 replaces with object refs)
-  const edgeCopies = keptEdges.map(e => ({
+  const edgeCopies = filteredEdges.map(e => ({
     source: e.source,
     target: e.target,
     weight: e.weight,
@@ -480,34 +411,22 @@ function rebuildGraph() {
   linkSel = link;
   applyHighlight();
 
-  // The link distance and charge used to be constants tuned for a few dozen
-  // nodes. Once the slider can put five hundred in the same box those constants
-  // describe a layout far larger than the container, and the graph spills out of
-  // frame no matter how small the nodes are drawn. Spreading n nodes evenly over
-  // the box gives each one a cell of side sqrt(area / n), which is the distance
-  // neighbours should sit apart — and at ~46 nodes in the homepage panel it comes
-  // out at 81px, i.e. the 80 that was hand-tuned here originally.
-  //
-  // The cloud settles into a disc rather than filling the corners, so the area
-  // to divide up is the box's inscribed circle, inset to leave the outermost
-  // labels somewhere to sit.
-  const cloudR = Math.max(40, Math.min(width, height) / 2 - LABEL_INSET);
-  const spacing = Math.sqrt((Math.PI * cloudR * cloudR) / filteredNodes.length);
-  const spacingRatio = Math.min(1, spacing / 80);
-
-  // Force simulation
+  // The layout runs at a fixed, comfortable scale — 80px between linked nodes,
+  // full-size circles — however many nodes there are, and the view is then zoomed
+  // to fit in fitToView(). Previously the layout was squeezed into container
+  // coordinates instead, which meant more nodes could only be bought by making
+  // every node smaller. That was the wrong trade: the graph pans and zooms, so
+  // the container is a viewport onto the layout, not a box the layout must fit.
   simulation = forceSimulation(filteredNodes)
-    .force("link", forceLink(edgeCopies).id(d => d.id).distance(spacing).strength(d => d.weight / maxWeight * 0.5))
-    .force("charge", forceManyBody().strength(-150 * spacingRatio))
+    .force("link", forceLink(edgeCopies).id(d => d.id).distance(80).strength(d => d.weight / maxWeight * 0.5))
+    .force("charge", forceManyBody().strength(-150))
     .force("center", forceCenter(width / 2, height / 2))
     .force("collide", forceCollide().radius(d => rScale(d.count) + COLLIDE_PAD))
-    // forceCenter only shifts the centre of mass; it does nothing to stop the
-    // cloud drifting past the edges, which clipped the outer labels. These pull
-    // each node individually toward the middle. Weak on purpose: with the density
-    // budget above doing the real work there is room to spare, so this only has
-    // to stop outliers wandering out of frame, not compress the layout.
-    .force("x", forceX(width / 2).strength(0.08))
-    .force("y", forceY(height / 2).strength(0.08))
+    // A weak tether so disconnected components do not drift apart indefinitely
+    // under charge alone, which would shrink the fit until everything is a dot.
+    // Too weak to pull the clusters together.
+    .force("x", forceX(width / 2).strength(0.02))
+    .force("y", forceY(height / 2).strength(0.02))
     .on("tick", () => {
       link
         .attr("x1", d => d.source.x)
@@ -516,16 +435,121 @@ function rebuildGraph() {
         .attr("y2", d => d.target.y);
       node.attr("transform", d => `translate(${d.x},${d.y})`);
     })
-    .on("end", declutterLabels);
+    // Dragging a node also reheats the simulation, and re-framing the view every
+    // time someone lets go of a node — undoing whatever they had zoomed to — is
+    // worse than leaving it be. Only the rebuild that armed the flag gets a fit.
+    .on("end", () => {
+      if (!pendingFit) return;
+      pendingFit = false;
+      fitToView();
+    });
 }
 
 // --- Zoom ---
+
+// Frame the settled layout in the container. This is what lets the layout run at
+// its natural size: the weight slider changes how many nodes there are, and the
+// view scales to suit rather than the nodes being shrunk to fit a fixed box.
+const FIT_PAD = 8;
+// Fraction of nodes allowed to fall outside the opening frame at each edge, and
+// the scale that frame may not go below.
+const FIT_QUANTILE = 0.04;
+const FIT_MIN_SCALE = 0.3;
+
+function quantile(sorted, q) {
+  const i = (sorted.length - 1) * q;
+  const lo = Math.floor(i);
+  const hi = Math.ceil(i);
+  return sorted[lo] + (sorted[hi] - sorted[lo]) * (i - lo);
+}
+
+// Frame where the nodes actually are, not their absolute extremes. A force
+// layout flings a handful of weakly-connected tags a long way out, and fitting
+// to those shrinks the dense middle — the part worth looking at — into an
+// illegible speck while the labels that win the declutter are the outliers,
+// because they are the only ones with room. Trimming a few per cent from each
+// edge frames the mass instead; the strays are still there to pan to.
+function fitBounds(includeLabels) {
+  const data = nodeSel.data();
+  const xs = data.map(d => d.x).sort((a, b) => a - b);
+  const ys = data.map(d => d.y).sort((a, b) => a - b);
+  const pad = rScale(maxCount) + FIT_PAD;
+  let x0 = quantile(xs, FIT_QUANTILE) - pad;
+  let x1 = quantile(xs, 1 - FIT_QUANTILE) + pad;
+  let y0 = quantile(ys, FIT_QUANTILE) - pad;
+  let y1 = quantile(ys, 1 - FIT_QUANTILE) + pad;
+
+  if (includeLabels) {
+    const [lx0, ly0, lx1, ly1] = [x0, y0, x1, y1];
+    nodeSel.each(function (d) {
+      // Only labels inside the frame get to widen it, or a stray tag's label
+      // would undo the trimming above.
+      if (d.x < lx0 || d.x > lx1 || d.y < ly0 || d.y > ly1) return;
+      const t = this.querySelector("text");
+      if (+t.getAttribute("opacity") < 0.05) return;
+      const bb = t.getBBox();
+      x0 = Math.min(x0, d.x + bb.x);
+      y0 = Math.min(y0, d.y + bb.y);
+      x1 = Math.max(x1, d.x + bb.x + bb.width);
+      y1 = Math.max(y1, d.y + bb.y + bb.height);
+    });
+  }
+  return { x0, y0, x1, y1 };
+}
+
+function applyFit(b) {
+  const width = container.clientWidth;
+  const height = container.clientHeight;
+  // Never zoom past 1:1 — a handful of nodes should sit at their design size in
+  // the middle of the panel, not be blown up to fill it — and never open below
+  // FIT_MIN_SCALE, where nodes stop being distinguishable. Past that point the
+  // opening view shows part of the graph and you pan or zoom out for the rest,
+  // which is the point of having pan and zoom.
+  const k = Math.max(
+    FIT_MIN_SCALE,
+    Math.min(1, width / (b.x1 - b.x0), height / (b.y1 - b.y0))
+  );
+  svg.call(
+    zoomBehavior.transform,
+    zoomIdentity
+      .translate((width - k * (b.x0 + b.x1)) / 2, (height - k * (b.y0 + b.y1)) / 2)
+      .scale(k)
+  );
+  return k;
+}
+
+function fitToView() {
+  if (!nodeSel || !nodeSel.size()) return;
+  // Two passes, because a label's size in layout units depends on the very zoom
+  // being solved for. Frame the circles first to pin down the scale, resolve
+  // which labels are shown at it, then widen the frame to take in the labels
+  // that survived — otherwise the outermost ones are cut off by the edge.
+  applyLabelScale(applyFit(fitBounds(false)));
+  declutterLabels();
+  applyFit(fitBounds(true));
+}
+
+// Lower bound has to clear the fit scale of the densest view (~0.2 for the full
+// tag set in the homepage panel) or fitToView's transform would be clamped.
 const zoomBehavior = zoom()
-  .scaleExtent([0.3, 4])
+  .scaleExtent([0.1, 8])
   .on("zoom", (event) => {
+    viewTransform = event.transform;
     g.attr("transform", event.transform);
+    applyLabelScale(event.transform.k);
+    scheduleDeclutter();
   });
 svg.call(zoomBehavior);
+
+// Decluttering is O(n²) in visible labels, so it must not run on every frame of
+// a pinch or wheel gesture. Labels keep their previous visibility during the
+// gesture — they are already at the right screen size — and resolve on the next
+// idle frame.
+let declutterHandle = 0;
+function scheduleDeclutter() {
+  cancelAnimationFrame(declutterHandle);
+  declutterHandle = requestAnimationFrame(declutterLabels);
+}
 
 // --- Weight slider ---
 const slider = document.getElementById("weight-slider");
