@@ -87,6 +87,10 @@ let simulation;
 const maxCount = Math.max(...allNodes.map(n => n.count), 1);
 const rScale = scaleSqrt().domain([1, maxCount]).range([4, 24]);
 
+// Gap between touching circles. Shared by the collide force and the density
+// budget in rebuildGraph, which must agree or the budget under-counts.
+const COLLIDE_PAD = 4;
+
 // Tooltip
 const tooltip = document.getElementById("graph-tooltip");
 function showTooltip(event, d) {
@@ -242,12 +246,47 @@ function rebuildGraph() {
     connectedIds.add(e.source);
     connectedIds.add(e.target);
   }
-  const filteredNodes = allNodes
+  const candidateNodes = allNodes
     .filter(n => connectedIds.has(n.id) && !hiddenCategories.has(n.category))
     .map(n => ({ ...n }));
 
+  const width = container.clientWidth;
+  const height = container.clientHeight;
+
+  // A force layout always spreads to fill its box, so the thing that decides
+  // whether the graph is readable is not the forces but how much of the box the
+  // nodes themselves occupy. Unfiltered, the collision discs covered 76% of the
+  // container — past the jamming point for circle packing (0.907), so nodes had
+  // literally nowhere to go and the labels sat on top of each other. Keep the
+  // highest-count tags until the discs use a quarter of the box and drop the
+  // long tail. This is deliberately a function of container area, so the small
+  // homepage panel shows fewer tags than the full-page graph without either one
+  // needing to know which it is.
+  const TARGET_PACK = 0.25;
+  const budget = TARGET_PACK * width * height;
+  const discArea = n => Math.PI * Math.pow(rScale(n.count) + COLLIDE_PAD, 2);
+  const ranked = [...candidateNodes].sort((a, b) => b.count - a.count);
+  const keptIds = new Set();
+  let used = 0;
+  for (const n of ranked) {
+    const a = discArea(n);
+    if (used + a > budget && keptIds.size) break;
+    used += a;
+    keptIds.add(n.id);
+  }
+
+  // Re-derive edges against the kept set, then drop anything the pruning left
+  // stranded — an isolated node in a co-occurrence graph carries no information.
+  const keptEdges = filteredEdges.filter(e => keptIds.has(e.source) && keptIds.has(e.target));
+  const stillConnected = new Set();
+  for (const e of keptEdges) {
+    stillConnected.add(e.source);
+    stillConnected.add(e.target);
+  }
+  const filteredNodes = candidateNodes.filter(n => stillConnected.has(n.id));
+
   // Deep-copy edges with string IDs (d3 replaces with object refs)
-  const edgeCopies = filteredEdges.map(e => ({
+  const edgeCopies = keptEdges.map(e => ({
     source: e.source,
     target: e.target,
     weight: e.weight,
@@ -263,9 +302,6 @@ function rebuildGraph() {
     currentEdges = [];
     return;
   }
-
-  const width = container.clientWidth;
-  const height = container.clientHeight;
 
   // Max edge weight for opacity scaling
   const maxWeight = Math.max(...edgeCopies.map(e => e.weight), 1);
@@ -349,14 +385,14 @@ function rebuildGraph() {
     .force("link", forceLink(edgeCopies).id(d => d.id).distance(80).strength(d => d.weight / maxWeight * 0.5))
     .force("charge", forceManyBody().strength(-150))
     .force("center", forceCenter(width / 2, height / 2))
-    .force("collide", forceCollide().radius(d => rScale(d.count) + 4))
+    .force("collide", forceCollide().radius(d => rScale(d.count) + COLLIDE_PAD))
     // forceCenter only shifts the centre of mass; it does nothing to stop the
-    // cloud spreading past the edges, which clipped outer labels. These pull each
-    // node individually toward the middle. Deliberately weak — strong enough to
-    // keep the layout in frame, too weak to flatten the clusters into a disc, and
-    // it stays a soft force so drag and pan still reach outside the box.
-    .force("x", forceX(width / 2).strength(0.3))
-    .force("y", forceY(height / 2).strength(0.3))
+    // cloud drifting past the edges, which clipped the outer labels. These pull
+    // each node individually toward the middle. Weak on purpose: with the density
+    // budget above doing the real work there is room to spare, so this only has
+    // to stop outliers wandering out of frame, not compress the layout.
+    .force("x", forceX(width / 2).strength(0.08))
+    .force("y", forceY(height / 2).strength(0.08))
     .on("tick", () => {
       link
         .attr("x1", d => d.source.x)
