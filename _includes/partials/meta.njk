@@ -83,7 +83,7 @@
     "@type": "Person",
     "name": {{ site.author | dump | safe }},
     "url": "{{ site.url }}/about/",
-    "sameAs": ["https://x.com/{{ site.twitterHandle | replace('@', '') }}"]
+    "sameAs": ["https://x.com/{{ site.twitterHandle | replace('@', '') }}", {{ site.authorLinkedIn | dump | safe }}]
   },
   "publisher": {
     "@type": "Organization",
