@@ -85,11 +85,73 @@ let simulation;
 
 // Node size scale
 const maxCount = Math.max(...allNodes.map(n => n.count), 1);
-const rScale = scaleSqrt().domain([1, maxCount]).range([4, 24]);
+const rBase = scaleSqrt().domain([1, maxCount]).range([4, 24]);
 
-// Gap between touching circles. Shared by the collide force and the density
-// budget in rebuildGraph, which must agree or the budget under-counts.
+// Gap between touching circles, and the smallest radius still worth drawing and
+// clicking. Shared by the collide force and the density fit below, which have to
+// agree or the fit under-counts the space each node really needs.
 const COLLIDE_PAD = 4;
+const R_FLOOR = 3;
+
+// How far radii may be scaled down to fit more tags in. Shrinking is preferable
+// to discarding, but only up to a point: at much below this the nodes stop
+// reading as sized circles and the graph becomes an undifferentiated dot field.
+const MIN_SCALE = 0.55;
+
+// Fraction of the container the collision discs are allowed to cover. A force
+// layout always expands to fill its box, so this — not the force strengths — is
+// what decides whether the graph is readable. Circle packing jams at 0.907; the
+// graph was previously running at 0.76, which is why nothing had room to move.
+const TARGET_PACK = 0.25;
+
+// Set per rebuild by fitDensity(). Shrinking the nodes rather than discarding
+// them keeps the weight slider in charge of how much of the graph you see.
+let radiusScale = 1;
+const rScale = (count) => Math.max(R_FLOOR, rBase(count) * radiusScale);
+
+// Area budget alone is not enough at the low end of the weight slider. The long
+// tail of tags is almost all small nodes, so hundreds of them fit inside the
+// budget while every one of their edges still gets drawn — the box fills with a
+// grey hairball of dots. Cap the count too, at roughly one node per 4000px², and
+// let the density fit size whatever survives.
+const NODE_AREA_PER = 4000;
+
+// Shrink radii until the node set fits the density budget, and only start
+// dropping nodes once everything is already at the smallest size worth drawing.
+function fitDensity(nodes, budget) {
+  const totalAt = (k) => nodes.reduce((sum, n) => {
+    const r = Math.max(R_FLOOR, rBase(n.count) * k) + COLLIDE_PAD;
+    return sum + Math.PI * r * r;
+  }, 0);
+
+  if (totalAt(1) <= budget) return { k: 1, keep: null };
+
+  if (totalAt(MIN_SCALE) <= budget) {
+    // Monotonic in k, so bisect rather than trying to invert the floor and pad.
+    let lo = MIN_SCALE, hi = 1;
+    for (let i = 0; i < 24; i++) {
+      const mid = (lo + hi) / 2;
+      if (totalAt(mid) <= budget) lo = mid; else hi = mid;
+    }
+    return { k: lo, keep: null };
+  }
+
+  // Even at the smallest size worth drawing the set overflows, so keep the
+  // highest-count tags and drop the long tail. Filling the budget with dots is
+  // not a better answer than showing fewer tags: past roughly a hundred and
+  // fifty nodes in this box the graph reads as a grey hairball whatever the
+  // packing figure says.
+  let used = 0;
+  const keep = new Set();
+  for (const n of [...nodes].sort((a, b) => b.count - a.count)) {
+    const r = Math.max(R_FLOOR, rBase(n.count) * MIN_SCALE) + COLLIDE_PAD;
+    const disc = Math.PI * r * r;
+    if (used + disc > budget && keep.size) break;
+    used += disc;
+    keep.add(n.id);
+  }
+  return { k: MIN_SCALE, keep };
+}
 
 // Tooltip
 const tooltip = document.getElementById("graph-tooltip");
@@ -104,8 +166,19 @@ function hideTooltip() {
   tooltip.style.opacity = 0;
 }
 
-// Label visibility threshold
+// Label visibility. The count threshold alone was fine when the graph showed a
+// few dozen nodes; at the low end of the weight slider it puts hundreds of 11px
+// labels in the box and they pile up on each other. Labels do not shrink with
+// the nodes — an unreadable label is worse than no label — so they get their own
+// budget, roughly one per 8000px² of container, awarded to the biggest tags.
+// Everything else still names itself on hover.
 const LABEL_MIN_COUNT = 5;
+const LABEL_AREA_PER = 8000;
+// Ring of container kept clear of node centres so edge labels are not cut off.
+const LABEL_INSET = 40;
+// Clear space demanded around a label before it counts as non-colliding.
+const LABEL_GAP = 2;
+let labelledIds = new Set();
 
 // --- Search highlight state ---
 // Highlighting dims rather than removes: a co-occurrence graph is only
@@ -124,7 +197,39 @@ const endId = (x) => (typeof x === "object" && x !== null ? x.id : x);
 
 function labelOpacity(d) {
   if (highlightQuery) return inFocusIds.has(d.id) ? 0.9 : 0;
-  return d.count >= LABEL_MIN_COUNT ? 0.9 : 0;
+  return d.count >= LABEL_MIN_COUNT && labelledIds.has(d.id) ? 0.9 : 0;
+}
+
+// The area budget above is only an opening guess, made before anything is laid
+// out. It cannot know that the biggest tags are also the best connected ones, so
+// they end up bunched in the middle writing over each other while the rim stays
+// anonymous. Once the simulation settles, walk the tags largest-first and keep
+// every label that does not collide with one already kept. Dropped labels still
+// appear on hover, so nothing becomes unreachable.
+function declutterLabels() {
+  if (!nodeSel) return;
+  const placed = [];
+  const keep = new Set();
+  const entries = nodeSel.nodes()
+    .map((el) => ({ el, d: select(el).datum() }))
+    .filter(({ d }) => d.count >= LABEL_MIN_COUNT)
+    .sort((a, b) => b.d.count - a.d.count);
+
+  for (const { el, d } of entries) {
+    const bb = el.querySelector("text").getBBox();
+    const box = {
+      x1: d.x + bb.x - LABEL_GAP,
+      y1: d.y + bb.y - LABEL_GAP,
+      x2: d.x + bb.x + bb.width + LABEL_GAP,
+      y2: d.y + bb.y + bb.height + LABEL_GAP,
+    };
+    if (placed.some((p) => box.x1 < p.x2 && p.x1 < box.x2 && box.y1 < p.y2 && p.y1 < box.y2)) continue;
+    placed.push(box);
+    keep.add(d.id);
+  }
+
+  labelledIds = keep;
+  nodeSel.select("text").attr("opacity", labelOpacity);
 }
 
 function nodeOpacity(d) {
@@ -189,7 +294,7 @@ function computeHighlight() {
     const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
     // Drop one-off co-occurrences unless that would leave nothing
     const minCount = ranked.some(([, c]) => c >= 2) ? 2 : 1;
-    for (const [tag, c] of ranked.filter(([, c]) => c >= minCount).slice(0, POST_TAG_LIMIT)) {
+    for (const [tag] of ranked.filter(([, c]) => c >= minCount).slice(0, POST_TAG_LIMIT)) {
       matchedIds.add(tag);
     }
   }
@@ -253,27 +358,22 @@ function rebuildGraph() {
   const width = container.clientWidth;
   const height = container.clientHeight;
 
-  // A force layout always spreads to fill its box, so the thing that decides
-  // whether the graph is readable is not the forces but how much of the box the
-  // nodes themselves occupy. Unfiltered, the collision discs covered 76% of the
-  // container — past the jamming point for circle packing (0.907), so nodes had
-  // literally nowhere to go and the labels sat on top of each other. Keep the
-  // highest-count tags until the discs use a quarter of the box and drop the
-  // long tail. This is deliberately a function of container area, so the small
-  // homepage panel shows fewer tags than the full-page graph without either one
-  // needing to know which it is.
-  const TARGET_PACK = 0.25;
-  const budget = TARGET_PACK * width * height;
-  const discArea = n => Math.PI * Math.pow(rScale(n.count) + COLLIDE_PAD, 2);
+  // Size the nodes to the box before drawing anything. Both are functions of
+  // container area, so the small homepage panel and the full-page graph each
+  // show as much as they can hold without either needing to know which it is.
   const ranked = [...candidateNodes].sort((a, b) => b.count - a.count);
-  const keptIds = new Set();
-  let used = 0;
-  for (const n of ranked) {
-    const a = discArea(n);
-    if (used + a > budget && keptIds.size) break;
-    used += a;
-    keptIds.add(n.id);
-  }
+  const shortlist = ranked.slice(0, Math.max(8, Math.round((width * height) / NODE_AREA_PER)));
+  const fit = fitDensity(shortlist, TARGET_PACK * width * height);
+  radiusScale = fit.k;
+  const keptIds = fit.keep || new Set(shortlist.map((n) => n.id));
+
+  labelledIds = new Set(
+    candidateNodes
+      .filter((n) => keptIds.has(n.id))
+      .sort((a, b) => b.count - a.count)
+      .slice(0, Math.max(4, Math.round((width * height) / LABEL_AREA_PER)))
+      .map((n) => n.id)
+  );
 
   // Re-derive edges against the kept set, then drop anything the pruning left
   // stranded — an isolated node in a co-occurrence graph carries no information.
@@ -380,10 +480,25 @@ function rebuildGraph() {
   linkSel = link;
   applyHighlight();
 
+  // The link distance and charge used to be constants tuned for a few dozen
+  // nodes. Once the slider can put five hundred in the same box those constants
+  // describe a layout far larger than the container, and the graph spills out of
+  // frame no matter how small the nodes are drawn. Spreading n nodes evenly over
+  // the box gives each one a cell of side sqrt(area / n), which is the distance
+  // neighbours should sit apart — and at ~46 nodes in the homepage panel it comes
+  // out at 81px, i.e. the 80 that was hand-tuned here originally.
+  //
+  // The cloud settles into a disc rather than filling the corners, so the area
+  // to divide up is the box's inscribed circle, inset to leave the outermost
+  // labels somewhere to sit.
+  const cloudR = Math.max(40, Math.min(width, height) / 2 - LABEL_INSET);
+  const spacing = Math.sqrt((Math.PI * cloudR * cloudR) / filteredNodes.length);
+  const spacingRatio = Math.min(1, spacing / 80);
+
   // Force simulation
   simulation = forceSimulation(filteredNodes)
-    .force("link", forceLink(edgeCopies).id(d => d.id).distance(80).strength(d => d.weight / maxWeight * 0.5))
-    .force("charge", forceManyBody().strength(-150))
+    .force("link", forceLink(edgeCopies).id(d => d.id).distance(spacing).strength(d => d.weight / maxWeight * 0.5))
+    .force("charge", forceManyBody().strength(-150 * spacingRatio))
     .force("center", forceCenter(width / 2, height / 2))
     .force("collide", forceCollide().radius(d => rScale(d.count) + COLLIDE_PAD))
     // forceCenter only shifts the centre of mass; it does nothing to stop the
@@ -400,7 +515,8 @@ function rebuildGraph() {
         .attr("x2", d => d.target.x)
         .attr("y2", d => d.target.y);
       node.attr("transform", d => `translate(${d.x},${d.y})`);
-    });
+    })
+    .on("end", declutterLabels);
 }
 
 // --- Zoom ---
