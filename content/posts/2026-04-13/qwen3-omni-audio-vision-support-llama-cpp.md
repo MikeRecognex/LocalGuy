@@ -23,10 +23,18 @@ tags:
   - real-world-applications
   - release
 source:
-  name: "r/LocalLLaMA"
+  name: "ggml-org/llama.cpp"
   url: "https://github.com/ggml-org/llama.cpp/pull/19441"
+updated: 2026-09-06
 status: published
 ---
+
+> [!note] Updated 6 September 2026
+> Nearly five months on, this remains current — because **Qwen3-Omni-30B-A3B is still the only open-weights omni model there is.** Qwen3.5, Qwen3.6 and Qwen3.8 are all text-only families; there is no Qwen3.5-Omni or Qwen3.8-Omni, whatever the SEO pages tell you.
+>
+> Two corrections to how this reads today: llama.cpp gives you audio and vision **input** only — speech **output** (the Talker) is still unimplemented and only at the planning stage. And the GGUFs referenced below landed the day *after* this was written, not alongside it.
+>
+> For the working commands, real file sizes, and the open bugs, see [Running Qwen3-Omni With Audio and Vision in llama.cpp](/guides/qwen3-omni-audio-vision-llama-cpp/).
 
 The llama.cpp project has successfully integrated support for [Qwen3-Omni and Qwen3-ASR models](https://github.com/ggml-org/llama.cpp/pull/19441), enabling both vision and audio input on consumer hardware. Pre-quantized GGUF versions of Qwen3-Omni 30B A3B (Thinking and Instruct variants) are now available, removing compilation barriers for end users.
 
