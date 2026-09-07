@@ -3,12 +3,21 @@ title: "Four Excellent Local LLM Projects Now Run Free on Slow Laptops"
 date: 2026-09-05
 description: "How-To Geek curates four production-ready local LLM projects optimized for low-resource environments, demonstrating that capable inference is accessible even on modest hardware without cloud dependencies."
 tags:
+  - comparison
+  - cpu-only
   - daily-digest
-  - open-source
-  - inference
   - edge-deployment
+  - llama-cpp
+  - local-deployment
+  - low-resource-inference
+  - model-quantization
+  - ollama
+  - open-source
   - optimization
-status: draft
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 The democratization of local LLM deployment reaches a new milestone when quality projects become viable on "slow laptops." This article's curation highlights the ecosystem's maturation: practitioners no longer need high-end hardware to run meaningful models locally. Projects featured likely include optimized implementations like Ollama, llama.cpp-based solutions, and specialized frameworks that achieve impressive capability-to-resource ratios through aggressive quantization and architectural efficiency.

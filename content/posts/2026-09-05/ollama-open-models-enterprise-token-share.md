@@ -4,11 +4,19 @@ date: 2026-09-05
 description: "Ollama CEO Jeffrey Morgan reports that open-source models are capturing 80-90% of enterprise AI token consumption, signaling a fundamental shift toward self-hosted and local LLM deployment in production environments."
 tags:
   - daily-digest
+  - enterprise
+  - enterprise-adoption
+  - news
   - ollama
   - open-source
-  - enterprise
-  - inference
-status: draft
+  - open-source-models
+  - production-deployment
+mentions:
+  - name: Jeffrey Morgan
+    role: CEO
+  - name: finance.biggo.com
+    role: publisher
+status: published
 ---
 
 Jeffrey Morgan's statement represents validation of a long-predicted industry shift: open-source LLMs are now the dominant force in enterprise AI token consumption. This metric—measuring actual production usage rather than theoretical capability—signals that organizations have moved beyond experimentation with local models and are deploying them at scale. The 80-90% figure encompasses both self-hosted and on-device deployments, reflecting mature tooling, cost advantages, and acceptable performance characteristics for real-world workloads.

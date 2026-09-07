@@ -3,15 +3,20 @@ title: "NVIDIA PAIR: Virtual Inference Router Turns Home PCs Into Distributed AI
 date: 2026-09-04
 description: "NVIDIA releases PAIR (Portable Aggregated Inference Router), a free tool that links idle local network compute into a unified inference endpoint, enabling cost-effective distributed LLM deployment across heterogeneous hardware."
 tags:
+  - compute-aggregation
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - nvidia
   - distributed-inference
   - edge-deployment
+  - nvidia
   - open-source
+  - pair
+  - release
 source:
   name: "Google News"
   url: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0FtcjkyUWhUaW5OQ3IzVFc0elRBSUUzakwwdnhJRndGLTVKT0YtaTNhMURwanRiVFQtNEhybHpzMDg5c1VUX2dfc0xxMEJLUGpJSTVnZDdmNTJTMzg0LUxWdDFheGkwNU5xVVBTb0NNT2dveUliMmRsSWxQQXpKRGVsZFY4cm1jT0RhNmpvdGY3OTJVN0ZpMWczQ3NOR2ZDbFhCc1JsM0ExUjlyRlhUVTgxMXltQkhvdVJv?oc=5"
-status: draft
+status: published
 ---
 
 NVIDIA has open-sourced PAIR (Portable Aggregated Inference Router), a free tool designed to aggregate idle compute resources on a home or office network into a single distributed inference cluster. The router abstracts away hardware heterogeneity, allowing users to pool GPU and CPU resources from multiple machines—including M-series Macs, RTX PCs, and other devices—into a unified API endpoint.

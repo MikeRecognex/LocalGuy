@@ -3,11 +3,17 @@ title: "GGUF Quantization: Shrink LLMs 72% in 12 Steps"
 date: 2026-09-06
 description: "A practical guide to GGUF quantization techniques that can reduce LLM model sizes by up to 72%, enabling deployment on resource-constrained devices and improving inference speed."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - edge-device
   - gguf
+  - inference-speed
   - memory-optimization
-status: draft
+  - model-compression
+  - model-quantization
+  - quantisation
+  - tutorial
+status: published
 ---
 
 Model quantization remains one of the most impactful techniques for local LLM deployment, and this deep-dive into GGUF quantization provides actionable steps for practitioners looking to reduce model footprints. Achieving 72% size reduction opens deployment possibilities on consumer hardware, mobile devices, and edge systems where storage and memory are bottlenecks.

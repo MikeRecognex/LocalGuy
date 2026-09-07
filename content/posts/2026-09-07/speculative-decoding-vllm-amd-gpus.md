@@ -3,12 +3,19 @@ title: "Speculative Decoding in vLLM on AMD GPUs"
 date: 2026-09-07
 description: "vLLM now supports speculative decoding on AMD GPUs, enabling significant inference speed improvements for local LLM deployment on AMD hardware."
 tags:
-  - daily-digest
-  - vllm
   - amd
+  - daily-digest
+  - datacenter-gpu
+  - deployment-strategy
+  - inference-speed
   - performance-optimization
+  - release
   - speculative-decoding
-status: draft
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Speculative decoding is a powerful technique that accelerates LLM inference by predicting multiple tokens in parallel and verifying them efficiently. The addition of speculative decoding support to vLLM for AMD GPUs represents a major performance breakthrough for practitioners running local models on AMD hardware, which has historically lagged behind NVIDIA in optimization support.

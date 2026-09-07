@@ -803,6 +803,22 @@
     "2026-09-03": {
       "text": "Lemonade AI launches version 11.9 with AMD ROCm HRX backend, enabling local inference on AMD GPUs.",
       "postCount": 5
+    },
+    "2026-09-04": {
+      "text": "NVIDIA's free PAIR tool links idle PCs into a distributed inference router, boosting local LLM clusters.",
+      "postCount": 5
+    },
+    "2026-09-05": {
+      "text": "NVIDIA's new PAIR router lets RTX, DGX Spark, and Mac nodes share inference, boosting local AI speed.",
+      "postCount": 5
+    },
+    "2026-09-06": {
+      "text": "llama.cpp 0.4.0 adds Qwen3.8‑Flash‑Next support and on‑demand tensor reading for faster inference.",
+      "postCount": 5
+    },
+    "2026-09-07": {
+      "text": "Alibaba's Qwen3.8 Flash Next launches lightweight on-device inference, previewing the upcoming Qwen4 architecture.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -924,7 +940,11 @@
     },
     "2026-08-30": {
       "text": "",
-      "postCount": 24
+      "postCount": 39
+    },
+    "2026-09-06": {
+      "text": "",
+      "postCount": 5
     }
   }
 }

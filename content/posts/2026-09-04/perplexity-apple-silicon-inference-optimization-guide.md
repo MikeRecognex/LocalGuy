@@ -3,15 +3,25 @@ title: "Optimising On-Device Inference for Apple Silicon: Practical Guide to M-S
 date: 2026-09-04
 description: "Perplexity publishes comprehensive optimisation strategies for running LLMs on Apple Silicon, covering hardware-specific techniques to maximise inference performance on M-series processors."
 tags:
-  - daily-digest
   - apple-silicon
-  - optimization
-  - memory-optimization
+  - daily-digest
   - guide
+  - inference-optimization
+  - inference-speed
+  - memory-optimization
+  - optimization
+  - production-deployment
+  - tutorial
+  - unified-memory
 source:
   name: "Hacker News"
   url: "https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon"
-status: draft
+mentions:
+  - name: Perplexity
+    role: publisher
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Perplexity has published a detailed technical guide on optimising LLM inference specifically for Apple Silicon (M1-M4 series). The post covers low-level optimisation strategies including memory layout, Metal shader compilation, unified memory architecture exploitation, and ANE utilisation patterns that practitioners often overlook.

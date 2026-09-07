@@ -3,12 +3,20 @@ title: "llama.cpp 0.4.0 Released with Sparse Flash Attention and RDMA Support"
 date: 2026-09-05
 description: "llama.cpp 0.4.0 introduces major performance improvements including sparse flash attention, RDMA support, Qwen3.8-Flash-Next support, on-demand tensor reading, and upgraded GGML 0.23.0, enabling more efficient local inference at scale."
 tags:
+  - attention-optimization
+  - consumer-gpu
+  - cost-saving
   - daily-digest
+  - distributed-inference
+  - ggml
   - llama-cpp
-  - performance
+  - memory-bandwidth
   - memory-optimization
   - open-source
-status: draft
+  - performance
+  - qwen3-8-flash-next
+  - release
+status: published
 ---
 
 The latest llama.cpp release marks a significant leap forward in inference optimization with the introduction of sparse flash attention and RDMA capabilities. Sparse flash attention dramatically reduces memory bandwidth requirements for models with sparse attention patterns, allowing larger models to run efficiently on consumer hardware. The RDMA support enables low-latency, high-throughput distributed inference across networked nodes, making multi-machine local deployments more viable.

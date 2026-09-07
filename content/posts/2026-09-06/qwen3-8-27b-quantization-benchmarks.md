@@ -3,10 +3,22 @@ title: "Benchmarking Qwen3.8 27B Quantizations: 4-Bit Performance Hold"
 date: 2026-09-06
 description: "Empirical benchmarking results showing that 4-bit quantization of Qwen3.8 27B maintains strong performance, while 1-bit quantization exhibits significant quality degradation."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
-status: draft
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - gguf
+  - local-deployment
+  - model-quantization
+  - quantisation
+  - quantization-tradeoffs
+  - qwen-3-8-27b
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Quesma
+    role: publisher
+status: published
 ---
 
 This benchmark provides essential guidance for practitioners making quantization tradeoff decisions. The finding that 4-bit quantization holds up well while 1-bit approaches collapse on Qwen3.8 27B gives concrete data for model selection in local deployment scenarios. For a popular 27B parameter model, 4-bit quantization represents a reasonable sweet spot—typically 6-8GB memory requirement—while preserving model quality.

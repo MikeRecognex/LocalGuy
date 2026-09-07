@@ -4,11 +4,25 @@ date: 2026-09-07
 description: "IFM has released the K2 Horizon series with six openly-licensed models spanning 0.9B to 375B parameters, providing diverse options for local deployment across different hardware constraints."
 tags:
   - daily-digest
-  - open-source
-  - model-release
-  - quantisation
+  - datacenter-gpu
+  - edge-device
   - edge-inference
-status: draft
+  - ifm
+  - k2-horizon
+  - llama-cpp
+  - local-deployment
+  - model-quantization
+  - model-release
+  - open-license
+  - open-source
+  - quantisation
+  - release
+mentions:
+  - name: IFM
+    role: developer
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 The K2 Horizon model family from IFM represents a comprehensive range of Apache 2.0 licensed models designed specifically for practical local deployment scenarios. With sizes from 0.9B parameters up to 375B, this release addresses a critical gap in the open-source landscape by providing true model diversity that maps to real hardware constraints—from mobile devices and edge servers to high-end workstations and on-premise clusters.

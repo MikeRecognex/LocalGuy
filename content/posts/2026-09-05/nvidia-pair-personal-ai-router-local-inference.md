@@ -3,12 +3,21 @@ title: "NVIDIA Releases Personal AI Router (PAIR) for Local Multi-Device Inferen
 date: 2026-09-05
 description: "NVIDIA has launched PAIR, an open-source virtual inference router that distributes local AI requests across RTX GPUs, DGX Spark, and Mac nodes, enabling users to aggregate idle computing resources into a unified inference cluster."
 tags:
+  - agents
+  - apple-silicon
+  - compute-clustering
+  - consumer-gpu
   - daily-digest
+  - distributed-inference
+  - multi-device-inference
   - nvidia
   - open-source
-  - inference
-  - agents
-status: draft
+  - pair
+  - release
+mentions:
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 NVIDIA's Personal AI Router (PAIR) represents a significant advancement in local AI infrastructure by solving a practical problem for home and office environments: distributing inference workloads across multiple devices. The tool allows users to link together idle computing resources—whether RTX-equipped PCs, DGX systems, or Apple Silicon Macs—into a cohesive inference cluster without requiring complex orchestration.

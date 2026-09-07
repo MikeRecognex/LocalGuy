@@ -3,12 +3,17 @@ title: "Ollama v0.34.0: ChatGPT Desktop Integration and Apple Silicon Improvemen
 date: 2026-09-07
 description: "Ollama releases v0.34.0 with ChatGPT Desktop integration, improved structured output performance on Apple Silicon, and enhanced model management features for local deployment."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - chatgpt-desktop
+  - daily-digest
+  - desktop-integration
+  - ollama
   - performance-optimization
+  - release
+  - structured-outputs
+  - tool-calling
   - tools
-status: draft
+status: published
 ---
 
 Ollama's v0.34.0 release delivers significant improvements for local LLM practitioners, particularly those in the Apple ecosystem. The integration with ChatGPT Desktop allows users to seamlessly run open-source models locally while maintaining their existing chat workflows—a crucial usability improvement that bridges the gap between cloud-based interfaces and local inference.
