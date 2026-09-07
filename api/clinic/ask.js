@@ -124,11 +124,15 @@ export default async function handler(req, res) {
       title: r.metadata?.title || 'Untitled',
       url: r.metadata?.url || '#',
       description: r.metadata?.description || '',
+      date: r.metadata?.date || '',
+      // Article text, indexed since 2026-09. Falls back to the meta description
+      // for any vector written before the `body` field existed.
+      body: r.metadata?.body || r.metadata?.description || '',
       score: r.score
     }))
 
     const contextBlock = sources.map(s =>
-      `[${s.num}] "${s.title}"\n${s.description}`
+      `[${s.num}] "${s.title}"${s.date ? ` (published ${s.date})` : ''}\n${s.body}`
     ).join('\n\n')
 
     // Groq LLM call
