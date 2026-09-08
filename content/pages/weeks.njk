@@ -1,0 +1,67 @@
+---
+pagination:
+  data: collections.weekPages
+  size: 1
+  alias: week
+  addAllPagesToCollections: true
+permalink: "{{ week.url }}"
+eleventyComputed:
+  title: "{{ week.title }}"
+  description: "{{ week.description }}"
+layout: layouts/base.njk
+---
+
+<h1>{{ week.title }}</h1>
+
+<p class="week-meta">{{ week.postCount }} post{{ "s" if week.postCount != 1 }} · <a href="/posts/">All weeks</a></p>
+
+{%- set ws = summaries.weekly[week.weekKey] %}
+{%- set wsText = (ws.text if ws.text else ws) if ws else "" %}
+{%- if wsText %}
+<div class="week-summary">{{ wsText | safe }}</div>
+{%- endif %}
+
+{%- for day in week.days %}
+<h2 class="day-heading">{{ day.label }}</h2>
+{%- set ds = summaries.daily[day.dateKey] %}
+{%- set dsText = (ds.text if ds.text else ds) if ds else "" %}
+{%- if dsText %}
+<p class="day-highlight">{{ dsText }}</p>
+{%- endif %}
+<ul class="post-list">
+  {%- for post in day.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+    {% if post.data.tags %}<div class="post-tags">{%- for tag in post.data.tags | topicTags %}<a href="/tags/{{ tag | lower }}/">#{{ tag }}</a>{%- endfor %}</div>{% endif %}
+    {% if post.data.description %}<p class="summary">{{ post.data.description }}</p>{% endif %}
+  </li>
+  {%- endfor %}
+</ul>
+{%- endfor %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ week.title | dump | safe }},
+  "description": {{ week.description | dump | safe }},
+  "url": "{{ site.url }}{{ page.url }}",
+  "inLanguage": {{ site.language | dump | safe }},
+  "isPartOf": { "@type": "WebSite", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}" },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ week.postCount }},
+    "itemListElement": [
+      {%- for post in week.posts %}
+      {
+        "@type": "ListItem",
+        "position": {{ loop.index }},
+        "url": "{{ site.url }}{{ post.url }}",
+        "name": {{ (post.data.title or "Note") | dump | safe }}
+      }{% if not loop.last %},{% endif %}
+      {%- endfor %}
+    ]
+  }
+}
+</script>

@@ -1,5 +1,6 @@
 ---
 title: "All Posts"
+description: "The LocalFTW archive, week by week — local LLM hardware, models, quantisation and tooling, from February 2026 onwards."
 layout: layouts/base.njk
 permalink: /posts/
 ---
@@ -8,43 +9,16 @@ permalink: /posts/
 
 <p class="submit-link">Have something to share? <a href="/contribute/">Submit a post</a></p>
 
-{%- set weeks = collections.posts | groupByWeek %}
+<p class="archive-intro">The archive is organised by week. Each week has its own page carrying that week's summary and every post published in it.</p>
 
-{%- if weeks.length %}
-{%- for week in weeks %}
-  <details class="week-group">
-    <summary class="week-header">
-      <span class="week-label">{{ week.weekLabel }}</span>
-      <span class="week-count">{{ week.postCount }} post{{ "s" if week.postCount != 1 }}</span>
-    </summary>
-
+<ul class="post-list week-index">
+{%- for week in collections.weekPages %}
+  <li>
+    <a href="{{ week.url }}">{{ week.title }}</a>
+    <time datetime="{{ week.weekKey }}">{{ week.postCount }} post{{ "s" if week.postCount != 1 }}</time>
     {%- set ws = summaries.weekly[week.weekKey] %}
-    {%- if ws %}
-    <div class="week-summary">{{ (ws.text if ws.text else ws) | safe }}</div>
-    {%- endif %}
-
-    {%- for day in week.days %}
-    <details class="day-group">
-      <summary class="day-header">
-        <span class="day-label">{{ day.dateKey | shortDate }}</span>
-        {%- set ds = summaries.daily[day.dateKey] %}
-        {%- if ds %}
-        <span class="day-highlight">{{ ds.text if ds.text else ds }}</span>
-        {%- endif %}
-      </summary>
-      <ul class="post-list">
-        {%- for post in day.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
-          {% if post.data.tags %}<div class="post-tags">{%- for tag in post.data.tags | topicTags %}<a href="/tags/{{ tag | lower }}/">#{{ tag }}</a>{%- endfor %}</div>{% endif %}
-          {% if post.data.description %}<p class="summary">{{ post.data.description }}</p>{% endif %}
-        </li>
-        {%- endfor %}
-      </ul>
-    </details>
-    {%- endfor %}
-  </details>
+    {%- set wsText = (ws.text if ws.text else ws) if ws else "" %}
+    <p class="summary">{% if wsText %}{{ wsText | striptags | truncate(220) }}{% else %}{{ week.description }}{% endif %}</p>
+  </li>
 {%- endfor %}
-{%- endif %}
-
-<script src="/js/posts-accordion.js"></script>
+</ul>

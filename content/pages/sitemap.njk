@@ -4,11 +4,15 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {#- Tag pages are included now that each carries its own title and description. They
+      were held back while all 1,113 shared the site's boilerplate description, which
+      is the condition that makes a set of pages look duplicative rather than useful.
+      lastmod comes from the tag's newest post, not the template's own file date. -#}
   {%- for page in collections.all %}
-  {%- if page.url and page.url !== "/sitemap.xml" and page.url !== "/robots.txt" and not page.url.startsWith("/tags/") %}
+  {%- if page.url and page.url !== "/sitemap.xml" and page.url !== "/robots.txt" %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
-    <lastmod>{{ page.date | isoDate }}</lastmod>
+    <lastmod>{{ (page.data.tag.latest if page.data.tag else page.date) | isoDate }}</lastmod>
   </url>
   {%- endif %}
   {%- endfor %}

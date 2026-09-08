@@ -46,6 +46,124 @@ const generatedTagSlugs = new Set();
 const linkable = (tags) =>
   eligible(tags).filter((t) => generatedTagSlugs.has(t.toLowerCase()));
 
+// Per-tag title and meta description. Every /tags/ page previously shipped the site's
+// own description, so 1,113 pages were byte-identical in the two fields search engines
+// use to tell pages apart. The count, the date span and the newest headline are the
+// only things that differ between one tag page and the next, so they are what the
+// description is built from.
+const MONTHS = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
+];
+const monthYear = (d) => `${MONTHS[d.getMonth()]} ${d.getFullYear()}`;
+
+function tagMeta(slug, posts) {
+  const count = posts.length;
+  const first = monthYear(posts[0].date);
+  const last = monthYear(posts[count - 1].date);
+  const span = first === last ? first : `${first} to ${last}`;
+
+  let description = `${count} articles tagged ${slug}, ${span}.`;
+  const latestTitle = posts[count - 1].data.title;
+  if (latestTitle) description += ` Latest: ${latestTitle}.`;
+  if (description.length > 158) description = description.slice(0, 157).trimEnd() + "…";
+
+  return {
+    title: `${slug}: ${count} articles`,
+    description,
+    latest: posts[count - 1].date,
+  };
+}
+
+// Group posts into weeks (Monday-keyed) with nested day groups, newest week first.
+// Returns [ { weekKey, weekLabel, days: [{ label, dateKey, posts }], postCount } ].
+// Shared by the groupByWeek filter and the weekPages collection so the archive index
+// and the digest pages can never disagree about which week a post belongs to.
+function groupPostsByWeek(posts) {
+  function getMonday(d) {
+    const date = new Date(d);
+    const day = date.getDay();
+    const diff = day === 0 ? -6 : 1 - day; // Monday = 1
+    date.setDate(date.getDate() + diff);
+    return date.toISOString().slice(0, 10);
+  }
+
+  const weekMap = new Map();
+  for (const post of posts) {
+    const postDate = new Date(post.date);
+    const mondayKey = getMonday(postDate);
+    const dateKey = postDate.toISOString().slice(0, 10);
+    const dayLabel = postDate.toLocaleDateString("en-GB", {
+      weekday: "long",
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+
+    if (!weekMap.has(mondayKey)) {
+      const monday = new Date(mondayKey + "T00:00:00");
+      const sunday = new Date(monday);
+      sunday.setDate(sunday.getDate() + 6);
+      const fmt = (d) =>
+        d.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+      weekMap.set(mondayKey, {
+        weekKey: mondayKey,
+        weekLabel: `${fmt(monday)} – ${fmt(sunday)}`,
+        dayMap: new Map(),
+        postCount: 0,
+      });
+    }
+    const week = weekMap.get(mondayKey);
+    week.postCount++;
+
+    if (!week.dayMap.has(dateKey)) {
+      week.dayMap.set(dateKey, { label: dayLabel, dateKey, posts: [] });
+    }
+    week.dayMap.get(dateKey).posts.push(post);
+  }
+
+  const weeks = [];
+  for (const week of weekMap.values()) {
+    week.days = Array.from(week.dayMap.values());
+    delete week.dayMap;
+    weeks.push(week);
+  }
+  weeks.sort((a, b) => b.weekKey.localeCompare(a.weekKey));
+  return weeks;
+}
+
+// Title and meta description for a weekly digest page.
+//
+// The stored weekly summary is not usable as the description: five of the 31 weeks
+// have an empty one, so anything derived from it would leave those pages falling back
+// to the site boilerplate — the same duplicate-description problem the tag pages had.
+// Headlines are always present, so the description is built from those and the stored
+// summary, where there is one, stays as body copy.
+function weekMeta(week) {
+  const sunday = new Date(week.weekKey + "T00:00:00");
+  sunday.setDate(sunday.getDate() + 6);
+  const range = `${week.weekLabel} ${sunday.getFullYear()}`;
+
+  const headlines = week.days
+    .flatMap((day) => day.posts)
+    .map((post) => post.data.title)
+    .filter(Boolean);
+
+  let description = `${week.postCount} local AI stories, ${range}.`;
+  for (const headline of headlines) {
+    const next = `${description} ${headline}.`;
+    if (next.length > 158) break;
+    description = next;
+  }
+
+  return {
+    title: `Local AI, ${range}`,
+    description,
+    url: `/posts/week/${week.weekKey}/`,
+    latest: new Date(week.days[0].posts[0].date),
+  };
+}
+
 // Post url -> related posts, filled in by the _relatedPosts collection below and read
 // back by the relatedTo filter at render time. Same arrangement as generatedTagSlugs
 // above: Eleventy runs every collection before it renders any template, so the map is
@@ -186,10 +304,10 @@ module.exports = function (eleventyConfig) {
 
     const pages = [...bySlug.values()]
       .filter(({ items }) => items.size >= MIN_POSTS_FOR_TAG_PAGE)
-      .map(({ slug, items }) => ({
-        slug,
-        posts: [...items].sort((a, b) => a.date - b.date),
-      }))
+      .map(({ slug, items }) => {
+        const posts = [...items].sort((a, b) => a.date - b.date);
+        return { slug, posts, ...tagMeta(slug, posts) };
+      })
       .sort((a, b) => a.slug.localeCompare(b.slug));
 
     generatedTagSlugs.clear();
@@ -202,6 +320,27 @@ module.exports = function (eleventyConfig) {
     );
 
     return pages;
+  });
+
+  // One digest page per week of the archive.
+  //
+  // /posts/ used to render every post inline: 1.8 MB of HTML and 2,070 links on a
+  // single page with no text of its own. The weekly and daily summaries that already
+  // existed had no URL at all, so the only unique prose on the archive side of the
+  // site was unreachable. Splitting by week gives each of those summaries a page to
+  // sit on and leaves /posts/ as a ~30-link index.
+  eleventyConfig.addCollection("weekPages", function (collectionApi) {
+    const posts = collectionApi
+      .getFilteredByGlob("content/posts/**/*.md")
+      .filter((item) => item.data.status === "published")
+      .sort((a, b) => b.date - a.date);
+    return groupPostsByWeek(posts).map((week) => ({
+      ...week,
+      ...weekMeta(week),
+      // Flat, day-ordered copy. Nunjucks has no flatten filter and no Jinja-style
+      // namespace, so the ItemList schema needs a single list to number.
+      posts: week.days.flatMap((day) => day.posts),
+    }));
   });
 
   // All built posts — includes archived (URL preservation)
@@ -333,62 +472,7 @@ module.exports = function (eleventyConfig) {
     return groups;
   });
 
-  // Group posts into weeks (Monday-keyed) with nested day groups
-  // Returns [ { weekKey, weekLabel, days: [{ label, dateKey, posts }], postCount } ]
-  eleventyConfig.addFilter("groupByWeek", (posts) => {
-    // Helper: get Monday of a given date's week
-    function getMonday(d) {
-      const date = new Date(d);
-      const day = date.getDay();
-      const diff = day === 0 ? -6 : 1 - day; // Monday = 1
-      date.setDate(date.getDate() + diff);
-      return date.toISOString().slice(0, 10);
-    }
-
-    const weekMap = new Map();
-    for (const post of posts) {
-      const postDate = new Date(post.date);
-      const mondayKey = getMonday(postDate);
-      const dateKey = postDate.toISOString().slice(0, 10);
-      const dayLabel = postDate.toLocaleDateString("en-GB", {
-        weekday: "long",
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-      });
-
-      if (!weekMap.has(mondayKey)) {
-        const monday = new Date(mondayKey + "T00:00:00");
-        const sunday = new Date(monday);
-        sunday.setDate(sunday.getDate() + 6);
-        const fmt = (d) =>
-          d.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
-        weekMap.set(mondayKey, {
-          weekKey: mondayKey,
-          weekLabel: `${fmt(monday)} – ${fmt(sunday)}`,
-          dayMap: new Map(),
-          postCount: 0,
-        });
-      }
-      const week = weekMap.get(mondayKey);
-      week.postCount++;
-
-      if (!week.dayMap.has(dateKey)) {
-        week.dayMap.set(dateKey, { label: dayLabel, dateKey, posts: [] });
-      }
-      week.dayMap.get(dateKey).posts.push(post);
-    }
-
-    // Convert to arrays, sorted descending
-    const weeks = [];
-    for (const week of weekMap.values()) {
-      week.days = Array.from(week.dayMap.values());
-      delete week.dayMap;
-      weeks.push(week);
-    }
-    weeks.sort((a, b) => b.weekKey.localeCompare(a.weekKey));
-    return weeks;
-  });
+  eleventyConfig.addFilter("groupByWeek", groupPostsByWeek);
 
   // Tag cloud: returns [ { tag, count, weight } ] sorted by count descending
   // weight is 1–5 based on relative frequency

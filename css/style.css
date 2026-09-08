@@ -442,108 +442,46 @@ footer:last-child {
   text-decoration: underline;
 }
 
-/* === Posts Accordion === */
-.week-group {
-  border: 1px solid var(--color-border);
-  border-radius: 0.5rem;
-  background: var(--color-surface);
-  margin-bottom: 1rem;
-  overflow: hidden;
+/* === Archive (weekly digests) === */
+.archive-intro {
+  color: var(--color-muted);
+  margin-bottom: 1.5rem;
 }
 
-.week-group > summary {
-  list-style: none;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  padding: 0.75rem 1rem;
+.week-index li a {
   font-family: var(--font-heading);
   font-weight: 600;
-  font-size: 1rem;
 }
 
-.week-group > summary::-webkit-details-marker { display: none; }
-
-.week-group > summary::before {
-  content: "\25B8";
-  display: inline-block;
-  transition: transform 0.15s ease;
-  font-size: 0.85em;
-}
-
-.week-group[open] > summary::before {
-  transform: rotate(90deg);
-}
-
-.week-label {
-  flex: 1;
-}
-
-.week-count {
-  font-size: 0.8rem;
+.week-meta {
+  font-size: 0.85rem;
   color: var(--color-muted);
-  font-weight: 400;
+  margin-bottom: 1.5rem;
 }
 
 .week-summary {
-  padding: 0 1rem 0.75rem;
   color: var(--color-muted);
-  font-size: 0.9rem;
-  line-height: 1.5;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
 }
 
 .week-summary p + p {
   margin-top: 0.5rem;
 }
 
-.day-group {
+.day-heading {
+  font-size: 1.05rem;
+  margin: 2rem 0 0.25rem;
+  padding-top: 1rem;
   border-top: 1px solid var(--color-border);
 }
 
-.day-group > summary {
-  list-style: none;
-  cursor: pointer;
-  display: flex;
-  align-items: baseline;
-  gap: 0.75rem;
-  padding: 0.6rem 1rem 0.6rem 1.75rem;
-  font-family: var(--font-heading);
-  font-weight: 500;
-  font-size: 0.95rem;
-}
-
-.day-group > summary::-webkit-details-marker { display: none; }
-
-.day-group > summary::before {
-  content: "\25B8";
-  display: inline-block;
-  transition: transform 0.15s ease;
-  font-size: 0.75em;
-}
-
-.day-group[open] > summary::before {
-  transform: rotate(90deg);
-}
-
-.day-label {
-  font-weight: 500;
-}
-
 .day-highlight {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   color: var(--color-muted);
-  font-weight: 400;
   font-style: italic;
-}
-
-.day-group > .post-list {
-  padding: 0 1rem 0.75rem 2.5rem;
-}
-
-.day-group > .post-list li {
-  padding-top: 0.4rem;
-  padding-bottom: 0.4rem;
+  margin-bottom: 0.75rem;
 }
 
 /* === Article (posts) === */
