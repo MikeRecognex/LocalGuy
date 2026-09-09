@@ -40,9 +40,9 @@ permalink: /
     </ul>
 
 <div class="clinic-cta">
-  <img src="/ambulogo.png" alt="AI Search" class="clinic-cta-logo" />
+  <img src="/ambulogo.png" alt="Ask Our Expert" class="clinic-cta-logo" />
   <div>
-    <strong>AI Search</strong> — Describe your use-case and get tailored answers drawn from our articles. <a href="/clinic/">Try it &rarr;</a>
+    <strong>Ask Our Expert</strong> — Ask a question about running models locally and get an answer built from our published articles, with source links. <a href="/clinic/">Ask a question &rarr;</a>
   </div>
 </div>
 

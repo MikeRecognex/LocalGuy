@@ -1,12 +1,12 @@
 ---
-title: "AI Search"
+title: "Ask Our Expert"
 layout: layouts/page.njk
 permalink: /clinic/
-description: "Describe your local AI use-case or problem, and AI Search looks through our articles to give you a tailored answer with source links."
+description: "Ask a question about running AI models locally and get an answer built from our published articles, with a link to every source it used."
 ---
 
 <div class="clinic-container">
-  <p class="clinic-intro">Describe your use-case or problem and AI Search will look through our published articles to give you a tailored answer with source links. Ten questions per hour.</p>
+  <p class="clinic-intro">Ask a question about running models locally. The answer is built only from our published articles, with a link to every source it used — so you can check it. Ten questions per hour.</p>
 
   <form id="clinic-form" class="clinic-form">
     <label for="clinic-question" class="sr-only">Your question</label>
