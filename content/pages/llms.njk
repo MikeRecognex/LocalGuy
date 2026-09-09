@@ -35,6 +35,24 @@ Where a guide and a post disagree, the guide is current and the post is not.
 - [{{ post.data.title }}]({{ site.url }}{{ post.url }}) — {{ post.date | readableDate }}{% if post.data.description %}: {{ post.data.description | truncate(200) }}{% endif %}
 {%- endfor %}
 
+## API
+
+Retrieval over this site's published articles, for agents that would rather query than read the list above. No key, no sign-up, CORS open.
+
+`GET {{ site.url }}/api/search?q={query}`
+
+- `q` — required, 3-500 characters.
+- `kind` — `all` (default), `guides` or `posts`.
+- `limit` — 1-20, default 5.
+
+Returns JSON: `{ query, kind, count, results: [{ title, url, kind, date, description, snippet, score }] }`. Results are ordered by relevance; `url` is absolute. An empty `results` array with HTTP 200 means nothing matched — it is not an error.
+
+```
+curl "{{ site.url }}/api/search?q=how%20much%20context%20fits%20in%20vram&kind=guides"
+```
+
+Rate limited to 60 requests per hour per IP; responses are cached for 5 minutes. The same precedence described above applies here: prefer `"kind": "guide"` results, which are hand-verified and dated, over `"kind": "post"`, which are unmaintained news notes. Retired posts are removed from the index rather than flagged, so anything returned is currently published.
+
 ## Optional
 
 - [Atom feed]({{ site.url }}/feed.xml) and [JSON feed]({{ site.url }}/feed.json): the 20 most recent posts.

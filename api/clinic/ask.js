@@ -1,15 +1,10 @@
-import { Index } from '@upstash/vector'
+import { retrieve, TOP_K } from '../_retrieve.js'
 import { checkRateLimit, logQuery } from './_ratelimit.js'
-
-const vector = new Index({
-  url: process.env.UPSTASH_VECTOR_REST_URL,
-  token: process.env.UPSTASH_VECTOR_REST_TOKEN
-})
 
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions'
 const GROQ_MODEL = 'openai/gpt-oss-120b'
 
-const DEFAULT_SYSTEM_PROMPT = `You are AI Search, an expert assistant for LocalFTW — a community site about running AI models locally on your own hardware.
+const DEFAULT_SYSTEM_PROMPT = `You are the LocalFTW expert — the resident assistant for a community site about running AI models locally on your own hardware.
 
 You answer questions about local LLM use-cases, hardware, deployment, tools, and techniques based on the site's published articles provided as context.
 
@@ -102,12 +97,7 @@ export default async function handler(req, res) {
   logQuery(rl.ip, question, false).catch(e => console.error('[clinic] log error:', e))
 
   try {
-    // Vector search — send raw text, Upstash embeds it with built-in model
-    const results = await vector.query({
-      data: question,
-      topK: 5,
-      includeMetadata: true
-    })
+    const results = await retrieve({ query: question, topK: TOP_K })
 
     if (!results || results.length === 0) {
       res.status(200).json({

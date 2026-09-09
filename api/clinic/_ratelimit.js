@@ -10,12 +10,15 @@ const LIMIT = 10
 const LOG_KEY = 'clinic:log'
 const LOG_MAX = 1000
 
-export async function checkRateLimit(req) {
+// Callers pass their own bucket. /ask/ spends a Groq call per request and is
+// held to LIMIT; retrieval-only callers cost one Upstash query and get their
+// own, looser prefix so the two cannot exhaust each other.
+export async function checkRateLimit(req, { prefix = 'clinic:rl:', limit = LIMIT } = {}) {
   const ip = req.headers['x-forwarded-for']?.split(',')[0]?.trim()
     || req.headers['x-real-ip']
     || 'unknown'
 
-  const key = `clinic:rl:${ip}`
+  const key = `${prefix}${ip}`
   const count = await redis.incr(key)
 
   // Set TTL on first request in window
@@ -24,16 +27,16 @@ export async function checkRateLimit(req) {
   }
 
   const ttl = await redis.ttl(key)
-  const remaining = Math.max(0, LIMIT - count)
+  const remaining = Math.max(0, limit - count)
   const reset = Math.floor(Date.now() / 1000) + (ttl > 0 ? ttl : WINDOW)
 
   // Fire abuse alert on first block
-  if (count === LIMIT + 1) {
+  if (count === limit + 1) {
     fireAbuseAlert(ip, count).catch(() => {})
   }
 
   return {
-    allowed: count <= LIMIT,
+    allowed: count <= limit,
     remaining,
     reset,
     ip
