@@ -4,6 +4,16 @@
   "framework": null,
   "redirects": [
     {
+      "source": "/clinic",
+      "destination": "/ask/",
+      "permanent": true
+    },
+    {
+      "source": "/clinic/",
+      "destination": "/ask/",
+      "permanent": true
+    },
+    {
       "source": "/posts/freetoken-moe-serving-engine-753b-single-gpu",
       "destination": "/posts/freetoken-edge-native-moe-serving-engine/",
       "permanent": true

@@ -42,7 +42,7 @@ permalink: /
 <div class="clinic-cta">
   <img src="/ambulogo.png" alt="Ask Our Expert" class="clinic-cta-logo" />
   <div>
-    <strong>Ask Our Expert</strong> — Ask a question about running models locally and get an answer built from our published articles, with source links. <a href="/clinic/">Ask a question &rarr;</a>
+    <strong>Ask Our Expert</strong> — Ask a question about running models locally and get an answer built from our published articles, with source links. <a href="/ask/">Ask a question &rarr;</a>
   </div>
 </div>
 

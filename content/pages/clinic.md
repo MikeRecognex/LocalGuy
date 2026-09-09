@@ -1,7 +1,7 @@
 ---
 title: "Ask Our Expert"
 layout: layouts/page.njk
-permalink: /clinic/
+permalink: /ask/
 description: "Ask a question about running AI models locally and get an answer built from our published articles, with a link to every source it used."
 ---
 
