@@ -373,12 +373,16 @@ Addresses prompt injection, XSS, input sanitization, query logging, and rate lim
 - [x] **5a. Add an `## API` section** with the URL, params, a worked `curl` example and the rate limit. This is the entire distribution mechanism — an undocumented endpoint gets no traffic, and traffic is the signal that decides whether MCP is worth building.
 - [x] **5b. State the guide-over-post precedence again** in API terms: prefer `kind: "guide"`; note that retired posts are removed from the index rather than flagged.
 
-## Task 6: Verification
+## Task 6: Verification — all passed, deployed in 67707c5f
 
-- [ ] **6a.** `curl '.../api/search?q=moe%20expert%20offload'` returns the MoE guide first with `kind: "guide"`. **Post-deploy.**
+- [x] **6a. PASS.** MoE guide ranks first at 0.8724 with `kind: "guide"`, ahead of four MoE news posts (0.8635-0.8553) — guide promotion is working through the new module.
 - [x] **6b.** `limit=0`, `limit=999`, missing `q`, 2-char `q`, bad `kind` all return sane 400s or clamp.
-- [ ] **6c.** Second identical request is served from edge cache (`x-vercel-cache: HIT`). **Post-deploy.**
-- [ ] **6d.** Cross-origin `fetch` from a different domain succeeds. **Post-deploy.**
-- [x] **6e. Retrieval parity proved against the live index.** Ran the pre-extraction inline logic and the new `retrieve()` side by side over four queries; identical URL ordering on all four. Also confirmed the `kind` filter returns only that kind, and that a filter-injection attempt in `kind` is rejected before reaching Upstash.
+- [x] **6c. PASS.** First request `x-vercel-cache: MISS`, second `HIT` with `age` advancing. Notably `X-RateLimit-Remaining` did **not** decrement on the cached hit, confirming the edge absorbs repeats before the function runs — so caching protects both the Upstash quota and the caller's allowance.
+- [x] **6d. PASS.** `access-control-allow-origin: *` present on GET; `OPTIONS` preflight returns 204.
+- [x] **6e. PASS in production.** `/ask/` answers end-to-end with the MoE guide cited first. One transient 500 on the first call immediately post-deploy did not reproduce across three subsequent calls — it landed during the deployment swap. Pre-deploy, retrieval parity was proved against the live index: Ran the pre-extraction inline logic and the new `retrieve()` side by side over four queries; identical URL ordering on all four. Also confirmed the `kind` filter returns only that kind, and that a filter-injection attempt in `kind` is rejected before reaching Upstash.
 - [x] **6g.** Eleventy build clean (3247 files); `/ask/` renders, `/clinic/` absent from output; `## API` section present in built `llms.txt`. All four API modules pass an ESM syntax check.
-- [ ] **6f.** Confirm `clinic:log` is *not* growing from search traffic. **Post-deploy.**
+- [x] **6f. PASS.** `clinic:log` length 10 before and 10 after five search requests. A `search:rl:` bucket was created, confirming the buckets are separate — observed `/api/search` remaining at 55 while `/ask/` sat at 9.
+
+## Follow-up found during verification
+
+- [ ] **Relevance floor.** `?q=zzzqqxnonsensetokenstring` returns 5 results with HTTP 200. Vector search always yields nearest neighbours, so a caller asking something the corpus does not cover gets confident-looking noise rather than an empty set. `/ask/` is insulated because the model is told to say when context does not cover the question, but a raw API caller has no such guard. Consider a minimum score threshold (needs calibration — good matches sit ~0.86-0.91 and the nonsense query still scored within that band, so a naive cutoff will not separate them; may need a margin-to-query-length or relative-drop heuristic instead).
