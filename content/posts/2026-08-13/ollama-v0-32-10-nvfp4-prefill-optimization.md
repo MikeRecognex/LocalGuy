@@ -17,7 +17,8 @@ tags:
 source:
   name: "Ollama release"
   url: "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1"
-status: published
+status: draft
+superseded_by: content/posts/2026-08-14/ollama-v0-32-10-nvfp4-prefill-optimization.md
 ---
 
 Ollama's latest release (v0.32.10) brings meaningful performance improvements to quantized model inference, particularly for NVFP4-formatted models. The optimization in prefill processing yields 7-8% speed improvements on popular models like Qwen 3.6 and Muse Glimmer, achieved by compiling float-to-int multiplication operations into a single kernel. Additionally, the release defaults repeat penalties to 1.0 (off) unless explicitly configured, bringing better alignment with other inference engines.

@@ -18,7 +18,8 @@ tags:
 source:
   name: "Ollama release"
   url: "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2"
-status: published
+status: draft
+superseded_by: content/posts/2026-08-25/ollama-v0-33-claude-desktop-integration.md
 ---
 
 Ollama 0.33 introduces a significant usability improvement by integrating directly with Claude Desktop, enabling users to toggle individual local models on/off and select from available local models within Claude's interface. The release includes a new Apps view for managing integrations with copyable commands, streamlining the setup process for combining local inference with Claude workflows.

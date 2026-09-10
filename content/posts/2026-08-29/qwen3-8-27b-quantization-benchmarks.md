@@ -21,7 +21,8 @@ mentions:
 source:
   name: "Hacker News"
   url: "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
-status: published
+status: draft
+superseded_by: content/posts/2026-08-27/qwen3-8-27b-quantization-benchmarks.md
 ---
 
 This benchmark study provides empirical data on how different quantization levels affect Qwen3.8 27B model quality and performance. The findings show that 4-bit quantization preserves model capabilities effectively, making it a reliable choice for local deployment, while aggressive 1-bit quantization severely degrades performance across tested metrics.

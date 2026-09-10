@@ -17,7 +17,8 @@ mentions:
 source:
   name: "Hacker News"
   url: "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/"
-status: published
+status: draft
+superseded_by: content/posts/2026-09-01/running-llm-browser-webgpu-local-inference.md
 ---
 
 Browser-based LLM inference represents a significant frontier for edge deployment, eliminating the need for backend infrastructure and keeping inference entirely on user devices. This guide explores WebGPU's capabilities for accelerating model computations within the browser environment, addressing both performance and security concerns through model hash verification.

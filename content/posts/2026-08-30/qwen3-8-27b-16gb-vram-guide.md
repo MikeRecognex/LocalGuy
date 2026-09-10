@@ -22,7 +22,8 @@ mentions:
 source:
   name: "Hacker News"
   url: "https://www.autodidacts.io/how-to-fit-qwen3-8-27b-into-16gb-vram-run-with-llama-cpp-rtx-3080-flags-quantizations/"
-status: published
+status: draft
+superseded_by: content/posts/2026-08-29/qwen3-8-27b-16gb-vram-guide.md
 ---
 
 This guide translates quantization theory into actionable configuration for practitioners with RTX 3080-level hardware. By combining selective quantization (like Q4_K_XL), context optimization, and llama.cpp's inference engine, developers can deploy 27B models within typical gaming-class GPU memory constraints without external cloud infrastructure.

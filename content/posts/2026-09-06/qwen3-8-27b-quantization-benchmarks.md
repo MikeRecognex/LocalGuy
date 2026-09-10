@@ -18,7 +18,8 @@ mentions:
     role: publisher
   - name: Quesma
     role: publisher
-status: published
+status: draft
+superseded_by: content/posts/2026-08-27/qwen3-8-27b-quantization-benchmarks.md
 ---
 
 This benchmark provides essential guidance for practitioners making quantization tradeoff decisions. The finding that 4-bit quantization holds up well while 1-bit approaches collapse on Qwen3.8 27B gives concrete data for model selection in local deployment scenarios. For a popular 27B parameter model, 4-bit quantization represents a reasonable sweet spot—typically 6-8GB memory requirement—while preserving model quality.

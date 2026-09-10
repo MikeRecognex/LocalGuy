@@ -18,7 +18,8 @@ mentions:
 source:
   name: "Ollama / GitHub"
   url: "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2"
-status: published
+status: draft
+superseded_by: content/posts/2026-08-25/ollama-v0-33-claude-desktop-integration.md
 ---
 
 This release represents a significant shift in how local LLMs integrate with mainstream AI applications. Rather than being isolated tools, local Ollama models now work seamlessly within Claude Desktop—users can select their own quantised models for privacy-sensitive tasks while falling back to cloud models when needed. This hybrid approach legitimises local inference as a first-class citizen in professional workflows.

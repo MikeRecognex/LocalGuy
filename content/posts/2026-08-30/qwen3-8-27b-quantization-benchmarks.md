@@ -21,7 +21,8 @@ mentions:
 source:
   name: "Hacker News"
   url: "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
-status: published
+status: draft
+superseded_by: content/posts/2026-08-27/qwen3-8-27b-quantization-benchmarks.md
 ---
 
 Quantization is the most practical pathway to running large models on consumer GPUs, and this benchmark provides concrete data on where the tradeoffs lie. The finding that 4-bit quantization maintains reasonable quality while 1-bit approaches collapse has immediate implications for anyone trying to fit Qwen3.8's 27B parameters into 16GB VRAM or less.
