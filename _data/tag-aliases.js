@@ -101,7 +101,21 @@ const SAME_REFERENT = {
   "rag-pipeline": "rag",                 // 34 + 35
   "coding": "code-generation",           // 26 + 69
   "evaluation": "model-evaluation",      // 24 + 21, specificity over frequency
+  "ai-sovereignty": "sovereign-ai",      // 1 + 10; takes sovereign-ai over the page threshold
 };
+
+// Deliberately NOT merged into sovereign-ai, recorded so the question is not reopened:
+//
+//   data-sovereignty (37)      where data legally sits — a jurisdiction question that
+//                              applies whether or not any AI is involved
+//   digital-sovereignty (1)    the umbrella policy concept over cloud, chips and data
+//   sovereign-computing (1)    control of the compute layer
+//   operational-sovereignty (1) control of how a system is run
+//
+// All four overlap with sovereign-ai and none is the same thing. The last three carry
+// one post each, below MIN_POSTS_FOR_TAG_PAGE, so they render nowhere and collapsing
+// them would buy no page while destroying the distinction a guide on this subject
+// exists to draw.
 
 Object.assign(EXPLICIT, SAME_REFERENT);
 
