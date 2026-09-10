@@ -6,8 +6,11 @@
  * for the Local LLM Clinic RAG feature.
  *
  * Usage:
- *   npm run clinic:index            # upsert all published posts
- *   npm run clinic:index -- --dry-run  # preview without upserting
+ *   npm run clinic:index            # upsert all published posts, then prune retired ones
+ *   npm run clinic:index -- --dry-run  # read-only: list the upserts and the exact prune set
+ *
+ * --dry-run still reads the live index, since the prune set can only be
+ * determined from it. It never writes.
  */
 
 const fs = require('fs')
@@ -123,8 +126,7 @@ async function main() {
     for (const p of posts) {
       console.log(`  ${p.id} (${p.data.length} chars)`)
     }
-    console.log(`\nDry run complete. ${posts.length} posts would be upserted.`)
-    return
+    console.log(`\n${posts.length} posts would be upserted.`)
   }
 
   // Validate env vars. This runs as a build step, where absent credentials
@@ -133,7 +135,9 @@ async function main() {
   const url = process.env.UPSTASH_VECTOR_REST_URL
   const token = process.env.UPSTASH_VECTOR_REST_TOKEN
   if (!url || !token) {
-    console.warn('Skipping clinic re-index: UPSTASH_VECTOR_REST_URL / _TOKEN not set')
+    console.warn(dryRun
+      ? '\nNo credentials, so the prune cannot be previewed — it reads the live index.'
+      : 'Skipping clinic re-index: UPSTASH_VECTOR_REST_URL / _TOKEN not set')
     return
   }
 
@@ -144,11 +148,13 @@ async function main() {
   const BATCH_SIZE = 50
   let total = 0
 
-  for (let i = 0; i < posts.length; i += BATCH_SIZE) {
-    const batch = posts.slice(i, i + BATCH_SIZE)
-    await index.upsert(batch)
-    total += batch.length
-    console.log(`  Upserted ${total}/${posts.length}`)
+  if (!dryRun) {
+    for (let i = 0; i < posts.length; i += BATCH_SIZE) {
+      const batch = posts.slice(i, i + BATCH_SIZE)
+      await index.upsert(batch)
+      total += batch.length
+      console.log(`  Upserted ${total}/${posts.length}`)
+    }
   }
 
   // Prune vectors whose source is no longer published. Without this the clinic
@@ -164,14 +170,24 @@ async function main() {
 
   // A bug in collectPosts would otherwise quietly empty the index, so only
   // prune what looks like ordinary churn.
-  if (stale.length > posts.length * 0.2) {
+  const ceiling = Math.floor(posts.length * 0.2)
+  if (stale.length > ceiling) {
     console.warn(`\nRefusing to prune ${stale.length} vectors against only ${posts.length} live posts — that looks wrong. Skipping prune.`)
-  } else if (stale.length) {
+  } else if (!stale.length) {
+    console.log('\nNothing to prune.')
+  } else if (dryRun) {
+    // The stale set is (index ids − live ids), and upserting only ever adds
+    // live ids, so skipping the upsert above does not change it.
+    console.log(`\nWould prune ${stale.length} stale vectors (guard trips above ${ceiling}):`)
+    for (const id of stale) console.log(`  ${id}`)
+  } else {
     await index.delete(stale)
     console.log(`\nPruned ${stale.length} stale vectors: ${stale.slice(0, 10).join(', ')}${stale.length > 10 ? ', …' : ''}`)
   }
 
-  console.log(`\nDone. ${total} vectors upserted to Upstash Vector.`)
+  console.log(dryRun
+    ? '\nDry run complete. Nothing was written to Upstash Vector.'
+    : `\nDone. ${total} vectors upserted to Upstash Vector.`)
 }
 
 main().catch(err => {
