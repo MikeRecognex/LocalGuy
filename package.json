@@ -4,7 +4,7 @@
   "description": "Obsidian-first IndieWeb publishing stack",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
-    "build": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site",
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site && (node scripts/clinic-index.js || echo 'WARNING: clinic vector re-index failed - site still deployed, AI Search index may be stale')",
     "clean": "rm -rf _site",
     "smart-retag": ".venv/bin/python scripts/smart-retag.py",
     "smart-retag:drafts": ".venv/bin/python scripts/smart-retag.py --drafts-only",

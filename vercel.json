@@ -1,5 +1,5 @@
 {
-  "buildCommand": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site",
+  "buildCommand": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site && (node scripts/clinic-index.js || echo 'WARNING: clinic vector re-index failed - site still deployed, AI Search index may be stale')",
   "outputDirectory": "_site",
   "framework": null,
   "redirects": [

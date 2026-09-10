@@ -127,12 +127,14 @@ async function main() {
     return
   }
 
-  // Validate env vars
+  // Validate env vars. This runs as a build step, where absent credentials
+  // (e.g. a preview deploy) are an expected condition rather than a failure —
+  // skip the re-index and let the build carry on.
   const url = process.env.UPSTASH_VECTOR_REST_URL
   const token = process.env.UPSTASH_VECTOR_REST_TOKEN
   if (!url || !token) {
-    console.error('Error: UPSTASH_VECTOR_REST_URL and UPSTASH_VECTOR_REST_TOKEN must be set')
-    process.exit(1)
+    console.warn('Skipping clinic re-index: UPSTASH_VECTOR_REST_URL / _TOKEN not set')
+    return
   }
 
   const { Index } = require('@upstash/vector')
@@ -147,6 +149,26 @@ async function main() {
     await index.upsert(batch)
     total += batch.length
     console.log(`  Upserted ${total}/${posts.length}`)
+  }
+
+  // Prune vectors whose source is no longer published. Without this the clinic
+  // can cite a URL that now 404s, since upserts alone never remove anything.
+  const liveIds = new Set(posts.map(p => p.id))
+  const stale = []
+  let cursor = ''
+  do {
+    const page = await index.range({ cursor, limit: 1000, includeMetadata: false })
+    for (const v of page.vectors) if (!liveIds.has(v.id)) stale.push(v.id)
+    cursor = page.nextCursor
+  } while (cursor)
+
+  // A bug in collectPosts would otherwise quietly empty the index, so only
+  // prune what looks like ordinary churn.
+  if (stale.length > posts.length * 0.2) {
+    console.warn(`\nRefusing to prune ${stale.length} vectors against only ${posts.length} live posts — that looks wrong. Skipping prune.`)
+  } else if (stale.length) {
+    await index.delete(stale)
+    console.log(`\nPruned ${stale.length} stale vectors: ${stale.slice(0, 10).join(', ')}${stale.length > 10 ? ', …' : ''}`)
   }
 
   console.log(`\nDone. ${total} vectors upserted to Upstash Vector.`)
