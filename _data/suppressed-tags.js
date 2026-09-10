@@ -44,4 +44,57 @@ const NON_DISCRIMINATING = [
   "daily-digest", // 71% — provenance of the ingest run, not a subject
 ];
 
-module.exports = new Set([...DEGENERATE_AXES, ...SITE_PREMISE, ...NON_DISCRIMINATING]);
+// Syndication provenance. The tagger records the outlet a story came from as an
+// organisation with role "publisher" and already refuses to promote those to tags
+// (PUBLISHER_ROLES in scripts/smart-retag.py), but that guard postdates these posts
+// and the retagger is additive-only — it never removes a tag already on disk. So 536
+// post-tags naming the outlet survive here and need suppressing explicitly, exactly
+// as DEGENERATE_AXES above do.
+//
+// Detected by comparing each post's tags against its own frontmatter source.name
+// rather than by a hand-kept list, so the set is reproducible against the corpus.
+//
+// The cut is independent use: how often a tag appears on posts NOT from that outlet.
+// ollama (181), llama-cpp (177), vllm (68) and amd (41) publish under their own names
+// and are also real subjects, so they are kept. Every remaining candidate drops to 10
+// or fewer independent uses — a clean gap, and all of them sit at or below the
+// MIN_POSTS_FOR_TAG_PAGE threshold anyway, so suppressing them removes no live page.
+const SYNDICATION_SOURCES = [
+  "9to5mac", "abc-money", "adafruit", "analytics-india-magazine",
+  "analytics-insight", "android-authority", "appleinsider", "ascendants",
+  "aws", "biggo-finance", "binance", "btc-times", "business-insider",
+  "business-wire", "chosunbiz", "cnx-software", "crypto-briefing",
+  "cybernews", "cybersecuritynews", "dataconomy", "decrypt",
+  "digital-reviews-network", "digital-today", "editorialge", "ein-news",
+  "eqs-news", "fathom-journal", "fortune", "fortune-india", "gadgets-360",
+  "gamegpu", "gbhackers", "geeky-gadgets", "ghacks", "gigazine",
+  "gizmochina", "google-news", "hackernoon", "help-net-security",
+  "hostinger", "hothardware", "how-to-geek", "ibm-research",
+  "ieee-spectrum", "igeekphone", "indiablooms", "iphone-islam", "itpro",
+  "journalarta", "kdnuggets", "knocksense", "latestly", "linuxiac",
+  "macrumors", "makeuseof", "marktechpost", "medium", "memeburn", "mshale",
+  "msn", "neowin", "newser", "notebookcheck", "officechai",
+  "open-source-for-you", "openpr", "ox-security", "pandaily", "phonearena",
+  "phoronix", "piunikaweb", "pocket-lint", "pr-newswire", "quasa",
+  "sammobile", "samsung", "sci-tech-today", "security-boulevard",
+  "semiconductor-engineering", "seoul-economic-daily", "siliconangle",
+  "sitepoint", "sk-hynix", "smartprix", "smbtech", "sportskeeda-tech",
+  "startup-fortune", "streetinsider", "tech-critter", "tech-in-asia",
+  "tech-insider", "tech-times", "techcrunch", "techgenyz", "techgig",
+  "techi", "techloy", "technetbook", "technobezz", "techradar",
+  "testingcatalog", "the-ai-journal", "the-cryptonomist", "the-decoder",
+  "the-economic-times", "the-hacker-news", "the-indian-express",
+  "the-investor", "the-mac-observer", "the-manila-times",
+  "the-national-law-review", "the-new-stack", "the-verge", "tipranks",
+  "towards-data-science", "tradingkey", "tradingview", "trend-hunter",
+  "venturebeat", "virtualization-review", "wccftech", "whalesbook",
+  "winbuzzer", "xda", "xda-developers", "yahoo-finance",
+  "yahoo-finance-singapore", "yahoo-tech", "yourstory", "ytechb", "zdnet",
+];
+
+module.exports = new Set([
+  ...DEGENERATE_AXES,
+  ...SITE_PREMISE,
+  ...NON_DISCRIMINATING,
+  ...SYNDICATION_SOURCES,
+]);

@@ -34,7 +34,10 @@ const EXPLICIT = {
 
   // Separator variants — see scripts/find-tag-collisions.js
   "multi-modal-ai": "multimodal-ai",
-  "multi-modal": "multimodal",
+  // Repointed from "multimodal" when that became an alias itself (see SAME_REFERENT
+  // below). canonicalTag does a single lookup and does not chain, so an alias whose
+  // destination is itself aliased would strand on a slug that no longer has a page.
+  "multi-modal": "multimodal-ai",
   "howtogeek": "how-to-geek",
   "startupfortune": "startup-fortune",
   "prism-ml": "prismml",
@@ -60,7 +63,47 @@ const EXPLICIT = {
   "apexcovantage": "apex-covantage",
   "kogai": "kog-ai",
   "exoplatform": "exo-platform",
+
+  // Both of these invert the detector's "most frequent variant wins" suggestion,
+  // which the script itself flags for verification against vendor spelling.
+  //
+  // qwen: the detector prefers qwen3-8-flash-next (7 posts vs 1), but qwen-3-8-27b
+  // above is already canonical in the hyphenated form. One model family cannot use
+  // two slug conventions, and consistency beats a 7-to-1 count on tags this small.
+  "qwen3-8-flash-next": "qwen-3-8-flash-next",
+  // coreml: the detector prefers coreml (2 vs 1). Apple writes "Core ML", and the
+  // dots-and-spaces-become-hyphens convention used for llama.cpp -> llama-cpp gives
+  // the same answer, so vendor spelling and house style agree against frequency.
+  "coreml": "core-ml",
 };
+
+// Synonyms that find-tag-collisions.js cannot see. That detector compares tags after
+// stripping non-alphanumerics, so it only finds variants that are spelled alike —
+// `mcp` and `model-context-protocol` share no characters and read as unrelated.
+// A tag co-occurrence pass over the corpus surfaces them instead: these pairs sit at
+// the top of the graph by Jaccard overlap, which is what one concept split across two
+// nodes looks like.
+//
+// The test applied is SAME REFERENT, not merely related. `mcp` and
+// `model-context-protocol` name one protocol, so they merge. `apple` and
+// `apple-silicon` do not — one is a company and the other a chip family — and
+// `release` and `model-release` do not, so both stay split however tempting the
+// overlap looks. Merging on relatedness rather than identity is how an open
+// vocabulary collapses into a generic one.
+//
+// Where frequency and specificity disagree the more specific slug wins, matching the
+// instruction the tagger itself is given ("prefer iterative-reasoning over generic
+// reasoning"): hence evaluation -> model-evaluation against the count.
+const SAME_REFERENT = {
+  "mcp": "model-context-protocol",       // 29 + 32 posts, J=0.49 — highest edge in the graph
+  "multimodal": "multimodal-ai",         // 24 + 44
+  "model-quantization": "quantization",  // 243 + 312 — largest merge here
+  "rag-pipeline": "rag",                 // 34 + 35
+  "coding": "code-generation",           // 26 + 69
+  "evaluation": "model-evaluation",      // 24 + 21, specificity over frequency
+};
+
+Object.assign(EXPLICIT, SAME_REFERENT);
 
 function canonicalTag(tag) {
   if (typeof tag !== "string") return tag;
