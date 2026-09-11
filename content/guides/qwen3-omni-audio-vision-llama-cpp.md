@@ -5,7 +5,7 @@ updated: 2026-09-06
 description: "One mmproj carries both encoders, --image and --audio are the same flag, and speech output does not work at all. The verified commands, real file sizes and open bugs for the only open-weights omni model."
 tags:
   - qwen3-omni
-  - multimodal
+  - multimodal-ai
   - audio-processing
   - llama-cpp
   - gguf

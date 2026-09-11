@@ -5,7 +5,7 @@ updated: 2026-09-02
 description: "No Q4_K_M build of Qwen3.8-27B fits in 16GB from any repository, the quant that does fit has never been quality-tested, and llama.cpp silently stops generating at ~98K context. The measured file sizes and the open bugs behind each decision."
 tags:
   - qwen
-  - qwen3-8-27b
+  - qwen-3-8-27b
   - quantization
   - gguf
   - llama-cpp
