@@ -43,5 +43,13 @@ For practitioners building local AI systems that need to process scanned documen
 
 Community feedback suggests this is the strongest open-source multilingual OCR available, making it a critical building block for local knowledge workers, researchers, and enterprises handling sensitive documents. The addition to llama.cpp's latest release signals the ecosystem's maturation toward practical, multi-capability local AI.
 
+## Two things to know before you run it
+
+Since writing this we have put the model through a 412-page job on a 16GB M1 Pro, and two properties of it are not obvious from the release notes.
+
+It is an **element-level** model, so a full letter-size page is downscaled past legibility and it responds by inventing fluent, well-formed, entirely wrong text rather than returning noise or an error. And calling it through `llama-mtmd-cli` per crop instead of a resident `llama-server` cost **75x** on identical inputs: 7,351 seconds against 98.
+
+**→ [PaddleOCR-VL on Apple Silicon: Crop to Blocks, Keep the Model Resident](/guides/paddleocr-vl-apple-silicon-block-ocr/)** has the segmenter, the measured timings, the `--jinja` flag that fails 0.6% of requests with the correct answer inside the error, and what was not tested.
+
 ---
 *Source: [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1r9mkgj/paddleocrvl_now_in_llamacpp/) · Relevance: 8/10*
