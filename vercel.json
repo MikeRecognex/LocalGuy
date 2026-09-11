@@ -34,6 +34,16 @@
       "permanent": true
     },
     {
+      "source": "/posts/llmfit-hardware-aware-model-selection-tool",
+      "destination": "/posts/llmfit-hardware-detection-tool-497-models-133-providers/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/llmfit-hardware-aware-model-selection-tool/",
+      "destination": "/posts/llmfit-hardware-detection-tool-497-models-133-providers/",
+      "permanent": true
+    },
+    {
       "source": "/tags/gguf-quantisation",
       "destination": "/tags/gguf-quantization/",
       "permanent": true

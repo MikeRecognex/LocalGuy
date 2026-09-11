@@ -1,27 +1,22 @@
 ---
-title: I made Karpathy's Autoresearch work on CPU
+title: "llmfit Checks Your Hardware and Ranks Models Before You Download"
 date: 2026-03-15
-description: A developer successfully optimized Karpathy's Autoresearch project to run on CPU-only systems, removing GPU dependency. This breakthrough makes advanced research automation accessible to users without GPU hardware.
+description: llmfit scans RAM, CPU, GPU and VRAM in one command, then ranks models on quality, speed, fit and context, picking a quantization and labelling each result ideal, okay or borderline. It accounts for active parameters on MoE models rather than total.
 tags:
-  - Alvaro-Cintas
+  - alvaro-cintas
   - hardware-setup
   - hardware-checking
   - ollama-configuration
   - llmfit
+  - news
 mentions:
-  - name: Andrej Karpathy
-    role: creator
-    handle: "@karpathy"
-  - name: bopalvelut-prog
-    role: developer
-  - name: Hacker News
+  - name: Alvaro Cintas
     role: publisher
 source:
-  name: "LinkediIn"
+  name: "LinkedIn"
   url: "https://www.linkedin.com/posts/alvaro-cintas_the-1-problem-with-local-ai-is-now-solved-activity-7436432703836717056-59Qn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEr_pgBj8d-O1H4DHGB1EGZ09GUmRXYwmw"
 status: published
 ---
-https://www.linkedin.com/posts/alvaro-cintas_the-1-problem-with-local-ai-is-now-solved-activity-7436432703836717056-59Qn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEr_pgBj8d-O1H4DHGB1EGZ09GUmRXYwmw
 
 🚨 The #1 problem with local AI is now solved.  
   
@@ -43,4 +38,4 @@ Example: Mixtral 8x7B has ~46.7B total params, but only ~12.9B are active per to
 100% Opensource.
 
 ---
-*Source: [LinkediIn](https://www.linkedin.com/posts/alvaro-cintas_the-1-problem-with-local-ai-is-now-solved-activity-7436432703836717056-59Qn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEr_pgBj8d-O1H4DHGB1EGZ09GUmRXYwmw)) · Relevance: 8/10*
+*Source: [LinkedIn](https://www.linkedin.com/posts/alvaro-cintas_the-1-problem-with-local-ai-is-now-solved-activity-7436432703836717056-59Qn) · Relevance: 8/10*

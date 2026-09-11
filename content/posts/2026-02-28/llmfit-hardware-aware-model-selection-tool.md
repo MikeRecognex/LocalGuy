@@ -20,7 +20,8 @@ mentions:
 source:
   name: "r/LocalLLaMA"
   url: "https://i.redd.it/4194dq2qy1mg1.png"
-status: published
+status: draft
+superseded_by: content/posts/2026-02-28/llmfit-hardware-detection-tool-497-models-133-providers.md
 ---
 
 LLmFit addresses a fundamental pain point in local LLM deployment: determining which models can actually run on specific hardware. The tool automatically profiles RAM, CPU, and GPU capabilities, then scores 497 models across 133 providers using quality, speed, and resource-fit metrics to recommend appropriate candidates.
