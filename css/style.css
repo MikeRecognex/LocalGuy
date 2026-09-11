@@ -1830,6 +1830,59 @@ footer p:last-child a:hover {
   font-weight: 700;
 }
 
+/* Answer rating */
+.clinic-rating {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+}
+
+.clinic-rating-prompt {
+  color: var(--color-muted);
+  margin-right: 0.25rem;
+}
+
+.clinic-rating-btn {
+  padding: 0.3rem 0.85rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 500;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, opacity 0.15s;
+}
+
+.clinic-rating-btn:hover:not(:disabled) {
+  border-color: var(--color-accent);
+  background: var(--color-bg);
+}
+
+.clinic-rating-btn:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+/* The chosen side stays legible once both are dimmed, so the vote is still
+   readable after the control settles. */
+.clinic-rating-btn.is-chosen {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  opacity: 1;
+}
+
+.clinic-rating-thanks {
+  color: var(--color-muted);
+}
+
 /* Rate limit */
 .clinic-remaining {
   margin-top: 2rem;

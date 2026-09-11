@@ -1,5 +1,5 @@
 import { retrieve, TOP_K } from '../_retrieve.js'
-import { checkRateLimit, logQuery } from './_ratelimit.js'
+import { checkRateLimit, logQuery, logAnswer } from './_ratelimit.js'
 
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions'
 const GROQ_MODEL = 'openai/gpt-oss-120b'
@@ -93,8 +93,16 @@ export default async function handler(req, res) {
     return
   }
 
-  // Log query (fire-and-forget)
-  logQuery(rl.ip, question, false).catch(e => console.error('[clinic] log error:', e))
+  // Logged before the answer is attempted, so a question survives a Groq
+  // failure. Awaited only for the id the rating is filed under — one Redis
+  // round trip against an LLM call. A logging outage costs the rating, not
+  // the answer, so an id of null is a tolerated outcome.
+  let queryId = null
+  try {
+    queryId = await logQuery(rl.ip, question, false)
+  } catch (e) {
+    console.error('[clinic] log error:', e)
+  }
 
   try {
     const results = await retrieve({ query: question, topK: TOP_K })
@@ -156,10 +164,18 @@ export default async function handler(req, res) {
     const groqData = await groqRes.json()
     const answer = groqData.choices?.[0]?.message?.content || 'No response generated.'
 
+    // Fire-and-forget: the answer is already composed, and failing to record it
+    // is not a reason to withhold it.
+    if (queryId) {
+      logAnswer(queryId, question, answer, sources)
+        .catch(e => console.error('[clinic] answer log error:', e))
+    }
+
     res.status(200).json({
       answer,
       sources: sources.map(s => ({ title: s.title, url: s.url })),
-      remaining: rl.remaining
+      remaining: rl.remaining,
+      id: queryId
     })
   } catch (err) {
     console.error('[clinic] Error:', err)

@@ -386,3 +386,48 @@ Addresses prompt injection, XSS, input sanitization, query logging, and rate lim
 ## Follow-up found during verification
 
 - [ ] **Relevance floor.** `?q=zzzqqxnonsensetokenstring` returns 5 results with HTTP 200. Vector search always yields nearest neighbours, so a caller asking something the corpus does not cover gets confident-looking noise rather than an empty set. `/ask/` is insulated because the model is told to say when context does not cover the question, but a raw API caller has no such guard. Consider a minimum score threshold (needs calibration — good matches sit ~0.86-0.91 and the nonsense query still scored within that band, so a naive cutoff will not separate them; may need a margin-to-query-length or relative-drop heuristic instead).
+
+---
+
+# Answer Quality Signal — logging + ratings
+
+Prompted by a replay of the 12 unique logged questions through `retrieve()` on
+2026-09-11. Retrieval is mostly good, but `"What's the best local model for STT"`
+returned five generic "best local LLM" posts and zero speech content — despite 38
+files in the corpus covering Whisper/STT — and scored **0.8762**, higher than four
+answers that were correct.
+
+That number is the design constraint: **similarity score does not track relevance**,
+so a displayed confidence rating would have stamped high confidence on the one
+answer that was wrong. Ratings must come from users, not from scores.
+
+## Task 1: Persist what was actually answered — `api/clinic/_ratelimit.js`
+- [x] **1a.** `logQuery` returns a `crypto.randomUUID()` id and includes it in the list entry.
+- [x] **1b.** Add `logAnswer(id, answer, sources)` writing a `clinic:q:<id>` hash. Separate key, not a list rewrite: Redis lists cannot update an entry by id, and the answer only exists after the response has been composed.
+- [x] **1c.** Leave the `clinic:log` list format otherwise untouched — the 14 existing entries must stay readable. New entries simply gain an `id`; old ones join to nothing.
+- [x] **1d.** TTL the `clinic:q:*` hashes (90d) so answer bodies do not grow without bound. The question list stays permanent as before.
+
+## Task 2: Thread the id through — `api/clinic/ask.js`
+- [x] **2a.** Keep the existing pre-flight `logQuery` call so a question is recorded even when Groq fails.
+- [x] **2b.** Call `logAnswer` after a successful answer; return `id` in the JSON body.
+
+## Task 3: The rating endpoint — `api/clinic/rate.js`
+- [x] **3a.** `POST {id, rating}`, rating strictly `1` or `-1`. `405` on any other method.
+- [x] **3b.** Validate `id` against a UUID regex before it touches a key name — it arrives from the client and is concatenated into a Redis key.
+- [x] **3c.** Refuse to rate an id that does not exist, so the endpoint cannot be used to create arbitrary keys.
+- [x] **3d.** Own rate-limit bucket (`clinic:rate:rl:`, 60/hr). Rating costs no upstream API call, so it should not consume the /ask/ allowance.
+- [x] **3e.** Fail closed on a Redis error, matching `ask.js`.
+
+## Task 4: UI — `js/clinic.js` + `content/pages/clinic.md`
+- [x] **4a.** Thumbs up/down under the answer, hidden until an answer renders.
+- [x] **4b.** Fire-and-forget POST; on failure say nothing. A broken rating must never look like a broken answer.
+- [x] **4c.** Disable both buttons after a vote and acknowledge it.
+
+## Task 5: Verification
+- [x] **5a.** Every module passes a syntax check.
+- [x] **5b.** Build succeeds and the rating control renders.
+- [x] **5c.** Reject: bad method, bad rating value, malformed id, unknown id.
+- [x] **5d.** Confirm the 14 pre-existing log entries still parse after the format change.
+
+## Not included
+- [ ] **The STT retrieval miss.** Real and reproducible, but a retrieval fix (acronym expansion or a hybrid keyword pass) is a separate change from measuring quality. Logging lands first so the fix can be verified against recorded answers rather than by eye.

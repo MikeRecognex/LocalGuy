@@ -9,6 +9,13 @@ const answerEl = document.getElementById('clinic-answer')
 const sourceList = document.getElementById('clinic-source-list')
 const remainingEl = document.getElementById('clinic-remaining')
 const remainingCount = document.getElementById('clinic-remaining-count')
+const ratingEl = document.getElementById('clinic-rating')
+const ratingThanks = document.getElementById('clinic-rating-thanks')
+const ratingBtns = document.querySelectorAll('.clinic-rating-btn')
+
+// Id of the answer currently on screen. Null until one is rendered, and cleared
+// on each new question so a rating can never be filed against a stale answer.
+let currentAnswerId = null
 
 function escapeHtml(str) {
   const div = document.createElement('div')
@@ -33,6 +40,38 @@ textarea.addEventListener('input', () => {
   charCount.textContent = `${textarea.value.length} / 500`
 })
 
+function resetRating() {
+  currentAnswerId = null
+  ratingEl.hidden = true
+  ratingThanks.hidden = true
+  ratingBtns.forEach((b) => {
+    b.disabled = false
+    b.classList.remove('is-chosen')
+  })
+}
+
+ratingBtns.forEach((btn) => {
+  btn.addEventListener('click', () => {
+    if (!currentAnswerId) return
+    const rating = Number(btn.dataset.rating)
+
+    // Acknowledge immediately and settle the control. The vote is advisory, so
+    // the reply is not worth making anyone wait for.
+    ratingBtns.forEach((b) => { b.disabled = true })
+    btn.classList.add('is-chosen')
+    ratingThanks.hidden = false
+
+    // Deliberately silent on failure: a rating that did not record is not worth
+    // showing an error for, and an error here would read as a problem with the
+    // answer itself.
+    fetch('/api/clinic/rate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id: currentAnswerId, rating })
+    }).catch(() => {})
+  })
+})
+
 form.addEventListener('submit', async (e) => {
   e.preventDefault()
 
@@ -44,6 +83,7 @@ form.addEventListener('submit', async (e) => {
   resultEl.hidden = true
   loadingEl.hidden = false
   submitBtn.disabled = true
+  resetRating()
 
   try {
     const res = await fetch('/api/clinic/ask', {
@@ -96,6 +136,11 @@ form.addEventListener('submit', async (e) => {
         sourceList.appendChild(li)
       })
     }
+
+    // Only offer a rating when there is an id to file it against. An older
+    // deployment, or a logging outage, returns none.
+    currentAnswerId = typeof data.id === 'string' ? data.id : null
+    ratingEl.hidden = currentAnswerId === null
 
     resultEl.hidden = false
   } catch (err) {

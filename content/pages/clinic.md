@@ -39,6 +39,12 @@ description: "Ask a question about running AI models locally and get an answer b
       <h3>Sources</h3>
       <ol id="clinic-source-list"></ol>
     </div>
+    <div id="clinic-rating" class="clinic-rating" hidden>
+      <span class="clinic-rating-prompt">Was this answer useful?</span>
+      <button type="button" class="clinic-rating-btn" data-rating="1" aria-label="Yes, this answer was useful">Yes</button>
+      <button type="button" class="clinic-rating-btn" data-rating="-1" aria-label="No, this answer was not useful">No</button>
+      <span id="clinic-rating-thanks" class="clinic-rating-thanks" role="status" hidden>Thanks — noted.</span>
+    </div>
   </div>
 
   <p id="clinic-remaining" class="clinic-remaining" hidden>
