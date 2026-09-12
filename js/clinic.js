@@ -1,4 +1,12 @@
 const form = document.getElementById('clinic-form')
+
+// The widget is optional on any page that loads this module, so bail rather
+// than throwing on the first null element and taking the rest of the page's
+// scripts down with it.
+if (!form) {
+  console.debug('[clinic] no ask form on this page')
+} else {
+
 const textarea = document.getElementById('clinic-question')
 const charCount = document.getElementById('clinic-char-count')
 const submitBtn = document.getElementById('clinic-submit')
@@ -151,3 +159,5 @@ form.addEventListener('submit', async (e) => {
     submitBtn.disabled = false
   }
 })
+
+}

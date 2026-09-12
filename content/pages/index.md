@@ -41,8 +41,10 @@ permalink: /
 
 <div class="clinic-cta">
   <img src="/ambulogo.png" alt="Ask Our Expert" class="clinic-cta-logo" />
-  <div>
-    <strong>Ask Our Expert</strong> — Ask a question about running models locally and get an answer built from our published articles, with source links. <a href="/ask/">Ask a question &rarr;</a>
+  <div class="clinic-cta-body">
+    <p class="clinic-cta-lead"><strong>Ask Our Expert</strong> — answered from our published articles, with a link to every source. <a href="/ask/">More about this &rarr;</a></p>
+{% set askCompact = true %}
+{% include "partials/ask-form.njk" %}
   </div>
 </div>
 

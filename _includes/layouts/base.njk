@@ -23,7 +23,10 @@
   {% include "partials/search.njk" %}
   <script type="module" src="/js/search.js"></script>
   {% if page.url == "/bookmarks/" %}<script type="module" src="/js/bookmarks.js"></script>{% endif %}
-  {% if page.url == "/clinic/" %}<script type="module" src="/js/clinic.js"></script>{% endif %}
+  {# Both pages that embed partials/ask-form.njk. This said "/clinic/" after the
+     page moved to /ask/ in 837b5779, so the form rendered with nothing bound to
+     it and the button did nothing. Keep this list in step with the partial. #}
+  {% if page.url == "/ask/" or page.url == "/" %}<script type="module" src="/js/clinic.js"></script>{% endif %}
   {% if page.url == "/trends/" %}<script type="module" src="/js/trends.js"></script>{% endif %}
   {% if page.url == "/graph/" %}<script type="module" src="/js/graph.js"></script><script type="module" src="/js/trends.js"></script>{% endif %}
   {% if page.url == "/" %}<script type="module" src="/js/graph.js"></script>{% endif %}

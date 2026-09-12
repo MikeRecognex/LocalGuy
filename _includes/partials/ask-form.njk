@@ -1,0 +1,49 @@
+{#
+  The Ask Our Expert widget, shared by /ask/ and the landing page.
+
+  One implementation, one set of ids — the two pages never render together, and
+  js/clinic.js binds by id. Set `askCompact` before including for the landing
+  page variant, which is shorter and carries its own explanatory text.
+#}
+<div class="ask-widget{% if askCompact %} ask-widget-compact{% endif %}">
+  <form id="clinic-form" class="clinic-form">
+    <label for="clinic-question" class="sr-only">Your question</label>
+    <textarea
+      id="clinic-question"
+      name="question"
+      placeholder="{% if askCompact %}Ask about running models locally…{% else %}e.g. What's the best way to run a 70B model on consumer hardware?{% endif %}"
+      rows="{% if askCompact %}2{% else %}4{% endif %}"
+      maxlength="500"
+      required
+    ></textarea>
+    <div class="clinic-form-footer">
+      <span id="clinic-char-count" class="clinic-char-count">0 / 500</span>
+      <button type="submit" id="clinic-submit" class="clinic-submit">Ask</button>
+    </div>
+  </form>
+
+  <div id="clinic-loading" class="clinic-loading" hidden>
+    <span class="clinic-spinner" aria-hidden="true"></span>
+    Searching articles and thinking&hellip;
+  </div>
+
+  <div id="clinic-error" class="clinic-error" role="alert" hidden></div>
+
+  <div id="clinic-result" class="clinic-result" hidden>
+    <div id="clinic-answer" class="clinic-answer"></div>
+    <div id="clinic-sources" class="clinic-sources">
+      <h3>Sources</h3>
+      <ol id="clinic-source-list"></ol>
+    </div>
+    <div id="clinic-rating" class="clinic-rating" hidden>
+      <span class="clinic-rating-prompt">Was this answer useful?</span>
+      <button type="button" class="clinic-rating-btn" data-rating="1" aria-label="Yes, this answer was useful">Yes</button>
+      <button type="button" class="clinic-rating-btn" data-rating="-1" aria-label="No, this answer was not useful">No</button>
+      <span id="clinic-rating-thanks" class="clinic-rating-thanks" role="status" hidden>Thanks — noted.</span>
+    </div>
+  </div>
+
+  <p id="clinic-remaining" class="clinic-remaining" hidden>
+    <span id="clinic-remaining-count" class="clinic-remaining-count"></span> questions remaining this hour
+  </p>
+</div>
