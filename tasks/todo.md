@@ -429,5 +429,30 @@ answer that was wrong. Ratings must come from users, not from scores.
 - [x] **5c.** Reject: bad method, bad rating value, malformed id, unknown id.
 - [x] **5d.** Confirm the 14 pre-existing log entries still parse after the format change.
 
-## Not included
-- [ ] **The STT retrieval miss.** Real and reproducible, but a retrieval fix (acronym expansion or a hybrid keyword pass) is a separate change from measuring quality. Logging lands first so the fix can be verified against recorded answers rather than by eye.
+## Follow-on, done 2026-09-12
+- [x] **The STT retrieval miss — fixed in 2f7d340f.** Diagnosis was broader than the
+      acronym: `"STT"` alone scored 0.804, the same band as a nonsense string, and
+      `"TTS"` failed identically — but so did the ordinary word `"transcription"`.
+      The "best local model for ..." framing dominates the sentence unless something
+      in it overlaps lexically with the target posts. `expandQuery()` in
+      `api/_retrieve.js` appends the words an author would have written. Measured:
+      STT, TTS and transcription each 0/5 -> 5/5 relevant, no already-working query
+      changed, MoE improved 0.8980 -> 0.9122. Speech-to-text and text-to-speech stay
+      near-identical to the embedding model, so an STT query still surfaces some TTS
+      posts.
+- [x] **`/ask/` was dead in production — fixed in 30c93375.** `base.njk` loaded
+      `clinic.js` only for `page.url == "/clinic/"`, but 837b5779 moved the page to
+      `/ask/` on 2026-09-09. The form rendered with nothing bound to it, so the
+      button did nothing, and the rating control above shipped dead on arrival.
+      Verified live: a real question returns an answer in 2.6s with the guide
+      promoted first, and the question, answer, source URLs and rating all persist.
+- [x] **Ask box moved onto the landing page.** Analytics for Jun 11 - Sep 11: `/clinic`
+      plus `/ask` drew 23 visitors out of 3847 while the landing page already carried
+      a call to action, so the obstacle was the navigation step rather than discovery.
+
+## Read the traffic numbers with care
+Visitor counts up to 2026-09-12 predate a firewall change and are probably inflated by
+automated traffic. The site serves correctly from an independent network, so nothing is
+broken — but `/posts/qwen-35-performance-breakthrough-170k-context` at 1140 visitors
+(29.6% of all traffic) is where any inflation would concentrate. Do not plan content
+around that post having "worked" until it is re-measured on honest numbers.
