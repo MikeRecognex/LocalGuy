@@ -4,15 +4,28 @@ const taxonomy = require("../../_data/tag-taxonomy.js");
 const suppressed = require("../../_data/suppressed-tags.js");
 const { canonicalTag } = require("../../_data/tag-aliases.js");
 
-// Reads `status` without parsing the whole document — this runs for every post
-// at build start, before the data cascade has loaded any of them.
-const statusOf = (p) => {
+// Reads the frontmatter keys this file needs without parsing the whole
+// document — it runs for every post at build start, before the data cascade has
+// loaded any of them.
+const frontmatterOf = (p) => {
   try {
     const fm = fs.readFileSync(p, "utf8").match(/^---\n([\s\S]*?\n)---\n/);
-    return fm ? (fm[1].match(/^status:\s*"?(\S+?)"?\s*$/m)?.[1] ?? "") : "";
+    if (!fm) return { status: "", superseded: false };
+    return {
+      status: fm[1].match(/^status:\s*"?(\S+?)"?\s*$/m)?.[1] ?? "",
+      superseded: /^superseded_by:\s*\S/m.test(fm[1]),
+    };
   } catch {
-    return "";
+    return { status: "", superseded: false };
   }
+};
+
+// A copy that can legitimately own the URL: published, and not pointing at a
+// replacement. Checking status alone picked the retired copy back up as soon as
+// the pipeline republished it, which hid the survivor along with it.
+const canOwnUrl = (p) => {
+  const { status, superseded } = frontmatterOf(p);
+  return status === "published" && !superseded;
 };
 
 // Ingestion sometimes re-creates the same story on a later date with an
@@ -34,13 +47,12 @@ const duplicatePaths = (() => {
   const skip = new Set();
   for (const [, paths] of bySlug) {
     if (paths.length < 2) continue;
-    // Keep the earliest PUBLISHED copy, not simply the earliest. Retiring a
-    // duplicate by hand sets the copy being dropped to `status: draft`, and
-    // when that copy was the earliest, keeping it blindly suppressed the
-    // survivor too — the story then disappeared from the site entirely.
-    // Falling back to paths[0] when none is published keeps one owner of the
-    // URL; the draft rule below hides it anyway.
-    const keep = paths.find((p) => statusOf(p) === "published") ?? paths[0];
+    // Keep the earliest copy that can own the URL, not simply the earliest.
+    // When the earliest copy is the one being retired, keeping it blindly
+    // suppressed the survivor too and the story left the site entirely.
+    // Falling back to paths[0] when no copy qualifies keeps one owner of the
+    // URL; isHidden below hides it anyway.
+    const keep = paths.find(canOwnUrl) ?? paths[0];
     for (const p of paths) {
       if (p === keep) continue;
       skip.add(p);
@@ -56,10 +68,18 @@ const isDuplicate = (data) =>
 // Drafts are excluded globally in eleventy.config.js, but this file defines its
 // own eleventyComputed.permalink, and a directory data file wins over global
 // data for the same key — so that rule never reached posts. Retiring a post by
-// hand with `status: draft` silently left it published. Both conditions are
+// hand with `status: draft` silently left it published. All three conditions are
 // therefore checked together here, in the one place that decides for posts.
+//
+// `superseded_by` is what actually retires a post. `status: draft` cannot: the
+// summarise step publishes drafts once it has written a summary, so a post
+// retired by hand came back as published on the next pipeline run — it flipped
+// 34 posts, these nine among them, on 2026-09-12. The pipeline rewrites status
+// and tags but leaves unknown frontmatter keys alone, so the pointer survives
+// where the status does not.
 const isHidden = (data) =>
   isDuplicate(data) ||
+  Boolean(data.superseded_by) ||
   (process.env.ELEVENTY_ENV === "production" && data.status === "draft");
 
 module.exports = {
