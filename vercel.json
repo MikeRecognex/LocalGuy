@@ -152,6 +152,736 @@
       "source": "/tags/rocm-optimisation/",
       "destination": "/tags/rocm-optimization/",
       "permanent": true
+    },
+    {
+      "source": "/tags/9to5mac",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/9to5mac/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/adafruit",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/adafruit/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/advanced",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/advanced/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/analytics-insight",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/analytics-insight/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/android-authority",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/android-authority/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/beginner-friendly",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/beginner-friendly/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/bullish",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/bullish/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/cautious",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/cautious/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/chosunbiz",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/chosunbiz/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/cybersecuritynews",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/cybersecuritynews/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/daily-digest",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/daily-digest/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/data-privacy",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/data-privacy/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/developer",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/developer/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-ai",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-ai/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-computing",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-computing/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-deployment",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-deployment/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-device",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-device/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-inference",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/edge-inference/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/enterprise",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/enterprise/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/fathom-journal",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/fathom-journal/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/geeky-gadgets",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/geeky-gadgets/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/gigazine",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/gigazine/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/google-news",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/google-news/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hackernoon",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hackernoon/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hardware",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hardware/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hobbyist",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/hobbyist/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/how-to-geek",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/how-to-geek/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/intermediate",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/intermediate/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/kdnuggets",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/kdnuggets/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-deployment",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-deployment/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-inference",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-inference/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-llm-deployment",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-llm-deployment/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-llms",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/local-llms/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/makeuseof",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/makeuseof/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/marktechpost",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/marktechpost/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/medium",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/medium/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/msn",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/msn/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/neutral",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/neutral/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/offline-ai",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/offline-ai/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/offline-deployment",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/offline-deployment/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/offline-inference",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/offline-inference/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device-ai",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device-ai/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device-deployment",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device-deployment/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device-inference",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/on-device-inference/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/open-source",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/open-source/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/open-source-ai",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/open-source-ai/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/open-weights",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/open-weights/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/phoronix",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/phoronix/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/privacy",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/privacy/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/privacy-compliance",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/privacy-compliance/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/privacy-preserving-ai",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/privacy-preserving-ai/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quasa",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/quasa/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/researcher",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/researcher/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/samsung",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/samsung/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/self-hosted",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/self-hosted/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/self-hosted-ai",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/self-hosted-ai/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/self-hosting",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/self-hosting/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/sitepoint",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/sitepoint/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/sk-hynix",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/sk-hynix/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/startup-fortune",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/startup-fortune/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/tech-insider",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/tech-insider/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/tech-times",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/tech-times/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/technobezz",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/technobezz/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/the-decoder",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/the-decoder/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/the-new-stack",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/the-new-stack/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/towards-data-science",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/towards-data-science/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/venturebeat",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/venturebeat/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/virtualization-review",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/virtualization-review/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/wccftech",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/wccftech/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/xda",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/xda/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/xda-developers",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/xda-developers/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/yahoo-finance",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/yahoo-finance/",
+      "destination": "/posts/",
+      "permanent": true
     }
   ],
   "headers": [
