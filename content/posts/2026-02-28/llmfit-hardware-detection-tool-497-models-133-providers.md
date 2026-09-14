@@ -29,5 +29,7 @@ What makes this particularly useful is the breadth of coverage—with nearly 500
 
 For teams standardising local LLM deployments across heterogeneous hardware or individuals looking to quickly identify what runs on their system, this tool reduces friction and decision paralysis. The ability to score models across multiple dimensions means users can optimise for their specific use case, whether that's maximum capability within memory constraints or fastest inference speed.
 
+**Update, 14 September 2026:** the catalogue has grown considerably since this was written — `llmfit-core/data/hf_models.json` now carries 12,937 models, refreshed weekly by an automated job. The 497 figure above is what the project reported in February 2026.
+
 ---
 *Source: [r/LocalLLaMA](https://i.redd.it/4194dq2qy1mg1.png) · Relevance: 8/10*

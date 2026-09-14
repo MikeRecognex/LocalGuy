@@ -15,6 +15,14 @@ const TOTALS_KEY = 'ref:totals'         // sorted set: hostname -> all-time coun
 const RECENT_KEY = 'ref:recent'         // list: the last RECENT_MAX arrivals
 const RECENT_MAX = 500
 
+// An engaged visit: someone who scrolled, clicked, or stayed. Vercel's visitor
+// count cannot separate people from automation, because its own analytics is a
+// client script and the traffic inflating the count executes JavaScript to be
+// counted at all. Reading behaviour is the part that is expensive to fake, so
+// this is the visitor number that is actually ours.
+const VISIT_DAY_KEY = (d) => `visit:day:${d}`  // hash: 'engaged' -> count
+const VISIT_PAGES_KEY = 'visit:pages'          // sorted set: path -> engaged count
+
 // Referrals from the site to itself are ordinary navigation, not a referral.
 const OWN_HOSTS = new Set(['lftw.dev', 'www.lftw.dev', 'localhost'])
 
@@ -33,12 +41,32 @@ export default async function handler(req, res) {
 
   // sendBeacon posts a Blob, which arrives as a string on some runtimes and a
   // parsed object on others.
-  let ref, path
+  let ref, path, type
   try {
     const body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body
     ref = body?.ref
     path = body?.path
+    type = body?.type
   } catch {
+    res.status(204).end()
+    return
+  }
+
+  const landedPath = typeof path === 'string' && path.startsWith('/') ? path.slice(0, 200) : '/'
+
+  if (type === 'engaged') {
+    try {
+      const rl = await checkRateLimit(req, { prefix: RATE_PREFIX, limit: RATE_LIMIT })
+      if (rl.allowed) {
+        const day = new Date().toISOString().slice(0, 10)
+        await Promise.all([
+          redis.hincrby(VISIT_DAY_KEY(day), 'engaged', 1),
+          redis.zincrby(VISIT_PAGES_KEY, 1, landedPath)
+        ])
+      }
+    } catch (err) {
+      console.error('[referrer] engagement log error:', err)
+    }
     res.status(204).end()
     return
   }
@@ -57,8 +85,6 @@ export default async function handler(req, res) {
     return
   }
 
-  const landed = typeof path === 'string' && path.startsWith('/') ? path.slice(0, 200) : '/'
-
   try {
     const rl = await checkRateLimit(req, { prefix: RATE_PREFIX, limit: RATE_LIMIT })
     if (!rl.allowed) {
@@ -70,7 +96,7 @@ export default async function handler(req, res) {
     await Promise.all([
       redis.hincrby(DAY_KEY(day), host, 1),
       redis.zincrby(TOTALS_KEY, 1, host),
-      redis.lpush(RECENT_KEY, JSON.stringify({ t: new Date().toISOString(), host, path: landed }))
+      redis.lpush(RECENT_KEY, JSON.stringify({ t: new Date().toISOString(), host, path: landedPath }))
     ])
     await redis.ltrim(RECENT_KEY, 0, RECENT_MAX - 1)
   } catch (err) {
