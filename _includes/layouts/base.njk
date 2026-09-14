@@ -31,5 +31,23 @@
   {% if page.url == "/graph/" %}<script type="module" src="/js/graph.js"></script><script type="module" src="/js/trends.js"></script>{% endif %}
   {% if page.url == "/" %}<script type="module" src="/js/graph.js"></script>{% endif %}
   <script defer src="/_vercel/insights/script.js"></script>
+  {# Records external referrals to /api/referrer, which Vercel's own analytics
+     will not retain long enough to compare across months. Sends the referring
+     hostname only, never the full URL, which can carry the visitor's search
+     terms. Inline to avoid a request, and silent on every failure — a missed
+     referral must never surface to a reader. #}
+  <script>
+    (function () {
+      try {
+        if (!document.referrer || !navigator.sendBeacon) return;
+        var host = new URL(document.referrer).hostname;
+        if (!host || host === location.hostname) return;
+        navigator.sendBeacon('/api/referrer', new Blob([JSON.stringify({
+          ref: host,
+          path: location.pathname
+        })], { type: 'application/json' }));
+      } catch (e) { /* never let analytics break a page */ }
+    })();
+  </script>
 </body>
 </html>
