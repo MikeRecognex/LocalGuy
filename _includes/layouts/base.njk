@@ -62,7 +62,16 @@
         }
       } catch (e) { /* ignore */ }
 
-      // One engagement ping per page, on whichever signal arrives first.
+      // One engagement ping per page, and only on an input a reader actually
+      // makes. An earlier version also fired on a bare 15s timer, which counted
+      // anything that loaded a page and waited — the result was 140 pages with
+      // exactly one "engaged" visit each and none with two, which is a crawl
+      // pattern, not an audience. A dwell timer cannot tell reading from a tab
+      // left open by automation, so there is no timer here.
+      //
+      // This undercounts: someone who reads a short post without scrolling is
+      // missed. That is the right direction to be wrong in, since the number
+      // exists to separate people from automation.
       var fired = false;
       var engaged = function () {
         if (fired) return;
@@ -71,16 +80,23 @@
         send({ type: 'engaged', path: location.pathname });
       };
       var onScroll = function () { if (window.scrollY > 200) engaged(); };
+      var onMove = function (e) {
+        // A single synthetic jump is not a mouse being moved by a hand.
+        if (typeof e.movementX !== 'number') return engaged();
+        if (Math.abs(e.movementX) + Math.abs(e.movementY) > 0) engaged();
+      };
       var cleanup = function () {
         window.removeEventListener('scroll', onScroll);
         window.removeEventListener('click', engaged);
         window.removeEventListener('keydown', engaged);
-        clearTimeout(timer);
+        window.removeEventListener('pointermove', onMove);
+        window.removeEventListener('touchstart', engaged);
       };
-      var timer = setTimeout(engaged, 15000);
       window.addEventListener('scroll', onScroll, { passive: true });
       window.addEventListener('click', engaged, { passive: true });
       window.addEventListener('keydown', engaged, { passive: true });
+      window.addEventListener('pointermove', onMove, { passive: true });
+      window.addEventListener('touchstart', engaged, { passive: true });
     })();
   </script>
 </body>
