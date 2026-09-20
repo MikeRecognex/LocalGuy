@@ -218,7 +218,7 @@ module.exports = function (eleventyConfig) {
     type: "atom",
     outputPath: "/feed.xml",
     collection: {
-      name: "posts",
+      name: "postsFeed",
       limit: 20,
     },
     metadata: {
@@ -237,7 +237,7 @@ module.exports = function (eleventyConfig) {
     type: "json",
     outputPath: "/feed.json",
     collection: {
-      name: "posts",
+      name: "postsFeed",
       limit: 20,
     },
     metadata: {
@@ -267,6 +267,21 @@ module.exports = function (eleventyConfig) {
       .getFilteredByGlob("content/posts/**/*.md")
       .filter((item) => item.data.status === "published")
       .sort((a, b) => b.date - a.date);
+  });
+
+  // Same posts, oldest first, for the feeds only.
+  //
+  // eleventy-plugin-rss renders `collections.<name> | reverse | eleventyFeedHead(limit)`
+  // (see its src/virtualTemplate.js). The reverse assumes Eleventy's default
+  // ascending order, so handing it the descending `posts` collection above
+  // flipped it back to oldest-first and the feed published the twenty OLDEST
+  // posts — every entry stamped 2026-02-11 or -12, which reads to any feed
+  // reader as a site that stopped publishing in February.
+  eleventyConfig.addCollection("postsFeed", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("content/posts/**/*.md")
+      .filter((item) => item.data.status === "published")
+      .sort((a, b) => a.date - b.date);
   });
 
   // Published guides — evergreen tutorials
