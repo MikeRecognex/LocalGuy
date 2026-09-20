@@ -4,11 +4,23 @@ date: 2026-09-19
 description: "PrismML releases a heavily quantized 27B parameter model in just 5.9 GB while maintaining 98.2% of the original Qwen3.8 27B performance, demonstrating breakthrough compression for edge deployment."
 tags:
   - daily-digest
-  - quantisation
-  - model-compression
   - edge-ai
+  - edge-deployment
+  - edge-device
+  - model-compression
   - open-source
-status: draft
+  - prismml
+  - quantisation
+  - quantization
+  - qwen3-8-27b
+  - release
+  - ternary-bonsai-2-27b
+mentions:
+  - name: PrismML
+    role: developer
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Ternary Bonsai 2 represents a significant breakthrough in model compression for edge deployment. By fitting a capable 27B parameter model into just 5.9 GB while retaining 98.2% of the original Qwen3.8 27B model's performance, this work pushes the boundaries of what's practical for on-device inference. The extreme compression is achieved through ternary quantization techniques that reduce each parameter to ternary values while maintaining remarkable capability preservation.

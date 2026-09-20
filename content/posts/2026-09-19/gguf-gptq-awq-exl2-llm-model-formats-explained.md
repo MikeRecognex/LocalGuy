@@ -3,12 +3,19 @@ title: "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained"
 date: 2026-09-19
 description: "A comprehensive comparison of the major quantization formats used in local LLM deployment, covering GGUF, GPTQ, AWQ, and EXL2 formats and their tradeoffs for on-device inference."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
-  - model-formats
+  - awq
   - benchmark
-status: draft
+  - comparison
+  - cpu-inference
+  - cpu-only
+  - daily-digest
+  - gguf
+  - gptq
+  - model-formats
+  - model-quantization
+  - on-device-inference
+  - quantisation
+status: published
 ---
 
 Understanding quantization format tradeoffs is critical for anyone deploying LLMs locally. This guide provides a detailed breakdown of the four dominant formats: GGUF (widely supported and optimized for CPU inference), GPTQ (GPU-focused with excellent compression), AWQ (newer format with strong accuracy preservation), and EXL2 (specialized for extreme compression). Each format offers different speed, memory, and accuracy characteristics depending on your hardware and latency requirements.

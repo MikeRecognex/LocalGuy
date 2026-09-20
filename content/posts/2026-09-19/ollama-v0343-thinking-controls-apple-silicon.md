@@ -3,12 +3,17 @@ title: "Ollama v0.34.3: Model Thinking Controls and Expanded Apple Silicon Suppo
 date: 2026-09-19
 description: "Ollama releases v0.34.3 with new thinking level controls for models and expanded Apple Silicon support, including Nemotron H vision models on Mac hardware."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
-  - open-source
+  - daily-digest
   - inference-servers
-status: draft
+  - multimodal-models
+  - nemotron-h
+  - ollama
+  - open-source
+  - production-inference
+  - reasoning-controls
+  - release
+status: published
 ---
 
 Ollama's latest release adds critical features for production local inference. The new thinking controls API lets users configure model reasoning levels per request (low, high, max), with sensible defaults per model. This is essential for applications needing to balance latency against quality—quick answers on simple queries, deeper reasoning for complex problems. The expansion of Apple Silicon support to include Nemotron H vision models further extends Ollama's reach on consumer Mac hardware.

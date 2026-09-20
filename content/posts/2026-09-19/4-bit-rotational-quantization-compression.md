@@ -3,12 +3,24 @@ title: "4-Bit Rotational Quantization: -45% RAM, <1% Recall Drop vs. TurboQuant"
 date: 2026-09-19
 description: "Weaviate presents a 4-bit rotational quantization technique achieving 45% RAM reduction with less than 1% recall degradation, advancing the state of memory-efficient inference."
 tags:
-  - daily-digest
-  - quantisation
-  - memory-optimization
+  - analysis
   - benchmark
+  - daily-digest
+  - edge-device
+  - memory-efficiency
+  - memory-optimization
+  - model-compression
+  - quantisation
+  - rag-pipeline
+  - turboquant
   - vector-search
-status: draft
+  - weaviate
+mentions:
+  - name: Weaviate
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 4-bit rotational quantization represents a genuine advancement in the quantization frontier, achieving aggressive compression—45% RAM savings—while maintaining retrieval quality. This technique is particularly relevant for RAG systems and vector search applications where both memory efficiency and semantic accuracy matter. The <1% recall drop compared to higher-precision approaches suggests rotational quantization elegantly preserves the geometric relationships that matter for similarity search.

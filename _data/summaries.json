@@ -863,6 +863,10 @@
     "2026-09-18": {
       "text": "Weaviate's 4‑Bit Rotational Quantization cuts RAM 45% with under 1% recall loss, boosting local LLMs.",
       "postCount": 5
+    },
+    "2026-09-19": {
+      "text": "Weaviate’s 4‑bit rotational quantization cuts RAM 45% with under 1% recall loss, outpacing TurboQuant.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -992,7 +996,7 @@
     },
     "2026-09-13": {
       "text": "",
-      "postCount": 25
+      "postCount": 30
     }
   }
 }
