@@ -3,11 +3,24 @@ title: "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin"
 date: 2026-09-12
 description: "vLLM now supports Tenstorrent hardware through a dedicated plugin, enabling efficient LLM inference on alternative accelerators beyond NVIDIA and AMD. This expands deployment options for self-hosted inference with optimized performance on specialized silicon."
 tags:
+  - custom-asic
   - daily-digest
-  - vllm
+  - edge-device
   - hardware
+  - hardware-acceleration
+  - model-serving
   - open-source
-status: draft
+  - production-deployment
+  - release
+  - tenstorrent
+  - vllm
+  - vllm-tt-plugin
+mentions:
+  - name: Tenstorrent
+    role: hardware-manufacturer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 vLLM, the industry-standard LLM inference engine, has released a plugin enabling native support for Tenstorrent hardware accelerators. This development is significant for practitioners seeking diversified hardware options beyond traditional NVIDIA and AMD GPUs for local model serving.

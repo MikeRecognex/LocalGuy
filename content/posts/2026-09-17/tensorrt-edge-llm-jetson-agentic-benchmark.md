@@ -3,12 +3,19 @@ title: "TensorRT Edge-LLM Achieves 6.4x Faster Performance on Jetson AGX Thor"
 date: 2026-09-17
 description: "NVIDIA's TensorRT Edge-LLM completes the MLPerf Edge Agentic Benchmark 6.4x faster on Jetson AGX Thor, demonstrating significant performance improvements for edge AI inference on specialized hardware."
 tags:
-  - daily-digest
-  - nvidia
+  - agentic-ai
   - benchmark
+  - benchmark-report
+  - daily-digest
+  - edge-device
   - edge-inference
+  - inference-optimization
+  - inference-speed
+  - jetson-agx-thor
+  - nvidia
   - tensorrt
-status: draft
+  - tensorrt-edge-llm
+status: published
 ---
 
 NVIDIA has announced a major performance milestone with TensorRT Edge-LLM completing the MLPerf Edge Agentic Benchmark 6.4x faster on the Jetson AGX Thor platform. This represents a substantial advancement in edge inference optimization, with the framework leveraging NVIDIA's specialized tensor computation capabilities to dramatically reduce inference latency on embedded systems.

@@ -3,11 +3,24 @@ title: "4-Bit Rotational Quantization: -45% RAM, <1% Recall Drop vs. TurboQuant"
 date: 2026-09-18
 description: "Weaviate introduces a new quantization technique achieving 45% RAM reduction with negligible accuracy loss, advancing memory-efficient local model deployment."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - edge-device
+  - memory-efficiency
   - memory-optimization
+  - model-compression
   - open-source
-status: draft
+  - quantisation
+  - rag-pipeline
+  - release
+  - turboquant
+  - weaviate
+mentions:
+  - name: Weaviate
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Memory constraints are the primary bottleneck for local LLM deployment, making quantization advances critical for practitioners. Weaviate's 4-bit rotational quantization achieves a 45% RAM reduction compared to TurboQuant while maintaining less than 1% recall degradation—a significant improvement for fitting larger models on edge devices and consumer hardware.

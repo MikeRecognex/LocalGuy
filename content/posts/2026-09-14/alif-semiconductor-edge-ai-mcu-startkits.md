@@ -3,12 +3,22 @@ title: "Alif Semiconductor Launches Low-Cost StartKits for Edge AI MCUs"
 date: 2026-09-14
 description: "Alif Semiconductor introduces affordable development kits for their edge AI microcontroller units, enabling broader adoption of on-device inference across IoT and embedded applications."
 tags:
+  - alif-semiconductor
   - daily-digest
-  - hardware
+  - edge-device
   - edge-inference
-  - microcontroller
   - embedded
-status: draft
+  - embedded-ai
+  - hardware
+  - mcu-inference
+  - microcontroller
+  - on-device-inference
+  - release
+  - startkits
+mentions:
+  - name: Alif Semiconductor
+    role: manufacturer
+status: published
 ---
 
 The introduction of low-cost StartKits from Alif Semiconductor significantly lowers the barrier to entry for deploying AI on microcontroller-class hardware. These development kits make it practical for engineers to prototype and validate LLM inference on resource-constrained MCUs, opening new possibilities for edge AI deployment in IoT, industrial control, and embedded applications.

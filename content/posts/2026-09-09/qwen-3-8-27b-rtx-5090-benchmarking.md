@@ -3,11 +3,21 @@ title: "Benchmarking Qwen 3.8 27B on RTX 5090 and Beyond"
 date: 2026-09-09
 description: "Comprehensive performance benchmarking of Qwen 3.8 27B model on high-end consumer GPUs like the RTX 5090, providing practical insights for local deployment scenarios."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - inference-speed
+  - model-quantization
   - nvidia
+  - performance-benchmarking
   - quantisation
-status: draft
+  - qwen-3-8-27b
+  - rtx-5090
+mentions:
+  - name: Tom's Hardware
+    role: publisher
+status: published
 ---
 
 Tom's Hardware has published detailed benchmarks for the Qwen 3.8 27B model running on NVIDIA's RTX 5090 and other high-end consumer GPUs. This is critical data for practitioners evaluating whether their hardware can handle reasonably-sized open-weight models locally. The benchmarks likely explore different quantisation levels and batch sizes, showing real-world throughput and latency figures that go beyond theoretical maximums.

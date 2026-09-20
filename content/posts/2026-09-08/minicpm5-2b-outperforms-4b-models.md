@@ -3,11 +3,24 @@ title: "China's OpenBMB Releases MiniCPM5-2B, Beating Every Open Model Under 4B"
 date: 2026-09-08
 description: "OpenBMB has released MiniCPM5-2B, a 2 billion parameter model that outperforms all open-source models under 4B parameters. This breakthrough demonstrates significant efficiency gains for local deployment scenarios where model size and memory constraints are critical."
 tags:
-  - daily-digest
-  - open-source
-  - quantisation
   - benchmark
-status: draft
+  - consumer-gpu
+  - daily-digest
+  - edge-ai
+  - edge-device
+  - minicpm5-2b
+  - model-efficiency
+  - on-device-inference
+  - open-source
+  - openbmb
+  - quantisation
+  - release
+mentions:
+  - name: OpenBMB
+    role: developer
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 OpenBMB's MiniCPM5-2B represents a major efficiency milestone for edge AI deployment. By achieving performance superior to models with double the parameters, this release addresses a key challenge in on-device inference: delivering capable language models within strict memory and computational budgets.

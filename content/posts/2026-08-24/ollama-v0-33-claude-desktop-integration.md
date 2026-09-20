@@ -18,7 +18,7 @@ tags:
 source:
   name: "Ollama release"
   url: "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2"
-status: draft
+status: published
 superseded_by: content/posts/2026-08-25/ollama-v0-33-claude-desktop-integration.md
 ---
 

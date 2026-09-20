@@ -3,11 +3,21 @@ title: "Per-Tensor Layout Maps for GGUF Quantization"
 date: 2026-09-13
 description: "A new quantization approach enables fine-grained control over tensor layout in GGUF format, improving inference efficiency and memory utilization for locally deployed models."
 tags:
+  - analysis
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - quantisation
   - gguf
+  - inference-speed
+  - llama-cpp
+  - memory-bandwidth
   - memory-optimization
-status: draft
+  - model-quantization
+  - quantisation
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Per-tensor layout maps represent an advancement in GGUF quantization methodology, enabling granular optimization of how individual tensors are arranged in memory during inference. This technique allows practitioners to apply different memory layouts to different tensor types based on their access patterns, improving cache efficiency and reducing inference latency.

@@ -3,11 +3,21 @@ title: "Local AI Weekly: Agents Everywhere - Survey of Emerging Agentic AI Patte
 date: 2026-09-17
 description: "ItsFOSS publishes an analysis of local agentic AI developments, covering distributed agent patterns and deployment considerations for self-hosted AI systems."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
-  - open-source
+  - analysis
+  - daily-digest
   - frameworks
-status: draft
+  - function-calling
+  - iterative-reasoning
+  - open-source
+  - self-hosted-ai
+mentions:
+  - name: ItsFOSS
+    role: publisher
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 The 'Local AI Weekly' newsletter from ItsFOSS provides a timely overview of how agentic AI patterns are evolving in the open-source ecosystem. The 'agents everywhere' theme reflects a major shift: local LLMs are increasingly being deployed not as standalone inference endpoints but as autonomous agents capable of planning, tool use, and multi-step reasoning.

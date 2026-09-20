@@ -8,8 +8,12 @@ tags:
   - deployment-workflow
   - hardware
   - hardware-aware-model-selection
+  - hardware-profiling
+  - llmfit
+  - memory-requirements
   - model-comparison
   - model-memory-management
+  - model-selection
   - open-source
   - performance-optimization
   - release
@@ -20,7 +24,7 @@ mentions:
 source:
   name: "r/LocalLLaMA"
   url: "https://i.redd.it/4194dq2qy1mg1.png"
-status: draft
+status: published
 superseded_by: content/posts/2026-02-28/llmfit-hardware-detection-tool-497-models-133-providers.md
 ---
 

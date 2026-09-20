@@ -1,0 +1,56 @@
+[    6078ms] [WARNING] Mixed Content: The page at 'https://www.google.com/search?q=deepseek&oq=deepseek&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyEAgBEC4YxwEYsQMY0QMYgAQyBggCEAAYAzIKCAMQABixAxiABDIKCAQQABixAxiABDIGCAUQABgDMhAIBhAAGIMBGLEDGIAEGIoFMgoIBxAAGLEDGIAEMgoICBAAGLEDGIAEMgoICRAAGLEDGIAE0gEIMzE3N2owajeoAgiwAgHxBTQ4kH_rp6Po&sourceid=chrome&source=chrome.ob&ie=UTF-8' was loaded over HTTPS, but requested an insecure element 'http://img.youtube.com/vi/_MrumlZnGic/hqdefault.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://www.google.com/search?q=deepseek&oq=deepseek&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyEAgBEC4YxwEYsQMY0QMYgAQyBggCEAAYAzIKCAMQABixAxiABDIKCAQQABixAxiABDIGCAUQABgDMhAIBhAAGIMBGLEDGIAEGIoFMgoIBxAAGLEDGIAEMgoICBAAGLEDGIAEMgoICRAAGLEDGIAE0gEIMzE3N2owajeoAgiwAgHxBTQ4kH_rp6Po&sourceid=chrome&source=chrome.ob&ie=UTF-8:0
+[    6931ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://www.google.com'). @ https://www.youtube.com/s/player/8c3fda2d/www-widgetapi.vflset/www-widgetapi.js:162
+[   10311ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://chat.deepseek.com/sign_in:0
+[   30159ms] [WARNING] `WebAssembly.instantiateStreaming` failed because your server does not serve Wasm with `application/wasm` MIME type. Falling back to `WebAssembly.instantiate` which is slower. Original error:
+ TypeError: Failed to execute 'compile' on 'WebAssembly': Incorrect response MIME type. Expected 'application/wasm'. @ https://fe-static.deepseek.com/chat/static/37627.ebf6d8f55d.js:0
+[  134468ms] [WARNING] `WebAssembly.instantiateStreaming` failed because your server does not serve Wasm with `application/wasm` MIME type. Falling back to `WebAssembly.instantiate` which is slower. Original error:
+ TypeError: Failed to execute 'compile' on 'WebAssembly': Incorrect response MIME type. Expected 'application/wasm'. @ https://fe-static.deepseek.com/chat/static/37627.ebf6d8f55d.js:0
+[18402210ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[18402211ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[18402213ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[18402213ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[138503614ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[138503619ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[138503620ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[143687614ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[181881152ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[181881168ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[181881171ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[181881181ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[182181374ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[182181378ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[182181378ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[182181381ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[182481439ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[182481449ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[182481457ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[182481462ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[182781503ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[182781509ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[182781513ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[182781519ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[183081550ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[183081551ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[183081551ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[183081551ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[183381682ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[183381687ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[183381688ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[183381688ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[183681836ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[183681837ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[183681837ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[183681838ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[183860535ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback&_upgrade=true&_cb=1789660443048:0
+[183981876ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[183981882ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[183981882ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[183981887ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[184281958ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[184281958ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[184281963ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[184281963ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0
+[185559247ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=web_upgrade:0
+[185559250ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=provider:0
+[185559250ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=main:0
+[185559252ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://chat.deepseek.com/api/v0/client/settings?did=194c5a28-9aaa-4c15-bddd-c44baef0f40c&scope=model:0

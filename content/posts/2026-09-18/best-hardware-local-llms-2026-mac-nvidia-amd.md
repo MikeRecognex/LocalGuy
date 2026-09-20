@@ -3,12 +3,21 @@ title: "Best Hardware for Local LLMs in 2026: Mac vs. Nvidia vs. AMD"
 date: 2026-09-18
 description: "Comprehensive guide comparing hardware options for running local LLMs across Apple Silicon, Nvidia, and AMD platforms with practical performance and cost considerations."
 tags:
+  - amd
+  - apple-silicon
+  - comparison
+  - consumer-gpu
+  - cost-efficiency
   - daily-digest
   - hardware
-  - apple-silicon
+  - hardware-selection
+  - inference-speed
   - nvidia
-  - amd
-status: draft
+  - unified-memory
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Hardware selection fundamentally impacts the success of local LLM deployments, yet practitioners often lack clear guidance on Mac vs. Nvidia vs. AMD tradeoffs. This 2026 guide provides the current landscape assessment needed to make informed infrastructure decisions, covering performance metrics, cost-per-token calculations, and practical integration considerations for each platform.

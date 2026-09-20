@@ -4,11 +4,23 @@ date: 2026-09-10
 description: "Researchers at UNIST have developed a breakthrough technique for on-device AI that reduces model storage requirements by 2,400 times, enabling deployment of capable models on severely resource-constrained edge devices."
 tags:
   - daily-digest
-  - quantisation
-  - memory-optimization
+  - edge-device
   - edge-inference
+  - llama-cpp
+  - memory-optimization
+  - model-compression
+  - news
+  - onnx-runtime
+  - quantisation
+  - quantization
   - research
-status: draft
+  - unist
+mentions:
+  - name: UNIST
+    role: research-institution
+  - name: Seoul Economic Daily
+    role: publisher
+status: published
 ---
 
 Storage efficiency has always been the primary bottleneck for edge AI deployment, and UNIST's research addresses this head-on with a claimed 2,400-fold reduction in model storage size. This breakthrough—likely involving extreme quantization or novel model compression techniques—opens the door for deploying sophisticated language models on IoT devices, mobile phones, and embedded systems where storage capacity has been the hard ceiling for what's possible locally.

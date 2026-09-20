@@ -3,12 +3,17 @@ title: "Ollama 0.34.0 Adds ChatGPT Desktop Integration and Structured Output Imp
 date: 2026-09-10
 description: "Ollama's v0.34.0 release enables direct integration with ChatGPT Desktop while improving structured output performance on Apple Silicon, making it easier for users to run open models locally alongside proprietary tools."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
-  - open-source
+  - chatgpt-desktop
+  - daily-digest
+  - desktop-integration
+  - function-calling
   - inference-optimization
-status: draft
+  - ollama
+  - open-source
+  - release
+  - structured-outputs
+status: published
 ---
 
 Ollama continues to blur the lines between local and cloud-based inference with v0.34.0's ChatGPT Desktop integration, allowing users to seamlessly route requests to their locally-running open models while maintaining familiar workflows. This pragmatic approach removes a key friction point for adoption—users no longer need to choose between their preferred UI and running models locally.

@@ -3,11 +3,17 @@ title: "MiniCPM5-2B Powers On-Device Agents"
 date: 2026-09-13
 description: "MiniCPM5-2B, a compact 2-billion parameter model, demonstrates practical viability for running autonomous AI agents entirely on-device with strong performance characteristics."
 tags:
-  - daily-digest
-  - open-source
+  - agent-orchestration
   - agents
+  - daily-digest
+  - edge-device
   - edge-inference
-status: draft
+  - iterative-reasoning
+  - memory-efficiency
+  - minicpm5-2b
+  - open-source
+  - release
+status: published
 ---
 
 MiniCPM5-2B represents a strategic release of a compact yet capable model specifically optimized for on-device agent applications. At 2 billion parameters, the model fits comfortably within the memory constraints of modern smartphones and edge devices while maintaining sufficient capability to perform multi-step reasoning and tool interactions required for autonomous agent behavior.

@@ -3,12 +3,23 @@ title: "Benchmarking Qwen3.8 27B Quantizations: 4-bit Holds Up, 1-bit Collapses"
 date: 2026-09-10
 description: "Detailed quantization benchmarks for Qwen3.8 27B reveal that 4-bit quantization maintains strong performance while extreme 1-bit quantization severely degrades output quality, providing practical guidance for practitioners choosing compression levels."
 tags:
-  - daily-digest
-  - quantisation
+  - awq
   - benchmark
-  - qwen
+  - benchmark-report
+  - daily-digest
+  - gptq
+  - model-compression
   - open-source
-status: draft
+  - quantisation
+  - quantization-benchmarks
+  - qwen
+  - qwen3-8-27b
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Quesma
+    role: publisher
+status: published
 ---
 
 As models grow larger and local deployment constraints tighten, quantization strategies become increasingly critical to implementation decisions. This benchmark study of Qwen3.8 27B provides essential empirical data showing that 4-bit quantization remains a sweet spot—delivering meaningful memory and speed improvements with minimal quality degradation—while aggressive 1-bit schemes fall below usable thresholds for general-purpose tasks.

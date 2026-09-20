@@ -3,11 +3,16 @@ title: "Run 744B MoE Models on a Laptop With Disk Streaming, No GPU Needed"
 date: 2026-09-13
 description: "A breakthrough technique enables running massive 744B mixture-of-experts models on standard laptops through disk streaming without requiring dedicated GPU hardware. This dramatically expands the accessibility of large models for local deployment."
 tags:
+  - cpu-only
+  - cpu-only-inference
   - daily-digest
-  - memory-optimization
+  - disk-streaming
   - inference-speed
+  - memory-optimization
+  - moe-models
+  - news
   - open-source
-status: draft
+status: published
 ---
 
 A significant development in local LLM deployment has emerged with the demonstration of running 744B parameter mixture-of-experts models on commodity laptop hardware using disk streaming techniques. This approach eliminates the traditional requirement for high-end GPUs, making large-scale model inference accessible to practitioners with standard computing resources.

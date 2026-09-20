@@ -3,12 +3,23 @@ title: "Which Mac for Local LLMs in 2026? A Comprehensive Buyer's Guide"
 date: 2026-09-10
 description: "A practical guide helping Mac users select the right hardware for running local LLMs in 2026, comparing M-series chips, RAM configurations, and storage options for different inference workloads."
 tags:
-  - daily-digest
   - apple-silicon
-  - hardware
-  - mlx
   - buyer-guide
-status: draft
+  - comparison
+  - daily-digest
+  - hardware
+  - hardware-selection
+  - inference-performance
+  - llama-cpp
+  - memory-bandwidth
+  - mlx
+  - ollama
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: Vetted Consumer
+    role: publisher
+status: published
 ---
 
 With Apple Silicon's efficiency and growing support in frameworks like MLX, Ollama, and llama.cpp, Macs have become increasingly attractive for local LLM inference. This buyer's guide cuts through marketing noise to provide clear guidance on which configurations—M1 Pro/Max versus M3/M4 variants, RAM tiers, and storage choices—actually matter for different inference scenarios, from lightweight chat to demanding multi-model deployments.

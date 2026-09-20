@@ -3,11 +3,20 @@ title: "Migrating Large Prompts from Anthropic to Self-Hosted Ollama"
 date: 2026-09-16
 description: "Developer shares practical lessons learned migrating 35KB preprompts from Claude Opus to self-hosted Ollama, documenting gotchas and workarounds for local LLM deployment."
 tags:
+  - claude-opus
+  - context-window
   - daily-digest
   - ollama
   - open-source
-  - context-window
-status: draft
+  - prompt-engineering
+  - self-hosting
+  - tutorial
+mentions:
+  - name: Patrick McCanna
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A developer has documented the technical challenges and solutions encountered when migrating large preprompts from Anthropic's Claude Opus to self-hosted Ollama deployments. This hands-on experience report covers the friction points that arise when moving from closed-source cloud APIs to local inference, providing practical guidance for others undertaking similar migrations.

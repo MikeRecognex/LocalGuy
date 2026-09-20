@@ -3,12 +3,22 @@ title: "vLLM 0.29.0: Model Runner V2 Becomes Default for All Models"
 date: 2026-09-11
 description: "vLLM 0.29.0 makes Model Runner V2 the default inference engine across all models, completing a major architectural shift. The release includes CUDA graph memory profiling for KV cache auto-sizing and improvements to batch-sharding, significantly enhancing performance and memory efficiency for local deployments."
 tags:
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - memory-optimization
+  - distributed-inference
+  - edge-device
   - inference-speed
+  - kv-cache-optimization
+  - memory-management
+  - memory-optimization
+  - model-runner-v2
   - open-source
-status: draft
+  - release
+  - vllm
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 vLLM 0.29.0 marks a significant milestone in local LLM inference by making Model Runner V2 (MRV2) the default backend for all models. This architectural shift, which began with pooling models in earlier versions, consolidates performance improvements that have been validated across diverse use cases. The 594 commits from 277 contributors demonstrate the broad community engagement in optimizing inference pipelines.

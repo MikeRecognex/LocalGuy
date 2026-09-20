@@ -3,11 +3,22 @@ title: "Google Cloud finds Gemma 3 12B outscales 27B on TPU"
 date: 2026-09-08
 description: "Google's Gemma 3 12B model delivers superior performance to the 27B variant when running on TPU infrastructure. This finding highlights the importance of hardware-model co-optimization for efficient local and edge inference."
 tags:
-  - daily-digest
+  - analysis
   - benchmark
-  - quantisation
+  - benchmark-testing
+  - custom-asic
+  - daily-digest
+  - edge-device
+  - edge-inference
+  - gemma-3-12b
+  - gemma-3-27b
   - hardware
-status: draft
+  - hardware-software-co-design
+  - quantisation
+mentions:
+  - name: IT Brief Asia
+    role: publisher
+status: published
 ---
 
 Google's discovery that Gemma 3 12B outperforms the 27B variant on TPU hardware underscores a critical insight for local LLM deployment: raw model size is not the only determinant of performance. Hardware-software co-design, quantization strategies, and architectural choices matter enormously.

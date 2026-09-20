@@ -819,6 +819,50 @@
     "2026-09-07": {
       "text": "Alibaba's Qwen3.8 Flash Next launches lightweight on-device inference, previewing the upcoming Qwen4 architecture.",
       "postCount": 5
+    },
+    "2026-09-08": {
+      "text": "Google’s Gemma 3 12B outperforms its 27B sibling on TPU, proving hardware‑model co‑optimization boosts edge inference.",
+      "postCount": 5
+    },
+    "2026-09-09": {
+      "text": "Ollama 0.34 adds ChatGPT Desktop integration and speeds Apple Silicon, while vLLM 0.29 defaults to Model Runner V2.",
+      "postCount": 5
+    },
+    "2026-09-10": {
+      "text": "UNIST’s new on‑device AI technique slashes model storage 2,400‑fold, enabling LLMs on ultra‑low‑resource chips.",
+      "postCount": 5
+    },
+    "2026-09-11": {
+      "text": "Cambricon deploys DeepSeek‑V4.1‑Flash on vLLM, while vLLM 0.29.0 makes Model Runner V2 default.",
+      "postCount": 5
+    },
+    "2026-09-12": {
+      "text": "vLLM 0.29.0 makes Model Runner V2 default, adding CUDA graph profiling and batch‑sharding for all models.",
+      "postCount": 5
+    },
+    "2026-09-13": {
+      "text": "Disk streaming now runs 744B MoE models on laptops, while Aiope brings terminal‑enabled AI agents to Android.",
+      "postCount": 5
+    },
+    "2026-09-14": {
+      "text": "Alif Semiconductor’s new edge AI MCU start kits aim to democratize on‑device inference for IoT developers.",
+      "postCount": 5
+    },
+    "2026-09-15": {
+      "text": "",
+      "postCount": 5
+    },
+    "2026-09-16": {
+      "text": "llama.cpp b10997 adds AMD RDNA3.5 MoE heuristics, boosting Ryzen AI MAX+ expert routing performance.",
+      "postCount": 5
+    },
+    "2026-09-17": {
+      "text": "TensorRT Edge-LLM slashes MLPerf Edge Agentic Benchmark time 6.4× on Jetson AGX Thor, boosting edge AI.",
+      "postCount": 5
+    },
+    "2026-09-18": {
+      "text": "Weaviate's 4‑Bit Rotational Quantization cuts RAM 45% with under 1% recall loss, boosting local LLMs.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -944,7 +988,11 @@
     },
     "2026-09-06": {
       "text": "",
-      "postCount": 5
+      "postCount": 35
+    },
+    "2026-09-13": {
+      "text": "",
+      "postCount": 25
     }
   }
 }

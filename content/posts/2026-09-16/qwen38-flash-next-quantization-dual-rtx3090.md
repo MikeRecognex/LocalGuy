@@ -3,11 +3,24 @@ title: "Qwen3.8-Flash-Next Non-Uniform Quantization Runs on Dual RTX3090s"
 date: 2026-09-16
 description: "Qwen3.8-Flash-Next achieves efficient local deployment through non-uniform quantization (GSQ-RCO), enabling the model to run on two consumer-grade RTX3090 GPUs."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
-  - vllm
+  - memory-efficiency
+  - model-compression
   - nvidia
-status: draft
+  - production-deployment
+  - quantisation
+  - qwen-3-8-flash-next
+  - release
+  - rtx-3090
+  - vllm
+mentions:
+  - name: pfeifferj
+    role: developer
+    handle: "@pfeifferj"
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A community member has released a quantized version of Qwen3.8-Flash-Next that successfully runs on dual RTX3090 GPUs, utilizing non-uniform quantization techniques (GSQ-RCO-GGUF) to reduce memory footprint without proportional quality loss. This achievement represents meaningful progress in making frontier-class models accessible on mid-range consumer hardware.

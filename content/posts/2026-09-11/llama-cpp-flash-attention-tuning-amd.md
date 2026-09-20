@@ -3,12 +3,18 @@ title: "llama.cpp Adds Flash Attention Tuning for AMD RDNA4 and Optimizations"
 date: 2026-09-11
 description: "llama.cpp release b10905 enhances Flash Attention performance with GPU-specific tuning for AMD RDNA4 architecture and improves kernel selection logic. These optimizations reduce latency and memory bandwidth requirements for inference across AMD accelerators."
 tags:
-  - daily-digest
-  - llama-cpp
   - amd
+  - consumer-gpu
+  - daily-digest
+  - flash-attention
   - inference-speed
+  - kernel-optimization
+  - latency-reduction
+  - llama-cpp
   - memory-optimization
-status: draft
+  - rdna4
+  - release
+status: published
 ---
 
 llama.cpp's latest release focuses on Flash Attention optimizations tailored for AMD RDNA4 GPUs, a critical development for users deploying locally on AMD hardware. Flash Attention is a fundamental technique for reducing the quadratic complexity of the attention mechanism, but its performance depends heavily on hardware-specific tuning. The addition of GPU-specific configurations for RDNA4 means AMD users can now achieve near-theoretical maximum performance when running inference on these accelerators.

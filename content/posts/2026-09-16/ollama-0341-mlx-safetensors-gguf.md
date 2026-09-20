@@ -3,12 +3,17 @@ title: "Ollama 0.34.1 Stabilizes MLX Backend and GGUF Model Creation"
 date: 2026-09-16
 description: "Ollama v0.34.1 releases improved MLX memory handling for Apple Silicon, stabilizes GGUF creation workflows, and enhances repeat token detection for more reliable local inference."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - daily-digest
+  - gguf
+  - inference-stability
+  - memory-management
   - mlx
+  - model-optimization
+  - ollama
   - open-source
-status: draft
+  - release
+status: published
 ---
 
 Ollama's latest stable release brings significant improvements to its MLX backend for Apple Silicon devices, including better memory management that should reduce crashes and improve throughput on Mac hardware. The release also graduates GGUF model creation from experimental status and refines token repetition detection to require 100 consecutive repeated tokens before triggering guards, reducing false positives in production scenarios.

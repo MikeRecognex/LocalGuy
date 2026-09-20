@@ -3,11 +3,19 @@ title: "Picking a Local LLM for Coding: What Fits on Your Machine and What Still
 date: 2026-09-09
 description: "Practical guidance on selecting appropriate local LLM models for coding tasks based on hardware constraints, helping developers understand model-to-machine matching."
 tags:
-  - daily-digest
-  - open-source
-  - model-selection
   - benchmark
-status: draft
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - hardware-requirements
+  - local-vs-cloud
+  - model-selection
+  - open-source
+  - tutorial
+mentions:
+  - name: SpeedwayMedia
+    role: publisher
+status: published
 ---
 
 SpeedwayMedia's guide directly addresses the most common question from practitioners: "which model can I actually run on my hardware?" The article helps developers understand the real-world tradeoffs between running models locally versus relying on API services for coding assistants. This practical matching of models to machine capabilities is essential for anyone evaluating whether to invest in local infrastructure.

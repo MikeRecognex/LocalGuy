@@ -3,11 +3,20 @@ title: "Ollama GPU requirements: VRAM, RAM, and supported GPUs"
 date: 2026-09-15
 description: "Hostinger's comprehensive breakdown of hardware requirements for running Ollama, covering VRAM needs, system RAM, and GPU compatibility across different model sizes and architectures."
 tags:
+  - apple-silicon
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - ollama
-  - hardware
   - gpu-requirements
-status: draft
+  - hardware
+  - hardware-requirements
+  - ollama
+  - tutorial
+  - vram-allocation
+mentions:
+  - name: Hostinger
+    role: publisher
+status: published
 ---
 
 Choosing appropriate hardware is the foundation of successful local LLM deployment, yet many practitioners struggle to match model sizes to available VRAM. This resource provides clear, practical guidance on GPU memory requirements for different Ollama model variants, helping teams make informed hardware purchasing decisions.

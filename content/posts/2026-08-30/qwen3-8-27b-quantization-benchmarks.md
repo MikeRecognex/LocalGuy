@@ -7,9 +7,13 @@ tags:
   - benchmark-report
   - consumer-gpu
   - daily-digest
+  - gguf
   - local-deployment
   - memory-optimization
   - model-compression
+  - model-optimization
+  - model-quantization
+  - performance-tradeoffs
   - quantisation
   - qwen
   - qwen3-8-27b
@@ -21,7 +25,7 @@ mentions:
 source:
   name: "Hacker News"
   url: "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
-status: draft
+status: published
 superseded_by: content/posts/2026-08-27/qwen3-8-27b-quantization-benchmarks.md
 ---
 

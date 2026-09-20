@@ -3,11 +3,16 @@ title: "Ollama v0.34.1 releases with MLX improvements and memory optimizations"
 date: 2026-09-15
 description: "The latest Ollama release brings MLX runner enhancements including prefix cache eviction, improved system memory management, and higher token repeat limits for more stable inference."
 tags:
+  - apple-silicon
   - daily-digest
-  - ollama
-  - mlx
+  - long-context-inference
+  - memory-management
   - memory-optimization
-status: draft
+  - mlx
+  - ollama
+  - production-deployment
+  - release
+status: published
 ---
 
 Ollama's v0.34.1 release focuses on critical improvements for efficient multi-model and long-context inference. The addition of prefix cache snapshot eviction and smarter system memory checking allows Ollama to automatically manage multiple models without exceeding available RAM—a major pain point for local deployment scenarios where you want to run different models sequentially.

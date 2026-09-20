@@ -4,6 +4,7 @@ date: 2026-08-13
 description: "Ollama releases v0.32.10 with significant prefill speed improvements on NVFP4 quantized models (7-8% faster) and adds system-level configuration file support for easier multi-device deployment."
 tags:
   - daily-digest
+  - deployment-configuration
   - deployment-strategy
   - inference-speed
   - model-quantization
@@ -17,7 +18,7 @@ tags:
 source:
   name: "Ollama release"
   url: "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1"
-status: draft
+status: published
 superseded_by: content/posts/2026-08-14/ollama-v0-32-10-nvfp4-prefill-optimization.md
 ---
 

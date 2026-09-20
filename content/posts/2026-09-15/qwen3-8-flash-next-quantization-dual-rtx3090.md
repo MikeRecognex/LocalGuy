@@ -3,11 +3,21 @@ title: "Qwen3.8-Flash-Next achieves efficient inference on dual RTX 3090s via no
 date: 2026-09-15
 description: "A community-optimized GGUF quantization of Qwen3.8-Flash-Next demonstrates that large instruction-tuned models can now run efficiently on accessible consumer hardware through advanced quantization techniques."
 tags:
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - quantisation
   - gguf
+  - gguf-format
+  - llama-cpp
+  - model-quantization
   - nvidia
-status: draft
+  - quantisation
+  - qwen3-8-flash-next
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Non-uniform quantization techniques are unlocking new possibilities for local inference, enabling 8B+ parameter models to run on mainstream consumer GPUs. The Qwen3.8-Flash-Next community quantization shows that with smart bit allocation—using lower precision where models are robust and higher precision where it matters—practitioners can fit capable models into dual RTX 3090 setups (~24GB total VRAM).

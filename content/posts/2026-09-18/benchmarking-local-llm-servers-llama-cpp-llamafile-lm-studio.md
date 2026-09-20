@@ -3,12 +3,20 @@ title: "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Oll
 date: 2026-09-18
 description: "Mozilla AI publishes comprehensive benchmarks comparing four major local LLM inference servers, providing practical performance data for selecting the right tool for on-device deployment."
 tags:
-  - daily-digest
-  - llama-cpp
-  - ollama
   - benchmark
+  - benchmark-report
+  - cpu-inference
+  - daily-digest
+  - deployment-strategy
+  - inference-performance
+  - llama-cpp
+  - lm-studio
+  - ollama
   - open-source
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Choosing the right inference engine is critical for local LLM deployment, and Mozilla AI's comprehensive benchmark comparing Llama.cpp, Llamafile, LM Studio, and Ollama provides essential guidance. This comparison evaluates performance metrics across different hardware configurations and model sizes, helping practitioners make informed decisions about which tool best fits their deployment requirements.

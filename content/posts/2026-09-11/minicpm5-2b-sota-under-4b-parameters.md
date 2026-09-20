@@ -4,11 +4,23 @@ date: 2026-09-11
 description: "OpenBMB's MiniCPM5-2B achieves state-of-the-art performance for models under 4 billion parameters, making it ideal for on-device deployment scenarios with strict resource constraints. This release demonstrates significant progress in model efficiency without sacrificing capability."
 tags:
   - daily-digest
-  - open-source
-  - quantisation
+  - edge-device
   - edge-inference
+  - minicpm5-2b
   - model-efficiency
-status: draft
+  - model-optimization
+  - on-device-inference
+  - open-source
+  - openbmb
+  - quantisation
+  - quantization
+  - release
+mentions:
+  - name: OpenBMB
+    role: developer
+  - name: Pandaily
+    role: publisher
+status: published
 ---
 
 MiniCPM5-2B represents a breakthrough in efficient model design, achieving SOTA (state-of-the-art) performance within the sub-4B parameter constraint that defines practical on-device deployment. This is significant because models in this size range can run on consumer phones, edge devices, and low-power hardware with minimal quantization-induced performance degradation. The release demonstrates that careful architecture design and training methodology can compete with much larger models in specific domains.

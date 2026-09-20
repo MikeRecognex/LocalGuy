@@ -3,11 +3,18 @@ title: "llama.cpp Broadens MoE Optimization Heuristics for AMD RDNA3.5"
 date: 2026-09-16
 description: "llama.cpp release b10997 improves Mixture-of-Experts performance on AMD's latest architecture with refined tile heuristics and verified correctness on Ryzen AI MAX+."
 tags:
-  - daily-digest
-  - llama-cpp
   - amd
+  - consumer-gpu
+  - daily-digest
+  - edge-device
+  - inference-speed
+  - llama-cpp
+  - mixture-of-experts
+  - on-device-inference
   - open-source
-status: draft
+  - release
+  - ryzen-ai-max-plus
+status: published
 ---
 
 The latest llama.cpp build extends MoE (Mixture-of-Experts) optimization support to AMD's RDNA3.5 architecture, broadening the ncols_opt tile heuristic to improve performance with sparse model architectures. The change has been validated on AMD Ryzen AI MAX+ hardware, demonstrating correctness and performance improvements for this emerging edge AI platform.

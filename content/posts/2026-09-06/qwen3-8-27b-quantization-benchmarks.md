@@ -18,7 +18,7 @@ mentions:
     role: publisher
   - name: Quesma
     role: publisher
-status: draft
+status: published
 superseded_by: content/posts/2026-08-27/qwen3-8-27b-quantization-benchmarks.md
 ---
 

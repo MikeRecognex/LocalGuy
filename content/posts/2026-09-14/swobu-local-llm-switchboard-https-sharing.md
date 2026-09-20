@@ -4,11 +4,20 @@ date: 2026-09-14
 description: "A new tool enabling multiple local LLMs to be managed and shared as a unified endpoint with secure HTTPS access, simplifying multi-model deployments and collaborative inference scenarios."
 tags:
   - daily-digest
-  - open-source
-  - llm-hub
-  - multi-model
   - infrastructure
-status: draft
+  - llm-hub
+  - load-balancing
+  - model-routing
+  - multi-model
+  - multi-model-orchestration
+  - network-security
+  - open-source
+  - release
+  - swobu
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Swobu addresses a practical pain point in local LLM deployments: managing multiple models across different hardware configurations and making them accessible to teams without exposing raw local network access. By providing a unified switchboard that federates multiple local LLM instances behind a single secure HTTPS endpoint, Swobu enables more sophisticated local deployment architectures.

@@ -22,7 +22,7 @@ mentions:
 source:
   name: "Hacker News"
   url: "https://www.autodidacts.io/how-to-fit-qwen3-8-27b-into-16gb-vram-run-with-llama-cpp-rtx-3080-flags-quantizations/"
-status: draft
+status: published
 superseded_by: content/posts/2026-08-29/qwen3-8-27b-16gb-vram-guide.md
 ---
 

@@ -1,0 +1,84 @@
+[62601324ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[62601335ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0
+[80261735ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[80261777ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0
+[82061772ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[82061781ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0
+[85415168ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[85415179ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0
+[87511238ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[87511241ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0
+[89249765ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[89249806ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0
+[91050337ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://survey.survicate.com/workspaces/74f34366c465174a7b091c6cbfd7127e/web_surveys.json:0
+[91050376ms] [ERROR] Error retrieving survey data: TypeError: Failed to fetch
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239249
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239162
+    at new Promise (<anonymous>)
+    at r (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:238910)
+    at Object.get (https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:239193)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:256555
+    at Generator.next (<anonymous>)
+    at https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:1:255835
+    at new Promise (<anonymous>) @ https://surveys-static-prd.survicate-cdn.com/widget_core-28.33.8.js:0

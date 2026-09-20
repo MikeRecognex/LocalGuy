@@ -3,11 +3,18 @@ title: "vLLM v0.29.0 Advances with Model Runner V2 as Default"
 date: 2026-09-09
 description: "vLLM's latest release makes Model Runner V2 the default for all models, featuring CUDA graph memory profiling and improved performance across deployment scenarios."
 tags:
+  - batch-inference
   - daily-digest
-  - vllm
-  - open-source
+  - datacenter-gpu
   - gpu-optimization
-status: draft
+  - inference-optimization
+  - memory-management
+  - model-runner-v2
+  - model-serving
+  - open-source
+  - release
+  - vllm
+status: published
 ---
 
 vLLM 0.29.0 marks a significant milestone by making Model Runner V2 (MRV2) the default inference path for all models. This consolidation represents months of optimization work and indicates the vLLM team's confidence in MRV2's stability and performance improvements. The release also adds CUDA graph memory profiling for KV cache auto-sizing, which is critical for efficient batch inference on GPUs.

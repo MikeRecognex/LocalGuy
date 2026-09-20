@@ -3,11 +3,19 @@ title: "A $537 Local LLM Machine (2025)"
 date: 2026-09-12
 description: "A practical guide demonstrating how to build a capable local LLM inference machine for under $537, detailing hardware selection and setup for running models at home or on-premise."
 tags:
+  - benchmark
+  - consumer-gpu
+  - cost-optimization
+  - cost-saving
   - daily-digest
   - hardware
-  - benchmark
-  - cost-optimization
-status: draft
+  - hardware-selection
+  - performance-metrics
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This post provides a detailed breakdown of building a functional local LLM inference system for under $537 in 2025. The guide considers component selection, performance-per-dollar metrics, and realistic capabilities of budget-conscious setups for running models locally.

@@ -3,11 +3,19 @@ title: "llama.cpp b10977 advances CUDA Windows builds and platform support"
 date: 2026-09-15
 description: "The latest llama.cpp release bumps CUDA Windows x64 builds to version 13.4.1 and continues expanding cross-platform compatibility for the high-performance inference engine."
 tags:
+  - consumer-gpu
+  - cross-platform
+  - cuda
   - daily-digest
+  - inference-speed
   - llama-cpp
   - nvidia
-  - cross-platform
-status: draft
+  - release
+  - self-hosted-infrastructure
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 llama.cpp continues its position as the backbone of local LLM inference across operating systems, and the b10977 build demonstrates ongoing investment in production-quality CUDA support. Upgrading Windows builds to CUDA 13.4.1 ensures compatibility with latest NVIDIA driver versions and unlocks hardware-specific optimizations that improve inference throughput.

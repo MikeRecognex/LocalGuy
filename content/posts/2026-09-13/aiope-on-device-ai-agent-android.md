@@ -3,11 +3,20 @@ title: "Aiope – An On-Device AI Agent for Android With Terminal, Browser, and 
 date: 2026-09-13
 description: "Aiope brings on-device AI agent capabilities to Android devices, enabling local inference with access to terminal, browser, SSH, and Model Context Protocol interfaces."
 tags:
-  - daily-digest
+  - agent-orchestration
   - agents
+  - aiope
+  - daily-digest
+  - edge-device
   - edge-inference
+  - mobile-inference
+  - model-context-protocol
   - open-source
-status: draft
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Aiope introduces comprehensive on-device AI agent functionality for Android platforms, enabling local models to interact with system resources including terminal access, web browsing, SSH connections, and Model Context Protocol (MCP) integration. This represents a substantial advancement in practical AI agent deployment on mobile edge devices, moving beyond inference-only implementations to full agentic capabilities.
