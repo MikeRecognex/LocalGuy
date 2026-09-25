@@ -32,7 +32,7 @@ This guide is a field report from building it and running 49,536 questions throu
 | Engine | vLLM with [PR #57250](https://github.com/vllm-project/vllm/pull/57250), unmerged |
 | Model | `RedHatAI/diffusiongemma-26B-A4B-it-FP8-dynamic`, 27.2 GB |
 | GPU | Compute capability **9 or 10**. In practice an H100 — read Step 1 before you rent anything |
-| Client machine | Runs the sidecar locally. A laptop is fine |
+| Second server | A sidecar the PR ships. Run it **on the pod** — Step 4 — though my own runs fell back to a laptop |
 | Budget | About **$3.49/hr**, and the whole exercise below came to roughly $12 |
 
 ## Step 1 — Rent a card that is not Blackwell
@@ -76,7 +76,7 @@ Four details in there are load-bearing:
 
 **Pin the data centres.** One pod in `EUR-IS-3` could not resolve `github.com` at all, which looks exactly like a broken container command and is not. Naming three regions and wrapping the clone in a retry turned an unexplainable failure into a non-event.
 
-**One HTTP port, not two.** `8000/http` is all you need, because the second server runs on your own machine — Step 4 explains why you have no choice about that.
+**One HTTP port, not two.** RunPod never routed a second HTTP port for me, and that shapes the whole arrangement: expose `8000/http`, put the *sidecar* on it, and keep vLLM internal on 8001. Step 4 has the reasoning.
 
 **Budget 120 GB of disk.** The container clones vLLM, builds it, and downloads 27.2 GB of weights.
 
@@ -156,20 +156,34 @@ It exposes a decision API:
 
 A `noul` (boolean) question returns `{"noul": p}`, plus `stderr` and `agreement` across noise draws. Draws default to `"auto"`, up to 4, stopping early once they agree within 0.1.
 
-**It runs locally, pointed at the pod over the proxy:**
+### Put it on the pod, and invert the ports
+
+**Run the sidecar on the pod if you possibly can.** Running it on your own machine puts the public internet between the two servers, and because a single decision can take up to four noise draws, that is **four internet round trips per question**. When I went looking for why the GPU was sitting at 35%, this was the first of three causes and the only one that is pure overhead.
+
+The obvious way to co-locate — vLLM on the exposed port, sidecar on a second one — does not work, because RunPod never routed that second HTTP port for me. The arrangement that does work inverts them: **the sidecar takes the exposed port and vLLM moves internal.**
 
 ```bash
-python tools/structured_server.py \
-  --upstream https://<podId>-8000.proxy.runpod.net \
+# on the pod. vLLM internal on 8001...
+vllm serve "$MODEL" --host 127.0.0.1 --port 8001 \
+    --diffusion-config "$DIFFCFG" --max-logprobs 32 --max-model-len 8192 \
+    --enable-prefix-caching --max-num-seqs 256 --gpu-memory-utilization 0.90 &
+
+# ...and the sidecar on the one port the world can reach
+python structured_server.py \
+  --upstream  http://127.0.0.1:8001 \
   --model     RedHatAI/diffusiongemma-26B-A4B-it-FP8-dynamic \
   --tokenizer RedHatAI/diffusiongemma-26B-A4B-it-FP8-dynamic \
-  --canvas 320 --host 127.0.0.1 --port 8011
+  --canvas 320 --host 0.0.0.0 --port 8000
 ```
 
-> [!warning] The sidecar on the pod was tried three times and abandoned
-> RunPod's second HTTP port would not route to it. Combined with the partial-clone problem in Step 2, the co-located arrangement never worked, and running the sidecar locally is the arrangement every measured number below came from. It costs you a round trip per read over the public internet — budget for that, because it is a real part of the latency.
+Your client then talks to `https://<podId>-8000.proxy.runpod.net/v1/systemone` and the sidecar-to-vLLM hop never leaves the box.
 
-`--canvas` here must match the server's `canvas_length`. Request widths round up to a multiple of `--canvas-step` (default 16).
+> [!warning] My own runs did not manage this, and the reason is worth knowing
+> Three co-located attempts failed — but on the `--filter=blob:none` problem from Step 2, not on the design. `structured_server.py` was simply not on disk, and the `git show pr:<path> > ss.py` workaround silently produced an empty file, so the server exited in 43 ms with status 0. The vLLM side came up fine on the internal port each time. **Clone without the partial filter and this arrangement should just work** — but I did not get it working, so treat the block above as the design I would build next, not as a command I have run to completion.
+
+**Every measured number in this guide came from the fallback arrangement**: sidecar on my laptop, `--host 127.0.0.1 --port 8011`, `--upstream https://<podId>-8000.proxy.runpod.net`, with the pod exposing vLLM directly. It works, it is what the throughput figures in Step 6 reflect, and it is paying four transatlantic round trips per question to do it.
+
+`--canvas` must match the server's `canvas_length` either way. Request widths round up to a multiple of `--canvas-step` (default 16).
 
 ### The one constraint you cannot design around
 
@@ -204,7 +218,7 @@ done
 [ "$up" = 1 ] || { echo NEVER_UP; exit 2; }
 ```
 
-Then verify the **sidecar** with a POST, not a GET. A bare `GET /` can answer before the tokenizer has finished loading:
+Then verify the **sidecar** with a POST, not a GET. A bare `GET /` can answer before the tokenizer has finished loading. Point this at wherever the sidecar ended up — `https://<podId>-8000.proxy.runpod.net` co-located, or the local port below if you fell back:
 
 ```bash
 curl -s -o /dev/null -w "%{http_code}" --max-time 25 -X POST \
@@ -233,6 +247,8 @@ The first full-scale run managed **13.3 questions/sec** at 32 client workers, on
 | 24 workers, **12 pairs = 24 questions per read** | **235–249 q/s** |
 
 Batching is roughly **8.5× faster** than the fastest unbatched configuration. A read denoises the whole canvas in one forward pass, so every question in it is answered for very nearly the cost of one. It is the entire point of the architecture.
+
+One caveat on all three rows: they were measured with the sidecar on a laptop, so every question carried up to four internet round trips. A co-located sidecar (Step 4) removes that, and the unbatched rows have the most to gain — they pay the overhead per question rather than amortising it across a canvas. Treat 13.3 and 28 as floors for that arrangement rather than properties of the model.
 
 **And I stopped using it, because the scores were wrong.**
 
