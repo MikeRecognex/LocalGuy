@@ -1,3 +1,47 @@
+# Diffusion Reads Guide — Rewrite Against the Recorded Run
+
+Reverted from live in `551fafdd`. The published version was a format-conversion of a
+claude.ai artifact and was never checked against the project that produced the run
+(`~/Scratch/contract-clause-consistency`).
+
+## Why it came down
+- [x] `18.9 GB of weights - measured, from the load log` is the HF file listing for
+      `nvidia/diffusiongemma-26B-A4B-it-NVFP4`, a checkpoint that never served. The FP8
+      model's only load log reads **25.83 GiB** — which does not fit 24GB, inverting the
+      guide's consumer-hardware conclusion.
+- [x] Throughput table headed "24 questions per read"; all three rows are
+      `pairs_per_read: 1` in `raw/diffusion/`. Batched rate is ~240 q/s.
+- [x] "~90% GPU" has no source (only 30% / 35%, read off the dashboard by the user).
+- [x] "more steps never helped" — `steps > 1` was never run.
+- [x] The "datacentre configuration" splices two pods and was never executed as printed.
+
+## To write
+- [x] Numbered spine, `installing-ollama-linux.md` as the structural model:
+      provision → build → serve → verify → first read → scale.
+- [x] Step 1: RunPod provisioning from the recorded pod bodies — H100 80GB HBM3,
+      `runpod/pytorch:1.0.2-cu1281-torch280-ubuntu2404`, disk 120, ports `["8000/http"]`,
+      the four env vars, the container command with the PR fetch and retry.
+- [x] Step 2: the three Blackwell failures and the captured flashinfer traceback, as the
+      reason the recipe pins an H100 — not as an aside.
+- [x] Step 3: **both** servers, and the fact the sidecar runs locally, not on the pod
+      (RunPod's second HTTP port would not route). This is the omission that made the
+      published version unrunnable.
+- [x] Step 4: readiness — the vLLM GET poll and the sidecar POST probe, ~380s.
+- [x] Step 5: first read through `/v1/systemone`, with the User-Agent workaround.
+- [x] Step 6: the batching reversal as the centrepiece — ~240 q/s batched, abandoned
+      because it corrupted the scores; 28 q/s unbatched adopted deliberately.
+- [x] Memory section rewritten from the real startup log; state plainly that no consumer
+      card is proven to run this.
+- [x] Every number traced to a raw file, a log line or a pod body. No arithmetic-only
+      claims presented as measurements.
+
+## Verification before it goes anywhere
+- [x] Build to a scratch `--output=`, not `_site/`.
+- [x] Walk the guide as a reader: can the run be reproduced from it alone?
+- [ ] Show the user `git show --stat` and the full prose diff. **Do not push until told.**
+
+---
+
 # Duplicate Posts — GGUF Pair Deduped, 31 More Groups Found
 
 ## What was done
