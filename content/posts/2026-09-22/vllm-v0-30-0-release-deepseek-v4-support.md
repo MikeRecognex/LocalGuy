@@ -3,11 +3,19 @@ title: "vLLM v0.30.0 Released With DeepSeek-V4.1 and Advanced Optimizations"
 date: 2026-09-22
 description: "vLLM v0.30.0 brings 762 commits including support for DeepSeek-V4.1-Flash with MXFP8 quantization and async prefetch optimizations for improved throughput on local hardware."
 tags:
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - quantisation
+  - deepseek-v4-1-flash
+  - edge-device
+  - inference-speed
+  - kv-cache-optimization
+  - memory-bandwidth
   - memory-optimization
-status: draft
+  - model-quantization
+  - quantisation
+  - release
+  - vllm
+status: published
 ---
 
 vLLM v0.30.0 represents a significant advancement in local inference capabilities with 315 contributors delivering 762 commits. The release introduces native support for DeepSeek-V4.1-Flash models with MXFP8 quantization, enabling efficient KV cache storage directly on consumer hardware. The async Engram prefetch feature optimizes memory bandwidth utilization, critical for maintaining throughput on resource-constrained systems.

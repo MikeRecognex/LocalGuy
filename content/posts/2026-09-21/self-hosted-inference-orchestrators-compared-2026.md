@@ -3,12 +3,23 @@ title: "Self-hosted Inference Orchestrators Compared: LocalAI, exo, GPUStack, vL
 date: 2026-09-21
 description: "Comprehensive comparison of leading self-hosted LLM inference orchestration platforms, evaluating LocalAI, exo, GPUStack, and vLLM for on-device and distributed inference deployments."
 tags:
-  - daily-digest
-  - vllm
-  - open-source
   - benchmark
+  - comparison
+  - cpu-only
+  - daily-digest
+  - distributed-inference
+  - exo
+  - gpustack
+  - inference-orchestration
+  - localai
+  - open-source
   - orchestration
-status: draft
+  - throughput-optimization
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A detailed benchmark comparison of four major self-hosted inference orchestrators reveals key differences in performance, ease of deployment, and feature sets. This analysis evaluates LocalAI for its simplicity and CPU-friendly approach, exo for distributed inference across multiple devices, GPUStack for enterprise-grade resource management, and vLLM for high-throughput serving with sophisticated batching strategies.

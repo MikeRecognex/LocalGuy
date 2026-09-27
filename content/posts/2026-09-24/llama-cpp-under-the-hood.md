@@ -3,11 +3,21 @@ title: "Llama.cpp Under the Hood: Deep Dive into Local Inference Runtime"
 date: 2026-09-24
 description: "A comprehensive technical analysis of llama.cpp's internal architecture and optimizations that power efficient local LLM inference. Essential reading for understanding how one of the most popular local inference engines achieves its performance characteristics."
 tags:
+  - analysis
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - llama-cpp
-  - open-source
   - inference-optimization
-status: draft
+  - inference-speed
+  - llama-cpp
+  - model-quantization
+  - open-source
+mentions:
+  - name: Hacker News
+    role: publisher
+  - name: CppDepend
+    role: publisher
+status: published
 ---
 
 Llama.cpp has become the de facto standard for running quantised language models locally, and this deep dive into its internals provides critical insight into how it achieves such impressive performance on consumer hardware. Understanding the runtime's architecture helps practitioners optimise their deployments and make informed decisions about model selection and quantisation strategies.

@@ -3,11 +3,22 @@ title: "Pruning LLMs Like a Physicist: Block Removal as Ising Optimization"
 date: 2026-09-23
 description: "A novel approach to LLM pruning using physics-inspired Ising model optimization to systematically remove unnecessary model blocks, reducing size and improving inference efficiency for local deployment."
 tags:
+  - analysis
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - edge-device
+  - inference-efficiency
   - memory-optimization
+  - model-pruning
+  - multiverse-computing
   - open-source
-status: draft
+  - physics-inspired-optimization
+  - quantisation
+  - quantization
+mentions:
+  - name: Multiverse Computing
+    role: researcher
+status: published
 ---
 
 This research applies statistical physics concepts to the problem of model pruning, treating block removal as an Ising spin optimization problem. Rather than heuristic-based pruning, this physics-inspired approach systematically identifies which transformer blocks can be removed with minimal performance loss. For local LLM practitioners, this translates to significantly smaller models with comparable capability—a critical advantage when inference must run on consumer hardware or mobile devices.

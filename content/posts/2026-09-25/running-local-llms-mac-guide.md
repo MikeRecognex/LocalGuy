@@ -3,12 +3,19 @@ title: "Practical Guide: Running Local LLMs on Your Mac - What Fits, What's Free
 date: 2026-09-25
 description: "A comprehensive guide exploring which local LLMs run efficiently on Mac hardware, including free options and performance tradeoffs between commercial and open-source models. Covers model selection, quantization options, and realistic expectations."
 tags:
-  - daily-digest
   - apple-silicon
-  - mlx
-  - quantisation
+  - daily-digest
   - deployment-guide
-status: draft
+  - mlx
+  - model-quantization
+  - model-selection
+  - performance-tradeoffs
+  - quantisation
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This practical guide addresses a common question from developers and practitioners evaluating local LLM deployment on macOS: what actually works, what's free, and when you're paying for overkill. The article cuts through marketing noise to provide realistic performance expectations for different model sizes and quantization strategies on Apple Silicon.

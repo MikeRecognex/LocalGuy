@@ -3,11 +3,18 @@ title: "LFM2.5-VL-DSpark Brings Accelerated Vision-Language Models to Local Infe
 date: 2026-09-26
 description: "Hugging Face announces LFM2.5-VL-DSpark, an optimized vision-language model designed for local deployment with improved inference speed. The model combines efficient architecture with quantization-friendly design for edge execution."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - edge-device
+  - inference-speed
+  - lfm-2-5-vl-dspark
   - memory-optimization
+  - model-quantization
   - open-source
-status: draft
+  - quantisation
+  - release
+  - vision-language-models
+status: published
 ---
 
 LFM2.5-VL-DSpark represents the continued push toward vision-language models that run efficiently on consumer hardware. By optimizing both model architecture and inference characteristics, this release addresses a real bottleneck: multimodal models are computationally expensive, making them difficult to deploy locally without significant hardware.

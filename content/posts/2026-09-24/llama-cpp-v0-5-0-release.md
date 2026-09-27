@@ -4,10 +4,16 @@ date: 2026-09-24
 description: "The v0.5.0 release of llama.cpp brings significant improvements to backend performance, adds support for additional model architectures, and enhances the HTTP server for production deployment scenarios."
 tags:
   - daily-digest
+  - ggml
+  - hunyuanocr
+  - inference-performance
   - llama-cpp
-  - open-source
+  - model-compatibility
   - model-coverage
-status: draft
+  - open-source
+  - production-deployment
+  - release
+status: published
 ---
 
 Llama.cpp v0.5.0 represents a substantial evolution of the project beyond its core inference capabilities, with particular emphasis on production-readiness and broader model coverage. The release includes support for HRM-Text (DFM Mimir 1B), MiMo-V2.6, and HunyuanOCR, expanding the ecosystem of models that can be efficiently deployed locally without requiring proprietary inference services.

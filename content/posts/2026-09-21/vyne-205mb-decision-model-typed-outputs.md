@@ -3,12 +3,20 @@ title: "Vyne: A 205MB On-Device Decision Model with Typed, Calibrated Outputs"
 date: 2026-09-21
 description: "Ultra-lightweight decision model designed for on-device inference, delivering structured predictions in just 205MB with type-safe outputs and calibrated confidence scores for edge deployment."
 tags:
+  - compact-models
   - daily-digest
-  - memory-optimization
+  - edge-deployment
+  - edge-device
   - edge-inference
+  - memory-optimization
   - open-source
+  - release
   - structured-outputs
-status: draft
+  - vyne
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Vyne demonstrates the viability of ultra-compact, specialized models for on-device inference with formal output constraints. At just 205MB, this decision model provides structured, type-safe predictions suitable for autonomous systems, mobile applications, and edge devices where model size and latency are critical constraints. The key innovation is the integration of output typing and calibration—ensuring predictions not only fit a specified schema but also include reliable confidence estimates.

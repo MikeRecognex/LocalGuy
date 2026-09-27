@@ -3,11 +3,22 @@ title: "BottleCap AI Releases ThinkingCap-Qwen3.8-27B with 37% Fewer Thinking To
 date: 2026-09-25
 description: "A new specialized model variant optimizes Qwen3.8-27B by reducing inference thinking tokens by 37.2% with only marginal accuracy loss. This significantly reduces computational overhead for local deployments running reasoning workloads."
 tags:
+  - bottlecap-ai
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - inference-speed
+  - iterative-reasoning
+  - memory-bandwidth
   - model-optimization
   - open-source
-status: draft
+  - quantisation
+  - qwen3-8-27b
+  - release
+  - thinkingcap-qwen3-8-27b
+mentions:
+  - name: BottleCap AI
+    role: developer
+status: published
 ---
 
 BottleCap AI's ThinkingCap-Qwen3.8-27B demonstrates an important optimization vector for local LLM deployment: reducing the computational cost of reasoning patterns. By specializing Qwen3.8-27B to generate 37.2% fewer thinking tokens during inference, the variant substantially reduces memory bandwidth and compute requirements while maintaining competitive accuracy (0.86 percentage point cost).

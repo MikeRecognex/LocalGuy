@@ -4,11 +4,20 @@ date: 2026-09-26
 description: "A new guide demonstrates running custom quantized models on Raspberry Pi using multiple inference engines including vLLM, Llama.cpp, and SGLang. This enables practical multi-engine inference workflows on edge devices with detailed configuration examples."
 tags:
   - daily-digest
-  - llama-cpp
-  - vllm
-  - quantisation
   - edge-deployment
-status: draft
+  - edge-device
+  - edge-inference
+  - inference-engines
+  - llama-cpp
+  - model-quantization
+  - oh-my-pi
+  - quantisation
+  - tutorial
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Oh My Pi project has expanded to support custom model deployment across multiple inference engines, enabling practitioners to choose the best-fit runtime for their edge hardware. Supporting vLLM, Llama.cpp, and SGLang in a unified framework means developers can leverage engine-specific optimizations—whether that's vLLM's batching capabilities, Llama.cpp's quantization support, or SGLang's speculative decoding.

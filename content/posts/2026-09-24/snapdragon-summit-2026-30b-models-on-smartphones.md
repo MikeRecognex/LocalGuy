@@ -4,10 +4,19 @@ date: 2026-09-24
 description: "Qualcomm's latest announcements demonstrate that consumer smartphones can now efficiently execute 30-billion parameter models locally, representing a significant milestone in on-device AI capability and privacy-preserving inference."
 tags:
   - daily-digest
-  - hardware
+  - edge-device
   - edge-inference
+  - hardware
+  - memory-efficient-inference
   - mobile-deployment
-status: draft
+  - model-quantization
+  - news
+  - on-device-inference
+  - snapdragon
+mentions:
+  - name: 디지털투데이
+    role: publisher
+status: published
 ---
 
 The capability to run 30-billion parameter models directly on consumer smartphone hardware marks a watershed moment for local LLM deployment. This achievement, enabled by Qualcomm's latest Snapdragon architectures and advances in quantisation and memory-efficient inference, means that truly private, on-device AI experiences are now feasible for mainstream consumer applications without reliance on cloud services.

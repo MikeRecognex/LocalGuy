@@ -3,10 +3,23 @@ title: "ISG Survey: 65% of Organizations Piloting Open-Weight Models Locally"
 date: 2026-09-22
 description: "Information Services Group survey reveals that local LLM deployment adoption has reached 20%, with 65% of organizations actively experimenting with open-weight model deployments."
 tags:
-  - daily-digest
-  - open-source
+  - analysis
   - benchmark
-status: draft
+  - daily-digest
+  - enterprise-adoption
+  - information-services-group
+  - llama-cpp
+  - localai
+  - open-source
+  - open-weight-models
+  - production-deployment
+  - vllm
+mentions:
+  - name: Information Services Group
+    role: analyst
+  - name: Traders Union
+    role: publisher
+status: published
 ---
 
 ISG's survey data provides definitive market evidence that local LLM deployment has crossed the threshold from niche experimentation to mainstream adoption. With 65% of organizations piloting open-weight models and 20% approaching production deployment, the infrastructure and tooling ecosystem for local inference is receiving corresponding investment and maturation. This represents a fundamental shift in how organizations approach LLM infrastructure decisions.

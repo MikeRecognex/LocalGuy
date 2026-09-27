@@ -3,12 +3,16 @@ title: "Ollama v0.40.0 Enables MLX Runtime by Default on Apple Silicon"
 date: 2026-09-26
 description: "Ollama's latest release automatically runs supported model architectures on MLX for Apple Silicon devices, improving performance for local inference. This milestone represents a major shift toward optimized on-device execution for Mac users."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - daily-digest
+  - edge-inference
+  - inference-optimization
+  - local-inference
   - mlx
+  - ollama
   - performance
-status: draft
+  - release
+status: published
 ---
 
 Ollama v0.40.0 marks a significant shift in how local LLM inference runs on Apple Silicon by making MLX the default runtime for supported model architectures. Previously, users had to manually configure MLX support; now it's automatic. This change reduces friction for Mac users deploying models locally and should deliver measurable performance improvements since MLX is optimized specifically for Apple's hardware.

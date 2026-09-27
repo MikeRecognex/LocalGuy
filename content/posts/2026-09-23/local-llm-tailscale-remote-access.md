@@ -4,9 +4,15 @@ date: 2026-09-23
 description: "A practical guide demonstrating how to expose a locally-hosted LLM across the internet using Tailscale, enabling secure remote access to self-hosted models from anywhere."
 tags:
   - daily-digest
-  - open-source
+  - data-privacy
   - deployment
-status: draft
+  - open-source
+  - remote-access
+  - tailscale
+  - tutorial
+  - vpn-networking
+  - wireguard
+status: published
 ---
 
 This practical demonstration addresses a real challenge for local LLM operators: how to safely access self-hosted models from multiple locations without exposing them to the public internet. Using Tailscale—a mesh VPN built on WireGuard—provides a simple, secure solution that maintains the privacy advantages of local hosting while enabling distributed access. This approach is particularly valuable for organizations wanting to host models internally while allowing remote teams to interact with them.

@@ -3,10 +3,15 @@ title: "Local LLM Automates Screenshot Naming and Organization Without Manual Wo
 date: 2026-09-20
 description: "A practical demonstration shows how a locally-deployed LLM can automatically name and categorize screenshots in real-time, eliminating manual file organization and showcasing the productivity benefits of edge AI."
 tags:
-  - daily-digest
-  - open-source
   - agents
-status: draft
+  - autonomous-agents
+  - daily-digest
+  - edge-device
+  - open-source
+  - privacy-compliance
+  - showcase
+  - workflow-automation
+status: published
 ---
 
 This real-world use case demonstrates the practical value proposition of local LLM deployment: automating previously manual, repetitive tasks with zero latency and complete privacy. By running inference on-device, the screenshot naming system operates instantaneously without cloud roundtrips, network dependency, or exposure of sensitive visual content to external servers.

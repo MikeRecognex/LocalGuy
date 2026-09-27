@@ -3,11 +3,20 @@ title: "Husky: Model-Specific Inference Engine Achieves 4.5x Speedup Over Apple 
 date: 2026-09-24
 description: "A new inference engine optimised for Apple Silicon demonstrates dramatic performance improvements over existing solutions, achieving up to 4.5x faster inference than MLX for specific model architectures."
 tags:
-  - daily-digest
   - apple-silicon
+  - daily-digest
+  - husky
   - inference-optimization
+  - inference-speed
+  - kernel-optimization
+  - mlx
+  - model-optimization
   - performance-benchmark
-status: draft
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Husky represents an important milestone in Apple Silicon-optimised inference, demonstrating that model-specific compilation and optimisation strategies can yield dramatic performance gains over general-purpose frameworks. The 4.5x speedup over MLX indicates that there is substantial room for improvement in how inference kernels are generated and compiled for Apple's neural engines.

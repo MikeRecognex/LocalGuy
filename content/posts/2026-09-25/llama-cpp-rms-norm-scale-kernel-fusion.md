@@ -3,12 +3,18 @@ title: "Llama.cpp Optimizes Kernel Execution with RMS_NORM and SCALE Fusion"
 date: 2026-09-25
 description: "The latest llama.cpp release fuses RMS_NORM and SCALE operations into a single kernel, eliminating 96 extra kernel launches per batch on large models like Qwen3.8-27B. This optimization reduces computational overhead without sacrificing accuracy."
 tags:
+  - consumer-gpu
   - daily-digest
+  - gpu-optimization
+  - inference-speed
+  - kernel-optimization
   - llama-cpp
-  - performance-optimization
   - nvidia
+  - performance-optimization
   - quantisation
-status: draft
+  - qwen-3-8-27b
+  - release
+status: published
 ---
 
 Llama.cpp continues its tradition of micro-optimizations that compound into meaningful performance gains. Build b11177 addresses a common pattern in modern LLMs where GDN layers previously required separate RMS normalization and scaling operations. By fusing these into a single kernel, the library eliminates redundant GPU work that accumulated to 96 extra kernel launches per batch on Qwen3.8's 48 GDN layers.

@@ -3,11 +3,20 @@ title: "Llama.cpp Fork Delivers 2-4x Speedup for Multi-GPU MoE Model Inference"
 date: 2026-09-26
 description: "A specialized llama.cpp fork optimizes mixture-of-experts models for multi-GPU setups, achieving 2-4x performance improvements for models exceeding single-GPU VRAM limits. This enables practical local deployment of large MoE architectures."
 tags:
+  - consumer-gpu
   - daily-digest
+  - inference-speed
   - llama-cpp
-  - nvidia
   - memory-optimization
-status: draft
+  - moe-models
+  - multi-gpu-inference
+  - nvidia
+  - release
+  - vram-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This llama.cpp optimization fork addresses a critical constraint in local inference: running large mixture-of-experts models across multiple GPUs without the memory overhead typical of standard multi-GPU approaches. By implementing specialized MoE kernel handling for distributed inference, the fork achieves 2-4x speedups—a substantial improvement that moves models from impractical to deployable.
