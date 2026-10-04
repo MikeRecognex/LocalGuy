@@ -3,12 +3,22 @@ title: "Magnitude (YC S25) Launches Self-Optimizing Inference Engine for Local A
 date: 2026-10-02
 description: "Magnitude, a Y Combinator S25 startup, has launched a self-optimizing inference engine specifically designed for local LLM agent deployment. The engine automatically optimizes inference performance across different hardware platforms."
 tags:
-  - daily-digest
+  - agentic-workflows
   - agents
-  - inference-optimization
-  - open-source
+  - daily-digest
   - hardware
-status: draft
+  - inference-optimization
+  - iterative-reasoning
+  - magnitude
+  - open-source
+  - release
+  - y-combinator
+mentions:
+  - name: Y Combinator
+    role: investor
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Magnitude's emergence as a YC-backed project signals growing venture interest in solving the local inference optimization problem. Agent-focused inference is particularly demanding—agentic workflows require multiple model invocations with varying latency sensitivities, making naive optimization strategies inadequate. Magnitude's self-optimizing approach directly addresses this by learning optimal execution strategies per hardware configuration.

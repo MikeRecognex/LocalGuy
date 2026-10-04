@@ -3,12 +3,19 @@ title: "42x Faster Prompt Lookup Drafting in llama.cpp"
 date: 2026-09-27
 description: "A new optimization in llama.cpp achieves 42x speedup for prompt lookup drafting, significantly improving inference performance for local LLM deployment. This speculative decoding technique dramatically reduces time-to-first-token and overall generation latency."
 tags:
+  - consumer-gpu
   - daily-digest
-  - llama-cpp
-  - speculative-decoding
-  - performance-optimization
+  - edge-device
   - inference-speed
-status: draft
+  - llama-cpp
+  - performance-optimization
+  - prompt-lookup-drafting
+  - release
+  - speculative-decoding
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Prompt lookup drafting represents a major performance breakthrough for local LLM inference. The 42x speedup achieved in llama.cpp through this optimization makes running larger models on consumer hardware significantly more practical, with dramatic improvements to both time-to-first-token and overall generation latency.

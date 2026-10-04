@@ -3,11 +3,19 @@ title: "llama.cpp Adds Support for Decision Models"
 date: 2026-10-03
 description: "llama.cpp now supports Cloudflare's Clef decision models, expanding local inference capabilities to include multimodal decision-making tasks alongside traditional language generation."
 tags:
+  - classification-tasks
+  - clef
   - daily-digest
+  - decision-models
   - llama-cpp
-  - open-source
   - model-architecture
-status: draft
+  - multimodal-inference
+  - open-source
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 llama.cpp, the leading C++ inference engine for local LLM deployment, has added support for decision models including Cloudflare's Clef architecture. This represents a significant expansion beyond traditional text-generation models, enabling local inference of specialized decision-making models that can process multimodal inputs.

@@ -3,12 +3,18 @@ title: "Ollama v0.35.0 Adds Decision Models Support via Jev API"
 date: 2026-09-30
 description: "Ollama 0.35.0 introduces support for decision models through a new /v1/systemone endpoint, enabling classification, routing, and triage tasks. Decision models return structured choices and scores instead of text, expanding local inference capabilities."
 tags:
-  - daily-digest
-  - ollama
+  - agent-orchestration
   - agents
-  - open-source
+  - daily-digest
+  - decision-models
+  - jev-api
+  - model-routing
   - model-types
-status: draft
+  - ollama
+  - open-source
+  - release
+  - structured-outputs
+status: published
 ---
 
 Ollama's latest v0.35.0 release significantly expands the framework's capabilities by introducing decision model support through the TypeSafe Jev API. The new `/v1/systemone` endpoint allows local deployment of classification and routing models that return structured outputs—choices, probabilities, and confidence scores—rather than text generation, opening new use cases previously requiring specialized infrastructure.

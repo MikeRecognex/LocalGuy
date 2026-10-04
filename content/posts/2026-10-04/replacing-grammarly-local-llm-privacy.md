@@ -3,10 +3,18 @@ title: "I Replaced Grammarly With a Local LLM, and None of My Writing Leaves My 
 date: 2026-10-04
 description: "A practical case study demonstrating how local LLMs can replace cloud-dependent productivity tools like Grammarly while maintaining complete data privacy and control."
 tags:
+  - consumer-gpu
   - daily-digest
+  - data-privacy
+  - grammarly
+  - llama-cpp
+  - offline-inference
+  - ollama
   - open-source
   - privacy
-status: draft
+  - showcase
+  - writing-assistance
+status: published
 ---
 
 This practical demonstration highlights a compelling use case driving local LLM adoption: replacing cloud-dependent productivity tools with on-device alternatives. Text analysis, grammar checking, and writing assistance are ideal candidates for local inference since they involve sensitive personal writing, require low latency for interactive workflows, and benefit from zero data transmission to external servers.

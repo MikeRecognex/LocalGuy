@@ -3,12 +3,22 @@ title: "Llama.cpp Fork Achieves 2-4x MultiGPU Speedup for MoE Models Larger Than
 date: 2026-09-27
 description: "A community fork of llama.cpp enables efficient distributed inference for Mixture-of-Experts models that exceed single GPU VRAM capacity, achieving 2-4x speedup improvements across multiple GPUs."
 tags:
+  - consumer-gpu
   - daily-digest
+  - distributed-inference
+  - inference-speed
   - llama-cpp
-  - multi-gpu
-  - moe-models
+  - memory-management
   - memory-optimization
-status: draft
+  - mixtral
+  - mixture-of-experts
+  - moe-models
+  - multi-gpu
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Running Mixture-of-Experts (MoE) models locally has traditionally been challenging when model weights exceed a single GPU's VRAM. This llama.cpp fork addresses that limitation by implementing smart distributed inference that partitions expert weights across multiple GPUs, achieving 2-4x speedup compared to naive approaches.

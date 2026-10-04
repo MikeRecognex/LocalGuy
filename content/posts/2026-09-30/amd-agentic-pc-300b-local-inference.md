@@ -3,12 +3,21 @@ title: "AMD Debuts Agentic PC Running 300B-Parameter Models Locally Without Clou
 date: 2026-09-30
 description: "AMD has announced an agentic PC platform capable of running 300 billion-parameter AI models entirely on-device without cloud connectivity. This breakthrough demonstrates the viability of large-scale local inference for autonomous agent workloads."
 tags:
-  - daily-digest
-  - amd
-  - hardware
+  - agent-orchestration
+  - agentic-pc
   - agents
+  - amd
+  - consumer-gpu
+  - daily-digest
+  - hardware
   - inference-speed
-status: draft
+  - large-scale-inference
+  - news
+  - offline-inference
+mentions:
+  - name: Chosunbiz
+    role: publisher
+status: published
 ---
 
 AMD's announcement of an agentic PC capable of running 300 billion-parameter models locally represents a major milestone for on-device AI deployment. This development proves that consumer-grade hardware can now handle previously cloud-dependent workloads, eliminating latency and privacy concerns associated with remote inference.

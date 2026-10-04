@@ -500,3 +500,36 @@ automated traffic. The site serves correctly from an independent network, so not
 broken — but `/posts/qwen-35-performance-breakthrough-170k-context` at 1140 visitors
 (29.6% of all traffic) is where any inflation would concentrate. Do not plan content
 around that post having "worked" until it is re-measured on honest numbers.
+
+---
+
+# Video-Sourced Guides — Discovery Workflow + Skill Variant
+
+Weekly: find the videos a subject is being argued about in, extract *leads* (never
+facts) from them, and hand a candidate brief to a guide-writing skill that reuses
+the verification discipline of `/write-guide`. Close the loop with drafted comments
+on the videos actually cited.
+
+## Design decisions
+- **Videos are discovery, not evidence.** Every spoken claim enters the pipeline as
+  an unverified lead needing a primary source — the same treatment `/write-guide`
+  step 3 already gives SEO aggregators.
+- **The warranted gate is also the spam gate.** If the guide adds verified mechanism
+  the videos lack, the comment is a contribution; if it doesn't, there is no guide
+  and nothing to link. One test, not two.
+- **Read-only YouTube = API key only.** No OAuth, no app verification, no quota
+  audit. ~300 units/week against a 10,000/day allowance.
+- **Automation stops at the brief.** n8n discovers; Claude researches and writes;
+  the user reviews, commits, and posts comments by hand.
+
+## Tasks
+- [x] Read `/write-guide` in full, `guides.njk` categories, `guides.json` schema
+- [x] Match existing n8n workflow JSON shape (typeVersions, settings, connections)
+- [x] Build `n8n/weekly-video-discovery.json`
+- [x] Build `.claude/skills/guide-from-videos/SKILL.md`
+- [x] Validate workflow JSON parses; graph connected and reachable from trigger
+- [x] Validate skill frontmatter parses and every referenced path exists
+- [ ] User: create the two n8n credentials, import, run once, review first brief
+
+## Review
+Added at the bottom of this section once built.

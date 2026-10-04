@@ -3,11 +3,20 @@ title: "Reflex Engine Achieves Superior Cold-Start to TTFT Performance vs Llama.
 date: 2026-10-01
 description: "A new inference engine called Reflex demonstrates faster time-to-first-token and cold-start latencies compared to established frameworks like llama.cpp and vLLM, with implementation available on GitHub."
 tags:
+  - comparison
   - daily-digest
+  - edge-device
+  - edge-inference
+  - inference-optimization
+  - latency-optimization
   - llama-cpp
-  - vllm
   - performance-optimization
-status: draft
+  - reflex-engine
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The Reflex Engine represents a meaningful performance breakthrough in local inference optimization, specifically addressing cold-start and time-to-first-token (TTFT) latency—two critical metrics for interactive applications. By demonstrating improvements over both llama.cpp and vLLM, Reflex enters a crowded but important space where milliseconds matter for user experience. The open-source availability ensures the community can evaluate claims independently and potentially integrate innovations into existing frameworks.

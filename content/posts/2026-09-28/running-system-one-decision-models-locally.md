@@ -3,12 +3,20 @@ title: "How to Run System One Decision Models Locally"
 date: 2026-09-28
 description: "A comprehensive guide on deploying System One-style decision models locally using Ollama, MLX, and other runtime solutions. This addresses practical challenges in running lightweight reasoning models on personal hardware."
 tags:
-  - daily-digest
-  - ollama
-  - mlx
   - agents
-  - inference
-status: draft
+  - apple-silicon
+  - consumer-gpu
+  - daily-digest
+  - deployment-guide
+  - lightweight-reasoning
+  - low-latency-inference
+  - mlx
+  - ollama
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 System One decision models represent a new category of lightweight reasoning models designed for fast, local inference. Unlike full-scale LLMs, these specialized models are optimized for making quick decisions and classifiers, creating opportunities for efficient on-device deployment across consumer and edge hardware.

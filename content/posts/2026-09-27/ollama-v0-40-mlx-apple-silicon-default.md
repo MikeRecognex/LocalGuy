@@ -3,12 +3,19 @@ title: "Ollama v0.40.0: MLX Runtime Now Default on Apple Silicon"
 date: 2026-09-27
 description: "Ollama 0.40.0 makes the MLX runtime the default execution engine for supported model architectures on Apple Silicon devices, improving performance and enabling more efficient local inference on Mac hardware."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - daily-digest
+  - inference-speed
+  - local-deployment
   - mlx
+  - ollama
   - performance-optimization
-status: draft
+  - qwen
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama's shift to MLX as the default runtime for Apple Silicon represents a significant quality-of-life improvement for Mac-based local LLM deployment. MLX, Apple's machine learning framework optimized for Apple Silicon, provides better performance characteristics than previous backends while maintaining compatibility with existing model architectures.

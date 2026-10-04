@@ -3,10 +3,17 @@ title: "New in Llama.cpp: Decision Models"
 date: 2026-10-04
 description: "Llama.cpp now supports decision models, expanding its capabilities beyond traditional language modeling to handle sequential decision-making tasks efficiently on local hardware."
 tags:
+  - agent-reasoning
   - daily-digest
   - llama-cpp
+  - on-device-inference
   - open-source
-status: draft
+  - release
+  - sequential-decision-making
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Llama.cpp's addition of decision model support marks an important expansion of the framework's scope beyond pure language generation. Decision models represent a distinct category of inference workload optimized for sequential decision-making and planning, enabling use cases like agent reasoning, multi-step task execution, and reinforcement learning applications to run locally.

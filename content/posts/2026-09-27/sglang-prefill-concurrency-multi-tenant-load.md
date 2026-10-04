@@ -3,12 +3,20 @@ title: "Prefill Concurrency in SGLang: Consistent TTFT Under Multi-Tenant Load"
 date: 2026-09-27
 description: "SGLang's new prefill concurrency feature addresses head-of-line blocking in multi-tenant LLM serving, maintaining consistent time-to-first-token even under variable request loads. This improves the viability of shared local LLM deployments."
 tags:
+  - analysis
   - daily-digest
-  - sglang
   - inference-optimization
   - multi-tenant
+  - multi-tenant-serving
   - performance-benchmark
-status: draft
+  - prefill-concurrency
+  - production-deployment
+  - sglang
+  - ttft-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Multi-tenant LLM serving on shared hardware has traditionally suffered from unpredictable latency when requests with different token generation requirements queue together. SGLang's prefill concurrency feature solves this by allowing multiple requests to share the prefill phase, preventing shorter requests from being blocked behind longer ones.

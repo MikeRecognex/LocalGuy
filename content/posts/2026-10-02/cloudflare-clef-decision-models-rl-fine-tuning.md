@@ -3,12 +3,18 @@ title: "Cloudflare Introduces Clef: Open-Source Decision Models and RL Fine-Tuni
 date: 2026-10-02
 description: "Cloudflare has released Clef, an open-source decision model library with a new reinforcement learning fine-tuning platform designed for local deployment and optimization of smaller, task-specific models."
 tags:
-  - daily-digest
-  - open-source
-  - fine-tuning
   - agents
+  - clef
+  - daily-digest
+  - decision-models
+  - edge-deployment
+  - edge-device
+  - fine-tuning
+  - open-source
   - optimization
-status: draft
+  - reinforcement-learning
+  - release
+status: published
 ---
 
 Clef represents a strategic shift in how organizations approach local AI deployment: instead of running bloated frontier models, Cloudflare is releasing tools for training and deploying lightweight decision models optimized for specific tasks. This aligns with the industry's growing recognition that local inference's killer advantage isn't just data privacy—it's the ability to specialize models for particular workflows.

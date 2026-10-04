@@ -3,13 +3,23 @@ title: "Janus: New Go Binary Runs GGUF Models via Vulkan on AMD, Intel, and NVID
 date: 2026-10-02
 description: "Janus is a newly released Go binary that enables GGUF model inference through Vulkan, providing cross-platform GPU acceleration for AMD, Intel, and NVIDIA hardware without vendor-specific dependencies."
 tags:
-  - daily-digest
-  - gguf
-  - vulkan
   - amd
+  - consumer-gpu
+  - daily-digest
+  - edge-device
+  - gguf
+  - gguf-inference
+  - gpu-acceleration
+  - janus
+  - model-quantization
   - nvidia
   - open-source
-status: draft
+  - release
+  - vulkan
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Janus addresses a persistent fragmentation challenge in local inference: the lack of truly vendor-agnostic GPU acceleration for GGUF models. By leveraging Vulkan—a cross-platform graphics API—Janus enables GGUF inference across AMD, Intel, and NVIDIA GPUs without requiring separate CUDA, HIP, or Metal implementations. This dramatically simplifies deployment workflows for teams supporting diverse hardware.

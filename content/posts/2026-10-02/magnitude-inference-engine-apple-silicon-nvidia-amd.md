@@ -3,13 +3,22 @@ title: "Magnitude Inference Engine Achieves 2x Speedup Across Apple Silicon, NVI
 date: 2026-10-02
 description: "Magnitude, a self-optimizing inference engine, now supports Apple Silicon, NVIDIA, and AMD CPUs with automatic hardware optimization that accelerates open models by up to 2x. The tool automatically tunes inference parameters based on target hardware capabilities."
 tags:
-  - daily-digest
-  - inference-optimization
-  - apple-silicon
-  - nvidia
   - amd
+  - analysis
+  - apple-silicon
+  - cross-platform
+  - daily-digest
+  - edge-device
+  - hardware-optimization
+  - inference-optimization
+  - inference-speed
+  - magnitude
+  - nvidia
   - performance
-status: draft
+mentions:
+  - name: GIGAZINE
+    role: publisher
+status: published
 ---
 
 Magnitude represents a significant breakthrough for local LLM deployment by automating one of the most challenging aspects of inference optimization: hardware-specific tuning. Rather than requiring practitioners to manually configure parameters for different processors, Magnitude intelligently adapts model execution to maximize throughput on Apple Silicon, NVIDIA GPUs, and AMD CPUs alike.

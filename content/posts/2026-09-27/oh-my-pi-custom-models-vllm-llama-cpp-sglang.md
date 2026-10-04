@@ -3,12 +3,20 @@ title: "Custom Models in Oh My Pi: vLLM, Llama.cpp, SGLang and More"
 date: 2026-09-27
 description: "A guide to running custom model architectures using multiple local inference engines including vLLM, Llama.cpp, and SGLang on edge devices like Raspberry Pi, demonstrating practical deployment flexibility."
 tags:
+  - custom-models
   - daily-digest
-  - llama-cpp
-  - vllm
-  - sglang
+  - edge-device
   - edge-inference
-status: draft
+  - llama-cpp
+  - oh-my-pi
+  - raspberry-pi
+  - sglang
+  - tutorial
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Running custom and cutting-edge model architectures on resource-constrained devices requires flexibility in the underlying inference engine. This guide demonstrates how to work with multiple local inference frameworks—vLLM, Llama.cpp, and SGLang—on edge hardware like Raspberry Pi, showing that advanced LLM deployment isn't limited to high-end GPUs.

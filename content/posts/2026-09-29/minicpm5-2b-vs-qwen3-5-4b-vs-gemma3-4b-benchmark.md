@@ -3,12 +3,21 @@ title: "MiniCPM5-2B vs Qwen3.5-4B vs Gemma3 4B: Comparative Benchmark Results"
 date: 2026-09-29
 description: "A new benchmark comparison tests three ultra-compact language models (2B-4B parameters) for local deployment, revealing performance trade-offs between Alibaba's MiniCPM5-2B, Qwen3.5-4B, and Google's Gemma3 4B. Results help practitioners select the right small model for their edge inference constraints."
 tags:
-  - daily-digest
   - benchmark
-  - small-models
-  - quantisation
+  - benchmark-testing
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - edge-device
+  - edge-inference
+  - gemma3-4b
+  - memory-constraints
+  - minicpm5-2b
   - performance
-status: draft
+  - quantisation
+  - qwen3-5-4b
+  - small-models
+status: published
 ---
 
 Small language models optimized for edge deployment have become increasingly competitive, and this benchmark provides critical guidance for practitioners choosing between emerging 2-4B parameter options. The comparison of MiniCPM5-2B, Qwen3.5-4B, and Gemma3 4B on a 53.9-point scoring metric reveals meaningful performance differentiation at the ultra-compact scale where local inference becomes practical on smartphone and IoT hardware. Each model represents different design trade-offs between context window, reasoning capability, and memory footprint.

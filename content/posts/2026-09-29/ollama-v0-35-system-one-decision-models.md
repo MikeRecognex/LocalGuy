@@ -3,12 +3,20 @@ title: "Ollama 0.35.0 Adds Support for Decision Models via System One API"
 date: 2026-09-29
 description: "Ollama releases version 0.35.0 with native support for decision models through a new /v1/systemone endpoint, enabling local deployment of specialized models for classification, routing, and structured decision tasks. This expansion beyond text generation opens new use cases for on-device AI inference."
 tags:
+  - api
+  - bespokelabs
   - daily-digest
+  - decision-models
+  - model-routing
+  - nimble
   - ollama
   - open-source
-  - decision-models
-  - api
-status: draft
+  - release
+  - structured-outputs
+mentions:
+  - name: BespokeLabs
+    role: developer
+status: published
 ---
 
 Ollama's latest release marks a significant expansion in model types supported by the popular local inference framework. The addition of decision models through the System One API enables practitioners to run specialized models locally that return structured outputs like probabilities and scores instead of generated text. This is particularly valuable for ticket triage, intelligent model routing, and content classification tasks where deterministic categorical decisions are needed.

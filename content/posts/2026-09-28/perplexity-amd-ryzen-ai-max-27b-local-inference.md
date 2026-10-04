@@ -3,12 +3,21 @@ title: "Perplexity Brings On-Device AI to AMD Ryzen AI Max PCs, Running 27B Mode
 date: 2026-09-28
 description: "Perplexity has enabled on-device AI inference on AMD Ryzen AI Max processors, allowing users to run 27-billion parameter models entirely locally. This demonstrates practical large-model deployment on consumer-grade hardware without cloud dependencies."
 tags:
-  - daily-digest
   - amd
+  - consumer-gpu
+  - daily-digest
+  - edge-inference
   - hardware
-  - inference
+  - large-model-inference
+  - perplexity
   - quantisation
-status: draft
+  - rag-pipeline
+  - release
+  - ryzen-ai-max
+mentions:
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Perplexity's integration with AMD Ryzen AI Max represents a significant milestone in making sophisticated language models accessible on consumer laptops. Running 27-billion parameter models locally on this hardware showcases how modern NPUs and optimized inference frameworks can bridge the gap between cloud-based AI and truly portable on-device deployment.

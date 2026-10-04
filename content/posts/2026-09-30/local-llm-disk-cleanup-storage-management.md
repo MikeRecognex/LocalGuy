@@ -3,12 +3,19 @@ title: "Local LLM Used for Intelligent Storage Cleanup and Disk Management"
 date: 2026-09-30
 description: "An XDA article documents using a local LLM to analyze a nearly-full SSD and identify safe files to delete, demonstrating practical application of local inference for system administration tasks. This shows creative use cases beyond traditional chat applications."
 tags:
-  - daily-digest
-  - open-source
   - agents
+  - daily-digest
+  - data-privacy
+  - file-management
+  - open-source
   - practical-applications
   - privacy
-status: draft
+  - showcase
+  - system-administration
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This article showcases a pragmatic real-world application of local LLM deployment: using a local model to analyze filesystem contents and make intelligent decisions about storage cleanup. By giving the model access to a nearly-full SSD and natural language instructions, the developer leveraged the LLM's reasoning capabilities for system administration—a task that typically requires manual investigation or brittle scripting.

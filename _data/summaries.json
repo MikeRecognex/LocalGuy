@@ -895,6 +895,38 @@
     "2026-09-26": {
       "text": "Hugging Face’s LFM2.5‑VL‑DSpark speeds edge vision‑language inference, while vLLM adds watermarking for local model security.",
       "postCount": 5
+    },
+    "2026-09-27": {
+      "text": "llama.cpp fork now delivers 2‑4× multi‑GPU speedup for large MoE models exceeding VRAM limits.",
+      "postCount": 5
+    },
+    "2026-09-28": {
+      "text": "llama.cpp’s new speculative decoding speeds prompt lookup, while Perplexity runs 27B models on AMD Ryzen AI Max.",
+      "postCount": 5
+    },
+    "2026-09-29": {
+      "text": "OPPO's ColorOS 17 now runs on‑device LLMs, bringing offline Xiaobou AI assistant to smartphones.",
+      "postCount": 5
+    },
+    "2026-09-30": {
+      "text": "AMD unveiled an agentic PC that runs 300‑billion‑parameter models on‑device, eliminating cloud reliance.",
+      "postCount": 5
+    },
+    "2026-10-01": {
+      "text": "Ollama v0.35.0 adds Decision Models via /v1/systemone API, while Reflex engine outpaces llama.cpp and vLLM in cold‑start latency.",
+      "postCount": 5
+    },
+    "2026-10-02": {
+      "text": "Cloudflare unveiled Clef, an open‑source decision‑model library with RL fine‑tuning for local deployment.",
+      "postCount": 5
+    },
+    "2026-10-03": {
+      "text": "llama.cpp now runs Cloudflare’s Clef decision models, enabling local multimodal decision inference alongside text generation.",
+      "postCount": 5
+    },
+    "2026-10-04": {
+      "text": "Aleph Alpha’s Kolibri 78.1B MoE model launches, delivering multilingual inference with just 3.46B active parameters.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1028,7 +1060,11 @@
     },
     "2026-09-20": {
       "text": "",
-      "postCount": 30
+      "postCount": 35
+    },
+    "2026-09-27": {
+      "text": "",
+      "postCount": 35
     }
   }
 }

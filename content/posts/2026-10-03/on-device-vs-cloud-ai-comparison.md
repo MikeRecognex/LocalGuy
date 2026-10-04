@@ -3,11 +3,16 @@ title: "On-Device AI vs Cloud AI: What Actually Happens When Your Phone Processe
 date: 2026-10-03
 description: "An in-depth comparison of on-device versus cloud-based AI inference, explaining the technical differences, latency tradeoffs, and privacy implications for mobile LLM deployment."
 tags:
+  - comparison
   - daily-digest
+  - edge-device
   - edge-inference
+  - inference-comparison
+  - latency-optimization
   - mobile
+  - mobile-deployment
   - privacy
-status: draft
+status: published
 ---
 
 This article provides a technical deep-dive into the architectural and performance differences between on-device inference and cloud-based AI processing. Understanding these tradeoffs is essential for practitioners deciding where to deploy their LLM workloads.

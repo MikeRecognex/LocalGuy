@@ -3,12 +3,21 @@ title: "A Wall That Listens: The Local-LLM Pipeline Behind an AI Party in Vilniu
 date: 2026-09-28
 description: "A creative technical deep-dive into building a real-time, fully-local LLM inference pipeline for an interactive art installation using edge-deployed language models and voice I/O."
 tags:
+  - a-wall-that-listens
+  - agents
   - daily-digest
+  - edge-device
+  - edge-inference
+  - inference-pipeline
+  - latency-optimization
   - llama-cpp
   - open-source
-  - inference
-  - agents
-status: draft
+  - showcase
+  - voice-synthesis
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 This case study documents the technical architecture behind an interactive AI installation that processes continuous voice input and generates real-time responses entirely on local hardware, with no cloud dependencies. The project demonstrates end-to-end integration of speech recognition, language model inference, and speech synthesis—all running on modest local hardware in a real-time interactive context.

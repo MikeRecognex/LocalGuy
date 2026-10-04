@@ -3,12 +3,23 @@ title: "Allen Institute Releases Olmo-Core 3: Open Training Infrastructure for L
 date: 2026-10-02
 description: "Allen Institute has released Olmo-Core 3, an open-source training infrastructure designed for large-scale mixture-of-experts (MoE) models, enabling community-driven development of efficient models suitable for local deployment."
 tags:
+  - allen-institute
   - daily-digest
-  - open-source
-  - moe
-  - training
+  - edge-deployment
+  - edge-device
   - inference-optimization
-status: draft
+  - memory-bandwidth
+  - mixture-of-experts
+  - moe
+  - olmo-core-3
+  - open-source
+  - release
+  - training
+  - training-infrastructure
+mentions:
+  - name: Allen Institute
+    role: developer
+status: published
 ---
 
 Olmo-Core 3's release is strategically important for local inference because mixture-of-experts architectures offer a path to deploying capability-competitive models with significantly reduced per-inference computational cost. By open-sourcing the training infrastructure, Allen Institute enables the community to experiment with MoE architectures and create models specifically optimized for resource-constrained environments.

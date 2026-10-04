@@ -3,12 +3,21 @@ title: "Forlinx Launches 20-TOPS M.2 AI Accelerator With PCIe Cascading Support"
 date: 2026-09-29
 description: "Forlinx announces a new M.2-form-factor AI accelerator offering 20 TOPS of inference performance with support for PCIe cascading, enabling scalable local LLM inference on edge devices. The compact form factor and cascading capability make it suitable for heterogeneous edge computing deployments."
 tags:
-  - daily-digest
-  - hardware
+  - 20-tops-m2-ai-accelerator
   - accelerator
+  - daily-digest
+  - edge-device
   - edge-inference
+  - forlinx
+  - hardware
+  - model-quantization
+  - pcie-cascading
   - performance
-status: draft
+  - release
+mentions:
+  - name: Forlinx
+    role: manufacturer
+status: published
 ---
 
 Forlinx's latest hardware offering addresses a key constraint for edge AI deployment: fitting powerful compute into compact form factors while maintaining scalability. The 20-TOPS M.2 accelerator can be deployed in space-constrained environments like industrial IoT gateways, autonomous vehicles, or edge servers where a standard PCIe card won't fit. More importantly, the PCIe cascading capability allows multiple accelerators to be chained together, creating a horizontal scaling path without requiring redesign of the host system.

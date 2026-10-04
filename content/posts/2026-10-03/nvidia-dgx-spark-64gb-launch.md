@@ -3,11 +3,19 @@ title: "NVIDIA Launches DGX Spark 64GB Desktop AI System at $4,999"
 date: 2026-10-03
 description: "NVIDIA announces the DGX Spark 64GB, a $4,999 desktop inference system offering professional-grade local LLM deployment capabilities with support for clustering multiple units."
 tags:
-  - daily-digest
-  - nvidia
-  - hardware
   - benchmark
-status: draft
+  - connectx-7
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - desktop-inference
+  - dgx-spark-64gb
+  - hardware
+  - hardware-clustering
+  - nvidia
+  - release
+  - unquantized-inference
+status: published
 ---
 
 NVIDIA has released the DGX Spark 64GB, a dedicated desktop inference system priced at $4,999, making enterprise-grade local LLM deployment more accessible. The system launches October 23, 2026, and includes support for clustering two units together via ConnectX-7 to achieve 128GB total memory—bridging the gap between single-GPU and multi-node deployments.

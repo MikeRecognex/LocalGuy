@@ -3,12 +3,21 @@ title: "AMD Boosts AI/LLM Performance for Radeon iGPUs by 18-23% With Linux 7.4"
 date: 2026-09-30
 description: "AMD has delivered significant performance improvements for LLM inference on Radeon integrated GPUs through Linux 7.4 optimizations, achieving 18-23% speed increases. This makes integrated graphics a more viable option for local model deployment."
 tags:
-  - daily-digest
   - amd
-  - hardware
   - benchmark
+  - consumer-gpu
+  - daily-digest
+  - edge-deployment
+  - hardware
   - inference-speed
-status: draft
+  - integrated-gpu
+  - linux
+  - radeon
+  - release
+mentions:
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 AMD's Linux 7.4 release brings substantial optimizations specifically targeting LLM and AI workload performance on Radeon iGPUs, with improvements ranging from 18-23%. These gains are achieved through better memory management, instruction optimization, and improved compute utilization patterns—critical for making integrated graphics a practical option for local inference without discrete GPU hardware.

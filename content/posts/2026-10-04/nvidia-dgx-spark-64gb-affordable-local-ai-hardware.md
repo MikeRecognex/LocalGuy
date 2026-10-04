@@ -3,10 +3,16 @@ title: "Nvidia's DGX Spark Gets a 64GB Model at $4,999"
 date: 2026-10-04
 description: "NVIDIA announces a more affordable 64GB variant of its DGX Spark system, enabling accessible high-performance local AI development with support for memory pooling across multiple units."
 tags:
+  - cost-saving
   - daily-digest
-  - nvidia
+  - datacenter-gpu
+  - dgx-spark
   - hardware
-status: draft
+  - inference-infrastructure
+  - memory-pooling
+  - nvidia
+  - release
+status: published
 ---
 
 NVIDIA's introduction of a 64GB DGX Spark at $4,999 represents an important price-to-performance inflection point for local inference infrastructure. This configuration strikes a balance between capability and accessibility, enabling serious practitioners to deploy and fine-tune larger models locally without enterprise-level capital investment.

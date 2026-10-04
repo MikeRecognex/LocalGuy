@@ -3,12 +3,21 @@ title: "Qualcomm Snapdragon Sound Elite Gen 2 Brings On-Device AI To Audio Weara
 date: 2026-09-28
 description: "Qualcomm's latest Snapdragon Sound Elite Gen 2 platform integrates on-device AI capabilities specifically optimized for audio processing in wearables and IoT devices. This hardware advancement enables real-time audio AI inference without cloud connectivity."
 tags:
+  - audio-processing
   - daily-digest
-  - hardware
+  - edge-device
   - edge-inference
+  - hardware
+  - low-latency-inference
   - quantisation
+  - release
+  - snapdragon-sound-elite-gen-2
+  - voice-processing
   - wearables
-status: draft
+mentions:
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 The Snapdragon Sound Elite Gen 2 represents specialized silicon designed specifically for efficient audio AI on wearable and IoT devices. By integrating dedicated AI accelerators directly into the audio processing pipeline, Qualcomm enables real-time voice processing, noise cancellation, speaker identification, and audio understanding without transmitting data to cloud servers.

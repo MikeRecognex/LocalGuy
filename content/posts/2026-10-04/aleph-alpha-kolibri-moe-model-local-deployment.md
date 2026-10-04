@@ -3,11 +3,22 @@ title: "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Mod
 date: 2026-10-04
 description: "Aleph Alpha has released Kolibri, a 78.1B Mixture-of-Experts model with only 3.46B active parameters, enabling efficient local deployment of high-capacity multilingual models with minimal compute requirements."
 tags:
+  - aleph-alpha
   - daily-digest
+  - kolibri
+  - llama-cpp
+  - memory-optimization
+  - moe-architecture
+  - multilingual-models
+  - ollama
   - open-source
   - quantisation
-  - memory-optimization
-status: draft
+  - release
+  - sparse-llms
+mentions:
+  - name: Aleph Alpha
+    role: developer
+status: published
 ---
 
 Mixture-of-Experts (MoE) architectures continue to prove their value for local inference by enabling large model capacities while maintaining manageable active parameter counts. Kolibri's design—with 78.1B total parameters but only 3.46B active during inference—demonstrates how sparse models can deliver sophisticated capabilities on resource-constrained hardware.

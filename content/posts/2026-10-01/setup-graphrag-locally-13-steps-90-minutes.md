@@ -4,10 +4,15 @@ date: 2026-10-01
 description: "A detailed practical guide for deploying GraphRAG locally in approximately 90 minutes, providing step-by-step instructions for practitioners building knowledge graph-augmented retrieval systems on-device."
 tags:
   - daily-digest
-  - rag
-  - open-source
   - deployment-guide
-status: draft
+  - graphrag
+  - knowledge-graph
+  - local-deployment
+  - open-source
+  - rag
+  - rag-pipeline
+  - tutorial
+status: published
 ---
 
 GraphRAG represents an important evolution in retrieval-augmented generation, moving beyond simple vector similarity to knowledge graph-based reasoning. This practical 13-step guide makes local GraphRAG deployment accessible to teams without deep infrastructure expertise, breaking down what could be a complex setup into manageable phases. The 90-minute timeframe suggests the deployment process is now sufficiently refined for realistic adoption by mid-size teams and individual practitioners.
