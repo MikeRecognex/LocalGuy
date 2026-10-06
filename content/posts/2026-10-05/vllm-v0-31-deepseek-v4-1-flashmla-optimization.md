@@ -3,12 +3,22 @@ title: "vLLM v0.31.0: DeepSeek-V4.1-Flash with FlashMLA Mega Attention and Spars
 date: 2026-10-05
 description: "vLLM releases v0.31.0 with major performance optimizations for DeepSeek-V4.1-Flash including FlashMLA mega attention with NVFP4 compressed KV cache and sparse MQA logits, contributed by 307 contributors across 717 commits."
 tags:
+  - attention-kernels
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - quantisation
+  - deepseek-v4-1-flash
+  - inference-optimization
+  - kv-cache-compression
   - memory-optimization
+  - quantisation
+  - release
   - speculative-decoding
-status: draft
+  - vllm
+  - vram-optimization
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 vLLM v0.31.0 brings significant inference optimizations that make recent frontier models more practical for local and resource-constrained deployments. The release focuses on DeepSeek-V4.1-Flash with FlashMLA mega attention implementations paired with NVFP4 compressed KV cache, reducing memory overhead while maintaining quality. These attention kernel improvements are complemented by sparse MQA (multi-query attention) logits fusion, which streamlines the computation graph for faster token generation.

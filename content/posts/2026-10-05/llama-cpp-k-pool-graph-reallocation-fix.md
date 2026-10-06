@@ -4,10 +4,14 @@ date: 2026-10-05
 description: "llama.cpp release b11412 fixes an unexpected graph reallocation issue in k-pool models that was causing decode-time performance degradation, particularly affecting recent models like Qwen and GLM variants."
 tags:
   - daily-digest
+  - inference-speed
+  - latency-mitigation
   - llama-cpp
-  - performance-optimization
+  - memory-management
   - memory-optimization
-status: draft
+  - performance-optimization
+  - release
+status: published
 ---
 
 llama.cpp continues its steady cadence of optimization and bug fixes with b11412, addressing a critical performance issue in k-pool models where the computation graph was being unexpectedly reallocated during decoding. K-pool models (used in recent Qwen and GLM variants) require careful cache management, and this fix prevents the inference engine from rebuilding its execution graph on every token generation step, which was causing significant latency spikes.

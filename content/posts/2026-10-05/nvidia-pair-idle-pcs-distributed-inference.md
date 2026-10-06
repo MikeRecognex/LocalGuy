@@ -3,12 +3,17 @@ title: "NVIDIA PAIR: Distributed Inference on Idle PCs Achieves 1.9x Speedup"
 date: 2026-10-05
 description: "NVIDIA's PAIR framework enables local AI inference to utilize idle compute resources across networked PCs, delivering 1.9x faster inference while maintaining privacy through edge processing."
 tags:
+  - analysis
+  - consumer-gpu
   - daily-digest
-  - nvidia
   - distributed-inference
-  - performance-optimization
   - edge-computing
-status: draft
+  - idle-compute
+  - inference-speed
+  - nvidia
+  - pair
+  - performance-optimization
+status: published
 ---
 
 NVIDIA PAIR represents an innovative approach to local inference optimization by leveraging idle compute resources that already exist in homes and offices. Instead of offloading inference to cloud services, PAIR allows a single machine to transparently distribute computation to idle PCs on the same network, achieving near-linear speedups while maintaining complete privacy—inference never leaves the local network.

@@ -927,6 +927,10 @@
     "2026-10-04": {
       "text": "Aleph Alpha’s Kolibri 78.1B MoE model launches, delivering multilingual inference with just 3.46B active parameters.",
       "postCount": 5
+    },
+    "2026-10-05": {
+      "text": "NVIDIA PAIR boosts local inference 1.9× using idle PCs; llama.cpp b11412 fixes k‑pool graph issue for Qwen.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1065,6 +1069,10 @@
     "2026-09-27": {
       "text": "",
       "postCount": 35
+    },
+    "2026-10-04": {
+      "text": "<p>This week the llama.cpp b11412 fix for k‑pool graph reallocation, NVIDIA PAIR’s 1.9× idle‑PC speedup, and Ollama v0.40.0’s MLX default on Apple Silicon stole the spotlight.</p>\n<p>Don’t miss the GLM-5.",
+      "postCount": 5
     }
   }
 }
