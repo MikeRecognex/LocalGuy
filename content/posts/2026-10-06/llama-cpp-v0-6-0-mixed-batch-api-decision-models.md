@@ -3,11 +3,17 @@ title: "llama.cpp v0.6.0 Introduces Extended Batch API and Decision Model Suppor
 date: 2026-10-06
 description: "llama.cpp v0.6.0 adds a new llama_batch_ext API supporting mixed token/embedding inputs, introduces support for decision models like Clef, and includes GLM-5.3-Flash hybrid model support with MTP speculative decoding. These changes expand the framework's capability for complex inference patterns."
 tags:
+  - clef
   - daily-digest
+  - decision-models
+  - edge-device
+  - glm-5-3-flash
+  - inference-optimization
   - llama-cpp
   - open-source
+  - release
   - speculative-decoding
-status: draft
+status: published
 ---
 
 llama.cpp v0.6.0 represents a major architectural evolution for the widely-used inference framework. The introduction of the llama_batch_ext API enables mixed token/embedding inputs and support for MTP/deepstack state embeddings, allowing practitioners to implement more sophisticated inference patterns that were previously difficult to achieve. This is particularly valuable for multi-modal and complex reasoning workflows on limited hardware.

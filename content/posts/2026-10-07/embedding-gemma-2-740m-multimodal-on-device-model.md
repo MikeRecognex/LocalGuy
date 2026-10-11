@@ -4,11 +4,19 @@ date: 2026-10-07
 description: "Google DeepMind has released EmbeddingGemma 2, an open-source multimodal embedding model that processes text, audio, and video while running in just 567MB of memory. Built on Gemma 4, this 740M parameter model enables efficient semantic search and retrieval on-device without cloud dependencies."
 tags:
   - daily-digest
-  - open-source
-  - multimodal
+  - edge-device
   - embedding
+  - embeddinggemma-2
   - gemma
-status: draft
+  - gemma-4
+  - multimodal
+  - multimodal-embeddings
+  - ollama
+  - open-source
+  - rag-pipeline
+  - release
+  - semantic-search
+status: published
 ---
 
 Google DeepMind's EmbeddingGemma 2 is a game-changer for local multimodal AI. At 740M parameters, it's lightweight enough to run on edge devices while supporting text, audio, and video embeddings in a single unified model. The 567MB memory requirement makes it practical for mobile devices, embedded systems, and resource-constrained environments where traditional embedding models would be prohibitive.

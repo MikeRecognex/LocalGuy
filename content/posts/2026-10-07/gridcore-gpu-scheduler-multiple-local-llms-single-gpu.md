@@ -3,12 +3,22 @@ title: "GridCore: A GPU Scheduler for Running Multiple Local LLMs on One GPU"
 date: 2026-10-07
 description: "GridCore is a new scheduler that enables multiple local LLMs to share a single GPU efficiently. This tool addresses a critical constraint for local deployment: allowing developers to run multiple models simultaneously without requiring multiple GPUs."
 tags:
+  - consumer-gpu
+  - cost-saving
   - daily-digest
-  - open-source
   - gpu
-  - scheduler
+  - gpu-scheduling
+  - gpu-utilization
+  - gridcore
   - memory-optimization
-status: draft
+  - multi-model-inference
+  - open-source
+  - scheduler
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 GridCore solves a practical problem that many local AI practitioners face: maximizing GPU utilization when running multiple models. Rather than dedicating an entire GPU to a single model, GridCore intelligently schedules inference requests across models, batching operations and managing memory to keep multiple models active simultaneously on shared hardware.

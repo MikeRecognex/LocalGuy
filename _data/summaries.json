@@ -931,6 +931,30 @@
     "2026-10-05": {
       "text": "NVIDIA PAIR boosts local inference 1.9× using idle PCs; llama.cpp b11412 fixes k‑pool graph issue for Qwen.",
       "postCount": 5
+    },
+    "2026-10-06": {
+      "text": "Ollama 0.40.0 now uses MLX on Apple Silicon, adding Clef decision model support for faster local inference.",
+      "postCount": 5
+    },
+    "2026-10-07": {
+      "text": "AMD's Quark adds on-device quantization to Strix Halo, while GridCore lets multiple LLMs share a single GPU.",
+      "postCount": 5
+    },
+    "2026-10-08": {
+      "text": "Microsoft Windows ML now runs DeepSeek V4 Flash and Nemotron locally via llama.cpp integration.",
+      "postCount": 5
+    },
+    "2026-10-09": {
+      "text": "Google's on‑device embedding model enables photo and audio search without cloud; JetBrains releases 12B Mellum 2.1 coding MoE.",
+      "postCount": 5
+    },
+    "2026-10-10": {
+      "text": "Google’s ML Drift GPU engine targets inference, while MINIX unveils AMD Ryzen AI mini PC with 86 TOPS.",
+      "postCount": 5
+    },
+    "2026-10-11": {
+      "text": "vLLM now runs natively on Windows, while Google’s ML Drift powers on‑device GPU inference for edge AI.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1071,8 +1095,8 @@
       "postCount": 35
     },
     "2026-10-04": {
-      "text": "<p>This week the llama.cpp b11412 fix for k‑pool graph reallocation, NVIDIA PAIR’s 1.9× idle‑PC speedup, and Ollama v0.40.0’s MLX default on Apple Silicon stole the spotlight.</p>\n<p>Don’t miss the GLM-5.",
-      "postCount": 5
+      "text": "",
+      "postCount": 35
     }
   }
 }

@@ -4,11 +4,16 @@ date: 2026-10-09
 description: "Google introduced a new embedding model capable of searching photos and audio without requiring cloud connectivity, enabling on-device multimodal search."
 tags:
   - daily-digest
-  - multimodal
+  - edge-device
   - edge-inference
-  - open-source
+  - embedding-models
   - memory-optimization
-status: draft
+  - multimodal
+  - multimodal-search
+  - open-source
+  - rag-pipeline
+  - release
+status: published
 ---
 
 Google's new local-first embedding model marks a significant step toward practical on-device multimodal AI. By enabling photo and audio search entirely on-device, without cloud uploads, the model prioritises privacy and reduces latency—two critical requirements for consumer AI applications. This approach demonstrates how embedding models can be optimised for local execution while maintaining search quality across different modalities.

@@ -3,12 +3,16 @@ title: "Ollama v0.40.0 Brings Multimodal Embeddings and MLX Default on Apple Sil
 date: 2026-10-07
 description: "Ollama's latest release makes MLX the default runtime for supported models on Apple Silicon and implements native multimodal embedding support through EmbeddingGemma2Model architecture. This brings efficient text, audio, and video embeddings to on-device deployment with significantly reduced memory footprint."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - daily-digest
   - mlx
+  - mlx-framework
   - multimodal
-status: draft
+  - multimodal-embeddings
+  - ollama
+  - rag-pipeline
+  - release
+status: published
 ---
 
 Ollama v0.40.0 represents a major milestone for local LLM deployment on Apple Silicon systems. The update makes MLX the default runtime for compatible model architectures, leveraging Apple's optimized machine learning framework for better performance and efficiency. This decision eliminates configuration friction for users running models like Qwen, Gemma4, and other MLX-compatible architectures.

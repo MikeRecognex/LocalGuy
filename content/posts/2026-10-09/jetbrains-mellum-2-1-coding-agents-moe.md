@@ -3,12 +3,22 @@ title: "JetBrains Releases Mellum 2.1: 12B MoE Model Optimised for Coding Agents
 date: 2026-10-09
 description: "JetBrains released Mellum 2.1, a 12 billion parameter Mixture-of-Experts model designed specifically for coding tasks and agentic workflows, available as an open-source model."
 tags:
-  - daily-digest
-  - open-source
   - agents
+  - coding-agents
+  - daily-digest
+  - edge-device
   - fine-tuning
+  - jetbrains
+  - mellum-2-1
+  - mixture-of-experts
+  - model-specialization
   - moe
-status: draft
+  - open-source
+  - release
+mentions:
+  - name: JetBrains
+    role: developer
+status: published
 ---
 
 Mellum 2.1 represents a focused approach to building specialist models for local deployment. As a 12B Mixture-of-Experts model optimised for coding, it strikes a practical balance between capability and resource consumption. MoE architectures enable selective activation of model parameters during inference, allowing effective capability of larger models while maintaining the latency and memory profile of smaller dense models—ideal for edge and on-device scenarios.

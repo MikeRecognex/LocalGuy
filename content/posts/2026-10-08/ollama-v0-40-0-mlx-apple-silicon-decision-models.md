@@ -3,12 +3,16 @@ title: "Ollama v0.40.0 Brings MLX Runtime to Apple Silicon and Decision Models"
 date: 2026-10-08
 description: "Ollama's latest release automatically routes supported model architectures to the MLX runtime on Apple Silicon devices, improving inference performance. The release also adds support for decision models and multimodal embeddings including EmbeddingGemma2."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - daily-digest
+  - decision-models
+  - inference-optimization
   - mlx
+  - multimodal-embeddings
+  - ollama
   - open-source
-status: draft
+  - release
+status: published
 ---
 
 Ollama v0.40.0 marks a significant milestone for local LLM deployment on Apple Silicon. The release implements automatic model routing to the MLX runtime for supported architectures, eliminating manual configuration and delivering optimised performance on Apple hardware. This is particularly valuable for developers running models like Qwen3.8, Gemma4, and Qwen3.5 locally on MacBooks and other Apple Silicon devices.

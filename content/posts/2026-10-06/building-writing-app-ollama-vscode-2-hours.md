@@ -3,11 +3,19 @@ title: "Building a Free Writing Application in 2 Hours Using Ollama and VS Code"
 date: 2026-10-06
 description: "ZDNET documents how a developer built a functional writing application in just 2 hours using Ollama for local LLM inference integrated with VS Code. The project showcases the accessibility and speed of developing with modern local LLM tooling."
 tags:
+  - app-development
+  - cost-saving
   - daily-digest
+  - developer-tools
   - ollama
   - open-source
   - practical-guide
-status: draft
+  - showcase
+  - vs-code
+mentions:
+  - name: ZDNET
+    role: publisher
+status: published
 ---
 
 This ZDNET piece highlights how accessible local LLM development has become—a complete writing application built in just 2 hours using only open-source tools demonstrates the maturity of the local inference ecosystem. By combining Ollama's straightforward model management with VS Code integration, the developer eliminated common friction points that previously made local AI application development complex or expensive.

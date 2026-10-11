@@ -3,12 +3,20 @@ title: "Saluki 27B: 2-bit Quantised Qwen Model Outperforms Original at Tool Call
 date: 2026-10-09
 description: "A new 2-bit quantised variant of Qwen3.8-27B demonstrates superior tool calling capabilities compared to the original model, showing that aggressive quantisation can preserve or improve specific task performance."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
-  - open-source
+  - agentic-ai
   - benchmark
-status: draft
+  - daily-digest
+  - edge-device
+  - gguf
+  - inference-speed
+  - model-quantization
+  - news
+  - open-source
+  - quantisation
+  - qwen3-8-27b
+  - saluki-27b
+  - tool-calling
+status: published
 ---
 
 The Saluki 27B model represents a significant advancement in quantisation techniques for local LLM deployment. By reducing the Qwen3.8-27B model to 2-bit precision, researchers achieved a substantial reduction in memory footprint and inference latency while maintaining competitive performance on standard benchmarks. Most notably, the quantised variant actually outperforms the original model at tool calling—a critical capability for agentic workloads and real-world applications.

@@ -3,12 +3,19 @@ title: "Local LLM Inference at Scale with vLLM"
 date: 2026-10-11
 description: "Deep dive into using vLLM for high-throughput local LLM inference, covering optimization techniques and scaling strategies for self-hosted deployments."
 tags:
-  - daily-digest
-  - vllm
   - benchmark
+  - daily-digest
   - inference-optimization
+  - inference-throughput
   - open-source
-status: draft
+  - production-deployment
+  - throughput-optimization
+  - tutorial
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 vLLM continues to be a critical framework for practitioners deploying large language models locally and on-device. This piece explores practical approaches to scaling inference throughput when running vLLM in self-hosted environments, providing implementation details that go beyond basic setup.

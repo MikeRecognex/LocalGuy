@@ -3,12 +3,23 @@ title: "ML Drift: Google's Open-Source On-Device GPU Inference Engine"
 date: 2026-10-10
 description: "Google has released ML Drift, a new open-source GPU inference engine specifically optimized for edge and on-device deployment scenarios. The framework focuses on GPU efficiency for local inference workloads."
 tags:
+  - consumer-gpu
   - daily-digest
-  - gpu-inference
   - edge-deployment
+  - edge-device
+  - edge-inference
+  - gpu-acceleration
+  - gpu-inference
+  - inference-engine
+  - ml-drift
   - open-source
   - optimization
-status: draft
+  - release
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Google's introduction of ML Drift addresses a critical gap in the open-source inference ecosystem: optimized GPU inference specifically designed for edge devices and local deployment. While frameworks like vLLM excel at cloud-scale inference, ML Drift's architecture targets the constrained resource environments typical of on-device AI.

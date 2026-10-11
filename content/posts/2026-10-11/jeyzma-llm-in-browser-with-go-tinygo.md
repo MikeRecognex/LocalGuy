@@ -3,12 +3,21 @@ title: "Jeyzma: In-Browser LLM Inference with Go and TinyGo"
 date: 2026-10-11
 description: "Jeyzma enables local LLM inference directly in web browsers using Go/TinyGo and llama.cpp integration, combining accessibility with privacy-preserving edge inference."
 tags:
-  - daily-digest
   - browser-inference
+  - daily-digest
+  - data-residency
+  - edge-device
   - edge-inference
+  - jeyzma
   - llama-cpp
   - open-source
-status: draft
+  - regulated-industry
+  - showcase
+  - tinygo
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Jeyzma represents an innovative approach to bringing local LLM inference to the browser, leveraging Go/TinyGo compilation and llama.cpp foundations. By running models directly in the browser without cloud round-trips, it provides true edge inference with privacy guarantees—the model and user data never leave the device.

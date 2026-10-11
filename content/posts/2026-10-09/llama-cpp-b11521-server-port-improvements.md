@@ -3,12 +3,16 @@ title: "llama.cpp B11521: Server Infrastructure Improvements and Performance Opt
 date: 2026-10-09
 description: "Latest llama.cpp release includes default port configuration changes and continued optimisations across CUDA, Metal, and other acceleration backends."
 tags:
-  - daily-digest
-  - llama-cpp
-  - inference-engine
-  - nvidia
   - apple-silicon
-status: draft
+  - daily-digest
+  - inference-engine
+  - inference-server
+  - llama-cpp
+  - nvidia
+  - performance-optimization
+  - quantization
+  - release
+status: published
 ---
 
 The rapid release cadence of llama.cpp continues to deliver incremental but meaningful improvements to the foundational inference engine. Recent builds focus on infrastructure stability (server port defaults, out-of-bounds fixes) alongside hardware-specific optimisations across CUDA, Metal, and Hexagon accelerators. These updates ensure that the widely-adopted GGUF format and llama.cpp inference remain reliable and performant as deployment scales.

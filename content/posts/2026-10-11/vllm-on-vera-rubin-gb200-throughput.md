@@ -3,12 +3,18 @@ title: "vLLM on Vera Rubin Posts 7.8x GB200 Throughput per Chip"
 date: 2026-10-11
 description: "vLLM achieves 7.8x throughput improvements on NVIDIA's GB200 hardware through Vera Rubin optimizations, demonstrating significant performance gains for local inference clusters."
 tags:
-  - daily-digest
-  - vllm
-  - nvidia
   - benchmark
+  - benchmark-report
+  - daily-digest
+  - datacenter-gpu
   - hardware-optimization
-status: draft
+  - inference-cluster
+  - inference-throughput
+  - nvidia
+  - vllm
+mentions:
+  - name: 
+status: published
 ---
 
 vLLM's optimization for NVIDIA's GB200 architecture (Vera Rubin) delivers substantial throughput improvements that matter for practitioners deploying local inference clusters. A 7.8x improvement per chip indicates major progress in hardware-software co-optimization, allowing significantly higher model serving capacity on the same infrastructure investment.

@@ -3,12 +3,18 @@ title: "vLLM v0.31.0 Optimizes DeepSeek-V4.1-Flash with FlashMLA and NVFP4 Compr
 date: 2026-10-07
 description: "vLLM v0.31.0 brings major inference optimizations including FlashMLA mega attention support for DeepSeek-V4.1-Flash and NVFP4 compressed KV cache as SM100 default. This release from 717 commits by 307 contributors significantly improves throughput and memory efficiency for production local inference."
 tags:
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - quantisation
   - deepseek
+  - deepseek-v4-1-flash
+  - inference-optimization
+  - inference-speed
+  - kv-cache-quantization
   - nvidia
-status: draft
+  - quantisation
+  - release
+  - vllm
+status: published
 ---
 
 vLLM v0.31.0 represents substantial progress in optimizing inference for modern model architectures. The integration of FlashMLA mega attention with V4.1's NVFP4 compressed KV cache enables dramatic improvements in both speed and memory consumption. NVFP4 is now the SM100 default, meaning users deploying on NVIDIA Blackwell architectures automatically benefit from advanced quantization without manual configuration.

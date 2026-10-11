@@ -3,11 +3,20 @@ title: "LiquidAI Releases Open D1 Decision Models Optimized for Edge Deployment"
 date: 2026-10-08
 description: "LiquidAI has open-sourced D1 decision models designed specifically for on-device inference, offering multimodal reasoning capabilities in a form factor suitable for edge hardware. These models represent a new category of AI workloads that balance reasoning performance with strict latency and memory constraints."
 tags:
+  - autonomous-agents
+  - d1
   - daily-digest
-  - open-source
+  - edge-device
   - edge-inference
+  - liquidai
+  - multimodal-reasoning
+  - open-source
   - quantisation
-status: draft
+  - release
+mentions:
+  - name: LiquidAI
+    role: developer
+status: published
 ---
 
 LiquidAI's open-source D1 decision models address a critical gap in the local inference ecosystem: models explicitly optimized for reasoning under edge constraints. Unlike general-purpose generative models, D1 architectures prioritize decision-making quality while maintaining inference speed and memory footprint suitable for consumer devices. This architectural focus makes them particularly valuable for autonomous agents, robotics, and real-time decision systems running entirely on-device.

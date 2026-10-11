@@ -3,12 +3,17 @@ title: "Ollama v0.40.0 Brings MLX Default Runtime and Decision Model Support for
 date: 2026-10-06
 description: "Ollama's latest release automatically runs supported model architectures on MLX for Apple Silicon devices, with new support for decision models like Clef and additional Qwen variants. This update significantly improves performance for local inference on Mac hardware."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - clef
+  - daily-digest
+  - decision-models
+  - inference-optimization
   - mlx
+  - mlx-integration
+  - ollama
   - open-source
-status: draft
+  - release
+status: published
 ---
 
 Ollama v0.40.0 marks a significant milestone for local LLM deployment on Apple Silicon. The release introduces MLX as the default runtime for supported model architectures, eliminating manual configuration and automatically optimizing inference performance on Mac hardware. This change reduces friction for practitioners who previously had to manually switch runtimes.

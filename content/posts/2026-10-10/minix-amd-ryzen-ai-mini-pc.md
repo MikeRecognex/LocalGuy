@@ -3,12 +3,25 @@ title: "MINIX Launches ER947-AI Mini PC with AMD Ryzen AI 9 HX 470"
 date: 2026-10-10
 description: "MINIX has released a compact, powerful mini PC featuring AMD's latest Ryzen AI processor, delivering 86 TOPS of AI compute in a desktop-form-factor device optimized for local model deployment."
 tags:
-  - daily-digest
-  - hardware
   - amd
+  - daily-digest
   - edge-deployment
+  - edge-device
+  - er947-ai
+  - hardware
   - inference-optimization
-status: draft
+  - local-hardware
+  - mini-pc
+  - minix
+  - npu-acceleration
+  - release
+  - ryzen-ai-9-hx-470
+mentions:
+  - name: MINIX
+    role: hardware-manufacturer
+  - name: Akron Beacon Journal
+    role: publisher
+status: published
 ---
 
 The MINIX ER947-AI represents a inflection point in accessible local LLM hardware. By combining AMD's Ryzen AI 9 HX 470 processor (with integrated NPU delivering 86 TOPS) in a compact form factor, MINIX has created a platform that enables sophisticated local inference without requiring discrete GPU additions or cloud dependencies. This is a meaningful step forward for practitioners who need dedicated local hardware without server-grade infrastructure.

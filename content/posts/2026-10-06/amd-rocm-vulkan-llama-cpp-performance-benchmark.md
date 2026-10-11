@@ -3,12 +3,22 @@ title: "AMD ROCm vs. Vulkan Performance Benchmarking for Local AI Inference on L
 date: 2026-10-06
 description: "Phoronix benchmarks AMD's ROCm and Vulkan backends for llama.cpp, comparing GPU acceleration performance for local inference on AMD hardware. The results provide practical insights for practitioners choosing between different GPU acceleration strategies."
 tags:
-  - daily-digest
-  - llama-cpp
   - amd
+  - backend-comparison
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - gpu-acceleration
   - hardware
-status: draft
+  - inference-speed
+  - lemonade-server
+  - llama-cpp
+  - rocm
+mentions:
+  - name: Phoronix
+    role: publisher
+status: published
 ---
 
 This benchmark from Phoronix provides crucial performance data comparing AMD's ROCm stack against Vulkan for llama.cpp inference on the Lemonade Local AI Server. For practitioners deploying on AMD GPUs, these direct performance comparisons offer real-world validation of which acceleration backend delivers better throughput and latency. Such benchmarks are essential for infrastructure planning when choosing hardware and optimization strategies.
