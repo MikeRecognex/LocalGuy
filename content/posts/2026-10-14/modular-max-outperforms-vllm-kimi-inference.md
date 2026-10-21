@@ -3,12 +3,26 @@ title: "Modular's MAX Framework Delivers 5.5x Speedup Over vLLM on Kimi Models"
 date: 2026-10-14
 description: "Modular's MAX inference framework achieves 5.5x performance improvement over vLLM when running Kimi K2.5 models, demonstrating significant optimisations for local LLM inference speed and efficiency."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - edge-device
   - inference-optimization
+  - inference-speed
+  - kernel-optimization
+  - kimi-k2-5
+  - max-framework
+  - modular
   - open-source
   - performance
-status: draft
+  - vllm
+mentions:
+  - name: Modular
+    role: developer
+  - name: shattered.io
+    role: publisher
+status: published
 ---
 
 Modular's MAX framework has demonstrated substantial performance gains over established inference engines, achieving 5.5x faster inference compared to vLLM when running Kimi K2.5 models. This represents a meaningful breakthrough in local inference optimisation, addressing one of the primary bottlenecks for practitioners deploying large models on consumer and edge hardware.

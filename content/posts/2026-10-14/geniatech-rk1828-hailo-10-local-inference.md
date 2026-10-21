@@ -3,12 +3,24 @@ title: "Geniatech Enables Local LLM Inference with RK1828 and Hailo-10 M.2 Accel
 date: 2026-10-14
 description: "Geniatech announces support for local LLM inference on RK1828 processors paired with Hailo-10 M.2 AI accelerators, expanding edge deployment options beyond traditional GPU-centric approaches."
 tags:
-  - daily-digest
-  - hardware
   - accelerators
+  - daily-digest
+  - edge-device
   - edge-inference
+  - geniatech
+  - hailo-10
+  - hardware
+  - on-device-inference
   - open-source
-status: draft
+  - power-efficiency
+  - release
+  - rk1828
+mentions:
+  - name: Geniatech
+    role: manufacturer
+  - name: LinuxGizmos.com
+    role: publisher
+status: published
 ---
 
 Geniatech has announced integration between the RK1828 processor and Hailo-10 M.2 AI accelerators for local LLM inference, opening new deployment pathways beyond traditional GPU and CPU-based approaches. This combination targets edge and embedded scenarios where power efficiency and physical form factor constraints are critical.

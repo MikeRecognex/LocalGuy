@@ -3,12 +3,18 @@ title: "Jailbroken PS5 Runs Qwen 3.8 27B Model at 20 tok/s via 'PS5LM Plus' llam
 date: 2026-10-19
 description: "A custom llama.cpp implementation enables inference of large Qwen models on PlayStation 5 hardware, demonstrating creative hardware repurposing and achieving competitive inference speeds on consumer gaming consoles."
 tags:
-  - daily-digest
-  - llama-cpp
   - benchmark
+  - consumer-gpu
+  - daily-digest
   - hardware
+  - hardware-repurposing
+  - inference-speed
+  - llama-cpp
+  - ps5lm-plus
   - quantisation
-status: draft
+  - qwen-3-8-27b
+  - showcase
+status: published
 ---
 
 Running Qwen 3.8 27B at 20 tokens-per-second on a PlayStation 5 showcases both the flexibility of the llama.cpp ecosystem and the latent compute capacity in existing consumer hardware. This achievement demonstrates that production inference speeds are achievable on platforms beyond traditional datacenter GPUs or specialized AI accelerators.

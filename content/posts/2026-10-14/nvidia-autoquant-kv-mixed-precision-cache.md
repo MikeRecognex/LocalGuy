@@ -3,12 +3,22 @@ title: "NVIDIA AutoQuant KV Reduces Memory via Automatic Mixed-Precision KV Cach
 date: 2026-10-14
 description: "NVIDIA introduces AutoQuant KV, enabling automatic mixed-precision quantisation of KV caches to reduce memory requirements and improve inference efficiency for local LLM deployments."
 tags:
+  - autoquant-kv
+  - consumer-gpu
   - daily-digest
-  - quantisation
+  - inference-efficiency
+  - kv-cache-quantization
   - memory-optimization
   - nvidia
   - performance
-status: draft
+  - quantisation
+  - release
+  - tensorrt
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 NVIDIA's AutoQuant KV introduces automatic mixed-precision quantisation specifically targeting KV (key-value) cache management, addressing one of the most memory-intensive components of transformer-based LLM inference. By intelligently selecting precision levels for different cache elements, the approach reduces memory footprint while preserving model accuracy and output quality.

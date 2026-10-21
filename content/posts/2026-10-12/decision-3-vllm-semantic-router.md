@@ -3,12 +3,21 @@ title: "vLLM Releases Decision 3.0: Open Semantic Router Decision Models"
 date: 2026-10-12
 description: "vLLM's Semantic Router introduces Decision 3.0, a collection of open multimodal decision models ranging from 0.6B to 27B parameters, optimized for routing and decision-making in local agent systems."
 tags:
-  - daily-digest
-  - vllm
+  - agent-orchestration
   - agents
-  - open-source
+  - daily-digest
+  - decision-3-0
+  - edge-device
   - multimodal
-status: draft
+  - multimodal-models
+  - open-source
+  - release
+  - semantic-routing
+  - vllm
+mentions:
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 Decision 3.0 represents a critical toolchain addition for building local AI agents without cloud dependencies. These open, multimodal models span a 0.6B to 27B parameter range, enabling practitioners to select appropriate model sizes for their hardware constraints while maintaining semantic routing capabilities. This addresses a key gap in self-hosted agent architectures where routing decisions have previously required either large general-purpose models or proprietary cloud APIs.

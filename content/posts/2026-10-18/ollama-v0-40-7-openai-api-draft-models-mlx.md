@@ -3,12 +3,21 @@ title: "Ollama v0.40.7 Release: OpenAI API Improvements and MLX Enhancements"
 date: 2026-10-18
 description: "Latest Ollama release adds OpenAI-compatible API features for non-thinking models and improves MLX support, enhancing compatibility and performance for local inference deployments."
 tags:
-  - daily-digest
-  - ollama
   - api-compatibility
+  - apple-silicon
+  - apple-silicon-optimization
+  - daily-digest
+  - llama-server
+  - local-inference
   - mlx
+  - ollama
+  - pplx-decider-v1-2
   - release
-status: draft
+  - speculative-decoding
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama's v0.40.7 release brings important enhancements to OpenAI API compatibility and MLX support, addressing real-world deployment needs. The addition of Responses effort support on non-thinking models expands flexibility for teams using the OpenAI-compatible endpoint, while improvements to draft speculative decoding in llama-server enable faster inference through more effective model speculation strategies.

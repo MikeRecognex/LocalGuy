@@ -3,12 +3,22 @@ title: "Modular's MAX Achieves 5.5x Performance Improvement Over vLLM on Kimi K2
 date: 2026-10-18
 description: "Modular's MAX inference engine demonstrates significant performance gains, delivering 5.5x speedup compared to vLLM on Kimi K2.5, marking a major breakthrough in local LLM inference optimization."
 tags:
-  - daily-digest
   - benchmark
-  - performance
+  - benchmark-report
+  - cost-saving
+  - daily-digest
   - inference-optimization
+  - inference-speed
+  - kimi-k2-5
+  - max
+  - modular
   - open-source
-status: draft
+  - performance
+  - vllm
+mentions:
+  - name: Modular
+    role: developer
+status: published
 ---
 
 Modular's MAX has emerged as a serious contender in the local LLM inference space, achieving a 5.5x performance improvement over the widely-used vLLM framework when running Kimi K2.5. This benchmark represents one of the most substantial performance differentials shown between inference engines in recent testing, suggesting significant optimizations in how MAX handles model computation and memory management.

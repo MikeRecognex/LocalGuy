@@ -3,12 +3,25 @@ title: "Akamai Doubles GPU Throughput with Single vLLM Flag Change"
 date: 2026-10-12
 description: "Akamai's Khaja Omer demonstrates a simple vLLM configuration flag that doubles inference throughput on a single GPU, highlighting practical performance optimization for local LLM deployment."
 tags:
+  - akamai
+  - benchmark
+  - configuration-tuning
+  - consumer-gpu
   - daily-digest
-  - vllm
+  - inference-throughput
+  - news
   - nvidia
   - performance
-  - benchmark
-status: draft
+  - performance-optimization
+  - vllm
+mentions:
+  - name: Khaja Omer
+    role: engineer
+  - name: Akamai
+    role: deployer
+  - name: BigGo Finance
+    role: publisher
+status: published
 ---
 
 A significant practical breakthrough for local LLM operators: changing a single vLLM flag can double throughput on a single GPU without additional hardware investment. This finding from Akamai's infrastructure team demonstrates that performance optimization often lies in configuration tuning rather than expensive hardware upgrades.

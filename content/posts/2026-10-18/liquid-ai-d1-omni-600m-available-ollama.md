@@ -3,12 +3,22 @@ title: "Liquid AI's d1-omni-600M Model Now Available as Ollama Pull"
 date: 2026-10-18
 description: "Liquid AI releases the d1-omni-600M model optimized for edge deployment, now accessible through Ollama, expanding the catalog of efficient models for local inference."
 tags:
+  - d1-omni-600m
   - daily-digest
-  - ollama
-  - model-release
-  - quantisation
+  - edge-device
   - edge-inference
-status: draft
+  - liquid-ai
+  - memory-efficiency
+  - model-release
+  - ollama
+  - quantisation
+  - release
+mentions:
+  - name: Liquid AI
+    role: developer
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Liquid AI's d1-omni-600M model has been integrated into Ollama's ecosystem, providing practitioners with a new lightweight option for local deployment. The 600M parameter count positions this model in the sweet spot for edge devices and resource-constrained environments, making it accessible for a broader range of deployment scenarios from consumer laptops to IoT devices.

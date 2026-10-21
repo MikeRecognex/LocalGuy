@@ -4,10 +4,15 @@ date: 2026-10-20
 description: "Google's new LiteRT Tensor API enables developers to author and optimise models natively for edge deployment. This framework simplifies creating models specifically designed for on-device inference with reduced latency and memory footprint."
 tags:
   - daily-digest
+  - edge-device
   - edge-inference
-  - open-source
+  - edge-model-authoring
+  - litert-tensor-api
   - memory-optimization
-status: draft
+  - model-optimization
+  - open-source
+  - release
+status: published
 ---
 
 Google has released the LiteRT Tensor API, a new approach to model development that prioritizes edge-first optimization from the start rather than converting cloud models post-hoc. This framework enables developers to author models with on-device constraints as first-class concerns, leading to better inference performance on mobile, embedded, and edge hardware.

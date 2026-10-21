@@ -3,12 +3,21 @@ title: "DeepSeek R1 Local Setup on Low-End PC: What Actually Runs"
 date: 2026-10-19
 description: "Practical guide demonstrating which configurations of the DeepSeek R1 model can run on consumer-grade hardware, providing realistic benchmarks for local deployment scenarios."
 tags:
-  - daily-digest
   - benchmark
-  - quantisation
-  - open-source
+  - consumer-gpu
+  - daily-digest
   - hardware
-status: draft
+  - hardware-benchmarks
+  - model-quantization
+  - open-source
+  - quantisation
+  - r1
+  - resource-optimization
+  - tutorial
+mentions:
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 This article addresses the critical gap between model announcements and practical accessibility by testing DeepSeek R1 across various low-end PC configurations. It provides real-world data on memory requirements, speed, and viability—essential information for developers deciding whether to pursue local deployment versus cloud alternatives.

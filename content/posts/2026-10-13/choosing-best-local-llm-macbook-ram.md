@@ -3,12 +3,20 @@ title: "How to Choose the Best Local LLM Based on MacBook RAM Size"
 date: 2026-10-13
 description: "A practical guide matching LLM model sizes to MacBook specifications, providing evidence-based recommendations for running local models across the full range of Apple Silicon configurations."
 tags:
-  - daily-digest
   - apple-silicon
-  - mlx
-  - quantisation
   - benchmark
-status: draft
+  - daily-digest
+  - hardware-requirements
+  - macbook
+  - mlx
+  - model-selection
+  - quantisation
+  - quantization
+  - tutorial
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 MacBooks have emerged as one of the most accessible platforms for local LLM experimentation, combining powerful Apple Silicon with reasonable price points. However, choosing the right model for your RAM configuration requires understanding memory requirements, quantization trade-offs, and performance characteristics across different sizes.

@@ -3,11 +3,18 @@ title: "Developer Migrates from Ollama to llama.cpp, Discovers Unexpected Benefi
 date: 2026-10-16
 description: "An XDA developer shares their experience moving local LLM inference workloads from Ollama to llama.cpp, revealing workflow advantages beyond just raw speed improvements. The comparison highlights practical considerations when choosing local inference frameworks."
 tags:
+  - comparison
   - daily-digest
+  - developer-workflow
+  - inference-frameworks
   - llama-cpp
   - ollama
   - open-source
-status: draft
+  - quantization
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This firsthand account provides valuable perspective on the practical differences between two dominant local inference frameworks. While raw inference speed often dominates discussions, the developer's experience reveals that workflow integration, model compatibility, and operational considerations significantly impact real-world productivity when managing local model deployments.

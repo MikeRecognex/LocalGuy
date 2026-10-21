@@ -4,11 +4,18 @@ date: 2026-10-12
 description: "llama.cpp release b11567 introduces memory reallocation callback tracking during inference, enabling better observability and optimization of dynamic memory usage in local inference."
 tags:
   - daily-digest
+  - edge-device
+  - inference-optimization
   - llama-cpp
+  - memory-observability
   - memory-optimization
   - open-source
   - performance
-status: draft
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 llama.cpp's new compute graph reallocation callback system provides crucial visibility into memory dynamics during inference—previously a black box for local operators. By allowing user code to register callbacks that track when the scheduler reallocates memory, this enables developers to identify inefficiencies and profile actual runtime behavior rather than guessing at memory patterns.

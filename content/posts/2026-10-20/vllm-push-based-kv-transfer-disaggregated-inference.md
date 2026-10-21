@@ -4,10 +4,18 @@ date: 2026-10-20
 description: "AWS and vLLM introduce push-based KV cache transfer to improve time-to-first-token and time-per-output-token for disaggregated inference deployments. This optimization technique reduces latency in multi-node local inference setups."
 tags:
   - daily-digest
-  - vllm
-  - memory-optimization
+  - disaggregated-inference
+  - distributed-inference
+  - inference-latency
   - inference-speed
-status: draft
+  - kv-cache-optimization
+  - memory-optimization
+  - release
+  - vllm
+mentions:
+  - name: Amazon Web Services
+    role: publisher
+status: published
 ---
 
 vLLM has implemented push-based KV (key-value) cache transfer mechanisms to optimize disaggregated inference architectures. This advancement directly addresses two critical metrics for local inference performance: TTFT (time-to-first-token) and TPOT (time-per-output-token). The technique enables more efficient token-by-token computation across distributed local deployments.

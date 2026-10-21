@@ -3,11 +3,20 @@ title: "Intel Launches Inference Microservices for Xeon Processors to Optimise v
 date: 2026-10-15
 description: "Intel has released inference microservices designed specifically to optimise vLLM performance on Xeon processors, targeting enterprise deployments of open-source models. This hardware-software co-optimisation improves throughput and efficiency for server-side local inference."
 tags:
-  - daily-digest
-  - vllm
-  - hardware
   - amd
-status: draft
+  - cpu-inference
+  - cpu-only
+  - daily-digest
+  - enterprise-ai
+  - hardware
+  - inference-optimization
+  - release
+  - vllm
+  - xeon
+mentions:
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Intel's focused optimisation for vLLM on Xeon hardware represents important progress in making open-source model serving viable on enterprise CPU infrastructure. Rather than relegating CPU inference to a secondary role, these microservices enable practitioners to efficiently deploy quantised and smaller open models on existing Xeon deployments without GPU investment. This is particularly valuable for organisations with legacy infrastructure or workloads where GPU costs cannot be justified.

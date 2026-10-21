@@ -3,12 +3,17 @@ title: "30B-Class Models Squeezed Into Phones: On-Device AI Arms Race Ignites Ne
 date: 2026-10-19
 description: "The industry is pushing larger 30B-parameter models onto mobile devices, creating a new competitive frontier around memory optimization and compression techniques for on-device inference."
 tags:
-  - daily-digest
-  - memory-optimization
-  - quantisation
-  - hardware
+  - analysis
   - benchmark
-status: draft
+  - daily-digest
+  - edge-device
+  - edge-inference
+  - hardware
+  - kv-cache-optimization
+  - memory-optimization
+  - model-compression
+  - quantisation
+status: published
 ---
 
 Running 30-billion parameter models on smartphones represents a significant achievement in mobile AI deployment, requiring aggressive quantisation and memory management strategies. This arms race is driving innovation in compression techniques and inference optimization, with manufacturers competing to demonstrate practical capability at scale.

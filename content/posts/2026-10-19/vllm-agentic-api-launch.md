@@ -3,12 +3,20 @@ title: "vLLM Agentic API"
 date: 2026-10-19
 description: "vLLM introduces a new agentic API enabling agent-based workflows and reasoning tasks within the inference framework, expanding capabilities for complex local LLM applications."
 tags:
-  - daily-digest
-  - vllm
+  - agent-orchestration
   - agents
-  - open-source
   - benchmark
-status: draft
+  - daily-digest
+  - inference-serving
+  - open-source
+  - release
+  - tool-use
+  - vllm
+  - vllm-agentic-api
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The vLLM Agentic API represents a maturation of the inference serving framework, moving beyond simple request-response patterns toward orchestrated agent workflows. This addition acknowledges the shift in local LLM use cases from simple chat to complex reasoning chains and tool use.

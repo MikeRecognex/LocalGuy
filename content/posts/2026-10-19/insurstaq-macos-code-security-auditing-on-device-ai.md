@@ -3,12 +3,22 @@ title: "InsurStaq AI Launches Local macOS Code-Security Auditing Tool With On-De
 date: 2026-10-19
 description: "A production security tool demonstrates practical on-device LLM deployment for code analysis on macOS, showing real-world application of local inference for privacy-sensitive enterprise workloads."
 tags:
-  - daily-digest
-  - apple-silicon
-  - open-source
-  - benchmark
   - agents
-status: draft
+  - apple-silicon
+  - benchmark
+  - code-analysis
+  - code-security-auditing-tool
+  - daily-digest
+  - enterprise-ai
+  - insurstaq-ai
+  - on-device-inference
+  - open-source
+  - release
+  - security-audit
+mentions:
+  - name: InsurStaq AI
+    role: developer
+status: published
 ---
 
 InsurStaq's code-security auditing tool represents a concrete production use case for local LLM inference, leveraging on-device reasoning to analyse code without transmitting sensitive intellectual property to external APIs. This addresses a critical requirement for enterprise adoption—maintaining data privacy while enabling AI-powered analysis.

@@ -3,12 +3,21 @@ title: "Ollama GPU Requirements Guide: VRAM, RAM, and Supported GPUs"
 date: 2026-10-18
 description: "Comprehensive reference guide covering GPU memory requirements, RAM specifications, and supported hardware for running Ollama locally, helping practitioners make informed deployment decisions."
 tags:
+  - capacity-planning
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - ollama
-  - hardware
   - deployment
   - gpu
-status: draft
+  - hardware
+  - hardware-requirements
+  - ollama
+  - tutorial
+  - vram-requirements
+mentions:
+  - name: Hostinger
+    role: publisher
+status: published
 ---
 
 This comprehensive guide addresses one of the most frequently asked questions in local LLM deployment: what hardware do I actually need? The Hostinger resource breaks down GPU VRAM requirements, system RAM needs, and which GPUs are officially supported by Ollama, providing essential infrastructure planning information for anyone looking to deploy models locally.

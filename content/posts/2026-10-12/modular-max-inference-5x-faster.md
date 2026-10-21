@@ -3,12 +3,25 @@ title: "Modular's MAX Inference Stack Achieves 5.5x Speedup on AMD Hardware"
 date: 2026-10-12
 description: "Modular's Dakkak reports MAX Inference delivering 5.5x faster performance on Kimi K2.5, with AMD's 30% hardware discount reshaping the economics of local model deployment."
 tags:
-  - daily-digest
   - amd
-  - hardware
-  - performance
   - benchmark
-status: draft
+  - benchmark-report
+  - compiler-optimization
+  - cost-saving
+  - daily-digest
+  - hardware
+  - inference-speed
+  - kimi-k2-5
+  - max-inference
+  - modular
+  - performance
+mentions:
+  - name: Dakkak
+  - name: Modular
+    role: developer
+  - name: BigGo Finance
+    role: publisher
+status: published
 ---
 
 Modular's MAX Inference Stack demonstrates a 5.5x performance improvement on AMD's Kimi K2.5 hardware, marking a significant shift in the local inference landscape. Combined with AMD's aggressive 30% pricing discount, this changes the total-cost-of-ownership calculation for self-hosted deployments, potentially making AMD hardware competitive with traditional NVIDIA solutions for the first time.

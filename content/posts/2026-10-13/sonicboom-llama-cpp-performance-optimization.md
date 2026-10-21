@@ -3,12 +3,19 @@ title: "SonicBoom: llama.cpp's Native Kernels Deliver 14% Decode Speed Improveme
 date: 2026-10-13
 description: "llama.cpp introduces SonicBoom, a graph compiler with custom kernels that achieves 14% faster token generation, addressing one of the most critical bottlenecks in local LLM inference."
 tags:
+  - compiler-optimization
+  - cpu-only
   - daily-digest
+  - edge-device
+  - inference-speed
   - llama-cpp
-  - performance
   - memory-optimization
   - open-source
-status: draft
+  - performance
+  - performance-optimization
+  - release
+  - sonicboom
+status: published
 ---
 
 Decode speed is the primary bottleneck for practical LLM deployment, directly impacting user experience in interactive applications. SonicBoom's 14% improvement in decode throughput represents a meaningful optimization that compounds across millions of token generations, making local inference more viable for real-time use cases.

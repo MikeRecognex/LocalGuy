@@ -3,12 +3,24 @@ title: "Liquid AI Releases LFM2.5-24B-A2B: Optimized Model for Fast On-Device Ag
 date: 2026-10-16
 description: "Liquid AI introduces LFM2.5-24B-A2B, a 24-billion-parameter model specifically designed for efficient on-device agent inference. The model targets the practical size/capability sweet spot for edge deployment with agentic reasoning capabilities."
 tags:
-  - daily-digest
-  - quantisation
+  - agent-reasoning
+  - agentic-ai
   - agents
   - benchmark
+  - consumer-gpu
+  - daily-digest
+  - lfm2-5-24b-a2b
+  - liquid-ai
+  - model-efficiency
   - open-source
-status: draft
+  - quantisation
+  - release
+mentions:
+  - name: Liquid AI
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Liquid AI's LFM2.5-24B-A2B addresses an important gap in the model sizing landscape by targeting the practical requirements of on-device agentic systems. Rather than pursuing maximum parameter counts, the 24B configuration balances inference speed, memory footprint, and reasoning capability—crucial for applications requiring real-time agent responses on consumer hardware.

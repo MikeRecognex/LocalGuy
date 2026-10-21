@@ -4,11 +4,19 @@ date: 2026-10-14
 description: "Jan releases version 0.8.6 with hands-on improvements for running local LLMs on Windows systems, making on-device inference more accessible to mainstream users."
 tags:
   - daily-digest
+  - gui-interface
+  - jan
   - ollama
+  - on-device-inference
   - open-source
-  - windows
+  - release
   - user-experience
-status: draft
+  - windows
+  - windows-deployment
+mentions:
+  - name: StorageReview
+    role: publisher
+status: published
 ---
 
 Jan v0.8.6 brings practical improvements for Windows users seeking to run local LLMs on their machines, continuing the project's mission to democratise on-device inference. The release addresses usability and deployment friction points that have historically made local LLM operation more challenging on Windows compared to macOS and Linux systems.

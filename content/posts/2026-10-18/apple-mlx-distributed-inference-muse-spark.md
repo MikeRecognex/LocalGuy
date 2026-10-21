@@ -3,12 +3,19 @@ title: "Apple ML Research: Muse Spark Open with MLX on Mac Studio"
 date: 2026-10-18
 description: "Apple's latest MLX research release demonstrates distributed inference capabilities on Mac Studio, advancing the state of local inference on Apple Silicon."
 tags:
-  - daily-digest
-  - mlx
   - apple-silicon
+  - daily-digest
   - distributed-inference
+  - mac-studio
+  - mlx
+  - muse-spark
   - performance
-status: draft
+  - release
+  - unified-memory
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Apple's MLX framework continues to mature with new distributed inference capabilities demonstrated on Mac Studio hardware. This research release showcases how MLX enables efficient multi-GPU and multi-CPU coordination on Apple Silicon systems, allowing developers to parallelize inference workloads across available compute resources without sacrificing simplicity.

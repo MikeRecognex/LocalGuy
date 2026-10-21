@@ -3,12 +3,20 @@ title: "EpochGo: Multi-Agent AutoML with Ollama Reaches Zero API Costs"
 date: 2026-10-13
 description: "EpochGo demonstrates local-first multi-agent AutoML running on Ollama, eliminating cloud API dependencies and costs while automating model selection and hyperparameter optimization."
 tags:
+  - agent-orchestration
+  - agents
+  - automl
+  - cost-saving
   - daily-digest
+  - epochgo
   - ollama
   - open-source
-  - agents
   - rag
-status: draft
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 EpochGo exemplifies the emerging pattern of building complex AI systems entirely on local inference, where multi-agent orchestration and AutoML-style workflows eliminate dependency on expensive cloud APIs. By leveraging Ollama's accessible local inference runtime, EpochGo enables practitioners to automate model selection, hyperparameter tuning, and ensemble approaches without per-API-call costs.

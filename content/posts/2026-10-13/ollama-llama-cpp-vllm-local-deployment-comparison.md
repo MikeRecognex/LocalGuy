@@ -3,12 +3,17 @@ title: "Deploying LLMs Locally: Ollama, llama.cpp, and vLLM Compared"
 date: 2026-10-13
 description: "A comprehensive comparison of three major frameworks for local LLM deployment, examining their strengths, trade-offs, and use cases for practitioners seeking to run models on-device."
 tags:
+  - comparison
   - daily-digest
-  - ollama
+  - edge-device
+  - inference-throughput
   - llama-cpp
-  - vllm
+  - local-deployment
+  - model-quantization
+  - ollama
   - open-source
-status: draft
+  - vllm
+status: published
 ---
 
 This comparison piece directly addresses the core decision every local LLM practitioner faces: which framework to use for on-device deployment. Ollama, llama.cpp, and vLLM each offer different approaches to running models locally, with distinct trade-offs in terms of ease of use, performance optimization, and flexibility.

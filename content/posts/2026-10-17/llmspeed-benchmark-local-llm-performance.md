@@ -3,12 +3,19 @@ title: "llmspeed: Test Local LLM Performance Before Buying Hardware"
 date: 2026-10-17
 description: "llmspeed.dev launches as a benchmarking tool that lets users simulate how various LLMs will perform on different hardware before making purchasing decisions. This addresses a critical pain point in local AI adoption by providing transparent, comparative performance metrics."
 tags:
-  - daily-digest
   - benchmark
+  - daily-digest
   - hardware
+  - hardware-benchmarking
+  - hardware-selection
+  - llmspeed
   - open-source
-  - inference
-status: draft
+  - performance-metrics
+  - release
+mentions:
+  - name: news.lavx.hu
+    role: publisher
+status: published
 ---
 
 The launch of llmspeed represents a practical solution to one of the biggest barriers in local LLM adoption: hardware uncertainty. The tool allows developers to estimate inference speed, memory usage, and latency for different model-hardware combinations before committing to expensive purchases. By providing accurate, transparent benchmarks, llmspeed eliminates guesswork from the hardware selection process—a decision that can cost thousands of dollars and significantly impact project viability.

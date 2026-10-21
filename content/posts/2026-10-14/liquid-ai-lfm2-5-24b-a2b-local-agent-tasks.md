@@ -3,12 +3,26 @@ title: "Liquid AI's LFM2.5-24B-A2B Enables Agent Tasks on Laptop Hardware"
 date: 2026-10-14
 description: "Liquid AI releases LFM2.5-24B-A2B, a 24B parameter model optimised for running agentic workflows directly on consumer laptops without cloud dependencies. The model outperforms larger alternatives like Gemma 4 26B and Qwen 3.6 35B while maintaining efficient local inference."
 tags:
-  - daily-digest
+  - agentic-workflows
   - agents
-  - quantisation
+  - consumer-gpu
+  - daily-digest
   - gguf
+  - lfm2-5-24b-a2b
+  - liquid-ai
+  - llama-cpp
+  - model-quantization
+  - ollama
   - open-source
-status: draft
+  - quantisation
+  - release
+  - tool-calling
+mentions:
+  - name: Liquid AI
+    role: developer
+  - name: Startup Fortune
+    role: publisher
+status: published
 ---
 
 Liquid AI has released LFM2.5-24B-A2B, a purpose-built language model designed specifically for running agentic AI tasks on local hardware. The 24-billion parameter model achieves competitive performance against larger models while maintaining the memory footprint and inference speed needed for on-device deployment on standard laptops.

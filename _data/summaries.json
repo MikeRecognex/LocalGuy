@@ -955,6 +955,42 @@
     "2026-10-11": {
       "text": "vLLM now runs natively on Windows, while Google’s ML Drift powers on‑device GPU inference for edge AI.",
       "postCount": 5
+    },
+    "2026-10-12": {
+      "text": "vLLM’s Decision 3.0 adds open multimodal routing models up to 27 B parameters for local agents.",
+      "postCount": 5
+    },
+    "2026-10-13": {
+      "text": "llama.cpp’s SonicBoom kernels boost decode speed 14% while EpochGo’s Ollama AutoML eliminates API fees.",
+      "postCount": 4
+    },
+    "2026-10-14": {
+      "text": "Geniatech pairs RK1828 with Hailo‑10 M.2 accelerators to run LLMs locally, expanding edge AI options.",
+      "postCount": 5
+    },
+    "2026-10-15": {
+      "text": "DeepMind's fine‑tuned Gemma model now detects SMS scams on Singapore phones without cloud.",
+      "postCount": 5
+    },
+    "2026-10-16": {
+      "text": "Apple's MLX leverages RDMA to run distributed LLM inference across Mac Studios, eliminating cloud dependence.",
+      "postCount": 5
+    },
+    "2026-10-17": {
+      "text": "Apple and Meta debut Muse Spark, an open‑weight model for Mac Studio with MLX‑enabled distributed inference.",
+      "postCount": 5
+    },
+    "2026-10-18": {
+      "text": "Apple’s MLX on Mac Studio enables distributed inference, while Modular’s MAX outpaces vLLM 5.5× on Kimi K2.5.",
+      "postCount": 5
+    },
+    "2026-10-19": {
+      "text": "Qwen 3.8 27B runs on jailbroken PS5 at 20 tokens per second via PS5LM Plus llama.cpp port.",
+      "postCount": 5
+    },
+    "2026-10-20": {
+      "text": "Google's LiteRT Tensor API lets developers build edge‑optimized models with lower latency and memory use.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1097,6 +1133,14 @@
     "2026-10-04": {
       "text": "",
       "postCount": 35
+    },
+    "2026-10-11": {
+      "text": "",
+      "postCount": 34
+    },
+    "2026-10-18": {
+      "text": "",
+      "postCount": 10
     }
   }
 }

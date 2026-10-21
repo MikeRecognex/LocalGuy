@@ -3,11 +3,17 @@ title: "llama.cpp Release b11643: Embedding-Only Graph Optimization and Performa
 date: 2026-10-15
 description: "llama.cpp continues rapid development with release b11643, introducing critical optimisations for embedding workflows and graph handling. This release reflects ongoing improvements to the most widely-used local inference runtime for consumer hardware."
 tags:
+  - consumer-gpu
   - daily-digest
+  - embedding-optimization
+  - graph-optimization
+  - inference-performance
   - llama-cpp
-  - open-source
   - memory-optimization
-status: draft
+  - open-source
+  - rag-pipeline
+  - release
+status: published
 ---
 
 The llama.cpp project maintains its position as the de facto standard for local LLM inference through consistent, incremental improvements addressing real-world deployment scenarios. Build b11643's fix for embedding-only graphs removes a critical limitation where inference failed when models produced no logits, a common requirement for RAG systems and semantic search applications. This type of targeted fix demonstrates the project's responsiveness to practitioner needs.
