@@ -243,15 +243,18 @@ def build_mentions_block(mentions: list[dict]) -> str:
     """Build a YAML mentions block from list of mention dicts."""
     if not mentions:
         return ""
+    # Quote every value: extracted names can hold ":", "#" or a leading "-", which
+    # bare YAML misreads. A JSON string is a valid YAML double-quoted scalar.
+    q = lambda v: json.dumps(v, ensure_ascii=False)
     lines = ["mentions:"]
     for m in mentions:
-        lines.append(f"  - name: {m['name']}")
+        lines.append(f"  - name: {q(m['name'])}")
         if m.get("role"):
-            lines.append(f"    role: {m['role']}")
+            lines.append(f"    role: {q(m['role'])}")
         if m.get("handle"):
-            lines.append(f'    handle: "{m["handle"]}"')
+            lines.append(f"    handle: {q(m['handle'])}")
         if m.get("url"):
-            lines.append(f"    url: {m['url']}")
+            lines.append(f"    url: {q(m['url'])}")
     return "\n".join(lines) + "\n"
 
 
@@ -332,6 +335,10 @@ def map_extractions(extractions: list) -> tuple[list[str], list[dict]]:
     for ext in extractions:
         cls = ext.extraction_class
         attrs = ext.attributes or {}
+        # The model occasionally returns punctuation or an empty string as a name.
+        name = str(attrs.get("name") or ext.extraction_text or "").strip()
+        if cls in ("person", "organisation") and not any(c.isalnum() for c in name):
+            continue
 
         if cls in TAG_CLASSES:
             slug = attrs.get("slug", "")
@@ -341,7 +348,7 @@ def map_extractions(extractions: list) -> tuple[list[str], list[dict]]:
                 tags.append(slug)
 
         elif cls == "person":
-            mention = {"name": attrs.get("name", ext.extraction_text)}
+            mention = {"name": name}
             if attrs.get("role"):
                 mention["role"] = attrs["role"]
             if attrs.get("handle"):
@@ -349,7 +356,6 @@ def map_extractions(extractions: list) -> tuple[list[str], list[dict]]:
             mentions.append(mention)
 
         elif cls == "organisation":
-            name = attrs.get("name", ext.extraction_text)
             # Skip orgs already in regex taxonomy
             if slugify(name) in TAXONOMY_ORGS:
                 continue
