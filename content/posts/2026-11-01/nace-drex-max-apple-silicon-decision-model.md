@@ -3,11 +3,22 @@ title: "Nace AI Open-Sources Drex Max v1: 27B Decision Model Optimised for Apple
 date: 2026-11-01
 description: "Nace AI releases Drex Max v1, a 27-billion parameter decision-making model specifically optimised to run locally on Apple Silicon hardware, expanding the ecosystem of capable models for on-device inference."
 tags:
-  - daily-digest
+  - agentic-ai
   - apple-silicon
-  - open-source
+  - daily-digest
+  - decision-models
+  - drex-max-v1
+  - hardware-optimization
   - model-release
-status: draft
+  - nace-ai
+  - open-source
+  - release
+mentions:
+  - name: Nace AI
+    role: developer
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 The release of Drex Max v1 represents a significant step forward for local inference on Apple hardware. As a 27B decision model specifically optimised for Apple Silicon, it addresses a key gap in the local LLM ecosystem—developers and users have struggled to find capable models that leverage Mac hardware efficiently beyond the native MLX framework offerings.

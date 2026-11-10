@@ -3,11 +3,21 @@ title: "Ollama v0.40.11 Adds Native Speech Generation and D3 Decision Models"
 date: 2026-10-25
 description: "Ollama releases v0.40.11 with native speech generation on macOS via Phonon voices, streaming audio through OpenAI-compatible endpoints, and support for D3 decision models with vLLM and Semantic Router integration."
 tags:
+  - apple-silicon
   - daily-digest
+  - decision-models
+  - inference-optimization
+  - inference-pipelines
   - ollama
   - open-source
-  - inference-optimization
-status: draft
+  - release
+  - semantic-router
+  - vllm
+  - voice-synthesis
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama's latest v0.40.11 release introduces significant capabilities for local inference workflows, particularly with native speech synthesis now available on macOS. The addition of Phonon voice catalog support enables text-to-speech directly within Ollama, with streaming audio available through OpenAI-compatible `/v1/audio/speech` endpoints—making it straightforward for developers to integrate voice output into local AI applications without external dependencies.

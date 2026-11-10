@@ -3,12 +3,22 @@ title: "Perplexity Launches Fully Local Computer Agent for Mac"
 date: 2026-10-22
 description: "Perplexity introduces a fully local computer agent for macOS that runs on-device without requiring cloud connectivity, representing advancement in local agentic AI."
 tags:
-  - daily-digest
   - agents
   - apple-silicon
+  - daily-digest
+  - desktop-automation
+  - local-agents
   - on-device
+  - perplexity
+  - perplexity-computer-agent
   - privacy
-status: draft
+  - release
+mentions:
+  - name: Perplexity
+    role: developer
+  - name: Trend Hunter
+    role: publisher
+status: published
 ---
 
 Perplexity has launched a fully local computer agent for macOS, marking a significant shift toward completely on-device agentic AI. This implementation runs entirely on user hardware without cloud communication, providing both privacy guarantees and latency benefits compared to remote agent architectures. The capability enables local automation and task execution across the Mac ecosystem while maintaining full data sovereignty.

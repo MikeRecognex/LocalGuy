@@ -3,11 +3,16 @@ title: "Local AI or Cloud Subscription: Break-Even Economics Analysis"
 date: 2026-11-02
 description: "Detailed cost analysis comparing local LLM infrastructure investment against recurring cloud API subscription models, providing break-even calculations for deployment decisions."
 tags:
-  - daily-digest
+  - analysis
   - benchmark
+  - cloud-vs-local
+  - cost-analysis
+  - daily-digest
   - deployment
+  - deployment-strategy
   - economics
-status: draft
+  - roi-analysis
+status: published
 ---
 
 This analysis provides essential quantitative guidance for practitioners deciding between local inference and cloud API subscriptions. By calculating break-even points based on compute costs, infrastructure investment, maintenance overhead, and usage patterns, the piece addresses the fundamental ROI question that organizations must answer when evaluating deployment strategies.

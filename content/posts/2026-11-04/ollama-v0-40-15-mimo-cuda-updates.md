@@ -3,11 +3,20 @@ title: "Ollama v0.40.15: CUDA In-Process Loading and MiMo Support"
 date: 2026-11-04
 description: "Ollama release improves CUDA library handling on Linux and adds support for MiMo V2.6 models, streamlining deployment and expanding compatible model ecosystem."
 tags:
+  - container-deployment
+  - cuda-acceleration
   - daily-digest
-  - ollama
+  - deployment-ergonomics
+  - mimo-v2-6
+  - model-support
   - nvidia
+  - ollama
   - open-source
-status: draft
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama continues iterating on deployment ergonomics with improvements to CUDA library management and expanded model support. The in-process CUDA library loading on Linux eliminates external dependencies, simplifying containerization and reducing configuration friction for NVIDIA GPU users—the largest local deployment segment.

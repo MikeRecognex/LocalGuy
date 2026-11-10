@@ -3,12 +3,21 @@ title: "Humming: Fast, Flexible Kernels for Quantized Inference"
 date: 2026-10-23
 description: "vLLM introduces Humming, a new kernel library that optimizes quantized model inference with flexible data types and memory-efficient computation patterns."
 tags:
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - quantisation
-  - memory-optimization
+  - humming
   - inference-speed
-status: draft
+  - kernel-optimization
+  - memory-optimization
+  - model-compression
+  - quantisation
+  - quantized-inference
+  - release
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Humming represents a critical infrastructure advancement for quantized inference, providing flexible kernel implementations that improve upon existing quantization backends. By supporting multiple data types and offering optimized compute patterns, Humming enables practitioners to squeeze better performance from quantized models without sacrificing accuracy. This is particularly valuable for local deployment scenarios where every percentage point of throughput improvement directly impacts user experience.

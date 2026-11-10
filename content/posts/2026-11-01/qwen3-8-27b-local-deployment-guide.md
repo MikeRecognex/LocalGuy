@@ -4,10 +4,12 @@ date: 2026-11-01
 description: "A comprehensive step-by-step guide demonstrating how to set up and run Qwen3.8-27B, a capable 27-billion parameter model, locally in approximately 75 minutes."
 tags:
   - daily-digest
-  - local-inference
   - deployment-guide
   - gguf
-status: draft
+  - local-inference
+  - qwen3-8-27b
+  - tutorial
+status: published
 ---
 
 Practical deployment documentation is essential for democratising local LLM access. This guide provides clear, numbered steps for getting a capable 27B model running locally, removing the guesswork and trial-and-error that often frustrates newcomers to self-hosted inference.

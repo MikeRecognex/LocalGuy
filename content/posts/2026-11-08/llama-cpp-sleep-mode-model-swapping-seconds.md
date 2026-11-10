@@ -4,11 +4,19 @@ date: 2026-11-08
 description: "A novel sleep mode feature for llama.cpp enables rapid model switching in under two seconds, dramatically reducing overhead when alternating between different local models. This innovation enhances multi-model deployment scenarios on resource-constrained hardware."
 tags:
   - daily-digest
-  - llama-cpp
-  - performance
+  - edge-device
+  - edge-inference
   - gguf
+  - llama-cpp
+  - memory-management
+  - model-switching
   - optimization
-status: draft
+  - performance
+  - release
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Llama.cpp's new sleep mode feature solves a practical problem for users maintaining multiple local models: the overhead of unloading one model and loading another. Traditional model switching involves full memory clearing and reload cycles, which can take tens of seconds. The sleep mode approach allows models to be suspended and rapidly resumed, cutting switchover time to under two seconds while preserving loaded state.

@@ -3,11 +3,21 @@ title: "Running 125B Parameter LLM Alongside Minecraft at 120 FPS on RTX Spark L
 date: 2026-10-25
 description: "XDA demonstrates running a 125-billion parameter local LLM concurrently with Minecraft while maintaining 120 FPS gameplay, showcasing remarkable real-world inference efficiency on consumer laptop hardware."
 tags:
-  - daily-digest
   - benchmark
-  - nvidia
+  - benchmark-report
+  - concurrent-workloads
+  - consumer-gpu
+  - daily-digest
   - hardware
-status: draft
+  - inference-efficiency
+  - memory-bandwidth
+  - minecraft
+  - nvidia
+  - rtx-spark
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 This real-world performance demonstration proves that even extremely large models can coexist with demanding GPU workloads on modern laptop hardware. Running a 125-billion parameter LLM while simultaneously maintaining 120 FPS in a GPU-intensive game like Minecraft represents a significant validation that local LLM inference has reached production-grade efficiency on consumer devices. The RTX Spark's architecture apparently provides sufficient compute and memory bandwidth to time-slice between the inference workload and graphics rendering without meaningful performance degradation.

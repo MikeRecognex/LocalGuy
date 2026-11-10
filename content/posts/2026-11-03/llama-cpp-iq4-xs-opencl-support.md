@@ -4,11 +4,18 @@ date: 2026-11-03
 description: "llama.cpp releases support for IQ4_XS quantization across multiple backends including OpenCL, enabling efficient inference on mobile and edge devices through improved compression techniques."
 tags:
   - daily-digest
-  - llama-cpp
-  - quantisation
-  - opencl
+  - edge-device
   - edge-inference
-status: draft
+  - gpu-acceleration
+  - llama-cpp
+  - model-compression
+  - opencl
+  - quantisation
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 The addition of IQ4_XS quantization support in llama.cpp with optimized OpenCL kernels represents a significant advancement in memory-efficient inference. IQ4_XS builds on earlier quantization schemes to achieve better compression-to-quality tradeoffs, making it possible to run larger models on devices with severe memory constraints like smartphones, Raspberry Pi clusters, and embedded systems.

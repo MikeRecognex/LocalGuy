@@ -3,15 +3,27 @@ title: "Prime Agent Hits 19K Stars With One Tool and No API Key Requirement"
 date: 2026-08-30
 description: "Prime Intellect's prime-agent gives its model exactly one tool — a persistent IPython kernel — and points at any OpenAI-compatible endpoint, including Ollama and vLLM. The 'self-improving' label means it rewrites its own notes file, not that it trains on your work."
 tags:
+  - agent-memory
+  - agent-orchestration
   - agents
+  - code-execution
   - news
   - ollama
   - open-source
-  - vllm
+  - openai-compatibility
+  - prime-agent
+  - prime-intellect
+  - showcase
   - tooling
+  - vllm
 source:
   name: "PrimeIntellect-ai/prime-agent"
   url: "https://github.com/PrimeIntellect-ai/prime-agent"
+mentions:
+  - name: Prime Intellect
+    role: developer
+  - name: GitHub
+    role: publisher
 status: published
 ---
 

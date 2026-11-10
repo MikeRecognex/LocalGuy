@@ -3,11 +3,17 @@ title: "Ollama Cloud Pricing vs vLLM: $20 Pro vs Your GPU"
 date: 2026-11-07
 description: "A comprehensive cost-benefit analysis comparing Ollama's cloud subscription tier against self-hosting with vLLM, examining power consumption, VRAM requirements, and total cost of ownership for local deployment decisions."
 tags:
-  - daily-digest
-  - vllm
-  - ollama
   - benchmark
-status: draft
+  - comparison
+  - consumer-gpu
+  - daily-digest
+  - ollama
+  - power-consumption
+  - self-hosting
+  - tco-analysis
+  - vllm
+  - vram-requirements
+status: published
 ---
 
 This analysis provides crucial economic grounding for the local vs. cloud LLM deployment decision. By breaking down the actual costs of running vLLM on owned hardware—including often-overlooked factors like electricity consumption and VRAM requirements—it gives practitioners concrete data to make TCO decisions. The comparison against Ollama's $20 monthly cloud tier is particularly timely as the ecosystem increasingly offers both managed and self-hosted options.

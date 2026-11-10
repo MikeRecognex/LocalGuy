@@ -3,11 +3,20 @@ title: "StorageReview Lab-Tested Leaderboard: Best Desktops for Local AI in 2026
 date: 2026-10-25
 description: "StorageReview publishes comprehensive lab-tested benchmarks and recommendations for desktop hardware configurations optimized for local LLM inference across various model sizes and use cases."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - desktop-hardware
   - hardware
+  - hardware-selection
+  - llm-inference
+  - memory-bandwidth
   - nvidia
-status: draft
+mentions:
+  - name: StorageReview
+    role: publisher
+status: published
 ---
 
 StorageReview's lab-tested desktop leaderboard provides practitioners with data-driven guidance for hardware selection in local AI deployment. Comprehensive benchmarking across different configurations, model sizes, and inference scenarios offers concrete performance metrics that go beyond theoretical specifications. This type of systematic evaluation is essential because real-world inference performance depends heavily on the interaction between CPU, GPU, memory bandwidth, and storage subsystems—factors that vary significantly across different desktop configurations.

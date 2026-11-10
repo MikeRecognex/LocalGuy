@@ -4,10 +4,18 @@ date: 2026-11-07
 description: "A new optimization for llama.cpp enables near-instantaneous model switching through a sleep mode that preserves KV cache state, allowing practitioners to swap between LLMs without full reload overhead."
 tags:
   - daily-digest
+  - edge-device
+  - edge-inference
+  - kv-cache
   - llama-cpp
   - memory-optimization
+  - model-switching
+  - news
   - performance-optimization
-status: draft
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The ability to swap LLMs in under two seconds addresses a real pain point in local inference workflows where context switching between different models (e.g., code generation vs. creative writing vs. analysis) creates friction. This sleep-mode technique preserves the KV cache state, eliminating the full model reload that would normally incur several seconds or minutes of load time depending on model size and storage media.

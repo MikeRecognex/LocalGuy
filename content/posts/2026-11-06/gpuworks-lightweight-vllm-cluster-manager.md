@@ -3,11 +3,21 @@ title: "GPUWorks: 40 MB GPU Cluster Manager for vLLM and SGLang"
 date: 2026-11-06
 description: "Minimal-footprint cluster manager enables multi-GPU LLM serving without Kubernetes, reducing operational overhead for self-hosted inference. Demonstrates increasing focus on lightweight orchestration solutions."
 tags:
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - open-source
+  - gpu-orchestration
+  - gpuworks
   - inference-optimization
-status: draft
+  - multi-gpu-serving
+  - open-source
+  - self-hosted-inference
+  - sglang
+  - showcase
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 GPUWorks exemplifies a crucial trend in the local LLM infrastructure space: eliminating unnecessary operational complexity without sacrificing functionality. At 40 MB, this cluster manager represents an architectural commitment to being a purpose-built orchestration layer rather than a general-purpose container platform. For teams managing multiple GPUs across local infrastructure or small datacentres, the simplicity of deployment and operational surface area matters significantly more than the configurability required for massive heterogeneous clusters.

@@ -3,11 +3,17 @@ title: "Phonon TTS: High-Quality On-Device Speech Synthesis Benchmarks"
 date: 2026-11-06
 description: "New high-quality TTS model optimised for on-device execution that outperforms existing benchmarks. Expands local inference beyond text generation to multimodal output capabilities."
 tags:
-  - daily-digest
-  - open-source
   - benchmark
+  - benchmark-report
+  - daily-digest
+  - edge-device
+  - multimodal-ai
+  - open-source
+  - performance-benchmarking
+  - phonon-tts
   - speech-synthesis
-status: draft
+  - voice-synthesis
+status: published
 ---
 
 Phonon TTS represents a significant step forward in closing the quality gap between cloud-based and on-device speech synthesis. Until recently, practitioners deploying local LLMs faced a hard choice: accept audio quality degradation with edge-friendly TTS models or sacrifice latency and privacy by routing synthesis through cloud APIs. Phonon's benchmark performance demonstrates that the fundamental tradeoff has shifted in favour of local synthesis.

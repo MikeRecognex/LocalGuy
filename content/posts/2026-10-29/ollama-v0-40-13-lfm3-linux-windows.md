@@ -3,12 +3,24 @@ title: "Ollama v0.40.13 Brings LFM3 Model Support to Linux and Windows"
 date: 2026-10-29
 description: "Ollama v0.40.13 extends LiquidAI's LFM3 models—including audio and omni variants—to Linux and Windows platforms, previously limited to Apple silicon."
 tags:
-  - daily-digest
-  - ollama
-  - lfm3
+  - apple-silicon
   - cross-platform
+  - cross-platform-support
+  - daily-digest
+  - lfm3
+  - liquidai
+  - mlx
+  - multimodal-ai
+  - ollama
   - open-source
-status: draft
+  - release
+  - text-to-speech
+mentions:
+  - name: LiquidAI
+    role: developer
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 Ollama v0.40.13 democratizes access to LiquidAI's LFM3 model family by enabling full support on Linux and Windows systems. Previously, LFM3 models—including the newly-released lfm3-audio with text-to-speech capabilities and lfm3-omni for multimodal tasks—were limited to Apple silicon through MLX. This release removes that platform barrier, allowing Windows and Linux developers to run production-ready local models with audio capabilities without proprietary backends.

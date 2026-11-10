@@ -3,14 +3,24 @@ title: "FreeToken: Edge-Native MoE Serving with CPU-GPU Co-Execution"
 date: 2026-09-01
 description: "FreeToken is an open-source engine for running 290B+ Mixture-of-Experts models locally on consumer hardware through bandwidth-adaptive CPU-GPU co-execution, with elastic memory management, expert caching, and support for DeepSeek, Qwen and GLM models across NVIDIA RTX 30/40/50 series."
 tags:
-  - manual
-  - open-source
-  - memory-optimization
-  - nvidia
   - agents
+  - consumer-gpu
+  - cpu-gpu-co-execution
+  - expert-caching
+  - freetoken
+  - manual
+  - memory-optimization
+  - moe-inference
+  - nvidia
+  - open-source
+  - showcase
+  - vram-management
 source:
   name: "github.com"
   url: "https://github.com/FlashML-org/FreeToken"
+mentions:
+  - name: GitHub
+    role: publisher
 status: published
 origin: manual
 ---

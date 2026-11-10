@@ -3,12 +3,25 @@ title: "LG Uplus Demonstrates 4.5x Speed and 77% Battery Improvement with On-Dev
 date: 2026-10-29
 description: "LG Uplus presents NeurIPS-recognized research showing that specialized token optimization techniques achieve 4.5x faster inference and 77% battery drain reduction on mobile devices running local LLMs."
 tags:
-  - daily-digest
-  - mobile
-  - memory-optimization
-  - quantisation
+  - analysis
   - benchmark
-status: draft
+  - daily-digest
+  - edge-device
+  - energy-efficiency
+  - inference-speed
+  - lg-uplus
+  - llama-cpp
+  - memory-optimization
+  - mobile
+  - ollama
+  - quantisation
+  - token-pruning
+mentions:
+  - name: LG Uplus
+    role: researcher
+  - name: BigGo Finance
+    role: publisher
+status: published
 ---
 
 LG Uplus' NeurIPS workshop presentation reveals a critical optimization opportunity for mobile and edge AI: intelligent token-level pruning during inference. By selectively reducing the number of tokens processed while maintaining quality, their approach achieves a 4.5x speedup in inference and slashes battery consumption by 77%—metrics that fundamentally change the viability of local LLM deployment on battery-constrained devices.

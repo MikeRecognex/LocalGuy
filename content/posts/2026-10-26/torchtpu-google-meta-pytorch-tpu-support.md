@@ -3,12 +3,18 @@ title: "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native
 date: 2026-10-26
 description: "Google and Meta jointly release TorchTPU, enabling native PyTorch execution on TPU hardware, expanding local and edge deployment options beyond GPUs. This collaboration brings first-class TPU support to the PyTorch ecosystem."
 tags:
+  - custom-asic
   - daily-digest
-  - open-source
+  - edge-deployment
+  - edge-device
   - hardware
-  - pytorch
   - inference-optimization
-status: draft
+  - open-source
+  - pytorch
+  - release
+  - torchtpu
+  - tpu-acceleration
+status: published
 ---
 
 At PyTorch Conference 2026, Google and Meta announced TorchTPU, an open-source framework enabling native PyTorch code execution on TPU hardware. This collaboration marks a significant expansion of the local inference ecosystem by providing first-class TPU support, which previously required custom integrations or workarounds.

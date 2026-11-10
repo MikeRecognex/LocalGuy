@@ -3,12 +3,21 @@ title: "NVIDIA Nemotron 3.5 Transcribe and Granary v2: On-Device Speech Recognit
 date: 2026-10-29
 description: "NVIDIA releases Nemotron Transcribe and Granary v2, specialized speech-to-text models designed for local deployment with prompt-based domain adaptation capabilities."
 tags:
-  - daily-digest
-  - nvidia
   - audio-processing
-  - open-source
+  - daily-digest
+  - domain-adaptation
   - fine-tuning
-status: draft
+  - granary-v2
+  - nemotron-3-5-transcribe
+  - nvidia
+  - open-source
+  - release
+  - speech-recognition
+  - voice-processing
+mentions:
+  - name: H2S Media
+    role: publisher
+status: published
 ---
 
 NVIDIA's Nemotron Transcribe and Granary v2 models expand the local inference toolkit into the speech domain, providing specialized multilingual ASR (automatic speech recognition) capabilities optimized for on-device deployment. Granary v2 introduces a novel approach: prompt-based domain adaptation that allows users to influence transcription behavior through text prompts rather than retraining, dramatically reducing deployment friction for specialized use cases like medical dictation, technical documentation, or domain-specific jargon.

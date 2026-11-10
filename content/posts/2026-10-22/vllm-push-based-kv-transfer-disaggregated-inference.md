@@ -4,11 +4,18 @@ date: 2026-10-22
 description: "vLLM introduces push-based KV (key-value) transfer mechanism that improves time-to-first-token and throughput metrics for disaggregated inference architectures."
 tags:
   - daily-digest
-  - vllm
-  - inference-optimization
-  - speculative-decoding
+  - disaggregated-inference
   - distributed-inference
-status: draft
+  - inference-optimization
+  - inference-speed
+  - kv-cache-optimization
+  - release
+  - speculative-decoding
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The vLLM project has introduced push-based KV (key-value) transfer, an optimization targeting the latency bottleneck between prefill and decode phases in distributed inference. Rather than waiting for decode stages to pull cached key-value tensors, the push-based approach proactively transfers these tensors, reducing idle time and improving both time-to-first-token (TTFT) and time-per-output-token (TPOT) metrics. This refinement is particularly valuable for disaggregated inference setups common in multi-node local deployments.

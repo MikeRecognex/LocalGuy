@@ -3,12 +3,20 @@ title: "Ollama adds local text-to-speech, 100x faster than real time on Apple Si
 date: 2026-10-27
 description: "Ollama has released local text-to-speech capabilities for macOS, achieving 100x faster than real-time performance on Apple Silicon hardware. The feature supports multiple languages and uses Phonon speech models with various licensing options."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
-  - text-to-speech
+  - daily-digest
+  - inference-speed
+  - ollama
+  - on-device-ai
   - open-source
-status: draft
+  - phonon
+  - release
+  - text-to-speech
+  - voice-synthesis
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Ollama's latest update brings native text-to-speech synthesis directly to macOS devices with Apple Silicon, eliminating the need for cloud-based APIs or external services. The implementation achieves remarkable performance—running 100x faster than real-time on M-series chips—making it practical for interactive applications, accessibility features, and multi-modal AI workflows entirely on-device.

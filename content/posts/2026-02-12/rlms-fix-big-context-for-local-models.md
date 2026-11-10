@@ -5,6 +5,7 @@ description: A powerful and innovative technique for extending context windows f
 tags:
   - advanced
   - agents
+  - analysis
   - benchmarking
   - context-extension
   - context-length-extension
@@ -13,13 +14,18 @@ tags:
   - cost-saving
   - document-processing
   - inference-optimization
+  - inference-time-compute
   - large-input-scaling
+  - long-context
   - long-context-handling
   - recursive-inference
   - recursive-language-models
   - recursive-reasoning
   - researcher
   - rlm-performance
+mentions:
+  - name: arXiv
+    role: publisher
 status: published
 ---
 Recursive Language Models (RLMs) are an inference-time strategy that lets LLMs handle arbitrarily long prompts by treating the input not as tokens to stuff into the context window, but as data in an external environment (e.g., a Python REPL) that the model can programmatically inspect, chunk, and recursively query itself over. Instead of compressing or retrieving context heuristically, an RLM allows the model to peek into specific parts of the prompt, decompose tasks, and make recursive sub-calls on manageable snippets, effectively scaling to 10M+ token inputs while maintaining or improving quality compared to base models and summarization/retrieval agents. Across diverse long-context benchmarks, RLMs dramatically outperform standard LLM calls and common scaffolds—especially on information-dense tasks—at comparable or sometimes lower cost, though with higher variance due to recursive trajectories, showing that inference-time recursion plus symbolic interaction can extend practical context length by orders of magnitude without retraining the underlying model.

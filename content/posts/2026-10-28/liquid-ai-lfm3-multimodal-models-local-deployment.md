@@ -3,12 +3,22 @@ title: "Build Specialized Multimodal Models with Liquid AI's LFM3"
 date: 2026-10-28
 description: "Liquid AI introduces LFM3, a new family of specialized multimodal models designed for local deployment with tri-hybrid architecture supporting text, vision, and audio modalities in compact form factors optimized for on-device inference."
 tags:
-  - daily-digest
-  - lfm3
-  - multimodal
-  - open-source
   - agents
-status: draft
+  - daily-digest
+  - edge-device
+  - lfm3
+  - liquid-ai
+  - model-architecture
+  - model-optimization
+  - multimodal
+  - multimodal-models
+  - open-source
+  - release
+  - tool-use
+mentions:
+  - name: Liquid AI
+    role: developer
+status: published
 ---
 
 LFM3 represents a paradigm shift in locally-deployable model design, moving beyond general-purpose scaling to task-specific optimization. The tri-hybrid architecture combines specialized components for distinct modalities—text understanding, vision processing, and audio—into a cohesive 1.7B-2B parameter model that rivals larger, cloud-hosted systems on practical tasks. This architectural approach allows LFM3 to exceed performance of models 7x its size on coding, structured output, and tool-calling benchmarks where practitioners most commonly need local inference.

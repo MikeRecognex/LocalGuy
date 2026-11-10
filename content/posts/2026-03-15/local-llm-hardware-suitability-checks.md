@@ -4,13 +4,19 @@ date: 2026-03-15
 description: llmfit scans RAM, CPU, GPU and VRAM in one command, then ranks models on quality, speed, fit and context, picking a quantization and labelling each result ideal, okay or borderline. It accounts for active parameters on MoE models rather than total.
 tags:
   - alvaro-cintas
-  - hardware-setup
   - hardware-checking
-  - ollama-configuration
+  - hardware-profiling
+  - hardware-setup
   - llmfit
+  - mixtral-8x7b
+  - mixture-of-experts
+  - model-quantization
+  - model-selection
   - news
+  - ollama-configuration
+  - showcase
 mentions:
-  - name: Alvaro Cintas
+  - name: LinkedIn
     role: publisher
 source:
   name: "LinkedIn"

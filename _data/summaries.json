@@ -991,6 +991,90 @@
     "2026-10-20": {
       "text": "Google's LiteRT Tensor API lets developers build edge‑optimized models with lower latency and memory use.",
       "postCount": 5
+    },
+    "2026-10-21": {
+      "text": "Google's vLLM and SGLang engines boost TPU LLM inference speed, while llm‑d 1.0 adds cache‑aware routing for deployment.",
+      "postCount": 5
+    },
+    "2026-10-22": {
+      "text": "IBM launches Granite Speech 5.0 2B, a lightweight multilingual on‑device transcription and translation model.",
+      "postCount": 5
+    },
+    "2026-10-23": {
+      "text": "Ollama 0.40.9 adds Phonon‑powered speech synthesis on Apple Silicon, while vLLM launches Humming kernels for quantized inference.",
+      "postCount": 5
+    },
+    "2026-10-24": {
+      "text": "Ollama 0.40.10 adds NVIDIA Nemotron 3.5 Bolt vision support with 128K context and DFlash drafting.",
+      "postCount": 5
+    },
+    "2026-10-25": {
+      "text": "XDA runs a 125B LLM alongside Minecraft at 120 FPS on an RTX Spark laptop, proving consumer‑grade inference.",
+      "postCount": 5
+    },
+    "2026-10-26": {
+      "text": "Google open‑sources ML Drift to speed on‑device GPU inference, and Ollama adds 100× faster TTS on Apple Silicon.",
+      "postCount": 5
+    },
+    "2026-10-27": {
+      "text": "Apple’s on‑device 20B Flash model shows large‑scale inference, while Ollama’s new local TTS runs 100× faster on Silicon.",
+      "postCount": 5
+    },
+    "2026-10-28": {
+      "text": "Liquid AI's LFM3 multimodal models debut on Ollama 0.40.12, boosting on‑device inference speed and small‑image detail.",
+      "postCount": 5
+    },
+    "2026-10-29": {
+      "text": "LG Uplus shows 4.5× faster on‑device LLM inference and 77% battery savings using token optimization.",
+      "postCount": 5
+    },
+    "2026-10-30": {
+      "text": "Ollama now adds offline macOS text‑to‑speech, while StorageReview’s benchmark ranks laptops for running LFM3‑1.7B locally.",
+      "postCount": 5
+    },
+    "2026-10-31": {
+      "text": "AMD contributed 12.4% of vLLM commits, outpacing Nvidia and expanding hardware support for open‑source inference.",
+      "postCount": 5
+    },
+    "2026-11-01": {
+      "text": "ModelBest’s MiniCPM-OCR series and Nace AI’s Drex Max 27B bring Apple‑silicon‑optimized document and decision AI to local devices.",
+      "postCount": 5
+    },
+    "2026-11-02": {
+      "text": "Arm unveils new edge AI hardware and software suite, boosting on‑device inference for consumers and infrastructure.",
+      "postCount": 5
+    },
+    "2026-11-03": {
+      "text": "Mistral Large 4 opens with 1 trillion parameters while vLLM 0.33 adds Reflection Beam‑1.0 MoE support.",
+      "postCount": 5
+    },
+    "2026-11-04": {
+      "text": "Ollama v0.40.15 adds CUDA in‑process loading and MiMo V2.6 support, simplifying Linux LLM deployment.",
+      "postCount": 5
+    },
+    "2026-11-05": {
+      "text": "Kinference debuts open‑source control plane to orchestrate vLLM workloads, simplifying local LLM scaling.",
+      "postCount": 5
+    },
+    "2026-11-06": {
+      "text": "GPUWorks lets you run vLLM on multi‑GPU clusters without Kubernetes, slashing overhead for self‑hosted LLMs.",
+      "postCount": 5
+    },
+    "2026-11-07": {
+      "text": "Buoyant launches Kinference to orchestrate vLLM inference on Kubernetes, while Ollama 0.40.15 adds MiMo and AutoTrust.",
+      "postCount": 5
+    },
+    "2026-11-08": {
+      "text": "Google’s Pixel update slashes on‑device AI RAM use by 6 GB, enabling larger models on phones.",
+      "postCount": 5
+    },
+    "2026-11-09": {
+      "text": "GPT4All launches a click‑to‑run app, letting users host Qwen 3.8‑27B GSQ locally on RTX 5060 Ti GPUs.",
+      "postCount": 5
+    },
+    "2026-11-10": {
+      "text": "llama.cpp adds CPU offloading for MoE models, cutting GPU transfer overhead on low‑end hardware.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1139,6 +1223,18 @@
       "postCount": 34
     },
     "2026-10-18": {
+      "text": "",
+      "postCount": 35
+    },
+    "2026-10-26": {
+      "text": "",
+      "postCount": 35
+    },
+    "2026-11-02": {
+      "text": "",
+      "postCount": 35
+    },
+    "2026-11-09": {
       "text": "",
       "postCount": 10
     }

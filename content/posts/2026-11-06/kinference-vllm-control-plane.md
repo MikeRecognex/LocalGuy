@@ -3,11 +3,19 @@ title: "Kinference: Open-Source Inference Control Plane for vLLM"
 date: 2026-11-06
 description: "New open-source control plane simplifies vLLM orchestration for local and self-hosted LLM deployments. Addresses the operational complexity of managing multiple model instances and inference workloads without Kubernetes."
 tags:
+  - cluster-management
   - daily-digest
-  - vllm
-  - open-source
   - inference-optimization
-status: draft
+  - inference-orchestration
+  - kinference
+  - open-source
+  - release
+  - self-hosting
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Kinference tackles a critical pain point in self-hosted LLM infrastructure: the operational complexity of vLLM orchestration without introducing heavyweight container orchestration. For teams running local inference clusters, managing model loading, request routing, and resource allocation across multiple GPUs has traditionally required either custom tooling or adopting Kubernetes—a significant friction point for medium-scale deployments.

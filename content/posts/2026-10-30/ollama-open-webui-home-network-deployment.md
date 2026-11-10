@@ -3,11 +3,20 @@ title: "Building a Local AI Network with Ollama and Open WebUI on Windows"
 date: 2026-10-30
 description: "A practical tutorial on deploying Ollama and Open WebUI together on a Windows PC, enabling browser-based access to local LLMs across a home network. This guide demonstrates practical multi-user local inference setups."
 tags:
+  - consumer-gpu
   - daily-digest
+  - deployment
+  - home-network-setup
+  - multi-user-inference
   - ollama
   - open-source
-  - deployment
-status: draft
+  - open-webui
+  - tutorial
+  - web-interface
+mentions:
+  - name: GIGAZINE
+    role: publisher
+status: published
 ---
 
 The combination of Ollama and Open WebUI creates a complete, accessible local inference platform that can serve multiple users across a network. This GIGAZINE tutorial bridges the gap between single-user development environments and practical shared deployments, showing how to architect a home or small-office AI infrastructure without cloud dependencies.

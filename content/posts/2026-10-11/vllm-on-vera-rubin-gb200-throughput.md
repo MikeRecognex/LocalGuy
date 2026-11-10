@@ -12,8 +12,6 @@ tags:
   - inference-throughput
   - nvidia
   - vllm
-mentions:
-  - name: 
 status: published
 ---
 

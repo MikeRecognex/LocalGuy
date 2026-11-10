@@ -4,11 +4,16 @@ date: 2026-11-03
 description: "A practical step-by-step guide for deploying Mistral Large 4 using vLLM and Docker, providing developers with an accessible method to run this large model locally with containerization."
 tags:
   - daily-digest
-  - vllm
-  - docker
-  - mistral
   - deployment
-status: draft
+  - docker
+  - docker-deployment
+  - inference-optimization
+  - mistral
+  - mistral-large-4
+  - self-hosting
+  - tutorial
+  - vllm
+status: published
 ---
 
 Deploying large language models locally can be complex, but containerization with Docker significantly simplifies the process. This guide breaks down the vLLM setup for Mistral Large 4 into 13 manageable steps, making it accessible for developers who want to self-host this capable model without wrestling with dependency management or system configuration issues.

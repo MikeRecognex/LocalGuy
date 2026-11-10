@@ -3,12 +3,17 @@ title: "Ollama 0.40.9 Adds Native Speech Synthesis with Phonon on Apple Silicon"
 date: 2026-10-23
 description: "Ollama's latest release introduces native speech generation capabilities using Phonon, enabling text-to-speech streaming through OpenAI-compatible endpoints on Apple Silicon devices."
 tags:
-  - daily-digest
-  - ollama
-  - apple-silicon
-  - open-source
   - agents
-status: draft
+  - apple-silicon
+  - daily-digest
+  - multimodal-ai
+  - ollama
+  - open-source
+  - phonon
+  - release
+  - text-to-speech
+  - voice-synthesis
+status: published
 ---
 
 Ollama v0.40.9 marks a significant expansion of multimodal capabilities by introducing native speech synthesis through Phonon integration on Apple Silicon. Users can now generate speech output directly from the CLI with `ollama run phonon`, and applications can stream audio responses through the OpenAI-compatible `/v1/audio/speech` endpoint. This addition bridges the gap between text and voice in local inference pipelines, making conversational AI applications more accessible without external TTS services.

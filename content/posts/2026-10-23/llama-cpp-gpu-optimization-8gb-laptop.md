@@ -3,12 +3,16 @@ title: "Single llama.cpp Flag Change Enables 35B Model on 8GB Laptop GPU"
 date: 2026-10-23
 description: "A developer discovered a critical llama.cpp configuration flag that dramatically improves inference speed for large models on modest GPUs, allowing a 35B parameter model to run faster than reading speed on an 8GB laptop."
 tags:
+  - consumer-gpu
   - daily-digest
+  - inference-optimization
+  - inference-speed
   - llama-cpp
-  - quantisation
-  - nvidia
   - memory-optimization
-status: draft
+  - news
+  - nvidia
+  - quantisation
+status: published
 ---
 
 A significant optimization breakthrough emerged from the llama.cpp community this week: a single configuration flag adjustment enables substantially faster inference for large models on consumer-grade GPUs. The finding demonstrates that 35B parameter models can now run on 8GB VRAM systems with performance exceeding human reading speed, suggesting that current quantization and memory management techniques still have untapped optimization potential.

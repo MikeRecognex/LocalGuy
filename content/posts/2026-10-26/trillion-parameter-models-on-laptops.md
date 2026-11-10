@@ -3,12 +3,18 @@ title: "Hobbyists Are Squeezing Trillion-Parameter AI Models Onto Laptops"
 date: 2026-10-26
 description: "Developers are successfully running trillion-parameter models on consumer laptops through aggressive quantization and optimization techniques, making state-of-the-art models accessible without enterprise hardware. This democratizes advanced AI capabilities for local deployment."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
-  - memory-optimization
   - inference-optimization
+  - memory-optimization
+  - model-quantization
+  - news
   - open-source
-status: draft
+  - quantisation
+mentions:
+  - name: Startup Fortune
+    role: publisher
+status: published
 ---
 
 The community has achieved a remarkable milestone: trillion-parameter language models are now running on standard laptops through sophisticated quantization and memory optimization techniques. This breakthrough demonstrates that the barrier to local deployment of cutting-edge models has dramatically lowered, making advanced AI capabilities accessible to hobbyists and small teams without access to enterprise-grade hardware.

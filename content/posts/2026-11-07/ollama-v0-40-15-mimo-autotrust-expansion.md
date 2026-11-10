@@ -3,11 +3,21 @@ title: "Ollama v0.40.15 Adds MiMo and AutoTrust, Expanding Beyond Chat"
 date: 2026-11-07
 description: "Ollama releases v0.40.15 with support for Xiaomi's MiMo V2.6 (a 9B code/agent model) and AutoTrust decision models, significantly expanding the framework's capabilities beyond conversational AI for local deployment."
 tags:
-  - daily-digest
-  - ollama
+  - agentic-workflows
   - agents
+  - autotrust
+  - code-generation
+  - daily-digest
+  - mimo-v2-6
+  - ollama
   - open-source
-status: draft
+  - release
+  - structured-outputs
+  - xiaomi
+mentions:
+  - name: Xiaomi
+    role: developer
+status: published
 ---
 
 Ollama's latest release marks an important shift toward practical agent and coding workloads on local hardware. The addition of MiMo V2.6, a 9B parameter model specifically optimized for code generation and agentic workflows, gives practitioners a local alternative for development tasks. The AutoTrust decision models introduce a new pattern for local inference—returning structured decisions (yes/no probabilities, ratings) rather than open-ended text, which is valuable for automation pipelines that need deterministic outputs.

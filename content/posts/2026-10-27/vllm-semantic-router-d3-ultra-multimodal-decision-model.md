@@ -3,12 +3,22 @@ title: "vLLM Semantic Router releases d3-ultra: A 27B open multimodal decision m
 date: 2026-10-27
 description: "The vLLM Semantic Router project has released d3-ultra, a 27B parameter open-source multimodal model designed as a decision router for agent workflows. The model enables efficient routing decisions without full LLM inference, reducing latency and computational overhead."
 tags:
-  - daily-digest
-  - vllm
+  - agent-orchestration
   - agents
+  - d3-ultra
+  - daily-digest
+  - latency-reduction
   - multimodal
+  - multimodal-llm
   - open-source
-status: draft
+  - release
+  - tiered-inference
+  - vllm
+  - vllm-semantic-router
+mentions:
+  - name: Google News
+    role: publisher
+status: published
 ---
 
 Decision models represent an emerging optimization pattern in local AI deployment. Rather than routing all queries through large foundation models, d3-ultra acts as a lightweight gatekeeper that determines which path an agent should take—whether to use a specialized tool, query a database, or escalate to deeper reasoning. At 27B parameters, it's substantial enough to handle complex routing decisions but far smaller than full-scale LLMs, making it viable for deployment on moderate hardware.

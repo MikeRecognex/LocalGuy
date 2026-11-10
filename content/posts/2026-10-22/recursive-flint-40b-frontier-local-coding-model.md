@@ -3,12 +3,25 @@ title: "Recursive Releases Flint 40B: High-Performance Local LLM for Coding Task
 date: 2026-10-22
 description: "Recursive releases Flint 40B, a 40-billion parameter model optimized for local coding applications with 262K context window and achieving 125 tokens/second on MacBook hardware."
 tags:
-  - daily-digest
-  - llama-cpp
-  - open-source
-  - context-window
   - apple-silicon
-status: draft
+  - code-generation
+  - consumer-gpu
+  - context-window
+  - daily-digest
+  - flint-40b
+  - inference-speed
+  - llama-cpp
+  - long-context
+  - ollama
+  - open-source
+  - recursive
+  - release
+mentions:
+  - name: Recursive
+    role: developer
+  - name: TestingCatalog AI News
+    role: publisher
+status: published
 ---
 
 Recursive has released Flint 40B, a specialized large language model designed for local code understanding and generation tasks. With a 262K-token context window, the model enables processing entire codebases within a single inference session—critical for comprehensive code analysis and multi-step refactoring. Performance benchmarks show 125 tokens per second on Apple Silicon MacBooks, making it genuinely practical for interactive development workflows on consumer hardware.

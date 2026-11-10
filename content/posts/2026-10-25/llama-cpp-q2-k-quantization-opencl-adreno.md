@@ -4,10 +4,14 @@ date: 2026-10-25
 description: "llama.cpp release b11873 introduces optimized Q2_K quantization kernels for OpenCL with specialized support for Qualcomm Adreno GPUs, including SOA matrix operations and tuned performance for mobile inference."
 tags:
   - daily-digest
+  - edge-device
+  - gpu-acceleration
   - llama-cpp
-  - quantisation
   - mobile-inference
-status: draft
+  - quantisation
+  - quantization
+  - release
+status: published
 ---
 
 The latest llama.cpp build (b11873) significantly expands quantization support for edge devices by introducing comprehensive Q2_K kernel implementations across multiple compute backends. The addition of mul_mv_q2_k_f32 OpenCL kernels, SOA (Structure of Arrays) matrix vector operations, and tiled matrix multiplication specifically tuned for Qualcomm Adreno processors demonstrates a strategic focus on mobile and embedded GPU acceleration.

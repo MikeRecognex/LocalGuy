@@ -3,11 +3,21 @@ title: "Audible's Harshul Jain: Self-Hosted LLM Stacks Waste Half Their GPUs Say
 date: 2026-11-10
 description: "Audible infrastructure engineer reveals that self-hosted LLM deployments waste approximately 50% of GPU resources due to late acceptance of requests, highlighting critical optimization opportunities in local inference systems."
 tags:
-  - daily-digest
+  - analysis
+  - audible
   - benchmark
+  - daily-digest
+  - gpu-utilization
+  - inference-optimization
   - inference-speed
   - memory-optimization
-status: draft
+  - request-scheduling
+mentions:
+  - name: Harshul Jain
+    role: infrastructure engineer
+  - name: Audible
+    role: company
+status: published
 ---
 
 A critical insight from Audible's infrastructure team identifies a systemic inefficiency in self-hosted LLM serving: excessive GPU idle time caused by accepting requests too late in the request queue cycle. The observation that self-hosted systems waste approximately half their GPU compute capacity points to fundamental scheduling and resource allocation challenges in local deployment architectures.

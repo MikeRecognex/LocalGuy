@@ -3,12 +3,18 @@ title: "Google Announces vLLM and SGLang Inference Engines on TPU"
 date: 2026-10-21
 description: "Google has released new vLLM and SGLang inference engine optimizations for TPU, enabling faster and more efficient local LLM deployment on Google's tensor processing units with improved performance characteristics."
 tags:
+  - custom-asic
   - daily-digest
-  - vllm
-  - hardware
   - google-cloud
+  - hardware
+  - inference-optimization
+  - inference-speed
   - open-source
-status: draft
+  - release
+  - sglang
+  - structured-generation
+  - vllm
+status: published
 ---
 
 Google's announcement of optimized vLLM and SGLang inference engines for TPU represents a significant step forward in making local LLM inference more accessible and efficient. These inference engines are critical infrastructure for anyone deploying models on-device or in self-hosted environments, and TPU support opens up a powerful hardware option for practitioners looking to optimize inference costs and latency.

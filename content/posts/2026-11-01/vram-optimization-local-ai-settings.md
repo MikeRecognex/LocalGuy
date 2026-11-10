@@ -3,11 +3,17 @@ title: "Two Simple Settings Changes Eliminate Need for More VRAM in Local AI"
 date: 2026-11-01
 description: "A practical guide showing how adjusting just two configuration settings can significantly reduce VRAM requirements for running LLMs locally, enabling inference on more modest hardware."
 tags:
+  - consumer-gpu
   - daily-digest
-  - memory-optimization
+  - edge-device
+  - hardware-optimization
   - local-inference
+  - memory-optimization
+  - performance-tuning
   - quantisation
-status: draft
+  - tutorial
+  - vram-optimization
+status: published
 ---
 
 Memory constraints remain one of the biggest barriers to local LLM deployment. This article highlights a practical approach to reducing VRAM consumption through targeted configuration adjustments, making it possible to run larger models on consumer hardware without expensive upgrades.

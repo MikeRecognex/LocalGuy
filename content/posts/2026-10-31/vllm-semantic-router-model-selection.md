@@ -4,11 +4,18 @@ date: 2026-10-31
 description: "Nebius introduces a semantic routing capability for vLLM that intelligently directs inference requests to the most appropriate LLM based on task requirements, optimizing performance and resource utilization in local deployments."
 tags:
   - daily-digest
-  - vllm
   - inference-optimization
+  - latency-optimization
   - model-selection
   - open-source
-status: draft
+  - release
+  - semantic-routing
+  - vllm
+  - vllm-semantic-router
+mentions:
+  - name: Nebius
+    role: publisher
+status: published
 ---
 
 Practitioners deploying multiple models locally face a critical challenge: determining which model to route each request to for optimal performance and resource efficiency. The vLLM semantic router solves this by automatically selecting the most appropriate model based on semantic understanding of the input, rather than requiring manual configuration or heuristics.

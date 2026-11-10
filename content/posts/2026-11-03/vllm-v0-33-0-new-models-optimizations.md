@@ -4,11 +4,17 @@ date: 2026-11-03
 description: "vLLM's latest major release includes 927 commits from 389 contributors, adding support for new models including Reflection Beam-1.0 MoE and Recursive Flint, plus significant performance optimizations."
 tags:
   - daily-digest
-  - vllm
+  - inference-engine
   - inference-optimization
+  - moe-architecture
   - moe-models
   - performance
-status: draft
+  - recursive-flint
+  - reflection-beam-1-0
+  - release
+  - speculative-decoding
+  - vllm
+status: published
 ---
 
 VLLm v0.33.0 demonstrates the ecosystem's rapid evolution toward supporting novel architectures and optimizations. The addition of Mixture-of-Experts (MoE) models like Reflection Beam-1.0 (501B total, 23B active) and Recursive Flint (40B MoE, 2.5B active) shows vLLM's commitment to efficient conditional computation—crucial for local deployment where only active parameters consume memory and compute.

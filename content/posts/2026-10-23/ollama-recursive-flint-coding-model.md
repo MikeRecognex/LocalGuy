@@ -3,12 +3,23 @@ title: "Ollama Ships Recursive's Flint: 262K Context Coding Model for Local Depl
 date: 2026-10-23
 description: "Ollama v0.40.8 introduces first-class support for Recursive's Flint coding model, a specialized 40B parameter model with 262K token context window optimized for repository-scale code understanding and agent workflows."
 tags:
+  - agent-workflows
+  - agents
+  - apple-silicon
+  - code-generation
+  - context-window
   - daily-digest
+  - flint
+  - long-context
+  - mlx
   - ollama
   - open-source
-  - agents
-  - context-window
-status: draft
+  - recursive
+  - release
+mentions:
+  - name: Recursive
+    role: developer
+status: published
 ---
 
 Recursive's Flint model arrives in Ollama with native support, bringing specialized capabilities for code-understanding agents to the local inference ecosystem. With 262K token context and reasoning capabilities, Flint is designed for complex coding tasks: understanding unfamiliar codebases, tracing bugs, implementing features, and writing tests. The model's integration into Ollama with MLX support on Apple Silicon means developers can run a frontier coding agent entirely locally, without API dependencies.

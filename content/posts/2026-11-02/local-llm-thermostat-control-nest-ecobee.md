@@ -3,11 +3,20 @@ title: "Local LLM Controls Thermostat: Testing Against Nest and Ecobee"
 date: 2026-11-02
 description: "How-To Geek demonstrates a local LLM managing home thermostat control, comparing performance with commercial smart home solutions like Nest and Ecobee."
 tags:
-  - daily-digest
-  - edge-inference
   - benchmark
+  - comparison
+  - daily-digest
+  - ecobee
+  - edge-device
+  - edge-inference
   - home-automation
-status: draft
+  - nest
+  - privacy-compliance
+  - smart-home-automation
+mentions:
+  - name: How-To Geek
+    role: publisher
+status: published
 ---
 
 This practical experiment demonstrates local LLM inference applied to real-world IoT control, using on-device model execution to manage smart home thermostat functionality. The comparison with commercial solutions like Nest and Ecobee provides valuable empirical data on whether local LLM-based home automation can match or exceed closed-system alternatives.

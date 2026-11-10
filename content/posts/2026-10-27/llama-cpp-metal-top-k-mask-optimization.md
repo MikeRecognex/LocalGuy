@@ -3,12 +3,17 @@ title: "llama.cpp release b11927: Metal backend gains GGML_OP_TOP_K_MASK optimiz
 date: 2026-10-27
 description: "llama.cpp release b11927 brings a fused top-k mask operation to the Metal backend, porting optimizations from CUDA to improve inference performance on Apple Silicon devices. The grid-stride kernel implementation speeds up attention operations critical to LLM performance."
 tags:
-  - daily-digest
-  - llama-cpp
   - apple-silicon
-  - performance-optimization
+  - attention-optimization
+  - daily-digest
+  - inference-speed
+  - kernel-optimization
+  - llama-cpp
   - metal
-status: draft
+  - metal-backend
+  - performance-optimization
+  - release
+status: published
 ---
 
 The latest llama.cpp builds continue the project's relentless optimization work for local inference, with this release focusing on Apple Silicon performance through Metal backend improvements. The fused top-k mask operation is a critical attention optimization—instead of separate kernels for masking and selection, a single grid-stride kernel fills output with -inf and performs top-k selection in one pass, reducing memory bandwidth and GPU synchronization overhead.

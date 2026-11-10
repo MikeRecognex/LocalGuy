@@ -3,12 +3,18 @@ title: "Qwen 3.8-27B GSQ Tested: Efficient Local Inference on 16GB Systems"
 date: 2026-11-09
 description: "New benchmarks show Qwen 3.8-27B GSQ model achieving practical local inference on 16GB VRAM systems across multiple machines. Testing confirms the model's efficiency gains for on-device deployment."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - cost-saving
+  - daily-digest
+  - gguf
   - memory-optimization
-status: draft
+  - model-quantization
+  - quantisation
+  - qwen-3-8-27b-gsq
+  - vram-optimization
+status: published
 ---
 
 Qwen's latest 3.8-27B GSQ variant has been put through rigorous testing across multiple hardware configurations, demonstrating that effective local LLM inference is achievable with just 16GB of VRAM. The GSQ quantisation scheme represents a sweet spot between model quality and memory efficiency, making it practical for developers running inference on consumer-grade GPUs.

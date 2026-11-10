@@ -4,10 +4,21 @@ date: 2026-11-04
 description: "Nordic Semiconductor announces new chipsets integrating wireless connectivity and on-device AI capabilities, enabling local inference on battery-powered IoT devices with dramatically reduced power consumption."
 tags:
   - daily-digest
-  - hardware
+  - edge-device
   - edge-inference
+  - embedded-ai
+  - energy-efficiency
+  - hardware
   - iot
-status: draft
+  - nordic-semiconductor
+  - nrf71-series
+  - release
+mentions:
+  - name: Nordic Semiconductor
+    role: manufacturer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 The convergence of wireless connectivity and local AI capabilities on a single low-power chip marks a significant inflection point for edge deployment. Nordic's nRF71 Series brings on-device AI inference to battery-powered IoT devices while maintaining 20x lower standby power than previous generations—a critical metric for always-on applications.

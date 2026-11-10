@@ -4,11 +4,23 @@ date: 2026-10-22
 description: "IBM AI releases Granite Speech 5.0 2B, a lightweight multilingual speech model optimized for on-device deployment with support for transcription and translation tasks."
 tags:
   - daily-digest
-  - open-source
-  - speech-recognition
-  - multilingual
+  - edge-device
+  - edge-inference
+  - granite-speech-5-0-2b
+  - ibm
   - memory-optimization
-status: draft
+  - multilingual
+  - multilingual-transcription
+  - open-source
+  - release
+  - speech-processing
+  - speech-recognition
+mentions:
+  - name: IBM
+    role: developer
+  - name: MarkTechPost
+    role: publisher
+status: published
 ---
 
 IBM has released Granite Speech 5.0 2B, a compact multilingual speech model designed for on-device inference. The 2-billion parameter architecture makes it practical for deployment on resource-constrained devices while maintaining strong performance across transcription and translation tasks. This represents a significant milestone for local speech processing, addressing a gap in practical, deployable speech models for edge inference.

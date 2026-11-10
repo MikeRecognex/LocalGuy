@@ -3,11 +3,16 @@ title: "Run an LLM Locally on RTX Spark: 13 Steps, 60 Min"
 date: 2026-11-06
 description: "Practical guide for deploying local LLMs on NVIDIA's new RTX Spark hardware with step-by-step instructions. A timely resource for practitioners looking to leverage the latest consumer GPU architecture for on-device inference."
 tags:
+  - consumer-gpu
   - daily-digest
-  - nvidia
+  - deployment-guide
   - hardware
+  - memory-bandwidth
+  - nvidia
+  - quantization
   - rtx-spark
-status: draft
+  - tutorial
+status: published
 ---
 
 NVIDIA's RTX Spark represents a significant stepping stone for consumer-grade local LLM deployment, and this practical 60-minute guide walks developers through the entire setup process. The tutorial bridges the gap between theoretical capability and real-world implementation, addressing the common friction points that practitioners encounter when first deploying models on new hardware.

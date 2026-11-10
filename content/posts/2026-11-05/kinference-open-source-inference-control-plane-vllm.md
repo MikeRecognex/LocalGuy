@@ -4,10 +4,16 @@ date: 2026-11-05
 description: "Kinference launches as an open-source inference control plane designed to simplify orchestration and management of vLLM deployments. The project provides operational tools for scaling and managing local LLM inference workloads."
 tags:
   - daily-digest
-  - vllm
-  - open-source
   - inference-orchestration
-status: draft
+  - kinference
+  - lightweight-deployment
+  - model-serving
+  - open-source
+  - release
+  - vllm
+mentions:
+  - name: n/a
+status: published
 ---
 
 Kinference addresses a real operational gap in local LLM deployments: the need for robust orchestration and management tooling that doesn't require Kubernetes. As vLLM has become the de facto standard for high-performance local inference serving, managing multiple inference instances, batching, and resource allocation across available GPUs becomes increasingly complex without proper tooling.

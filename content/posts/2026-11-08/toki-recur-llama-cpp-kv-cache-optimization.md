@@ -4,11 +4,19 @@ date: 2026-11-08
 description: "TokiRecur introduces KV-cache recycling techniques to llama.cpp, reducing memory overhead and improving inference efficiency for local LLM deployment. This open-source tool targets one of the most critical bottlenecks in on-device model execution."
 tags:
   - daily-digest
+  - edge-device
+  - gguf
+  - inference-speed
+  - kv-cache-optimization
   - llama-cpp
   - memory-optimization
-  - gguf
   - open-source
-status: draft
+  - showcase
+  - tokirecur
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 TokiRecur brings intelligent KV-cache management to the popular llama.cpp inference engine, a critical optimization for local LLM deployment. The KV-cache—which stores key-value computations during token generation—is one of the largest memory consumers in transformer inference. By implementing cache recycling strategies, TokiRecur reduces the memory footprint while maintaining inference speed, enabling longer context windows or larger batch sizes on memory-limited hardware.

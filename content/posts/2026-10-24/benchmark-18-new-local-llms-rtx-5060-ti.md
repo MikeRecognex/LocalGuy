@@ -3,12 +3,22 @@ title: "Benchmark: 18 new local LLMs tested on dual RTX 5060 Ti cards"
 date: 2026-10-24
 description: "Comprehensive evaluation of 18 recent local LLMs on affordable consumer GPUs, with Qwen 27B emerging as the performance leader not yet challenged by newer models."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - inference-speed
   - nvidia
-  - quantisation
   - performance
-status: draft
+  - quantisation
+  - quantization-strategy
+  - qwen-27b
+  - rtx-5060-ti
+  - vram-optimization
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 A detailed benchmark comparing 18 recent local LLM releases on dual RTX 5060 Ti GPUs reveals important performance baselines for practitioners working with affordable consumer hardware. The test methodology focuses on real-world constraints—modest VRAM budgets typical of gaming-class GPUs—and provides data on inference speed, quality, and practical usability across the latest model releases.

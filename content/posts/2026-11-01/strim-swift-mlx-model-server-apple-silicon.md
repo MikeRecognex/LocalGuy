@@ -3,11 +3,19 @@ title: "Strim: Swift and MLX-Based Model Server for Coding Agents on Apple Silic
 date: 2026-11-01
 description: "A new Swift-based model server built on MLX brings efficient local inference infrastructure to Apple Silicon, specifically targeting coding agent workloads with optimised performance."
 tags:
-  - daily-digest
-  - apple-silicon
-  - mlx
   - agents
-status: draft
+  - apple-silicon
+  - coding-agents
+  - daily-digest
+  - inference-performance
+  - mlx
+  - model-server
+  - showcase
+  - strim
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Strim represents a valuable tool for developers building agentic AI applications on Apple hardware. By combining Swift's native performance with MLX's optimised tensor operations, this model server addresses the specific needs of coding agents—which typically require fast token generation and reliable stream handling for IDE integration.

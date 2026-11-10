@@ -3,12 +3,22 @@ title: "Railtown AI Launches Railtracks: Swift RAG Framework for On-Device Apple
 date: 2026-11-10
 description: "Railtown AI releases an open-source Swift framework for privacy-first on-device AI agents and local knowledge bases on Apple platforms, expanding developer tools for local RAG systems."
 tags:
-  - daily-digest
-  - rag
-  - apple-silicon
-  - open-source
+  - agent-orchestration
   - agents
-status: draft
+  - apple-silicon
+  - daily-digest
+  - developer-tools
+  - open-source
+  - privacy-first
+  - rag
+  - rag-pipeline
+  - railtown-ai
+  - railtracks
+  - release
+mentions:
+  - name: Railtown AI
+    role: developer
+status: published
 ---
 
 Railtown AI's Railtracks framework represents a significant tooling advance for developers building privacy-preserving AI applications on Apple platforms. As an open-source Swift framework, it enables developers to implement retrieval-augmented generation (RAG) systems entirely on-device, keeping sensitive data local while maintaining full inference privacy.

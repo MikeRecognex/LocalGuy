@@ -3,12 +3,21 @@ title: "llama.cpp v0.8.0 Adds LiquidAI LFM3 Support and Experimental Streaming A
 date: 2026-10-29
 description: "llama.cpp releases v0.8.0 with native support for LiquidAI's LFM3 family of small models optimized for local deployment, plus new streaming audio capabilities through experimental /v1/realtime and /tts endpoints."
 tags:
-  - daily-digest
-  - llama-cpp
-  - lfm3
   - audio-processing
+  - daily-digest
+  - edge-device
+  - edge-inference
+  - lfm3
+  - liquidai
+  - llama-cpp
   - open-source
-status: draft
+  - real-time-audio
+  - release
+  - voice-synthesis
+mentions:
+  - name: LiquidAI
+    role: developer
+status: published
 ---
 
 llama.cpp v0.8.0 marks a significant milestone for local LLM deployment by adding first-class support for LiquidAI's LFM3 model family—a collection of small, efficient models specifically engineered for edge and local inference. The LFM3 lineup includes text-only (1.7B tokens with 256K context), vision-enabled (lfm3-vl), audio capabilities (lfm3-audio for speech recognition and text-to-speech), and an omni variant supporting multiple modalities. These models are built on Liquid's tri-hybrid architecture designed to run efficiently on resource-constrained devices.

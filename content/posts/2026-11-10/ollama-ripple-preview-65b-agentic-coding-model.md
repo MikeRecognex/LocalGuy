@@ -3,12 +3,21 @@ title: "Ollama v0.40.16 Features Ripple Preview: 65B Model for Agentic Coding"
 date: 2026-11-10
 description: "Ollama releases version 0.40.16 with Ripple Preview, a 65B dense model optimized for agentic coding tasks, alongside memory efficiency improvements for Qwen3.8 Flash on Apple Silicon."
 tags:
-  - daily-digest
-  - ollama
-  - open-source
+  - agentic-coding
   - agents
   - apple-silicon
-status: draft
+  - daily-digest
+  - memory-optimization
+  - ollama
+  - open-source
+  - qwen3-8-flash
+  - recursive-intelligence
+  - release
+  - ripple-preview
+mentions:
+  - name: Recursive Intelligence
+    role: developer
+status: published
 ---
 
 Ollama's latest release introduces Ripple Preview, a 65-billion parameter dense model from Recursive Intelligence specifically designed for agentic coding tasks. This represents a practical advance in making sophisticated code-generation models accessible for local deployment, enabling developers to run autonomous coding agents on their own hardware without relying on cloud APIs.

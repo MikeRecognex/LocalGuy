@@ -3,11 +3,19 @@ title: "OMLX: Use a Second Mac to Speed Up Local LLM Prefill 2.9x"
 date: 2026-11-07
 description: "OMLX enables distributed prefill acceleration across multiple Apple Silicon Macs, achieving 2.9x speedup by offloading the prefill phase to a secondary device—opening new possibilities for local multi-device inference."
 tags:
-  - daily-digest
   - apple-silicon
+  - daily-digest
+  - distributed-inference
+  - inference-speed
   - mlx
+  - omlx
   - performance-optimization
-status: draft
+  - prefill-acceleration
+  - showcase
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 OMLX represents an innovative approach to scaling local LLM inference without expensive GPU hardware. By distributing the computationally expensive prefill phase across multiple Apple Silicon devices, it achieves significant speedups while keeping the full stack on-device and isolated from cloud infrastructure. The 2.9x speedup is particularly impressive for a technique that leverages existing hardware many practitioners already own—multiple older or secondary Macs.

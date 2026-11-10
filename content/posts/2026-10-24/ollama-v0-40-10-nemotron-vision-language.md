@@ -3,12 +3,18 @@ title: "Ollama v0.40.10 releases NVIDIA Nemotron 3.5 Bolt with vision support"
 date: 2026-10-24
 description: "Ollama now supports NVIDIA's Nemotron 3.5 Bolt E4B, a compact vision-language model optimized for local inference with 128K context window and speculative decoding via DFlash draft."
 tags:
+  - consumer-gpu
   - daily-digest
-  - ollama
-  - vision-language
+  - edge-device
+  - inference-speed
+  - nemotron-3-5-bolt-e4b
   - nvidia
+  - ollama
+  - release
   - speculative-decoding
-status: draft
+  - vision-language
+  - vision-language-model
+status: published
 ---
 
 Ollama v0.40.10 introduces support for NVIDIA Nemotron 3.5 Bolt E4B, a smaller vision-language model based on Gemma 4 architecture designed specifically for fast local inference. The model supports a 128K-token context window and includes DFlash draft support for speculative decoding, enabling faster token generation through efficient draft model predictions.

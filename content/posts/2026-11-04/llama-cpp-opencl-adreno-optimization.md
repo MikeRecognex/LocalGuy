@@ -4,10 +4,15 @@ date: 2026-11-04
 description: "Latest llama.cpp release improves q2_0 quantised model decoding and small matrix multiplications on Adreno mobile GPUs, expanding efficient inference to broader mobile hardware."
 tags:
   - daily-digest
-  - llama-cpp
-  - quantisation
+  - edge-device
+  - gpu-acceleration
   - gpu-optimization
-status: draft
+  - llama-cpp
+  - mobile-inference
+  - quantisation
+  - quantization
+  - release
+status: published
 ---
 
 The latest llama.cpp builds continue pushing performance boundaries by optimizing for mobile and edge accelerators. Recent releases include targeted improvements for Adreno GPUs—the compute engines found in Qualcomm Snapdragon processors—enabling efficient quantised model inference on billions of deployed smartphones and edge devices.

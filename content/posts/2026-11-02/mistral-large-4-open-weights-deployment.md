@@ -4,10 +4,15 @@ date: 2026-11-02
 description: "Mistral releases Large 4 as open weights, enabling local deployment with clear licensing terms. A significant milestone for self-hosted inference with a capable frontier model."
 tags:
   - daily-digest
-  - open-source
-  - model-release
   - deployment
-status: draft
+  - large-4
+  - model-licensing
+  - model-release
+  - open-source
+  - open-weights
+  - release
+  - self-hosted-deployment
+status: published
 ---
 
 Mistral's release of Large 4 with open weights represents a major milestone for local LLM deployment. This model joins the growing ecosystem of commercially-viable, self-hostable alternatives to closed API services, with transparent licensing that clarifies usage rights for on-device and self-hosted deployments.

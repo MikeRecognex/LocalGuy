@@ -3,12 +3,22 @@ title: "vLLM Push-Based KV Transfer Improves Disaggregated Inference Latency"
 date: 2026-10-21
 description: "AWS and the vLLM community have implemented push-based KV cache transfer, reducing first-token latency by 3x in disaggregated inference scenarios where prefill and decode stages run on separate hardware."
 tags:
+  - aws
   - daily-digest
-  - vllm
-  - memory-optimization
+  - disaggregated-inference
   - distributed-inference
+  - inference-latency
+  - kv-cache-optimization
   - latency-reduction
-status: draft
+  - memory-optimization
+  - release
+  - vllm
+mentions:
+  - name: AWS
+    role: developer
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Push-based KV transfer represents a fundamental optimization in how disaggregated inference systems—where prefill and decode operations run on separate hardware—handle context communication. The 3x reduction in first-token-to-first-token latency (TTFT) is substantial and directly addresses one of the most frustrating user-facing metrics in LLM systems.

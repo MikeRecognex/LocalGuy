@@ -3,13 +3,22 @@ title: "vLLM releases Humming: Fast kernels optimized for quantized inference"
 date: 2026-10-24
 description: "vLLM introduces Humming, a new kernel library providing significant speedups for quantized model inference across multiple hardware backends."
 tags:
-  - daily-digest
-  - vllm
-  - quantisation
-  - nvidia
   - amd
+  - consumer-gpu
+  - daily-digest
+  - humming
+  - inference-speed
+  - kernel-optimization
+  - nvidia
   - performance
-status: draft
+  - quantisation
+  - quantized-inference
+  - release
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 vLLM's new Humming kernel library represents a significant optimization for quantized inference, addressing a critical performance bottleneck in local LLM deployment. Quantization reduces model memory footprint and enables inference on consumer hardware, but has historically suffered from suboptimal kernel performance. Humming provides fast, specialized kernels that maintain quantization benefits while approaching or matching full-precision performance.

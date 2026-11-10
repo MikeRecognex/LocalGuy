@@ -3,12 +3,19 @@ title: "Microsoft's Four-Tier AI PC Roadmap: 8GB Entry Level to 128GB Local Supe
 date: 2026-11-03
 description: "Microsoft outlines a clear hardware segmentation strategy for AI PCs with different RAM tiers, from 8GB entry-level through 128GB for local supercomputing, establishing expectations for on-device AI deployment."
 tags:
-  - daily-digest
-  - hardware
   - ai-pc
+  - analysis
+  - consumer-gpu
   - copilot-plus
+  - daily-digest
   - edge-inference
-status: draft
+  - hardware
+  - hardware-requirements
+  - layer-offloading
+  - llama-cpp
+  - quantization
+  - vllm
+status: published
 ---
 
 Microsoft's published AI PC roadmap provides crucial clarity on hardware requirements for different local inference scenarios. The tiered approach—8GB for basic capabilities, 16GB to qualify for Copilot+, and up to 128GB for local supercomputing—establishes realistic expectations for practitioners deploying LLMs across consumer hardware.

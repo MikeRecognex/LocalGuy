@@ -3,11 +3,18 @@ title: "llama.cpp MoE CPU Offloading Adds Tuned Alternative to GPU Transfers"
 date: 2026-11-10
 description: "llama.cpp introduces optimized CPU offloading for Mixture of Experts models, providing a tuned alternative to traditional GPU memory transfers for improved inference efficiency on resource-constrained hardware."
 tags:
+  - consumer-gpu
+  - cpu-offloading
   - daily-digest
+  - edge-device
+  - inference-efficiency
+  - inference-speed
   - llama-cpp
   - memory-optimization
-  - inference-speed
-status: draft
+  - mixtral
+  - moe-models
+  - release
+status: published
 ---
 
 llama.cpp has introduced a significant optimization for Mixture of Experts (MoE) models through improved CPU offloading capabilities. Rather than relying solely on GPU memory transfers, the update provides a tuned alternative that better balances computation between CPU and GPU, reducing bottlenecks in memory-constrained environments.

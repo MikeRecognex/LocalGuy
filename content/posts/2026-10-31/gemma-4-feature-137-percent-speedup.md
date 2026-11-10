@@ -3,12 +3,19 @@ title: "Gemma 4 Feature Enables 137% Speed Improvement for Local Inference"
 date: 2026-10-31
 description: "A single Gemma 4 configuration option that most users overlook can dramatically accelerate local AI inference performance by 137%, making on-device deployment significantly more practical for resource-constrained environments."
 tags:
+  - consumer-gpu
   - daily-digest
   - gemma
+  - gemma-4
+  - inference-speed
+  - model-optimization
+  - news
   - performance
   - quantisation
-  - inference-speed
-status: draft
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 Local LLM practitioners often miss crucial performance tuning options that can transform inference speed. A Gemma 4 feature that remains disabled by default can boost local inference performance by 137%, making it one of the most impactful optimizations available for on-device deployment.

@@ -3,11 +3,19 @@ title: "llama.cpp b12219: OpenCL Stability and Build Improvements"
 date: 2026-11-09
 description: "Latest llama.cpp release adds OpenCL compatibility improvements and build system enhancements. Continued progress on cross-platform GPU support for local inference."
 tags:
+  - amd
+  - build-systems
+  - consumer-gpu
+  - cross-platform-inference
   - daily-digest
   - llama-cpp
   - open-source
-  - amd
-status: draft
+  - opencl-acceleration
+  - release
+mentions:
+  - name: GitHub
+    role: publisher
+status: published
 ---
 
 llama.cpp continues its rapid development cycle with b12219, focusing on OpenCL backend stability and compatibility fixes. The addition of proper header includes (climits) addresses build issues that previously affected AMD GPU users and others relying on OpenCL acceleration. These incremental improvements are essential for maintaining cross-platform support as the inference landscape diversifies.

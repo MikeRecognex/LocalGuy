@@ -3,11 +3,14 @@ title: "Ollama v0.40.14 Fixes Defaults That Changed Model Behavior"
 date: 2026-11-05
 description: "Ollama releases v0.40.14 addressing critical default parameter changes that were affecting model inference behavior. This patch ensures consistency and stability for users running local LLM deployments."
 tags:
+  - bug-fix
   - daily-digest
+  - inference-stability
   - ollama
   - open-source
-  - bug-fix
-status: draft
+  - production-deployment
+  - release
+status: published
 ---
 
 Ollama v0.40.14 addresses a significant issue where recent default parameter changes were inadvertently altering model behavior during inference. These kinds of regression bugs can silently impact production deployments, making this fix critical for users who rely on consistent model outputs across updates.

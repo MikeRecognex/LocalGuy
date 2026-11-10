@@ -3,12 +3,18 @@ title: "Ollama v0.40.12 Targets Prompt Speed and Small-Image Detail Enhancement"
 date: 2026-10-28
 description: "Ollama's latest release optimizes inference performance specifically for prompt processing speed and improves handling of small images in multimodal scenarios, addressing two critical bottlenecks in local LLM deployment."
 tags:
-  - daily-digest
-  - ollama
-  - performance
   - benchmark
+  - daily-digest
+  - multimodal-vision
+  - ollama
   - optimization
-status: draft
+  - performance
+  - prompt-processing-speed
+  - release
+mentions:
+  - name: remio
+    role: publisher
+status: published
 ---
 
 Prompt speed is the often-overlooked sibling of token generation speed, but it's critical for user experience in interactive local LLM systems. Ollama v0.40.12 directly addresses prefill performance through inference kernel optimizations, reducing the latency spike users perceive when starting new conversations or processing context windows. Simultaneously, the release improves small-image detail processing in vision models—a practical pain point where multimodal models frequently struggle to recognize small objects, text, or details in images.

@@ -3,12 +3,21 @@ title: "NVIDIA Nemotron 3.5 Bolt Maximizes 16GB GPU Inference Capabilities"
 date: 2026-10-29
 description: "Testing NVIDIA's Nemotron 3.5 Bolt model reveals it achieves unexpected performance on 16GB consumer GPUs, challenging assumptions about minimum VRAM requirements for production inference."
 tags:
-  - daily-digest
-  - nvidia
-  - quantisation
   - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - consumer-inference
+  - daily-digest
+  - nemotron-3-5-bolt
+  - nvidia
   - open-source
-status: draft
+  - quantisation
+  - quantization
+  - vram-efficiency
+mentions:
+  - name: XDA
+    role: publisher
+status: published
 ---
 
 NVIDIA's Nemotron 3.5 Bolt represents an underrated option for local inference on consumer hardware. Testing demonstrates that this model packs significantly more capability into limited VRAM budgets than expected, fundamentally changing what's viable on 16GB GPU systems. The model achieves strong performance across reasoning, coding, and instruction-following tasks while remaining quantization-friendly, making it an attractive choice for practitioners constrained by hardware but unwilling to sacrifice model quality.

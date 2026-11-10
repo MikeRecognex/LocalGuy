@@ -3,12 +3,20 @@ title: "Bringing Flame Serving Close to Standalone vLLM Performance"
 date: 2026-10-26
 description: "Flame Serving achieves performance parity with standalone vLLM while maintaining additional composability features, demonstrating optimizations critical for efficient local and on-premises LLM serving. This enables flexible inference architectures without sacrificing speed."
 tags:
+  - comparison
   - daily-digest
-  - vllm
+  - flame-serving
   - inference-optimization
-  - serving
+  - inference-speed
+  - llm-serving
   - performance-benchmark
-status: draft
+  - serving
+  - serving-architecture
+  - vllm
+mentions:
+  - name: Hacker News
+    role: publisher
+status: published
 ---
 
 Flame Serving has made significant performance optimizations to achieve latency and throughput comparable to standalone vLLM while retaining its composability advantages. This development is crucial for organizations seeking flexible serving architectures without traditional vLLM deployment constraints.

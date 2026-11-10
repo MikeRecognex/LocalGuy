@@ -4,11 +4,16 @@ date: 2026-10-31
 description: "A comprehensive step-by-step tutorial enabling practitioners to deploy Google's Gemma 4 model on local hardware, from setup through inference, in approximately 90 minutes."
 tags:
   - daily-digest
-  - gemma
-  - ollama
   - deployment-guide
+  - gemma
+  - gemma-4
   - local-inference
-status: draft
+  - ollama
+  - tutorial
+mentions:
+  - name: tech-insider.org
+    role: publisher
+status: published
 ---
 
 Deploying a capable local LLM can seem daunting, but structured guidance breaks down the process into manageable steps. This tutorial demonstrates that running Gemma 4 locally—a competitive model from Google—requires only basic setup and can be completed within 90 minutes, making local deployment accessible to a broader range of practitioners.

@@ -3,11 +3,15 @@ title: "Ollama Brings Free Local Text-to-Speech to Mac with Natural AI Voices"
 date: 2026-10-30
 description: "Ollama now includes built-in text-to-speech capabilities with natural-sounding AI voices, running entirely locally on macOS. This eliminates the need for cloud-based TTS services and adds another modality to local inference workflows."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
+  - consumer-gpu
+  - daily-digest
+  - multimodal-inference
+  - ollama
   - open-source
-status: draft
+  - release
+  - voice-synthesis
+status: published
 ---
 
 Ollama's latest update adds native text-to-speech functionality directly to the platform, enabling users to generate natural-sounding speech without relying on cloud APIs. This represents a significant expansion of what local LLM deployments can accomplish, moving beyond text generation into multimodal inference.

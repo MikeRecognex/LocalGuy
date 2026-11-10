@@ -4,10 +4,25 @@ date: 2026-11-01
 description: "ModelBest and OpenBMB release the MiniCPM-OCR series, providing efficient open-source models for document parsing and AI-powered quality assurance tasks optimised for local deployment."
 tags:
   - daily-digest
-  - open-source
-  - model-release
+  - document-parsing
+  - edge-device
   - local-inference
-status: draft
+  - minicpm-ocr
+  - model-release
+  - modelbest
+  - ocr
+  - open-source
+  - openbmb
+  - quality-assurance
+  - release
+mentions:
+  - name: ModelBest
+    role: developer
+  - name: OpenBMB
+    role: developer
+  - name: StreetInsider
+    role: publisher
+status: published
 ---
 
 The MiniCPM-OCR series addresses a practical need in enterprise and document-heavy workflows where optical character recognition and quality control typically require cloud APIs or expensive on-premises solutions. By open-sourcing these models, the developers enable organisations to process documents locally with full data privacy and control.

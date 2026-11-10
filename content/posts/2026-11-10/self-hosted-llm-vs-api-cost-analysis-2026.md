@@ -3,11 +3,15 @@ title: "Self-Hosted LLM vs API: Cost Analysis from $0.70 to $2.00 Input"
 date: 2026-11-10
 description: "Comprehensive economic analysis comparing self-hosted LLM deployment costs against commercial API pricing, examining the financial trade-offs of on-device versus cloud inference in 2026."
 tags:
-  - daily-digest
+  - analysis
   - benchmark
   - cost-analysis
+  - cost-comparison
+  - daily-digest
   - deployment
-status: draft
+  - deployment-strategy
+  - self-hosting-costs
+status: published
 ---
 
 A detailed cost analysis comparing self-hosted LLM deployments against cloud API pricing provides crucial economic data for organizations deciding between building internal inference infrastructure and using managed services. The analysis breaks down per-token costs ranging from $0.70 to $2.00 for input, revealing the infrastructure costs and trade-offs inherent in each approach.
