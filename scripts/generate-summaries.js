@@ -41,11 +41,13 @@ const targetDate = getArgValue("--date");
 const targetWeek = getArgValue("--week") ? getMonday(getArgValue("--week")) : null;
 const sinceDate = getArgValue("--since");
 
+// UTC throughout, matching the site's week pages. Local time made every week
+// during BST key to the Sunday before, so the site never found those summaries.
 function getMonday(dateStr) {
-  const d = new Date(dateStr + "T00:00:00");
-  const day = d.getDay();
+  const d = new Date(dateStr + "T00:00:00Z");
+  const day = d.getUTCDay();
   const diff = day === 0 ? -6 : 1 - day;
-  d.setDate(d.getDate() + diff);
+  d.setUTCDate(d.getUTCDate() + diff);
   return d.toISOString().slice(0, 10);
 }
 
@@ -69,7 +71,9 @@ async function callGroq(messages, temperature) {
       model: GROQ_MODEL,
       messages,
       temperature,
-      max_tokens: 512,
+      // gpt-oss is a reasoning model: its reasoning tokens count against this cap,
+      // and at 512 a full week's listing left no room for the answer.
+      max_tokens: 2048,
     }),
   });
 
@@ -79,7 +83,12 @@ async function callGroq(messages, temperature) {
   }
 
   const data = await res.json();
-  return data.choices?.[0]?.message?.content || "";
+  const choice = data.choices?.[0];
+  const content = (choice?.message?.content || "").trim();
+  if (!content) {
+    console.warn(`  [summaries] Empty response (finish_reason: ${choice?.finish_reason}); not saving.`);
+  }
+  return content;
 }
 
 function collectPosts() {
@@ -188,7 +197,9 @@ async function main() {
       ],
       0.3
     );
-    summaries.daily[dateKey] = { text: content.trim(), postCount: dayPosts.length };
+    // Saving a blank would mark the day done and render an empty summary.
+    if (!content) continue;
+    summaries.daily[dateKey] = { text: content, postCount: dayPosts.length };
     dailyGenerated++;
     await sleep(DELAY_MS);
   }
@@ -241,7 +252,8 @@ async function main() {
       ],
       0.4
     );
-    summaries.weekly[weekKey] = { text: content.trim(), postCount: allPosts.length };
+    if (!content) continue;
+    summaries.weekly[weekKey] = { text: content, postCount: allPosts.length };
     weeklyGenerated++;
     await sleep(DELAY_MS);
   }

@@ -16,7 +16,7 @@ layout: layouts/base.njk
 <p class="week-meta">{{ week.postCount }} post{{ "s" if week.postCount != 1 }} · <a href="/posts/">All weeks</a></p>
 
 {%- set ws = summaries.weekly[week.weekKey] %}
-{%- set wsText = (ws.text if ws.text else ws) if ws else "" %}
+{%- set wsText = (ws if ws is string else ws.text) if ws else "" %}
 {%- if wsText %}
 <div class="week-summary">{{ wsText | safe }}</div>
 {%- endif %}
@@ -24,7 +24,7 @@ layout: layouts/base.njk
 {%- for day in week.days %}
 <h2 class="day-heading">{{ day.label }}</h2>
 {%- set ds = summaries.daily[day.dateKey] %}
-{%- set dsText = (ds.text if ds.text else ds) if ds else "" %}
+{%- set dsText = (ds if ds is string else ds.text) if ds else "" %}
 {%- if dsText %}
 <p class="day-highlight">{{ dsText }}</p>
 {%- endif %}

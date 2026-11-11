@@ -848,10 +848,6 @@
       "text": "Alif Semiconductor’s new edge AI MCU start kits aim to democratize on‑device inference for IoT developers.",
       "postCount": 5
     },
-    "2026-09-15": {
-      "text": "",
-      "postCount": 5
-    },
     "2026-09-16": {
       "text": "llama.cpp b10997 adds AMD RDNA3.5 MoE heuristics, boosting Ryzen AI MAX+ expert routing performance.",
       "postCount": 5
@@ -1075,6 +1071,10 @@
     "2026-11-10": {
       "text": "llama.cpp adds CPU offloading for MoE models, cutting GPU transfer overhead on low‑end hardware.",
       "postCount": 5
+    },
+    "2026-09-15": {
+      "text": "llama.cpp 13.4.1 adds CUDA Windows builds; Ollama 0.34.1 improves MLX memory; Qwen3.8‑Flash‑Next runs on RTX 3090s via non‑uniform quantization.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1106,136 +1106,136 @@
       "text": "<p>Major stories this week include the release of Qwen 3.5 models and the announcement of Alibaba's commitment to continuous open-sourcing of Qwen and Wan models, as well as the demonstration of a 400B-parameter language model running on an iPhone.</p>\n<p>Standout posts include \"Building a Production AI Receptionist\" and \"Powerful AI Search Engine Built on Single GeForce RTX 5090\", which showcase practical applications of local LLM deployment.</p>",
       "postCount": 104
     },
-    "2026-03-29": {
+    "2026-03-30": {
       "text": "<p>This week's biggest stories include the release of Gemma 4, a family of open-source models built on Gemini 3 technology, optimized for local and on-device deployment, and the launch of Samsung's Galaxy Book6 series with NVIDIA RTX 5070 graphics and integrated on-device AI capabilities.</p>\n<p>Standout posts include \"Gemma 4 26B MoE Emerges as Optimal All-Around Local Model for Consumer Hardware\" and \"Ollama Gets Blazing Fast on Macs with Full MLX Support and 2× Speedups\", which highlight significant advancements in local LLM deployment and performance optimization for consumer devices.</p>",
       "postCount": 90
     },
-    "2026-04-05": {
+    "2026-04-06": {
       "text": "<p>Gemma 4 31B and Qwen 3.5 27B were among the top models discussed, with Gemma 4 achieving exceptional performance on local hardware and Qwen 3.5 showing impressive speed on dual RTX PRO 6000 Blackwell GPUs.</p>\n<p>Standout posts include \"Show HN: Turn Photos Into Wordle Puzzles with AI\" and \"Google's Gemma 4 Brings Powerful On-Device AI to Android and iOS\", showcasing edge AI inference and on-device capabilities.</p>",
       "postCount": 95
     },
-    "2026-04-12": {
+    "2026-04-13": {
       "text": "<p>This week's biggest stories include the launch of ASUS' UGen300 USB AI accelerator and Minisforum's N5 MAX AI NAS, both designed to enhance local AI inference capabilities. Google's Gemma 4 model also made headlines for its exceptional performance on consumer hardware.</p>\n<p>Standout posts include \"Running Same Prompts Through Claude and Local LLM Revealed Unexpected Results\" and \"MiniMax M2.7 Achieves SOTA Performance Under 64GB on Mac with TQ Quantization\", which highlight surprising performance differences between cloud and local models, and significant advancements in local LLM deployment on Mac systems.</p>",
       "postCount": 85
     },
-    "2026-04-19": {
+    "2026-04-20": {
       "text": "<p>Big stories this week include Google's Gemma 4 model and Intel's Core Ultra Series 3 launch, both enhancing local AI inference capabilities.</p>\n<p>Don't miss \"AI Quota Inflation Is No Token Effort\" and \"Llama.cpp's Auto Fit Feature\" for insights into local LLM deployment and optimization.</p>",
       "postCount": 65
     },
-    "2026-04-26": {
+    "2026-04-27": {
       "text": "<p>Google's Gemma 4 and NVIDIA's Nemotron 3 Nano Omni were major stories, optimizing AI for on-device inference.</p>\n<p>Posts like \"Picking Your First Local LLM Is Easier Than the Internet Makes It Sound\" and \"N8n, Dify, and Ollama Might Be the Best Self-Hosted AI Automation Stack Right Now\" stood out.</p>",
       "postCount": 65
     },
-    "2026-05-03": {
+    "2026-05-04": {
       "text": "<p>Gemma 4 and Claude models saw significant advancements, with Google announcing 3x faster inference speeds for Gemma 4 and developers successfully building a Jira alternative with Claude in just 8 days.</p>\n<p>Notable posts include \"Building a Jira Alternative with Claude in 8 Days\" and \"Gemma 4 Could Put Powerful AI on Your Phone and Laptop\", highlighting local LLM capabilities and on-device inference advancements.</p>",
       "postCount": 69
     },
-    "2026-05-10": {
+    "2026-05-11": {
       "text": "<p>Big stories this week include the discovery of a critical vulnerability in Ollama and the launch of Gemma 4, which replaces entire local LLM stacks. </p>\n<p>Standout posts include \"DFlash Speculative Decoding\" and \"One LM Studio Setting Change\", which highlight optimization techniques for local LLM inference. </p>",
       "postCount": 70
     },
-    "2026-05-17": {
+    "2026-05-18": {
       "text": "<p>Samsung's Exynos 2800 and AMD's Ryzen AI Max Pro 400 series made headlines with significant on-device AI capabilities. </p>\n<p>Standout posts include \"The AI Layoff Receipts\" and \"The Time Bomb Went Off\". </p>",
       "postCount": 60
     },
-    "2026-05-24": {
+    "2026-05-25": {
       "text": "<p>Major stories this week include the release of Gemma 4, a new budget-focused model in Posit AI, and the discovery of critical security vulnerabilities in llama.cpp's GGUF parser. </p>\n<p>Notable posts include \"AgentSlice – Make AI Coding Agents Ask Before They Edit\", \"Show HN: An Open-Source Interactive AI Engineering Syllabus\", and \"Liquid AI Unveils Edge-Focused LFM2.5 Model for On-Device AI Agents\". </p>",
       "postCount": 59
     },
-    "2026-05-31": {
+    "2026-06-01": {
       "text": "<p>NVIDIA's RTX Spark superchip and Qualcomm's Snapdragon C processor were major stories, targeting local AI inference.</p>\n<p>Don't miss \"Proveyouragent: Cryptographic Identity for AI Agents\" and \"Chrome Quietly Downloads 4GB AI Model for Local Processing\" for insights into local LLM deployment and security.</p>",
       "postCount": 65
     },
-    "2026-06-07": {
+    "2026-06-08": {
       "text": "<p>Big stories this week include Apple's on-device AI stack rebuild and Google's DiffusionGemma model for faster local text generation.</p>\n<p>Don't miss \"Apple Unveils AFM 3 Core Advanced\" and \"Google Releases Gemma 4 QAT Models\" for insights into local LLM deployment advancements.</p>",
       "postCount": 64
     },
-    "2026-06-14": {
+    "2026-06-15": {
       "text": "<p>Samsung's Exynos 2600 and Qualcomm's Snapdragon Reality Elite made headlines with significant performance improvements for on-device AI inference. Apple also unveiled Core AI for on-device generative models.</p>\n<p>Don't miss \"My Local LLM and Claude Are Helping Me Make My Dream Game\" and \"Stop Guessing Which Local AI Models Fit Your Hardware — This Free Tool Does It for You\" for practical insights into local LLM deployment and optimization.</p>",
       "postCount": 60
     },
-    "2026-06-21": {
+    "2026-06-22": {
       "text": "<p>Big stories this week include Qualcomm's $3.9 billion acquisition of Modular AI and Samsung's unveiling of UFS 5.0 storage optimized for on-device AI, offering 10.8GB/s speeds.</p>\n<p>Don't miss \"I Built a Bedside AI Assistant That Reads Me the News Without Touching the Cloud\" and \"Claude Opus 4.5 vs. GLM-5.2: Comparative Model Analysis\" for insights into local AI deployment and model selection.</p>",
       "postCount": 55
     },
-    "2026-06-28": {
+    "2026-06-29": {
       "text": "<p>Major stories this week include the release of LongCat-2.0 for handling long-context sequences locally and Amazon's investment in custom silicon for Alexa and device AI inference. </p>\n<p>Standout posts include \"Ollama vs LM Studio vs Jan: Free Local LLM Frameworks Compared\" and \"SigMap: 97% Token Reduction for AI Coding Sessions\", which provide valuable insights for local LLM deployment and optimization. </p>",
       "postCount": 58
     },
-    "2026-07-05": {
+    "2026-07-06": {
       "text": "<p>Big stories include Apple's M7 chip and Google's Android 17 with Gemma 4.</p>\n<p>Check out \"Ollama Runs 32B Local AI Models\" and \"Tencent Open-Sources Hy3 295B MoE Model\" for local LLM insights.</p>",
       "postCount": 63
     },
-    "2026-07-12": {
+    "2026-07-13": {
       "text": "<p>Apple's M6, M7, and M8 chip roadmap and Qualcomm's Snapdragon Reality Elite processor were major stories.</p>\n<p>Don't miss \"Apple's Failed Self-Driving Car Program\" and \"Nvidia Boosts Token Throughput 5x\".</p>",
       "postCount": 64
     },
-    "2026-07-19": {
+    "2026-07-20": {
       "text": "<p>Big stories this week include AMD's acquisition of FastFlowLM and the release of llama.cpp b10075 with four local AI runtime upgrades. </p>\n<p>Standout posts include \"Claude Code With a Local LLM Running Offline\" and \"On-Device AI vs Cloud AI\". </p>",
       "postCount": 59
     },
-    "2026-07-26": {
+    "2026-07-27": {
       "text": "<p>NVIDIA released Molt, a PyTorch-native agentic reinforcement learning framework, and announced Triton Control, an open-source control plane for Nvidia Triton on Kubernetes. Kioxia shipped UFS 5.0 storage samples with capabilities optimized for on-device AI inference.</p>\n<p>Posts like \"Deploying 1-Bit Bonsai-27B\" and \"K3 Model Achieves 20 Tokens/Second\" showcased efficient local inference techniques, while \"Testing Top Local LLMs\" compared open-source models with commercial alternatives like ChatGPT.</p>",
       "postCount": 61
     },
-    "2026-08-02": {
+    "2026-08-03": {
       "text": "<p>Big stories include Apple's on-device AI capabilities with PrismML and HP's integration of on-device AI into desktop PCs.</p>\n<p>Don't miss \"PrismML's Bonsai 27B\" and \"Liquid AI's LFM2.5-2.6B\" for on-device AI advancements.</p>",
       "postCount": 59
     },
-    "2026-08-09": {
-      "text": "",
+    "2026-08-10": {
+      "text": "<p>Meta released the 30B Muse Glimmer multimodal LLM and NVIDIA added the 30B Nemotron 3.5 Lightning MoE model, while DEF CON 34 disclosed ten local‑AI vulnerabilities and vLLM 0.27.0 brought Kimi K3 support.</p><p>Key reads: ‘Meta’s Muse Glimmer Now Available on Ollama’, ‘DEF CON 34 Exposes 10 Critical Vulnerabilities in Local AI Systems’, and ‘Benchmarking Local LLMs on Consumer Hardware’.</p>",
       "postCount": 45
     },
-    "2026-08-16": {
-      "text": "",
+    "2026-08-17": {
+      "text": "<p>DeepSeek V4 Flash was quantized to 57 GB for Mac inference, Qwen3.8‑27B broke 1 M downloads and hit 51.8 tps on AMD Radeon AI PRO R9700, and Pixel 11 launched with faster on‑device Gemini.</p><p>Read Show HN: I shrank DeepSeek V4 Flash to 57GB…, the GGUF Quantization Compared benchmark, and Ollama v0.33.0 RC’s Claude Desktop integration.</p>",
       "postCount": 35
     },
-    "2026-08-23": {
-      "text": "",
+    "2026-08-24": {
+      "text": "<p>Key stories: FreeToken’s edge‑native MoE engine, Ollama 0.33’s Claude Desktop integration, vLLM‑iOS’s 88% faster mobile multi‑agent inference, and IBM’s Granite 4.2 release.</p><p>Read “FreeToken: Edge‑Native MoE Serving Engine”, “Quantization‑Aware Healing: 4‑Bit Models Beat Full‑Precision”, and “vLLM‑iOS 88% Faster Multi‑Agent Inference”.</p>",
       "postCount": 36
     },
-    "2026-08-30": {
-      "text": "",
+    "2026-08-31": {
+      "text": "<p>DeepSeek released the open‑source dsh agent harness, NVIDIA unveiled PAIR personal AI router, and FreeToken showed edge‑native MoE serving 290B+ models on consumer hardware. llama.cpp 0.4.0 added sparse flash attention and Qwen3.8‑Flash‑Next support.</p><p>Don’t miss DeepSeek Harness: Open‑Source Agent Framework with Plugin‑Based Architecture, FreeToken: Edge‑Native MoE Serving with CPU‑GPU Co‑Execution, and Running 104GB Qwen3.8‑Flash‑Next on 48GB Mac with Slotstream (~12 tok/s).</p>",
       "postCount": 39
     },
-    "2026-09-06": {
-      "text": "",
+    "2026-09-07": {
+      "text": "<p>Alibaba released Qwen3.8 Flash Next for on‑device inference; IFM launched the K2 Horizon series (0.9B‑375B) and OpenBMB unveiled MiniCPM5‑2B, the top open model under 4B. vLLM added speculative decoding on AMD GPUs and made Model Runner V2 default, speeding local inference.</p><p>Don’t miss the RTX 5090 benchmark of Qwen 3.8 27B, Ollama v0.34.0’s ChatGPT Desktop integration for Apple Silicon, and UNIST’s 2,400‑fold storage breakthrough.</p>",
       "postCount": 35
     },
-    "2026-09-13": {
-      "text": "",
+    "2026-09-14": {
+      "text": "<p>TensorRT Edge‑LLM posted a 6.4× MLPerf Edge Agentic win on Jetson AGX Thor, Qwen3.8‑Flash‑Next’s non‑uniform GGUF quantization ran on dual RTX 3090s, and Ollama v0.34.3 added model‑thinking controls with Apple Silicon support, while Alif Semiconductor unveiled low‑cost edge‑AI MCU kits.</p><p>Key reads: Mozilla AI’s “Benchmarking Local LLM Servers”, “Per‑Tensor Layout Maps for GGUF Quantization”, and PrismML’s “Ternary Bonsai 2 27B” with 98.2 % performance in 5.9 GB.</p>",
       "postCount": 35
     },
-    "2026-09-20": {
-      "text": "",
+    "2026-09-21": {
+      "text": "<p>vLLM v0.30.0 added DeepSeek‑V4.1‑Flash MXFP8, Ollama v0.40.0 switched to MLX on Apple Silicon, and Snapdragon Summit proved phones can run 30B‑parameter models locally.</p><p>Read “Mac Mini Alternatives for Local LLMs: M6, M5 and Strix Halo,” “QLoRA Explained: How 4‑Bit Quantization Unlocks Frontier Models,” and the “vLLM Architecture, Memory and Benchmarks Deep Dive.”</p>",
       "postCount": 35
     },
-    "2026-09-27": {
-      "text": "",
+    "2026-09-28": {
+      "text": "<p>Top stories: AMD’s Agentic PC runs 300 B models locally, Perplexity’s 27 B on‑device inference on Ryzen AI Max, Forlinx’s 20‑TOPS M.2 AI accelerator, and Ollama 0.35.0 adding decision‑model support.</p><p>Read “Faster Prompt Lookup Drafting in llama.cpp” for speculative decoding gains, the “MiniCPM5‑2B vs Qwen3.5‑4B vs Gemma3 4B: Comparative Benchmark Results” analysis, and Aleph Alpha’s “Kolibri” 78.1 B MoE model release.</p>",
       "postCount": 35
     },
-    "2026-10-04": {
-      "text": "",
+    "2026-10-05": {
+      "text": "<p>Top stories: NVIDIA PAIR’s 1.9× idle‑PC inference boost, Ollama v0.40.0 defaulting to MLX on Apple Silicon with decision‑model support, vLLM v0.31.0 FlashMLA for DeepSeek‑V4.1‑Flash, and DeepMind EmbeddingGemma 2 (740 M multimodal).</p><p>Don’t miss the GLM‑5.3‑Flash 13‑step deployment guide, the llama.cpp b11412 fix for K‑Pool graph reallocation, and Phoronix’s AMD ROCm vs. Vulkan benchmark on the Lemonade Server.</p>",
       "postCount": 35
     },
-    "2026-10-11": {
-      "text": "",
+    "2026-10-12": {
+      "text": "<p>Top stories this week were vLLM’s Decision 3.0 router models (0.6B‑27B), Modular’s MAX framework achieving a 5.5× speedup on Kimi K2.5, and Liquid AI’s 24B LFM2.5‑24B‑A2B model for on‑device agents.</p><p>Read the deep dive “vLLM Releases Decision 3.0”, the performance report “Modular's MAX Inference Stack Achieves 5.5x Speedup on AMD Hardware”, and the model analysis “Liquid AI Releases LFM2.5‑24B‑A2B: Fast On‑Device Agents”.</p>",
       "postCount": 34
     },
-    "2026-10-18": {
-      "text": "",
+    "2026-10-19": {
+      "text": "<p>Key stories this week: 30B‑parameter models moving to phones, Google’s LiteRT Tensor API for edge AI, and vLLM’s push‑based KV‑cache transfer cutting first‑token latency by 3×.</p><p>Read the full analysis in “30B‑Class Models Squeezed Into Phones”, the “Benchmark: 18 new local LLMs tested on dual RTX 5060 Ti cards”, and “Recursive Releases Flint 40B” for the new coding model.</p>",
       "postCount": 35
     },
     "2026-10-26": {
-      "text": "",
+      "text": "<p>Google open‑sourced ML Drift, Flame Serving matched vLLM speed, and Ollama’s Apple‑Silicon TTS runs 100× faster.</p><p>Read the “Bringing Flame Serving Close to Standalone vLLM Performance” deep dive, the “Ollama Adds Local Text‑to‑Speech, 100x Faster Than Real‑Time on Apple Silicon” release notes, and the “vLLM Semantic Router releases d3‑ultra: A 27B open multimodal decision model” analysis.</p>",
       "postCount": 35
     },
     "2026-11-02": {
-      "text": "",
+      "text": "<p>Mistral Large 4 opened with 1 trillion parameters, Nvidia launched Flare for DGX Spark, and Arm unveiled new on‑device AI hardware.</p><p>Read the full “Mistral Large 4 Open Weights: Deployment and Licensing” guide, the “llama.cpp Adds IQ4_XS Quantization with OpenCL Support” post, and the “Kinference: Open‑Source Inference Control Plane for vLLM” announcement.</p>",
       "postCount": 35
     },
     "2026-11-09": {
-      "text": "",
+      "text": "<p>The week was defined by Qwen 3.8‑27B GSQ proving viable on 16 GB VRAM, Ollama v0.40.16 unveiling the 65 B Ripple Preview for agentic coding, and llama.cpp b12219 adding OpenCL stability for cross‑GPU inference. RTX 5060 Ti 16 GB cards also saw a demand spike, easing hardware bottlenecks.</p><p>Don’t miss the GPT4All launcher guide, the vLLM monitoring tutorial, and Railtown AI’s Railtracks Swift RAG framework.</p>",
       "postCount": 10
     }
   }

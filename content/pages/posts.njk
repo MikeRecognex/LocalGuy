@@ -17,7 +17,7 @@ permalink: /posts/
     <a href="{{ week.url }}">{{ week.title }}</a>
     <time datetime="{{ week.weekKey }}">{{ week.postCount }} post{{ "s" if week.postCount != 1 }}</time>
     {%- set ws = summaries.weekly[week.weekKey] %}
-    {%- set wsText = (ws.text if ws.text else ws) if ws else "" %}
+    {%- set wsText = (ws if ws is string else ws.text) if ws else "" %}
     <p class="summary">{% if wsText %}{{ wsText | striptags | truncate(220) }}{% else %}{{ week.description }}{% endif %}</p>
   </li>
 {%- endfor %}
