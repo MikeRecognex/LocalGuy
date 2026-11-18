@@ -3,12 +3,24 @@ title: "Huawei Releases MACaQ: Model-Agnostic Quantization Across Modalities"
 date: 2026-11-12
 description: "Huawei CSL releases MACaQ, an open-source quantization framework supporting text, image, video and audio models. The model-agnostic approach enables efficient quantization across diverse model architectures for on-device deployment."
 tags:
-  - daily-digest
-  - quantisation
-  - open-source
   - benchmark
+  - daily-digest
+  - edge-device
   - hardware
-status: draft
+  - huawei-central-software-laboratory
+  - macaq
+  - model-quantization
+  - multi-modal-quantization
+  - on-device-inference
+  - open-source
+  - quantisation
+  - release
+mentions:
+  - name: "Huawei Central Software Laboratory"
+    role: "developer"
+  - name: "news.lavx.hu"
+    role: "publisher"
+status: published
 ---
 
 Huawei's Central Software Laboratory has released MACaQ, an open-source quantization tool designed to work across multiple modalities including text, image, video, and audio. Unlike quantization frameworks tied to specific architectures or model families, MACaQ's model-agnostic approach enables developers to apply the same quantization pipeline across diverse model types, simplifying the workflow for comprehensive local inference systems.

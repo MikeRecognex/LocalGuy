@@ -3,12 +3,24 @@ title: "BotPsy: On-Device Personal Assistant with Sub-Billion-Parameter Model"
 date: 2026-11-12
 description: "Tether releases BotPsy, an 800-million-parameter language model optimized for on-device inference that claims to outperform models 2.5x its size. The model demonstrates that efficiency-focused architectures can deliver competitive quality for local deployment."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
-  - open-source
+  - botpsy
+  - consumer-gpu
+  - daily-digest
+  - edge-device
+  - inference-speed
   - memory-optimization
-status: draft
+  - on-device-inference
+  - open-source
+  - quantisation
+  - quantization-aware-training
+  - release
+  - small-language-model
+  - tether
+mentions:
+  - name: "Tether"
+    role: "developer"
+status: published
 ---
 
 Tether has unveiled BotPsy, an 800-million-parameter agentic language model specifically designed for on-device deployment. According to the release, BotPsy outperforms models with 2-2.5x more parameters, suggesting that modern techniques like efficient attention, quantization-aware training, and architecture optimization can yield competitive results in a fraction of the traditional parameter count.

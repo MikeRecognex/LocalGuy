@@ -3,12 +3,16 @@ title: "llama.cpp v1.0.0 Reaches Stability Milestone with Stable API for Local A
 date: 2026-11-14
 description: "llama.cpp hits v1.0.0 with a stable public API, removing 35 deprecated functions and establishing a stronger foundation for the local AI ecosystem. This major release includes improvements to speculative decoding, KV cache optimizations, and native macOS support."
 tags:
-  - daily-digest
-  - llama-cpp
-  - open-source
-  - memory-optimization
+  - api-stability
   - apple-silicon
-status: draft
+  - daily-digest
+  - kv-cache-optimization
+  - llama-cpp
+  - memory-optimization
+  - open-source
+  - release
+  - speculative-decoding
+status: published
 ---
 
 llama.cpp has reached version 1.0.0, a significant milestone for the local LLM ecosystem. This release establishes API stability guarantees, removing 35 deprecated functions and promoting the NextN/speculative decoding API to the core llama.h header. The stable API provides developers with confidence that their integrations won't break in future minor version updates, enabling production-grade local inference deployments.

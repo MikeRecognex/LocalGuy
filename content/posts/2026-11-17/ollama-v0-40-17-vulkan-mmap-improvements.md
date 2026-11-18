@@ -3,11 +3,20 @@ title: "Ollama 0.40.17 Improves Vulkan Integrated GPU and mmap Support"
 date: 2026-11-17
 description: "Ollama 0.40.17 enhances Vulkan support for integrated GPUs with memory-mapped file I/O optimization, alongside CLI stability improvements for model restoration and graceful restart handling."
 tags:
+  - consumer-gpu
   - daily-digest
+  - gpu-acceleration
+  - gpu-optimization
+  - memory-optimization
   - ollama
   - open-source
-  - gpu-optimization
-status: draft
+  - production-deployment
+  - release
+  - vulkan
+mentions:
+  - name: "GitHub"
+    role: "publisher"
+status: published
 ---
 
 Ollama 0.40.17 delivers practical improvements for running models on integrated GPUs via Vulkan. The addition of mmap (memory-mapped file I/O) support for Vulkan integrated GPUs is particularly significant for laptop and desktop users who lack discrete graphics but have modern integrated graphics that can accelerate inference. This optimization reduces memory pressure and improves access patterns when moving model weights into GPU memory.

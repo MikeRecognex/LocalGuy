@@ -1075,6 +1075,34 @@
     "2026-09-15": {
       "text": "llama.cpp 13.4.1 adds CUDA Windows builds; Ollama 0.34.1 improves MLX memory; Qwen3.8‑Flash‑Next runs on RTX 3090s via non‑uniform quantization.",
       "postCount": 5
+    },
+    "2026-11-11": {
+      "text": "llama.cpp now supports FP8 quantisation on CUDA, slashing memory use while keeping inference quality intact.",
+      "postCount": 5
+    },
+    "2026-11-12": {
+      "text": "Tether’s 800M‑parameter BotPsy outperforms models twice its size, and Huawei’s MACaQ enables model‑agnostic quantization across modalities.",
+      "postCount": 5
+    },
+    "2026-11-13": {
+      "text": "llama.cpp v1.0 launches with new hardware support, while Huawei’s MACaQ compresses a 122‑billion‑parameter model in 64 minutes.",
+      "postCount": 5
+    },
+    "2026-11-14": {
+      "text": "Spectra’s new compression tool slashes LLM size three‑fold to under 50 MB RAM, outpacing vLLM for local inference.",
+      "postCount": 5
+    },
+    "2026-11-15": {
+      "text": "Llama.cpp v1.0 launches native macOS app and adds speculative decoding, boosting RTX 3090 inference speed by 55%.",
+      "postCount": 5
+    },
+    "2026-11-16": {
+      "text": "llama.cpp v1.0 hits release, delivering 55% faster RTX 3090 inference via speculative decoding.",
+      "postCount": 5
+    },
+    "2026-11-17": {
+      "text": "Llama.cpp hits 1.0.0 with a stable API, while Ollama 0.40.17 adds Vulkan GPU and mmap support.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1235,7 +1263,11 @@
       "postCount": 35
     },
     "2026-11-09": {
-      "text": "<p>The week was defined by Qwen 3.8‑27B GSQ proving viable on 16 GB VRAM, Ollama v0.40.16 unveiling the 65 B Ripple Preview for agentic coding, and llama.cpp b12219 adding OpenCL stability for cross‑GPU inference. RTX 5060 Ti 16 GB cards also saw a demand spike, easing hardware bottlenecks.</p><p>Don’t miss the GPT4All launcher guide, the vLLM monitoring tutorial, and Railtown AI’s Railtracks Swift RAG framework.</p>",
+      "text": "<p>llama.cpp v1.0 arrived with stable API, OpenCL fixes and FP8 CUDA quantisation; Qwen 3.8‑27B GSQ runs on 16 GB VRAM; Ollama v0.40.16 added a 65B Ripple Preview; NVIDIA showed 753B GLM‑5.3 inference on two DGX stations via vLLM.</p><p>Key reads: GPT4All’s local‑LLM launcher and DeepSeek‑Coder‑V2‑Lite quantised to under 5 GB, delivering 65 tps on a 6 GB GPU.</p>",
+      "postCount": 35
+    },
+    "2026-11-16": {
+      "text": "<p>The release of llama.cpp 1.0.0, with a 55% speed boost on RTX 3090 via speculative decoding, dominated the week, alongside Ollama 0.40.17’s Vulkan GPU enhancements and vLLM 0.34.0’s extensible KV cache supporting Mistral Large 4.</p><p>Don’t miss the benchmark guide “Best Local AI Models for 24GB VRAM and 24GB Macs Tested and Benchmarked” and the “Efficient Frontier of LLM Inference” deep‑dive.</p>",
       "postCount": 10
     }
   }

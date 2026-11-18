@@ -3,11 +3,23 @@ title: "Huawei Open-Sources MACaQ: Fast Model-Agnostic Quantization for Local In
 date: 2026-11-13
 description: "Huawei releases MACaQ, a model-agnostic quantization tool that can compress a 122-billion-parameter model in just 64 minutes with near-lossless quality. The tool significantly reduces memory and compute requirements for on-device deployment."
 tags:
+  - consumer-gpu
   - daily-digest
-  - quantisation
-  - open-source
+  - huawei
+  - macaq
   - memory-optimization
-status: draft
+  - model-compression
+  - model-quantization
+  - open-source
+  - quantisation
+  - release
+  - vram-optimization
+mentions:
+  - name: "Huawei"
+    role: "developer"
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 Huawei has open-sourced MACaQ (Model-Agnostic Quantization), an internal quantization tool designed to accelerate the deployment of large models on local hardware. The key breakthrough is speed: MACaQ can quantize a 122-billion-parameter model in approximately 64 minutes while maintaining near-lossless accuracy, making it practical for practitioners who need to prepare models for on-device inference.

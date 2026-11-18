@@ -4,11 +4,18 @@ date: 2026-11-14
 description: "NVIDIA shows how to serve the massive 753-billion-parameter GLM-5.3 model across two DGX Stations using vLLM, demonstrating practical multi-GPU serving strategies for large models beyond single-device capabilities."
 tags:
   - daily-digest
-  - vllm
-  - nvidia
+  - datacenter-gpu
+  - dgx-station
+  - distributed-inference
+  - glm-5-3
   - hardware
+  - model-serving
+  - nvidia
+  - showcase
   - speculative-decoding
-status: draft
+  - tensor-parallelism
+  - vllm
+status: published
 ---
 
 This technical demonstration from NVIDIA shows practical approaches to serving massive language models that exceed single-GPU memory constraints. By distributing the 753-billion-parameter GLM-5.3 model across two NVIDIA DGX Stations, the implementation reveals how vLLM's serving infrastructure handles tensor parallelism and load balancing across multiple high-end GPUs. For organizations with access to multi-GPU setups, this serves as a reference architecture for deploying frontier models locally.

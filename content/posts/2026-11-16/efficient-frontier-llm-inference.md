@@ -3,11 +3,21 @@ title: "The Efficient Frontier of LLM Inference: Optimization Strategies and Tra
 date: 2026-11-16
 description: "An in-depth analysis explores the efficiency landscape of LLM inference, examining quantization, batching, and other optimization techniques to help practitioners understand the trade-offs between latency, throughput, and cost."
 tags:
-  - daily-digest
-  - quantisation
-  - optimization
+  - analysis
   - benchmark
-status: draft
+  - daily-digest
+  - edge-device
+  - inference-optimization
+  - latency-throughput-tradeoffs
+  - optimization
+  - quantisation
+  - quantization
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+  - name: "Baseten"
+    role: "publisher"
+status: published
 ---
 
 This comprehensive analysis maps out the "efficient frontier" of LLM inference—the set of optimal trade-offs between latency, throughput, and computational cost. For practitioners deploying models locally or on edge hardware, understanding these trade-offs is crucial for making architectural decisions.

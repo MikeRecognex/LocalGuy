@@ -3,12 +3,21 @@ title: "DeepSeek-Coder-V2-Lite Under 5GB: 65 TPS Throughput on 6GB GPU"
 date: 2026-11-12
 description: "A highly optimized quantized version of DeepSeek-Coder-V2-Lite achieves 65 tokens per second throughput while fitting entirely in VRAM on a 6GB GPU. This demonstrates practical memory optimization enabling full model inference on consumer-grade hardware."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
   - benchmark
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - deepseek-coder-v2-lite
+  - gguf
+  - inference-speed
   - memory-optimization
-status: draft
+  - model-quantization
+  - quantisation
+  - release
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 An optimized quantized version of DeepSeek-Coder-V2-Lite has been released, achieving impressive throughput of 65 tokens per second while requiring less than 5GB of VRAM. This allows the entire model to run 100% in-VRAM on modest 6GB consumer GPUs, eliminating disk I/O overhead and enabling production-grade inference speeds for coding tasks.

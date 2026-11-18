@@ -3,12 +3,20 @@ title: "Llama.cpp v1.0 Achieves 55% Speed Improvement with Speculative Decoding 
 date: 2026-11-15
 description: "Benchmarks show llama.cpp v1.0 delivers up to 55% faster inference using speculative decoding on NVIDIA RTX 3090 GPUs, demonstrating significant performance gains for consumer-grade local deployment."
 tags:
-  - daily-digest
-  - llama-cpp
-  - speculative-decoding
-  - nvidia
   - benchmark
-status: draft
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - inference-speed
+  - llama-cpp
+  - nvidia
+  - performance-benchmarking
+  - rtx-3090
+  - speculative-decoding
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 Llama.cpp v1.0's implementation of speculative decoding delivers dramatic performance improvements on mainstream GPUs like the RTX 3090, achieving throughput increases of up to 55%. Speculative decoding works by using a smaller, faster draft model to predict multiple tokens, then verifying them against the larger target model in parallel, reducing overall latency without sacrificing quality.

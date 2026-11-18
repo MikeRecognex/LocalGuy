@@ -3,12 +3,19 @@ title: "Warmctl – Fast Cold Starts for vLLM Inference"
 date: 2026-11-11
 description: "Open-source tool addressing vLLM cold start latency, enabling rapid model loading and initialization for responsive local inference applications."
 tags:
+  - cold-start-optimization
   - daily-digest
-  - vllm
-  - inference
-  - open-source
   - latency-optimization
-status: draft
+  - model-loading
+  - model-switching
+  - open-source
+  - showcase
+  - vllm
+  - warmctl
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 Cold start latency—the delay between initiating inference and receiving the first token—remains a practical challenge for local LLM deployments, especially in containerized or serverless scenarios. Warmctl provides a solution by optimizing model loading sequences and pre-allocation strategies in vLLM, reducing initialization overhead from seconds to milliseconds.

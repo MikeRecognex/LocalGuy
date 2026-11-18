@@ -3,12 +3,21 @@ title: "Benchmarking AI Agents on Local LLMs: Real Performance Metrics on Single
 date: 2026-11-14
 description: "SitePoint measures the real-world performance and resource consumption of running AI agents on local LLMs using a single GPU, providing practical insights for practitioners considering local deployment."
 tags:
-  - daily-digest
-  - benchmark
+  - agent-orchestration
   - agents
+  - benchmark
+  - benchmark-report
+  - capacity-planning
+  - consumer-gpu
+  - daily-digest
   - hardware
+  - inference-performance
+  - iterative-reasoning
   - memory-optimization
-status: draft
+mentions:
+  - name: "SitePoint"
+    role: "publisher"
+status: published
 ---
 
 This hands-on benchmark article fills a critical gap in local LLM deployment guidance by measuring actual performance characteristics of agent-based workloads on consumer-grade hardware. Rather than theoretical specifications, the author profiles real inference latency, memory usage, and throughput when running agentic patterns—like tool use, planning, and iterative reasoning—on a single GPU. This data is invaluable for developers deciding whether local deployment is feasible for their use case.

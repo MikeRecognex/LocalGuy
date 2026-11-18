@@ -3,11 +3,21 @@ title: "DeepSeek-Coder-V2-Lite Quantized to Under 5GB: 65 Tokens/Second on 6GB G
 date: 2026-11-13
 description: "A community quantization achieves 65 tokens-per-second throughput running DeepSeek-Coder-V2-Lite in under 5GB on a 6GB GPU, demonstrating practical on-device coding assistance performance."
 tags:
-  - daily-digest
-  - quantisation
-  - gguf
   - benchmark
-status: draft
+  - code-generation
+  - coder-v2-lite
+  - consumer-gpu
+  - daily-digest
+  - gguf
+  - inference-speed
+  - model-quantization
+  - quantisation
+  - showcase
+  - vram-optimization
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 This practical demonstration shows a quantized DeepSeek-Coder-V2-Lite model running entirely in VRAM on a modest 6GB GPU while delivering 65 tokens-per-second—fast enough for interactive use. The model fits in under 5GB, leaving headroom for system overhead and batch processing. This is concrete evidence that state-of-the-art coding assistance models are now deployable on common mid-range consumer GPUs.

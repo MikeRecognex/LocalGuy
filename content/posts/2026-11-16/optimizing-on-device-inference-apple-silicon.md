@@ -3,11 +3,19 @@ title: "Optimizing On-Device Inference for Apple Silicon: Best Practices and Tec
 date: 2026-11-16
 description: "A technical guide shares optimization strategies specifically for running LLM inference efficiently on Apple Silicon processors, covering architecture-specific techniques and performance best practices."
 tags:
-  - daily-digest
   - apple-silicon
-  - optimization
+  - daily-digest
+  - gpu-acceleration
+  - inference-optimization
+  - metal
   - on-device
-status: draft
+  - optimization
+  - tutorial
+  - unified-memory
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 This technical guide provides Apple Silicon-specific optimization strategies for on-device LLM inference, addressing the unique architectural characteristics of Apple's chips. Apple Silicon's unified memory architecture and neural engine capabilities differ fundamentally from x86 and discrete GPU systems, requiring specialized optimization approaches.

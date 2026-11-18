@@ -3,11 +3,15 @@ title: "Speculative Decoding Tutorial: 12 Steps to Faster Local LLM Inference"
 date: 2026-11-13
 description: "A comprehensive 75-minute tutorial on implementing speculative decoding, a technique that dramatically speeds up LLM inference by using a smaller draft model to predict tokens, verified by a larger model."
 tags:
+  - consumer-gpu
   - daily-digest
-  - speculative-decoding
-  - performance
   - inference-optimization
-status: draft
+  - inference-speed
+  - performance
+  - speculative-decoding
+  - tutorial
+  - vram-optimization
+status: published
 ---
 
 Speculative decoding is one of the most impactful inference optimization techniques for local LLMs, and this detailed tutorial makes it accessible to practitioners. The technique works by using a smaller, faster draft model to generate candidate tokens which are then verified in parallel by the larger target model, effectively reducing latency without sacrificing quality.

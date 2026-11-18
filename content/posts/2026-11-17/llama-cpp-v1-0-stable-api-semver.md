@@ -3,11 +3,16 @@ title: "Llama.cpp Reaches v1.0.0 with Stable API and Semantic Versioning"
 date: 2026-11-17
 description: "Llama.cpp and ggml have reached v1.0.0, establishing semantic versioning rules and a stable API contract for local LLM inference. This milestone provides clarity on backward compatibility and breaking changes for developers building on the ecosystem's most popular inference engine."
 tags:
+  - api-stability
   - daily-digest
+  - ggml
+  - inference-engine
   - llama-cpp
   - open-source
+  - release
+  - semantic-versioning
   - stable-release
-status: draft
+status: published
 ---
 
 Llama.cpp and ggml have officially reached v1.0.0 on November 13, 2026, marking a significant maturation milestone for the most widely-used local LLM inference framework. This release establishes strict semantic versioning rules that clarify what constitutes breaking changes, providing developers with confidence about API stability and compatibility guarantees across releases.

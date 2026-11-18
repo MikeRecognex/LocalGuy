@@ -3,11 +3,15 @@ title: "How to Run LLM Locally: A Practical Setup Guide for 2026"
 date: 2026-11-17
 description: "A comprehensive practical guide covering current best practices, tools, and techniques for setting up and running large language models on consumer hardware in 2026."
 tags:
+  - consumer-gpu
   - daily-digest
-  - open-source
-  - tutorial
   - deployment
-status: draft
+  - deployment-guide
+  - inference-engine
+  - open-source
+  - quantization
+  - tutorial
+status: published
 ---
 
 This practical setup guide aggregates current best practices for local LLM deployment in 2026, covering the ecosystem state across hardware classes, software tools, and configuration strategies. As local inference has matured significantly, the landscape of viable options has expanded considerably, making a consolidated reference valuable for both newcomers and practitioners optimizing existing setups.

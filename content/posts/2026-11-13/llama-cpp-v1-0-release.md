@@ -3,11 +3,21 @@ title: "llama.cpp v1.0 Released: Major Milestone for Local LLM Inference"
 date: 2026-11-13
 description: "The llama.cpp project reaches v1.0, marking a significant maturity milestone for the most widely-used local LLM inference engine. This release includes performance improvements, new hardware support, and API stabilization."
 tags:
+  - consumer-gpu
   - daily-digest
+  - kernel-optimization
   - llama-cpp
+  - llm-inference
+  - ollama
   - open-source
   - performance
-status: draft
+  - quantization
+  - release
+  - speculative-decoding
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 llama.cpp has reached version 1.0, a major milestone for the de facto standard in local LLM inference. The project has been fundamental to enabling efficient on-device model deployment across consumer hardware, and this stable release reflects its maturity and production-readiness.

@@ -3,12 +3,16 @@ title: "What Breaks When a Self-Hosted LLM Gateway Hits 1,000 Concurrent Streams
 date: 2026-11-11
 description: "Deep dive into the operational challenges and failure modes when scaling self-hosted LLM gateways to handle 1,000 concurrent inference requests, with practical insights for production deployments."
 tags:
+  - analysis
   - daily-digest
-  - vllm
-  - scalability
-  - inference
+  - high-concurrency
+  - memory-optimization
+  - operational-challenges
   - performance-optimization
-status: draft
+  - production-deployment
+  - scalability
+  - vllm
+status: published
 ---
 
 Running LLM inference at scale presents unique challenges that emerge only at high concurrency levels. This analysis explores what breaks when self-hosted gateways attempt to serve 1,000 concurrent streams simultaneously, examining memory management, batching bottlenecks, request queueing, and resource contention issues that practitioners rarely encounter in development environments.

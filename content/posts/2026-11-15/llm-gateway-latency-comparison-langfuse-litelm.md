@@ -3,11 +3,18 @@ title: "LLM Gateway Latency Benchmark: Langfuse vs LiteLLM vs AcruxCore"
 date: 2026-11-15
 description: "Comparative analysis of popular LLM gateway solutions measures the latency overhead each introduces to local and self-hosted inference calls, helping practitioners select the right abstraction layer for their deployments."
 tags:
-  - daily-digest
-  - open-source
+  - acruxcore
   - benchmark
+  - benchmark-report
+  - daily-digest
+  - inference-latency
+  - langfuse
+  - litellm
+  - llm-gateway
   - memory-optimization
-status: draft
+  - observability-tracing
+  - open-source
+status: published
 ---
 
 This benchmark compares latency overhead introduced by three popular open-source LLM gateways: Langfuse (with its new Rust-based AI Gateway), LiteLLM, and AcruxCore. When running LLMs locally, gateway overhead can significantly impact perceived response latency, particularly for streaming applications. The comparison measures end-to-end latency for identical inference requests routed through each gateway.
