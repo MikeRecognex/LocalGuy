@@ -3,12 +3,21 @@ title: "Adding Live Web Search to Local LLMs Eliminates Last Barrier to Cloud Re
 date: 2026-11-19
 description: "A developer demonstrates adding real-time web search capabilities to self-hosted LLMs, removing one of the final dependencies on cloud-based services like ChatGPT and Gemini."
 tags:
+  - agents
+  - chatgpt
+  - cloud-replacement
   - daily-digest
+  - gemini
   - ollama
   - open-source
-  - agents
   - rag
-status: draft
+  - rag-pipeline
+  - showcase
+  - web-search
+mentions:
+  - name: "XDA"
+    role: "publisher"
+status: published
 ---
 
 The barrier to fully replacing cloud LLM services for practical users has long been the inability to access real-time information. This XDA project demonstrates a practical solution: augmenting local LLMs with live web search, enabling truly self-hosted systems that can answer current-events questions without external API calls. This bridges the capability gap that keeps many users dependent on proprietary cloud services despite having capable hardware for local inference.

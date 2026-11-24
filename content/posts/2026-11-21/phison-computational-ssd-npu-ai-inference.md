@@ -3,12 +3,24 @@ title: "Phison Computational SSD: NPU and 64GB Memory for On-Drive AI Inference"
 date: 2026-11-21
 description: "Phison announces enterprise SSDs with integrated NPU and 64GB memory, enabling AI frameworks to run directly on storage hardware for inference without requiring separate GPU resources."
 tags:
+  - computational-ssd
+  - computational-storage
+  - custom-asic
   - daily-digest
-  - hardware
+  - data-movement-optimization
+  - edge-device
   - edge-inference
-  - memory-optimization
   - enterprise
-status: draft
+  - hardware
+  - memory-optimization
+  - phison
+  - release
+mentions:
+  - name: "Phison"
+    role: "manufacturer"
+  - name: "Hardware Busters"
+    role: "publisher"
+status: published
 ---
 
 Phison has introduced a paradigm shift in edge AI infrastructure with computational SSDs that integrate an NPU and 64GB of memory directly onto the storage device. This represents a fundamental architectural change that eliminates the boundary between storage and compute, allowing AI inference to execute in-place on the drive without data movement overhead. The approach is particularly valuable for inference scenarios where model weights remain relatively static and can be cached on the high-bandwidth storage substrate.

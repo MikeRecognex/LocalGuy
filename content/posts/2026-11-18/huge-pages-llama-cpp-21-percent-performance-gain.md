@@ -3,12 +3,20 @@ title: "One Environment Variable Made Our llama.cpp Server Up to 21% Faster"
 date: 2026-11-18
 description: "A significant performance discovery showing that enabling huge pages can boost llama.cpp inference speed by up to 21%, offering a simple optimization for local LLM deployments."
 tags:
+  - analysis
+  - apple-silicon
+  - benchmark
+  - cpu-only
   - daily-digest
+  - inference-speed
   - llama-cpp
   - memory-optimization
-  - benchmark
   - open-source
-status: draft
+  - performance-tuning
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 This discovery highlights how subtle system-level configurations can dramatically impact local LLM inference performance. Huge pages reduce TLB (Translation Lookaside Buffer) misses by allowing the CPU to map larger memory chunks with fewer page table lookups, directly accelerating the memory-intensive operations that dominate LLM inference.

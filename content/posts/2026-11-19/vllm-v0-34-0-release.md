@@ -3,12 +3,19 @@ title: "vLLM v0.34.0 Released With Extensible KV Cache and 10 New Models"
 date: 2026-11-19
 description: "vLLM 0.34.0 introduces extensible KV cache that dynamically sizes based on available memory and adds support for 10 new models, delivering improved efficiency and broader model coverage for local deployment."
 tags:
+  - audio-processing
+  - consumer-gpu
   - daily-digest
-  - vllm
-  - memory-optimization
+  - edge-device
   - inference-engine
+  - inference-performance
+  - kv-cache-optimization
+  - memory-optimization
+  - nemotron-3-5-transcribe
   - open-source
-status: draft
+  - release
+  - vllm
+status: published
 ---
 
 vLLM's latest release brings a critical improvement for resource-constrained local deployments: extensible KV cache now automatically sizes itself based on actual free memory after warmup, rather than using fixed allocations. This means most models can now utilize larger caches without risk of OOM errors, directly translating to better throughput and lower latency for inference workloads on consumer and edge hardware.

@@ -3,12 +3,21 @@ title: "AWS Distributed KV Caching Reduces LLM Inference Cost and Latency by 40%
 date: 2026-11-21
 description: "Amazon Web Services introduces a distributed KV caching agent skill for self-hosted LLM deployments, achieving 40% cost reduction and improved latency for inference workloads through intelligent memory management."
 tags:
-  - daily-digest
-  - memory-optimization
-  - inference-optimization
   - cost-reduction
+  - cost-saving
+  - daily-digest
+  - distributed-kv-caching
+  - inference-optimization
+  - inference-speed
+  - kv-caching
+  - memory-optimization
   - open-source
-status: draft
+  - release
+  - self-hosting
+mentions:
+  - name: "Amazon Web Services"
+    role: "publisher"
+status: published
 ---
 
 AWS has released a distributed KV caching optimization technique for self-hosted LLM inference that delivers substantial performance and cost improvements. By intelligently managing key-value cache distribution across compute resources, the approach reduces inference costs by 40% while simultaneously decreasing latency—a rare optimization that improves both metrics simultaneously. This addresses one of the primary bottlenecks in local and self-hosted LLM deployments, where memory bandwidth and storage often constrain throughput.

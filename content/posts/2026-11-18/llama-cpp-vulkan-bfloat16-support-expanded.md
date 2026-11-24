@@ -3,12 +3,19 @@ title: "llama.cpp Expands Vulkan bfloat16 Support for Accelerated Inference"
 date: 2026-11-18
 description: "The latest llama.cpp release adds comprehensive bfloat16 support across Vulkan operations and CPU operations, improving inference performance and reducing memory footprint for mixed-precision local deployments."
 tags:
+  - consumer-gpu
+  - cpu-only
   - daily-digest
-  - llama-cpp
-  - quantisation
-  - open-source
+  - gpu-acceleration
   - hardware
-status: draft
+  - inference-speed
+  - llama-cpp
+  - memory-bandwidth
+  - mixed-precision
+  - open-source
+  - quantisation
+  - release
+status: published
 ---
 
 This update represents meaningful progress in enabling efficient inference across diverse hardware. bfloat16 (brain float 16) is a lower-precision format that maintains numerical stability better than standard FP16 while still reducing memory and compute requirements compared to FP32. By expanding support across both Vulkan GPU operations and CPU operations, llama.cpp makes mixed-precision inference more practical.

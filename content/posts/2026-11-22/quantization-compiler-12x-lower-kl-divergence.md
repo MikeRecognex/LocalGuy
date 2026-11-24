@@ -3,11 +3,19 @@ title: "Advanced Quantization Compiler Achieves 12× Lower KL Divergence at Q4 S
 date: 2026-11-22
 description: "New quantization research demonstrates significant quality improvements over standard Q4_K_M quantization, achieving 12× lower KL divergence while maintaining the same model size."
 tags:
+  - analysis
+  - consumer-gpu
   - daily-digest
-  - quantisation
   - llama-cpp
+  - memory-efficiency
   - memory-optimization
-status: draft
+  - model-quality
+  - model-quantization
+  - quantisation
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 This breakthrough in quantization research directly addresses the core trade-off in local LLM deployment: maintaining model quality while reducing memory and compute requirements. Achieving 12× lower Kullback-Leibler divergence compared to the standard Q4_K_M quantization method—a widely-used baseline in the llama.cpp ecosystem—represents a substantial quality improvement without increasing model size.

@@ -3,12 +3,22 @@ title: "OpenEye Brings Ollama-Style Deployment to Vision Models with MCP Support
 date: 2026-11-18
 description: "OpenEye extends the Ollama simplicity model to vision tasks including YOLO, SAM 2, and depth estimation, adding Model Context Protocol server support for integration with local AI agents."
 tags:
+  - agent-orchestration
+  - agents
+  - computer-vision
   - daily-digest
+  - mcp
+  - model-context-protocol
+  - multimodal-deployment
   - ollama
   - open-source
-  - agents
-  - mcp
-status: draft
+  - openeye
+  - release
+  - sam-2
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 OpenEye addresses a real gap in the local AI ecosystem: while Ollama simplified LLM deployment dramatically, vision models have remained fragmented across different frameworks and interfaces. By providing an Ollama-compatible interface for YOLO (object detection), SAM 2 (segmentation), and depth estimation models, OpenEye makes multimodal local deployments accessible to practitioners who value simplicity.

@@ -4,10 +4,17 @@ date: 2026-11-23
 description: "A comprehensive guide to understanding GGUF format and the quantization process for deploying models locally. This practical tutorial walks through the 12-step quantization workflow essential for optimizing models for edge inference."
 tags:
   - daily-digest
+  - edge-device
+  - edge-inference
   - gguf
-  - quantisation
+  - gguf-format
+  - llama-cpp
+  - model-quantization
+  - ollama
   - open-source
-status: draft
+  - quantisation
+  - tutorial
+status: published
 ---
 
 GGUF (GGLM Unified Format) has become the standard format for distributing quantized LLMs optimized for local inference. This guide breaks down the quantization process into 12 actionable steps, making it accessible for practitioners looking to convert and optimize their own models for edge deployment.

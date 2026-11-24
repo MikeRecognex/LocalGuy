@@ -3,12 +3,17 @@ title: "vLLM v0.34.0 Adds Extensible KV Cache and Support for 10 New Models"
 date: 2026-11-18
 description: "vLLM's latest release enables dynamic KV cache sizing based on actual free memory and adds support for Mistral Large, MiniMax, and other models optimized for local deployment scenarios."
 tags:
-  - daily-digest
-  - vllm
-  - memory-optimization
   - context-window
+  - daily-digest
+  - inference-serving
+  - kv-cache
+  - memory-management
+  - memory-optimization
+  - minimax-m3-1-flash
   - open-source
-status: draft
+  - release
+  - vllm
+status: published
 ---
 
 The extensible KV cache feature represents a significant usability improvement for local deployments. By dynamically sizing the cache based on actual available memory after model warmup, vLLM reduces the guesswork in configuration and allows practitioners to fit larger context windows or batch sizes on their available hardware. This adaptive approach means the same deployment code can work efficiently across machines with different memory configurations.

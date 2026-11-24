@@ -3,12 +3,18 @@ title: "Single Environment Variable Delivers 21% Speed Improvement in llama.cpp"
 date: 2026-11-19
 description: "A simple configuration fix using huge memory pages accelerates llama.cpp inference by up to 21%, demonstrating substantial performance gains available through OS-level optimization."
 tags:
+  - analysis
+  - cpu-only
   - daily-digest
+  - inference-speed
   - llama-cpp
   - memory-optimization
-  - performance-tuning
   - open-source
-status: draft
+  - performance-tuning
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 This discovery highlights how OS-level memory management directly impacts local LLM inference performance. By enabling huge pages (2MB or 1GB memory pages instead of standard 4KB pages), memory access patterns improve significantly—fewer TLB misses mean the CPU spends less time translating virtual addresses and more time computing. At just one environment variable to enable, this is one of the highest-impact performance tuning opportunities for llama.cpp users.

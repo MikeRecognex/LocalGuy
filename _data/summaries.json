@@ -1103,6 +1103,34 @@
     "2026-11-17": {
       "text": "Llama.cpp hits 1.0.0 with a stable API, while Ollama 0.40.17 adds Vulkan GPU and mmap support.",
       "postCount": 5
+    },
+    "2026-11-18": {
+      "text": "Enabling huge pages slashed llama.cpp inference time 21% while vLLM 0.34 adds dynamic KV cache for Mistral Large.",
+      "postCount": 5
+    },
+    "2026-11-19": {
+      "text": "Microsoft launches Aion 1.0 Instruct, a 2.3B on‑device Windows SLM, while vLLM 0.34 adds extensible KV cache.",
+      "postCount": 5
+    },
+    "2026-11-20": {
+      "text": "LittleBit’s latent‑factorization quantization cuts model size to ultra‑low bits, enabling on‑device AI.",
+      "postCount": 5
+    },
+    "2026-11-21": {
+      "text": "AWS adds distributed KV caching, cutting LLM inference cost and latency by 40%.",
+      "postCount": 5
+    },
+    "2026-11-22": {
+      "text": "Ollama 0.40.17 runs Thinking Machines' Inkling 2 Mini 26B locally, while vLLM and llama.cpp lead multi‑user benchmarks.",
+      "postCount": 5
+    },
+    "2026-11-23": {
+      "text": "NVIDIA launches RTX Spark PCs in India with up to 128 GB unified memory, boosting on‑device LLM inference.",
+      "postCount": 5
+    },
+    "2026-11-24": {
+      "text": "Ollama v0.40.18 adds Metal‑optimized Inkling 2 support, boosting Apple Silicon inference speed.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1267,7 +1295,11 @@
       "postCount": 35
     },
     "2026-11-16": {
-      "text": "<p>The release of llama.cpp 1.0.0, with a 55% speed boost on RTX 3090 via speculative decoding, dominated the week, alongside Ollama 0.40.17’s Vulkan GPU enhancements and vLLM 0.34.0’s extensible KV cache supporting Mistral Large 4.</p><p>Don’t miss the benchmark guide “Best Local AI Models for 24GB VRAM and 24GB Macs Tested and Benchmarked” and the “Efficient Frontier of LLM Inference” deep‑dive.</p>",
+      "text": "<p>Key stories: llama.cpp v1.0.0’s 55% RTX 3090 speed boost, vLLM 0.34.0’s extensible KV cache with ten new models, Microsoft Aion 1.0 Instruct 2.3B for Windows, and Ollama 0.40.17 adding Inkling 2 Mini 26B.</p><p>Read “Best Local AI Models for 24GB VRAM and Macs”, the “Spirux Benchmark: 22 Local LLMs vs Qwen 3.8”, and “One Env Variable Gives llama.cpp 21% Speedup”.</p>",
+      "postCount": 35
+    },
+    "2026-11-23": {
+      "text": "<p>NVIDIA unveiled RTX Spark laptops with up to 128 GB unified memory, llama.cpp b12651 added WebGPU ROLL support, and a new quantization compiler cut KL divergence 12× at unchanged size.</p>\n<p>Top reads: the GGUF 12‑step quantization guide, Ollama v0.40.18’s Inkling 2 Metal boost, and ZeroBurn’s 98% token‑burn reduction.</p>",
       "postCount": 10
     }
   }

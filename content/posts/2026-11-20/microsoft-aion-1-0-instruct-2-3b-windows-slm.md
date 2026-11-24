@@ -3,11 +3,23 @@ title: "Microsoft Releases Aion 1.0 Instruct: 2.3B On-Device Windows SLM"
 date: 2026-11-20
 description: "Microsoft's Aion 1.0 Instruct is a 2.3B small language model optimized for on-device deployment on Windows PCs, designed for latency-sensitive applications requiring local processing without cloud dependencies."
 tags:
+  - aion-1-0-instruct
+  - consumer-gpu
   - daily-digest
-  - open-source
+  - data-residency
   - edge-inference
+  - inference-speed
+  - llama-cpp
+  - ollama
+  - open-source
+  - privacy-compliance
+  - release
+  - small-language-models
   - small-models
-status: draft
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 Microsoft's Aion 1.0 Instruct represents a strategic push toward practical on-device AI for Windows ecosystems, delivering a 2.3B parameter model explicitly optimized for low-latency local inference. With the proliferation of Copilot+ PCs and enterprise Windows deployments, Microsoft is positioning local SLMs as the foundation for latency-critical, privacy-preserving AI features that cannot depend on cloud round-trips.

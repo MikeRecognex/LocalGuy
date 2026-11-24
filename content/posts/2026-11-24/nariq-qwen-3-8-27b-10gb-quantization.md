@@ -3,11 +3,23 @@ title: "NariQ: BF16-Level Qwen 3.8 27B Compressed to 10GB GGUF"
 date: 2026-11-24
 description: "New quantization approach achieves BF16-equivalent quality Qwen 3.8 27B in just 10GB, enabling viable deployment on memory-constrained systems."
 tags:
+  - apple-silicon
+  - consumer-gpu
   - daily-digest
-  - quantisation
   - gguf
+  - gguf-format
+  - llama-cpp
+  - model-compression
+  - model-quantization
+  - nariq
   - open-source
-status: draft
+  - quantisation
+  - qwen-3-8-27b
+  - release
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 NariQ's quantization of Qwen 3.8 27B to 10GB while maintaining BF16-level quality represents a major efficiency milestone in model compression. Getting a 27-billion parameter model under 10GB—suitable for many consumer GPUs and Apple Silicon configurations—while preserving the quality characteristics of the full-precision version significantly expands the hardware where this capable model can run.

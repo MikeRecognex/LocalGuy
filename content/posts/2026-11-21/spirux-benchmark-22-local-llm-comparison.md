@@ -3,12 +3,20 @@ title: "Comprehensive Benchmark of 22 Local LLMs: Testing Open-Weight Model Perf
 date: 2026-11-21
 description: "Detailed benchmarking analysis comparing 22 open-weight LLMs suitable for local deployment, evaluating performance, speed, and characteristics to help practitioners select optimal models for their use cases."
 tags:
-  - daily-digest
   - benchmark
-  - open-source
-  - model-evaluation
+  - benchmark-report
+  - daily-digest
   - inference-optimization
-status: draft
+  - inference-speed
+  - model-benchmarking
+  - model-comparison
+  - model-evaluation
+  - open-source
+  - qwen-3-8-35b
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 A comprehensive benchmarking effort has tested 22 open-weight LLMs available for local deployment, providing empirical data on model performance, inference speed, and practical characteristics. This kind of large-scale comparison is invaluable for practitioners trying to navigate the rapidly expanding landscape of deployable models, particularly in analyzing the tradeoffs between model size, capability, and hardware requirements. The benchmark includes analysis of various parameter counts and architectures to help identify which models deliver optimal performance-per-token for different hardware configurations.

@@ -3,12 +3,22 @@ title: "Ollama v0.40.17 Adds Vulkan mmap and Concurrent MLX Support"
 date: 2026-11-20
 description: "Ollama 0.40.17 introduces mmap optimization for Vulkan integrated GPUs and concurrent generation support for MLX backend, improving inference efficiency on integrated graphics and Apple Silicon."
 tags:
+  - amd
+  - apple-silicon
+  - concurrent-inference
+  - consumer-gpu
   - daily-digest
+  - inference-optimization
+  - memory-management
+  - mlx
   - ollama
   - open-source
-  - apple-silicon
-  - amd
-status: draft
+  - release
+  - vulkan
+mentions:
+  - name: "GitHub"
+    role: "publisher"
+status: published
 ---
 
 Ollama's latest release addresses performance optimization across two key hardware platforms: integrated GPUs via Vulkan and Apple Silicon via MLX. The addition of memory-mapped (mmap) support for Vulkan integrated GPUs enables more efficient memory access patterns, reducing latency and improving throughput on devices where VRAM is shared with system RAM—critical for laptops and consumer desktops running local inference.

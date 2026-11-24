@@ -3,11 +3,16 @@ title: "Ling-3.2-air Achieves Day-0 vLLM Support for Optimized Local Inference"
 date: 2026-11-24
 description: "A new model variant achieves immediate vLLM compatibility, enabling efficient local deployment with optimized inference frameworks from day one."
 tags:
+  - continuous-batching
   - daily-digest
-  - vllm
-  - open-source
   - inference-optimization
-status: draft
+  - ling-3-2-air
+  - local-deployment
+  - news
+  - open-source
+  - paged-attention
+  - vllm
+status: published
 ---
 
 The Ling-3.2-air model has achieved day-zero vLLM support, a significant milestone for practitioners looking to deploy models locally with maximum efficiency. This means the model is immediately compatible with vLLM's optimized inference engine, eliminating the typical integration lag that often delays local deployment of new models.

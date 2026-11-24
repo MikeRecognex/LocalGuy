@@ -3,11 +3,17 @@ title: "Llama.cpp Release b12651: WebGPU ROLL Support"
 date: 2026-11-23
 description: "Latest llama.cpp build adds ROLL instruction support for WebGPU, expanding GPU acceleration capabilities for in-browser and local LLM inference. This release continues the rapid pace of infrastructure improvements for edge deployment."
 tags:
+  - apple-silicon
+  - browser-inference
+  - consumer-gpu
   - daily-digest
+  - edge-inference
   - llama-cpp
-  - webgpu
   - open-source
-status: draft
+  - release
+  - webgpu
+  - webgpu-acceleration
+status: published
 ---
 
 The llama.cpp project continues its aggressive development cycle with build b12651, introducing ROLL instruction support for WebGPU backend. ROLL operations are fundamental for optimizing shader-based computation, enabling more efficient tensor operations across browser-based and local GPU implementations.

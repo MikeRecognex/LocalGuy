@@ -3,11 +3,17 @@ title: "NVIDIA RTX Spark Laptops and Desktops Launched in India with Up to 128GB
 date: 2026-11-23
 description: "NVIDIA releases RTX Spark computing systems with unified memory up to 128GB, specifically designed for on-device AI workloads. This hardware advancement provides practitioners with powerful local deployment platforms for LLM inference and fine-tuning."
 tags:
-  - daily-digest
-  - nvidia
-  - hardware
   - apple-silicon
-status: draft
+  - consumer-gpu
+  - daily-digest
+  - hardware
+  - hardware-acceleration
+  - nvidia
+  - on-device-inference
+  - release
+  - rtx-spark
+  - unified-memory
+status: published
 ---
 
 NVIDIA's new RTX Spark product line marks a significant hardware development for local LLM deployment. With configurations offering up to 128GB of unified memory across CPUs and GPUs, these systems provide the computational headroom necessary for running large models efficiently on consumer-grade machines without cloud dependencies.

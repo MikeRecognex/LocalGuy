@@ -3,12 +3,21 @@ title: "Building a Private AI Document Assistant on an 8GB GPU Using RAG and lla
 date: 2026-11-18
 description: "A practical guide demonstrating how to build a fully private document AI assistant on modest hardware using RAG techniques and llama.cpp, showing real-world local deployment optimization."
 tags:
+  - consumer-gpu
   - daily-digest
+  - inference-optimization
   - llama-cpp
-  - rag
+  - memory-efficiency
   - memory-optimization
   - open-source
-status: draft
+  - quantization
+  - rag
+  - rag-pipeline
+  - tutorial
+mentions:
+  - name: "HackerNoon"
+    role: "publisher"
+status: published
 ---
 
 This guide addresses a critical pain point for local LLM practitioners: deploying capable AI systems on consumer-grade hardware. The 8GB GPU constraint is realistic for many users, and the RAG (Retrieval-Augmented Generation) approach enables document-aware applications without requiring full model fine-tuning or massive VRAM allocations.

@@ -3,11 +3,20 @@ title: "Spirux Benchmark: 22 Local LLMs Tested—A Search for Qwen 3.8 Alternati
 date: 2026-11-20
 description: "Comprehensive benchmark testing 22 open-source LLMs for local deployment, evaluating performance characteristics and identifying viable alternatives following Qwen 3.8's unexpected release gap."
 tags:
-  - daily-digest
   - benchmark
+  - benchmark-report
+  - daily-digest
   - gguf
+  - gguf-quantization
+  - inference-optimization
+  - llm-benchmarking
   - open-source
-status: draft
+  - qwen-3-8
+  - spirux-benchmark
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 The Spirux benchmark provides critical real-world performance data for 22 open-source models optimized for local inference, filling a practical gap in the community's decision-making process. With Qwen 3.8 at 35B parameters not released as expected, practitioners needed alternative benchmarks to identify which models best balance performance, memory footprint, and latency for their specific hardware constraints.

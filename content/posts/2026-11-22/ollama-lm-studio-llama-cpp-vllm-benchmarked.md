@@ -3,12 +3,18 @@ title: "Serving a Local LLM to Several Users: Ollama, LM Studio, llama.cpp and v
 date: 2026-11-22
 description: "Comprehensive benchmark comparing four major local LLM serving frameworks to help practitioners choose the right tool for multi-user deployments on consumer hardware."
 tags:
-  - daily-digest
-  - ollama
-  - llama-cpp
-  - vllm
   - benchmark
-status: draft
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - inference-frameworks
+  - llama-cpp
+  - lm-studio
+  - multi-user-serving
+  - ollama
+  - performance-benchmarking
+  - vllm
+status: published
 ---
 
 This benchmark directly addresses one of the most practical challenges facing local LLM deployments: how to efficiently serve multiple concurrent users on self-hosted infrastructure. The comparison of Ollama, LM Studio, llama.cpp, and vLLM provides empirical data on throughput, latency, memory consumption, and resource utilization across these four dominant frameworks.

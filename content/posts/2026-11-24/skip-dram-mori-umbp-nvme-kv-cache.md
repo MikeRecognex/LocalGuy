@@ -3,12 +3,21 @@ title: "Skip the DRAM Tier: MoRI UMBP Runs Agentic KV Cache on NVMe"
 date: 2026-11-24
 description: "New memory optimization technique enables KV cache storage on NVMe instead of DRAM, dramatically reducing memory requirements for agentic workloads on local hardware."
 tags:
-  - daily-digest
-  - memory-optimization
+  - agentic-ai
   - agents
-  - vllm
+  - analysis
+  - consumer-gpu
+  - daily-digest
   - inference-optimization
-status: draft
+  - kv-cache-optimization
+  - memory-optimization
+  - memory-tiering
+  - mori-umbp
+  - vllm
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 A breakthrough in memory management for local LLM inference has emerged: the MoRI UMBP technique enables KV cache—typically the most memory-intensive component of agentic workloads—to be spilled to NVMe storage rather than occupying precious DRAM. This fundamentally changes the hardware requirements for running agentic LLMs locally.

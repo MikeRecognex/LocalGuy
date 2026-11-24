@@ -3,12 +3,18 @@ title: "Inkling 2 Mini Performance on Mac: Ollama Setup and Qwen 3.8 27B Compari
 date: 2026-11-24
 description: "Detailed benchmarking and setup guide for running Inkling 2 Mini on Apple Silicon with Ollama, including comparative analysis against Qwen 3.8 27B."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
   - benchmark
+  - benchmark-report
+  - daily-digest
+  - deployment-guide
+  - inkling-2-mini
   - mlx
-status: draft
+  - model-benchmarking
+  - model-comparison
+  - ollama
+  - qwen-3-8-27b
+status: published
 ---
 
 Practical guidance on deploying Inkling 2 Mini on Apple Silicon Macs using Ollama has emerged, providing clear requirements, setup procedures, and performance comparisons against competing models like Qwen 3.8 27B. This addresses a key pain point for Mac users seeking to understand what hardware capabilities are needed and how different models compare on their actual target platforms.

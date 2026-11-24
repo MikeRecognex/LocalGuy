@@ -3,11 +3,19 @@ title: "Quantization Compiler Achieves 12× Lower KL Divergence at Same Model Si
 date: 2026-11-23
 description: "A novel quantization approach delivers dramatically improved model quality compared to Q4_K_M while maintaining identical file sizes. This breakthrough in quantization efficiency has major implications for local LLM deployment trade-offs."
 tags:
-  - daily-digest
-  - quantisation
   - benchmark
+  - daily-digest
+  - edge-device
+  - model-compression
+  - model-quality
+  - model-quantization
+  - news
   - open-source
-status: draft
+  - quantisation
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 A new quantization compiler has demonstrated a significant breakthrough: achieving 12× lower KL divergence than the widely-used Q4_K_M quantization scheme while keeping model file sizes identical. KL divergence measures how much quantized model outputs diverge from the original full-precision model, making this a substantial quality improvement for the same storage footprint.

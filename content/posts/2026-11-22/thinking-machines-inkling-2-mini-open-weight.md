@@ -3,11 +3,24 @@ title: "Thinking Machines Releases Open-Weight Inkling 2 Mini Model"
 date: 2026-11-22
 description: "Thinking Machines announces Inkling 2 Mini, a 26B open-weight model with architectural innovations enabling efficient local deployment on consumer hardware with strong benchmark performance."
 tags:
-  - daily-digest
-  - open-source
   - apple-silicon
+  - benchmarking
+  - consumer-gpu
+  - daily-digest
+  - efficient-inference
   - gguf
-status: draft
+  - inkling-2-mini
+  - model-architecture
+  - ollama
+  - open-source
+  - open-weights
+  - release
+mentions:
+  - name: "Thinking Machines"
+    role: "publisher"
+  - name: "Online Tech Tips"
+    role: "publisher"
+status: published
 ---
 
 Inkling 2 Mini represents an important milestone in open-weight model development: a capability-competitive model explicitly designed for local deployment constraints. With 26B total parameters but only 5.4B active, the model uses looped layers—a relatively novel architectural pattern—to deliver more computation per token than its size suggests. This approach strikes at the fundamental challenge of local inference: delivering strong reasoning and instruction-following without exceeding consumer hardware memory budgets.

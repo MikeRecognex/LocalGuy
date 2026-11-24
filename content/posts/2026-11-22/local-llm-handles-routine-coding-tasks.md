@@ -3,10 +3,19 @@ title: "Using Local LLM and OpenCode for Routine Coding, Reserving Claude for Co
 date: 2026-11-22
 description: "Practical workflow demonstrating how local LLMs can efficiently handle 80% of routine coding tasks, reserving expensive cloud-based models for genuinely difficult problems."
 tags:
-  - daily-digest
   - agents
+  - analysis
+  - claude
+  - code-generation
+  - cost-saving
+  - daily-digest
+  - hybrid-workflow
   - open-source
-status: draft
+  - opencode
+mentions:
+  - name: "Google News"
+    role: "publisher"
+status: published
 ---
 
 This workflow pattern emerging from practitioners highlights a fundamental economic and practical shift in AI-augmented development. By using local LLMs (via OpenCode) for the majority of routine coding tasks—boilerplate, refactoring, simple implementations—developers can reserve expensive cloud API calls for genuinely difficult or novel problems requiring frontier model capabilities. This stratified approach optimizes both cost and latency.

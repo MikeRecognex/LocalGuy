@@ -3,12 +3,25 @@ title: "Inkling 2 Mini: Efficient Open-Weight Model for Local Deployment"
 date: 2026-11-21
 description: "Thinking Machines releases Inkling 2 Mini, a 26B parameter model with only 5.4B active parameters through looped layers, designed to run efficiently on consumer hardware like Mac Studio with ~20GB memory while supporting multimodal capabilities and tool use."
 tags:
-  - daily-digest
-  - open-source
-  - model-release
   - apple-silicon
+  - consumer-gpu
+  - daily-digest
+  - inkling-2-mini
+  - iterative-reasoning
+  - llama-cpp
   - memory-optimization
-status: draft
+  - model-architecture
+  - model-release
+  - multimodal-llm
+  - ollama
+  - open-source
+  - release
+  - thinking-machines
+  - tool-calling
+mentions:
+  - name: "Thinking Machines"
+    role: "creator"
+status: published
 ---
 
 Thinking Machines has released Inkling 2 Mini, a compact open-weight model optimized for local inference that challenges the typical size-to-capability tradeoff. With 26B total parameters but only 5.4B active through innovative looped layer architecture, it achieves strong performance while fitting comfortably on consumer hardware around 20GB memory consumption. The model scores 79.2% on SWE-Bench V2, demonstrating that efficient architectural choices can compete with much larger models.

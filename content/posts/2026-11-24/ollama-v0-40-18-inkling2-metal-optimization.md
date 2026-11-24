@@ -3,12 +3,18 @@ title: "Ollama v0.40.18: Inkling 2 Metal Optimization and Performance Improvemen
 date: 2026-11-24
 description: "Latest Ollama release brings significant Metal backend optimizations for Inkling 2, plus vLLM-inspired architecture improvements for faster inference on Apple Silicon."
 tags:
-  - daily-digest
-  - ollama
   - apple-silicon
-  - mlx
+  - daily-digest
   - inference-optimization
-status: draft
+  - inference-speed
+  - inkling-2
+  - metal-optimization
+  - mlx
+  - ollama
+  - release
+  - speculative-decoding
+  - vllm
+status: published
 ---
 
 Ollama's v0.40.18 release ships substantial performance improvements for Apple Silicon users, with new Inkling 2-specific Metal kernels that accelerate decode, prefill, and speculative decoding phases. These optimizations are hand-tuned for Apple's GPU architecture and include gated implementations for different GPU generations and model size classes, ensuring efficient utilization across the Mac product line.
