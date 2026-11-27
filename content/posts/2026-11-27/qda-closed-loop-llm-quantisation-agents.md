@@ -3,12 +3,23 @@ title: "QDA: Closed-Loop LLM Quantization Design with Agents"
 date: 2026-11-27
 description: "MIT researchers have released QDA, an agent-based system for automated LLM quantization design that optimizes model compression through closed-loop feedback, improving efficiency of local model deployment."
 tags:
-  - daily-digest
-  - quantisation
-  - open-source
+  - agentic-optimization
   - agents
+  - automated-quantization
+  - daily-digest
   - memory-optimization
-status: draft
+  - mit
+  - model-compression
+  - open-source
+  - qda
+  - quantisation
+  - release
+mentions:
+  - name: "MIT"
+    role: "creator"
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 QDA represents a significant breakthrough in automated quantization—the process of reducing model precision to decrease memory and computational requirements. By employing agent-based design with closed-loop optimization, the system automatically discovers optimal quantization strategies for specific hardware targets and use cases, eliminating the manual experimentation previously required for effective model compression.

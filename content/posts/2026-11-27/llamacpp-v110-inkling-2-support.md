@@ -4,11 +4,19 @@ date: 2026-11-27
 description: "Llama.cpp v1.1.0 introduces support for the Inkling 2 model family (base, Mini, and DSpark variants), improved speculative decoding, and significant audio/TTS capabilities for enhanced on-device inference workflows."
 tags:
   - daily-digest
+  - edge-device
+  - edge-inference
+  - gguf
+  - inkling-2
   - llama-cpp
   - open-source
+  - release
   - speculative-decoding
-  - gguf
-status: draft
+  - voice-synthesis
+mentions:
+  - name: "GitHub"
+    role: "publisher"
+status: published
 ---
 
 Llama.cpp v1.1.0 represents a major update to the leading GGUF inference engine, adding full support for the Inkling 2 model family including the efficiency-focused Mini and DSpark variants. The release also refactors speculative decoding into separate draft methods, improving both flexibility and performance for token prediction acceleration—a critical optimization for reducing latency in local deployments.

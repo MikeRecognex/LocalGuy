@@ -3,11 +3,25 @@ title: "PrismML Local Coding Model Reaches 75.6 on SWE-bench Verified"
 date: 2026-11-27
 description: "PrismML's local AI coding model has significantly improved from 60.8 to 75.6 on SWE-bench Verified while maintaining the same model size, demonstrating substantial gains in code generation capability for on-device development tools."
 tags:
-  - daily-digest
-  - fine-tuning
-  - open-source
   - agents
-status: draft
+  - benchmark-report
+  - benchmarking
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - edge-device
+  - fine-tuning
+  - local-coding-model
+  - model-optimization
+  - open-source
+  - prismml
+  - swe-bench-verified
+mentions:
+  - name: "PrismML"
+    role: "developer"
+  - name: "Tech Times"
+    role: "publisher"
+status: published
 ---
 
 PrismML has achieved a remarkable 23% improvement in its local coding model's performance on SWE-bench Verified (60.8 to 75.6), maintaining model size efficiency while dramatically improving code generation and software engineering capabilities. This performance leap demonstrates that fine-tuning and optimization techniques can deliver production-ready code models for local deployment without requiring larger, more resource-intensive architectures.

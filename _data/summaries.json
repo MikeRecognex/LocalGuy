@@ -1131,6 +1131,18 @@
     "2026-11-24": {
       "text": "Ollama v0.40.18 adds Metal‑optimized Inkling 2 support, boosting Apple Silicon inference speed.",
       "postCount": 5
+    },
+    "2026-11-25": {
+      "text": "Google DeepMind's open‑source gBench lets developers benchmark open LLMs for local deployment decisions.",
+      "postCount": 5
+    },
+    "2026-11-26": {
+      "text": "Fast-silicon shows Apple Silicon GPU and Neural Engine delivering up to 11x faster batch inference versus MLX.",
+      "postCount": 5
+    },
+    "2026-11-27": {
+      "text": "Hugging Face launches public AMD benchmark dashboard for llama.cpp, detailing Ryzen and Radeon inference performance.",
+      "postCount": 5
     }
   },
   "weekly": {
@@ -1299,8 +1311,8 @@
       "postCount": 35
     },
     "2026-11-23": {
-      "text": "<p>NVIDIA unveiled RTX Spark laptops with up to 128 GB unified memory, llama.cpp b12651 added WebGPU ROLL support, and a new quantization compiler cut KL divergence 12× at unchanged size.</p>\n<p>Top reads: the GGUF 12‑step quantization guide, Ollama v0.40.18’s Inkling 2 Metal boost, and ZeroBurn’s 98% token‑burn reduction.</p>",
-      "postCount": 10
+      "text": "<p>This week llama.cpp v1.1.0 shipped Inkling 2 family support and WebGPU ROLL instructions, NVIDIA unveiled RTX Spark laptops with up to 128 GB unified memory, and Google DeepMind open‑sourced the gBench evaluation framework for open LLMs.</p><p>Don’t miss the GGUF quantization guide, PrismML’s Bonsai 2.5 27B compressed to 5.9 GB, and ZeroBurn’s 98 % token‑burn reduction using local Ollama.</p>",
+      "postCount": 25
     }
   }
 }

@@ -3,11 +3,17 @@ title: "Google Updates Tensor SDK for On-Device AI Development"
 date: 2026-11-26
 description: "Google announces updates to its Tensor SDK, advancing the developer tools and APIs for building on-device AI applications across Android and edge devices with improved performance and new capabilities."
 tags:
-  - daily-digest
-  - open-source
-  - edge-inference
   - android
-status: draft
+  - daily-digest
+  - developer-tools
+  - edge-device
+  - edge-inference
+  - inference-optimization
+  - model-quantization
+  - open-source
+  - release
+  - tensor-sdk
+status: published
 ---
 
 Google's Tensor SDK updates represent the company's continued investment in on-device AI infrastructure, recognizing that the future of practical AI deployment involves models running directly on consumer hardware rather than relying on cloud round-trips. The SDK improvements likely focus on reducing latency, cutting bandwidth requirements, and enabling sophisticated AI features without compromising user privacy.

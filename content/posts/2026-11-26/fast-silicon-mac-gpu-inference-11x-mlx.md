@@ -3,12 +3,20 @@ title: "Skip Cloud GPUs: Batch ML Locally on Mac GPU and Neural Engine Up to 11x
 date: 2026-11-26
 description: "fast-silicon enables batch machine learning inference on Apple Silicon's GPU and Neural Engine, achieving up to 11x speedups over MLX for local ML workloads and eliminating the need for cloud GPU resources."
 tags:
-  - daily-digest
   - apple-silicon
-  - mlx
-  - memory-optimization
+  - batch-inference
   - benchmark
-status: draft
+  - daily-digest
+  - fast-silicon
+  - hardware-acceleration
+  - inference-speed
+  - memory-optimization
+  - mlx
+  - showcase
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 fast-silicon addresses a critical pain point for Apple Silicon users: unlocking the full potential of the Neural Engine alongside GPU resources for batch inference workloads. By achieving 11x speedups compared to MLX on equivalent hardware, the project demonstrates that intelligent utilization of Apple's specialized silicon can rival or exceed general-purpose GPU approaches while consuming less power and thermal output.

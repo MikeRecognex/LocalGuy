@@ -3,12 +3,18 @@ title: "Llama.cpp AMD Benchmark Dashboard Now Public"
 date: 2026-11-27
 description: "Hugging Face has released a public benchmark dashboard for llama.cpp showing performance metrics across AMD Ryzen and Radeon hardware, enabling developers to optimize local LLM inference on AMD platforms."
 tags:
-  - daily-digest
-  - llama-cpp
-  - benchmark
   - amd
+  - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - cpu-only
+  - daily-digest
+  - hardware-benchmarking
+  - inference-optimization
+  - llama-cpp
+  - model-quantization
   - open-source
-status: draft
+status: published
 ---
 
 The llama.cpp project has launched a public benchmark dashboard specifically for AMD hardware, providing developers with detailed performance metrics for running LLMs on AMD Ryzen CPUs and Radeon GPUs. This resource addresses a critical gap in the local inference ecosystem, as AMD hardware represents a significant cost-effective alternative to NVIDIA GPUs for on-device deployment.

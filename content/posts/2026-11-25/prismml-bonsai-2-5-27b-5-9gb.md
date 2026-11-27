@@ -3,12 +3,26 @@ title: "PrismML's Bonsai 2.5 Achieves 27B Model in 5.9GB with Improved Coding Pe
 date: 2026-11-25
 description: "PrismML releases Bonsai 2.5, compressing a 27-billion parameter model into just 5.9GB while maintaining strong coding and tool-use capabilities. This represents a significant breakthrough in making capable models practical for consumer devices with limited storage and memory."
 tags:
-  - daily-digest
-  - quantisation
-  - open-source
+  - agentic-ai
   - agents
+  - bonsai-2-5
+  - code-generation
+  - consumer-gpu
+  - daily-digest
+  - edge-device
   - memory-optimization
-status: draft
+  - model-compression
+  - open-source
+  - prismml
+  - quantisation
+  - quantization
+  - release
+mentions:
+  - name: "PrismML"
+    role: "developer"
+  - name: "BigGo Finance"
+    role: "publisher"
+status: published
 ---
 
 PrismML has released Bonsai 2.5, demonstrating that highly capable 27B-class models can run efficiently on consumer hardware. The model fits within just 5.9GB while improving performance on coding tasks and tool use compared to its predecessor—critical capabilities for agentic local AI workloads. This achievement shows that aggressive quantisation techniques can maintain functional parity with larger, uncompressed models.

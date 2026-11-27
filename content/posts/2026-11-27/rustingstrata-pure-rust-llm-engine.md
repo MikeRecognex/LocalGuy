@@ -3,12 +3,22 @@ title: "RustingStrata: Pure Rust GGUF Engine Runs Models Larger Than VRAM"
 date: 2026-11-27
 description: "RustingStrata is a new pure Rust implementation of a GGUF inference engine supporting CUDA and Vulkan, enabling efficient inference of models exceeding available VRAM through intelligent memory management."
 tags:
+  - consumer-gpu
+  - cross-platform-inference
   - daily-digest
+  - edge-device
   - gguf
-  - open-source
+  - gguf-inference
+  - memory-management
   - memory-optimization
+  - open-source
+  - release
+  - rustingstrata
   - vulkan
-status: draft
+mentions:
+  - name: "Hacker News"
+    role: "publisher"
+status: published
 ---
 
 RustingStrata introduces a novel approach to local LLM inference by implementing a pure Rust GGUF engine with CUDA and Vulkan backend support, solving a critical constraint: running models larger than available VRAM. This addresses one of the most common deployment bottlenecks for developers working with limited GPU memory or heterogeneous hardware environments.

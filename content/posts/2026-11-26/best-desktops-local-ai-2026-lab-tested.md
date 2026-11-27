@@ -3,12 +3,21 @@ title: "Best Desktops for Local AI in 2026: Lab-Tested Leaderboard"
 date: 2026-11-26
 description: "StorageReview publishes a comprehensive lab-tested leaderboard of desktop systems optimized for running local AI models, providing practitioners with hardware recommendations and benchmarks for different deployment scenarios."
 tags:
-  - daily-digest
-  - hardware
-  - benchmark
-  - nvidia
   - amd
-status: draft
+  - benchmark
+  - benchmark-report
+  - consumer-gpu
+  - daily-digest
+  - datacenter-gpu
+  - hardware
+  - hardware-benchmarks
+  - hardware-selection
+  - nvidia
+  - vram-requirements
+mentions:
+  - name: "StorageReview"
+    role: "publisher"
+status: published
 ---
 
 StorageReview's 2026 desktop leaderboard fills a critical gap by providing real-world benchmarking data for local LLM deployment across various hardware configurations. Rather than relying on vendor claims or synthetic tests, this lab-tested approach gives practitioners concrete performance metrics for decision-making when building or upgrading workstations for local inference tasks.

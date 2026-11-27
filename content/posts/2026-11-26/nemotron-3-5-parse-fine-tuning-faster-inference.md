@@ -5,10 +5,15 @@ description: "NVIDIA releases open data and tools for fine-tuning Nemotron 3.5 P
 tags:
   - daily-digest
   - fine-tuning
-  - open-source
+  - inference-optimization
+  - model-fine-tuning
+  - nemotron-3-5-parse
   - nvidia
+  - open-source
   - quantisation
-status: draft
+  - release
+  - structured-data-extraction
+status: published
 ---
 
 NVIDIA's Nemotron 3.5 Parse release with open fine-tuning data represents a shift toward providing practical, production-ready models specifically designed for structured data extraction and parsing tasks. Rather than releasing only base models, NVIDIA accompanies this with training data, methodology, and inference optimization guidance—the full stack needed for practitioners to adapt these models to domain-specific requirements.

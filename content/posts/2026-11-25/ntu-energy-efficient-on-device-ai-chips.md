@@ -3,11 +3,22 @@ title: "NTU Develops Energy-Efficient Chips Optimized for On-Device AI Inference
 date: 2026-11-25
 description: "National Taiwan University has developed specialized chips designed for efficient on-device AI execution, reducing power consumption for edge inference. This hardware advancement targets the growing market for practical local LLM deployment."
 tags:
-  - daily-digest
-  - hardware
   - apple-silicon
+  - custom-asic
+  - custom-silicon
+  - daily-digest
+  - edge-device
+  - edge-inference
   - energy-efficiency
-status: draft
+  - hardware
+  - national-taiwan-university
+  - news
+mentions:
+  - name: "National Taiwan University"
+    role: "developer"
+  - name: "Taiwan News"
+    role: "publisher"
+status: published
 ---
 
 As on-device AI continues to mature beyond research curiosity, purpose-built hardware becomes increasingly important. NTU's work on energy-efficient chips represents the hardware industry catching up to the demand for practical inference at the edge. Rather than relying on general-purpose GPUs or CPUs, specialized silicon can deliver order-of-magnitude improvements in both performance-per-watt and performance-per-dollar for the specific workloads of LLM inference.

@@ -3,12 +3,19 @@ title: "llama.cpp v1.1.0 Adds Inkling 2 Family and Enhanced Audio Support"
 date: 2026-11-26
 description: "llama.cpp v1.1.0 introduces support for the Inkling 2 family of models optimized for local inference, plus new speculative decoding methods and extensive TTS/audio capabilities for on-device deployment."
 tags:
+  - apple-silicon
+  - consumer-gpu
   - daily-digest
+  - edge-device
+  - inference-optimization
+  - inkling-2
   - llama-cpp
   - open-source
   - quantisation
-  - apple-silicon
-status: draft
+  - release
+  - speculative-decoding
+  - voice-synthesis
+status: published
 ---
 
 llama.cpp v1.1.0 marks a significant milestone for local LLM deployment with native support for the Inkling 2 family, including base, Mini, and DSpark variants designed specifically for resource-constrained environments. The release also introduces Domyn Edge 4B, Zaya1 8B, RAON-1-mini, and Hy4 Flash models, expanding the toolkit for practitioners targeting different hardware capabilities from edge devices to consumer laptops.
